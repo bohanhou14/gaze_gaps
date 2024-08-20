@@ -26,6 +26,8 @@ ensuring compliance with the established legal standards set forth in the cases 
 
 
 **Label:** 
+
+
 ***Meta-Llama-3-8B-Instruct:***
   In examining the case, we find that the Social Security Administration's determination that no
 disability existed on the last day of coverage, June 30, 1966, is not supported by the evidence.
@@ -47,6 +49,8 @@ decision on the reopened claim.
 
 
 **Label:** 
+
+
 **citations:** ['514 F.2d 561', '527 F.2d 224']
 
 ***short_citations_0:*** 514 F.2d 561
