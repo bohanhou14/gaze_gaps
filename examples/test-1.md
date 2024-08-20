@@ -24,6 +24,8 @@ Consequently, we remand the case to the Secretary for a substantive review of th
 ensuring compliance with the established legal standards set forth in the cases of 514 F.2d 561 and
 527 F.2d 224.
 
+
+**Label:** 
 ***Meta-Llama-3-8B-Instruct:***
   In examining the case, we find that the Social Security Administration's determination that no
 disability existed on the last day of coverage, June 30, 1966, is not supported by the evidence.
@@ -43,6 +45,8 @@ request to reopen because of error on the record. We also note that the claimant
 the 1968 claim is timely, and we will consider this request in conjunction with the Secretary's
 decision on the reopened claim.
 
+
+**Label:** 
 **citations:** ['514 F.2d 561', '527 F.2d 224']
 
 ***short_citations_0:*** 514 F.2d 561

@@ -46,8 +46,10 @@ if __name__ == "__main__":
             f.write("**Generations:**\n\n")
             f.write("\n***GPT-4o:***\n")
             f.write(wrap_text(gpt4o_generation[0]) + "\n\n") 
+            f.write("\n**Label:** \n")
             f.write("***Meta-Llama-3-8B-Instruct:***\n")
             f.write(wrap_text(llama3_generation[0]) + "\n\n")
+            f.write("\n**Label:** \n")
             f.write("**citations:** " + wrap_text(str(citations)) + "\n\n")
             for idx, cite in enumerate(short_citations):
                 f.write(f"***short_citations_{idx}:*** " + cite + "\n\n")
