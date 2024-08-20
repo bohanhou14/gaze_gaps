@@ -9,6 +9,8 @@ the doctrine of res judicata, supports the view expressed by this court in Coult
 527 F.2d 224, 228 (3d Cir. 1975):
 
 **Generations:**
+
+
 ***GPT-4o:***
 In the context of reopening Miss Fowler’s 1968 claim, relevant precedent supports such a measure due
 to administrative errors. Specifically, in 514 F.2d 561, the court allowed reopening where evidence
@@ -140,13 +142,14 @@ consider the effect of the 1968 claim. The 1974 application would not be timely 
 the original claim because it was filed more than twelve months after the closed disability period
 terminated in 1970. The claimant, however, asked that the 1974 claim be considered as one requesting
 a reopening of the original application filed on her behalf some six years earlier.
-citations: ['514 F.2d 561', '527 F.2d 224']
 
-***short_citations 0:***514 F.2d 561
+**citations:** ['514 F.2d 561', '527 F.2d 224']
+
+***short_citations_0:*** 514 F.2d 561
 
 judicial review of the August 1, 1967, final determination necessarily bars judicial review of the Appeals Council’s decisions. Mrs. Lauritzen filed a third application for reinstatement of disability benefits on December 8, 1971. In that application, she contended that she had been continuously disabled since 1964. The application was denied and then referred, on Mrs. Lauritzen’s request, to an administrative law judge for decision. He stated that he assumed the matter had been referred to him pursuant to 20 C.F.R. § 404.957(c)(8). That section pro vides that an initial, revised or reconsidered determination may be reopened at any time when [s]uch initial * * * determination * * * is unfavorable, in whole or in part, to the party thereto but only for the purpose of correcting clerical error or error on the face of the evidence on which such determination * * * was based. (Emphasis added.) The Social Security Claims Manual defines error on the face of the evidence as follows: * * * An error on the face of the evidence exists where, on the basis of all the evidence in the file on which the determination or decision was based and any evidence of record anywhere in the Administration at the time such determination or decision was made, it is clear that the determination or decision was incorrect. * * * A determination or decision which was reasonable on the basis of the evidence in the file and the statute, regulations, instructions, precedents, etc., existing at
 
-***short_citations 1:***527 F.2d 224
+***short_citations_1:*** 527 F.2d 224
 
 part provide: “An initial, revised, or reconsidered determination of the Administration or a decision or ¿Wised decision of an hearing examiner or of the Appeals Council which is otherwise final . . . may be reopened: ****** (c) At any time when: ****** (8) Such initial, revised, or reconsidered determination or decision or revised decision is unfavorable, in whole or in part, to the party thereto but only for the purpose of correcting clerical error or error on the face of the evidence on which such determination or decision was based.” 20 C.F.R. § 404.957. Our review of the record reveals such error as would require a reopening of the 1968 claim under the standard set by the regulations. The hearing officers’ pre-occupation with the claimant’s earnings record in 1962 led to a failure to consider all of the applicable regulations and to overlook a number of other significant factors which would have a bearing on the correct adjudication of the claim. Because of the error of the Social Security Administration in 1959, there was no determination at that time as to whether Coulter was disabled. If a finding of disability had been made, Coulter would have become eligible for payment of benefits in 1960 when the Act was amended to eliminate the age requirement. It seems unlikely that he would have secured any employment thereafter in view of his testimony that he worked in 1961 and 1962 only out of dire need despite his pain, disability and need for
 
