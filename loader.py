@@ -48,11 +48,11 @@ if __name__ == "__main__":
             f.write(wrap_text(gpt4o_generation[0]) + "\n\n") 
             f.write("***Meta-Llama-3-8B-Instruct:***\n")
             f.write(wrap_text(llama3_generation[0]) + "\n\n")
-            f.write("**prev_text:**\n")
-            f.write(wrap_text(prev_text) + "\n\n")
             f.write("**citations:** " + wrap_text(str(citations)) + "\n\n")
             for idx, cite in enumerate(short_citations):
                 f.write(f"***short_citations_{idx}:*** " + cite + "\n\n")
+            f.write("**prev_text:**\n")
+            f.write(wrap_text(prev_text) + "\n\n")
             f.write("\n")
             f.close()
         idx += 1
