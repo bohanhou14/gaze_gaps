@@ -30,19 +30,17 @@ You are tasked to classify categories of gaps between machine-generated and huma
 
 * ***Structural Mismatch***: the generation appears to generate the document from scratch (like containing words such as "ORDER" which only appear in the beginning).
 
-* ***Misattribution***: the generation appears to use citation from the previous contexts instead of citations that it is supposed to use.
-
 
 
 **Extrinsic Gaps**
 
 * Citation Content Mismatch: 
 
-    * Claim Hallucination: the claim supported by the citation is not truthful or not related to the context.
+    * Claim Hallucination: the claim supported by the citation is not truthful or not related to the context or from cited paragraphs or the previous context.
 
     * Retrieval Inaccuracy: the claims supported by the citation is not relevant because the cited paragraph looks irrelevant compared to the target paragraph. If retrieval inaccuracy is labeled, there is no need to label claim hallucination.
 
-    * Citation Hallucination: the citation is non-existent or pulled from a citation in the cited paragraphs.
+    * Citation Hallucination: the citation is non-existent or pulled from a citation in the cited paragraphs or the previous context.
 
     * Entity Hallucination: the entities associated with the citations are not truthful or are non-existent.
 
