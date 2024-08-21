@@ -20,49 +20,33 @@ You are tasked to classify categories of gaps between machine-generated and huma
 
 **Extrinsic Gaps**: extrinsic gaps, as its name suggests, can be discovered by comparing the generation with external texts, i.e. the cited paragraphs or the target paragraph that can be seen as the "answer". Extrinsic gaps contain two kinds: citation content mismatch and target mismatch. Target mismatch does not indicate that the generated legal analysis is necessarily wrong.
 
-**Gaps Categories**
+**Annotation Instructions**
+In the following order, you should consider:
+1. The relationship between the generated text and the previous context.
+2. The relationship between the generated text and the target text
+3. The relationship between the generated text and the citations that it points to.
 
-**Intrinsic gaps**:
+This will entail labeling for:
 
-* ***Redundancy*** (1): the generation appears to make repetitive statements that do not add more meaning to the analysis.
+1. Intrinsic error/LLM error: The language model has fundamentally failed to follow the instruction. Some causes might be that
+    - it repeats itself several times
+    - it responds as if in a chat environment
+    - it contradicts something from earlier in the context
+    - the generated text does not look like legal text
 
-* ***Citation Format Mismatch*** (2): the generation appears not matching with the citation format of the standard Bluebook.
+    or simply that the text it generates does not seem like a plausible continuation of the immediately preceding context. If this type of error is **present**, add the label `1` and move on to the next example. If it is **not present**, continue to item (2).
 
-* ***Structural Mismatch*** (3): the generation appears to generate the document from scratch (like containing words such as "ORDER" which only appear in the beginning).
+1. Target Mismatch: The language model's generated text may not be obviously wrong, but it makes substantively different claims from the target text (i.e. the original text from the case). This could be because
+    - the citations are grouped in a different way from the target
+    - the generated text makes different and possibly (although not necessarily) contradictory claims about one or more citations from those made in the target text
 
-* ***Stylistic Mismatch*** (10): contain sentences that do not match the styles of legalese.
+    If this type of mismatch is **present** add the label `2` and continue to item (3). If it is **not present**, add the label `0` and move on to the next example.
 
+3. Citation Error: The language model's generated text does not align with the content of the citation it points to. This might be because
+   - the generated text attributes information from one citation to a different citation
+   - the generated text fails to use one of the citations that were given to it
+   - one of the retrieved contains no relevant information about the case
 
-**Extrinsic Gaps**
+    If this type of error is **present**, add the label `3` and move on to the next example.
 
-* Citation Content Mismatch: 
-
-    * Claim Hallucination (4): the claim supported by the citation is not truthful or not related to the context or from cited paragraphs or the previous context.
-
-    * Retrieval Inaccuracy (5): the claims supported by the citation is not relevant because the cited paragraph looks irrelevant compared to the target paragraph. If retrieval inaccuracy is labeled, there is no need to label claim hallucination for that gap. Only label 4 if there are some other parts than the part that causes 5.
-
-    * Citation Hallucination (6): the citation is non-existent or pulled from a citation in the cited paragraphs or the previous context, or there misses a citation.
-
-* Target Mismatch
-
-    * Relation Mismatch: 
-
-        * Chain Cite (7): the citations appear in a chain cite but the generation cites them parallely, or the other way around.
-
-        * Reverse Cite (8): the citations reverse the ruling in each other but the generation cites them parallely, or the other way around.
-
-        * Compound Cite (9): the citations of different cases are cited together, separated by semicolons, or the other way around.
-
-* No gaps (0)
-
-* Other/Undefined (11)
-
-**Instructions to Annotators**
-
-Note that an example may have several categories of gaps, so annotate each example as many as possible.
-
-Please annotate the number corresponding each error category after "Label: ".
-
-**Examples**
-
-Please see test-9.md, test-7.md, test-15.md as some representative examples.
+Note that where an example falls into multiple categories (typically both 2 and 3), you should include both labels, separated by a comma.
