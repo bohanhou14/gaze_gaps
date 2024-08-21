@@ -33,7 +33,7 @@ possibility of amendment under established bankruptcy laws and supporting preced
 
 
 **Label:** 
-
+7
 
 ***Meta-Llama-3-8B-Instruct:***
   In the case of Westinghouse Electric Supply Company vs. Beattie, the company filed a petition to
@@ -59,7 +59,7 @@ court's decision is in line with the reference cases 21 F.2d 182 and 20 F.2d 84.
 
 
 **Label:** 
-
+7
 
 ***Meta-Llama-3-8B-Instruct-finetuned:***
   The same rule applies where a creditor attempts to amend his claim after the expiration of the
@@ -86,7 +86,7 @@ Kessler, supra, said: “Courts of
 
 
 **Label:** 
-
+1, 6
 
 **citations:** ['21 F.2d 182', '20 F.2d 84']
 

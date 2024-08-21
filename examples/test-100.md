@@ -35,7 +35,7 @@ action stands. Hence, the petition for review is denied.
 
 
 **Label:** 
-
+4
 
 ***Meta-Llama-3-8B-Instruct:***
  The FCC's Order requires all IVPs to provide E911 access within 120 days, which has been challenged
@@ -63,7 +63,7 @@ Telecommunications, Inc.; Lingo, Inc.; and i2 Telecom International, Inc. (colle
 
 
 **Label:** 
-
+7
 
 ***Meta-Llama-3-8B-Instruct-finetuned:***
   . This is the standard of review under the Administrative Procedure Act (APA), 5 U.S.C. §
@@ -88,7 +88,7 @@ agency actions that are not subject to judicial
 
 
 **Label:** 
-
+1
 
 **citations:** ['457 F.3d 42', '332 U.S. 194']
 

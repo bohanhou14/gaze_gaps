@@ -34,7 +34,7 @@ Anderson '125 patent lacks the necessary inventive step for patentability.
 
 
 **Label:** 
-
+5
 
 ***Meta-Llama-3-8B-Instruct:***
  In the context of patent infringement, the concept of obviousness is crucial in determining the
@@ -62,7 +62,7 @@ find any unusual or surprising consequences from the unification of the elements
 
 
 **Label:** 
-
+4, 5
 
 ***Meta-Llama-3-8B-Instruct-finetuned:***
   The Lebocey patent, 219 F.2d 952 (C.C.A. 7, 1955), illustrates the importance of the mechanical
@@ -88,7 +88,7 @@ we are not concerned with a mechanical step in the same sense, but the principle
 
 
 **Label:** 
-
+5, 1
 
 **citations:** ['219 F.2d 952', '219 F.2d 952', '106 F.2d 554']
 
