@@ -38,7 +38,8 @@ if __name__ == "__main__":
         # breakpoint()
         gpt4o_generation = [gen["generation"] for gen in gpt4o_generations if gen["docid"] == docid]
         llama3_generation = [gen["generation"] for gen in llama3_generations if gen["docid"] == docid]
-        if len(gpt4o_generation) == 0 or len(llama3_generation) == 0:
+        llama3ft_generation = [gen["generation"] for gen in llama3ft_generations if gen["docid"] == docid]
+        if len(gpt4o_generation) == 0 or len(llama3_generation) == 0 or len(llama3ft_generation) == 0:
             idx += 1
             continue
         
@@ -51,6 +52,9 @@ if __name__ == "__main__":
             f.write("\n**Label:** \n\n")
             f.write("\n***Meta-Llama-3-8B-Instruct:***\n")
             f.write(wrap_text(llama3_generation[0]) + "\n\n")
+            f.write("\n**Label:** \n\n")
+            f.write("\n***Meta-Llama-3-8B-Instruct-finetuned:***\n")
+            f.write(wrap_text(llama3ft_generation[0]) + "\n\n")
             f.write("\n**Label:** \n\n")
             f.write("\n**citations:** " + wrap_text(str(citations)) + "\n\n")
             for i, cite in enumerate(short_citations):
