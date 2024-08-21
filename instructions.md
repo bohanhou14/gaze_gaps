@@ -24,5 +24,14 @@ You are tasked to classify categories of gaps between machine-generated and huma
 
 * ***Stylistic Mismatch***: the generation appears not matching with the citation style of the standard Bluebook.
 
-* ***Structural Mismatch***: the generation appears
+* ***Structural Mismatch***: the generation appears to generate the document from scratch (like containing words such as "ORDER" which only appear in the beginning).
+
+* ***Misattribution***: the generation appears to use citation from the previous contexts instead of citations that it is supposed to use.
+
+**Extrinsic Gaps**
+* Citation Content Mismatch
+* Target Mismatch
+* * Relation Mismatch
+* * Claim Style Mismatch
+* * Citation Style Mismatch
 
