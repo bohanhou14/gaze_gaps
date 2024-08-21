@@ -12,6 +12,10 @@ You are tasked to classify categories of gaps between machine-generated and huma
 
 **cited_paragraphs**: In addition to the previous context, we also feed in the other paragraphs that are supposed to be cited in this generation.
 
+**citation**: citation refers to the special string which points to a legal case, with style and format specified by the Bluebook.
+
+**claim**: the sentence which is supported by the citation, i.e. the case referred to. Claim usually appears in the vicinity of the citation.
+
 **Intrinsic Gaps**: The presence of instrinsic gaps signals that the machine-generated legal analysis is an unacceptable form. We can tell instrinsic gaps exist by _only_ looking at the previous context and the generation itself.
 
 **Extrinsic Gaps**: Extrinsic gaps, as its name suggests, can be discovered by comparing the generation with external texts, i.e. the cited paragraphs or the target paragraph that can be seen as the "answer". Extrinsic gaps contain two kinds: citation content mismatch and target mismatch. Target mismatch does not indicate that the generated legal analysis is necessarily wrong.
@@ -22,16 +26,34 @@ You are tasked to classify categories of gaps between machine-generated and huma
 
 * ***Redundancy***: the generation appears to make repetitive statements that do not add more meaning to the analysis.
 
-* ***Stylistic Mismatch***: the generation appears not matching with the citation style of the standard Bluebook.
+* ***Citation Format Mismatch***: the generation appears not matching with the citation format of the standard Bluebook.
 
 * ***Structural Mismatch***: the generation appears to generate the document from scratch (like containing words such as "ORDER" which only appear in the beginning).
 
 * ***Misattribution***: the generation appears to use citation from the previous contexts instead of citations that it is supposed to use.
 
+
+
 **Extrinsic Gaps**
-* Citation Content Mismatch
+
+* Citation Content Mismatch: 
+
+    * Claim Hallucination: the claim supported by the citation is not truthful or not related to the context.
+
+    * Citation Hallucination: the citation is non-existent or pulled from a citation in the cited paragraphs.
+
+    * Entity Hallucination: the entities associated with the citations are not truthful or are non-existent.
+
 * Target Mismatch
-    * Relation Mismatch
-    * Claim Style Mismatch
-    * Citation Style Mismatch
+
+    * Relation Mismatch: 
+
+        * Chain cite: the citations appear in a chain cite but the generation cites them parallely, or the other way around.
+
+        * Reverse cite: the citations reverse the ruling in each other but the generation cites them parallely, or the other way around.
+
+        * Compound cite: the citations of different cases are cited together, separated by semicolons, or the other way around.
+
+    * Citation Style Mismatch: the citations are cited in a different style in the target than the generation. Examples include citations should be cited together, separated by semicolons, but the generation elaborates each one with a claim from the case referred to.
+
 
