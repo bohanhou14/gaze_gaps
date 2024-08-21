@@ -20,9 +20,9 @@ You are tasked to classify categories of gaps between machine-generated and huma
 
 **Intrinsic gaps**:
 
-\t***Redundancy***: the generation appears to make repetitive statements that do not add more meaning to the analysis.
+* ***Redundancy***: the generation appears to make repetitive statements that do not add more meaning to the analysis.
 
-\t***Stylistic Mismatch***: the generation appears not matching with the citation style of the standard Bluebook.
+* ***Stylistic Mismatch***: the generation appears not matching with the citation style of the standard Bluebook.
 
-\t***Structural Mismatch***: the generation appears
+* ***Structural Mismatch***: the generation appears
 
