@@ -55,7 +55,7 @@ entitled to the payment of interest on Claim # 13, and the applicable interest r
 as stated in 11 U.S.C. Section 502(b)(2).
 
 
-**Label:** 
+**Label:** 6, 7
 
 
 ***Meta-Llama-3-8B-Instruct-finetuned:***
@@ -83,7 +83,7 @@ Bankruptcy Court must determine the interest rate and the amount owed by the deb
 The Bank
 
 
-**Label:** 
+**Label:** 6, 7
 
 
 **citations:** ['440 U.S. 48', '114 B.R. 326', '117 B.R. 15']

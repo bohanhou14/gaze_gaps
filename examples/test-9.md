@@ -31,7 +31,7 @@ were adverse to her or included rigorous procedural enforcement does not establi
 partiality warranting disqualification.
 
 
-**Label:** 
+**Label:** 0
 
 
 ***Meta-Llama-3-8B-Instruct:***
@@ -57,7 +57,7 @@ on the judge's impartiality and lack of personal bias, and is consistent with th
 courts.  References:  261 F.3d 1075 384 U.S. 563
 
 
-**Label:** 
+**Label:** 6, 
 
 
 ***Meta-Llama-3-8B-Instruct-finetuned:***
@@ -85,7 +85,7 @@ understanding of the Local Rules and the requirements of the Florida Bar. The Re
 denied for the same reason that the Emergency Motion was denied. See In re Walker, Case No. 03-321
 
 
-**Label:** 
+**Label:** 1
 
 
 **citations:** ['261 F.3d 1075', '384 U.S. 563']

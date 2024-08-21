@@ -30,6 +30,8 @@ You are tasked to classify categories of gaps between machine-generated and huma
 
 * ***Structural Mismatch*** (3): the generation appears to generate the document from scratch (like containing words such as "ORDER" which only appear in the beginning).
 
+* ***Stylistic Mismatch*** (10): contain sentences that do not match the styles of legalese.
+
 
 
 **Extrinsic Gaps**
@@ -51,8 +53,6 @@ You are tasked to classify categories of gaps between machine-generated and huma
         * Reverse Cite (8): the citations reverse the ruling in each other but the generation cites them parallely, or the other way around.
 
         * Compound Cite (9): the citations of different cases are cited together, separated by semicolons, or the other way around.
-
-    * Citation Style Mismatch (10): the citations are cited in a different style in the target than the generation. Examples include citations should be cited together, separated by semicolons, but the generation elaborates each one with a claim from the case referred to.
 
 * No gaps (0)
 
