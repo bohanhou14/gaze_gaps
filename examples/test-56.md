@@ -1,142 +1,270 @@
 **gold_text:**
-The amendment to Rule 25(a) (1) was intended to dispel unwarranted rigidity and allow more
-flexibility in substitution. “It was intended that liberal effect be given to the 1963 amendment.”
-Roscoe v. Roscoe, 126 U.S.App.D.C. 317, 322, 379 F.2d 94, 99 (1967). “[T]he 90 day period was not
-intended to act as a bar to otherwise meritorious actions.” Staggers v. Otto Gerdau Co., 359 F.2d
-292, 296 (2d Cir. 1966).
+Swenson requests attorney’s fees under the Equal Access to Justice Act, 28 U.S.C. § 2412 (1982 &
+Supp. IV 1986). It allows prevailing plaintiffs in these cases to recover fees “unless the court
+finds that the position of the United States was substantially justified_” 28 U.S.C. §
+2412(d)(1)(A); Hammock v. Bowen, 867 F.2d 1209, 1216 (9th Cir.1989). Swenson prevailed on the
+merits. See, e.g., Gregory v. Bowen, 844 F.2d 664, 667 (9th Cir.1988). Whether the Secretary’s
+position was substantially justified will be determined by the district court. Pierce v. Underwood,
+— U.S. —, 108 S.Ct. 2541, 2547, 101 L.Ed.2d 490 (1988); Hammock, 867 F.2d at 1216. We remand to that
+court to determine that matter.
 
 **Generations:**
 
 
 ***GPT-4o:***
-This stringent interpretation contrasts sharply with the intent of the 1963 amendments to Rule 25
-and Rule 6(b), which aimed to inject flexibility and fairness into the substitution process. As
-noted in 379 F.2d 94 and 359 F.2d 292, the amendments were designed to eliminate the inequities and
-hardships caused by the rigid two-year limitation originally imposed. The Advisory Committee
-emphasized that the revised rules were to be liberally construed to allow courts discretion in
-extending the substitution period, recognizing the difficulties that could arise in promptly
-identifying and notifying the proper representative of the deceased.   Given this context, the
-defendant’s counsel's suggestion of death, which lacked identification of a proper representative,
-failed to initiate the 90-day countdown. This interpretation aligns with the judicial precedent that
-courts should prioritize the equitable administration of justice over strict procedural formalities.
-Thus, the district court erred in dismissing the plaintiffs' action without granting the requested
-extension, especially considering the circumstances that inhibited timely substitution, such as the
-injury to plaintiffs' counsel and the ongoing legal processes in the probate court.  We, therefore,
-reverse the judgment and remand for further proceedings consistent with this opinion, ensuring that
-the substitution process adheres to the flexible and just principles intended by the amendments to
-the Federal Rules of Civil Procedure.
+Mrs. Swenson also requests an award of attorney’s fees under the Equal Access to Justice Act (EAJA),
+28 U.S.C. § 2412(d). According to precedent, obtaining a remand for reconsideration is insufficient
+to qualify as a prevailing party for the purposes of the EAJA (867 F.2d 1209; 28 U.S.C. § 2412 et
+seq.). However, we find that the Secretary’s position was not substantially justified, given the
+failure to specify reasons for discounting Swenson’s symptom testimony and the inconsistencies in
+the vocational expert’s evidence. This aligns with the district court's requirement to determine
+justification under 867 F.2d 1209 (Pierce v. Underwood). Therefore, the district court should
+consider awarding attorney’s fees (844 F.2d 664; REVERSED and REMANDED).  We reverse the district
+court's judgment and remand for payment of benefits and a determination on attorney’s fees
+consistent with our findings.
 
 
 **Label:** 
 
 
 ***Meta-Llama-3-8B-Instruct:***
-  In the context of Rule 25(a) (1) of the Federal Rules of Civil Procedure, the suggestion of death
-is a crucial step in the process of substituting a deceased party with a proper representative.
-However, not all suggestions of death are created equal. In cases where the suggestion of death is
-made by a party's attorney, but fails to identify a successor or representative of the deceased, the
-90-day period for substitution may not be triggered.  As noted in 359 F.2d 292, the Advisory
-Committee on Civil Rules intended to provide a more flexible standard for substitution, allowing for
-extensions of time and dispensing with the rigid two-year period previously in place. However, this
-flexibility is contingent upon the suggestion of death providing sufficient information to permit
-the court to proceed with substitution.  In the present case, the suggestion of death made by the
-defendant's attorney was deficient in that it failed to identify a successor or representative of
-the deceased. This lack of specificity rendered the suggestion ineffective in triggering the 90-day
-period for substitution, as explained in 379 F.2d 94.  Furthermore, the court's discretion to
-enlarge the time period for substitution, as provided by Rule 6(b), is not a blank check. Rather, it
-is intended to be exercised in a judicious and reasonable manner, taking into account the particular
-circumstances of each case.  In light of these principles, we conclude that the district court erred
-in dismissing the action with prejudice. The case should be remanded for further proceedings,
-allowing the parties to properly substitute a representative of the deceased and continue the action
-in a manner consistent with the Federal Rules of Civil Procedure.
+  In the reference case 867 F.2d 1209, the court ruled that the Secretary's failure to specify
+reasons for discounting a claimant's testimony of disabling fatigue was legal error. Similarly, in
+the reference case 844 F.2d 664, the court held that the Secretary's reliance on vocational expert
+testimony that conflicted with the Medical Vocational Guidelines was error.  In the case at hand,
+the Secretary's decision to deny benefits to the claimant is based on the vocational expert's
+testimony that the claimant could perform a substantial number of jobs despite his non-exertional
+limitations. However, this testimony conflicts with the Medical Vocational Guidelines, which would
+require a finding of disability. Therefore, the Secretary's decision is not supported by substantial
+evidence.  Furthermore, the Secretary failed to specify reasons for discounting the claimant's
+testimony of disabling fatigue. This is an error that has been consistently held by the courts,
+including in the reference case 867 F.2d 1209.  In light of these errors, we conclude that the
+Secretary's decision to deny benefits to the claimant is not supported by substantial evidence and
+is thus reversed. The claimant is entitled to benefits, and the case is remanded for payment of
+benefits.  The court has discretion to award attorney's fees in cases where the Secretary's decision
+is reversed. In this case, the claimant has prevailed and is entitled to attorney's fees. The amount
+of attorney's fees will be determined by the court.
 
 
 **Label:** 
 
 
-**citations:** ['379 F.2d 94', '359 F.2d 292']
+**citations:** ['867 F.2d 1209', '844 F.2d 664']
 
-***short_citations_0:*** 379 F.2d 94
+***short_citations_0:*** 867 F.2d 1209
 
-the proper parties. * * * Unless the motion for substitution is made not later than 90 days after the death is suggested upon the record by service of a statement of the fact of the death as provided herein for the service of the motion, the action shall be dismissed as to the deceased party.” Here not only had the 90-day period not expired when the court entered summary judgment, the appellant by her motion for reconsideration had specifically invoked the discretion of the court. Rule 6(b) provides pertinently that when “by these rules * * * an act is required or allowed to be done at or within a specified time, the court for cause shown may at any time in its discretion (1) with or without motion or notice order the period enlarged if request therefor is made before the expiration of the period originally prescribed * * Originally the Rule had precluded an extension of time for taking action under Rule 25(a) (1), but by purposeful amendment, it was sought to relieve against the hardship of the Court’s holding in Anderson v. Yungkau, 329 U.S. 482, 67 S.Ct. 428, 91 L.Ed. 436 (1947). It was intended that liberal effect be given to the 1963 amendment. Graham v. Pennsylvania Railroad, 119 U.S.App.D.C. 335, 342 F.2d 914 (1964), cert. denied, 381 U.S. 904, 85 S.Ct. 1446, 14 L.Ed.2d 286 (1965). We are constrained to reverse for further proceedings not inconsistent with this opinion. Reversed. The only “party” then
+§ 2412 et seq. (1982 & Supp. IV 1986), allows the recovery of attorney’s fees for prevailing plaintiffs in social security dis ability cases. Obtaining a remand for reconsideration of the evidence constitutes an insufficient basis on which to qualify Hammock as the prevailing party for purposes of the Act. Paulson v. Bowen, 836 F.2d 1249, 1252 (9th Cir.1988); Swenson v. Heckler, 801 F.2d 1079, 1080 (9th Cir.1986); see 28 U.S.C. § 2412(d). Even if we determine that Hammock obtained entitlement to significant relief on the merits of her claim, see, e.g., Mantolete v. Bolger, 791 F.2d 784, 786 (9th Cir.1986), no finding has been made that the position of the United States was not substantially justified. This “determination is for the district court to make.” Pierce v. Underwood, — U.S. -, 108 S.Ct. 2541, 2547, 101 L.Ed.2d 490 (1988). Therefore, on remand the district court should determine whether the position of the Secretary was substantially justified. VACATED AND REMANDED. . When discussing the hearing loss the AU did conclude that this impairment, in combination with other impairments, would not be disabling. This is the only instance where the AU considered a partial combination of impairments.
 
-***short_citations_1:*** 359 F.2d 292
+***short_citations_1:*** 844 F.2d 664
 
-insertion of a “reasonable time” standard. In 1963, the Advisory Committee suggested the present rule and noted: “Present Rule 25(a) (1), together with present Rule 6(b), results in an inflexible requirement that an action be dismissed as to a deceased party if substitution is not carried out within a fixed period measured from the time of the death. The hardships and inequities of this unyielding requirement plainly appear from the cases. * * * The amended rulé establishes a time limit for the motion to substitute based not upon the time of the death, but rather upon the time information of the death is provided by means of a suggestion of death upon the record, i. e. service of a statement of the fact of the death.” See Notes of Advisory Committee on the Civil Rules, 28 U.S.C. Rule 25 (1964). Rule 6(b) of the Federal Rules of Civil Procedure was also amended in 1963 and the prohibition against extending the time for taking action under Rule 25 was eliminated. The Advisory Committee on the Civil Rules noted: “It is intended that the court shall have discretion to enlarge that period.” The amendments of Rules 6(b) and 25(a) (1) provided needed flexibility. It was assumed that discretionary extensions would be liberally granted. Movants under Rule 25 can ordinarily control when a death is “suggested upon the record” and appellants’ attorney was under no obligation to file his affidavit of Staggers’ death on the date he did. He could have filed
+to perform gainful employment.” Dr. Deena Stolzberg, in a February 1982 report, concluded that Gregory “appears stabilized in a disability role with both Social Security and Workman’s Compensation benefits” and that “it is highly unlikely that at this time she will pursue any more active vocational goals.” As the administrative law judge recognized, Gregory’s psychological condition continued to deteriorate throughout 1983 and 1984. Upon review of the record taken as a whole, we find that substantial evidence does not support the Secretary’s finding that Gregory was able to work despite her psychological impairments. Nowhere does psychiatric testimony indicate that Gregory was able to return to the type of stressful employment which she had held prior to 1979. The Secretary introduced no evidence indicating that the type of modified work of which Gregory remained psychologically capable “exists in the national economy.” 42 U.S.C.A. § 423(d)(1)(A) (West Supp.1987). We find that the evidence supporting the Secretary’s conclusion was not such “as a reasonable mind might accept as adequate to support a conclusion.” Miller, 770 F.2d at 848. The decision of the Secretary finding that Gregory is not entitled to disability benefits was not supported by substantial evidence. The district court judgment is reversed. The cause is remanded for the entry of a judgment allowing the claim and fixing attorneys’ fees. REVERSED and REMANDED. . Gregory is of "advanced age," see 20 C.F.R. § 404.1563(d) (1987), and has a high-school education, placing her under Rule 201.06 or Rule 201.07. Because of her age,
 
 **prev_text:**
-LEVENTHAL, Circuit Judge: The District Court held that Rule 25(a) (1) of the Federal Rules of Civil
-Procedure required dismissal of the plaintiffs’ tort action because defendant’s counsel had filed a
-suggestion of death of the defendant yet plaintiff had not made any substitution of parties within
-90 days. We reverse on the ground that the suggestion of death, which was neither filed by nor
-identified a successor or representative of the deceased, such as an executor or administrator, was
-ineffective to trigger the running of the 90-day period provided by the Rule. Mr. and Mrs. John
-Rende filed an action in the District Court individually and on behalf of their infant son who had
-been struck and injured by Alfred S. Kay while driving his car. On August 27, 1967, defendant Kay
-died. On September 1, 1967, the defendant’s attorney, a term used here to identify the lawyer who
-had been retained by deceased to defend the action, and who had duly entered an appearance as
-attorney for defendant, filed a suggestion of death in the District Court, giving notice to
-plaintiffs’ attorney. That same day there was filed in the Orphans Court for Montgomery County,
-Maryland, residence of the deceased, his will naming his widow as executrix, but the will had not
-been probated, nor any legal representative appointed for the estate at the time of the filing of
-this appeal. Plaintiffs’ attorney was injured on October 14, 1967. On returning to practice early in
-1968, he learned that no successor to defendant Kay had yet been appointed, and he moved to certify
-the case to the ready calendar. The defendant’s attorney opposed this on grounds that discovery
-procedures had not been completed. The case was delayed and placed on the ready calendar as of June
-7, 1968. However, in April 1968, the defendant’s attorney moved in his own name to dismiss the
-action on the ground that Rule 25(a) (1) required plaintiffs to move to substitute a proper party
-for the deceased within 90 days of the suggestion of death. Plaintiffs filed an opposition and
-motion for substitution of the proper party, and sought an extension of the time for substitution as
-allowed by Rule 6(b). At argument, plaintiffs’ counsel asserted the “suggestion of death was
-defective in that it did not list the name of the proper party; that is the legal representative of
-the defendant.” The court responded: “That would not be his burden.” The court dismissed the action
-with prejudice. Prior to its amendment in 1963, Rule 25(a) (1) required the court to dismiss a case
-if no motion for substitution was filed within two. years after date of death, and no extensions of
-this period were allowed under Rule 6(b). The rule was rigorously applied, often with harsh results,
-and was called “easily the poorest rule of all the Federal Rules.” In 1955 the Advisory Committee on
-Rules for Civil Procedure recommended that the two-year period be changed to a “reasonable time”
-standard. In 1961 the Advisory Committee on Civil Rules again suggested the Rule be made more
-flexible. In 1963 the Supreme Court made changes in Rule 25(a) (1) and in Rule 6(b) so as to provide
-a 90-day time limit from the filing of a suggestion of death, and to give the court discretion to
-extend that time. The Committee Notes explaining the amendments state: Present Rule 25(a) (1),
-together with present Rule 6(b), results in an inflexible requirement that an action be dismissed as
-to a deceased party if substitution is not carried out within a fixed period measured from the time
-of death. The hardships and inequities of this unyielding requirement plainly appear from the cases.
-* * * The amended rule establishes a time limit for the motion to substitute based not upon the time
-of the death, but rather upon the time information of the death is provided by means of a suggestion
-of death upon the record. * * * A motion to substitute may be made by any party or by the
-representative of the deceased party without awaiting the suggestion of death. Indeed, the motion
-will usually be so made. If a party or the representative of the deceased party desires to limit the
-time within which another may make the motion, he may do so by suggesting the death upon the record.
-(Emphasis added.) Under the amended Rule either a party or “the successors or representatives of the
-deceased party” may avoid delay in effecting substitution for the deceased party either by filing a
-motion for substitution or by suggesting death on the record and thus triggering the 90-day period
-which begins with suggestion of death. The Advisory Committee, in outlining that suggestion of death
-could be made by “the representative of the deceased party” plainly contemplated that the suggestion
-emanating from the side of the deceased would identify a representative of the estate, such as an
-executor or administrator, who could be substituted for the deceased as a party, with the action
-continued in the name of the representative. The addition of “successor” in the Rule would take care
-of the case of, say, the distributee of an estate that had been distributed, but would not make a
-material difference in the aspect under consideration. Form 30, for suggestion of death, which was
-provided in order to expedite and facilitate implementation of the amendment, provides: A.B.
-[described as a party, or as executor, administrator, or other representative or successor of C.D.,
-the deceased party\ suggests upon the record, pursuant to Rule 25(a) (1), the death of C.D.
-[describe as party] during the pendency of this action. Added Jan. 21, 1963, eff. July 1, 1963.
-[Emphasis added.] Although the attorney for the defendant was retained to “represent” the deceased
-as his counsel, he is not a person who could be made a party, and is not a “representative of the
-deceased party” in the sense contemplated by Rule 25(a) d). In our opinion the Rule, as amended,
-cannot fairly be construed, as the de fendant’s attorney argues, to make his suggestion of death
-operative to trigger the 90-day period even though he was neither a successor nor representative of
-the deceased, and gave no indication of what person was available to be named in substitution as a
-representative of the deceased. Counsel’s construction would open the door to a tactical maneuver to
-place upon the plaintiff the burden of locating the representative of the estate within 90 days. We
-can conceive of cases wherein even the lawyer retained to represent a defendant might know the
-defendant had died, yet not readily know where his estate would be administered. In the present
-case, plaintiff’s attorney did know the court of probate, but he did not know whether probate of the
-will might be contested, or who would be appointed representative of the estate. The tactic of the
-defendant’s attorney would place on plaintiff the burden, where no conventional representative was
-appointed for the estate in probate court, of instituting machinery in order to produce some
-representative of the estate ad litem, pending appointment of the representative contemplated by law
-of the domicile of the deceased.
+EUGENE A. WRIGHT, Circuit Judge: Donna J. Swenson appeals from the district court’s grant of summary
+judgment for the Secretary of Health and Human Services upholding a denial of the application of her
+deceased husband, Herman W. Swenson, for disability insurance benefits for a period from October 16,
+1979 to April 13, 1983. Following our remand in 1984, the Secretary determined that Swenson became
+disabled on April 13, 1983, his 55th birthday. Mrs. Swenson contends that the Secretary erred: (1)
+by failing to specify reasons for discounting her husband’s testimony that he suffered from
+disabling fatigue beginning in October 1979, (2) by failing to specify reasons for discounting
+testimony of Swenson’s treating physician and two examining psychiatrists that he was disabled
+during the period in dispute, (3) by accepting a vocational expert’s testimony that substantial
+numbers of jobs existed that Swenson could perform, despite the expert’s further testimony that
+Swen-son could not perform as many jobs as could a person deemed disabled under the Medical
+Vocational Guidelines, and (4) by applying the grids mechanically in selecting his 55th birthday as
+the onset date of his disability despite finding no material change in his condition between
+February 1982 and December 1985. We reverse because the Secretary erred in failing to specify
+reasons for discounting Swenson’s testimony of disabling fatigue and for accepting vocational
+testimony inconsistent with the grids. See Varney v. Secretary of Health and Human Services, 846
+F.2d 581, 583 (“Varney I”), aff'd on rehearing, 859 F.2d 1396 (9th Cir.1988) (“Varney II”);
+Desrosiers v. Secretary of Health and Human Services, 846 F.2d 573, 576 (9th Cir.1988). Because
+there was uncontradicted testimony that Swenson would be disabled if his testimony were credited,
+the record is sufficiently developed to warrant remand for payment of benefits for the disputed
+period. See Varney II, 859 F.2d at 1400. FACTUAL BACKGROUND Herman W. Swenson applied for social
+security disability insurance benefits on April 29, 1980. He claimed a disability onset of October
+16, 1979, the date on which he stopped working due to arterio-sclerotic heart disease. At an
+administrative hearing in February 1982, an administrative law judge found that Swenson had a
+seventh grade education, considered a limited education for purposes of applying the Medical
+Vocational Guidelines and that he was semiskilled. Dennis Pollack, a psychologist and vocational
+expert, testified that one with Swen-son’s vocational background and apparent exertional and
+nonexertional limitations could perform hundreds of jobs in the national economy. But if Swenson’s
+energy level were as low as he claimed, there would be no jobs he could perform. Pollack added that
+Swenson’s testimony suggested that he might have organic brain damage. At the ALJ’s direction,
+Pollack made a series of tests following the hearing and recommended further evaluation. The AU
+chose not to order further evaluation. He found that Swenson was unable to return to his work as a
+carpenter. The AU concluded, however, that Swenson was not disabled because the grids did not direct
+a finding of disability, Pollack testified that there were a substantial number of jobs Swenson
+could perform, and the nonexertional limitations Pollack identified in post-hearing tests did not
+significantly reduce the number of jobs Swenson could do. This panel reversed. We noted that the
+AU’s opinion as to available jobs did not constitute substantial evidence, and concluded that (1)
+the AU had failed to develop the record on Swenson’s alleged brain damage, and (2) the vocational
+testimony on which the AU had relied was not based on the totality of Swenson’s nonexertional
+impairments. In December 1985, the AU who presided at the initial hearing conducted a second
+hearing. He issued a recommended decision finding that Swenson became disabled on his 55th birthday,
+April 13, 1983. The Appeals Council adopted that decision with modifications. Swenson appealed the
+Secretary’s denial of his application for disability benefits. The district court adopted the AU’s
+decision as to available jobs, and granted the Secretary’s motion for summary judgment. EVIDENCE OF
+DISABILITY A. Claimant’s Medical History Swenson was 51 in October 1979 when he stopped working due
+to cardiac pain. He had undergone single coronary bypass surgeries in 1973 and 1974, then returned
+to work. In April 1980, he underwent a third surgery to bypass the two grafts and a third artery
+that had become occluded. Swenson’s family has a significant history of heart disease. Both parents
+died of heart trouble, his father at age 55 and his mother at age 39. Of nine brothers and sisters,
+four had died of heart related problems by 1981, and three were living with heart problems. Swenson
+suffered also from organic brain damage probably caused by oxygen deprivation resulting from his
+cardiac condition or triple bypass surgery. He died of cardiac arrest on November 16, 1986. His wife
+was substituted as party plaintiff. B. Claimant’s Testimony of Fatigue At both hearings, Swenson
+testified that he stopped working in October 1979 because he felt cramping pains in his chest and
+pains in his left arm similar to those he had felt during the periods preceding his previous heart
+surgeries. He had dizzy spells, had to lie down at work, and was awakened from sleep by sharp chest
+pains. He did not feel better after his surgery in April 1980. At the February 1982 hearing, he
+testified that on a good day, about once a week, he could walk a few miles, but that on a bad day,
+which he experienced frequently, he could walk only a half mile. On bad days, he would awaken, have
+coffee and lie down. At the 1985 hearing, Swenson testified that he continued to suffer from
+intermittent fatigue, sometimes accompanied by a burning or tightening sensation in his chest,
+particularly when he exerted himself slightly or felt minor stress. He frequently had to lie down
+after such minor chores as walking to the mailbox or scraping snow from his car. He had no hobbies
+or interests other than visiting with his family and neighbors. Previously, he had kept busy with
+work, fishing, hunting, and building things at home. C. Medical Evidence of Fatigue Dr. Hays, the
+treating physician and a general practitioner, reported in 1980 that Swenson suffered from chest
+pains and severe shortness of breath. Having seen Swenson on several occasions through September
+1985, the doctor concluded that Swenson was “completely disabled” due to “chronic fatigue which
+ha[d] existed for years and inability to perform to any extent for a long period of time....” Hays
+added that he was unable to specify actual limitations since he had not performed relevant tests.
+Dr. Stifter, a cardiovascular and internal medicine specialist, and Dr. Johnson, a diagnostician and
+internist, concluded independently that, based on treadmill tests and examinations in September 1980
+and April 1981, Swenson had excellent functional aerobic capacity. Stifter concluded that Swenson
+was capable of engaging in light work that involved lifting up to 25 pounds, although he did not
+comment on Swenson’s complaints of fatigue and depression and that he had lost his notes of
+Swenson’s physical examination. Johnson apparently found the complaints of fatigue credible having
+concluded that Swenson could perform only sedentary work. Psychologists Pollack and Roubus held the
+opinion that Swenson had suffered moderate brain damage. Pollack found in 1982 that Swenson’s
+depression was likely to interfere with his day-to-day functioning. One test showed that Swenson had
+a personality profile that suggested proneness “to somatization of stress.” Roubus found from that
+test and an examination in April 1985 that Swenson demonstrated a moderate level of depression. He
+noted that Swenson’s brain damage had significantly impaired his concentration, memory, and learning
+ability. Dr. Bot, a psychiatrist, reviewed the Pollack and Roubus reports and examined Swenson in
+August 1985. Bot concluded that Swenson suffered from mild, atypical organic brain syndrome,
+compensated well, and did not require treatment. Bot found fatigue, memory loss, and left chest
+pain, but could not say whether they were due to psychological factors. Dr. Green, a psychiatrist,
+testified at the 1985 administrative hearing. He noted that the tests performed by Pollack and
+Roubus, suggesting significant depression, conflicted with Bot’s conclusion that evidence of
+depression was insufficient to support a diagnosis. Green found Bot’s assessments more compelling
+and concluded that any depression was mild and did not interfere significantly with Swenson’s
+ability to work. Green acknowledged that the medical reports were replete with Swen-son’s subjective
+reports of a low energy level, but had no adequate explanation for Swenson’s claimed low energy
+since Swen-son’s good performance on treadmill and cardiovascular tests indicated an absence of
+physical causes. Green further found that Swenson's ability to perform at a consistent pace without
+an unreasonable number and length of rest periods was moderately to markedly impaired. ANALYSIS I.
+Standard of Review We review de novo a grant of summary judgment. Paulson v. Bowen, 836 F.2d 1249,
+1250 (9th Cir.1988). We will affirm the Secretary’s denial of disability benefits if his findings
+are supported by substantial evidence and he applied correct legal standards. Davis v. Heckler, 868
+F.2d 323, 325 (9th Cir.1989); Swanson v. Secretary of Health and Human Services, 763 F.2d 1061, 1064
+(9th Cir.1985). Substantial evidence means “more than a mere scintilla,” Richardson v. Perales, 402
+U.S. 389, 401, 91 S.Ct. 1420, 1427, 28 L.Ed.2d 842 (1971), but “less than a preponderance.”
+Desrosiers v. Secretary of Health and Human Services, 846 F.2d 573, 576 (9th Cir.1988). It means
+“such relevant evidence as a reasonable mind might accept as adequate to support a conclusion.”
+Richardson, 402 U.S. at 401, 91 S.Ct. at 1427. We review the administrative record as a whole.
+Winans v. Bowen, 853 F.2d 643, 644 (9th Cir.1987). II. Burdens To qualify for benefits, a claimant
+must show that a medically determinable physical or mental impairment prevents him from engaging in
+substantial gainful activity and that the impairment is expected to last for a continuous period of
+at least twelve months or result in death. 42 U.S. C. § 423(d)(1)(A) (1982). The claimant carries
+the initial burden of showing that he is disabled. Id. at § 423(d)(5) (1982); Hoffman v. Heckler,
+785 F.2d 1423, 1424 (9th Cir.1986). Where the claimant establishes his inability to do his prior
+work, the burden shifts to the Secretary to show that the claimant can perform other substantial
+gainful work that exists in the national economy. Hoffman, 785 F.2d at 1425. III. Claimant’s
+Testimony of Fatigue Appellant contends that the ALJ erred in deciding that Swenson could perform
+light work between his claimed disability onset date in 1979 when he was 51 and his 55th birthday,
+the onset date accepted by the Secretary. He urges and we agree that the AU erred by failing to
+specify reasons for discounting his testimony as to disabling fatigue. The Secretary need not
+believe a claimant’s testimony of pain or other symptoms if unsupported by objective medical
+findings establishing a medical impairment that reasonably could be expected to produce the claimed
+pain or other symptoms. 42 U.S.C. § 423(d)(5)(A) (1984). If a claimant submits objective medical
+findings of an impairment that would normally produce a given symptom, but testifies that he
+experiences the symptom to a greater degree than would normally be expected, the Secretary may
+disbelieve that but must make specific findings justifying his decision. Varney v. Secretary of
+Health and Human Services, 846 F.2d 581, 583 (“ Varney I”), aff'd on rehearing, 859 F.2d 1396 (9th
+Cir.1988) (“Varney II”); Cotton v. Bowen, 799 F.2d 1403, 1407 (9th Cir.1986) (per curiam). That a
+claimant testifies that his symptom is more disabling than would normally be expected gives no valid
+reason to discount his testimony. See Gamer v. Secretary of Health and Human Services, 815 F.2d
+1275, 1279 (9th Cir.1987); Cotton v. Bowen, 799 F.2d 1403, 1407 (9th Cir.1986). The Secretary’s
+reasons for rejecting excess symptom testimony must be clear and convincing if medical evidence
+establishes an objective basis for some degree of the symptom and no evidence affirmatively suggests
+that the claimant was malingering. See Gallant v. Heckler, 753 F.2d 1450, 1455 (9th Cir,1984). While
+most cases discuss excess pain testimony rather than excess symptom testimony, rules developed to
+assure proper consideration of excess pain apply equally to other medically related symptoms. See
+Sprague v. Bow en, 812 F.2d 1226, 1231 (9th Cir.1987) (regarding testimony of pain and depression).
+The ALJ found in 1982 that Swen-son was credible but “fe[lt] himself more limited than medical
+evidence established] that he [was].” The AU also concluded that Swenson’s “own statement of
+impairments ... do[es] not preclude sedentary or light level work activity” (id.). That conclusion
+was incorrect. Pollack, the only expert to give an opinion of Swenson’s functional ability assuming
+an energy level as low as Swenson claimed, believed that Swenson, if as fatigued as claimed, would
+not be able to engage in any work. Swenson’s testimony of chronic fatigue was supported by
+substantial medical evidence, including the opinion of his treating physician. In addition,
+Pollack’s and Rou-bus’s psychological reports established that Swenson suffered from moderate
+depression probably due to organic brain damage. Both found that Swenson’s depression could
+interfere with his day-to-day functioning. The AU found Swenson credible, and no doctor suggested
+that Swenson was malingering. The Secretary’s failure to specify adequate reasons for rejecting
+Swenson’s testimony of fatigue was legal error and requires reversal. See Varney I, 846 F.2d at 583;
+Sprague, 812 F.2d at 1231. IV. Vocational Expert’s Testimony Reversal is compelled also because we
+reject the vocational expert's testimony as inconsistent with the framework created by the grids.
+The grids are an administrative tool on which the Secretary must rely when considering claimants
+with substantially uniform levels of impairment. Burkhart v. Bowen, 856 F.2d 1335, 1340 (9th
+Cir.1988). When a claimant’s nonexertional limitations significantly limit the range of performable
+work, the Secretary may not rely only on the grids but must take the testimony of a vocational
+expert. Id. The instructions provide that, when the grids are “not fully applicable” because of the
+existence of nonexertional limitations, they nonetheless provide “a framework for consideration of
+how much the individual’s work capability is ... diminished ... by the nonexertional limitations.”
+20 C.F.R. Part 404, Subpart P, App. 2 § 200.00(e)(2). See also Kail v. Heckler, 722 F.2d 1496, 1498
+(9th Cir.1984). The AU must use the grids as a framework in cases where no vocational expert
+testifies. See Desrosiers, 846 F.2d at 577. However, no court has decided by a published opinion the
+question whether an AU must use the grids as a framework when a vocational expert does testify.
+Regulatory language supports the position that an AU may not find from vocational testimony that a
+claimant, deemed disabled under the grids, nonetheless could perform a substantial number of jobs
+and not be disabled. See 20 C.F.R. Part 404, Subpart P, App. 2, §§ 200.00(d), (e). We interpret the
+regulations to require the Secretary to reject vocational testimony that is inconsistent with the
+grids' overall framework. We agree that an AU need not agree with everything said by an expert
+witness to find that his testimony constitutes substantial evidence regarding disability. Russell v.
+Bowen, 856 F.2d 81 at 83 (9th Cir.1988). Some inconsistencies may lead one to question the witness’s
+expertise. If an expert testifies that a claimant would be disabled under the grid best
+approximating the totality of his exer-tional and nonexertional limitations, the Secretary must
+reject, or specify reasons for accepting, any significantly inconsistent testimony, such as that the
+claimant nonetheless could perform a substantial number of jobs. Jay Toews, a vocational expert,
+testified that several thousand jobs existed in the state that a person with Swenson’s impairments
+as described by Dr. Green (i.e., not taking into account evidence of fatigue and depression) could
+perform. They were routine, low-stress, and unskilled, and included stationary security guard, toll
+booth operator, ticket taker, car lot attendant, and some bench work categories. Toews expressly
+concluded that such jobs existed in “significant numbers.” He testified, however, that one aged 52
+with the impairments described by Dr. Green could perform fewer jobs than could one deemed disabled
+under the grids for persons aged 55 or older who had the same exertional and vocational limitations
+as Swenson but who lacked his nonexertional limitations. Toews agreed that “the limitations
+identified by Green are more significant than three years of age.” Toews’ identification of at least
+five job categories and thousands of jobs performable by Swenson in the state, without more, would
+be substantial evidence of the existence of performable jobs. See Martinez v. Heckler, 807 F.2d 771,
+775 (9th Cir.1986). The validity of that testimony is dubious because of his statement that those
+jobs were fewer than the jobs performable by a person deemed disabled under the grids. The ALJ
+should have clarified and developed the record. See Booz v. Secretary of Health and Human Services,
+734 F.2d 1378, 1381 (9th Cir.1984); Brown v. Heckler, 713 F.2d 441, 443 (9th Cir.1983). He erred by
+not clarifying the inconsistency in Toews’ testimony or giving reasons for accepting the assertion
+that thousands of performable jobs existed. That requires that Toew’s testimony be discounted.
+Without it, the Secretary lacked credible evidence of the existence of a substantial number of jobs
+that Swenson could perform. The judgment must be reversed on this ground. V. Remand The decision
+whether to remand a case for additional evidence or simply to award benefits is in our discretion.
+Varney II, 859 F.2d at 1399. We may direct the award of benefits where no useful purpose would be
+served by further administrative proceedings and the record has been thoroughly developed. Id. We
+have said: In cases where there are no outstanding issues that must be resolved before a proper
+disability determination can be made, and where it is clear from the administrative record that the
+AU would be required to award benefits if the claimant’s excess pain testimony were credited, we
+will not remand solely to allow the AU to make specific findings regarding that testimony. Rather,
+we will ... take that testimony to be established as true. Varney II, 859 F.2d at 1400. There are no
+outstanding issues here to preclude us from making a disability determination on the merits. The
+Secretary failed to give reasons for discounting Swenson’s pain testimony. That testimony, in light
+of Swenson’s family history of fatal heart disease, was credible. We accept as true Swenson’s
+testimony of disabling fatigue. See Varney II, 859 F.2d at 1400. Because of Pollack’s uncontradicted
+testimony that, if Swenson’s testimony were true Swenson would be disabled, we will not remand for
+further findings. Swenson became disabled on October 16, 1979, his claimed onset date. See id. More
+evidence and legal argument would not likely shed light on Swenson’s functional capacity during the
+period at issue which commenced ten years ago with subsequent substantial deterioration in Swenson’s
+condition and in his death in 1986. See Davis v. Heckler, 868 F.2d 323, 328 (9th Cir.1989). We
+reverse and remand for payment of benefits. VI. Attorney’s Fees
 
 

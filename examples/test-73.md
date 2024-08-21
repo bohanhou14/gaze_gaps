@@ -1,142 +1,234 @@
 **gold_text:**
-The amendment to Rule 25(a) (1) was intended to dispel unwarranted rigidity and allow more
-flexibility in substitution. “It was intended that liberal effect be given to the 1963 amendment.”
-Roscoe v. Roscoe, 126 U.S.App.D.C. 317, 322, 379 F.2d 94, 99 (1967). “[T]he 90 day period was not
-intended to act as a bar to otherwise meritorious actions.” Staggers v. Otto Gerdau Co., 359 F.2d
-292, 296 (2d Cir. 1966).
+We hold that the Company was justified in doubting that the striker replacements supported the Union
+in this context. Over eighty percent of the bargaining unit work force (twenty-two of twenty-seven
+employees) was replaced on June 25, 1979. Where such a substantial percentage of the bargaining unit
+employees is replaced on the same day, and the striker replacements cross a picket line, violent or
+not, to report to work each day, the Company is justified in counting the striker replacements as
+employees whom they doubt support the Union. This holding is in accord with the Eighth Circuit’s
+opinion in National Car Rental System, Inc. v. NLRB, 594 F.2d 1203 (8th Cir.1979). The Eighth
+Circuit adopted the Gorman presumption where all ten of the original bargaining unit employees
+commenced a strike and were subsequently replaced by permanent employees who all began work within a
+one-week period and crossed picket lines to apply for and report to work. See also Soule Glass &
+Glazing Co. v. NLRB, 652 F.2d 1055, 1109-10 (1st Cir.1981).
 
 **Generations:**
 
 
 ***GPT-4o:***
-This stringent interpretation contrasts sharply with the intent of the 1963 amendments to Rule 25
-and Rule 6(b), which aimed to inject flexibility and fairness into the substitution process. As
-noted in 379 F.2d 94 and 359 F.2d 292, the amendments were designed to eliminate the inequities and
-hardships caused by the rigid two-year limitation originally imposed. The Advisory Committee
-emphasized that the revised rules were to be liberally construed to allow courts discretion in
-extending the substitution period, recognizing the difficulties that could arise in promptly
-identifying and notifying the proper representative of the deceased.   Given this context, the
-defendant’s counsel's suggestion of death, which lacked identification of a proper representative,
-failed to initiate the 90-day countdown. This interpretation aligns with the judicial precedent that
-courts should prioritize the equitable administration of justice over strict procedural formalities.
-Thus, the district court erred in dismissing the plaintiffs' action without granting the requested
-extension, especially considering the circumstances that inhibited timely substitution, such as the
-injury to plaintiffs' counsel and the ongoing legal processes in the probate court.  We, therefore,
-reverse the judgment and remand for further proceedings consistent with this opinion, ensuring that
-the substitution process adheres to the flexible and just principles intended by the amendments to
-the Federal Rules of Civil Procedure.
+We find it pertinent to address the Board's contention and the Company's argument regarding the
+evaluation of the striker replacements' union support. As referenced in the case 594 F.2d 1203, the
+Board and prior courts have acknowledged that it is unrealistic to presume that replacements for
+striking employees hold the same union representation preference as the original strikers (see S & M
+Manufacturing Co., 172 N.L.R.B. 1008, and Titan Metal Manufacturing Co., 135 N.L.R.B. 196). Notably,
+the rationale established in New York Printing Pressmen v. NLRB, 575 F.2d 1045, underscores that
+such presumption should only be applied in normal turnover situations and not in cases involving
+strike replacements.  In addition, our consideration aligns with the principles delineated in 652
+F.2d 1055, particularly regarding the alteration of employee composition following a strike. The
+Court in that case stressed that objective evidence is critical when assessing the company's good
+faith doubt about the union’s majority support.  Applying these authorities, the Company’s reliance
+on statements and behavior of cross-over employees and replacements, along with the Union's
+inactivity and lack of communication, constitutes objective evidence. Thus, the Company’s doubt
+regarding the Union’s majority status appears reasonably grounded and asserted in good faith without
+presumptions contrary to 594 F.2d 1203 and the operational essence of the Board’s recent stance in
+Station KKHI.  Therefore, we conclude that the Company had an adequate basis for questioning the
+Union's majority support at the time of withdrawing recognition, thereby justifying its actions
+based on objective evidence consistent with the referenced cases.
 
 
 **Label:** 
 
 
 ***Meta-Llama-3-8B-Instruct:***
-  In the context of Rule 25(a) (1) of the Federal Rules of Civil Procedure, the suggestion of death
-is a crucial step in the process of substituting a deceased party with a proper representative.
-However, not all suggestions of death are created equal. In cases where the suggestion of death is
-made by a party's attorney, but fails to identify a successor or representative of the deceased, the
-90-day period for substitution may not be triggered.  As noted in 359 F.2d 292, the Advisory
-Committee on Civil Rules intended to provide a more flexible standard for substitution, allowing for
-extensions of time and dispensing with the rigid two-year period previously in place. However, this
-flexibility is contingent upon the suggestion of death providing sufficient information to permit
-the court to proceed with substitution.  In the present case, the suggestion of death made by the
-defendant's attorney was deficient in that it failed to identify a successor or representative of
-the deceased. This lack of specificity rendered the suggestion ineffective in triggering the 90-day
-period for substitution, as explained in 379 F.2d 94.  Furthermore, the court's discretion to
-enlarge the time period for substitution, as provided by Rule 6(b), is not a blank check. Rather, it
-is intended to be exercised in a judicious and reasonable manner, taking into account the particular
-circumstances of each case.  In light of these principles, we conclude that the district court erred
-in dismissing the action with prejudice. The case should be remanded for further proceedings,
-allowing the parties to properly substitute a representative of the deceased and continue the action
-in a manner consistent with the Federal Rules of Civil Procedure.
+ After careful analysis of the case, I agree with the rationales presented in Reference case 594
+F.2d 1203, which states that it would be "wholly unwarranted and unrealistic" to engage in a
+presumption that new employees support the union in the same ratio as those they have replaced,
+especially in situations where there is a strike. In the present case, the Company hired twenty-nine
+new employees to replace the strikers and anti-union statements were made by permanent replacements,
+which raises a good faith doubt as to the Union's majority status.  The Board's decision to require
+the Company to have objectively grounded evidence of the striker replacements' nonsupport of the
+Union is reasonable and consistent with Reference case 652 F.2d 1055, which established a framework
+for evaluating a company's withdrawal of recognition of a union. The Company's reliance on the
+statements made by the cross-over employees and the striker replacements, including Tony Lopez, Bill
+Lee, Shady Goodson, J.R. Blackshire, Raymond Brunner, Clint Waller, and David Schneider, provides
+sufficient evidence to support its claim that it had a reasonably grounded good-faith doubt as to
+the Union's majority status.  Furthermore, the Board's rejection of the presumption that striker
+replacements favor the union, as stated in Reference case 284 N.L.R.B. No. 113 (1987), or the
+contrary assumption that striker replacements repudiate the union as their collective-bargaining
+representative, is consistent with the principles established in Reference case 584 F.2d 720 (5th
+Cir.1978), which held that the presumption of majority support continues but becomes rebuttable
+after the expiration of the certification year.  In conclusion, I agree with the Company's argument
+that it had a reasonably grounded good-faith doubt as to the Union's majority status and that the
+Board's decision to require the Company to have objectively grounded evidence of the striker
+replacements' nonsupport of the Union is reasonable and consistent with established case law.
 
 
 **Label:** 
 
 
-**citations:** ['379 F.2d 94', '359 F.2d 292']
+**citations:** ['594 F.2d 1203', '652 F.2d 1055']
 
-***short_citations_0:*** 379 F.2d 94
+***short_citations_0:*** 594 F.2d 1203
 
-the proper parties. * * * Unless the motion for substitution is made not later than 90 days after the death is suggested upon the record by service of a statement of the fact of the death as provided herein for the service of the motion, the action shall be dismissed as to the deceased party.” Here not only had the 90-day period not expired when the court entered summary judgment, the appellant by her motion for reconsideration had specifically invoked the discretion of the court. Rule 6(b) provides pertinently that when “by these rules * * * an act is required or allowed to be done at or within a specified time, the court for cause shown may at any time in its discretion (1) with or without motion or notice order the period enlarged if request therefor is made before the expiration of the period originally prescribed * * Originally the Rule had precluded an extension of time for taking action under Rule 25(a) (1), but by purposeful amendment, it was sought to relieve against the hardship of the Court’s holding in Anderson v. Yungkau, 329 U.S. 482, 67 S.Ct. 428, 91 L.Ed. 436 (1947). It was intended that liberal effect be given to the 1963 amendment. Graham v. Pennsylvania Railroad, 119 U.S.App.D.C. 335, 342 F.2d 914 (1964), cert. denied, 381 U.S. 904, 85 S.Ct. 1446, 14 L.Ed.2d 286 (1965). We are constrained to reverse for further proceedings not inconsistent with this opinion. Reversed. The only “party” then
+this case, it would be wholly unwarranted and unrealistic to presume as a matter of law that, when hired, the replacements for the union employees who had gone out on strike favored representation by the Unions to the same extent as the strikers.” Id. at 397-98. The Board recognized that striker replacements cannot be presumed to support the striking union in S & M Manufacturing Co., 172 N.L.R.B. 1008, 1008-09 (1968) and Titan Metal Manufacturing Co., 135 N.L.R.B. 196, 215 (1962), both of which cases involve strike situations. In each case the Board held that the employer was justified in refusing to bargain with the union and declined to find them in violation of sections 8(a)(1) or 8(a)(5) of the Act. In its review of the Arkay case, with issues similar to those facing this court, the Second Circuit stated: With respect to the eleven replacements, the Board majority recognized the presumption that new employees will support the union (for the particular bargaining unit) in the same ratio as those employees whom they have replaced, but said this only obtained in the “normal turnover situation” and that it would be “wholly unwarranted and unrealistic” to engage in such a presumption in the present factual situation. New York Printing Pressmen v. NLRB, 575 F.2d 1045, 1048 (2d Cir. 1978) (footnotes omitted). (Emphasis supplied.) We agree with the rationales of these cases. In our opinion the presumption that new employees hired in the normal employee turnover. situation support the union in the
 
-***short_citations_1:*** 359 F.2d 292
+***short_citations_1:*** 652 F.2d 1055
 
-insertion of a “reasonable time” standard. In 1963, the Advisory Committee suggested the present rule and noted: “Present Rule 25(a) (1), together with present Rule 6(b), results in an inflexible requirement that an action be dismissed as to a deceased party if substitution is not carried out within a fixed period measured from the time of the death. The hardships and inequities of this unyielding requirement plainly appear from the cases. * * * The amended rulé establishes a time limit for the motion to substitute based not upon the time of the death, but rather upon the time information of the death is provided by means of a suggestion of death upon the record, i. e. service of a statement of the fact of the death.” See Notes of Advisory Committee on the Civil Rules, 28 U.S.C. Rule 25 (1964). Rule 6(b) of the Federal Rules of Civil Procedure was also amended in 1963 and the prohibition against extending the time for taking action under Rule 25 was eliminated. The Advisory Committee on the Civil Rules noted: “It is intended that the court shall have discretion to enlarge that period.” The amendments of Rules 6(b) and 25(a) (1) provided needed flexibility. It was assumed that discretionary extensions would be liberally granted. Movants under Rule 25 can ordinarily control when a death is “suggested upon the record” and appellants’ attorney was under no obligation to file his affidavit of Staggers’ death on the date he did. He could have filed
+Our deletions are indicated with an ellipsis (...) and our additions appear in italics.
 
 **prev_text:**
-LEVENTHAL, Circuit Judge: The District Court held that Rule 25(a) (1) of the Federal Rules of Civil
-Procedure required dismissal of the plaintiffs’ tort action because defendant’s counsel had filed a
-suggestion of death of the defendant yet plaintiff had not made any substitution of parties within
-90 days. We reverse on the ground that the suggestion of death, which was neither filed by nor
-identified a successor or representative of the deceased, such as an executor or administrator, was
-ineffective to trigger the running of the 90-day period provided by the Rule. Mr. and Mrs. John
-Rende filed an action in the District Court individually and on behalf of their infant son who had
-been struck and injured by Alfred S. Kay while driving his car. On August 27, 1967, defendant Kay
-died. On September 1, 1967, the defendant’s attorney, a term used here to identify the lawyer who
-had been retained by deceased to defend the action, and who had duly entered an appearance as
-attorney for defendant, filed a suggestion of death in the District Court, giving notice to
-plaintiffs’ attorney. That same day there was filed in the Orphans Court for Montgomery County,
-Maryland, residence of the deceased, his will naming his widow as executrix, but the will had not
-been probated, nor any legal representative appointed for the estate at the time of the filing of
-this appeal. Plaintiffs’ attorney was injured on October 14, 1967. On returning to practice early in
-1968, he learned that no successor to defendant Kay had yet been appointed, and he moved to certify
-the case to the ready calendar. The defendant’s attorney opposed this on grounds that discovery
-procedures had not been completed. The case was delayed and placed on the ready calendar as of June
-7, 1968. However, in April 1968, the defendant’s attorney moved in his own name to dismiss the
-action on the ground that Rule 25(a) (1) required plaintiffs to move to substitute a proper party
-for the deceased within 90 days of the suggestion of death. Plaintiffs filed an opposition and
-motion for substitution of the proper party, and sought an extension of the time for substitution as
-allowed by Rule 6(b). At argument, plaintiffs’ counsel asserted the “suggestion of death was
-defective in that it did not list the name of the proper party; that is the legal representative of
-the defendant.” The court responded: “That would not be his burden.” The court dismissed the action
-with prejudice. Prior to its amendment in 1963, Rule 25(a) (1) required the court to dismiss a case
-if no motion for substitution was filed within two. years after date of death, and no extensions of
-this period were allowed under Rule 6(b). The rule was rigorously applied, often with harsh results,
-and was called “easily the poorest rule of all the Federal Rules.” In 1955 the Advisory Committee on
-Rules for Civil Procedure recommended that the two-year period be changed to a “reasonable time”
-standard. In 1961 the Advisory Committee on Civil Rules again suggested the Rule be made more
-flexible. In 1963 the Supreme Court made changes in Rule 25(a) (1) and in Rule 6(b) so as to provide
-a 90-day time limit from the filing of a suggestion of death, and to give the court discretion to
-extend that time. The Committee Notes explaining the amendments state: Present Rule 25(a) (1),
-together with present Rule 6(b), results in an inflexible requirement that an action be dismissed as
-to a deceased party if substitution is not carried out within a fixed period measured from the time
-of death. The hardships and inequities of this unyielding requirement plainly appear from the cases.
-* * * The amended rule establishes a time limit for the motion to substitute based not upon the time
-of the death, but rather upon the time information of the death is provided by means of a suggestion
-of death upon the record. * * * A motion to substitute may be made by any party or by the
-representative of the deceased party without awaiting the suggestion of death. Indeed, the motion
-will usually be so made. If a party or the representative of the deceased party desires to limit the
-time within which another may make the motion, he may do so by suggesting the death upon the record.
-(Emphasis added.) Under the amended Rule either a party or “the successors or representatives of the
-deceased party” may avoid delay in effecting substitution for the deceased party either by filing a
-motion for substitution or by suggesting death on the record and thus triggering the 90-day period
-which begins with suggestion of death. The Advisory Committee, in outlining that suggestion of death
-could be made by “the representative of the deceased party” plainly contemplated that the suggestion
-emanating from the side of the deceased would identify a representative of the estate, such as an
-executor or administrator, who could be substituted for the deceased as a party, with the action
-continued in the name of the representative. The addition of “successor” in the Rule would take care
-of the case of, say, the distributee of an estate that had been distributed, but would not make a
-material difference in the aspect under consideration. Form 30, for suggestion of death, which was
-provided in order to expedite and facilitate implementation of the amendment, provides: A.B.
-[described as a party, or as executor, administrator, or other representative or successor of C.D.,
-the deceased party\ suggests upon the record, pursuant to Rule 25(a) (1), the death of C.D.
-[describe as party] during the pendency of this action. Added Jan. 21, 1963, eff. July 1, 1963.
-[Emphasis added.] Although the attorney for the defendant was retained to “represent” the deceased
-as his counsel, he is not a person who could be made a party, and is not a “representative of the
-deceased party” in the sense contemplated by Rule 25(a) d). In our opinion the Rule, as amended,
-cannot fairly be construed, as the de fendant’s attorney argues, to make his suggestion of death
-operative to trigger the 90-day period even though he was neither a successor nor representative of
-the deceased, and gave no indication of what person was available to be named in substitution as a
-representative of the deceased. Counsel’s construction would open the door to a tactical maneuver to
-place upon the plaintiff the burden of locating the representative of the estate within 90 days. We
-can conceive of cases wherein even the lawyer retained to represent a defendant might know the
-defendant had died, yet not readily know where his estate would be administered. In the present
-case, plaintiff’s attorney did know the court of probate, but he did not know whether probate of the
-will might be contested, or who would be appointed representative of the estate. The tactic of the
-defendant’s attorney would place on plaintiff the burden, where no conventional representative was
-appointed for the estate in probate court, of instituting machinery in order to produce some
-representative of the estate ad litem, pending appointment of the representative contemplated by law
-of the domicile of the deceased.
+NOWLIN, District Judge: This case is before the Court on the petition of Curtin Matheson Scientific,
+Inc., for review of the unfavorable decision of the National Labor Relations Board (the Board), and
+the Board’s cross-application for enforcement. The Board found that Curtin Matheson Scientific, Inc.
+(the Company) violated sections 8(a)(1) and (5) of the National Labor Relations Act, 29 U.S.C. §§
+158(a)(1) and (5), by withdrawing recognition of Local 968, General Drivers, Ware-housemen and
+Helpers (the Union) as the representative of the Company’s employees, by failing and refusing to
+furnish the Union with certain information requested, and by failing and refusing to execute a
+written contract embodying a collective-bargaining agreement found to have been reached on July 16,
+1979. The Board ordered the Company to desist from these unfair labor practices. As affirmative
+relief, the Board ordered the Company to recognize and, on request, to bargain with the Union
+concerning the terms and conditions of the employment of the bargaining unit employees, and to
+provide the information requested. The Board further ordered the Company to execute the collective-
+bargaining agreement if the Union so requested, and to give retroactive effect to the agreement’s
+terms and conditions and make the bargaining unit employees whole for any losses they suffered as a
+result of the Company’s refusal to sign the agreement. If the Union elected not to request execution
+of the agreement, then the Board ordered the Company to bargain in good faith with the Union
+concerning the terms and conditions of a new agreement, and to sign a contract embodying any
+agreement reached. Finally, the Company was required to post copies of a remedial notice to
+employees. We reverse. I. The Company trades in laboratory instruments and supplies, and maintains a
+warehouse in Houston, Texas, where the acts which are the basis of this case occurred. On April
+15,1970, the Board certified Local 968, General Drivers, Warehousemen and Helpers, which was
+affiliated with International Brotherhood of Teamsters, Chauffeurs, Warehousemen and Helpers of
+America, AFL-CIO (the Union), as the collective-bargaining agent for the Company’s production and
+maintenance employees. On May 21, 1979, the latest collective-bargaining agreement between the
+parties expired. The Company and the Union had not reached contract agreement when, on May 25, 1979,
+the Company made a final offer. The Union rejected this offer on May 29, 1979. A lockout of all
+twenty-seven bargaining unit employees lasted from June 4 to June 12, 1979. On June 12, 1979, the
+Company’s offer was renewed and again rejected. On June 13, 1979, the Union began an economic strike
+which lasted until July 16, 1979. Five of the twenty-seven bargaining unit employees immediately
+crossed the picket line and returned to work. The record contains no evidence of picket line or
+other strike-related violence or threats during the course of the strike. On June 17, 1979, the
+Company put into effect the wage schedule proposed in its May 25, 1979 offer. On June 25, 1979, with
+the strike still in progress, the Company hired twenty-nine new employees to replace the twenty-two
+strikers; the additional seven employees were hired to compensate for the new workers’ inexperience
+and to allow for attrition. On July 16, 1979, the Union ended its strike, offered unconditionally to
+have the striking employees return to work, and informed the Company that it was accepting the May
+25, 1979 offer. The Union asked the Company to execute the contract on July 19, 1979. Then, on July
+20, 1979, the Company notified the Union that the May 25, 1979 offer was not available, and because
+it had doubts as to the Union’s majority status, that the Company was withdrawing recognition and
+refusing to bargain further. On July 20, 1979, there were nineteen employees still on strike, and
+twenty-five striker replacements and the five cross-over employees working for the Company in
+bargaining unit positions. On July 20, 1979, the Union also requested that the Company furnish
+information regarding the total number of bargaining unit employees on the payroll, and the job
+classification and seniority of each of these employees. The Company did not furnish this
+information. The Union filed an unfair labor practices charge with the Board on July 30, 1979,
+alleging violations of sections 8(a)(1) and (5) of the National Labor Relations Act, 29 U.S.C. §§
+158(a)(1) and (5). The Board issued a complaint against the Company on September 7, 1979.
+Administrative Law Judge Martin S. Bennett (the ALJ) heard the matter on June 10, 1980. In his
+November 20,1980 decision, the AU held that the Company had a reasonably based good-faith doubt as
+to the Union’s majority status, and dismissed the entire complaint on that ground. The Board
+reviewed the ALJ’s decision, and on December 16, 1987, held that the Company had not made an
+adequate showing of good faith doubt. See Curtin Matheson Scientific, Inc., 287 NLRB No. 35 (1987).
+The Board concluded that the Company had violated sections 158(a)(1) and (5) of the Act by
+withdrawing Union recognition, by failing and refusing to furnish requested information, and by
+failing and refusing to execute the May 25, 1979 contract offer accepted by the Union on July
+16,1979. The Company timely appealed, invoking this Court’s appellate jurisdiction under 29 U.S.C.
+§§ 160(e) and (f). II. We have previously established a framework for evaluating a company’s
+withdrawal of recognition of a union. In NLRB v. Randle-Eastern Ambulance Service, Inc., 584 F.2d
+720, 727-28 (5th Cir.1978), we provided: In the absence of special circumstances, a Union’s majority
+status is irrebutt-ably presumed for a period of one year following certification or voluntary
+recognition. See Brooks v. NLRB, 1954, 348 U.S. 96, 103-04, 75 S.Ct. 176 [181-82], 99 L.Ed. 125
+(certification); NLRB v. Physicians & Surgeons Community Hospital, 5 Cir., 1978, 577 F.2d 305, 307
+(voluntary recognition). After the expiration of the certification year, the presumption of the
+Union’s continuing majority support continues but becomes re-buttable. J. Ray McDermott & Co. v.
+NLRB, 5 Cir., 1978, 571 F.2d 850, 858; NLRB v. Gulfmont Hotel, 5 Cir.1966, 362 F.2d 588. A good
+faith doubt of the union’s majority status is a defense to a refusal to bargain charge based on the
+withdrawal of recognition. That doubt must rest on ‘objective evidence.’ J. Ray McDermott, supra,
+and ‘may not depend solely upon unfounded speculation or a subjective state of mind.’ Gulfmont
+Hotel, supra, at 589. But the employer need not conclusively demonstrate that a majority of his
+employees no longer desire to be represented by the Union. Accordingly, after the expiration of the
+collective-bargaining agreement on May 21, 1979, the Union enjoyed a rebut-table presumption that
+its majority status was continuing. The Company was justified in withdrawing recognition from the
+Union if it overcame the presumption of majority support by affirmatively establishing either: (1)
+at the time of withdrawal of recognition, the Union in fact no longer enjoyed majority status; or
+(2) the Company’s refusal to bargain was predicated upon a reasonably grounded doubt as to the
+Union’s continued majority status asserted in good faith, based upon objective considerations, and
+raised in a context free of employer unfair labor practices. It is the second ground upon which the
+Company relied in withdrawing recognition of the Union. In reviewing the Board’s findings and
+conclusions, we are limited by the substantial evidence rule, and should not review the charge de
+novo. Universal Camera Corp. v. NLRB, 340 U.S. 474, 487-88, 71 S.Ct. 456, 464-65, 95 L.Ed. 456
+(1951); Randle-Eastern, 584 F.2d at 725; 29 U.S. C. § 160(e). The Company asserts that its doubt was
+arrived at in good faith, based on the following factors: (1) the hiring of permanent replacements
+for all of the strikers and anti-union statements made by permanent replacements; (2) employees
+crossing the picket line; (3) strong anti-union statements and statements of non-support by cross-
+over employees and by striking employees; (4) expressions of Union officials concerning the weakness
+of the Union and lack of employee support, e.g., “the employees didn’t want anything to do with the
+Union;” and (5) Union inactivity and lack of communication with the Company. The ALJ’s findings of
+fact were not overruled by the Board, and the facts as stated by the Board are uncontested by the
+parties. On July 20,1979, nineteen of the original twenty-two striking workers were still on strike,
+and twenty-five of the original twenty-nine striker replacements and the five cross-over employees
+were still working, for a total of forty-nine employees in the bargaining unit. See C.H. Guenther &
+Son, Inc. v. NLRB, 427 F.2d 983, 986-87 (5th Cir.), cert. denied, 400 U.S. 942, 91 S.Ct. 240, 27
+L.Ed. 246 (1970); 29 U.S.C. § 152(3). Accordingly, before withdrawing recognition, the Company was
+required to have good faith doubt as to Union support by twenty-five of the employees. The Company’s
+source of information regarding Union support was Elizabeth Price, the director of employee
+relations. In the two months prior to July 20, 1979, she had conversations with two of the cross-
+over employees, four of the strikers, and one striker replacement. Ms. Price spoke with Tony Lopez
+and Bill Lee, two of the five cross-over employees. Both men were not Union members. Mr. Lopez
+talked twice with Price, indicating that the Union had done nothing for the employees and that the
+Union’s business representative was not doing his job. Mr. Lopez also stated that he had not and
+would not pay Union dues because he would not support the Union in any way. Mr. Lee stated that he
+did not pay Union dues because he did not support the Union and believed that the Union had not done
+anything for the employees. The four strikers who crossed the picket line to speak with Ms. Price
+were Shady Goodson, J.R. Blackshire, Raymond Brun-ner, and Clint Waller. Chief Shop Steward Goodson,
+who was a member of the Union’s negotiating committee, told Ms. Price that he was speaking on his
+own behalf; and although other striking employees shared his sentiments, he said he was not speaking
+as a representative of the Union employees or the Union. He felt that only the Union wanted the
+strike, not the employees. He was having difficulties manning the picket line. At a later time, Mr.
+Goodson requested reinstatement; and on July 19, 1979, he resigned. The Company would have been
+justified in giving significant weight to Mr. Goodson’s comments, even though he was not speaking in
+his official capacity. See Randle-Eastern, 584 F.2d at 729; Star Manufacturing Co. v. NLRB, 536 F.2d
+1192, 1196 (7th Cir.1976); Lodges 1746 and 743, International Association of Machinists v. NLRB, 135
+U.S.App.D.C. 53, 57-58, 416 F.2d 809, 812-13 (1969), cert. denied, 396 U.S. 1058, 90 S.Ct. 751, 24
+L.Ed. 752 (1970). Mr. Blackshire, a former shop steward, crossed the picket line to request
+reinstatement. He was angered by the Union first failing to pay him for walking the picket line, and
+then deducting Union dues from his payments. After requesting reinstatement, Mr. Blackshire spoke
+with friends working in the Company’s warehouse. After a few minutes, he called Ms. Price over, and
+told her there was no Union anymore, that the people were not supporting it. Mr. Blackshire also
+stated that there were other striking employees who wanted to return to work. Mr. Brunner crossed
+the picket line to express his intention of retiring early because he did not want to work with the
+Union again. Finally, Mr. Waller indicated that he was not manning the picket line and would
+continue not to do so. He felt the Union was not representing the employees, and wanted “this
+thing,” apparently the strike, to be over. He indicated a desire to withdraw from the Union. Twenty-
+nine striker replacements were hired on June 25, 1979. There is no evidence of the Union attempting
+to contact any of the striker replacements during the strike. On July 19, 1979, Ms. Price spoke with
+one of the replacements, David Schneider. Mr. Schneider stated that he had experiences as a union
+and non-union worker. His assessment was that the Union did not represent the Company, and that the
+Union was not needed. The Board relied on the standard set forth in Buckley Broadcasting Cory.
+(Station KKHI), 284 N.L.R.B. No. 113 (1987), in ruling that the Company did not have reasonably
+grounded good-faith doubt as to the Union’s majority status. In Station KKHI, the Board rejected the
+presumption that striker replacements favor the union, and rejected the contrary assumption that
+striker replacements repudiate the union as their collective-bargaining representative. The Board
+concluded by declining to maintain or create any presumption regarding striker replacements’ union
+sentiments. The Board contends that Station KKHI represents a comprehensive reconsideration of the
+Board’s approach to the characterization of striker replacements in withdrawal of recognition cases.
+Prior to Station KKHI, the Board states that it presumed striker replacements desired to be
+represented by the incumbent union in the same ratio as the employees they replaced, a presumption
+that we discredited ten years ago in Randle-Eastern. We do not agree that Station KKHI establishes a
+new standard because operationally the Station KKHI standard has the same effect as the presumption
+that striker replacements support the union in the same ratio as the employees they replace. Under
+the Station KKHI holding that no presumption will be made about striker replacements’ support or
+nonsupport of the union, the general presumption of continuing union majority still applies. Under
+either standard, the Company is required to have objective evidence regarding the striker
+replacements’ nonsupport in order to count them as employees whom the Company doubts support the
+Union. In Randle-Eastern, we considered the presumption that new employees support the union in the
+same ratio as those they have replaced, and rejected its application where employee turnover results
+from the replacement of strikers. Randle-Eastern, 584 F.2d at 728. We also adopted the Gorman
+presumption, stating that it was “especially true,” where the striker replacements were the victims
+of picket line violence, and the Union was bargaining for the discharge of the striker replacements
+to make room for returning strikers. Id. The Company contends that the Gorman principle applies even
+in the absence of special circumstances such as those present in Randle-Eastern. Therefore, even
+though there was no picket line violence or negotiating to discharge the striker replacements, the
+Company argues that it was justified in counting the twenty-two striker replacements as not
+supporting the Union on July 20, 1979.
 
 

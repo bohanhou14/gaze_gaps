@@ -1,142 +1,172 @@
 **gold_text:**
-The amendment to Rule 25(a) (1) was intended to dispel unwarranted rigidity and allow more
-flexibility in substitution. “It was intended that liberal effect be given to the 1963 amendment.”
-Roscoe v. Roscoe, 126 U.S.App.D.C. 317, 322, 379 F.2d 94, 99 (1967). “[T]he 90 day period was not
-intended to act as a bar to otherwise meritorious actions.” Staggers v. Otto Gerdau Co., 359 F.2d
-292, 296 (2d Cir. 1966).
+An adjustment under § 3C1.1 “is appropriate only upon a finding that the defendant had the ‘specific
+intent to obstruct justice, i.e., that the defendant consciously acted with the purpose of
+obstructing justice.’” United States v. Defeo, 36 F.3d 272, 276 (2d Cir.1994) (citation omitted).
+However, we have held that “[cjertain conduct ... such as intentionally failing to appear as
+required at judicial proceedings, is so inherently obstructive of the administration of justice that
+it is sufficient that the defendant willfully engaged in the underlying conduct, regardless of his
+specific purpose.” United States v. Reed, 49 F.3d 895, 900 (2d Cir.1995). For instance, in Defeo, we
+held that “[f]light from pretrial services between conviction and sentencing warrants an obstruction
+enhancement.” 36 F.3d at 276.
 
 **Generations:**
 
 
 ***GPT-4o:***
-This stringent interpretation contrasts sharply with the intent of the 1963 amendments to Rule 25
-and Rule 6(b), which aimed to inject flexibility and fairness into the substitution process. As
-noted in 379 F.2d 94 and 359 F.2d 292, the amendments were designed to eliminate the inequities and
-hardships caused by the rigid two-year limitation originally imposed. The Advisory Committee
-emphasized that the revised rules were to be liberally construed to allow courts discretion in
-extending the substitution period, recognizing the difficulties that could arise in promptly
-identifying and notifying the proper representative of the deceased.   Given this context, the
-defendant’s counsel's suggestion of death, which lacked identification of a proper representative,
-failed to initiate the 90-day countdown. This interpretation aligns with the judicial precedent that
-courts should prioritize the equitable administration of justice over strict procedural formalities.
-Thus, the district court erred in dismissing the plaintiffs' action without granting the requested
-extension, especially considering the circumstances that inhibited timely substitution, such as the
-injury to plaintiffs' counsel and the ongoing legal processes in the probate court.  We, therefore,
-reverse the judgment and remand for further proceedings consistent with this opinion, ensuring that
-the substitution process adheres to the flexible and just principles intended by the amendments to
-the Federal Rules of Civil Procedure.
+In evaluating defendant's challenge to the two-level enhancement for obstruction of justice, we look
+to the guidelines set forth in U.S.S.G. § 3C1.1, which requires a willful obstruction or impediment
+of justice. According to United States v. Stroud, the term “willfully” necessitates a mens rea
+requirement, implying that the defendant must have had a specific intent to obstruct justice (893
+F.2d 504, 507 (2d Cir.1990)). This intent is further echoed in United States v. Defeo, which
+emphasizes that the defendant must consciously act with the purpose of obstructing justice (36 F.3d
+272, 276).  Defendant's argument that her failure to appear was due to drug use, lacking conscious
+intent to obstruct justice, does not align with the definition of willful obstruction under § 3C1.1.
+Additionally, as observed in United States v. Aponte, certain conduct such as intentionally failing
+to appear at judicial proceedings is inherently obstructive, and can warrant enhancement even if the
+specific purpose was not to obstruct justice (31 F.3d 86, 88). Given that failing to appear for a
+scheduled judicial proceeding directly falls under obstructive conduct, the district court did not
+err in applying a two-level enhancement for obstruction under § 3C1.1.  Therefore, considering the
+precedents and the circumstances of the defendant's actions, we find the district court's
+application of the enhancement justifiable and affirm its judgment.
 
 
 **Label:** 
 
 
 ***Meta-Llama-3-8B-Instruct:***
-  In the context of Rule 25(a) (1) of the Federal Rules of Civil Procedure, the suggestion of death
-is a crucial step in the process of substituting a deceased party with a proper representative.
-However, not all suggestions of death are created equal. In cases where the suggestion of death is
-made by a party's attorney, but fails to identify a successor or representative of the deceased, the
-90-day period for substitution may not be triggered.  As noted in 359 F.2d 292, the Advisory
-Committee on Civil Rules intended to provide a more flexible standard for substitution, allowing for
-extensions of time and dispensing with the rigid two-year period previously in place. However, this
-flexibility is contingent upon the suggestion of death providing sufficient information to permit
-the court to proceed with substitution.  In the present case, the suggestion of death made by the
-defendant's attorney was deficient in that it failed to identify a successor or representative of
-the deceased. This lack of specificity rendered the suggestion ineffective in triggering the 90-day
-period for substitution, as explained in 379 F.2d 94.  Furthermore, the court's discretion to
-enlarge the time period for substitution, as provided by Rule 6(b), is not a blank check. Rather, it
-is intended to be exercised in a judicious and reasonable manner, taking into account the particular
-circumstances of each case.  In light of these principles, we conclude that the district court erred
-in dismissing the action with prejudice. The case should be remanded for further proceedings,
-allowing the parties to properly substitute a representative of the deceased and continue the action
-in a manner consistent with the Federal Rules of Civil Procedure.
+ <answer>  The cases, 36 F.3d 272 and 49 F.3d 895, provide guidance on the application of the
+Sentencing Guidelines, specifically the obstruction of justice enhancement under U.S.S.G. § 3C1.1.
+In the case of 36 F.3d 272, the court held that an enhancement under § 3C1.1 is not appropriate
+unless the obstruction was "willful." The court defined willfulness as requiring a specific intent
+to obstruct justice. The court also noted that certain conduct, such as intentionally failing to
+appear at a judicial proceeding, is inherently obstructive of the administration of justice and does
+not require a specific intent to obstruct.  In the case of 49 F.3d 895, the court addressed the
+issue of whether a defendant's failure to report to pretrial services and subsequently failing to
+appear at a preliminary examination was willful obstruction of justice. The court held that the
+defendant's failure to appear was willful because she had the specific intent to avoid the
+preliminary examination.  In the case at hand, the defendant failed to report to pretrial services
+and subsequently failed to appear at a preliminary examination. The court enhanced the defendant's
+offense level by two levels, finding that she willfully obstructed the administration of justice.
+The court's finding was based on the defendant's specific intent to avoid the preliminary
+examination, which is consistent with the holdings in 36 F.3d 272 and 49 F.3d 895.  In conclusion,
+the Sentencing Guidelines provide for an enhancement of two levels if a defendant willfully
+obstructs the administration of justice during the investigation, prosecution, or sentencing of the
+instant offense. The cases, 36 F.3d 272 and 49 F.3d 895, provide guidance on the application of this
+enhancement. In the case at hand, the court properly enhanced the defendant's offense level based on
+her willful obstruction of justice. <answer>
 
 
 **Label:** 
 
 
-**citations:** ['379 F.2d 94', '359 F.2d 292']
+**citations:** ['36 F.3d 272', '49 F.3d 895']
 
-***short_citations_0:*** 379 F.2d 94
+***short_citations_0:*** 36 F.3d 272
 
-the proper parties. * * * Unless the motion for substitution is made not later than 90 days after the death is suggested upon the record by service of a statement of the fact of the death as provided herein for the service of the motion, the action shall be dismissed as to the deceased party.” Here not only had the 90-day period not expired when the court entered summary judgment, the appellant by her motion for reconsideration had specifically invoked the discretion of the court. Rule 6(b) provides pertinently that when “by these rules * * * an act is required or allowed to be done at or within a specified time, the court for cause shown may at any time in its discretion (1) with or without motion or notice order the period enlarged if request therefor is made before the expiration of the period originally prescribed * * Originally the Rule had precluded an extension of time for taking action under Rule 25(a) (1), but by purposeful amendment, it was sought to relieve against the hardship of the Court’s holding in Anderson v. Yungkau, 329 U.S. 482, 67 S.Ct. 428, 91 L.Ed. 436 (1947). It was intended that liberal effect be given to the 1963 amendment. Graham v. Pennsylvania Railroad, 119 U.S.App.D.C. 335, 342 F.2d 914 (1964), cert. denied, 381 U.S. 904, 85 S.Ct. 1446, 14 L.Ed.2d 286 (1965). We are constrained to reverse for further proceedings not inconsistent with this opinion. Reversed. The only “party” then
+conduct following her arrest. Accordingly, we see no basis for a ruling that Defeo’s conduct after her state arrest was “associated with” the state-court sentence, and we find no error in the district court’s determination that the relevant period for calculating the loss caused by Defeo’s conduct began on October 28, 1991. B. Obstruction of Justice The Guidelines provide for a two-step increase in offense level if the defendant “willfully obstructed or impeded, or attempted to obstruct or impede, the administration of justice during the investigation, prosecution, or sentencing of the instant offense.” Guidelines § 3C1.1. The adjustment is appropriate only upon a finding that the defendant had the “specific intent to obstruct justice, i.e., that the defendant consciously acted with the purpose of obstructing justice.” United States v. Rivera, 971 F.2d 876, 894 (2d Cir.1992) (internal quotes, emphasis and brackets omitted). Under the Guidelines, “[ojbstructive conduct can vary widely in nature, degree of planning, and seriousness,” Guidelines § 3C1.1 Application Note 2, and includes “escaping or attempting to escape from custody before trial or senteneing[] or willfully failing to appear, as ordered, for a judicial proceeding,” Guidelines § 3C1.1 Application Note 3(e). Flight from pretrial services between conviction and sentencing warrants an obstruction enhancement. See, e.g., United States v. Shinder, 8 F.3d 633, 635 (8th Cir.1993); United States v. McCarthy, 961 F.2d 972, 979-80 (1st Cir.1992); United States v. Perry, 908 F.2d 56, 59 (6th Cir.), cert. denied, 498 U.S. 1002, 111 S.Ct. 565, 112 L.Ed.2d 571 (1990). The
 
-***short_citations_1:*** 359 F.2d 292
+***short_citations_1:*** 49 F.3d 895
 
-insertion of a “reasonable time” standard. In 1963, the Advisory Committee suggested the present rule and noted: “Present Rule 25(a) (1), together with present Rule 6(b), results in an inflexible requirement that an action be dismissed as to a deceased party if substitution is not carried out within a fixed period measured from the time of the death. The hardships and inequities of this unyielding requirement plainly appear from the cases. * * * The amended rulé establishes a time limit for the motion to substitute based not upon the time of the death, but rather upon the time information of the death is provided by means of a suggestion of death upon the record, i. e. service of a statement of the fact of the death.” See Notes of Advisory Committee on the Civil Rules, 28 U.S.C. Rule 25 (1964). Rule 6(b) of the Federal Rules of Civil Procedure was also amended in 1963 and the prohibition against extending the time for taking action under Rule 25 was eliminated. The Advisory Committee on the Civil Rules noted: “It is intended that the court shall have discretion to enlarge that period.” The amendments of Rules 6(b) and 25(a) (1) provided needed flexibility. It was assumed that discretionary extensions would be liberally granted. Movants under Rule 25 can ordinarily control when a death is “suggested upon the record” and appellants’ attorney was under no obligation to file his affidavit of Staggers’ death on the date he did. He could have filed
+sentencing, see id. at 276-77. Whatever circumstances are alleged to constitute obstruction in a particular case, an enhancement under § 3C1.1 is not appropriate, by the terms of that section, unless the obstruction was “willful[].” We have observed that the term “willfully” implies a mens rea requirement, see, e.g., United States v. Stroud, 893 F.2d 504, 507 (2d Cir.1990). Thus, such an adjustment is appropriate only if “the defendant had the specific intent to obstruct justice-,. i.e., ... the defendant consciously acted with the purpose of obstructing justice.” United States v. Defeo, 36 F.3d at 276 (internal quotes omitted); see also United States v. Bonds, 933 F.2d 152, 154 (2d Cir.1991) (per curiam) (deliberate change in appearance could not be the basis of. a § 3C1.1 enhancement where evidence did not establish that it was done with the purpose of obstructing investigation); United States v. Stroud, 893 F.2d at 507 (flight from arrest in immediate aftermath of a crime cannot by itself justify enhancement under § 3C1.1). Certain conduct, however, such as intentionally failing to appear as required at judicial proceedings, is so inherently obstructive of the administration of justice that it is sufficient that the defendant willfully engaged in the underlying conduct, regardless of his specific purpose. See United States v. Aponte, 31 F.3d at 88 (“It is sufficient for these purposes that the defendant intended to fail to appear at a judicial proceeding, regardless of his reason for desiring to flee.”). When the sentencing court resolves a disputed
 
 **prev_text:**
-LEVENTHAL, Circuit Judge: The District Court held that Rule 25(a) (1) of the Federal Rules of Civil
-Procedure required dismissal of the plaintiffs’ tort action because defendant’s counsel had filed a
-suggestion of death of the defendant yet plaintiff had not made any substitution of parties within
-90 days. We reverse on the ground that the suggestion of death, which was neither filed by nor
-identified a successor or representative of the deceased, such as an executor or administrator, was
-ineffective to trigger the running of the 90-day period provided by the Rule. Mr. and Mrs. John
-Rende filed an action in the District Court individually and on behalf of their infant son who had
-been struck and injured by Alfred S. Kay while driving his car. On August 27, 1967, defendant Kay
-died. On September 1, 1967, the defendant’s attorney, a term used here to identify the lawyer who
-had been retained by deceased to defend the action, and who had duly entered an appearance as
-attorney for defendant, filed a suggestion of death in the District Court, giving notice to
-plaintiffs’ attorney. That same day there was filed in the Orphans Court for Montgomery County,
-Maryland, residence of the deceased, his will naming his widow as executrix, but the will had not
-been probated, nor any legal representative appointed for the estate at the time of the filing of
-this appeal. Plaintiffs’ attorney was injured on October 14, 1967. On returning to practice early in
-1968, he learned that no successor to defendant Kay had yet been appointed, and he moved to certify
-the case to the ready calendar. The defendant’s attorney opposed this on grounds that discovery
-procedures had not been completed. The case was delayed and placed on the ready calendar as of June
-7, 1968. However, in April 1968, the defendant’s attorney moved in his own name to dismiss the
-action on the ground that Rule 25(a) (1) required plaintiffs to move to substitute a proper party
-for the deceased within 90 days of the suggestion of death. Plaintiffs filed an opposition and
-motion for substitution of the proper party, and sought an extension of the time for substitution as
-allowed by Rule 6(b). At argument, plaintiffs’ counsel asserted the “suggestion of death was
-defective in that it did not list the name of the proper party; that is the legal representative of
-the defendant.” The court responded: “That would not be his burden.” The court dismissed the action
-with prejudice. Prior to its amendment in 1963, Rule 25(a) (1) required the court to dismiss a case
-if no motion for substitution was filed within two. years after date of death, and no extensions of
-this period were allowed under Rule 6(b). The rule was rigorously applied, often with harsh results,
-and was called “easily the poorest rule of all the Federal Rules.” In 1955 the Advisory Committee on
-Rules for Civil Procedure recommended that the two-year period be changed to a “reasonable time”
-standard. In 1961 the Advisory Committee on Civil Rules again suggested the Rule be made more
-flexible. In 1963 the Supreme Court made changes in Rule 25(a) (1) and in Rule 6(b) so as to provide
-a 90-day time limit from the filing of a suggestion of death, and to give the court discretion to
-extend that time. The Committee Notes explaining the amendments state: Present Rule 25(a) (1),
-together with present Rule 6(b), results in an inflexible requirement that an action be dismissed as
-to a deceased party if substitution is not carried out within a fixed period measured from the time
-of death. The hardships and inequities of this unyielding requirement plainly appear from the cases.
-* * * The amended rule establishes a time limit for the motion to substitute based not upon the time
-of the death, but rather upon the time information of the death is provided by means of a suggestion
-of death upon the record. * * * A motion to substitute may be made by any party or by the
-representative of the deceased party without awaiting the suggestion of death. Indeed, the motion
-will usually be so made. If a party or the representative of the deceased party desires to limit the
-time within which another may make the motion, he may do so by suggesting the death upon the record.
-(Emphasis added.) Under the amended Rule either a party or “the successors or representatives of the
-deceased party” may avoid delay in effecting substitution for the deceased party either by filing a
-motion for substitution or by suggesting death on the record and thus triggering the 90-day period
-which begins with suggestion of death. The Advisory Committee, in outlining that suggestion of death
-could be made by “the representative of the deceased party” plainly contemplated that the suggestion
-emanating from the side of the deceased would identify a representative of the estate, such as an
-executor or administrator, who could be substituted for the deceased as a party, with the action
-continued in the name of the representative. The addition of “successor” in the Rule would take care
-of the case of, say, the distributee of an estate that had been distributed, but would not make a
-material difference in the aspect under consideration. Form 30, for suggestion of death, which was
-provided in order to expedite and facilitate implementation of the amendment, provides: A.B.
-[described as a party, or as executor, administrator, or other representative or successor of C.D.,
-the deceased party\ suggests upon the record, pursuant to Rule 25(a) (1), the death of C.D.
-[describe as party] during the pendency of this action. Added Jan. 21, 1963, eff. July 1, 1963.
-[Emphasis added.] Although the attorney for the defendant was retained to “represent” the deceased
-as his counsel, he is not a person who could be made a party, and is not a “representative of the
-deceased party” in the sense contemplated by Rule 25(a) d). In our opinion the Rule, as amended,
-cannot fairly be construed, as the de fendant’s attorney argues, to make his suggestion of death
-operative to trigger the 90-day period even though he was neither a successor nor representative of
-the deceased, and gave no indication of what person was available to be named in substitution as a
-representative of the deceased. Counsel’s construction would open the door to a tactical maneuver to
-place upon the plaintiff the burden of locating the representative of the estate within 90 days. We
-can conceive of cases wherein even the lawyer retained to represent a defendant might know the
-defendant had died, yet not readily know where his estate would be administered. In the present
-case, plaintiff’s attorney did know the court of probate, but he did not know whether probate of the
-will might be contested, or who would be appointed representative of the estate. The tactic of the
-defendant’s attorney would place on plaintiff the burden, where no conventional representative was
-appointed for the estate in probate court, of instituting machinery in order to produce some
-representative of the estate ad litem, pending appointment of the representative contemplated by law
-of the domicile of the deceased.
+MINER, Circuit Judge: Defendant-appellant Michelle Anne LaBel-la-Szuba appeals from a judgment of
+conviction and sentence entered in the United States District Court for the Northern District of New
+York (Munson, J.) following her plea of guilty to a one-count information charging her with
+harboring an escaped prisoner, in violation of 18 U.S.C. § 1072. In calculating defendant’s criminal
+history category under the Sentencing Guidelines, the district court added two criminal history
+points on the ground that she committed the instant offense while under a criminal justice sentence.
+The district court also enhanced defendant’s offense level by two levels, having found that she
+willfully obstructed the administration of justice during the prosecution of the offense by failing
+to appear for a preliminary hearing. Accordingly, the court sentenced defendant to a one-year and
+one-day term of imprisonment, a one-year term of supervised release, and a $50 special assessment.
+For the reasons that follow, we affirm the judgment of the district court. BACKGROUND On April 3,
+1995, a criminal complaint was filed against defendant. According to the complaint, defendant
+assisted in the escape of Jeffrey Kratzenberg from the custody of the Attorney General after
+Kratzenberg was released from federal prison on an emergency furlough. The complaint states that, on
+April 1, 1995, three days after Kratzenberg was due to reten to prison, federal law enforcement
+officers located defendant driving a rental car in Utica, New York. Following efforts by defendant
+to elude surveillance of her vehicle, law enforcement officials apprehended her, along with
+Kratzenberg, who had been lying on the backseat of the car. On April 3, 1995, defendant appeared
+before Magistrate Judge DiBianeo of the Northern District of New York. Magistrate Judge DiBianeo
+released defendant from custody on the conditions that she report to Pretrial Services on April 5,
+1995 and that she not commit any other offense in violation of federal, state, or local law. A
+preliminary examination was scheduled for April 26,1995. Following her release, defendant failed to
+report to Pretrial Services on April 5,1995 as directed. Instead, on April 5th, she called Pretrial
+Services and claimed that she could not arrange transportation to its offices in Syracuse, New York.
+Pretrial Services then received three additional phone calls from defendant over the next two days.
+However, defendant never reported to the Syracuse offices. When Pretrial Services attempted to
+contact defendant by calling a telephone number that she had provided, defendant’s mother answered
+and stated that defendant did not live there and that her whereabouts were unknown. On April 25,
+1995, defendant’s attorney and counsel for the government signed a written stipulation stating that
+defendant’s whereabouts were unknown. The stipulation also stated that the parties agreed to adjourn
+the preliminary- examination until defendant could be located. On the following day, defendant,
+unaware of the stipulation, failed to appear for the scheduled preliminary examination. On July
+8,1995, defendant was arrested in Rome, New York by local authorities and was charged with criminal
+possession of stolen property. She was convicted of this offense on July 12, 1995 and sentenced to
+incarceration for 90 days in the Oneida County Jail. Federal authorities subsequently located
+defendant at the jail and obtained a warrant for her arrest on the ground that she had violated the
+conditions of her release. On October 17, 1995, defendant pleaded guilty to a one-count information
+charging her with willfully harboring and concealing a prisoner after his escape from a federal
+correctional facility, in violation of 18 U.S.C. § 1072. The Presentence Investigation Report
+indicated that, at the time defendant committed the instant offense, she had been convicted of at
+least one violation, one felony, and nine misdemeanors. One misdemeanor was a conviction on January
+11, 1994 in Herkimer Village Court for petit larceny. As a result of that conviction, defendant had
+been sentenced to a one-year conditional discharge. At sentencing on January 12, 1996, the district
+court, in calculating defendant’s criminal history category, added two criminal history points,
+pursuant to U.S.S.G. § 4Al.l(d), because defendant had committed the offense of conviction while
+under the conditional discharge sentence imposed by the Herkimer Village Court. The district court
+also enhanced defendant’s offense level by two levels, pursuant to U.S.S.G. § 3C1.1, having found
+that she willfully obstructed the administration of justice by failing to appear for the April 26th
+preliminary examination. This appeal followed. DISCUSSION On appeal, defendant claims that the
+district court, in calculating her criminal history category, erred by adding two criminal history
+points, pursuant to U.S.S.G. § 4Al.l(d), for committing the offense of conviction while under a
+criminal justice sentence. Specifically, defendant argues that her conditional discharge sentence
+arising from her conviction in the Herkimer Village Court was not a “criminal justice sentence”
+under § 4Al.l(d) because her sentence lacked a supervisory component. We disagree. Section 4Al.l(d)
+provides that, when calculating a defendant’s criminal history category, a sentencing court is
+required to “[a]dd 2 points if the defendant committed the instant offense while under any criminal
+justice sentence, including probation, parole, supervised release, imprisonment, work release, or
+escape status.” A “criminal justice sentence” is defined in Application Note 4 of the Commentary to
+§ 4A1.1 as “a sentence ... having a custodial or supervisory component, although active supervision
+is not required for this item to apply.” The Commentary further explains that “a term of
+unsupervised probation would be included [in the definition of a criminal justice sentence]; but a
+sentence to pay a fine, by itself, would not be included.” At the time defendant committed the
+offense of conviction, she was subject to a one-year conditional discharge under N.Y. Penal Law §
+65.05 (McKinney 1995), arising from her petit larceny conviction in the Herkimer Village Court.
+Under § 65.05, the Herkimer Village Court could revoke defendant’s conditional discharge sentence if
+she committed another offense prior to the termination of the period of conditional discharge. See
+N.Y. Penal Law § 65.05(2) (“The court may modify or enlarge the conditions or, if the defendant
+commits an additional offense or violates a condition, revoke the sentence at any time prior to the
+expiration or termination of the period of conditional discharge.”). Although defendant’s sentence
+did not include active supervision, her sentence did include a supervisory component in that the
+Herkimer Village Court retained the power to revoke her conditional discharge sentence. We think
+that this supervisory component is sufficient to bring defendant’s conditional discharge sentence
+within the meaning of a “criminal justice sentence” under § 4Al.l(d). Moreover, the Commentary to §
+4A1.1, which states that a term of unsupervised release is a criminal justice sentence under §
+4Al.l(d), further supports the holding that defendant’s conditional discharge sentence is a criminal
+justice sentence because there is no discernible difference between a conditional discharge sentence
+and a sentence of unsupervised release. Indeed, every circuit that has compared a conditional
+discharge sentence to a sentence of unsupervised release has found them to be functionally
+equivalent. See, e.g., United States v. Miller, 56 F.3d 719, 722 (6th Cir.1995) (holding that a
+“conditional discharge is the ‘functional equivalent’ of an unsupervised probation under U.S.S.G. §
+4Al.l(d)”); United States v. Lloyd, 43 F.3d 1183, 1188 (8th Cir.1994) (holding “the nature of a
+sentence of ‘conditional discharge’ to be the functional equivalent of ‘unsupervised probation’ ”);
+United States v. Caputo, 978 F.2d 972, 977 (7th Cir.1992) (stating that “unsupervised probation
+equals conditional discharge”). Accordingly, the district court properly found defendant’s
+conditional discharge sentence to be a criminal justice sentence under § 4Al.l(d), and added two
+criminal history points for committing the offense of conviction while under a criminal justice
+sentence. Defendant also challenges the district court’s two-level enhancement of her offense level,
+pursuant to U.S.S.G. § 3C1.1. In increasing defendant’s offense level, the district court found that
+defendant willfully obstructed the administration of justice during the prosecution of the offense
+by failing to appear for the April 26th preliminary examination. Defendant claims that her failure
+to appear for the preliminary examination cannot be considered willful because her absence was a
+result of drug use and was not a conscious attempt to obstruct justice. Section § 3C1.1 provides:
+“If the defendant willfully obstructed or impeded, or attempted to obstruct or impede, the adminis
+tration of justice during the investigation, prosecution, or sentencing of the instant offense,
+increase the offense level by 2 levels.” Application Note 3 of the Commentary to § 3C1.1 sets forth
+a non-exhaustive list of examples of the types of conduct to which a § 3C1.1 enhancement applies.
+One example is “escaping or attempting to escape from custody before trial or sentencing; or
+willfully failing to appear, as ordered, for a judicial proceeding.”
 
 

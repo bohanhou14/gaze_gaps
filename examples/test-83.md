@@ -1,142 +1,121 @@
 **gold_text:**
-The amendment to Rule 25(a) (1) was intended to dispel unwarranted rigidity and allow more
-flexibility in substitution. “It was intended that liberal effect be given to the 1963 amendment.”
-Roscoe v. Roscoe, 126 U.S.App.D.C. 317, 322, 379 F.2d 94, 99 (1967). “[T]he 90 day period was not
-intended to act as a bar to otherwise meritorious actions.” Staggers v. Otto Gerdau Co., 359 F.2d
-292, 296 (2d Cir. 1966).
+The invitation for bids in this case, which was clearly issued prior to the receipt of the circular,
+was not required to contain the new clause. Plaintiffs strained argument for a contrary
+interpretation is rejected. The circular did not mandate the payment of interest on this claim.
+Plaintiffs argument based on G. L. Christian & Associates v. United States, 160 Ct. Cl. 1, 312 F.2d
+418, cert. denied, 375 U.S. 954 (1963), therefore necessarily fails. Without inclusion of the clause
+being mandated by law, there is no basis for application of the Christian Doctrine. We, therefore,
+do not reach the arguments of the parties on this issue.
 
 **Generations:**
 
 
 ***GPT-4o:***
-This stringent interpretation contrasts sharply with the intent of the 1963 amendments to Rule 25
-and Rule 6(b), which aimed to inject flexibility and fairness into the substitution process. As
-noted in 379 F.2d 94 and 359 F.2d 292, the amendments were designed to eliminate the inequities and
-hardships caused by the rigid two-year limitation originally imposed. The Advisory Committee
-emphasized that the revised rules were to be liberally construed to allow courts discretion in
-extending the substitution period, recognizing the difficulties that could arise in promptly
-identifying and notifying the proper representative of the deceased.   Given this context, the
-defendant’s counsel's suggestion of death, which lacked identification of a proper representative,
-failed to initiate the 90-day countdown. This interpretation aligns with the judicial precedent that
-courts should prioritize the equitable administration of justice over strict procedural formalities.
-Thus, the district court erred in dismissing the plaintiffs' action without granting the requested
-extension, especially considering the circumstances that inhibited timely substitution, such as the
-injury to plaintiffs' counsel and the ongoing legal processes in the probate court.  We, therefore,
-reverse the judgment and remand for further proceedings consistent with this opinion, ensuring that
-the substitution process adheres to the flexible and just principles intended by the amendments to
-the Federal Rules of Civil Procedure.
+In the present case, the dispute centers around the contractual obligations and the failure of the
+administrative agency to agree on the amounts due the claimants, which is reminiscent of the
+challenges observed in *G. L. Christian and Associates* cases (160 Ct. Cl. 1 and 312 F.2d 418). The
+plaintiffs' claims involve the residuals from the Fort Polk housing contract under the Capehart Act.
+Both references, 160 Ct. Cl. 1 and 312 F.2d 418, illustrate scenarios where detailed contractual
+negotiations and the outcomes of subsequent administrative disagreements played pivotal roles.
+Particularly, in *G. L. Christian and Associates*, the financial interests of the plaintiff were
+curiously unaffected by the contract's termination. Much like the situation here, the plaintiffs had
+to navigate the complexities arising from an administrative standstill over the claim amounts,
+ultimately leading them to seek judicial relief. These reference cases highlight the intricate
+interplay between contractual terms and administrative enforcement, providing a precedent backdrop
+for understanding the current contractual impasse. Thus, the reliance on established contractual
+interpretations and the historical context provided by prior rulings is vital in resolving the
+present litigation.
 
 
 **Label:** 
 
 
 ***Meta-Llama-3-8B-Instruct:***
-  In the context of Rule 25(a) (1) of the Federal Rules of Civil Procedure, the suggestion of death
-is a crucial step in the process of substituting a deceased party with a proper representative.
-However, not all suggestions of death are created equal. In cases where the suggestion of death is
-made by a party's attorney, but fails to identify a successor or representative of the deceased, the
-90-day period for substitution may not be triggered.  As noted in 359 F.2d 292, the Advisory
-Committee on Civil Rules intended to provide a more flexible standard for substitution, allowing for
-extensions of time and dispensing with the rigid two-year period previously in place. However, this
-flexibility is contingent upon the suggestion of death providing sufficient information to permit
-the court to proceed with substitution.  In the present case, the suggestion of death made by the
-defendant's attorney was deficient in that it failed to identify a successor or representative of
-the deceased. This lack of specificity rendered the suggestion ineffective in triggering the 90-day
-period for substitution, as explained in 379 F.2d 94.  Furthermore, the court's discretion to
-enlarge the time period for substitution, as provided by Rule 6(b), is not a blank check. Rather, it
-is intended to be exercised in a judicious and reasonable manner, taking into account the particular
-circumstances of each case.  In light of these principles, we conclude that the district court erred
-in dismissing the action with prejudice. The case should be remanded for further proceedings,
-allowing the parties to properly substitute a representative of the deceased and continue the action
-in a manner consistent with the Federal Rules of Civil Procedure.
+ In the case at hand, the plaintiff, G. L. Christian and Associates, is seeking to recover interest
+on an award of $398,687 for constructive partial terminations of a contract. The Court of Claims is
+tasked with determining whether the plaintiff is entitled to interest on the award.  The court notes
+that the plaintiff's financial interests were not affected by the termination of the Fort Polk
+housing contract, as the plaintiff's bid was the lowest acceptable bid and it was not affected by
+the termination. This anomalous situation is similar to that in Reference case 160 Ct. Cl. 1, where
+the plaintiff's financial interests were not affected by the termination of the contract.  The court
+also references Reference case 312 F.2d 418, where the court noted that the requirement for interest
+on claims against the United States is expressed by statute, 28 U.S.C. §2516(a). The court further
+notes that the contract itself does not expressly provide for the payment of interest, and the
+plaintiff relies on Defense Procurement Circular No. 97, which was issued by the Department of
+Defense on February 15, 1972.  The court finds that the circular did not require that the new clause
+be incorporated into the plaintiff's contract, as the invitation for bids was issued prior to the
+issuance of the circular and the circular was only effective upon receipt. The court also notes that
+the circular's language requiring that the clause be incorporated in "new solicitations" did not
+mandate inclusion in this contract.  In conclusion, the court affirms the board's denial of interest
+on the award, finding that the plaintiff is not entitled to interest on the award as the contract
+itself does not expressly provide for the payment of interest and the Defense Procurement Circular
+No. 97 did not require inclusion of the new clause in the contract.
 
 
 **Label:** 
 
 
-**citations:** ['379 F.2d 94', '359 F.2d 292']
+**citations:** ['160 Ct. Cl. 1', '312 F.2d 418']
 
-***short_citations_0:*** 379 F.2d 94
+***short_citations_0:*** 160 Ct. Cl. 1
 
-the proper parties. * * * Unless the motion for substitution is made not later than 90 days after the death is suggested upon the record by service of a statement of the fact of the death as provided herein for the service of the motion, the action shall be dismissed as to the deceased party.” Here not only had the 90-day period not expired when the court entered summary judgment, the appellant by her motion for reconsideration had specifically invoked the discretion of the court. Rule 6(b) provides pertinently that when “by these rules * * * an act is required or allowed to be done at or within a specified time, the court for cause shown may at any time in its discretion (1) with or without motion or notice order the period enlarged if request therefor is made before the expiration of the period originally prescribed * * Originally the Rule had precluded an extension of time for taking action under Rule 25(a) (1), but by purposeful amendment, it was sought to relieve against the hardship of the Court’s holding in Anderson v. Yungkau, 329 U.S. 482, 67 S.Ct. 428, 91 L.Ed. 436 (1947). It was intended that liberal effect be given to the 1963 amendment. Graham v. Pennsylvania Railroad, 119 U.S.App.D.C. 335, 342 F.2d 914 (1964), cert. denied, 381 U.S. 904, 85 S.Ct. 1446, 14 L.Ed.2d 286 (1965). We are constrained to reverse for further proceedings not inconsistent with this opinion. Reversed. The only “party” then
+the claims asserted in the present litigation remain for disposition because the particular claimants and the administrative agency could not agree on the amounts due the claimants. This suit therefore involves only the residue of the claims. I An unusual feature of the case is that the financial interests of the plaintiff, a joint venture consisting of eight individuals operating under the name of G. L. Christian and Associates, were not affected in any way by the termination of the Fort Polk housing contract. In order to explain this anomalous situation, the events that transpired in connection with the making of the contract will be summarized in some detail. Pursuant to an invitation for bids issued by the District Engineer in charge of the Galveston District of the Corps of Engineers, the plaintiff, on November 16, 1956, submitted a bid on the construction of the Fort Polk housing project under the Capehart Act. The plaintiff’s bid consisted of a basic bid plus certain added items. The District Engineer determined that the plaintiff was qualified by experience and financial responsibility to construct housing under the Cape-hart Act, and that its bid was the lowest acceptable bid submitted in response to the invitation. The plaintiff’s bid was thereupon accepted by the District Engineer in his capacity as contracting officer for the Government. The acceptance was in the form of a “letter of acceptability” dated December 17,1956. After its bid for the construction of the Fort Polk housing project was accepted, the plaintiff
 
-***short_citations_1:*** 359 F.2d 292
+***short_citations_1:*** 312 F.2d 418
 
-insertion of a “reasonable time” standard. In 1963, the Advisory Committee suggested the present rule and noted: “Present Rule 25(a) (1), together with present Rule 6(b), results in an inflexible requirement that an action be dismissed as to a deceased party if substitution is not carried out within a fixed period measured from the time of the death. The hardships and inequities of this unyielding requirement plainly appear from the cases. * * * The amended rulé establishes a time limit for the motion to substitute based not upon the time of the death, but rather upon the time information of the death is provided by means of a suggestion of death upon the record, i. e. service of a statement of the fact of the death.” See Notes of Advisory Committee on the Civil Rules, 28 U.S.C. Rule 25 (1964). Rule 6(b) of the Federal Rules of Civil Procedure was also amended in 1963 and the prohibition against extending the time for taking action under Rule 25 was eliminated. The Advisory Committee on the Civil Rules noted: “It is intended that the court shall have discretion to enlarge that period.” The amendments of Rules 6(b) and 25(a) (1) provided needed flexibility. It was assumed that discretionary extensions would be liberally granted. Movants under Rule 25 can ordinarily control when a death is “suggested upon the record” and appellants’ attorney was under no obligation to file his affidavit of Staggers’ death on the date he did. He could have filed
+present litigation remain for disposition because the particular claimants and the administrative agency could not agree on the amounts due the claimants. This suit therefore involves only the residue of the claims. I An unusual feature of the case is that the financial interests of the plaintiff, a joint venture consisting of eight individuals operating under the name of G. L. Christian and Associates, were not affected in any way by the termination of the Fort Polk housing contract. In order to explain this anomalous situation, the events that transpired in connection with the making of the contract will be summarized in some detail. Pursuant to an invitation for bids issued by the District Engineer in charge of the Galveston District of the Corps of Engineers, the plaintiff, on November 16, 1956, submitted a bid on the construction of the Fort Polk housing project under the Capehart Act. The plaintiff’s bid consisted of a basic bid plus certain added items. The District Engineer determined that the plaintiff was qualified by experience and financial responsibility to construct housing under the Capehart Act, and that its bid was the lowest acceptable bid submitted in response to the invitation. The plaintiff’s bid was thereupon accepted by the District Engineer in his capacity as contracting officer for the Government. The acceptance was in the form of a “letter of acceptability” dated December 17, 1956. After its bid for the construction of the Fort Polk housing project was accepted, the plaintiff approached the H. B.
 
 **prev_text:**
-LEVENTHAL, Circuit Judge: The District Court held that Rule 25(a) (1) of the Federal Rules of Civil
-Procedure required dismissal of the plaintiffs’ tort action because defendant’s counsel had filed a
-suggestion of death of the defendant yet plaintiff had not made any substitution of parties within
-90 days. We reverse on the ground that the suggestion of death, which was neither filed by nor
-identified a successor or representative of the deceased, such as an executor or administrator, was
-ineffective to trigger the running of the 90-day period provided by the Rule. Mr. and Mrs. John
-Rende filed an action in the District Court individually and on behalf of their infant son who had
-been struck and injured by Alfred S. Kay while driving his car. On August 27, 1967, defendant Kay
-died. On September 1, 1967, the defendant’s attorney, a term used here to identify the lawyer who
-had been retained by deceased to defend the action, and who had duly entered an appearance as
-attorney for defendant, filed a suggestion of death in the District Court, giving notice to
-plaintiffs’ attorney. That same day there was filed in the Orphans Court for Montgomery County,
-Maryland, residence of the deceased, his will naming his widow as executrix, but the will had not
-been probated, nor any legal representative appointed for the estate at the time of the filing of
-this appeal. Plaintiffs’ attorney was injured on October 14, 1967. On returning to practice early in
-1968, he learned that no successor to defendant Kay had yet been appointed, and he moved to certify
-the case to the ready calendar. The defendant’s attorney opposed this on grounds that discovery
-procedures had not been completed. The case was delayed and placed on the ready calendar as of June
-7, 1968. However, in April 1968, the defendant’s attorney moved in his own name to dismiss the
-action on the ground that Rule 25(a) (1) required plaintiffs to move to substitute a proper party
-for the deceased within 90 days of the suggestion of death. Plaintiffs filed an opposition and
-motion for substitution of the proper party, and sought an extension of the time for substitution as
-allowed by Rule 6(b). At argument, plaintiffs’ counsel asserted the “suggestion of death was
-defective in that it did not list the name of the proper party; that is the legal representative of
-the defendant.” The court responded: “That would not be his burden.” The court dismissed the action
-with prejudice. Prior to its amendment in 1963, Rule 25(a) (1) required the court to dismiss a case
-if no motion for substitution was filed within two. years after date of death, and no extensions of
-this period were allowed under Rule 6(b). The rule was rigorously applied, often with harsh results,
-and was called “easily the poorest rule of all the Federal Rules.” In 1955 the Advisory Committee on
-Rules for Civil Procedure recommended that the two-year period be changed to a “reasonable time”
-standard. In 1961 the Advisory Committee on Civil Rules again suggested the Rule be made more
-flexible. In 1963 the Supreme Court made changes in Rule 25(a) (1) and in Rule 6(b) so as to provide
-a 90-day time limit from the filing of a suggestion of death, and to give the court discretion to
-extend that time. The Committee Notes explaining the amendments state: Present Rule 25(a) (1),
-together with present Rule 6(b), results in an inflexible requirement that an action be dismissed as
-to a deceased party if substitution is not carried out within a fixed period measured from the time
-of death. The hardships and inequities of this unyielding requirement plainly appear from the cases.
-* * * The amended rule establishes a time limit for the motion to substitute based not upon the time
-of the death, but rather upon the time information of the death is provided by means of a suggestion
-of death upon the record. * * * A motion to substitute may be made by any party or by the
-representative of the deceased party without awaiting the suggestion of death. Indeed, the motion
-will usually be so made. If a party or the representative of the deceased party desires to limit the
-time within which another may make the motion, he may do so by suggesting the death upon the record.
-(Emphasis added.) Under the amended Rule either a party or “the successors or representatives of the
-deceased party” may avoid delay in effecting substitution for the deceased party either by filing a
-motion for substitution or by suggesting death on the record and thus triggering the 90-day period
-which begins with suggestion of death. The Advisory Committee, in outlining that suggestion of death
-could be made by “the representative of the deceased party” plainly contemplated that the suggestion
-emanating from the side of the deceased would identify a representative of the estate, such as an
-executor or administrator, who could be substituted for the deceased as a party, with the action
-continued in the name of the representative. The addition of “successor” in the Rule would take care
-of the case of, say, the distributee of an estate that had been distributed, but would not make a
-material difference in the aspect under consideration. Form 30, for suggestion of death, which was
-provided in order to expedite and facilitate implementation of the amendment, provides: A.B.
-[described as a party, or as executor, administrator, or other representative or successor of C.D.,
-the deceased party\ suggests upon the record, pursuant to Rule 25(a) (1), the death of C.D.
-[describe as party] during the pendency of this action. Added Jan. 21, 1963, eff. July 1, 1963.
-[Emphasis added.] Although the attorney for the defendant was retained to “represent” the deceased
-as his counsel, he is not a person who could be made a party, and is not a “representative of the
-deceased party” in the sense contemplated by Rule 25(a) d). In our opinion the Rule, as amended,
-cannot fairly be construed, as the de fendant’s attorney argues, to make his suggestion of death
-operative to trigger the 90-day period even though he was neither a successor nor representative of
-the deceased, and gave no indication of what person was available to be named in substitution as a
-representative of the deceased. Counsel’s construction would open the door to a tactical maneuver to
-place upon the plaintiff the burden of locating the representative of the estate within 90 days. We
-can conceive of cases wherein even the lawyer retained to represent a defendant might know the
-defendant had died, yet not readily know where his estate would be administered. In the present
-case, plaintiff’s attorney did know the court of probate, but he did not know whether probate of the
-will might be contested, or who would be appointed representative of the estate. The tactic of the
-defendant’s attorney would place on plaintiff the burden, where no conventional representative was
-appointed for the estate in probate court, of instituting machinery in order to produce some
-representative of the estate ad litem, pending appointment of the representative contemplated by law
-of the domicile of the deceased.
+This contract case is before the court on cross-motions for summary judgment. The plaintiffs
+petition seeks review of an Armed Services Board of Contract Appeals decision, Wheeler Brothers,
+Inc., ASBCA No. 24421, 80-1 BCA ¶ 14,435 (April 24,1980), which denied plaintiff interest on a
+previous award of $398,687 as an equitable adjustment for constructive partial terminations of a
+contract. We affirm the board’s denial of interest on the award. The plaintiff was awarded contract
+No. F65501-72-C-0222 by the Department of the Air Force on March 15, 1972. The contract made
+plaintiff the exclusive supplier of the Government’s requirements of automotive parts through the
+operation of certain Contractor-Operated Parts Stores at various locations in Alaska. Plaintiff was
+awarded its equitable adjustment because the Government purchased $2,800,000 worth of parts from
+other sources. Wheeler Brothers, Inc., ASBCA No. 20465, 79-1 BCA ¶13,642 (January 5, 1979). That
+decision was silent on the issue of interest and the plaintiffs subsequent appeal to the contracting
+officer on the interest issue was denied on October 17, 1979. The board agreed with the contracting
+officer’s decision and this suit followed. It is fundamental that the "Court of Claims jurisdiction
+to grant relief depends wholly upon the extent to which the United States has waived its sovereign
+immunity to suit and that such waiver cannot be implied but must be unequivocally expressed.” United
+States v. King, 395 U.S. 1, 4 (1969). With regard to interest on claims, the requirement is
+expressly stated by statute. 28 U.S.C. §2516(a) (1976) provides: "Interest on a claim against the
+United States shall be allowed in a judgment of the Court of Claims [the judgment in this case is an
+award by the ASBCA] only under a contract or Act of Congress expressly providing for payment
+thereof.” Thus, the plaintiff carries a heavy burden in this suit. The parties agree that the
+contract itself does not expressly provide for the payment of interest. The plaintiff relies upon
+Defense Procurement Circular No. 97 which was issued by the Department of Defense on February 15,
+1972. That circular promulgated a new clause entitled "Payment of Interest on Contractor’s Claims”
+which was applicable as follows: This revision is effective upon receipt and the clause shall be
+included in new solicitations in accordance with ASPR l-106.2(d). The clause shall not be
+incorporated into existing contracts. ASPR l-106.2(d), 32 C.F.R. §1.106-2(d), provides: Statements
+in Defense Procurement Circulars to the effect that the material published therein is "effective
+upon receipt” or upon a specified date, or that changes set forth in the Circular are "to be used
+upon receipt”, mean that any new or revised clauses or forms included in the Circular shall be
+included in invitations for bids and requests for proposals issued thereafter, unless a different
+meaning is expressed in the Circular. However, unless otherwise provided in the Circular, the new or
+revised clauses or forms need not be included in solicitations already in process of preparation
+where their inclusion would cause an undue delay in the solicitation. Applying the language of the
+circular and the regulation to the facts of this case, we find that the plain meaning clearly
+dictates a holding that the circular did not require that the new clause be incorporated into
+plaintiffs contract. The invitation for bids in this case was issued on November 22, 1971, with the
+last of four modifications being effective on January 17,1972. The plaintiffs bid was submitted on
+January 20,1972. Thus, the invitation for bids was issued prior to the issuance of the circular on
+February 15, 1972, and the circular was only effective upon receipt. The circular’s language
+requiring that the clause be incorporated in "new solicitations” did not mandate inclusion in this
+contract. We read the second sentence of the quoted ASPR section as qualifying the first sentence
+and creating an exception. The first sentence mandates the inclusion of the new clause in "new
+solicitations,” i.e., invitations for bid which are issued after receipt of the circular, unless
+otherwise provided in the circular. In this case, the circular provision did not provide otherwise,
+instead it had a similar provision. The second sentence of the regulation creates an exception: if a
+solicitation, which has not been issued (i.e, a solicitation to which sentence one applies) but is
+already in the process of preparation, would be unduly delayed in issuance by the incorporation of
+the new clause, then the solicitation can be issued without incorporating the new clause. As the
+court stated in Framlau Corp. v. United States, 215 Ct. Cl. 185, 198 n.16, 568 F.2d 687, 694 n.16
+(1977), the new clause requiring the payment of interest on contractor’s claims was prospective
+only.
 
 

@@ -1,142 +1,272 @@
 **gold_text:**
-The amendment to Rule 25(a) (1) was intended to dispel unwarranted rigidity and allow more
-flexibility in substitution. “It was intended that liberal effect be given to the 1963 amendment.”
-Roscoe v. Roscoe, 126 U.S.App.D.C. 317, 322, 379 F.2d 94, 99 (1967). “[T]he 90 day period was not
-intended to act as a bar to otherwise meritorious actions.” Staggers v. Otto Gerdau Co., 359 F.2d
-292, 296 (2d Cir. 1966).
+. Mathews v. Eldridge, 424 U.S. 319, 335, 96 S.Ct. 893, 903, 47 L.Ed.2d 18 (1976); see also Lassiter
+v. Dep’t of Soc. Servs. of Durham County, 452 U.S. 18, 25-33, 101 S.Ct. 2153, 2158-63, 68 L.Ed.2d
+640 (1981) (discussing applying the Mathews balancing test to a situation in which the question was
+whether due process required the appointment of an attorney).
 
 **Generations:**
 
 
 ***GPT-4o:***
-This stringent interpretation contrasts sharply with the intent of the 1963 amendments to Rule 25
-and Rule 6(b), which aimed to inject flexibility and fairness into the substitution process. As
-noted in 379 F.2d 94 and 359 F.2d 292, the amendments were designed to eliminate the inequities and
-hardships caused by the rigid two-year limitation originally imposed. The Advisory Committee
-emphasized that the revised rules were to be liberally construed to allow courts discretion in
-extending the substitution period, recognizing the difficulties that could arise in promptly
-identifying and notifying the proper representative of the deceased.   Given this context, the
-defendant’s counsel's suggestion of death, which lacked identification of a proper representative,
-failed to initiate the 90-day countdown. This interpretation aligns with the judicial precedent that
-courts should prioritize the equitable administration of justice over strict procedural formalities.
-Thus, the district court erred in dismissing the plaintiffs' action without granting the requested
-extension, especially considering the circumstances that inhibited timely substitution, such as the
-injury to plaintiffs' counsel and the ongoing legal processes in the probate court.  We, therefore,
-reverse the judgment and remand for further proceedings consistent with this opinion, ensuring that
-the substitution process adheres to the flexible and just principles intended by the amendments to
-the Federal Rules of Civil Procedure.
+C. It is also pertinent to consider the factors outlined in **Mathews v. Eldridge**, 424 U.S. 319
+(1976), as referenced in both **452 U.S. 18** and **424 U.S. 319**, when analyzing the necessity of
+appointing counsel. As per the Eldridge factors, the first consideration is the private interest
+affected—in this case, Robinson's liberty and the potential reduction of his sentence.  The second
+factor is the risk of erroneous deprivation of such interest through the procedures used. Given the
+complexities involved in interpreting the retroactive application of the Sentencing Guidelines and
+addressing factual disputes, the risk of error is significant without the aid of counsel.  The third
+factor is the Government’s interest, which includes evaluating the fiscal and administrative burden
+of appointing an attorney. While concerns about resource allocation are valid, they are outweighed
+by the need to ensure fair and accurate adjudication of Robinson's request for sentence reduction.
+Therefore, consistent with the principles established in Eldridge, the appointment of counsel is
+justified to safeguard Robinson’s procedural rights. This approach ensures that the legal
+proceedings are thorough and that Robinson's due process rights are upheld.  MOTION GRANTED.
 
 
 **Label:** 
 
 
 ***Meta-Llama-3-8B-Instruct:***
-  In the context of Rule 25(a) (1) of the Federal Rules of Civil Procedure, the suggestion of death
-is a crucial step in the process of substituting a deceased party with a proper representative.
-However, not all suggestions of death are created equal. In cases where the suggestion of death is
-made by a party's attorney, but fails to identify a successor or representative of the deceased, the
-90-day period for substitution may not be triggered.  As noted in 359 F.2d 292, the Advisory
-Committee on Civil Rules intended to provide a more flexible standard for substitution, allowing for
-extensions of time and dispensing with the rigid two-year period previously in place. However, this
-flexibility is contingent upon the suggestion of death providing sufficient information to permit
-the court to proceed with substitution.  In the present case, the suggestion of death made by the
-defendant's attorney was deficient in that it failed to identify a successor or representative of
-the deceased. This lack of specificity rendered the suggestion ineffective in triggering the 90-day
-period for substitution, as explained in 379 F.2d 94.  Furthermore, the court's discretion to
-enlarge the time period for substitution, as provided by Rule 6(b), is not a blank check. Rather, it
-is intended to be exercised in a judicious and reasonable manner, taking into account the particular
-circumstances of each case.  In light of these principles, we conclude that the district court erred
-in dismissing the action with prejudice. The case should be remanded for further proceedings,
-allowing the parties to properly substitute a representative of the deceased and continue the action
-in a manner consistent with the Federal Rules of Civil Procedure.
+  The cases referenced in the writeup, 424 U.S. 319 and 452 U.S. 18, are crucial in understanding
+the context of Robinson's appeal. In Eldridge v. Ashcroft, 424 U.S. 319 (1976), the Supreme Court
+held that indigent parents do not have a constitutional right to appointed counsel in termination
+proceedings. However, in Tennessee v. Lane, 452 U.S. 18 (1981), the Court found that indigent
+parents do have a constitutional right to appointed counsel in termination proceedings.  In
+Robinson's case, the issue is whether he has a right to an attorney in a § 3582(c)(2) proceeding.
+The government argues that he does not have a constitutional right to an attorney, citing Eldridge.
+However, considering the complexities involved in the sentencing process, I believe that it is in
+the interest of justice to appoint Robinson an attorney.  Robinson's appeal raises several issues,
+including the application of the 100:1 ratio, the impact of Booker on the sentencing process, and
+the district court's discretion in crafting a new sentence. With an attorney, Robinson would be
+better equipped to argue his case and ensure that his rights are protected. I therefore grant
+Robinson's request for an attorney and recommend that counsel be appointed under the circuit
+procedure.
 
 
 **Label:** 
 
 
-**citations:** ['379 F.2d 94', '359 F.2d 292']
+**citations:** ['424 U.S. 319', '452 U.S. 18']
 
-***short_citations_0:*** 379 F.2d 94
+***short_citations_0:*** 424 U.S. 319
 
-the proper parties. * * * Unless the motion for substitution is made not later than 90 days after the death is suggested upon the record by service of a statement of the fact of the death as provided herein for the service of the motion, the action shall be dismissed as to the deceased party.” Here not only had the 90-day period not expired when the court entered summary judgment, the appellant by her motion for reconsideration had specifically invoked the discretion of the court. Rule 6(b) provides pertinently that when “by these rules * * * an act is required or allowed to be done at or within a specified time, the court for cause shown may at any time in its discretion (1) with or without motion or notice order the period enlarged if request therefor is made before the expiration of the period originally prescribed * * Originally the Rule had precluded an extension of time for taking action under Rule 25(a) (1), but by purposeful amendment, it was sought to relieve against the hardship of the Court’s holding in Anderson v. Yungkau, 329 U.S. 482, 67 S.Ct. 428, 91 L.Ed. 436 (1947). It was intended that liberal effect be given to the 1963 amendment. Graham v. Pennsylvania Railroad, 119 U.S.App.D.C. 335, 342 F.2d 914 (1964), cert. denied, 381 U.S. 904, 85 S.Ct. 1446, 14 L.Ed.2d 286 (1965). We are constrained to reverse for further proceedings not inconsistent with this opinion. Reversed. The only “party” then
+not improved and identifying the medical sources, including physicians, from whom he had received treatment recently. The state agency then obtained reports from his physician and a psychiatric consultant. After considering these reports and other information in his file the agency informed Eldridge by letter that it had made a tentative determination that his disability had ceased in May 1972. The letter included a statement of reasons for the proposed termination of benefits, and advised Eldridge that he might request reasonable time in which to obtain and submit additional information pertaining to his condition. In his written response, Eldridge disputed one characterization of his medical condition and indicated that the agency already had enough evidence to establish his disability. The state agency then made its final determination that he had ceased to be disabled in May 1972. This determination was accepted by the Social Security Administration (SSA), which notified Eldridge in July that his benefits would terminate after that month. The notification also advised him of his right to seek reconsideration by the state agency of this initial determination within six months. Instead of requesting reconsideration Eldridge commenced this action challenging the constitutional valid ity of the administrative procedures established by the Secretary of Health, Education, and Welfare for assessing whether there exists a continuing disability. He sought an immediate reinstatement of benefits pending a hearing on the issue of his disability. 361 F. Supp. 520 (WD Va. 1973). The Secretary moved to dismiss on the grounds that Eldridge’s benefits
 
-***short_citations_1:*** 359 F.2d 292
+***short_citations_1:*** 452 U.S. 18
 
-insertion of a “reasonable time” standard. In 1963, the Advisory Committee suggested the present rule and noted: “Present Rule 25(a) (1), together with present Rule 6(b), results in an inflexible requirement that an action be dismissed as to a deceased party if substitution is not carried out within a fixed period measured from the time of the death. The hardships and inequities of this unyielding requirement plainly appear from the cases. * * * The amended rulé establishes a time limit for the motion to substitute based not upon the time of the death, but rather upon the time information of the death is provided by means of a suggestion of death upon the record, i. e. service of a statement of the fact of the death.” See Notes of Advisory Committee on the Civil Rules, 28 U.S.C. Rule 25 (1964). Rule 6(b) of the Federal Rules of Civil Procedure was also amended in 1963 and the prohibition against extending the time for taking action under Rule 25 was eliminated. The Advisory Committee on the Civil Rules noted: “It is intended that the court shall have discretion to enlarge that period.” The amendments of Rules 6(b) and 25(a) (1) provided needed flexibility. It was assumed that discretionary extensions would be liberally granted. Movants under Rule 25 can ordinarily control when a death is “suggested upon the record” and appellants’ attorney was under no obligation to file his affidavit of Staggers’ death on the date he did. He could have filed
+2d 259 (1973). The respondent is able to point to no presently authoritative case, except for the North Caro lina judgment now before us, holding that an indigent parent has no due process right to appointed counsel in termination proceedings. C The dispositive question, which must now be addressed, is whether the three Eldridge factors, when weighed against the presumption that there is no right to appointed counsel in the absence of at least a potential deprivation of physical liberty, suffice to rebut that presumption and thus to lead to the conclusion that the Due Process Clause requires the appointment of counsel when a State seeks to terminate an indigent’s parental status. To summarize the above discussion of the Eldridge factors: the parent’s interest is an extremely important one (and may be supplemented by the dangers of criminal liability inherent in some termination proceedings); the State shares with the parent an interest in a correct decision, has a relatively weak pecuniary interest, and, in some but not all cases, has a possibly stronger interest in informal procedures; and the complexity of the proceeding and the incapacity of the uncounseled parent could be, but would not always be, great enough to make the risk of an erroneous deprivation of the parent’s rights insupportably high. If, in a given case, the parent’s interests were at their strongest, the State’s interests were at their weakest, and the risks of error were at their peak, it could not be said that the Eldridge factors
 
 **prev_text:**
-LEVENTHAL, Circuit Judge: The District Court held that Rule 25(a) (1) of the Federal Rules of Civil
-Procedure required dismissal of the plaintiffs’ tort action because defendant’s counsel had filed a
-suggestion of death of the defendant yet plaintiff had not made any substitution of parties within
-90 days. We reverse on the ground that the suggestion of death, which was neither filed by nor
-identified a successor or representative of the deceased, such as an executor or administrator, was
-ineffective to trigger the running of the 90-day period provided by the Rule. Mr. and Mrs. John
-Rende filed an action in the District Court individually and on behalf of their infant son who had
-been struck and injured by Alfred S. Kay while driving his car. On August 27, 1967, defendant Kay
-died. On September 1, 1967, the defendant’s attorney, a term used here to identify the lawyer who
-had been retained by deceased to defend the action, and who had duly entered an appearance as
-attorney for defendant, filed a suggestion of death in the District Court, giving notice to
-plaintiffs’ attorney. That same day there was filed in the Orphans Court for Montgomery County,
-Maryland, residence of the deceased, his will naming his widow as executrix, but the will had not
-been probated, nor any legal representative appointed for the estate at the time of the filing of
-this appeal. Plaintiffs’ attorney was injured on October 14, 1967. On returning to practice early in
-1968, he learned that no successor to defendant Kay had yet been appointed, and he moved to certify
-the case to the ready calendar. The defendant’s attorney opposed this on grounds that discovery
-procedures had not been completed. The case was delayed and placed on the ready calendar as of June
-7, 1968. However, in April 1968, the defendant’s attorney moved in his own name to dismiss the
-action on the ground that Rule 25(a) (1) required plaintiffs to move to substitute a proper party
-for the deceased within 90 days of the suggestion of death. Plaintiffs filed an opposition and
-motion for substitution of the proper party, and sought an extension of the time for substitution as
-allowed by Rule 6(b). At argument, plaintiffs’ counsel asserted the “suggestion of death was
-defective in that it did not list the name of the proper party; that is the legal representative of
-the defendant.” The court responded: “That would not be his burden.” The court dismissed the action
-with prejudice. Prior to its amendment in 1963, Rule 25(a) (1) required the court to dismiss a case
-if no motion for substitution was filed within two. years after date of death, and no extensions of
-this period were allowed under Rule 6(b). The rule was rigorously applied, often with harsh results,
-and was called “easily the poorest rule of all the Federal Rules.” In 1955 the Advisory Committee on
-Rules for Civil Procedure recommended that the two-year period be changed to a “reasonable time”
-standard. In 1961 the Advisory Committee on Civil Rules again suggested the Rule be made more
-flexible. In 1963 the Supreme Court made changes in Rule 25(a) (1) and in Rule 6(b) so as to provide
-a 90-day time limit from the filing of a suggestion of death, and to give the court discretion to
-extend that time. The Committee Notes explaining the amendments state: Present Rule 25(a) (1),
-together with present Rule 6(b), results in an inflexible requirement that an action be dismissed as
-to a deceased party if substitution is not carried out within a fixed period measured from the time
-of death. The hardships and inequities of this unyielding requirement plainly appear from the cases.
-* * * The amended rule establishes a time limit for the motion to substitute based not upon the time
-of the death, but rather upon the time information of the death is provided by means of a suggestion
-of death upon the record. * * * A motion to substitute may be made by any party or by the
-representative of the deceased party without awaiting the suggestion of death. Indeed, the motion
-will usually be so made. If a party or the representative of the deceased party desires to limit the
-time within which another may make the motion, he may do so by suggesting the death upon the record.
-(Emphasis added.) Under the amended Rule either a party or “the successors or representatives of the
-deceased party” may avoid delay in effecting substitution for the deceased party either by filing a
-motion for substitution or by suggesting death on the record and thus triggering the 90-day period
-which begins with suggestion of death. The Advisory Committee, in outlining that suggestion of death
-could be made by “the representative of the deceased party” plainly contemplated that the suggestion
-emanating from the side of the deceased would identify a representative of the estate, such as an
-executor or administrator, who could be substituted for the deceased as a party, with the action
-continued in the name of the representative. The addition of “successor” in the Rule would take care
-of the case of, say, the distributee of an estate that had been distributed, but would not make a
-material difference in the aspect under consideration. Form 30, for suggestion of death, which was
-provided in order to expedite and facilitate implementation of the amendment, provides: A.B.
-[described as a party, or as executor, administrator, or other representative or successor of C.D.,
-the deceased party\ suggests upon the record, pursuant to Rule 25(a) (1), the death of C.D.
-[describe as party] during the pendency of this action. Added Jan. 21, 1963, eff. July 1, 1963.
-[Emphasis added.] Although the attorney for the defendant was retained to “represent” the deceased
-as his counsel, he is not a person who could be made a party, and is not a “representative of the
-deceased party” in the sense contemplated by Rule 25(a) d). In our opinion the Rule, as amended,
-cannot fairly be construed, as the de fendant’s attorney argues, to make his suggestion of death
-operative to trigger the 90-day period even though he was neither a successor nor representative of
-the deceased, and gave no indication of what person was available to be named in substitution as a
-representative of the deceased. Counsel’s construction would open the door to a tactical maneuver to
-place upon the plaintiff the burden of locating the representative of the estate within 90 days. We
-can conceive of cases wherein even the lawyer retained to represent a defendant might know the
-defendant had died, yet not readily know where his estate would be administered. In the present
-case, plaintiff’s attorney did know the court of probate, but he did not know whether probate of the
-will might be contested, or who would be appointed representative of the estate. The tactic of the
-defendant’s attorney would place on plaintiff the burden, where no conventional representative was
-appointed for the estate in probate court, of instituting machinery in order to produce some
-representative of the estate ad litem, pending appointment of the representative contemplated by law
-of the domicile of the deceased.
+REAVLEY, Circuit Judge: Before us is Clarence Robinson’s request for counsel to represent him in his
+appeal. Robinson had filed a motion on his own behalf in district court to take advantage of the
+retroactive amendment to the Sentencing Guidelines that provides federal prisoners convicted of
+crack-cocaine offenses the possibility of receiving a sentence reduction. The court granted the
+motion and reduced Robinson’s 180-month sentence by 5 months. We grant the request for counsel in
+the interest of justice. I. In the 1980s, crack cocaine burst onto the drug scene, resulting in an
+epidemic that engulfed large portions of the country. Senator Lawton Chiles remarked in 1986 that
+“[t]he whole Nation now knows about crack cocaine. They know it can be bought for the price of a
+cassette tape[] and make people into slaves. It can turn promising young people into robbers and
+thieves, stealing anything they can to get the money to feed their habit.” To quickly combat this
+plague, Congress rushed to pass the Anti-Drug Abuse Act of 1986, which mandated harsh sentences for
+crack offenses. Congress also made the decision to draw a dramatic sentencing distinction between
+powder-cocaine and crack-cocaine offenses. Although crack and powder cocaine are chemically the
+same, various members of Congress believed that “crack is more addictive than powder cocaine”; “that
+it causes crime”; “that it has perilous physiological effects such as psychosis and death”; “that
+young people are particularly prone to becoming addicted to it”; and “that crack’s low cost per dose
+and ease of manufacture would lead to even more widespread use of it.” As a result, Congress
+determined that 1 gram of crack would be considered equivalent to 100 grams of powder cocaine for
+purposes of applying the 1986 Act’s mandatory minimum penalties. While possession of 5 grams of
+crack would result in a five-year mandatory minimum sentence, it took 500 grams of powder cocaine
+for the same penalty. The 1986 Act’s legislative history contains “no discussion of the 100:1
+ratio.” It was selected, however, after Congress decided to double the 50:1 ratio found in an
+earlier version of the legislation to “symbolize redoubled Congressional seriousness” on the issue.
+Meanwhile, the newly created Sentencing Commission was tackling the issue of creating the Sentencing
+Guidelines. While most of the Guidelines were created “using an empirical approach based on data
+about past sentencing practices,” the Commission decided to create Guidelines for drug offenses by
+using the 1986 Act’s weight-driven scheme. Thus, the offense level for a particular drug offense was
+tethered to the type of drug and drug weight. In determining the offense level for the possession or
+sale of crack and powder cocaine, the Commission simply repeated the 100:1 ratio found in the 1986
+Act. Over the next two decades the 100:1 ratio was subjected to constant criticism, as commentators
+argued that the ratio was unjustified and the product of a severe overreaction, as the crack
+epidemic had not turned into the cataclysmic event many had feared. The Sentencing Commission itself
+eventually led the charge to change the ratio. Beginning in 1995, the Commission determined that the
+ratio was not defensible, and it proposed an amendment to the Guidelines that would implement a 1:1
+ratio. Congress rejected the amendment. The Commission issued its fourth report on the 100:1 ratio
+in 2007. It repeated its criticism of the ratio and the assumption about crack versus powder
+cocaine. The Commission then proposed an amendment to the Guidelines that would provide for a two
+level reduction for all crack offenses; and after Congress chose not to veto the amendment, the two-
+level reduction went into effect on November 1, 2007. The Commission believed that the amendment is
+only a “ ‘partial remedy’ ” however, since the Guidelines still advance a “crack/powder ratio that
+varies (at different offense levels) between 25 to 1 and 80 to l.” The Sentencing Commission then
+voted to make the amendment retroactive in an attempt to remedy some of the past injustice the 100:1
+ratio had wrought. The amendment became retroactive on March 3, 2008. II. In 1994, Robinson pleaded
+guilty to possession of crack cocaine with the intent to distribute. Robinson was responsible for
+possessing approximately 206 grams of cocaine base. After factoring in his criminal history, his
+Guideline range was 168 to 210 months. He was sentenced to 180 months in prison — i.e., 15 years.
+Had he been convicted of possessing a similar amount of powder cocaine, his sentence would have been
+between 4 and 5 years. In March 2008, Robinson sought to take advantage of the retroactive crack
+amendment. He filed on his own behalf a motion (which was really a questionnaire given to him by the
+local federal public defender office) pursuant to 18 U.S.C. § 3582(c)(2). That subsection provides
+district courts with the discretion to apply a retroactive amendment to a particular case, after the
+court considers the sentencing factors in 18 U.S.C. § 3553(a), “if such a reduction is consistent
+with applicable policy statements issued by the Sentencing Commission.” In support of his §
+3582(c)(2) motion, Robinson attached a report compiled by the Bureau of Prisons that detailed his
+conduct in prison. The report shows that over the course of Robinson’s 13 years in prison, he was
+generally well behaved. For example, the report includes a note from officials from the current
+prison housing Robinson that states that “he has maintained clear conduct, maintains positive work
+ethic, and keeps a good rapport with staff.” The report also notes that Robinson currently works as
+a baker and is “appreciated greatly by the inmate population.” The report further lists the numerous
+classes Robinson has completed. At the same time, in his 13 years in prison he has received three
+disciplinary infractions: one in 2000 for giving another inmate money so that he could use that
+inmate’s phone time; one in 2001 for passing a note with his mailing address to a nurse at a public
+hospital; and one in 2004 for being disrespectful to a prison-staff member. The report also noted
+that in 1996, two years after he started serving his sentence, he was convicted of perjury. (No
+details on the perjury conviction have been provided.) Robinson was treated as requesting an
+attorney when he attached to his motion a letter from the office of the federal public defenders
+stating that it did not represent him. The Government responded to Robinson’s motion a month later
+with a 25-page sentencing memorandum making a series of arguments. With respect to the motion, the
+Government contended that Robinson was not entitled to an attorney — nor needed one — because the
+issues the case presented were “straightforward.” The Government also contended that the district
+court need not hold a hearing. It further noted that Robinson had previously been sentenced under a
+Guideline range of 168 to 210 months (receiving a 180-month sentence) and that his range would
+become 140 to 175 months if the court applied the retroactive crack amendment. The Government argued
+that if the district court decided to grant the motion, Robinson should be given a new sentence of
+175 months, the sentence at the top of the new Guideline range. To support its suggested sentence,
+the Government argued, among other things, that releasing Robinson earlier was not justified given
+his criminal history. The Government pointed out that Robinson had been convicted of a handful of
+crimes in the past; that Robinson had been arrested in other instances; and that he had received
+three disciplinary infractions while in prison. Finally, the Government argued that United States v.
+Booker did not apply to a § 3582(c)(2) proceeding, meaning that the Guidelines would be mandatory
+and the district court could therefore not sentence Robinson below the bottom end of the new
+Guideline range — i.e., 140 months. The Government admitted that this court had not yet resolved the
+issue and that the only circuit court to do so in a published opinion, the Ninth Circuit, had held
+that Booker renders the Guidelines advisory in a § 3582(c)(2) proceeding. The district court
+immediately issued a one-page order giving Robinson a new sentence of 175 months without providing
+him an attorney. The court did not explain why it was not providing Robinson an attorney, what
+effect (if any) Booker might have on the sentencing process, or why it selected a 175-month
+sentence. Two weeks later Robinson filed a motion for re-consideration. He provided context for his
+three disciplinary infractions by attaching the reports generated from those incidents. He also
+claimed the Government had made two factual misstatements regarding his prior arrest history. Three
+days later the court denied Robinson’s motion for re-consideration in a one-sentence order. Robinson
+promptly filed a notice of appeal. He has since filed a motion in this court requesting that we
+appoint him an attorney. The Government has not responded. III. The sole issue before us now is
+whether to grant Robinson’s request for an attorney to represent him in this court. Since Robinson
+filed the motion on his own behalf without the help of an attorney, we liberally construe his
+request. In doing so, we read Robinson’s motion to contend that he should be appointed an attorney
+as a matter of right and as a matter of grace. We address each contention in turn. A. There are
+three potential sources that could establish Robinson’s right to an attorney — two constitutional
+sources and one statutory. The first potential source of a right to counsel can be found in the
+Fifth Amendment’s Due Process Clause, which the Supreme Court has interpreted to require the
+appointment of counsel for indigent defendants whenever “fundamental fairness” demands it.
+Furthermore, due process requires a pragmatic balancing of three distinct interests to determine
+whether more process (such as providing a defendant an attorney) is constitutionally mandated:
+First, the private interest that will be affected by the official action; second, the risk of an
+erroneous deprivation of such interest through the procedures used, and the probable value, if any,
+of additional or substitute procedural safeguards; and finally, the Government’s interest, including
+the function involved and the fiscal and administrative burdens that the additional or substitute
+procedural requirement would entail. The second potential source of a right to counsel for indigent
+defendants can be found in the Sixth Amendment’s guarantee of the assistance of counsel. While the
+Supreme Court has held that “[c]ounsel for an indigent is required at every stage of a criminal
+proceeding where substantial rights of a criminal accused may be affected,” it has also stated that
+the Sixth Amendment does not mandate counsel once the defendant’s direct appeal comes to an end. The
+third and final potential source of a right to counsel for indigent defendants can be found in 18
+U.S.C. § 3006A. That provision requires, among other things, appointment of counsel for direct
+appeals and any “ancillary matters” to the direct appeal. In the 1995 opinion in United States v.
+Whitebird this Court held that an indigent defendant in a § 3582(c)(2) proceeding did not have a
+right to an attorney under the Fifth Amendment, the Sixth Amendment, or 18 U.S.C. § 3006A(c). In
+Whitebird we summarily dismissed the Fifth Amendment claim in a footnote by stating that “[t]his
+case does not present any due process concerns,” and we likewise had no problem rejecting the Sixth
+Amendment argument. Finally, we determined that the defendant had no statutory right to an attorney
+under § 3006A(c), as we interpreted “ancillary matters” as not including situations where a
+defendant files a § 3582(c)(2) motion. The court determined that such motions are “too far removed
+[from the original criminal proceeding] to be considered ‘ancillary.’ ” The sentencing procedure
+Robinson is subject to under his § 3582(c)(2) motion is different than the sentencing procedure for
+§ 3582(c)(2) motions when Whitebird was decided. The sentencing procedure for § 3582(c) motions is
+governed by USSG § 1B1.10(b), which was amended in 2008. Therefore, the issues of concern for
+Robinson’s § 3582(c)(2) motion are distinguishable from the facts in Whitebird. While previous
+courts had to determine what sentence they would have given the defendant in light of the facts as
+they existed at the time of the original sentencing, the new process requires district courts when
+answering this question to consider, in every case, “the nature and seriousness of the danger to any
+person or the community that may be posed by a reduction in the defendant’s term of imprisonment”
+and allows district courts to consider “post-sentencing conduct of the defendant that occurred after
+imposition of the original term of imprisonment.” The question, then, of whether a § 3582(c)(2)
+motion triggers either a statutory or constitutional right to an attorney — in either this court or
+the district court — is a different question now than it was before the amendments to USSG §
+1131.10(b). We choose not to decide this issue now, however, since we have no briefing from either
+the defendant or the Government. Moreover, we have no out-of-circuit guidance since no circuit court
+has yet addressed the issue of whether a defendant is now entitled to an attorney in a § 3582(c)(2)
+proceeding given the new complexities USSG § 1B1.10 has injected into the process. B. Assuming for
+the sake of argument that this § 3582(c)(2) proceeding is not ancillary to Robinson’s original
+criminal case — but rather is collateral- — we have discretion to appoint Robinson an attorney “in
+the interest of justice.” We believe it is in the interest of justice to appoint Robinson counsel.
+Robinson’s appeal could raise a number of issues, and we would be more likely to reach the correct
+resolution of those issues (and therefore serve the interest of justice) if we had attorneys on both
+sides arguing their respective positions. Those issues may include whether Robinson was entitled to
+an attorney as a matter of right in the district court, whether Booker applies to § 3582(c)(2)
+proceedings (as the Ninth Circuit has held), rendering the process set out in USSG § lB1.10(b)
+advisory and granting the district court more discretion in crafting a new sentence, whether the
+district court erred by not holding an evi-dentiary hearing once he contested the factual basis of
+some of the Government’s contentions, and whether the district court abused its discretion in not
+giving him a larger sentence reduction. Robinson’s motion is granted and counsel shall be appointed
+under the circuit procedure. MOTION GRANTED. . William Spade, Jr., Beyond the 100:1 Ratio: Towards a
+Rational Cocaine Sentencing Policy, 38 Ariz. L.Rev. 1233, 1243-44 (1996) ("[B]y the early 1980s,
+crack use had exploded, spreading to major cities throughout the country. Drug experts agree that
+the crack epidemic that hit the United States during the 1980s was a broad-based phenomenon that
+simultaneously arose in several cities and was driven by drug dealers of different nationalities,
+races and ethnic groups.” (footnotes omitted)) [hereinafter Spade], . Id. at 1251 n. 118 (quoting
+132 Cong. Rec. 26,447) (1986). . Id. at 1249-56 (discussing the 1986 Act and its expedited trip
+through Congress). . United States v. Gunter, 462 F.3d 237, 240 n. 3 (3d Cir.2006) (explaining that
+powder cocaine is converted back into its base form as "crack” by cooking it with baking soda and
+water). . Spade, supra note 1, at 1252-55 (footnotes omitted) (summarizing the 1986 Act's
+legislative history and also noting that "[r]ead as a whole, the abbreviated legislative history of
+the 1986 Act does not provide a single, consistently cited rationale for the crack-powder penalty
+structure”). . See id. at 1252. . 21 U.S.C. § 841(b). . Spade, supra note 1, at 1252. . United
+States v. Clary, 846 F.Supp. 768, 784 (E.D.Mo.1994) (holding that the 100:1 ratio violated the
+constitutional guarantee of equal protection of the law because of its disproportionate impact on
+African-Americans) (internal quotation marks omitted), rev’d, 34 F.3d 709 (8th Cir.1994). .
+Kimbrough v. United States,- U.S. -, 128 S.Ct. 558, 567, 169 L.Ed.2d 481 (2007). . Id. . Id. . See,
+e.g., U.S. Sentencing Comm’n, Special Report to Congress: Cocaine and Federal Sentencing Policy 2
+(2007) ("Federal cocaine sentencing policy, insofar as it provides substantially heightened
+penalties for crack cocaine offenses, continues to come under almost universal criticism from
+representatives of the Judiciary, criminal justice practitioners, academics, and community interest
+groups, and inaction in this area is of increasing concern to many, including the Commission.”)
+[hereinafter 2007 Report]; Steven L. Chanenson & Douglas A. Berman, Federal Cocaine Sentencing in
+Transition, 19 Fed. Sen'g Rep 291, 294 (2007) ("[C]urrent federal cocaine sentencing policy has a
+corrosive effect on both the American criminal justice system and our society at large. Congress
+should and must do better, for vital symbolic reasons as well as substantive ones.”); Spade, supra
+note 1, at 1271-75, 1279-82 (discussing the ineffectiveness of the 100:1 ratio; cataloguing the
+widespread opposition to the ratio, which included numerous federal judges; and noting that at least
+one federal judge resigned from the bench rather than continue to sentence defendants using the
+100:1 ratio); Jesseca R.F. Grassley, Federal Cocaine Sentencing Policy Following the 1995 Cocaine
+Report: Issues of Fairness and Just Punishment, 21 Hamline L. Rev. 347, 380 (1998) ("[T]housands of
+craclc cocaine defendants continue to be sentenced under [the 100:1] ratio each year despite the
+existence of conclusive and credible evidence that its application results in unfair sentences.”)
+(footnote omitted). . Amendments to the Sentencing Guidelines for United States Courts, 60 Fed.Reg.
+25074, 25075-77 (1995) [hereinafter 1995 Amendments]; see also U.S. Sentencing Comm’n, Special
+Report to Congress: Cocaine and Federal Sentencing Policy (1995) (detailing the findings of the
+Commission). . See H.R.Rep. No. 104-272, at 3-4 (1995), reprinted in 1995 U.S.C.C.A.N. 335, 337
+(noting that the refusal to change the 100:1 ratio was based on the fact that "the evidence
+overwhelmingly demonstrates significant distinctions between crack and powder cocaine”). . See
+generally 2007 Report, supra note 11. . Id. . Kimbrough, 128 S.Ct. at 569. . Id. (quoting the
+Commission's 2007 report). . Id. at 573. . See Press Release, U.S. Sentencing Comm'n, U.S.
+Sentencing Commission Votes Unanimously to Apply Amendment Retroactively for Crack Cocaine Offenses
+(Dec. 11, 2007), available at www.ussc.gov/PRESS/rel 121107.htm. . Id. . 18 U.S.C. § 3582(c)(2)
+(“[I]n the case of a defendant who has been sentenced to a term of imprisonment based on a
+sentencing range that has subsequently been lowered by the Sentencing Commission pursuant to 28
+U.S.C. 994(o), upon motion of the defendant or the Director of the Bureau of Prisons, or on its own
+motion, the court may reduce the term of imprisonment, after considering the factors set forth in
+section 3553(a) to the extent that they are applicable, if such a reduction is consistent with
+applicable policy statements issued by the Sentencing Commission.”). . 543 U.S. 220, 125 S.Ct. 738,
+160 L.Ed.2d 621 (2005) (rendering the Guidelines advisory to remedy their constitutional
+shortcomings). . United States v. Hicks, 472 F.3d 1167, 1169 (9th Cir.2007) (“Because Booker
+abolished the mandatory application of the Sentencing Guidelines in all contexts, and because
+reliance on its holding is not inconsistent with any applicable policy statement, we reverse the
+district court and hold that Booker applies to § 3582(c)(2) proceedings.”); but see United States v.
+Hudson, 242 Fed.Appx. 16 (4th Cir.2007), cert. denied — U.S. —, 128 S.Ct. 1282, 170 L.Ed.2d 102
+(2008) (concluding, in an unpublished one-paragraph opinion, that the district court did not abuse
+its discretion nor commit reversible error by concluding that Booker does not apply to § 3582(c)(2)
+proceedings). .See Johnson v. Quarterman, 479 F.3d 358, 359 (5th Cir.2007) ("Briefs by pro se
+litigants are afforded liberal construction....”). . Gagnon v. Scarpelli, 411 U.S. 778, 790, 93
+S.Ct. 1756, 1763, 36 L.Ed.2d 656 (1973).
 
 

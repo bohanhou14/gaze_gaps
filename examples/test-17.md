@@ -1,142 +1,385 @@
 **gold_text:**
-The amendment to Rule 25(a) (1) was intended to dispel unwarranted rigidity and allow more
-flexibility in substitution. “It was intended that liberal effect be given to the 1963 amendment.”
-Roscoe v. Roscoe, 126 U.S.App.D.C. 317, 322, 379 F.2d 94, 99 (1967). “[T]he 90 day period was not
-intended to act as a bar to otherwise meritorious actions.” Staggers v. Otto Gerdau Co., 359 F.2d
-292, 296 (2d Cir. 1966).
+Finally, Zevallos insists that Treasury’s conduct violated his substantive due process rights. We
+have explained in the past that substantive due process forbids only “egregious government
+misconduct,” George Wash. Univ. v. District of Columbia, 318 F.3d 203, 209 (D.C.Cir. 2003),
+involving state officials guilty of “grave unfairness” so severe that it constitutes either “a
+substantial infringement of state law prompted by personal or group animus,” or “a deliberate
+flouting of the law that trammels significant personal or property rights,” Silverman v. Barry, 845
+F.2d 1072, 1080 (D.C.Cir.1988). “Inadvertent errors, honest mistakes, agency confusion, even
+negligence in the performance of [official] duties, do not” violate substantive due process rights.
+Id. Zevallos has not suggested misconduct even approaching this egregious standard. Any error
+Treasury committed was, at most, the result of mistake or negligence and, as we have pointed out
+repeatedly, was harmless. Thus we affirm the district court on this score as well.
 
 **Generations:**
 
 
 ***GPT-4o:***
-This stringent interpretation contrasts sharply with the intent of the 1963 amendments to Rule 25
-and Rule 6(b), which aimed to inject flexibility and fairness into the substitution process. As
-noted in 379 F.2d 94 and 359 F.2d 292, the amendments were designed to eliminate the inequities and
-hardships caused by the rigid two-year limitation originally imposed. The Advisory Committee
-emphasized that the revised rules were to be liberally construed to allow courts discretion in
-extending the substitution period, recognizing the difficulties that could arise in promptly
-identifying and notifying the proper representative of the deceased.   Given this context, the
-defendant’s counsel's suggestion of death, which lacked identification of a proper representative,
-failed to initiate the 90-day countdown. This interpretation aligns with the judicial precedent that
-courts should prioritize the equitable administration of justice over strict procedural formalities.
-Thus, the district court erred in dismissing the plaintiffs' action without granting the requested
-extension, especially considering the circumstances that inhibited timely substitution, such as the
-injury to plaintiffs' counsel and the ongoing legal processes in the probate court.  We, therefore,
-reverse the judgment and remand for further proceedings consistent with this opinion, ensuring that
-the substitution process adheres to the flexible and just principles intended by the amendments to
-the Federal Rules of Civil Procedure.
+III  The Supreme Court has clearly delineated the requirements for addressing due process claims, as
+noted in Cusack and reaffirmed in several decisions. Regardless of procedural missteps, not all
+governmental actions amount to due process violations. Indeed, in Silverman v. Barry, 845 F.2d 1072,
+1080 (D.C.Cir.1988), it was established that only significant infringements prompt relief under §
+1983, an assertion further supported by Tri County Industries v. District of Columbia, 104 F.3d 455,
+459-60 (D.C.Cir.1997). Additionally, substantive due process is typically reserved for extreme cases
+due to its "uncanalized discretion" and the potential for extensive federal judicial intervention
+(Coniston Corp. v. Village of Hoffman Estates, 844 F.2d 461, 465-67 (7th Cir.1988)).  In this case,
+Zevallos’s arguments fail to demonstrate a substantial infringement that meets these heavy
+standards. Any procedural errors regarding the loss of evidence or delays do not rise to the level
+of "grave unfairness" necessary to invoke a substantive due process claim. The district court's
+affirmation in 845 F.2d 1072 serves to highlight that non-exemplary administrative actions, without
+more, do not equate to constitutional violations. Thus, Treasury's actions under the constraints and
+challenges posed by international law enforcement and administrative exigencies remain within
+permissible bounds.  For the reasons stated, we affirm the district court’s ruling in favor of
+Treasury.  IV  The district court's judgment is Affirmed.
 
 
 **Label:** 
 
 
 ***Meta-Llama-3-8B-Instruct:***
-  In the context of Rule 25(a) (1) of the Federal Rules of Civil Procedure, the suggestion of death
-is a crucial step in the process of substituting a deceased party with a proper representative.
-However, not all suggestions of death are created equal. In cases where the suggestion of death is
-made by a party's attorney, but fails to identify a successor or representative of the deceased, the
-90-day period for substitution may not be triggered.  As noted in 359 F.2d 292, the Advisory
-Committee on Civil Rules intended to provide a more flexible standard for substitution, allowing for
-extensions of time and dispensing with the rigid two-year period previously in place. However, this
-flexibility is contingent upon the suggestion of death providing sufficient information to permit
-the court to proceed with substitution.  In the present case, the suggestion of death made by the
-defendant's attorney was deficient in that it failed to identify a successor or representative of
-the deceased. This lack of specificity rendered the suggestion ineffective in triggering the 90-day
-period for substitution, as explained in 379 F.2d 94.  Furthermore, the court's discretion to
-enlarge the time period for substitution, as provided by Rule 6(b), is not a blank check. Rather, it
-is intended to be exercised in a judicious and reasonable manner, taking into account the particular
-circumstances of each case.  In light of these principles, we conclude that the district court erred
-in dismissing the action with prejudice. The case should be remanded for further proceedings,
-allowing the parties to properly substitute a representative of the deceased and continue the action
-in a manner consistent with the Federal Rules of Civil Procedure.
+ <answer> We affirm the district court's rejection of Zevallos's claim that Treasury's denial of his
+delisting request was arbitrary and capricious. Treasury relied on five different sets of evidence,
+including newspaper articles discussing the recent seizure of assets he continued to control in
+Panama, new charges filed against him in Peru, and his ongoing control of assets in Peru. Zevallos
+argues that this evidence is insufficient and that Treasury's determination was based on "unverified
+open source materials." However, as the court in Holy Land Found for Relief and Dev. v. Ashcroft,
+333 F.3d 156, 162 (D.C.Cir. 2003) has held, "it is clear that the government may decide to designate
+an entity based on a broad range of evidence, including intelligence data and hearsay declarations."
+Moreover, Zevallos's claim that Treasury's loss of the binders of evidence he submitted with his
+original delisting request in 2004 was a due process violation is also without merit. As the court
+in Islamic Am. Relief Agency v. Gonzales, 477 F.3d 728, 732 (D.C.Cir.2007) has held, "we do not ask
+whether record evidence could support the petitioner's view of the issue, but whether it supports
+the agency's ultimate decision." In this case, the record supports Treasury's determination that
+Zevallos should remain designated as a significant foreign narcotics trafficker.  Zevallos also
+argues that Treasury's delay in deciding his request and failure to communicate with him during this
+time was a due process violation. However, as the court in Al Haramain Islamic Found., Inc. v.
+Gonzales, 686 F.3d 985, 984-85 (D.C.Cir.2012) has held, "extremely prolonged delays while
+considering such requests can violate the Due Process Clause" only if the agency fails to provide
+the requester with the unclassified administrative record justifying the designation or fails to
+communicate with the requester during the delay. In this case, Treasury provided Zevallos with the
+unclassified administrative record and allowed him to respond to it on multiple occasions.  Finally,
+Zevallos argues that Treasury's failure to disclose the basis for continuing to designate him until
+the final decision regarding his delisting request issued in 2013 was a due process violation.
+However, as the court in People's Mojahedin Org. of Iran v. U
 
 
 **Label:** 
 
 
-**citations:** ['379 F.2d 94', '359 F.2d 292']
+**citations:** ['318 F.3d 203', '845 F.2d 1072']
 
-***short_citations_0:*** 379 F.2d 94
+***short_citations_0:*** 318 F.3d 203
 
-the proper parties. * * * Unless the motion for substitution is made not later than 90 days after the death is suggested upon the record by service of a statement of the fact of the death as provided herein for the service of the motion, the action shall be dismissed as to the deceased party.” Here not only had the 90-day period not expired when the court entered summary judgment, the appellant by her motion for reconsideration had specifically invoked the discretion of the court. Rule 6(b) provides pertinently that when “by these rules * * * an act is required or allowed to be done at or within a specified time, the court for cause shown may at any time in its discretion (1) with or without motion or notice order the period enlarged if request therefor is made before the expiration of the period originally prescribed * * Originally the Rule had precluded an extension of time for taking action under Rule 25(a) (1), but by purposeful amendment, it was sought to relieve against the hardship of the Court’s holding in Anderson v. Yungkau, 329 U.S. 482, 67 S.Ct. 428, 91 L.Ed. 436 (1947). It was intended that liberal effect be given to the 1963 amendment. Graham v. Pennsylvania Railroad, 119 U.S.App.D.C. 335, 342 F.2d 914 (1964), cert. denied, 381 U.S. 904, 85 S.Ct. 1446, 14 L.Ed.2d 286 (1965). We are constrained to reverse for further proceedings not inconsistent with this opinion. Reversed. The only “party” then
+misconduct. We have described the doctrine as preventing only “grave unfairness,” Silverman v. Barry, 845 F.2d 1072, 1080 (D.C.Cir.1988), and identified two ways in which such unfairness might be shown: “Only [1] a substantial infringement of state law prompted by personal or group animus, or [2] a deliberate flouting of the law that trammels significant personal or property rights, qualifies for relief under § 1983.” Id. See also Tri County Industries v. District of Columbia, 104 F.3d 455, 459-60 (D.C.Cir.1997); Coniston Corp. v. Village of Hoffman Estates, 844 F.2d 461, 465-67 (7th Cir.1988) (noting the “uncanalized discretion” inherent in substantive due process review and thus, given the otherwise resulting federal judicial intrusions on state and legislative authority, the need to limit its role to extreme cases). In attacking the conditions, the university makes a stab at the “group animus” angle suggested in Silverman, saying that the BZA Order reflects the hostility of the Foggy Bottom residents to students. As Foggy Bottom is a residential area, and apartments occupied by students are indisputably a residential use, it seems inescapable that the District is drawing a distinction based on student status. But just what sort of “group animus” the Silverman court had in mind is unclear. An equal protection violation would of course be independently unlawful, and the university does not make a serious analytical case for the proposition that students should be viewed as a “suspect class” for equal protection purposes. On the other hand, creation of a sort of shadow
 
-***short_citations_1:*** 359 F.2d 292
+***short_citations_1:*** 845 F.2d 1072
 
-insertion of a “reasonable time” standard. In 1963, the Advisory Committee suggested the present rule and noted: “Present Rule 25(a) (1), together with present Rule 6(b), results in an inflexible requirement that an action be dismissed as to a deceased party if substitution is not carried out within a fixed period measured from the time of the death. The hardships and inequities of this unyielding requirement plainly appear from the cases. * * * The amended rulé establishes a time limit for the motion to substitute based not upon the time of the death, but rather upon the time information of the death is provided by means of a suggestion of death upon the record, i. e. service of a statement of the fact of the death.” See Notes of Advisory Committee on the Civil Rules, 28 U.S.C. Rule 25 (1964). Rule 6(b) of the Federal Rules of Civil Procedure was also amended in 1963 and the prohibition against extending the time for taking action under Rule 25 was eliminated. The Advisory Committee on the Civil Rules noted: “It is intended that the court shall have discretion to enlarge that period.” The amendments of Rules 6(b) and 25(a) (1) provided needed flexibility. It was assumed that discretionary extensions would be liberally granted. Movants under Rule 25 can ordinarily control when a death is “suggested upon the record” and appellants’ attorney was under no obligation to file his affidavit of Staggers’ death on the date he did. He could have filed
+meets the requirements laid down by the Supreme Court in Cusack and therefore must withstand the due process challenge. III. Conclusion As the long history of appellants’ conversion efforts suggests, the District of Columbia’s actions in the conversion application at issue in this litigation may at times have been less than exemplary. Nevertheless, nonexemplary governmental administrative actions do not automatically rise to the level of due process violations. Whatever the confusion and delay, the District was in pursuit of a legitimate governmental interest: it sought to act with sufficient deliberation and care to protect both the right of building owners to a reasonably speedy conversion process and the right of tenants to remain in their rental homes until it has ascertained that the conditions of the conversion statutes had been met. We find that the District’s actions did not deprive appellants of their constitutional rights. We also find appellants’ due process and Home Rule Act challenges to the statutes at issue in this case to be without merit. The decision of the district court is Affirmed.
 
 **prev_text:**
-LEVENTHAL, Circuit Judge: The District Court held that Rule 25(a) (1) of the Federal Rules of Civil
-Procedure required dismissal of the plaintiffs’ tort action because defendant’s counsel had filed a
-suggestion of death of the defendant yet plaintiff had not made any substitution of parties within
-90 days. We reverse on the ground that the suggestion of death, which was neither filed by nor
-identified a successor or representative of the deceased, such as an executor or administrator, was
-ineffective to trigger the running of the 90-day period provided by the Rule. Mr. and Mrs. John
-Rende filed an action in the District Court individually and on behalf of their infant son who had
-been struck and injured by Alfred S. Kay while driving his car. On August 27, 1967, defendant Kay
-died. On September 1, 1967, the defendant’s attorney, a term used here to identify the lawyer who
-had been retained by deceased to defend the action, and who had duly entered an appearance as
-attorney for defendant, filed a suggestion of death in the District Court, giving notice to
-plaintiffs’ attorney. That same day there was filed in the Orphans Court for Montgomery County,
-Maryland, residence of the deceased, his will naming his widow as executrix, but the will had not
-been probated, nor any legal representative appointed for the estate at the time of the filing of
-this appeal. Plaintiffs’ attorney was injured on October 14, 1967. On returning to practice early in
-1968, he learned that no successor to defendant Kay had yet been appointed, and he moved to certify
-the case to the ready calendar. The defendant’s attorney opposed this on grounds that discovery
-procedures had not been completed. The case was delayed and placed on the ready calendar as of June
-7, 1968. However, in April 1968, the defendant’s attorney moved in his own name to dismiss the
-action on the ground that Rule 25(a) (1) required plaintiffs to move to substitute a proper party
-for the deceased within 90 days of the suggestion of death. Plaintiffs filed an opposition and
-motion for substitution of the proper party, and sought an extension of the time for substitution as
-allowed by Rule 6(b). At argument, plaintiffs’ counsel asserted the “suggestion of death was
-defective in that it did not list the name of the proper party; that is the legal representative of
-the defendant.” The court responded: “That would not be his burden.” The court dismissed the action
-with prejudice. Prior to its amendment in 1963, Rule 25(a) (1) required the court to dismiss a case
-if no motion for substitution was filed within two. years after date of death, and no extensions of
-this period were allowed under Rule 6(b). The rule was rigorously applied, often with harsh results,
-and was called “easily the poorest rule of all the Federal Rules.” In 1955 the Advisory Committee on
-Rules for Civil Procedure recommended that the two-year period be changed to a “reasonable time”
-standard. In 1961 the Advisory Committee on Civil Rules again suggested the Rule be made more
-flexible. In 1963 the Supreme Court made changes in Rule 25(a) (1) and in Rule 6(b) so as to provide
-a 90-day time limit from the filing of a suggestion of death, and to give the court discretion to
-extend that time. The Committee Notes explaining the amendments state: Present Rule 25(a) (1),
-together with present Rule 6(b), results in an inflexible requirement that an action be dismissed as
-to a deceased party if substitution is not carried out within a fixed period measured from the time
-of death. The hardships and inequities of this unyielding requirement plainly appear from the cases.
-* * * The amended rule establishes a time limit for the motion to substitute based not upon the time
-of the death, but rather upon the time information of the death is provided by means of a suggestion
-of death upon the record. * * * A motion to substitute may be made by any party or by the
-representative of the deceased party without awaiting the suggestion of death. Indeed, the motion
-will usually be so made. If a party or the representative of the deceased party desires to limit the
-time within which another may make the motion, he may do so by suggesting the death upon the record.
-(Emphasis added.) Under the amended Rule either a party or “the successors or representatives of the
-deceased party” may avoid delay in effecting substitution for the deceased party either by filing a
-motion for substitution or by suggesting death on the record and thus triggering the 90-day period
-which begins with suggestion of death. The Advisory Committee, in outlining that suggestion of death
-could be made by “the representative of the deceased party” plainly contemplated that the suggestion
-emanating from the side of the deceased would identify a representative of the estate, such as an
-executor or administrator, who could be substituted for the deceased as a party, with the action
-continued in the name of the representative. The addition of “successor” in the Rule would take care
-of the case of, say, the distributee of an estate that had been distributed, but would not make a
-material difference in the aspect under consideration. Form 30, for suggestion of death, which was
-provided in order to expedite and facilitate implementation of the amendment, provides: A.B.
-[described as a party, or as executor, administrator, or other representative or successor of C.D.,
-the deceased party\ suggests upon the record, pursuant to Rule 25(a) (1), the death of C.D.
-[describe as party] during the pendency of this action. Added Jan. 21, 1963, eff. July 1, 1963.
-[Emphasis added.] Although the attorney for the defendant was retained to “represent” the deceased
-as his counsel, he is not a person who could be made a party, and is not a “representative of the
-deceased party” in the sense contemplated by Rule 25(a) d). In our opinion the Rule, as amended,
-cannot fairly be construed, as the de fendant’s attorney argues, to make his suggestion of death
-operative to trigger the 90-day period even though he was neither a successor nor representative of
-the deceased, and gave no indication of what person was available to be named in substitution as a
-representative of the deceased. Counsel’s construction would open the door to a tactical maneuver to
-place upon the plaintiff the burden of locating the representative of the estate within 90 days. We
-can conceive of cases wherein even the lawyer retained to represent a defendant might know the
-defendant had died, yet not readily know where his estate would be administered. In the present
-case, plaintiff’s attorney did know the court of probate, but he did not know whether probate of the
-will might be contested, or who would be appointed representative of the estate. The tactic of the
-defendant’s attorney would place on plaintiff the burden, where no conventional representative was
-appointed for the estate in probate court, of instituting machinery in order to produce some
-representative of the estate ad litem, pending appointment of the representative contemplated by law
-of the domicile of the deceased.
+Opinion for the court filed by Circuit Judge GRIFFITH. GRIFFITH, Circuit Judge: Appellant Fernando
+Zevallos brought suit challenging the determination of the Department of the Treasury that the
+President had lawfully designated him a significant foreign narcotics trafficker. The district court
+rejected his claims, as do we. I This case arises under the Foreign Narcotics Kingpin Designation
+Act (Kingpin Act), 21 U.S.C. § 1901 et seq., one of several statutory mechanisms that enable the
+President to block or seize the assets of individuals or entities involved in international crime or
+terrorism. The Kingpin Act was modeled on a specific, successful application of a similar statute,
+the International Emergency Economic Powers Act (IEEPA), 50 U.S.C. §§ 1701-07. See H.R.Rep. No.
+106-457, 42 (1999). IEEPA itself is closely analogous to the antiterrorism provisions of the
+Antiterrorism and Effective Death Penalty Act of 1996, 8 U.S.C. § 1189 (AEDPA). Under all three
+statutes, the President can designate individuals or entities as posing a threat to the security of
+the United States or its interests and impose sanctions on them. The Kingpin Act specifically
+targets persons that “play[ ] a significant role in international narcotics trafficking,” 21 U.S.C.
+§ 1907(7), as “significant foreign narcotics traffickers,” id. § 1903(b). Narcotics trafficking
+includes producing, distributing, selling, financing, or transporting any illegal narcotic, or
+conspiring with or assisting others to do so. Id. § 1907(3). Persons designated as significant
+foreign narcotics traffickers under the Kingpin Act — -just like persons designated a threat to the
+United States under IEEPA and AED-PA — are added to the “Specially Designated Nationals and Blocked
+Persons List,” 31 C.F.R. § 501.807(a), and all their assets in the United States or under the
+control of any person who is in the United States are “blocked],” 21 U.S.C. § 1904(b), or
+effectively frozen. No citizen or resident of the United States may transact or deal in blocked
+property. Id. § 1904(c). A designated person may “seek administrative reconsideration” of his
+designation and request to be removed, or “delist[ed],” from the Specially Designated Nationals and
+Blocked Persons List. 31 C.F.R. § 501.807. The same procedure applies irrespective of which statute
+was invoked to designate the person in question. 31 C.F.R. Ch. V, App. A; id. § 501.807. A request
+for reconsideration — also sometimes called a delisting request — may include arguments or evidence
+rebutting Treasury’s “basis ... for the designation,” or “assert that the circumstances resulting in
+the designation no longer apply.” Id. § 501.807, 807(a). In other words, the designated person must
+argue that whatever rationale led Treasury to designate him under the appropriate statute — as
+relevant here, that the designated person was a significant foreign narcotics trafficker as defined
+in the Kingpin Act — was never true or is no longer true. The Office of Foreign Assets Control at
+the Department of the Treasury will “eonduct[ ] a review of the request for reconsideration” and
+“provide a written decision to the blocked person.” Id. § 501.807(d). A designated person can
+request delisting as many times as he likes. See id. § 501.807. Petitioner Fernando Zevallos is a
+Peruvian national who founded and led Aero Continente, a low-cost airline operating throughout Latin
+America. A number of countries, including the United States, investigated Zevallos for alleged
+involvement in narcotics trafficking throughout the 1980s and 1990s. Peru’s investigations
+culminated in a 1997 indictment of Zevallos on drug trafficking and money laundering charges based
+on allegations that he had worked with drug traffickers to launder some $40 million. In June 2004,
+President George W. Bush used his authority under the Kingpin Act to designate Zevallos as a
+significant foreign narcotics trafficker. Accordingly, all of Zevallos’s.assets in the United States
+and the assets of related companies and individuals were blocked. Around the time he was designated,
+Zevallos attempted to illegally transfer property he owned in Miami to his wife. He was eventually
+charged in the Southern District of Florida with violating the Kingpin Act by attempting this
+transfer. Those charges are still pending. In December 2004, Zevallos asked Treasury to remove him
+from the Specially Designated Nationals and Blocked Persons List and unblock his assets. He
+submitted to Treasury a memorandum with exhibits in support of his request (the 2004 Memorandum).
+Treasury responded in June and September 2005 by disclosing nonsensitive material relating to
+Zevallos’s designation. Zevallos filed a supplemental submission reiterating his arguments one month
+later. Zevallos brought suit in November 2005 in federal district court in the District of Columbia,
+seeking an order that would require Treasury to take his name off the Specially Designated Nationals
+and Blocked Persons List and unblock his assets. However, shortly thereafter, Zeval-los was
+convicted on all pending charges in Peru. He voluntarily dismissed his pending lawsuit against
+Treasury two days after his conviction, terminating that litigation. Treasury has since explained to
+Zevallos and to us that the agency interpreted Zev-allos’s dismissal of his lawsuit as a sign that
+he was abandoning his request for delisting, though Treasury did not tell this to Zevallos at the
+time. At some point thereafter, Treasury lost the exhibits Zev-allos had submitted with the 2004
+Memorandum. Those exhibits have never been found. Zevallos began serving a twenty-year prison
+sentence in Peru in 2005. He remains in prison in Peru today. Four years passed with no
+communication between Zevallos and Treasury. Zevallos broke this silence in July 2009 when he wrote
+to various U.S. officials, requesting extradition from Peru so that he could face the charges
+pending against him in the Southern District of Florida. Treasury construed this letter as a request
+for the agency to reexamine Zevallos’s designation and wrote back, asking Zevallos to answer a
+questionnaire about his financial interests and relationship with a variety of entities and
+individuals. Zevallos filed a response to that questionnaire in November 2009. Another four years
+passed with no action from Treasury on Zevallos’s resuscitated delisting request. In March 2013,
+Zevallos filed this action, seeking an injunction that would force Treasury to act on his long-
+pending delisting request. Three months later Treasury at last denied the request. Treasury
+acknowledged losing the exhibits attached to Zevallos’s 2004 request, but tried to make up for this
+mistake by assuming that whatever Zeval-los said about this evidence in his 2004 Memorandum was
+true. Even so, Treasury 'concluded that Zevallos was properly designated in 2004 and that he should
+remain designated in 2013. Treasury also produced a number of new pieces of evidence in support of
+the designation. In response, Zevallos amended his complaint in this action to introduce new claims
+attacking Treasury’s decision. Relevant to this appeal, Zevallos argued to the district court that
+the denial of his de-listing request was arbitrary and capricious and that Treasury had disregarded
+agency procedures. He also maintained that Treasury’s decision should be reviewed de novo.
+Separately, Zevallos argued that his designation violated 'his procedural and substantive due
+process rights under the Due Process Clause. Treasury insisted that the district court should use
+the APA’s conventional arbitrary and capricious standard, not de novo review. Treasury also asked
+the district court to dismiss or grant summary judgment as to every count of Zevallos’s amended
+complaint. The district court held in Treasury’s favor on each point. See Zevallos v. Obama, 10
+F.Supp.3d 111, 119-33 (D.D.C.2014). Zevallos timely appealed. We have jurisdiction under 28 U.S.C. §
+1291. We consider the district court’s ruling de novo. Islamic Am. Relief Agency v. Gonzales, 477
+F.3d 728, 732 (D.C.Cir.2007). As always, when we examine an agency’s decision, we apply the APA’s
+“highly deferential standard,” meaning that we may set aside Treasury’s action “only if it is
+‘arbitrary, capricious, an abuse of discretion, or otherwise not in accordance with law.’ ” Id. at
+732 (quoting 5 U.S.C. § 706(2)(A)); see also Holy Land Found, for Relief & Dev. v. Ashcroft, 333
+F.3d 156, 161 (D.C.Cir. 2003). Under that standard, “we may not substitute our judgment for
+[Treasury’s], but we will require it to ‘examine the relevant data and articulate a satisfactory
+explanation for its action including a rational connection between the facts found and the choice
+made.’ ” Islamic Am. Relief Agency, 477 F.3d at 732 (quoting Motor Vehicle Mfrs. Ass’n of the U.S.,
+Inc. v. State Farm Mut. Auto. Ins. Co., 463 U.S. 29, 43, 103 S.Ct. 2856, 77 L.Ed.2d 443 (1983)).
+Zevallos asks us to take the extraordinary and rare step of reviewing Treasury’s determination de
+novo instead of under the APA’s arbitrary and capricious standard. See Melissa F. Wasser-man,
+Deference Asymmetries: Distortions in the Evolution of Regulatory Law, 93 Tex. L.Rev. 625, 639 n.44
+(2015) (finding only one example where a court applied de novo review under the APA, in an unusual
+case in which the agency decisionmaker had obvious bias against the petitioner). We will not do so.
+We have never applied de novo review in an APA case and have stated in dicta .that “procedures must
+be severely defective before a court proceeding under the APA can substitute de novo review for
+review of the agency’s record.” Nat’l Org. for Women v. Social Sec. Admin., 736 F.2d 727, 745-46
+(D.C.Cir.1984) (Mikva & McGowan, JJ., concurring). These proceedings were not severely defective.
+The agency’s fact-finding procedures were adequate, and Zevallos had ample opportunity to make his
+case to agency officials. See id. Therefore arbitrary and capricious review will apply. II A We
+affirm the district court’s rejection of Zevallos’s claim that Treasury’s denial of his delisting
+request was arbitrary and capricious. Treasury denied Zevallos’s delisting request by relying on
+five different sets of evidence: (1) newspaper articles discussing the recent seizure of assets he
+continued to control in Panama; (2) newspaper articles discussing new charges filed against him in
+Peru in 2011 and 2012; (3) newspaper .articles discussing his ongoing control of assets in Peru; (4)
+newspaper articles discussing the recent discovery of an illicit cellphone and memory stick in his
+prison cell in Peru; and (5) his 2007 criminal indictment in the Southern District of Florida.
+Zevallos argues that Treasury is not entitled to rely on “[ujnverified open source materials” like
+news media reports to jus tify designation decisions under the Kingpin Act. However, as Zevallos
+acknowledges, we have approved the use of such materials as part of the unclassified record
+supporting the decision to designate an individual or entity for inclusion on the Specially
+Designated Nationals and Blocked Persons List under closely analogous statutes. See, e.g., Holy
+Land, 333 F.3d at 162 (explaining that, under IEE-PA, “it is clear that the government may decide to
+designate an entity based on a broad range of evidence, including intelligence data and hearsay
+declarations”); People’s Mojahedin Org. of Iran v. U.S. Dep’t of State, 182 F.3d 17, 19 (D.C.Cir.
+1999) (noting that “nothing in [AEDPA] restricts [the Department of State] from acting oh the basis
+of third hand accounts, press stories, material on the Internet[,] or other hearsay regarding the
+organization’s activities”). There are good reasons to permit Treasury to rely on such materials
+that apply equally in all these contexts. The designation decision may be based in part on
+classified information. Treasury may face logistical or political difficulties obtaining judicial or
+law enforcement records from other countries. Diplomatic concerns may limit what Treasury or its
+agents can say publicly in connection with individual designations. And the safety of investigators
+or informants might be put at hazard were their testimony made available as part of the
+administrative record. Those same considerations apply with equal force here. We see no reason to
+disapprove the use of such materials in delisting proceedings under the Kingpin Act when we have
+approved their use in' nearly identical circumstances. Zevallos suggests instead that relying on
+open source materials was inappropriate here because Treasury gathered the articles immediately
+before deciding his de-listing request and therefore lacked adequate time to develop a more complete
+record that corroborated their content. But our previous IEEPA and AEDPA decisions approved the use
+of media reports to support a designation decision without regard to the recency of those reports or
+the presence of corroboration. See, e.g., Holy Land, 333 F.3d at 162. Zevallos also argues that the
+news reports on which Treasury relied do not support its determination. To the extent he has
+preserved his arguments, they fail; where they have been forfeited, we do not consider them.
+Treasury relied in part on articles revealing the discovery of an illicit cellphone and memory stick
+in Zevallos’s jail cell, as well as articles discussing the use of such devices by incarcerated drug
+traffickers to continue managing their affairs. Zevallos points out that the Kingpin Act only
+permits designating an individual who “plays a significant role” in narcotics trafficking, not
+someone who merely has the capacity to do so. See 21 U.S.C. § 1907(7). Evidence that he possessed an
+illicit cellphone in prison, he argues, does not show that he used that cellphone to participate in
+narcotics trafficking. Fair enough. Perhaps these articles, standing alone, might not have provided
+enough to justify Zevallos’s designation. But this evidence at a minimum shows that Zevallos had the
+capacity to communicate with others outside his prison. And Zevallos does not argue that Treasury
+could not rely on this evidence in combination with other evidence of illegal activity to conclude
+that he still represents a threat and should remain designated. And there was no shortage of
+additional evidence. For example, Treasury relied on a set of articles discussing the seizure of
+Panamanian bank accounts that Zevallos continued to control from prison through his sister, as well
+as another set of articles discussing his family’s ongoing control of a number of properties in Peru
+that were ostensibly seized by the Peruvian government years ago in connection with Zevallos’s
+conviction. Zevallos argued below that this evidence was irrelevant because it showed only that his
+family continued to control assets derived from narcotics trafficking. On appeal he argues that
+Treasury may not rely on evidence that he owns such assets because he cannot legally or practically
+relinquish control of them, given that they are blocked under the Kingpin Act and that he is
+incarcerated. Because these arguments were not made below, they have been forfeited. See Potter v.
+District of Columbia, 558 F.3d 542, 549-50 (D.C.Cir.2009). But even if not forfeited, they miss the
+point. Treasury does not fault Zevallos for nominally owning assets he is somehow obstructed from
+abandoning. Instead, Treasury relied on this evidence, as it was entitled to do, to show that
+Zevallos remains in contact with his family and continues to manage his assets from prison. Treasury
+also pointed to articles reporting new charges filed against Zevallos in Peru in 2011 and 2012
+alleging more recent money laundering activity. Zevallos did not address this evidence at all except
+as part of his categorical argument that Treasury should not have relied on any news reports. But as
+we explained above, Treasury was entitled to rely on evidence of this kind to conclude that Zevallos
+remains of concern to law enforcement. Finally, Zevallos argues that Treasury should not have
+considered his 2007 criminal indictment. He made no argument at all regarding the 2007 indictment
+below and so he has forfeited any argument he might make on appeal on this score. See Potter, 558
+F.3d at 549-50. All this evidence together provides adequate basis to justify Treasury’s
+determination. There is no doubt, as Zevallos argues, that Treasury marshalled less evidence now
+than existed to support his original designation in 2004. And we agree that much of this evidence
+could be viewed in a light more beneficial to Zeval-los. However, when we evaluate agency action,
+“we do not ask whether record evidence could support the petitioner’s view of the issue, but whether
+it supports the [agency’s] ultimate decision.” Fla. Gas Transmission Co. v. FERC, 604 F.3d 636, 645
+(D.C.Cir.2010) (citation omitted). Under that deferential standard, we find that this record
+supports Treasury’s denial of Zevallos’s delisting request. B Zevallos argues that Treasury reached
+the decision to deny his request “without observance of procedure required by law.” 5 U.S.C. §
+706(2)(D). His claim rests'on two grounds. He criticizes the agency for losing the exhibits he
+submitted in support of the 2004 Memorandum as part of his original delisting request. He also
+asserts that the agency should have notified him that dismissing his lawsuit in 2005 would, in
+Treasury’s view, also effectively withdraw his delisting request. We will not invalidate Treasury’s
+decision based on procedural error unless the errors alleged could have affected the outcome. See
+Ozark Auto. Distributors, Inc. v. NLRB, 779 F.3d 576, 582 (D.C.Cir. 2015) (“ ‘In administrative law,
+as in federal civil and criminal litigation, there is a harmless error rule.’ ” (quoting PDK Labs.
+Inc. v. U.S. D.E.A., 362 F.3d 786, 799 (D.C.Cir.2004))). Zevallos has failed to argue that either
+error was anything more than harmless. First, though losing the binders full of evidence Zevallos
+submitted in 2004 was without question a serious error, Treasury remediated that mistake by assuming
+that everything Zevallos said about what was in the missing evidence was true. Zevallos insists
+nonetheless that Treasury “arguably would have reached a different conclusion” had the agency
+reviewed the actual evidence instead of accepting his word for what the evidence showed. We fail to
+see how. The evidence would either have supported or contradicted the factual claims Zevallos made
+in the 2004 Memorandum. If the former, Zevallos would have been no better off because Treasury
+already assumed everything he said about the evidence was true. On the other hand, he would have
+been much worse off if examining the evidence showed that Zevallos had lied about what it showed.
+Because Zevallos cannot show any injury from the loss of his evidence, this error provides no basis
+to invalidate Treasury’s determination. Nor has Zevallos suggested that he was harmed by the long
+delay after Treasury interpreted Zevallos’s request as withdrawn in 2005. To be sure, Treasury
+should notify individuals when disregarding their pending requests. And Zevallos is correct that no
+statute or regulation allows Treasury to disregard pending requests, as happened here. But Zevallos
+must show that a different process would have led Treasury to a different decision. He has not done
+so. Though Treasury took a long time, the agency ultimately considered and denied the delisting
+request. Zevallos was designated as a significant foreign narcotics trafficker in 2004. He remained
+so designated for the next eight years. He is still so designated today. Nothing would have changed
+had Treasury denied his delisting request in 2006 or 2010. Zevallos insists that the delay harmed
+him because his ongoing designation imposed serious burdens on him and his family. But Zevallos has
+not and cannot argue that he would have avoided that harm had Treasury made its decision earlier.
+Therefore any error on this score is harmless as well. Finally, we note that any discussion of
+procedural error in this context is academic. Even if Zevallos proved a procedural error sufficient
+to invalidate Treasury’s decision, at most we would vacate Treasury’s determination and remand for
+Treasury to rule again. But Treasury’s procedure governing requests for reconsideration of
+designation decisions imposes no limit on the number of times a designated person can request
+delisting. See 31 C.F.R. § 501.807. Zevallos is free to file a new request and obtain a new ruling
+from Treasury, just as he would if we vacated and remanded the decision before us. In fact, it seems
+Zevallos has already taken advantage of this procedure. He filed another delisting request with
+Treasury after he noticed this appeal, which the agency has held in abeyance while this matter is
+pending. If anything, Zevallos is better off for having read Treasury’s 2013 decision. He now knows
+all of Treasury’s newest and best arguments justifying his ongoing designation and can respond to
+them in a future request for reconsideration. , C Zevallos also insists that Treasury violated his
+procedural and substantive due process rights under the Constitution. He faults Treasury for failing
+to afford him the chance to challenge his designation beforehand and for providing inadequate
+process to challenge his designation after the fact. And he argues that denying his delisting
+request was so gravely unfair as to infringe his substantive due' process rights. He is wrong on all
+counts. “[D]ue process is flexible and calls for such procedural protections as the . particular
+situation demands.” Morrissey v. Brewer, 408 U.Si 471, 481, 92 S.Ct. 2593, 33 L.Ed.2d 484 (1972).
+Though the Due Process Clause generally requires the Government to afford individuals notice and an
+opportunity to be heard before depriving them of their property, there are “extraordinary situations
+where some valid governmental interest is at stake that justifies postponing the hearing until after
+the event.” Boddie v. Connecticut, 401 U.S. 371, 379, 91 S.Ct. 780, 28 L.Ed.2d 113 (1971). “[W]here
+a State must act quickly, or where it would be impractical to provide predeprivation process,
+postdeprivation process satisfies the requirements of the Due Process Clause.” Gilbert v. Homar, 520
+U.S. 924, 930, 117 S.Ct. 1807, 138 L.Ed.2d 120 (1997). This is especially true where the seizure is
+aimed at “property ... of a sort that could be removed to another jurisdiction, destroyed, or
+concealed, if advance warning of confiscation were given.” Calero-Toledo v. Pearson Yacht Leasing
+Co., 416 U.S. 663, 679, 94 S.Ct. 2080, 40 L.Ed.2d 452 (1974). In that circumstance, “[t]he ease with
+which an owner could frustrate the Government’s interests in the forfeitable property create[s] a
+‘special need for very prompt action’ that justified] the postponement of notice and hearing until
+after the seizure.” United States v. James, Daniel Good Real Prop., 510 U.S. 43, 52, 114 S.Ct. 492,
+126 L.Ed.2d 490 (1993) (quoting Calero-Toledo, 416 U.S. at 678, 94 S.Ct. 2080). This is just such a
+case. There is no doubt that blocking Zevallos’s assets deprived him of his property. But providing
+notice before blocking the assets of international narcotics traffickers would create a substantial
+risk of asset flight. Just as in Calero-Toledo, that risk creates a “special need for very prompt
+action.” 416 U.S. at 678, 94 S.Ct. 2080. To say that offering predeprivation process in this
+circumstance would prove “impractical,” Gilbert, 520 U.S. at 930, 117 S.Ct. 1807, understates the
+case; such process would likely cripple the Kingpin Act. The only response Zevallos offers is to
+critique the district court for relying on a line of cases under IEEPA that approved blocking assets
+without predeprivation process. Zevallos insists that the district court was wrong to employ IEEPA
+precedent. We need not decide whether he is right. The due process analysis here is straightforward
+without analogizing the Kingpin Act to any other statute. As we have explained, the circumstances of
+this case justified Treasury’s decision to designate Zevallos and block his assets without affording
+him notice and the opportunity to be heard beforehand. See Calero-Toledo, 416 U.S. at 679, 94 S.Ct.
+2080'. Nor can Zevallos complain of the adequacy of the postdeprivation process he received. He was
+given notice' and a meaningfül opportunity to be heard, which is what the Due Process Clause
+requires. Holy Land, 333 F.3d at 163. Treasury provided Zevallos several times with the unclassified
+evidence on which it relied to designate him; Zevallos not only had the chance to contest the
+propriety and adequacy of that evidence but did so on more than one occasion. And he remains free
+now to continue contesting his designation by filing new delisting requests, meaning that he can
+make any new arguments that occur to him and reiterate and expand any arguments he felt received
+short shrift on Treasury’s last review. Due process does not require more. Zevallos makes four
+equally deficient responses, two of which we consider and reject and two of which we do not reach
+because they have been forfeited. First, he complains that Treasury waited far too long before
+deciding his request and failed to communicate with him during these delays. True, other courts have
+held that extremely prolonged delays while considering such requests can violate the Due Process
+Clause. See Al Haramain, 686 F.3d at 985 (finding a due process violation when Treasury never
+produced the entire unclassified administrative record justifying a designation decision, explained
+only some of the reasons for the designation via a press release months later, and waited years to
+respond to a delisting request); KindHearts, 647 F.Supp.2d at 905 (same, where Treasury only
+produced a “scanty,” partial record thirty-four months after the designation). This case is quite
+different. Though Treasury took several years to decide Zevallos’s request, Treasury did promptly
+provide Zevallos with the unclassified administrative record justifying his designation and allowed
+him to respond to it on multiple occasions. Unlike the petitioners in Al Haramain and KindHearts who
+never fully understood why they had been designated, Zevallos was fully equipped to rebut Treasury’s
+rationale by the time it finished disclosing information to him in September 2005. Cf. Al Hara-main,
+686 F.3d at 984-85 (finding that Treasury had violated due process by “re-fus[ing] to disclose its
+reasons for investigating and designating [the petitioner], leaving [the petitioner] unable to
+respond adequately to the agency’s unknown suspicions”); KindHearts, 647 F.Supp.2d at 904 (same,
+because the petitioner “remainfed] largely uninformed about the basis for the government’s
+actions”). Because Zevallos knew the basis for his designation, no comparable due process violation
+existed here. In any event, if there was error, it was harmless. We have already held that the
+administrative record supports Treasury’s conclusion that Zevallos should remain designated, and
+Zevallos does not suggest that reviewing his delisting request at a faster pace would have changed
+that outcome. Zevallos disagrees. He was harmed by Treasury’s due process violations, he argues,
+because he has been forced to respond to his designation “in a post hoc manner” and “to decipher the
+administrative process by trial and error.” There is no support for this claim in the record.
+Zevallos has known from the beginning how to attack Treasury’s case against him. He has done so
+several times, and he can continue to do so now in new requests for delisting. Nothing - about the
+history of this case suggests that Zevallos has been forced to stumble towards a moving target. And
+once again, because no procedural error Zevallos alleges played a role in the denial of his
+delisting request, none provides a basis to vacate Treasury’s determination. Second, Zevallos
+maintains that Treasury’s loss of the binders of evidence he submitted with his original delisting
+request in 2004 prevented the agency from giving his argument a fair hearing. Again, we disagree. As
+we have already explained, Treasury rendered any arguable error harmless by simply accepting what
+Zevallos said about the missing evidence in his 2004 submission. Treasury’s bumbling was no more
+harmful with respect to Zev-allos’s due process rights than it was under the APA’s requirement that
+Treasury follow appropriate agency procedure. Zevallos has forfeited his last two due process
+arguments. He argues that Treasury did not disclose the basis for continuing to designate him until
+the final decision regarding his delisting request issued in 2013. Because Zevallos had not
+previously seen this evidence, he insists he could not adequately contest his ongoing designation.
+Zevallos forfeited this argument by not raising it in the district court. Potter, 558 F.3d at
+549-50. He also points to the questionnaire Treasury asked him to answer in 2009 once the agency
+realized he still wanted a decision on his delisting request, and complains that Treasury’s 2013
+decision did not address any of the topics about which the 2009 questionnaire inquired. This
+argument is doubly forfeited: Zevallos did not make it to the district court; and on appeal he made
+it for the first time in his reply brief. See Russell v. Harman Int’l Indus., Inc., 773 F.3d 253,
+255 n. 1 (D.C.Cir.2014) (holding that arguments raised for the first time in a reply brief are
+forfeited).
 
 

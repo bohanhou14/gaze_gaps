@@ -1,142 +1,209 @@
 **gold_text:**
-The amendment to Rule 25(a) (1) was intended to dispel unwarranted rigidity and allow more
-flexibility in substitution. “It was intended that liberal effect be given to the 1963 amendment.”
-Roscoe v. Roscoe, 126 U.S.App.D.C. 317, 322, 379 F.2d 94, 99 (1967). “[T]he 90 day period was not
-intended to act as a bar to otherwise meritorious actions.” Staggers v. Otto Gerdau Co., 359 F.2d
-292, 296 (2d Cir. 1966).
+An attempt occurs when one acts in a substantial way to achieve an intended course of action, here
+the movement of the $500,000 from Connecticut to Latvia without reporting it. To have attempted that
+transaction, more than mere planning is required. There must have been a substantial step, an overt
+act, furthering the intended activity. An attempt occurs when one “sufficiently manifested [his]
+intent to commit a particular substantive offense yet failed to consummate the crime.” United States
+v. Jenkins, 943 F.2d 167, 173 (2d Cir.) cert. denied, — U.S. -, 112 S.Ct. 659, 116 L.Ed.2d 751
+(1991). It is “acting with the kind of culpability otherwise required for the commission of the
+crime ... Then, the defendant must have engaged in conduct which constitutes a substantial step
+toward commission of the crime, conduct strongly corroborative of the firmness of the defendant’s
+criminal intent.” United States v. Stallworth, 543 F.2d 1038, 1041-42 (2d Cir.1976); United States
+v. Martinez, 775 F.2d 31, 35 (2d Cir.1985); see United States v. Coplon, 185 F.2d 629, 633 (2d
+Cir.1950), cert. denied, 342 U.S. 920, 72 S.Ct. 362, 96 L.Ed. 688 (1952); United States v.
+Mandujano, 499 F.2d 370 (5th Cir.1974), cert. denied, 419 U.S. 1114, 95 S.Ct. 792, 42 L.Ed.2d 812
+(1975); American Law Institute Model Penal Code § 5.01.
 
 **Generations:**
 
 
 ***GPT-4o:***
-This stringent interpretation contrasts sharply with the intent of the 1963 amendments to Rule 25
-and Rule 6(b), which aimed to inject flexibility and fairness into the substitution process. As
-noted in 379 F.2d 94 and 359 F.2d 292, the amendments were designed to eliminate the inequities and
-hardships caused by the rigid two-year limitation originally imposed. The Advisory Committee
-emphasized that the revised rules were to be liberally construed to allow courts discretion in
-extending the substitution period, recognizing the difficulties that could arise in promptly
-identifying and notifying the proper representative of the deceased.   Given this context, the
-defendant’s counsel's suggestion of death, which lacked identification of a proper representative,
-failed to initiate the 90-day countdown. This interpretation aligns with the judicial precedent that
-courts should prioritize the equitable administration of justice over strict procedural formalities.
-Thus, the district court erred in dismissing the plaintiffs' action without granting the requested
-extension, especially considering the circumstances that inhibited timely substitution, such as the
-injury to plaintiffs' counsel and the ongoing legal processes in the probate court.  We, therefore,
-reverse the judgment and remand for further proceedings consistent with this opinion, ensuring that
-the substitution process adheres to the flexible and just principles intended by the amendments to
-the Federal Rules of Civil Procedure.
+In analyzing whether Gordin's actions constituted an attempt to transport without filing a report,
+it is pertinent to consider the "substantial step" doctrine outlined in United States v. Martinez,
+775 F.2d 31. The doctrine establishes that an overt action that strongly corroborates intent
+qualifies as a substantial step towards the commission of the offense. Here, Gordin's actions in
+withdrawing $500,000, purchasing tickets, and preparing to board a flight to Helsinki constitute
+such a step.  Moreover, cases like United States v. Coplon, 185 F.2d 629, emphasize that conduct
+crossing beyond mere preparation and exhibiting a firm intention to complete the crime qualifies as
+an attempt. Gordin's pattern of past transactions and demonstrated knowledge of the legal
+requirement further supports this view.  Additionally, the interpretation in United States v.
+Bareno-Burgos, 739 F.Supp. 772, clarifies that the duty to file can be triggered well before actual
+departure, upholding the notion that significant preparatory actions can meet the "about to
+transport" criterion.  Finally, the concept of "attempted transactions" in United States v. Jenkins,
+943 F.2d 167, which was reversed on other grounds, underscores that intent and significant
+preparatory actions can satisfy legal thresholds for attempts. Given these precedents, Gordin's
+actions align with the definition of attempted transport in violation of §§ 5316 and 5324(b), thus
+justifying the seizure and forfeiture under § 5317(c).
 
 
 **Label:** 
 
 
 ***Meta-Llama-3-8B-Instruct:***
-  In the context of Rule 25(a) (1) of the Federal Rules of Civil Procedure, the suggestion of death
-is a crucial step in the process of substituting a deceased party with a proper representative.
-However, not all suggestions of death are created equal. In cases where the suggestion of death is
-made by a party's attorney, but fails to identify a successor or representative of the deceased, the
-90-day period for substitution may not be triggered.  As noted in 359 F.2d 292, the Advisory
-Committee on Civil Rules intended to provide a more flexible standard for substitution, allowing for
-extensions of time and dispensing with the rigid two-year period previously in place. However, this
-flexibility is contingent upon the suggestion of death providing sufficient information to permit
-the court to proceed with substitution.  In the present case, the suggestion of death made by the
-defendant's attorney was deficient in that it failed to identify a successor or representative of
-the deceased. This lack of specificity rendered the suggestion ineffective in triggering the 90-day
-period for substitution, as explained in 379 F.2d 94.  Furthermore, the court's discretion to
-enlarge the time period for substitution, as provided by Rule 6(b), is not a blank check. Rather, it
-is intended to be exercised in a judicious and reasonable manner, taking into account the particular
-circumstances of each case.  In light of these principles, we conclude that the district court erred
-in dismissing the action with prejudice. The case should be remanded for further proceedings,
-allowing the parties to properly substitute a representative of the deceased and continue the action
-in a manner consistent with the Federal Rules of Civil Procedure.
+Based on the case law, we can see that the concept of a "substantial step" towards the commission of
+a crime is a crucial element in determining whether an attempt has been made. In United States v.
+Martinez, 775 F.2d 31 (1985), the court held that a substantial step is any conduct that is strongly
+corroborative of the firmness of the actor's intent to complete the commission of the offense.
+Similarly, in United States v. Jenkins, 943 F.2d 167 (1991), the court found that a substantial step
+was taken when a defendant withdrew cash from a bank account and placed it in a briefcase, intending
+to transport it out of the country without filing a report.  In the present case, Gordin's actions
+can be seen as a substantial step towards the commission of a crime. He withdrew $500,000 in cash
+from Anchor's account, placed it in a briefcase, and was about to board a flight to Kennedy Airport,
+from which he would depart for Helsinki. This conduct is strongly corroborative of his intent to
+transport the money out of the country without filing a report, as he had previously done on
+multiple occasions.  Furthermore, in United States v. Bareno-Burgos, 739 F.Supp. 772 (1990), the
+court held that the duty to file a report under 31 U.S.C. § 5316 arises when a person physically
+transports or attempts to transport over $10,000 out of the country. In this case, Gordin had
+already withdrawn the cash and was preparing to transport it out of the country, making it likely
+that he would continue with his plans to avoid filing a report.  In conclusion, based on the case
+law, it is clear that Gordin's actions constitute a substantial step towards the commission of a
+crime, and that he was attempting to transport the money out of the country without filing a report.
+Therefore, the seizure of the $500,000 and the subsequent forfeiture are justified under 31 U.S.C. §
+5317(e).
 
 
 **Label:** 
 
 
-**citations:** ['379 F.2d 94', '359 F.2d 292']
+**citations:** ['943 F.2d 167', '543 F.2d 1038', '775 F.2d 31', '185 F.2d 629', '499 F.2d 370']
 
-***short_citations_0:*** 379 F.2d 94
+***short_citations_0:*** 943 F.2d 167
 
-the proper parties. * * * Unless the motion for substitution is made not later than 90 days after the death is suggested upon the record by service of a statement of the fact of the death as provided herein for the service of the motion, the action shall be dismissed as to the deceased party.” Here not only had the 90-day period not expired when the court entered summary judgment, the appellant by her motion for reconsideration had specifically invoked the discretion of the court. Rule 6(b) provides pertinently that when “by these rules * * * an act is required or allowed to be done at or within a specified time, the court for cause shown may at any time in its discretion (1) with or without motion or notice order the period enlarged if request therefor is made before the expiration of the period originally prescribed * * Originally the Rule had precluded an extension of time for taking action under Rule 25(a) (1), but by purposeful amendment, it was sought to relieve against the hardship of the Court’s holding in Anderson v. Yungkau, 329 U.S. 482, 67 S.Ct. 428, 91 L.Ed. 436 (1947). It was intended that liberal effect be given to the 1963 amendment. Graham v. Pennsylvania Railroad, 119 U.S.App.D.C. 335, 342 F.2d 914 (1964), cert. denied, 381 U.S. 904, 85 S.Ct. 1446, 14 L.Ed.2d 286 (1965). We are constrained to reverse for further proceedings not inconsistent with this opinion. Reversed. The only “party” then
+York on August 1 and, after a six to eight hour lay-over in Belgium, arrive in Zaire on August 3. Washington also booked Jenkins on a flight that would return to New York on August 9. Further details of the plan were discussed when Jenkins and Maniquis again met on July 25th. Jenkins now identified the Afro-American Bank as the institution in which Maniquis’ money would be deposited and revealed that he controlled fifty percent of the bank’s stock. Jenkins again guaranteed that Maniquis’ money would not be at risk and that he could reclaim it whenever he desired. Further, Jenkins continued to assure Maniquis that he would be able to carry the $150,000 into Zaire without any difficulties. At this point, referring to the federal statute prohibiting the transportation of more than $10,000 outside the United States without filing a Currency or Monetary Instrument Report (“CMIR”), see 31 U.S.C. § 5316(a), Mani-quis asked Jenkins what he intended to do about the “Customs form you’re supposed to fill out, if you’re bringing a certain amount of money out of the [United States].” Jenkins was apparently unaware of the requirement and told Maniquis that he would “check that out.” On July 31, the day before Jenkins was scheduled to depart for Zaire, he and Mani-quis had yet another meeting. Jenkins now showed Maniquis the Afro-American Bank’s charter, the minutes of an incorporation meeting and a document demonstrating that the bank already had substantial funds on deposit. The conversation eventually turned to
 
-***short_citations_1:*** 359 F.2d 292
+***short_citations_1:*** 543 F.2d 1038
 
-insertion of a “reasonable time” standard. In 1963, the Advisory Committee suggested the present rule and noted: “Present Rule 25(a) (1), together with present Rule 6(b), results in an inflexible requirement that an action be dismissed as to a deceased party if substitution is not carried out within a fixed period measured from the time of the death. The hardships and inequities of this unyielding requirement plainly appear from the cases. * * * The amended rulé establishes a time limit for the motion to substitute based not upon the time of the death, but rather upon the time information of the death is provided by means of a suggestion of death upon the record, i. e. service of a statement of the fact of the death.” See Notes of Advisory Committee on the Civil Rules, 28 U.S.C. Rule 25 (1964). Rule 6(b) of the Federal Rules of Civil Procedure was also amended in 1963 and the prohibition against extending the time for taking action under Rule 25 was eliminated. The Advisory Committee on the Civil Rules noted: “It is intended that the court shall have discretion to enlarge that period.” The amendments of Rules 6(b) and 25(a) (1) provided needed flexibility. It was assumed that discretionary extensions would be liberally granted. Movants under Rule 25 can ordinarily control when a death is “suggested upon the record” and appellants’ attorney was under no obligation to file his affidavit of Staggers’ death on the date he did. He could have filed
+at or near the place contemplated for its commission, where such possession . . . serves no lawful purpose ...” under the subtitle “Conduct Which May Be Held Substantial Step Under Subsection (l)(c).” Application of the foregoing to the instant case emphasizes the importance of a rule encouraging early police intervention where a suspect is clearly bent on the commission of crime. The undisputed testimony of Campbell and Young established that appellants intended to execute a successful bank robbery. Moreover, Stallworth and Sellers, in furtherance of their plan, took substantial steps that strongly corroborated their criminal intent. They reconnoitered the bank, discussed (on tape) their plan of attack, armed themselves and stole ski masks and surgical gloves. The getaway car was carefully prepared for destruction. As Sellers moved ominously toward the bank and Campbell uttered a verbal signal to his accomplices, a bank robbery was in progress. A jury could properly find that preparation was long since completed. All that stood between appellants and success was a group of F.B.I. agents and police officers. Their timely intervention probably prevented not only a robbery but possible bloodshed in an area crowded with noontime shoppers. We note in closing that federal courts have upheld convictions for attempted bank robbery without evidence of either an assault, United States v. Foster, 478 F.2d 1001 (7th Cir. 1973), or actual entry into the target bank, United States v. Bussey, 507 F.2d 1096 (9th Cir. 1974). Cases such as these, however, should not divert a court
+
+***short_citations_2:*** 775 F.2d 31
+
+to commit the crime, and (2) engaged in conduct amounting to a “substantial step” towards the commission of the crime. United States v. Mowad, 641 F.2d 1067, 1073 (2d Cir.), cert. denied, 454 U.S. 817, 102 S.Ct. 94, 70 L.Ed.2d 86 (1981); United States v. Manley, 632 F.2d 978, 988-89 (2d Cir.1980), cert. denied, 449 U.S. 1112, 101 S.Ct. 922, 66 L.Ed.2d 841 (1981); United States v. Jackson, 560 F.2d 112, 117-20 (2d Cir.), cert. denied, 434 U.S. 941, 98 S.Ct. 434, 54 L.Ed.2d 301 (1977). We have held that “[a] substantial step must be something more than mere preparation, yet may be less than the last act necessary before the actual commission of the substantive crime____” United States v. Manley, 632 F.2d at 987-88; see United States v. Jackson, 560 F.2d at 118-19; United States v. Coplon, 185 F.2d 629, 632-33 (2d Cir.1950) (L. Hand, Ch. J.), cert. denied, 342 U.S. 920, 72 S.Ct. 362, 96 L.Ed. 688 (1952). Viewing the evidence, as we must, in the light most favorable to the government, Glasser v. United States, 315 U.S. 60, 80, 62 S.Ct. 457, 469, 86 L.Ed.2d 680 (1942); United States v. Esdaille, 769 F.2d 104, 108 (2d Cir.1985) (quoting United States v. Young, 745 F.2d 733, 762 (2d Cir.1984), cert. denied, — U.S.-, 105 S.Ct. 1842, 85 L.Ed.2d 142 (1985)), we con-elude that the proof here clearly sufficed to permit a rational juror to find that Martinez intended to murder Jones and took a substantial step, beyond mere
+
+***short_citations_3:*** 185 F.2d 629
+
+refused to show her. All these documents, taken with the repeated instances in which she had shown an insistent wish to get access to such records, and with, her meetings in New York, made out a case which must háve satisfied any fair minded jury that she was engaged in the conspiracy with which she was charged; and that, when the right moment came, she meant to pass the packet to Gubitchev. Indeed, it, does not appear why she had not already done so before her arrest, as the agents presumably supposed that she had. Because the arrest in this way interrupted the consummation of the crime.. one point upon the appeal is that her conduct still remained in the zone of “preparation,” and that the evidence did not prove an “attempt.” This argument it will be most convenient to answer at the outset. A neat doctrine by which to test when a person, intending to commit a crime which he fails to carry out, has “attempted” to commit it, would be that he has done all that it is within his power to do, but has been prevented by intervention from outside; in short, that he has passed beyond any locus poenitentice. Apparently that was the original notion, and may still be law in England; but it is certainly not now generally the law in the United States, for there are many decisions which hold that the accused has passed beyond “preparation,” although he has been interrupted before he
+
+***short_citations_4:*** 499 F.2d 370
+
+the crime could have been committed had the attendant circumstances been as the actor believed them to be.” This proposed section was changed slightly from the version proposed in the Study Draft: “(1) Offense. A person is guilty of criminal attempt if, acting with the kind of culpability otherwise required for commission of an offense, he intentionally engages in conduct constituting a substantial step toward commission of the offense. A substantial step is any conduct, whether act, omission, or possession, which is strongly corroborative of the firmness of the actor’s intent to complete the commission of the offense. Factual or legal impossibility of committing the offense is not a defense if the offense could have been committed had the attendant circumstances been as the actor believed them to be.” A comment justifying the study draft version of proposed section 1001 appears at 1 Working Papers of the National Commission on Reform of Federal Criminal Laws, 351-368 (1970). Proposed section 1001 is generally consistent with, and probably taken in part from, section 5.01 of the Model Penal Code (Proposed Official Draft 1962) : “(1) Definition of Attempt. A person is guilty of an attempt to commit a crime if, acting with the kind of culpability otherwise required for commission of the crime, he: “(a) purposely engages in conduct which would constitute the crime if the attendant circumstances were as he believes them to be; or “(b) when causing a particular result is an element of the crime, does or omits to
 
 **prev_text:**
-LEVENTHAL, Circuit Judge: The District Court held that Rule 25(a) (1) of the Federal Rules of Civil
-Procedure required dismissal of the plaintiffs’ tort action because defendant’s counsel had filed a
-suggestion of death of the defendant yet plaintiff had not made any substitution of parties within
-90 days. We reverse on the ground that the suggestion of death, which was neither filed by nor
-identified a successor or representative of the deceased, such as an executor or administrator, was
-ineffective to trigger the running of the 90-day period provided by the Rule. Mr. and Mrs. John
-Rende filed an action in the District Court individually and on behalf of their infant son who had
-been struck and injured by Alfred S. Kay while driving his car. On August 27, 1967, defendant Kay
-died. On September 1, 1967, the defendant’s attorney, a term used here to identify the lawyer who
-had been retained by deceased to defend the action, and who had duly entered an appearance as
-attorney for defendant, filed a suggestion of death in the District Court, giving notice to
-plaintiffs’ attorney. That same day there was filed in the Orphans Court for Montgomery County,
-Maryland, residence of the deceased, his will naming his widow as executrix, but the will had not
-been probated, nor any legal representative appointed for the estate at the time of the filing of
-this appeal. Plaintiffs’ attorney was injured on October 14, 1967. On returning to practice early in
-1968, he learned that no successor to defendant Kay had yet been appointed, and he moved to certify
-the case to the ready calendar. The defendant’s attorney opposed this on grounds that discovery
-procedures had not been completed. The case was delayed and placed on the ready calendar as of June
-7, 1968. However, in April 1968, the defendant’s attorney moved in his own name to dismiss the
-action on the ground that Rule 25(a) (1) required plaintiffs to move to substitute a proper party
-for the deceased within 90 days of the suggestion of death. Plaintiffs filed an opposition and
-motion for substitution of the proper party, and sought an extension of the time for substitution as
-allowed by Rule 6(b). At argument, plaintiffs’ counsel asserted the “suggestion of death was
-defective in that it did not list the name of the proper party; that is the legal representative of
-the defendant.” The court responded: “That would not be his burden.” The court dismissed the action
-with prejudice. Prior to its amendment in 1963, Rule 25(a) (1) required the court to dismiss a case
-if no motion for substitution was filed within two. years after date of death, and no extensions of
-this period were allowed under Rule 6(b). The rule was rigorously applied, often with harsh results,
-and was called “easily the poorest rule of all the Federal Rules.” In 1955 the Advisory Committee on
-Rules for Civil Procedure recommended that the two-year period be changed to a “reasonable time”
-standard. In 1961 the Advisory Committee on Civil Rules again suggested the Rule be made more
-flexible. In 1963 the Supreme Court made changes in Rule 25(a) (1) and in Rule 6(b) so as to provide
-a 90-day time limit from the filing of a suggestion of death, and to give the court discretion to
-extend that time. The Committee Notes explaining the amendments state: Present Rule 25(a) (1),
-together with present Rule 6(b), results in an inflexible requirement that an action be dismissed as
-to a deceased party if substitution is not carried out within a fixed period measured from the time
-of death. The hardships and inequities of this unyielding requirement plainly appear from the cases.
-* * * The amended rule establishes a time limit for the motion to substitute based not upon the time
-of the death, but rather upon the time information of the death is provided by means of a suggestion
-of death upon the record. * * * A motion to substitute may be made by any party or by the
-representative of the deceased party without awaiting the suggestion of death. Indeed, the motion
-will usually be so made. If a party or the representative of the deceased party desires to limit the
-time within which another may make the motion, he may do so by suggesting the death upon the record.
-(Emphasis added.) Under the amended Rule either a party or “the successors or representatives of the
-deceased party” may avoid delay in effecting substitution for the deceased party either by filing a
-motion for substitution or by suggesting death on the record and thus triggering the 90-day period
-which begins with suggestion of death. The Advisory Committee, in outlining that suggestion of death
-could be made by “the representative of the deceased party” plainly contemplated that the suggestion
-emanating from the side of the deceased would identify a representative of the estate, such as an
-executor or administrator, who could be substituted for the deceased as a party, with the action
-continued in the name of the representative. The addition of “successor” in the Rule would take care
-of the case of, say, the distributee of an estate that had been distributed, but would not make a
-material difference in the aspect under consideration. Form 30, for suggestion of death, which was
-provided in order to expedite and facilitate implementation of the amendment, provides: A.B.
-[described as a party, or as executor, administrator, or other representative or successor of C.D.,
-the deceased party\ suggests upon the record, pursuant to Rule 25(a) (1), the death of C.D.
-[describe as party] during the pendency of this action. Added Jan. 21, 1963, eff. July 1, 1963.
-[Emphasis added.] Although the attorney for the defendant was retained to “represent” the deceased
-as his counsel, he is not a person who could be made a party, and is not a “representative of the
-deceased party” in the sense contemplated by Rule 25(a) d). In our opinion the Rule, as amended,
-cannot fairly be construed, as the de fendant’s attorney argues, to make his suggestion of death
-operative to trigger the 90-day period even though he was neither a successor nor representative of
-the deceased, and gave no indication of what person was available to be named in substitution as a
-representative of the deceased. Counsel’s construction would open the door to a tactical maneuver to
-place upon the plaintiff the burden of locating the representative of the estate within 90 days. We
-can conceive of cases wherein even the lawyer retained to represent a defendant might know the
-defendant had died, yet not readily know where his estate would be administered. In the present
-case, plaintiff’s attorney did know the court of probate, but he did not know whether probate of the
-will might be contested, or who would be appointed representative of the estate. The tactic of the
-defendant’s attorney would place on plaintiff the burden, where no conventional representative was
-appointed for the estate in probate court, of instituting machinery in order to produce some
-representative of the estate ad litem, pending appointment of the representative contemplated by law
-of the domicile of the deceased.
+RULING ON CROSS MOTIONS FOR SUMMARY JUDGMENT DORSEY, District Judge. Pending are cross-motions for
+summary judgment. Absent a genuine issue of material fact, if movant is entitled to judgment as a
+matter of law, summary judgment should enter. Fed.R.Civ.P. Rule 56(c). Claimants and the government
+have filed statements of uncontested facts. Local Rule 9(c)(1). No Rule 9(c)(2) statements were
+filed. The facts stated are found to be uncontested. FACTS Gordin is President of Anchor. He is a
+citizen of Latvia. In April, 1992, he opened an account for Anchor at Fleet Bank. In November, 1992,
+$1,000,000 was transferred by wire from overseas to that account. Immediately, he withdrew that sum
+in cash. After wire transfers, he withdrew $515,000, $1,060,000 and $1,300,000 on March 23, 1993,
+April 7, 1993, and May 5, 1993, respectively. He immediately transported the money from New York by
+FinnAir to Latvia via Helsinki. No International Transportation of Currency or Monetary Instrument
+Reports (CMIR or Customs Form 4790) were filed. His attorney had apprised him of the law concerning
+money transported out of the country. On or about May 11, 1993, $500,000 was transferred by wire
+into Anchor’s account. Its money was then withdrawn by Gordin in $100 bills which he carried in a
+briefcase. He carried Anchor’s money as its president. He went to Bradley Airport, in Windsor Locks,
+Connecticut to board a TWA flight to Kennedy where he was booked to fly by FinnAir to Helsinki. As
+he was about to board at Bradley, carrying the briefcase, he was questioned by airport authorities
+as to his bags, one of which contained paint thinner. A check of the luggage disclosed the $500,000.
+He told law enforcement agents of his flight plan. He had no CMIR form. He stated no intention of
+filing such in interviews on May 11 and 12, the latter with his lawyer present and largely speaking
+for him. The $500,000 was seized. FBI Agent McKenna further states that at Kennedy signs and
+announcements advise of the law requiring CMIR filing. PROCEEDINGS Except for the fact that the
+money came from Anchor’s bank account and was in the possession of Gordin, the record reflects no
+facts specifying the interests of claimants, but standing is not at issue. The $500,000 was seized.
+This action followed under 31 U.S.C. § 5317(e). Claimants argue there was no probable cause to seize
+or forfeit the $500,000. Probable cause for the seizure and forfeiture is dependent on an obligation
+to file a report as required by § 5316 which provides, in pertinent part: (a) .... [A] person or an
+agent or a bailee of the person shall file a report under subsection (b) of this section when the
+person, agent or bailee knowingly— (1) transports, is about to transport or has transported,
+monetary instruments of more than $10,000 at one time— (A) from a place in the United States to....
+a place outside the United States; It is the government’s claim that, at the time of the seizure at
+Bradley, there was probable cause to believe that Gordin was attempting to transport the $500,000
+from Bradley to a place outside the United States without filing a report, and thus the seizure, and
+now the forfeiture would be warranted in law. The government’s claim of probable cause is best
+tested by analyzing the elements and evidence in support thereof: a) Gordin was transporting. In a
+physical sense, this is not seriously disputed. The money was in a briefcase he was carrying. b) He
+knew what he was carrying and the requirements of the law. This also is not disputed. See United
+States v. $359,500 in United States Currency, 828 F.2d 930 (2d Cir.1987). If a report required under
+section 5316 with respect to any monetary instrument is not filed. the instrument.... may be seized
+and forfeited to the United States Government. Any property, real or personal, involved in a
+transaction or attempted transaction in violation of section 5324(b) may be seized and forfeited to
+the United States Government. c) Money in the amount of $500,000 (over $10,000) was involved. This
+also is not disputed. d) Gordin was attempting to transport from Bradley. This is in dispute. e)
+Gordin was transporting, or about to transport, to a place outside of the United States. It is
+unquestioned but that Gordin was embarked on a journey that would end outside of the United States.
+In a literal sense he could be found to have been about to transport. The dispute, i.e. Gordin’s
+contention, is that he had not begun to transport, nor was he about to transport the money to a
+point outside of the United States because he had not journeyed so far as to have become obliged to
+file the report. DISCUSSION The first question is whether § 5316(a) literally applies. When a person
+conceives of transporting over $10,000 out of the country and takes the first step in a continuum
+that will lead to the actual transport out of the United States, he could be said to have been about
+to transport. The phrase, “about to transport” connotes a course of action with no precise
+delineation of the starting point. The reach of § 5316(a) extends from the start to the finish,
+using the futuristic “about to transport,” the present “transport” and the past “has transported.”
+It is not insignificant that Congress deleted the phrase “attempts to transport or have transported”
+and substituted the phrase “about to transport”. Pub.L. 99-570, § 1358(b). It thus injected a time
+spectrum for the targeted course of action but imprecisely. The test applied to attempts, ie.
+whether a “substantial step” toward performing the act in question was taken, United States v.
+Martinez, 775 F.2d 31, 35 (2d Cir.1985), is arguably analogous. Whether Gordin had acted as to
+require filing a report is significant because there was clear evidence that he had no intention of
+doing so. At the seizure, he had $500,000 in hand and was embarking on a trip to end outside the
+United States. From his prior trips, there was a pattern of cash withdrawn and ending up outside the
+United States. It could readily be inferred that he would fly from Bradley to Kennedy and then, by
+FinnAir, to Helsinki taking the $500,000 with him. As he had not done so in the past, he had not
+prepared, nor did he intend, to file the required report. His knowledge of the requirement is
+readily inferable from the counsel of his attorney and signs at Kennedy announcing the requirement.
+Application of § 5316(a) is assisted by (b) which provides: (b) A report under this section shall be
+filed at the time and place the Secretary of the Treasury prescribes. This was intended to authorize
+the Secretary “to specify events in advance of departure which would trigger the duty to file the
+report.” H.R.Rep. No. 99-855, 99th Cong., 2d Sess., pt. 1, at 19 (1986). Thus, Congress has been
+held to have intended to authorize the Secretary “to require the filing of currency reports well in
+advance of a person’s actual departure from the United States.” United States v. Bareno-Burgos, 739
+F.Supp. 772, 780 (E.D.N.Y.1990). As there discussed, the Secretary failed to exercise the full
+authority by stating precisely the point at which the duty would be fixed. Id., citing the then
+version of 31 C.F.R. § 103.-27(b)(1), (3). That version, unchanged to May 11, 1993 and to date,
+fails to specify events or a time before departure at which the duty to report is triggered. The
+regulations in effect on May 11, 1993, require a report by one who physically transports or attempts
+to transport (31 C.F.R. § 103.23(a)) over $10,000, to be filed at “the time of departure” (31 C.F.R.
+§ 103.27(b)(1)) “with the Customs Officer in charge at any port of entry or departure.” (id. at
+(b)(3)). Thus a “temporal and spatial proximity to [the] actual point of departure” is necessary for
+the duty to file to arise. Mercado v. U.S. Customs Service, 873 F.2d 641, 646 (2d Cir.1989); United
+States v. Bareno-Burgos, 739 F.Supp. at 781-82 and cases cited. One in Gordin’s posture, enplaning
+in New York for a flight to Miami, on a ticket to Colombia with a change of plane in Miami, “would
+[highly likely] carry through with these plans.” Id. The requirement has been described as conduct
+manifesting “a definite commitment to leave the country,” United States v. Cutaia, 511 F.Supp. 619,
+625 (E.D.N.Y.1981). See United States v. Jenkins, 689 F.Supp. 342, 343 (S.D.N.Y.1988), rev’d in part
+on other grounds, 876 F.2d 1085 (2d Cir.1989). A “transport” has been found to have commenced in
+Pennsylvania, for venue purposes, United States v. Donahue, 885 F.2d 45, 52 (3d Cir.1989), but that
+case did not decide the obligation to file question where the flight to a point outside the United
+States was to commence in Miami. The statutes, absent any contrary regulation promulgated by the
+Secretary, do not clearly require the filing upon boarding a domestic flight which connects
+elsewhere with an international flight. United States v. Bareno-Burgos, 739 F.Supp. at 783. The
+government argues that the seizure was nonetheless valid. It claims that Gordin attempted a
+transaction in violation of 31 U.S.C. § 5324(b). As property involved in such a transaction, the
+$500,000 was forfeita-ble under the second sentence of 31 U.S.C. § 5317(c), added in 1992, which
+provides: Any property, real or personal, involved in a transaction or attempted transaction in
+violation of section 5324(b) ... may be seized and forfeited to the United States Government.
+Section 5324(b) prohibits evasion of the § 5316 reporting by failing to file, or causing or
+attempting to cause a failure to file. The government does not justify the seizure and forfeiture on
+the failure to file the report. Rather it relies on the fact that the $500,000 was personal property
+“involved in a transaction, or attempted transaction in violation of § 5324(b).” § 5317(c). It
+argues that Gor-din had gone so far in carrying out a transaction, transporting $500,000 from
+Anchor’s account in Connecticut to a point outside the United States without filing the required
+report, as to constitute an attempt. Arguably he attempted to violate the reporting law, §§
+5316(a)(1), 5324(b), and the property involved was therefore subject to seizure and forfeiture. §
+5317(c). Arguably, Anchor’s money was in Gordin’s hand as Anchor’s bailee or agent such that it was
+“being transported from the time the instrument [was] delivered to the.... messenger or bailee
+through the time it is delivered to the addressee [or] intended recipient.” § 5317(c). Though
+informed by counsel as to the law which pertained, none of Gordin’s four transports, totaling
+$3,875,000, were reported. Against that backdrop, the evidence showed Gordin withdrawing $500,000,
+which had just been wired into Anchor’s account, in cash, about to enplane to Kennedy and scheduled
+to depart Kennedy, shortly after arriving, for Helsinki. At the seizure, Gordin had no reporting
+form. He did not then, nor to this date, suggest that he would have reported the $500,000 being
+transported. He had placed the withdrawn cash in his bag, purchased tickets and arranged flights
+from Bradley to Kennedy to Helsinki. He was boarding the plane for the first leg of his journey to
+Latvia with the money. With all the information known at the time, it was well within the bounds of
+proper inference that Gordin’s intended course of action was to carry the money out of the country
+without reporting. § 5316(a).
 
 

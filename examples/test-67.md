@@ -1,142 +1,156 @@
 **gold_text:**
-The amendment to Rule 25(a) (1) was intended to dispel unwarranted rigidity and allow more
-flexibility in substitution. “It was intended that liberal effect be given to the 1963 amendment.”
-Roscoe v. Roscoe, 126 U.S.App.D.C. 317, 322, 379 F.2d 94, 99 (1967). “[T]he 90 day period was not
-intended to act as a bar to otherwise meritorious actions.” Staggers v. Otto Gerdau Co., 359 F.2d
-292, 296 (2d Cir. 1966).
+Fifth, equitable tolling is also appropriate when a defendant is actually innocent of the crimes of
+which he was convicted. Gibson v. Klinger; 232 F.3d 799, 808 (10th Cir.2000). Saenz-Jurado argues
+that he is innocent because the cocaine he was convicted of distributing belonged to someone else.
+But given his concession that the cocaine was found inside the vehicle he was driving (even though
+it was also occupied by another individual), he has made no showing that, “in light of all the
+evidence, it is more likely than not that no reasonable juror would have convicted him” of the
+offense. Bousley v. United States, 523 U.S. 614, 623, 118 S.Ct. 1604, 140 L.Ed.2d 828 (1998)
+(quotation omitted). Further, Saenz-Jurado’s claim that the state court did not establish a factual
+basis for his conviction faces the same deficiency; he does not make the required showing of actual
+innocence.
 
 **Generations:**
 
 
 ***GPT-4o:***
-This stringent interpretation contrasts sharply with the intent of the 1963 amendments to Rule 25
-and Rule 6(b), which aimed to inject flexibility and fairness into the substitution process. As
-noted in 379 F.2d 94 and 359 F.2d 292, the amendments were designed to eliminate the inequities and
-hardships caused by the rigid two-year limitation originally imposed. The Advisory Committee
-emphasized that the revised rules were to be liberally construed to allow courts discretion in
-extending the substitution period, recognizing the difficulties that could arise in promptly
-identifying and notifying the proper representative of the deceased.   Given this context, the
-defendant’s counsel's suggestion of death, which lacked identification of a proper representative,
-failed to initiate the 90-day countdown. This interpretation aligns with the judicial precedent that
-courts should prioritize the equitable administration of justice over strict procedural formalities.
-Thus, the district court erred in dismissing the plaintiffs' action without granting the requested
-extension, especially considering the circumstances that inhibited timely substitution, such as the
-injury to plaintiffs' counsel and the ongoing legal processes in the probate court.  We, therefore,
-reverse the judgment and remand for further proceedings consistent with this opinion, ensuring that
-the substitution process adheres to the flexible and just principles intended by the amendments to
-the Federal Rules of Civil Procedure.
+Fifth, Saenz-Jurado asserts he is actually innocent of the crimes for which he was convicted. To
+establish actual innocence, he must demonstrate that “it is more likely than not that no reasonable
+juror would have convicted him” in light of all the evidence. See Schlup v. Delo, 513 U.S. 298,
+327-28 (1995); 523 U.S. 614. However, Saenz-Jurado has not presented new evidence that would meet
+this exacting standard. As noted in 232 F.3d 799, equitable tolling due to actual innocence requires
+substantial evidence and is applicable only in rare and exceptional circumstances. Without such
+evidence, his claim of actual innocence cannot justify equitable tolling.  Finally, regarding his
+request for the appointment of counsel, the district court correctly determined that there is no
+constitutional right to counsel in habeas proceedings. Our precedents do not warrant appointment of
+counsel given the lack of complexity and the straightforward procedural issues present. See 232 F.3d
+799.  Accordingly, we DENY Saenz-Jurado’s request for a COA, his motion for appointment of counsel,
+and his application to proceed IFP.
 
 
 **Label:** 
 
 
 ***Meta-Llama-3-8B-Instruct:***
-  In the context of Rule 25(a) (1) of the Federal Rules of Civil Procedure, the suggestion of death
-is a crucial step in the process of substituting a deceased party with a proper representative.
-However, not all suggestions of death are created equal. In cases where the suggestion of death is
-made by a party's attorney, but fails to identify a successor or representative of the deceased, the
-90-day period for substitution may not be triggered.  As noted in 359 F.2d 292, the Advisory
-Committee on Civil Rules intended to provide a more flexible standard for substitution, allowing for
-extensions of time and dispensing with the rigid two-year period previously in place. However, this
-flexibility is contingent upon the suggestion of death providing sufficient information to permit
-the court to proceed with substitution.  In the present case, the suggestion of death made by the
-defendant's attorney was deficient in that it failed to identify a successor or representative of
-the deceased. This lack of specificity rendered the suggestion ineffective in triggering the 90-day
-period for substitution, as explained in 379 F.2d 94.  Furthermore, the court's discretion to
-enlarge the time period for substitution, as provided by Rule 6(b), is not a blank check. Rather, it
-is intended to be exercised in a judicious and reasonable manner, taking into account the particular
-circumstances of each case.  In light of these principles, we conclude that the district court erred
-in dismissing the action with prejudice. The case should be remanded for further proceedings,
-allowing the parties to properly substitute a representative of the deceased and continue the action
-in a manner consistent with the Federal Rules of Civil Procedure.
+ <answer>  Based on the provided references, it is clear that the petitioner, Saenz-Jurado, is
+seeking a certificate of appealability (COA) to challenge the district court's denial of his 28
+U.S.C. § 2254 application for a writ of habeas corpus. However, the district court denied his
+application as time-barred under § 2244(d)(1), and Saenz-Jurado is now seeking a COA from this
+court.  In order to obtain a COA, Saenz-Jurado must make a "substantial showing of the denial of a
+constitutional right" (§ 2253(c)(2)). The district court denied his habeas application on procedural
+grounds without reaching the underlying constitutional claims, and therefore, Saenz-Jurado must show
+that "jurists of reason would find it debatable whether the petition states a valid claim of the
+denial of a constitutional right and that jurists of reason would find it debatable whether the
+district court was correct in its procedural ruling" (Slack v. McDaniel, 529 U.S. 473, 484, 120
+S.Ct. 1595, 146 L.Ed.2d 542 (2000)).  Saenz-Jurado claims that his federal habeas application was
+timely filed, citing equitable tolling under AEDPA. However, the court finds that the limitations
+period is not equitably tolled, citing Davis v. Johnson, 232 F.3d 799, 811 (5th Cir.1998), cert.
+denied, 526 U.S. 1074, 119 S.Ct. 1474, 143 L.Ed.2d 558 (1999). The court concludes that Saenz-Jurado
+did not exercise due diligence in pursuing his federal claims and did not demonstrate why he did not
+pursue his appeal out of time after receiving permission from the state district court.
+Furthermore, the court finds that Saenz-Jurado's claims of lack of access to legal materials, mental
+illness, and conflict of interest do not constitute extraordinary circumstances that would warrant
+equitable tolling. The court cites Miller v. Marr, 141 F.3d 976, 978 (10th Cir.1998), and Yang v.
+Archuleta, 525 F.3d 925, 929-30 n. 7 (10th Cir.2008), for the proposition that a
 
 
 **Label:** 
 
 
-**citations:** ['379 F.2d 94', '359 F.2d 292']
+**citations:** ['232 F.3d 799', '523 U.S. 614']
 
-***short_citations_0:*** 379 F.2d 94
+***short_citations_0:*** 232 F.3d 799
 
-the proper parties. * * * Unless the motion for substitution is made not later than 90 days after the death is suggested upon the record by service of a statement of the fact of the death as provided herein for the service of the motion, the action shall be dismissed as to the deceased party.” Here not only had the 90-day period not expired when the court entered summary judgment, the appellant by her motion for reconsideration had specifically invoked the discretion of the court. Rule 6(b) provides pertinently that when “by these rules * * * an act is required or allowed to be done at or within a specified time, the court for cause shown may at any time in its discretion (1) with or without motion or notice order the period enlarged if request therefor is made before the expiration of the period originally prescribed * * Originally the Rule had precluded an extension of time for taking action under Rule 25(a) (1), but by purposeful amendment, it was sought to relieve against the hardship of the Court’s holding in Anderson v. Yungkau, 329 U.S. 482, 67 S.Ct. 428, 91 L.Ed. 436 (1947). It was intended that liberal effect be given to the 1963 amendment. Graham v. Pennsylvania Railroad, 119 U.S.App.D.C. 335, 342 F.2d 914 (1964), cert. denied, 381 U.S. 904, 85 S.Ct. 1446, 14 L.Ed.2d 286 (1965). We are constrained to reverse for further proceedings not inconsistent with this opinion. Reversed. The only “party” then
+court). AEDPA’s one-year statute of limitations is subject to equitable tolling but only “in rare and exceptional circumstances.” Davis v. Johnson, 158 F.3d 806, 811 (5th Cir.1998), cert, denied, 526 U.S. 1074, 119 S.Ct. 1474, 143 L.Ed.2d 558 (1999). Equitable tolling would be appropriate, for example, when a prisoner is actually innocent, Miller v. Marr, 141 F.3d 976, 978 (10th Cir.), cert, denied, 525 U.S. 891, 119 S.Ct. 210, 142 L.Ed.2d 173 (1998), when an adversary’s conduct — or other uncontrollable circumstances — -prevents a prisoner from timely filing, or when a prisoner actively pursues judicial remedies but files a defective pleading during the statutory period, Irwin v. Dep’t of Veterans Affairs, 498 U.S. 89, 96, 111 S.Ct. 453, 112 L.Ed.2d 435 (1990). Simple excusable neglect is not sufficient. Id. at 96, 111 S.Ct. 453. Moreover, a petitioner must diligently pursue his federal habeas claims; a claim of insufficient access to relevant law, such as AEDPA, is not enough to support equitable tolling. Miller, 141 F.3d at 978. We agree with the district court that Mr. Gibson did not exercise due diligence in pursuing his federal claims. He has not demonstrated why he did not pursue his appeal out of time after receiving the state district court’s permission on June 13, 1996, or why he did not file his federal habeas petition within the 185 days after the state appellate court affirmed the denial of his post-conviction application. Mr. Gibson’s evidence that he could not obtain a copy of AEDPA
 
-***short_citations_1:*** 359 F.2d 292
+***short_citations_1:*** 523 U.S. 614
 
-insertion of a “reasonable time” standard. In 1963, the Advisory Committee suggested the present rule and noted: “Present Rule 25(a) (1), together with present Rule 6(b), results in an inflexible requirement that an action be dismissed as to a deceased party if substitution is not carried out within a fixed period measured from the time of the death. The hardships and inequities of this unyielding requirement plainly appear from the cases. * * * The amended rulé establishes a time limit for the motion to substitute based not upon the time of the death, but rather upon the time information of the death is provided by means of a suggestion of death upon the record, i. e. service of a statement of the fact of the death.” See Notes of Advisory Committee on the Civil Rules, 28 U.S.C. Rule 25 (1964). Rule 6(b) of the Federal Rules of Civil Procedure was also amended in 1963 and the prohibition against extending the time for taking action under Rule 25 was eliminated. The Advisory Committee on the Civil Rules noted: “It is intended that the court shall have discretion to enlarge that period.” The amendments of Rules 6(b) and 25(a) (1) provided needed flexibility. It was assumed that discretionary extensions would be liberally granted. Movants under Rule 25 can ordinarily control when a death is “suggested upon the record” and appellants’ attorney was under no obligation to file his affidavit of Staggers’ death on the date he did. He could have filed
+in the conviction of one who is actually innocent.” Murray v. Carrier, supra, at 496. To establish actual innocence, petitioner must demonstrate that, “‘in light of all the evidence,’” “it is more likely than not that no reasonable juror would have convicted him.” Schlup v. Delo, 513 U. S. 298, 327-328 (1995) (quoting Friendly, Is Innocence Irrelevant? Collateral Attack on Criminal Judgments, 38 U. Chi. L. Rev. 142, 160 (1970)). The District Court failed to address petitioner’s actual innocence, perhaps because petitioner failed to raise it initially in his §2255 motion. However, the Government does not contend that petitioner waived this claim by failing to raise it below. Accordingly, we believe it appropriate to remand this ease to permit petitioner to attempt to make a showing of actual innocence. It is important to note in this regard that “actual innocence” means factual innocence, not mere legal insufficiency. See Sawyer v. Whitley, 505 U. S. 333, 339 (1992). In other words, the Government is not limited to the existing record to rebut any showing that petitioner might make. Rather, on remand, the Government should be permitted to present any admissible evidence of petitioner’s guilt even if that evidence was not presented during petitioner’s plea colloquy and would not normally have been offered before our decision in Bailey. In cases where the Government has forgone more serious charges in the course of plea bargaining, petitioner’s showing of actual innocence must also extend to those charges. In this case, the Government maintains that
 
 **prev_text:**
-LEVENTHAL, Circuit Judge: The District Court held that Rule 25(a) (1) of the Federal Rules of Civil
-Procedure required dismissal of the plaintiffs’ tort action because defendant’s counsel had filed a
-suggestion of death of the defendant yet plaintiff had not made any substitution of parties within
-90 days. We reverse on the ground that the suggestion of death, which was neither filed by nor
-identified a successor or representative of the deceased, such as an executor or administrator, was
-ineffective to trigger the running of the 90-day period provided by the Rule. Mr. and Mrs. John
-Rende filed an action in the District Court individually and on behalf of their infant son who had
-been struck and injured by Alfred S. Kay while driving his car. On August 27, 1967, defendant Kay
-died. On September 1, 1967, the defendant’s attorney, a term used here to identify the lawyer who
-had been retained by deceased to defend the action, and who had duly entered an appearance as
-attorney for defendant, filed a suggestion of death in the District Court, giving notice to
-plaintiffs’ attorney. That same day there was filed in the Orphans Court for Montgomery County,
-Maryland, residence of the deceased, his will naming his widow as executrix, but the will had not
-been probated, nor any legal representative appointed for the estate at the time of the filing of
-this appeal. Plaintiffs’ attorney was injured on October 14, 1967. On returning to practice early in
-1968, he learned that no successor to defendant Kay had yet been appointed, and he moved to certify
-the case to the ready calendar. The defendant’s attorney opposed this on grounds that discovery
-procedures had not been completed. The case was delayed and placed on the ready calendar as of June
-7, 1968. However, in April 1968, the defendant’s attorney moved in his own name to dismiss the
-action on the ground that Rule 25(a) (1) required plaintiffs to move to substitute a proper party
-for the deceased within 90 days of the suggestion of death. Plaintiffs filed an opposition and
-motion for substitution of the proper party, and sought an extension of the time for substitution as
-allowed by Rule 6(b). At argument, plaintiffs’ counsel asserted the “suggestion of death was
-defective in that it did not list the name of the proper party; that is the legal representative of
-the defendant.” The court responded: “That would not be his burden.” The court dismissed the action
-with prejudice. Prior to its amendment in 1963, Rule 25(a) (1) required the court to dismiss a case
-if no motion for substitution was filed within two. years after date of death, and no extensions of
-this period were allowed under Rule 6(b). The rule was rigorously applied, often with harsh results,
-and was called “easily the poorest rule of all the Federal Rules.” In 1955 the Advisory Committee on
-Rules for Civil Procedure recommended that the two-year period be changed to a “reasonable time”
-standard. In 1961 the Advisory Committee on Civil Rules again suggested the Rule be made more
-flexible. In 1963 the Supreme Court made changes in Rule 25(a) (1) and in Rule 6(b) so as to provide
-a 90-day time limit from the filing of a suggestion of death, and to give the court discretion to
-extend that time. The Committee Notes explaining the amendments state: Present Rule 25(a) (1),
-together with present Rule 6(b), results in an inflexible requirement that an action be dismissed as
-to a deceased party if substitution is not carried out within a fixed period measured from the time
-of death. The hardships and inequities of this unyielding requirement plainly appear from the cases.
-* * * The amended rule establishes a time limit for the motion to substitute based not upon the time
-of the death, but rather upon the time information of the death is provided by means of a suggestion
-of death upon the record. * * * A motion to substitute may be made by any party or by the
-representative of the deceased party without awaiting the suggestion of death. Indeed, the motion
-will usually be so made. If a party or the representative of the deceased party desires to limit the
-time within which another may make the motion, he may do so by suggesting the death upon the record.
-(Emphasis added.) Under the amended Rule either a party or “the successors or representatives of the
-deceased party” may avoid delay in effecting substitution for the deceased party either by filing a
-motion for substitution or by suggesting death on the record and thus triggering the 90-day period
-which begins with suggestion of death. The Advisory Committee, in outlining that suggestion of death
-could be made by “the representative of the deceased party” plainly contemplated that the suggestion
-emanating from the side of the deceased would identify a representative of the estate, such as an
-executor or administrator, who could be substituted for the deceased as a party, with the action
-continued in the name of the representative. The addition of “successor” in the Rule would take care
-of the case of, say, the distributee of an estate that had been distributed, but would not make a
-material difference in the aspect under consideration. Form 30, for suggestion of death, which was
-provided in order to expedite and facilitate implementation of the amendment, provides: A.B.
-[described as a party, or as executor, administrator, or other representative or successor of C.D.,
-the deceased party\ suggests upon the record, pursuant to Rule 25(a) (1), the death of C.D.
-[describe as party] during the pendency of this action. Added Jan. 21, 1963, eff. July 1, 1963.
-[Emphasis added.] Although the attorney for the defendant was retained to “represent” the deceased
-as his counsel, he is not a person who could be made a party, and is not a “representative of the
-deceased party” in the sense contemplated by Rule 25(a) d). In our opinion the Rule, as amended,
-cannot fairly be construed, as the de fendant’s attorney argues, to make his suggestion of death
-operative to trigger the 90-day period even though he was neither a successor nor representative of
-the deceased, and gave no indication of what person was available to be named in substitution as a
-representative of the deceased. Counsel’s construction would open the door to a tactical maneuver to
-place upon the plaintiff the burden of locating the representative of the estate within 90 days. We
-can conceive of cases wherein even the lawyer retained to represent a defendant might know the
-defendant had died, yet not readily know where his estate would be administered. In the present
-case, plaintiff’s attorney did know the court of probate, but he did not know whether probate of the
-will might be contested, or who would be appointed representative of the estate. The tactic of the
-defendant’s attorney would place on plaintiff the burden, where no conventional representative was
-appointed for the estate in probate court, of instituting machinery in order to produce some
-representative of the estate ad litem, pending appointment of the representative contemplated by law
-of the domicile of the deceased.
+ORDER DENYING CERTIFICATE OF APPEALABILITY CARLOS F. LUCERO, Circuit Judge. Abel Saenz-Jurado
+requests a certificate of appealability (“COA”) following the district court’s denial of his 28
+U.S.C. § 2254 application for a writ of habeas corpus. The district court denied the application
+because it was time barred under § 2244(d)(1). For substantially the same reasons as the district
+court, we deny Saenz-Jurado’s request for a COA and dismiss the appeal. I On August 16, 1994, Saenz-
+Jurado pleaded guilty in Colorado state court to one count of unlawful distribution of a schedule II
+controlled substance. On December 6,1994, he was sentenced to ninety days’ confinement and four
+years’ probation. Saenz-Jurado did not appeal. On May 29, 1997, Saenz-Jurado’s probation was
+revoked, and he was sentenced to four years in a community corrections program. On September 15,
+1999, the community corrections program requested a warrant, claiming that Saenz-Jurado had failed
+to comply with program requirements. Saenzr-Jurado alleges that he was then arrested by federal
+authorities on September 16, 1999, and subsequently charged with possession of 500 or more grams of
+cocaine. After pleading guilty to the federal charge, he was sentenced to 159 months’ imprisonment
+and transferred to a federal prison in Texas to serve his federal sentence. On October 24, 2000,
+Colorado state officials filed a detainer against Saenz-Jurado seeking his return to Colorado
+following his release from federal custody. On November 1, 2002, Saenz-Jurado commenced a state
+collateral proceeding challenging his Colorado conviction for unlawful possession of a schedule II
+controlled substance. On August 23, 2005, the petition was denied as untimely by the Colorado
+district court. The intermediate appellate court affirmed on March 22, 2007, and on November 5,
+2007, the Colorado Supreme Court denied his petition for a writ of certiorari. Thereafter, on June
+10, 2008, Saenz-Jurado filed the instant application for writ of habeas corpus under § 2254 in the
+United States District Court for the District of Colorado. His § 2254 application was denied based
+on the one-year limitations pe-in § 2244(d)(1). Saenzr-Jurado then requested a certificate of
+appealability from the district court, moved for appointment of counsel, and applied for leave to
+proceed in forma pauperis (“IFP”) on appeal. The district court denied all three requests on
+November 6, 2008. He now seeks a COA from this court and once again requests appointment of counsel
+and leave to proceed IFP on appeal. II Because the district court denied his habeas application as
+well as his request for a COA, Saenz-Jurado may not appeal the district court’s decision absent a
+grant of a COA by this court. § 2253(c)(1)(A). To obtain a COA, Saenz-Jurado must make a
+“substantial showing of the denial of a constitutional right.” § 2253(c)(2). When the district court
+denies a habeas application on procedural grounds without reaching the underlying constitutional
+claims, as it did here, a petitioner is not entitled to a COA unless he can show both that “jurists
+of reason would find it debatable whether the petition states a valid claim of the denial of a
+constitutional right and that jurists of reason would find it debatable whether the district court
+was correct in its procedural ruling.” Slack v. McDaniel, 529 U.S. 473, 484, 120 S.Ct. 1595, 146
+L.Ed.2d 542 (2000). An appellate court has discretion to resolve either the procedural or the
+substantive issue first. Id. at 485, 120 S.Ct. 1595. The Antiterrorism and Effective Death Penalty
+Act (“AEDPA”) imposes a one-year statute of limitations on § 2254 habe-as claims. § 2244(d)(1). In
+the usual case, the period begins to run from “the date on which the judgment became final by the
+conclusion of direct review or the expira tion of the time for seeking such review.” §
+2244(d)(1)(A). The state court entered judgment against Saenz-Jurado on December 6,1994. He did not
+appeal. Thus, Saenz-Jurado’s conviction became final and AEDPA’s one-year limitations period began
+to run on January 20, 1995, forty-five days after judgment was entered against him. See ColoApp. R.
+4(b) (requiring that a notice of appeal from a state criminal conviction be filed within forty-five
+days of the entry of judgment). As a result, Saenz-Jurado was required to file his federal habeas
+application by January 20, 1996. See § 2244(d)(1). Because he did not file the present application
+until June 10, 2008, given the absence of the benefit of more than twelve years of tolling, it is
+time barred under AEDPA. Construing his request for a COA liberally, as we must, see Haines v.
+Kerner, 404 U.S. 519, 520-21, 92 S.Ct. 594, 30 L.Ed.2d 652 (1972), Saenz-Jurado urges that we
+consider the limitations period equitably tolled on at least five bases: (1) he did not know how to
+read or write in either English or Spanish, (2) he lacked access to legal materials, (3) he suffered
+from mental illness, (4) he could not appeal his state conviction because his attorney had a
+conflict of interest, and (5) he is actually innocent. He also wishes to appeal the district court’s
+refusal to appoint counsel. Equitable tolling may be proper in rare and exceptional circumstances.
+Coppage v. McKune, 534 F.3d 1279, 1280 (10th Cir.2008). Such circumstances may arise when a
+petitioner “diligently pursues his claims and demonstrates that the failure to timely file was
+caused by extraordinary circumstances beyond his control.” United States v. Gabaldon, 522 F.3d 1121,
+1124 (10th Cir.2008) (quotation omitted). First, Saenz-Jurado contends he is entitled to tolling
+because he did not know how to read or write in either English or Spanish. But Saenz-Jurado only
+states that despite extensive studying, he has not yet been able to pass the GED exam. Although not
+written in perfect English, his federal collateral attack has been accepted and understood by the
+courts. He has pointed to no evidence beyond his bare assertion that he would not have been able to
+file a similarly intelligible pleading at an earlier time. See Yang v. Archuleta, 525 F.3d 925,
+929-30 n. 7 (10th Cir.2008). The record does not support the conclusion that his language
+difficulties are extraordinary. Second, and relatedly, Saenz-Jurado claims to have lacked access to
+legal materials because of his language deficiencies and because of various transfers between
+different federal facilities. To justify tolling under AEDPA, “[i]t is not enough to say that the
+[correctional] facility lacked all relevant statutes and case law.” Miller v. Marr, 141 F.3d 976,
+978 (10th Cir.1998). Nor is there a constitutional duty to provide access to legal materials in a
+prisoner’s preferred language. Yang, 525 F.3d at 930. Thus, Saenz-Jurado’s lack of access to legal
+materials cannot support the necessary tolling under AEDPA. Third, Saenz-Jurado claims he is
+entitled to tolling because he suffered from mental illness. However, his allegations on this point
+are conclusory and lack support in the record. For example, in his brief to this court, Saenz-Jurado
+does not indicate from what mental illness he suffered; rather, he summarily asserts that he has
+seen a psychologist and that he could not timely file his application because of “mental illness.”
+Cf. Biester v. Midwest Health Servs., Inc., 77 F.3d 1264, 1268 (10th Cir.1996) (holding that
+equitable tolling on the basis of mental illness must be based on exceptional circumstances such as
+adjudged incompetence or institutionalization). Thus, he has failed to demonstrate that his mental
+condition constitutes an extraordinary condition. See Gabaldon, 522 F.3d at 1124. Fourth, Saenz-
+Jurado argues that his state trial attorney had a conflict of interest because the attorney was
+simultaneously representing a co-defendant. We reject this argument because Saenz-Jura-do has not
+explained how this alleged conflict of interest (which also appears to be one of the substantive
+bases for the habeas relief he seeks) prevented him from timely filing his federal habeas
+application.
 
 

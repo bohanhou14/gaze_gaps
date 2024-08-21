@@ -1,142 +1,137 @@
 **gold_text:**
-The amendment to Rule 25(a) (1) was intended to dispel unwarranted rigidity and allow more
-flexibility in substitution. “It was intended that liberal effect be given to the 1963 amendment.”
-Roscoe v. Roscoe, 126 U.S.App.D.C. 317, 322, 379 F.2d 94, 99 (1967). “[T]he 90 day period was not
-intended to act as a bar to otherwise meritorious actions.” Staggers v. Otto Gerdau Co., 359 F.2d
-292, 296 (2d Cir. 1966).
+. Curtis Publishing, Co. v. Vaughan, 107 U.S.App.D.C. 343, 278 F.2d 23, cert. denied, 364 U.S. 822,
+81 S.Ct. 57, 5 L.Ed. 2d 51 (1960); Sullivan v. Meyer, 78 U.S.App.D.C. 367, 141 F.2d 21, cert.
+denied, 322 U.S. 743, 64 S.Ct. 1145, 88 L.Ed. 1575 (1944); Restatement oe Torts § 582 (1938) ; see
+Somerville v. Acacia Mut. Life Ins. Co., 80 U.S.App.D.C. 144, 149 F.2d 836 (1945); Potts v. Dies, 77
+U.S.App.D.C. 92, 132 F.2d 734, cert. denied, 319 U.S. 762, 63 S.Ct. 1316, 87 L.Ed. 1713 (1942).
 
 **Generations:**
 
 
 ***GPT-4o:***
-This stringent interpretation contrasts sharply with the intent of the 1963 amendments to Rule 25
-and Rule 6(b), which aimed to inject flexibility and fairness into the substitution process. As
-noted in 379 F.2d 94 and 359 F.2d 292, the amendments were designed to eliminate the inequities and
-hardships caused by the rigid two-year limitation originally imposed. The Advisory Committee
-emphasized that the revised rules were to be liberally construed to allow courts discretion in
-extending the substitution period, recognizing the difficulties that could arise in promptly
-identifying and notifying the proper representative of the deceased.   Given this context, the
-defendant’s counsel's suggestion of death, which lacked identification of a proper representative,
-failed to initiate the 90-day countdown. This interpretation aligns with the judicial precedent that
-courts should prioritize the equitable administration of justice over strict procedural formalities.
-Thus, the district court erred in dismissing the plaintiffs' action without granting the requested
-extension, especially considering the circumstances that inhibited timely substitution, such as the
-injury to plaintiffs' counsel and the ongoing legal processes in the probate court.  We, therefore,
-reverse the judgment and remand for further proceedings consistent with this opinion, ensuring that
-the substitution process adheres to the flexible and just principles intended by the amendments to
-the Federal Rules of Civil Procedure.
+Our conclusion is reinforced by precedent cases. In Afro-American Publishing Co. v. Jaffe, the court
+held that defamatory content must be construed in the manner that the average reader would
+understand it (278 F.2d 23). In this case, the defamatory nature of Lowery’s letter is evident, as
+it questions appellant’s professional and personal integrity within his community. Furthermore, as
+underscored in the case at 132 F.2d 734, even expressions of unfavorable opinions, when stated as
+fact, can meet the criteria of defamation if they imply false factual assertions. Here, the
+allegations about appellant’s refusal to sell the house and failure to make payments, even when
+attributed to Mrs. Olinger, are susceptible to defamatory interpretation. These statements
+necessitate factual verification, placing them squarely within the jury’s purview. Therefore, the
+issues at hand demand further judicial examination to ascertain both the factual accuracy and the
+defamatory impact of the published letter.  So ordered.
 
 
 **Label:** 
 
 
 ***Meta-Llama-3-8B-Instruct:***
-  In the context of Rule 25(a) (1) of the Federal Rules of Civil Procedure, the suggestion of death
-is a crucial step in the process of substituting a deceased party with a proper representative.
-However, not all suggestions of death are created equal. In cases where the suggestion of death is
-made by a party's attorney, but fails to identify a successor or representative of the deceased, the
-90-day period for substitution may not be triggered.  As noted in 359 F.2d 292, the Advisory
-Committee on Civil Rules intended to provide a more flexible standard for substitution, allowing for
-extensions of time and dispensing with the rigid two-year period previously in place. However, this
-flexibility is contingent upon the suggestion of death providing sufficient information to permit
-the court to proceed with substitution.  In the present case, the suggestion of death made by the
-defendant's attorney was deficient in that it failed to identify a successor or representative of
-the deceased. This lack of specificity rendered the suggestion ineffective in triggering the 90-day
-period for substitution, as explained in 379 F.2d 94.  Furthermore, the court's discretion to
-enlarge the time period for substitution, as provided by Rule 6(b), is not a blank check. Rather, it
-is intended to be exercised in a judicious and reasonable manner, taking into account the particular
-circumstances of each case.  In light of these principles, we conclude that the district court erred
-in dismissing the action with prejudice. The case should be remanded for further proceedings,
-allowing the parties to properly substitute a representative of the deceased and continue the action
-in a manner consistent with the Federal Rules of Civil Procedure.
+  The libel case at hand involves a letter written by appellee to appellant's commanding officer,
+allegedly damaging his reputation and causing him emotional distress. The letter, which forms the
+basis of this action, contains several defamatory statements regarding appellant's personal life and
+financial transactions.  In determining the meaning of the words in the publication, we must
+consider whether the average reader would understand them in the same way as appellee. By reading
+the letter as a whole, including its display lines, we can infer that appellee intended to convey
+that appellant was unwilling to permit his former wife to sell the house and was not keeping the
+payments current on the first and second trusts.  The Supreme Court has held that "the gravamen of
+the action is not whether the quotation from 'Southern Progress' is false but whether the
+characterization of the appellant as a Nazi Trojan Horse is false." Similarly, in the instant case,
+the question is not whether the statements in the letter are true or false, but whether they are
+capable of defamatory meaning and whether they damaged appellant's reputation.  As noted in
+reference case 132 F.2d 734, repetition of a defamatory statement is a publication in itself,
+regardless of whether the repeater names the source. In this case, appellee's letter repeats the
+defamatory statements attributed to Mrs. Olinger, and it is for the jury to determine whether these
+statements were so understood by the recipients of the letter and whether they are, in fact, true.
+In conclusion, the libel case at hand presents a genuine issue of material fact, and we remand for
+further proceedings not inconsistent with this opinion. The issue of whether the statements in the
+letter are capable of defamatory meaning and whether they damaged appellant's reputation must be
+determined by the jury.
 
 
 **Label:** 
 
 
-**citations:** ['379 F.2d 94', '359 F.2d 292']
+**citations:** ['278 F.2d 23', '132 F.2d 734']
 
-***short_citations_0:*** 379 F.2d 94
+***short_citations_0:*** 278 F.2d 23
 
-the proper parties. * * * Unless the motion for substitution is made not later than 90 days after the death is suggested upon the record by service of a statement of the fact of the death as provided herein for the service of the motion, the action shall be dismissed as to the deceased party.” Here not only had the 90-day period not expired when the court entered summary judgment, the appellant by her motion for reconsideration had specifically invoked the discretion of the court. Rule 6(b) provides pertinently that when “by these rules * * * an act is required or allowed to be done at or within a specified time, the court for cause shown may at any time in its discretion (1) with or without motion or notice order the period enlarged if request therefor is made before the expiration of the period originally prescribed * * Originally the Rule had precluded an extension of time for taking action under Rule 25(a) (1), but by purposeful amendment, it was sought to relieve against the hardship of the Court’s holding in Anderson v. Yungkau, 329 U.S. 482, 67 S.Ct. 428, 91 L.Ed. 436 (1947). It was intended that liberal effect be given to the 1963 amendment. Graham v. Pennsylvania Railroad, 119 U.S.App.D.C. 335, 342 F.2d 914 (1964), cert. denied, 381 U.S. 904, 85 S.Ct. 1446, 14 L.Ed.2d 286 (1965). We are constrained to reverse for further proceedings not inconsistent with this opinion. Reversed. The only “party” then
+guilty of malfeasances in office, and was meant and intended to hold Plaintiff in contempt in the eyes of the people of the District of Columbia and throughout the United States.” The Curtis Publishing Company placed a very different construction upon the allegedly defamatory matter. As the trial record shows, its position as to the meaning to be ascribed to the language in question was summed up in a proposed instruction submitted to the trial judge. The publisher there contended “that the caption, reasonably construed, would tend to be understood by the ordinary, average reader to mean that Pearson had charged General Vaughan with having interceded with Government agencies and departments on behalf of friends and ‘five percenters’ or lobbyists, and those whom they represented, and with thus having used, or permitted them to use, the great prestige of the White House, as derived from its privileged position as an important member of its staff, in obtaining or attempting to obtain special treatment for themselves or those whom they represented.” Where the meaning of the words of the publication is in dispute, an issue of fact arises and must be determined by the jury. The publication “ ‘must be read and construed in the sense in which the readers to whom it is addressed would ordinarily understand it. So the whole item, including display lines, should be read and construed together, and its meaning and signification thus determined. * * * if * * * it is capable of two
 
-***short_citations_1:*** 359 F.2d 292
+***short_citations_1:*** 132 F.2d 734
 
-insertion of a “reasonable time” standard. In 1963, the Advisory Committee suggested the present rule and noted: “Present Rule 25(a) (1), together with present Rule 6(b), results in an inflexible requirement that an action be dismissed as to a deceased party if substitution is not carried out within a fixed period measured from the time of the death. The hardships and inequities of this unyielding requirement plainly appear from the cases. * * * The amended rulé establishes a time limit for the motion to substitute based not upon the time of the death, but rather upon the time information of the death is provided by means of a suggestion of death upon the record, i. e. service of a statement of the fact of the death.” See Notes of Advisory Committee on the Civil Rules, 28 U.S.C. Rule 25 (1964). Rule 6(b) of the Federal Rules of Civil Procedure was also amended in 1963 and the prohibition against extending the time for taking action under Rule 25 was eliminated. The Advisory Committee on the Civil Rules noted: “It is intended that the court shall have discretion to enlarge that period.” The amendments of Rules 6(b) and 25(a) (1) provided needed flexibility. It was assumed that discretionary extensions would be liberally granted. Movants under Rule 25 can ordinarily control when a death is “suggested upon the record” and appellants’ attorney was under no obligation to file his affidavit of Staggers’ death on the date he did. He could have filed
+The complaint therefore concedes that appellee quoted the magazine correctly. As appellant puts it in his brief, “the gravamen of the action is not whether the quotation from ‘Southern Progress’ is false but whether the characterization of the appellant as a Nazi Trojan Horse is false.” The “Nazi Trojan Horse” metaphor, like most metaphors, is not a proposition of fact. Unlike many metaphors it implies, in its context, no proposition of fact which the context does not state. In some contexts, no doubt, Nazi Trojan Horse might mean a concealed participant in an armed Nazi invasion. But appellee clearly did not mean that. To praise Hitler, appellee plainly implied, is to be a sort of Nazi Trojan Horse. It follows that this sort of Nazi Trojan Horse is nothing more nor less than one who praises Hitler. Obviously, Southern Progress did “laud the achievements of Adolf Hitler.” It follows that appellee neither said nor implied anything false. No doubt “Nazi Trojan Horse” is a term of reproach. It expresses an unfavorable opinion of appellant’s publication and perhaps of appellant as its publisher, because they praised Hitler, including an opinion that such praise shows Nazi sympathies. But in this context it expresses nothing more. Published work is of public interest. It is well settled that fair criticism or comment on matters of public interest is not actionable in the absence of “malice,” i. e., bad faith or a bad motive. This defense covers statements which are neither false nor demonstrably true.
 
 **prev_text:**
-LEVENTHAL, Circuit Judge: The District Court held that Rule 25(a) (1) of the Federal Rules of Civil
-Procedure required dismissal of the plaintiffs’ tort action because defendant’s counsel had filed a
-suggestion of death of the defendant yet plaintiff had not made any substitution of parties within
-90 days. We reverse on the ground that the suggestion of death, which was neither filed by nor
-identified a successor or representative of the deceased, such as an executor or administrator, was
-ineffective to trigger the running of the 90-day period provided by the Rule. Mr. and Mrs. John
-Rende filed an action in the District Court individually and on behalf of their infant son who had
-been struck and injured by Alfred S. Kay while driving his car. On August 27, 1967, defendant Kay
-died. On September 1, 1967, the defendant’s attorney, a term used here to identify the lawyer who
-had been retained by deceased to defend the action, and who had duly entered an appearance as
-attorney for defendant, filed a suggestion of death in the District Court, giving notice to
-plaintiffs’ attorney. That same day there was filed in the Orphans Court for Montgomery County,
-Maryland, residence of the deceased, his will naming his widow as executrix, but the will had not
-been probated, nor any legal representative appointed for the estate at the time of the filing of
-this appeal. Plaintiffs’ attorney was injured on October 14, 1967. On returning to practice early in
-1968, he learned that no successor to defendant Kay had yet been appointed, and he moved to certify
-the case to the ready calendar. The defendant’s attorney opposed this on grounds that discovery
-procedures had not been completed. The case was delayed and placed on the ready calendar as of June
-7, 1968. However, in April 1968, the defendant’s attorney moved in his own name to dismiss the
-action on the ground that Rule 25(a) (1) required plaintiffs to move to substitute a proper party
-for the deceased within 90 days of the suggestion of death. Plaintiffs filed an opposition and
-motion for substitution of the proper party, and sought an extension of the time for substitution as
-allowed by Rule 6(b). At argument, plaintiffs’ counsel asserted the “suggestion of death was
-defective in that it did not list the name of the proper party; that is the legal representative of
-the defendant.” The court responded: “That would not be his burden.” The court dismissed the action
-with prejudice. Prior to its amendment in 1963, Rule 25(a) (1) required the court to dismiss a case
-if no motion for substitution was filed within two. years after date of death, and no extensions of
-this period were allowed under Rule 6(b). The rule was rigorously applied, often with harsh results,
-and was called “easily the poorest rule of all the Federal Rules.” In 1955 the Advisory Committee on
-Rules for Civil Procedure recommended that the two-year period be changed to a “reasonable time”
-standard. In 1961 the Advisory Committee on Civil Rules again suggested the Rule be made more
-flexible. In 1963 the Supreme Court made changes in Rule 25(a) (1) and in Rule 6(b) so as to provide
-a 90-day time limit from the filing of a suggestion of death, and to give the court discretion to
-extend that time. The Committee Notes explaining the amendments state: Present Rule 25(a) (1),
-together with present Rule 6(b), results in an inflexible requirement that an action be dismissed as
-to a deceased party if substitution is not carried out within a fixed period measured from the time
-of death. The hardships and inequities of this unyielding requirement plainly appear from the cases.
-* * * The amended rule establishes a time limit for the motion to substitute based not upon the time
-of the death, but rather upon the time information of the death is provided by means of a suggestion
-of death upon the record. * * * A motion to substitute may be made by any party or by the
-representative of the deceased party without awaiting the suggestion of death. Indeed, the motion
-will usually be so made. If a party or the representative of the deceased party desires to limit the
-time within which another may make the motion, he may do so by suggesting the death upon the record.
-(Emphasis added.) Under the amended Rule either a party or “the successors or representatives of the
-deceased party” may avoid delay in effecting substitution for the deceased party either by filing a
-motion for substitution or by suggesting death on the record and thus triggering the 90-day period
-which begins with suggestion of death. The Advisory Committee, in outlining that suggestion of death
-could be made by “the representative of the deceased party” plainly contemplated that the suggestion
-emanating from the side of the deceased would identify a representative of the estate, such as an
-executor or administrator, who could be substituted for the deceased as a party, with the action
-continued in the name of the representative. The addition of “successor” in the Rule would take care
-of the case of, say, the distributee of an estate that had been distributed, but would not make a
-material difference in the aspect under consideration. Form 30, for suggestion of death, which was
-provided in order to expedite and facilitate implementation of the amendment, provides: A.B.
-[described as a party, or as executor, administrator, or other representative or successor of C.D.,
-the deceased party\ suggests upon the record, pursuant to Rule 25(a) (1), the death of C.D.
-[describe as party] during the pendency of this action. Added Jan. 21, 1963, eff. July 1, 1963.
-[Emphasis added.] Although the attorney for the defendant was retained to “represent” the deceased
-as his counsel, he is not a person who could be made a party, and is not a “representative of the
-deceased party” in the sense contemplated by Rule 25(a) d). In our opinion the Rule, as amended,
-cannot fairly be construed, as the de fendant’s attorney argues, to make his suggestion of death
-operative to trigger the 90-day period even though he was neither a successor nor representative of
-the deceased, and gave no indication of what person was available to be named in substitution as a
-representative of the deceased. Counsel’s construction would open the door to a tactical maneuver to
-place upon the plaintiff the burden of locating the representative of the estate within 90 days. We
-can conceive of cases wherein even the lawyer retained to represent a defendant might know the
-defendant had died, yet not readily know where his estate would be administered. In the present
-case, plaintiff’s attorney did know the court of probate, but he did not know whether probate of the
-will might be contested, or who would be appointed representative of the estate. The tactic of the
-defendant’s attorney would place on plaintiff the burden, where no conventional representative was
-appointed for the estate in probate court, of instituting machinery in order to produce some
-representative of the estate ad litem, pending appointment of the representative contemplated by law
-of the domicile of the deceased.
+PER CURIAM: This action was brought to recover damages stemming from an alleged libel, invasion of
+privacy, and malicious interference with peace of mind. The District Court granted appellee’s motion
+for summary judgment. We remand solely on the libel theory. The facts, viewed in the light most
+favorable to appellant, are as follows. Appellant, a career Air Force officer, was divorced from his
+wife in January 1966. By the terms of the decree, he was ordered to make support and alimony
+payments totaling $550 per month. A deed of trust, held by appellee, on the couple’s former house in
+Maryland obligated both appellant and his former wife. Subsequent to the divorce, however, the
+couple agreed orally that Mrs. Olinger would continue to live in the house and would keep up the
+payments on it. After remarrying, appellant was transferred to Germany. Although he regularly made
+his support and alimony payments, the deed of trust payments fell into arrears. After several
+telephone conversations with the former Mrs. Olinger, appellee instructed the trustees to foreclose
+on the property. They so informed both appellant and his former wife and initiated the necessary
+legal proceedings. Upon receiving notification of the impending foreclosure, appellant, through his
+attorney, informed appellee that he would be willing to effectuate a friendly sale of the property.
+In subsequent conversations with appellant’s attorney, appellee’s representative (Lowery) accused
+appellant of leaving the country without providing for his family and of having adulterous
+relationships. He also stated his intention, based on the advice of a retired Air Force Colonel, to
+write a letter concerning these matters to appellant’s commanding officer, though he conceded that
+the value of the property exceeded the balance due on the loan. Despite the attorney’s objections,
+Lowery did write such a letter, the substance of which forms the basis of this action. It stated:
+Dear Sir: On or about November 8, 1962 then Major Harold R. Olinger and his wife Betty purchased
+property at 7526 Juliette Drive, Clinton, Maryland, at which time this Association placed a first
+trust in the amount of $18,450.00. On or about January 7, 1966 Col. Olinger and Betty Olinger were
+divorced. Mrs. Olinger charged Col. Olinger with adultery. About this same time Col. Olinger was
+assigned to his present assignment in Germany and subsequently he remarried to a former employee who
+worked at Andrews Air Force Base where he was stationed. For some unexplained reason, the attorney’s
+[sic] for both parties did not require their clients to agree to property settlement. Mrs. Olinger
+reports that she has been receiving $550.00 per month, of which $150 was alimony and $100 for each
+of her four children. She was unable to carry the mortgage payments on the first trust in the amount
+of $150 per month plus second trust monthly payments reportedly to be $225.00. Mrs. Olinger reports
+that Col. Olinger is unwilling to permit her to sell the property and he will not keep the payments
+current on the first and second trust. Presently, the first trust is in default for 5 months. We
+have been instructed by Col. Mc-Farlan, retired, Field representative for the Mortgage Guarantee
+Insurance Corporation to so notify you of Col. Olingers’ [sic] circumstances and for you to urge him
+to either grant his former wife the right and power to consummate a friendly sale or to voluntarily
+convey the aforesaid property back to this Association or to M.G.I.C. providing there are no other
+Junior liens beside the second trust. It is with much reluctance we have seen fit to take these
+steps of writing to you, but foreclosure is imminent. This property may be sold within the next 30
+days at public auction. Sincerely /s/ H. H. Lowery Ass’t Sec’y Copies of the letter apparently were
+sent to an Air Force Personnel Office in Texas and to appellant’s loan insurer in Wisconsin.
+Appellant was called before his superior officers in Germany to account for the charges contained in
+the letter. The embarrassment and humiliation of this experience and of other comments and
+discussion regarding the letter allegedly aggravated appellant’s pre-existing nervous condition,
+resulting in his hospitalization. Although summary judgment was properly granted as to appellant’s
+invasion of privacy and malicious interference theories, we conclude that the facts, viewed in this
+light, would support a verdict in appellant’s favor on the libel theory. In this jurisdiction, a
+publication is considered defamatory “if it tends to injure plaintiff in his trade, profession or
+community standing, or lower him in the estimation of the community.” Appellee, while not here
+contesting the defamatory nature of the publication, has taken great pains to demonstrate the truth
+of each and every statement in the letter. Truth, of course, is a complete defense to a charge of
+libel. It is clear, however, that at least one of the statements in the letter wes “true” only
+because it was prefaced by “Mrs. Olinger reports that * * Appellant has asserted that he was willing
+to effectuate a friendly sale of the house and, indeed, that Lowery had been made aware of this
+intention. He further asserts that he and his former wife had reached an agreement whereby she was
+to keep up the payments on the house. Nonetheless Lowery’s letter included the following recital:
+“Mrs. Olinger reports that Col. Olinger is unwilling to permit her to sell the property and he will
+not keep the payments current on the first and second trust.” The law affords no protection to those
+who couch their libel in the form of reports or repetition. In the first place repetition of a
+defamatory statement is a publication in itself, regardless whether the repeater names the source.
+As a corollary, and more germane to the instant case, the repeater cannot defend on the ground of
+truth simply by proving that the source named did, in fact, utter the statement. To quote the
+Restatement of Torts: When one person repeats a defamatory statement which he attributes to some
+other person, it is not enough for the person who repeats it to prove that the statement was made by
+the other person. He must prove the truth of the defamatory charges which he has thus repeated. The
+statement in question contains two charges: (1) that appellant was unwilling to permit his former
+wife to sell the house, and (2) that he was not keeping the payments current on the first and second
+trusts. It is apparent that both charges are at least capable of defamatory meaning. It is for the
+jury to determine whether the statement was so understood by the recipients of the letter and
+whether the charges it contains are, in fact, true. Since these are genuine issues of material fact,
+we remand for further proceedings not inconsistent with this opinion. So ordered. . Afro-American
+Publishing Co. v. Jaffe, 125 U.S.App.D.C. 70, 75, 366 F.2d 649, 654 (en banc, 1966).
 
 

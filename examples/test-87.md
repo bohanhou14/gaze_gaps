@@ -1,142 +1,131 @@
 **gold_text:**
-The amendment to Rule 25(a) (1) was intended to dispel unwarranted rigidity and allow more
-flexibility in substitution. “It was intended that liberal effect be given to the 1963 amendment.”
-Roscoe v. Roscoe, 126 U.S.App.D.C. 317, 322, 379 F.2d 94, 99 (1967). “[T]he 90 day period was not
-intended to act as a bar to otherwise meritorious actions.” Staggers v. Otto Gerdau Co., 359 F.2d
-292, 296 (2d Cir. 1966).
+Appellant further urges that if Judge Holland disallowed part of its compensation request because of
+inadequate entries on the time sheets submitted, he should have granted an opportunity to supplement
+those entries. A decision in the Third Circuit suggests that the Bankruptcy Code, and possibly the
+dictates of Fifth Amendment due process, would mandate a hearing so that a good faith applicant
+could defend its fee application. See In re Busy Beaver Bldg. Centers, Inc., 19 F.3d 833, 846 (3d
+Cir.1994). This court declines to extend that suggestion and will abide by the general rule that
+uncertainties due to poor record-keeping will be resolved against the applicant. See New York Ass’n
+For Retarded Children v. Carey, 711 F.2d 1136, 1142, 1146 (2d Cir.1983).
 
 **Generations:**
 
 
 ***GPT-4o:***
-This stringent interpretation contrasts sharply with the intent of the 1963 amendments to Rule 25
-and Rule 6(b), which aimed to inject flexibility and fairness into the substitution process. As
-noted in 379 F.2d 94 and 359 F.2d 292, the amendments were designed to eliminate the inequities and
-hardships caused by the rigid two-year limitation originally imposed. The Advisory Committee
-emphasized that the revised rules were to be liberally construed to allow courts discretion in
-extending the substitution period, recognizing the difficulties that could arise in promptly
-identifying and notifying the proper representative of the deceased.   Given this context, the
-defendant’s counsel's suggestion of death, which lacked identification of a proper representative,
-failed to initiate the 90-day countdown. This interpretation aligns with the judicial precedent that
-courts should prioritize the equitable administration of justice over strict procedural formalities.
-Thus, the district court erred in dismissing the plaintiffs' action without granting the requested
-extension, especially considering the circumstances that inhibited timely substitution, such as the
-injury to plaintiffs' counsel and the ongoing legal processes in the probate court.  We, therefore,
-reverse the judgment and remand for further proceedings consistent with this opinion, ensuring that
-the substitution process adheres to the flexible and just principles intended by the amendments to
-the Federal Rules of Civil Procedure.
+Appellant further argues that the bankruptcy judge failed to recognize the firm's good faith effort
+to comply with the particularization requirements of § 330(a), Rule 2016(a), and applicable local
+rules. Referencing case 19 F.3d 833, the bankruptcy court may allow reasonable time to supplement
+the application with more detailed descriptions or legal arguments if information is too vague for
+reliable determination of compensability. The court should notify the applicant of specific reasons
+for denying fees and allow defense of the application upon request. If the court persists in
+disallowing compensation post-hearing, it must provide sufficient findings of fact and conclusions
+to facilitate appellate review (19 F.3d 833).  Moreover, Appellant contends that the District Court
+should have taken into account its attempts to be conservative with time entries, despite some being
+inadequately documented, as noted in case 711 F.2d 1136. The District Court in that case disallowed
+hours claimed by law students due to poor documentation, citing any ambiguities should be resolved
+against the applicant.  The court’s rejection of speculative claims concerning the enhanced value of
+services echoes the sentiments of Pennsylvania v. Delaware Valley Citizens’ Council for Clean Air
+and Blum v. Stenson, where upwards adjustments of lodestar amounts are reserved for rare and
+exceptional circumstances. Given the detailed examination and adherence to the lodestar method by
+the bankruptcy court, this court finds no abuse of discretion in the fee determination.
 
 
 **Label:** 
 
 
 ***Meta-Llama-3-8B-Instruct:***
-  In the context of Rule 25(a) (1) of the Federal Rules of Civil Procedure, the suggestion of death
-is a crucial step in the process of substituting a deceased party with a proper representative.
-However, not all suggestions of death are created equal. In cases where the suggestion of death is
-made by a party's attorney, but fails to identify a successor or representative of the deceased, the
-90-day period for substitution may not be triggered.  As noted in 359 F.2d 292, the Advisory
-Committee on Civil Rules intended to provide a more flexible standard for substitution, allowing for
-extensions of time and dispensing with the rigid two-year period previously in place. However, this
-flexibility is contingent upon the suggestion of death providing sufficient information to permit
-the court to proceed with substitution.  In the present case, the suggestion of death made by the
-defendant's attorney was deficient in that it failed to identify a successor or representative of
-the deceased. This lack of specificity rendered the suggestion ineffective in triggering the 90-day
-period for substitution, as explained in 379 F.2d 94.  Furthermore, the court's discretion to
-enlarge the time period for substitution, as provided by Rule 6(b), is not a blank check. Rather, it
-is intended to be exercised in a judicious and reasonable manner, taking into account the particular
-circumstances of each case.  In light of these principles, we conclude that the district court erred
-in dismissing the action with prejudice. The case should be remanded for further proceedings,
-allowing the parties to properly substitute a representative of the deceased and continue the action
-in a manner consistent with the Federal Rules of Civil Procedure.
+  In the context of bankruptcy cases, the determination of attorney fees is a crucial aspect of the
+bankruptcy process. The court's discretion in this matter is well-established, as seen in cases such
+as In re Nine Assocs., 76 B.R. 943, 944 (S.D.N.Y.1987). The court's decision to award or deny
+attorney fees is rarely set aside, and reversal is justified only when there is no evidence
+whatsoever to sustain the findings.  In this particular case, the bankruptcy court's decision to
+disallow some of the requested compensation is supported by the court's careful examination of each
+time entry to ascertain whether the services were adequately documented and whether they were actual
+and necessary. This is in line with the principles outlined in 19 F.3d 833, where the court
+emphasizes the importance of ensuring that the applicant has made a good faith effort to comply with
+the particularization requirements of § 330(a).  Furthermore, the bankruptcy court's decision to
+disallow the majority of hours claimed by the law students is also justified. As seen in 711 F.2d
+1136, the court may disallow fees for any of the law students' time if the information provided does
+not allow for a reliable determination of compensability or if the court would benefit from legal
+argument.  In conclusion, the bankruptcy court's decision to disallow some of the requested
+compensation is supported by the court's careful examination of each time entry and is in line with
+established principles in bankruptcy law. The court's discretion in this matter is well-established,
+and reversal is justified only when there is no evidence whatsoever to sustain the findings.
 
 
 **Label:** 
 
 
-**citations:** ['379 F.2d 94', '359 F.2d 292']
+**citations:** ['19 F.3d 833', '19 F.3d 833', '711 F.2d 1136']
 
-***short_citations_0:*** 379 F.2d 94
+***short_citations_0:*** 19 F.3d 833
 
-the proper parties. * * * Unless the motion for substitution is made not later than 90 days after the death is suggested upon the record by service of a statement of the fact of the death as provided herein for the service of the motion, the action shall be dismissed as to the deceased party.” Here not only had the 90-day period not expired when the court entered summary judgment, the appellant by her motion for reconsideration had specifically invoked the discretion of the court. Rule 6(b) provides pertinently that when “by these rules * * * an act is required or allowed to be done at or within a specified time, the court for cause shown may at any time in its discretion (1) with or without motion or notice order the period enlarged if request therefor is made before the expiration of the period originally prescribed * * Originally the Rule had precluded an extension of time for taking action under Rule 25(a) (1), but by purposeful amendment, it was sought to relieve against the hardship of the Court’s holding in Anderson v. Yungkau, 329 U.S. 482, 67 S.Ct. 428, 91 L.Ed. 436 (1947). It was intended that liberal effect be given to the 1963 amendment. Graham v. Pennsylvania Railroad, 119 U.S.App.D.C. 335, 342 F.2d 914 (1964), cert. denied, 381 U.S. 904, 85 S.Ct. 1446, 14 L.Ed.2d 286 (1965). We are constrained to reverse for further proceedings not inconsistent with this opinion. Reversed. The only “party” then
+fee applicant made a good faith effort to comply with the particularization requirements of § 330(a), Rule 2016(a), and applicable local rules, either the information provided does not allow for a reliable determination of compensability (because it is too vague or otherwise), or that the court would benefit from legal argument, it may allow the professional a reasonable time to supplement the application with either a more detailed description of the questionable services, or with a memorandum of points and authorities in support of the application, respectively. If the bankruptcy court at any time, irrespective of any opportunity to supplement, denies some amount of the requested compensation, and if it determines the applicant sought in good faith to comply with the aforementioned specificity requirements, it should notify the applicant of its particular reasons for denying the fees, and, should he or she make a timely request for one, allow the professional the occasion to defend his or her fee application with legal arguments and/or evidence (of market practices, etc.) at a hearing. Moreover, if after the hearing the court adheres to its views and disallows some of the requested compensation, it should enter sufficient findings of fact and conclusions of law in the record to facilitate appellate review. See, e.g., In re Paul, 141 B.R. at 302; In re Conston Corp., No. 91-7176, 1992 WL 55694, at *1-*2 (E.D.Pa. Mar. 17, 1992); In re Rusty Jones, 134 B.R. at 333; In re Paster, 119 B.R. 468, 470 (E.D.Pa.1990); cf. Hensley
 
-***short_citations_1:*** 359 F.2d 292
+***short_citations_1:*** 19 F.3d 833
 
-insertion of a “reasonable time” standard. In 1963, the Advisory Committee suggested the present rule and noted: “Present Rule 25(a) (1), together with present Rule 6(b), results in an inflexible requirement that an action be dismissed as to a deceased party if substitution is not carried out within a fixed period measured from the time of the death. The hardships and inequities of this unyielding requirement plainly appear from the cases. * * * The amended rulé establishes a time limit for the motion to substitute based not upon the time of the death, but rather upon the time information of the death is provided by means of a suggestion of death upon the record, i. e. service of a statement of the fact of the death.” See Notes of Advisory Committee on the Civil Rules, 28 U.S.C. Rule 25 (1964). Rule 6(b) of the Federal Rules of Civil Procedure was also amended in 1963 and the prohibition against extending the time for taking action under Rule 25 was eliminated. The Advisory Committee on the Civil Rules noted: “It is intended that the court shall have discretion to enlarge that period.” The amendments of Rules 6(b) and 25(a) (1) provided needed flexibility. It was assumed that discretionary extensions would be liberally granted. Movants under Rule 25 can ordinarily control when a death is “suggested upon the record” and appellants’ attorney was under no obligation to file his affidavit of Staggers’ death on the date he did. He could have filed
+made a good faith effort to comply with the particularization requirements of § 330(a), Rule 2016(a), and applicable local rules, either the information provided does not allow for a reliable determination of compensability (because it is too vague or otherwise), or that the court would benefit from legal argument, it may allow the professional a reasonable time to supplement the application with either a more detailed description of the questionable services, or with a memorandum of points and authorities in support of the application, respectively. If the bankruptcy court at any time, irrespec- ‘ tive of any opportunity to supplement, denies some amount of the requested compensation, and if it determines the applicant sought in good faith to comply with the aforementioned specificity requirements, it should notify the applicant of its particular reasons for denying the fees, and, should he or she make a timely request for one, allow the professional the occasion to defend his or her fee application with legal arguments and/or evidence (of market practices, etc.) at a hearing. Moreover, if after the hearing the court adheres to its views and disallows some of the requested compensation, it should enter sufficient findings of fact and conclusions of law in the record to facilitate appellate review. See, e.g., In re Paul, 141 B.R. at 302; In re Constan Corp., No. 91-7176, 1992 WL 55694, at *1-*2 (E.D.Pa. Mar. 17, 1992); In re Rusty Jones, 134 B.R. at 333; In re Paster, 119 B.R. 468, 470 (E.D.Pa.1990); cf. Hensley
+
+***short_citations_2:*** 711 F.2d 1136
+
+failure was particularly inexcusable after the March 22, 1978, ruling, once it was clear that attorney’s fees were to be awarded in this case. However, notwithstanding plaintiffs’ inadequate documentation, the District Court accepted the application and proceeded to determine how much of the time claimed was compensable under section 1988. Although Judge Bar-tels believed that “counsel have generally attempted to be conservative in their reconstruction of hours,” id. at 339, he also concluded that the application for fees was inaccurate in some respects and included instances of excess and duplication. The District Court, therefore, disallowed a significant number of the hours claimed by the plaintiffs. These disallowances can be divided into four groups. First, the District Court disallowed all 2,420 hours claimed for work done by two law students. The only support for this portion of the application was the general recollections of the law students themselves. Their affidavits and responses to interrogatories gave only cursory accounts of the manner in which these hours were expended. Judge Bartels could not determine which of the law students’ hours were compensable under section 1988 as legal services and which represented educational activities of little or no value to the plaintiff class; he decided that any ambiguities arising out of poor records should be resolved against the applicant, see EEOC v. Sage Realty Corp., 521 F.Supp. 263, 273-74 (S.D.N.Y.1981), and therefore disallowed fees for any of the law students’ time. Second, the District Court disallowed the majority of hours claimed by the three
 
 **prev_text:**
-LEVENTHAL, Circuit Judge: The District Court held that Rule 25(a) (1) of the Federal Rules of Civil
-Procedure required dismissal of the plaintiffs’ tort action because defendant’s counsel had filed a
-suggestion of death of the defendant yet plaintiff had not made any substitution of parties within
-90 days. We reverse on the ground that the suggestion of death, which was neither filed by nor
-identified a successor or representative of the deceased, such as an executor or administrator, was
-ineffective to trigger the running of the 90-day period provided by the Rule. Mr. and Mrs. John
-Rende filed an action in the District Court individually and on behalf of their infant son who had
-been struck and injured by Alfred S. Kay while driving his car. On August 27, 1967, defendant Kay
-died. On September 1, 1967, the defendant’s attorney, a term used here to identify the lawyer who
-had been retained by deceased to defend the action, and who had duly entered an appearance as
-attorney for defendant, filed a suggestion of death in the District Court, giving notice to
-plaintiffs’ attorney. That same day there was filed in the Orphans Court for Montgomery County,
-Maryland, residence of the deceased, his will naming his widow as executrix, but the will had not
-been probated, nor any legal representative appointed for the estate at the time of the filing of
-this appeal. Plaintiffs’ attorney was injured on October 14, 1967. On returning to practice early in
-1968, he learned that no successor to defendant Kay had yet been appointed, and he moved to certify
-the case to the ready calendar. The defendant’s attorney opposed this on grounds that discovery
-procedures had not been completed. The case was delayed and placed on the ready calendar as of June
-7, 1968. However, in April 1968, the defendant’s attorney moved in his own name to dismiss the
-action on the ground that Rule 25(a) (1) required plaintiffs to move to substitute a proper party
-for the deceased within 90 days of the suggestion of death. Plaintiffs filed an opposition and
-motion for substitution of the proper party, and sought an extension of the time for substitution as
-allowed by Rule 6(b). At argument, plaintiffs’ counsel asserted the “suggestion of death was
-defective in that it did not list the name of the proper party; that is the legal representative of
-the defendant.” The court responded: “That would not be his burden.” The court dismissed the action
-with prejudice. Prior to its amendment in 1963, Rule 25(a) (1) required the court to dismiss a case
-if no motion for substitution was filed within two. years after date of death, and no extensions of
-this period were allowed under Rule 6(b). The rule was rigorously applied, often with harsh results,
-and was called “easily the poorest rule of all the Federal Rules.” In 1955 the Advisory Committee on
-Rules for Civil Procedure recommended that the two-year period be changed to a “reasonable time”
-standard. In 1961 the Advisory Committee on Civil Rules again suggested the Rule be made more
-flexible. In 1963 the Supreme Court made changes in Rule 25(a) (1) and in Rule 6(b) so as to provide
-a 90-day time limit from the filing of a suggestion of death, and to give the court discretion to
-extend that time. The Committee Notes explaining the amendments state: Present Rule 25(a) (1),
-together with present Rule 6(b), results in an inflexible requirement that an action be dismissed as
-to a deceased party if substitution is not carried out within a fixed period measured from the time
-of death. The hardships and inequities of this unyielding requirement plainly appear from the cases.
-* * * The amended rule establishes a time limit for the motion to substitute based not upon the time
-of the death, but rather upon the time information of the death is provided by means of a suggestion
-of death upon the record. * * * A motion to substitute may be made by any party or by the
-representative of the deceased party without awaiting the suggestion of death. Indeed, the motion
-will usually be so made. If a party or the representative of the deceased party desires to limit the
-time within which another may make the motion, he may do so by suggesting the death upon the record.
-(Emphasis added.) Under the amended Rule either a party or “the successors or representatives of the
-deceased party” may avoid delay in effecting substitution for the deceased party either by filing a
-motion for substitution or by suggesting death on the record and thus triggering the 90-day period
-which begins with suggestion of death. The Advisory Committee, in outlining that suggestion of death
-could be made by “the representative of the deceased party” plainly contemplated that the suggestion
-emanating from the side of the deceased would identify a representative of the estate, such as an
-executor or administrator, who could be substituted for the deceased as a party, with the action
-continued in the name of the representative. The addition of “successor” in the Rule would take care
-of the case of, say, the distributee of an estate that had been distributed, but would not make a
-material difference in the aspect under consideration. Form 30, for suggestion of death, which was
-provided in order to expedite and facilitate implementation of the amendment, provides: A.B.
-[described as a party, or as executor, administrator, or other representative or successor of C.D.,
-the deceased party\ suggests upon the record, pursuant to Rule 25(a) (1), the death of C.D.
-[describe as party] during the pendency of this action. Added Jan. 21, 1963, eff. July 1, 1963.
-[Emphasis added.] Although the attorney for the defendant was retained to “represent” the deceased
-as his counsel, he is not a person who could be made a party, and is not a “representative of the
-deceased party” in the sense contemplated by Rule 25(a) d). In our opinion the Rule, as amended,
-cannot fairly be construed, as the de fendant’s attorney argues, to make his suggestion of death
-operative to trigger the 90-day period even though he was neither a successor nor representative of
-the deceased, and gave no indication of what person was available to be named in substitution as a
-representative of the deceased. Counsel’s construction would open the door to a tactical maneuver to
-place upon the plaintiff the burden of locating the representative of the estate within 90 days. We
-can conceive of cases wherein even the lawyer retained to represent a defendant might know the
-defendant had died, yet not readily know where his estate would be administered. In the present
-case, plaintiff’s attorney did know the court of probate, but he did not know whether probate of the
-will might be contested, or who would be appointed representative of the estate. The tactic of the
-defendant’s attorney would place on plaintiff the burden, where no conventional representative was
-appointed for the estate in probate court, of instituting machinery in order to produce some
-representative of the estate ad litem, pending appointment of the representative contemplated by law
-of the domicile of the deceased.
+MEMORANDUM AND ORDER NICKERSON, Senior District Judge. Appellant Parker Chapin Flattau & Klimpl, a
+law firm, appeals from a July 31, 1995 order of the bankruptcy court (Holland, J.) deciding its
+application for final allowance of attorney fees and requiring disgorgement of $84,623.15 in funds
+appellant received during the pendency of the bankruptcy. This court has jurisdiction pursuant to 28
+U.S.C § 158(a), which provides for appellate jurisdiction in the district courts from “final
+judgments, orders, and decrees ... of bankruptcy judges.” The Court reviews the bankruptcy court’s
+factual findings under the clearly erroneous standard and its legal conclusions de novo. See In re
+Chateaugay Corp., 104 B.R. 637, 642 (S.D.N.Y.1989). Facts Debtors Poseidon Pools of America, Inc.
+and six wholly-owned subsidiaries filed Chapter 11 petitions in February and March 1991. Their cases
+were consolidated, and appellant was retained as counsel to the debtors as of February 13, 1991. The
+bankruptcy court converted the cases to Chapter 7 by order dated September 15,1992. On February 19,
+1992 appellant first applied for compensation of services and reimbursement of expenses. The
+bankruptcy court on April 2,1992 awarded an advance of $183,588.46 subject to final fixing of fair
+and reasonable value. Appellant filed a final application for compensation on October 2, 1992, and
+the bankruptcy court held hearings on the application on October 14 and October 28, 1992. The
+bankruptcy court allowed a further advance of $140,748.92 on May 28, 1993 pending final disposition
+of the application. The trustee raised no objections to the application. On July 31, 1995 the
+bankruptcy court set final compensation in the amount of $239,-164.23 and directed the return of
+$84,623.15 that appellant had received in excess of that amount. This court granted a stay of the
+bankruptcy court’s order pending this appeal. The Bankruptcy Court’s Order Judge Holland examined in
+detail each of the firm’s time entries to ascertain (1) whether the services were adequately
+documented and (2) whether they were actual and necessary. He noted that it is the affirmative duty
+of the bankruptcy court to examine the propriety of fees even where no objections are raised. See
+Bankr.Code, 11 U.S .C.A. § 330; In re Ferkauf, 42 B.R. 852, 853 (Bankr.S.D.N.Y.1984), aff'd., 56
+B.R. 774 (S.D.N.Y.1985). Citing inadequate descriptions, duplicative services, and lumping of tasks,
+Judge Holland granted the final allowance. Appellant says that the bankruptcy judge abused his
+discretion by declining to allow its fee application in full, and argues that the judge did not
+determine a lodestar figure and did not consider the value of the firm’s services to the debtors in
+reducing their secured debt from $2.8 million to $350,000. While any determination of fees must
+begin with a lodestar figure, see In re Cena’s Fine Furniture, Inc., 109 B.R. 575, 581
+(E.D.N.Y.1990), the contention that the bankruptcy judge did not compute such a figure is
+inaccurate. A lodestar figure is calculated by multiplying “the hours reasonably spent by counsel”
+by a “reasonable hourly rate.” F.H. Krear & Co. v. Nineteen Named Trustees, 810 F.2d 1250, 1263 (2d
+Cir.1987). Judge Holland reviewed the firm’s time entries to arrive at a number of compensable hours
+spent by counsel, then multiplied those hours by the hourly rates stated in the application. The
+judge did apply the lodestar method. Appellant asserts that the bankruptcy court should not have
+disallowed time entries for “lumping” and duplication of services. The bankruptcy court had
+discretion to make such determinations. See. e.g., In re The Bennett Funding Group, Inc., 213 B.R.
+234, 245 (Bankr.N.D.N.Y.1997) (“It is ... an accepted principle that generally no more than one
+attorney may bill for time spent in intraoffice conferences or meetings absent an adequate
+explanation.”); In re Blackwood Assocs., 165 B.R. 108, 113 (Bankr.E.D.N.Y. 1994) (“as a general
+rule, when ‘services ... have been lumped together [they] are not compensable.’ ”) (quoting In re
+Navis Realty, Inc., 126 B.R. 137, 141 (Bankr.E.D.N.Y.1991)). The contention that the bankruptcy
+court failed to consider the value of appellant’s services to the debtors is speculative. While the
+bankruptcy court may decide that enhancement or reduction of the lodestar figure is warranted by
+particular circumstances, see, e.g., In re General Oil Distribs., Inc., 51 B.R. 794, 802
+(Bankr.E.D.N.Y.1985), an upwards adjustment of the lodestar amount is “proper only in certain ‘rare’
+and ‘exceptional’ cases.” Pennsylvania v. Delaware Valley Citizens’ Council for Clean Air, 478 U.S.
+546, 565, 106 S.Ct. 3088, 3098, 92 L.Ed.2d 439 (1986) (quoting Blum v. Stenson, 465 U.S. 886, 899,
+104 S.Ct. 1541, 1549, 79 L.Ed.2d 891 (1984)). The awarding of attorney’s fees by a bankruptcy court
+is a matter within its discretion, and the court’s decision is rarely set aside. See In re Nine
+Assocs., 76 B.R. 943, 944 (S.D.N.Y.1987) (holding that reversal is justified “ ‘only when there is
+no evidence whatsoever to sustain [the bankruptcy court’s] findings’ ”) (quoting In re Savarese, 56
+F.Supp. 927, 928 (E.D.N.Y.1944)). This court cannot say that the bankruptcy court abused its
+discretion by not granting an enhancement of the lodestar amount on the basis of benefit to the
+debtors.
 
 

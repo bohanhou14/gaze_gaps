@@ -1,142 +1,372 @@
 **gold_text:**
-The amendment to Rule 25(a) (1) was intended to dispel unwarranted rigidity and allow more
-flexibility in substitution. “It was intended that liberal effect be given to the 1963 amendment.”
-Roscoe v. Roscoe, 126 U.S.App.D.C. 317, 322, 379 F.2d 94, 99 (1967). “[T]he 90 day period was not
-intended to act as a bar to otherwise meritorious actions.” Staggers v. Otto Gerdau Co., 359 F.2d
-292, 296 (2d Cir. 1966).
+An officer who was unaware that the additional representatives of PPCW were not authorized to be
+present might also have reasonably concluded that the individuals could film the home. Other
+circuits have assumed without deciding that videotaping the execution of a valid search warrant is
+lawful. See, e.g., Marks v. Clarke, 102 F.3d 1012, 1033 n. 37 (9th Cir.1996). In addition, several
+circuits have held that warrantless filming does not violate the Constitution if the cameramen are
+authorized to be present in the home. See United States v. Wahchumwah, 710 F.3d 862, 867 (9th
+Cir.2013); United States v. Brathwaite, 458 F.3d 376, 380-81 (5th Cir.2006); United States v. Davis,
+326 F.3d 361, 366 (2d Cir.2003). Although here the cameraman was not authorized to be present in the
+Brays’ home, reasonable officers who were mistaken about the lawfulness of inviting additional
+representatives of PPCW to join the raid might likewise have been mistaken about whether those
+representatives could film the home, particularly in light of the camera’s utility in capturing the
+condition of the property prior to its sale. Therefore, the rights the marshals breached were not
+clearly established at the time of the violations.
 
 **Generations:**
 
 
 ***GPT-4o:***
-This stringent interpretation contrasts sharply with the intent of the 1963 amendments to Rule 25
-and Rule 6(b), which aimed to inject flexibility and fairness into the substitution process. As
-noted in 379 F.2d 94 and 359 F.2d 292, the amendments were designed to eliminate the inequities and
-hardships caused by the rigid two-year limitation originally imposed. The Advisory Committee
-emphasized that the revised rules were to be liberally construed to allow courts discretion in
-extending the substitution period, recognizing the difficulties that could arise in promptly
-identifying and notifying the proper representative of the deceased.   Given this context, the
-defendant’s counsel's suggestion of death, which lacked identification of a proper representative,
-failed to initiate the 90-day countdown. This interpretation aligns with the judicial precedent that
-courts should prioritize the equitable administration of justice over strict procedural formalities.
-Thus, the district court erred in dismissing the plaintiffs' action without granting the requested
-extension, especially considering the circumstances that inhibited timely substitution, such as the
-injury to plaintiffs' counsel and the ongoing legal processes in the probate court.  We, therefore,
-reverse the judgment and remand for further proceedings consistent with this opinion, ensuring that
-the substitution process adheres to the flexible and just principles intended by the amendments to
-the Federal Rules of Civil Procedure.
+Continuing from our analysis, the marshals’ involvement of numerous PPCW representatives and their
+conduct during execution of the writ were troubling. Similar to the case in *United States v.
+Willis*, 759 F.2d 1486, 1501 (11th Cir.), where the district court did not abuse its discretion in
+allowing a silent videotape, the issue here similarly involves the use of video documentation during
+the seizure. However, contrary to Willis, the use of multiple videotaping agents unauthorized by the
+writ distinguishes this case and raises additional Fourth Amendment concerns.  Notably, when
+unidentified individuals executed a court order, as articulated in *United States v. Raborn*, 872
+F.2d 589, 595 (5th Cir.1989), the public safety exception was not applicable since the officers had
+sole control over the area. Here, PPCW representatives had full access to a private residence, thus
+raising significant constitutional concerns. As in *Smith v. Marsh*, 194 F.3d 1045, 1052 (9th
+Cir.1999), where unresolved Fourth Amendment trespass issues were deemed waived due to improper
+presentation, similar concerns arise here given that no direct challenge to the execution order's
+validity appeared.  Lastly, in *Brathwaite’s case* (458 F.3d 376), the control over the residence
+parallels the overreach observed here, reinforcing that governmental intrusions at home are
+scrutinized under stringent constitutional standards. Allowing unidentified personnel free reign in
+a highly-controlled private residence warrants such an examination, indicating Fourth Amendment
+infringements that cannot be dismissed lightly.  In conclusion, while actions here breached the most
+fundamental Fourth Amendment guarantees, prevailing precedents did not unequivocally establish these
+rights, thus entitling the marshals to qualified immunity.
 
 
 **Label:** 
 
 
 ***Meta-Llama-3-8B-Instruct:***
-  In the context of Rule 25(a) (1) of the Federal Rules of Civil Procedure, the suggestion of death
-is a crucial step in the process of substituting a deceased party with a proper representative.
-However, not all suggestions of death are created equal. In cases where the suggestion of death is
-made by a party's attorney, but fails to identify a successor or representative of the deceased, the
-90-day period for substitution may not be triggered.  As noted in 359 F.2d 292, the Advisory
-Committee on Civil Rules intended to provide a more flexible standard for substitution, allowing for
-extensions of time and dispensing with the rigid two-year period previously in place. However, this
-flexibility is contingent upon the suggestion of death providing sufficient information to permit
-the court to proceed with substitution.  In the present case, the suggestion of death made by the
-defendant's attorney was deficient in that it failed to identify a successor or representative of
-the deceased. This lack of specificity rendered the suggestion ineffective in triggering the 90-day
-period for substitution, as explained in 379 F.2d 94.  Furthermore, the court's discretion to
-enlarge the time period for substitution, as provided by Rule 6(b), is not a blank check. Rather, it
-is intended to be exercised in a judicious and reasonable manner, taking into account the particular
-circumstances of each case.  In light of these principles, we conclude that the district court erred
-in dismissing the action with prejudice. The case should be remanded for further proceedings,
-allowing the parties to properly substitute a representative of the deceased and continue the action
-in a manner consistent with the Federal Rules of Civil Procedure.
+ <answer>  The case before us involves a search and seizure that occurred during the execution of a
+writ of execution. The writ authorized the seizure of certain personal property, including books and
+papers, from the home of Michael Bray. The search and seizure were conducted by U.S. Marshals, who
+were accompanied by representatives of Planned Parenthood Columbia Willamette, Inc. ("PPCW"), an
+organization that had obtained a judgment against Bray.  The search and seizure were allegedly
+unreasonable and violated Bray's Fourth Amendment rights. The marshals detained Bray for four hours,
+during which time they denied him access to outside communications and allowed representatives of
+PPCW to join the search. The marshals also seized books and papers that were not authorized for
+seizure, including books and papers of insignificant market value.  The district court granted the
+marshals' motion to dismiss, holding that they were protected by qualified immunity. On appeal, the
+court of appeals affirmed, holding that the marshals' actions were not clearly established to be
+unconstitutional at the time of the search and seizure.  The court of appeals cited several cases in
+support of its decision, including United States v. Clouston, 623 F.2d 485 (6th Cir.1980), which
+held that outside assistance in the execution of a warrant was permissible. The court also cited
+Michigan v. Summers, 452 U.S. 692 (1981), which held that detention was permissible in the context
+of a search for contraband.  The court of appeals also noted that the writ of execution had
+specifically authorized the seizure of certain personal property, including books and papers. The
+court held that the marshals' actions were reasonable in light of the writ and that they were
+protected by qualified immunity.  In conclusion, the court of appeals held that the marshals'
+actions were reasonable and did not violate Bray's Fourth Amendment rights. The decision was based
+on the court's analysis of the writ of execution and the circumstances of the search and seizure.
+Reference: United States v. Clouston, 623 F.2d 485 (6th Cir.1980); Michigan v. Summers, 452 U.S. 692
+(1981); United States v. Raborn, 872 F.2d 589 (5th Cir.1989); United States v. Jones, 310 F.3d 854
+(9th Cir.2002); Planned Parenthood v. American Coalition of Life Activists, 290 F.3d
 
 
 **Label:** 
 
 
-**citations:** ['379 F.2d 94', '359 F.2d 292']
+**citations:** ['102 F.3d 1012', '710 F.3d 862', '458 F.3d 376', '326 F.3d 361']
 
-***short_citations_0:*** 379 F.2d 94
+***short_citations_0:*** 102 F.3d 1012
 
-the proper parties. * * * Unless the motion for substitution is made not later than 90 days after the death is suggested upon the record by service of a statement of the fact of the death as provided herein for the service of the motion, the action shall be dismissed as to the deceased party.” Here not only had the 90-day period not expired when the court entered summary judgment, the appellant by her motion for reconsideration had specifically invoked the discretion of the court. Rule 6(b) provides pertinently that when “by these rules * * * an act is required or allowed to be done at or within a specified time, the court for cause shown may at any time in its discretion (1) with or without motion or notice order the period enlarged if request therefor is made before the expiration of the period originally prescribed * * Originally the Rule had precluded an extension of time for taking action under Rule 25(a) (1), but by purposeful amendment, it was sought to relieve against the hardship of the Court’s holding in Anderson v. Yungkau, 329 U.S. 482, 67 S.Ct. 428, 91 L.Ed. 436 (1947). It was intended that liberal effect be given to the 1963 amendment. Graham v. Pennsylvania Railroad, 119 U.S.App.D.C. 335, 342 F.2d 914 (1964), cert. denied, 381 U.S. 904, 85 S.Ct. 1446, 14 L.Ed.2d 286 (1965). We are constrained to reverse for further proceedings not inconsistent with this opinion. Reversed. The only “party” then
+of a search warrant showing federal agents digging up the bodies of birds buried in pits); United States v. Willis, 759 F.2d 1486, 1501 (11th Cir.) (holding that district court did abuse its discretion in allowing the jury to view a silent videotape showing the police executing a search warrant for an airplane thought to contain cocaine), reh’g denied, 765 F.2d 154, cert. denied, 474 U.S. 849, 106 S.Ct. 144, 88 L.Ed.2d 119 (1985).
 
-***short_citations_1:*** 359 F.2d 292
+***short_citations_1:*** 710 F.3d 862
 
-insertion of a “reasonable time” standard. In 1963, the Advisory Committee suggested the present rule and noted: “Present Rule 25(a) (1), together with present Rule 6(b), results in an inflexible requirement that an action be dismissed as to a deceased party if substitution is not carried out within a fixed period measured from the time of the death. The hardships and inequities of this unyielding requirement plainly appear from the cases. * * * The amended rulé establishes a time limit for the motion to substitute based not upon the time of the death, but rather upon the time information of the death is provided by means of a suggestion of death upon the record, i. e. service of a statement of the fact of the death.” See Notes of Advisory Committee on the Civil Rules, 28 U.S.C. Rule 25 (1964). Rule 6(b) of the Federal Rules of Civil Procedure was also amended in 1963 and the prohibition against extending the time for taking action under Rule 25 was eliminated. The Advisory Committee on the Civil Rules noted: “It is intended that the court shall have discretion to enlarge that period.” The amendments of Rules 6(b) and 25(a) (1) provided needed flexibility. It was assumed that discretionary extensions would be liberally granted. Movants under Rule 25 can ordinarily control when a death is “suggested upon the record” and appellants’ attorney was under no obligation to file his affidavit of Staggers’ death on the date he did. He could have filed
+brief are deemed waived, Smith v. Marsh, 194 F.3d 1045, 1052 (9th Cir.1999), and the court will not consider arguments raised only in amicus briefs. See Choicer v. Crogan, 428 F.3d 1215, 1220 (9th Cir.2005). Because Wahehumwah has not argued that a Fourth Amendment violation under the trespass theory articulated in Jones occurred in this case, that issue is not properly before us, and we express no opinion concerning it.
+
+***short_citations_2:*** 458 F.3d 376
+
+unavailing. The public did not have access to Brathwaite’s private residence, which was under the full control of the agents at the time of questioning. See United States v. Raborn, 872 F.2d 589, 595 (5th Cir.1989) (dictum) (“Unlike ... Quarles, ... when the gun was hidden in a place to which the public had access, [the] truck, where the ... officers believed the gun to be, had already been seized and only the ... officers had access to [it]. It is difficult therefore, to find that the public-safety exception applies.”). Thus, we do not find such an exigency necessary to apply the narrow confines of the public safety exception to the case at hand.
+
+***short_citations_3:*** 326 F.3d 361
+
+invited visitor equipped with a hidden camera with the power to depict items and details unobservable by the human eye.
 
 **prev_text:**
-LEVENTHAL, Circuit Judge: The District Court held that Rule 25(a) (1) of the Federal Rules of Civil
-Procedure required dismissal of the plaintiffs’ tort action because defendant’s counsel had filed a
-suggestion of death of the defendant yet plaintiff had not made any substitution of parties within
-90 days. We reverse on the ground that the suggestion of death, which was neither filed by nor
-identified a successor or representative of the deceased, such as an executor or administrator, was
-ineffective to trigger the running of the 90-day period provided by the Rule. Mr. and Mrs. John
-Rende filed an action in the District Court individually and on behalf of their infant son who had
-been struck and injured by Alfred S. Kay while driving his car. On August 27, 1967, defendant Kay
-died. On September 1, 1967, the defendant’s attorney, a term used here to identify the lawyer who
-had been retained by deceased to defend the action, and who had duly entered an appearance as
-attorney for defendant, filed a suggestion of death in the District Court, giving notice to
-plaintiffs’ attorney. That same day there was filed in the Orphans Court for Montgomery County,
-Maryland, residence of the deceased, his will naming his widow as executrix, but the will had not
-been probated, nor any legal representative appointed for the estate at the time of the filing of
-this appeal. Plaintiffs’ attorney was injured on October 14, 1967. On returning to practice early in
-1968, he learned that no successor to defendant Kay had yet been appointed, and he moved to certify
-the case to the ready calendar. The defendant’s attorney opposed this on grounds that discovery
-procedures had not been completed. The case was delayed and placed on the ready calendar as of June
-7, 1968. However, in April 1968, the defendant’s attorney moved in his own name to dismiss the
-action on the ground that Rule 25(a) (1) required plaintiffs to move to substitute a proper party
-for the deceased within 90 days of the suggestion of death. Plaintiffs filed an opposition and
-motion for substitution of the proper party, and sought an extension of the time for substitution as
-allowed by Rule 6(b). At argument, plaintiffs’ counsel asserted the “suggestion of death was
-defective in that it did not list the name of the proper party; that is the legal representative of
-the defendant.” The court responded: “That would not be his burden.” The court dismissed the action
-with prejudice. Prior to its amendment in 1963, Rule 25(a) (1) required the court to dismiss a case
-if no motion for substitution was filed within two. years after date of death, and no extensions of
-this period were allowed under Rule 6(b). The rule was rigorously applied, often with harsh results,
-and was called “easily the poorest rule of all the Federal Rules.” In 1955 the Advisory Committee on
-Rules for Civil Procedure recommended that the two-year period be changed to a “reasonable time”
-standard. In 1961 the Advisory Committee on Civil Rules again suggested the Rule be made more
-flexible. In 1963 the Supreme Court made changes in Rule 25(a) (1) and in Rule 6(b) so as to provide
-a 90-day time limit from the filing of a suggestion of death, and to give the court discretion to
-extend that time. The Committee Notes explaining the amendments state: Present Rule 25(a) (1),
-together with present Rule 6(b), results in an inflexible requirement that an action be dismissed as
-to a deceased party if substitution is not carried out within a fixed period measured from the time
-of death. The hardships and inequities of this unyielding requirement plainly appear from the cases.
-* * * The amended rule establishes a time limit for the motion to substitute based not upon the time
-of the death, but rather upon the time information of the death is provided by means of a suggestion
-of death upon the record. * * * A motion to substitute may be made by any party or by the
-representative of the deceased party without awaiting the suggestion of death. Indeed, the motion
-will usually be so made. If a party or the representative of the deceased party desires to limit the
-time within which another may make the motion, he may do so by suggesting the death upon the record.
-(Emphasis added.) Under the amended Rule either a party or “the successors or representatives of the
-deceased party” may avoid delay in effecting substitution for the deceased party either by filing a
-motion for substitution or by suggesting death on the record and thus triggering the 90-day period
-which begins with suggestion of death. The Advisory Committee, in outlining that suggestion of death
-could be made by “the representative of the deceased party” plainly contemplated that the suggestion
-emanating from the side of the deceased would identify a representative of the estate, such as an
-executor or administrator, who could be substituted for the deceased as a party, with the action
-continued in the name of the representative. The addition of “successor” in the Rule would take care
-of the case of, say, the distributee of an estate that had been distributed, but would not make a
-material difference in the aspect under consideration. Form 30, for suggestion of death, which was
-provided in order to expedite and facilitate implementation of the amendment, provides: A.B.
-[described as a party, or as executor, administrator, or other representative or successor of C.D.,
-the deceased party\ suggests upon the record, pursuant to Rule 25(a) (1), the death of C.D.
-[describe as party] during the pendency of this action. Added Jan. 21, 1963, eff. July 1, 1963.
-[Emphasis added.] Although the attorney for the defendant was retained to “represent” the deceased
-as his counsel, he is not a person who could be made a party, and is not a “representative of the
-deceased party” in the sense contemplated by Rule 25(a) d). In our opinion the Rule, as amended,
-cannot fairly be construed, as the de fendant’s attorney argues, to make his suggestion of death
-operative to trigger the 90-day period even though he was neither a successor nor representative of
-the deceased, and gave no indication of what person was available to be named in substitution as a
-representative of the deceased. Counsel’s construction would open the door to a tactical maneuver to
-place upon the plaintiff the burden of locating the representative of the estate within 90 days. We
-can conceive of cases wherein even the lawyer retained to represent a defendant might know the
-defendant had died, yet not readily know where his estate would be administered. In the present
-case, plaintiff’s attorney did know the court of probate, but he did not know whether probate of the
-will might be contested, or who would be appointed representative of the estate. The tactic of the
-defendant’s attorney would place on plaintiff the burden, where no conventional representative was
-appointed for the estate in probate court, of instituting machinery in order to produce some
-representative of the estate ad litem, pending appointment of the representative contemplated by law
-of the domicile of the deceased.
+OPINION ROGERS, Circuit Judge. If the facts alleged in the complaint are true, this case involves an
+incident that is more like home raids by Red Guards during China’s Cultural Revolution than like
+what we should expect in the United States of America. A surprise raid was made on a judgment
+debtor’s home to enforce an order of execution on property of the debtor. The order was ostensibly
+for the purpose of obtaining property of value to be seized, but was obviously focused instead on
+all means for the debtor to express ideas. The debtor was required to sit on his couch while flak-
+jacketed U.S. Marshals, along with agents of advocates for moral and political positions that the
+debtor despised, plus persons with unknown identities and purposes, went through and seized the
+books and papers, and computers and cameras, of the debtor and his family. The only exception was
+for children’s books and Bibles. The interior of the home was videotaped. The debtor was not allowed
+to leave the couch, to go outside, or to call his lawyer, although eventually a marshal called the
+debtor’s lawyer. This kind of home attack on the ability to convey ideas should not happen in our
+Republic. It is true that the debtor’s ideas — that it is moral to take violent, illegal action to
+stop abortions — are repug nant. But it is contrary to our fundamental norms to permit government-
+sanctioned attacks on the purveyance of ideas, even when those ideas are repugnant. Three
+considerations nonetheless require us to affirm the district court’s dismissal of the debtor’s
+Bivens action against Riley and Kimmet, the two U.S. Marshals involved. First, notwithstanding the
+highly questionable way in which the court’s order of execution was apparently aimed to stifle the
+debtor’s ability to express ideas, the debtor-plaintiff in this case has not challenged the validity
+or scope of the judge’s order. Second, the debtor-plaintiff has settled with all of the participants
+in the raid other than Riley and Kimmet, so that we are faced in this case solely with the actions
+of marshals carrying out a presumptively valid order of a federal judge. Third, although some of the
+actions allegedly carried out by the marshals and not explicitly authorized by the order were not
+constitutional, that unconstitutionality was not then clearly established with sufficient
+specificity. Riley and Kimmet are therefore entitled to qualified immunity from suit. Plaintiffs
+Michael and Jayne Bray, individually and on behalf of their minor children, along with their adult
+children Epiphany Bray, Beseda Bray, and Perseverance Bray, brought this action under Bivens v. Six
+Unknown Federal Narcotics Agents, 403 U.S. 388, 91 S.Ct. 1999, 29 L.Ed.2d 619 (1971). They allege
+that Deputy U.S. Marshals Chris Riley and Joel Kimmet conspired with Planned Parenthood Columbia
+Willamette, Inc. (“PPCW”) to seize their personal property in an unconstitutional manner, ostensibly
+to satisfy an $850,000 judgment that PPCW had obtained against Michael Bray following the
+publication of his book, A Time to Kill. Bray is an antiabortion activist with views that his
+complaint describes as “unpopular.” First Amended Compl. 5. He expressed these views in A Time to
+Kill, “defending] as a moral and ethical proposition the use of force to defend innocent human
+beings, born and unborn.” Id. ¶ 4.3. In 1985, Bray was convicted in Maryland for a felony “relating
+to physical damage inflicted on several abortion centers.” Id. ¶ 4.2. As a result, he spent four
+years in prison. Id. Despite his felony conviction and the provocative title and subject matter of
+his book, Bray says that he “has never advocated or encouraged anyone to kill or physically attack
+abortionists, nor to inflict damage on facilities where abortionists ply their trade.” Id. ¶ 4.3.
+PPCW is an Oregon corporation that performs abortions. PPCW was a plaintiff in a 1995 case in the
+District of Oregon, Planned Parenthood of Columbia/Willamette, Inc. v. American Coalition of Life
+Activists, in which the organization and other abortion providers sued antiabortion activists
+(including Bray) for intimidation by threat of force under the Freedom of Access to Clinic Entrances
+Act, 18 U.S.C. § 248. A jury found the antiabortion activists liable to the plaintiffs for $110
+million. After a lengthy appellate process, see, e.g., 290 F.3d 1058 (9th Cir.2002) (en banc), PPCW
+was left with an $850,000 award against Bray. In 2005, PPCW sought to enforce and collect on this
+judgment by filing an action in Bray’s home state of Ohio. In 2006, a district court issued a writ
+of execution authorizing the U.S. Marshals Service to seize specified property from Michael Bray.
+His wife then intervened in the action to assert her interest in the property, delaying the
+execution of the writ. On July 20, 2007, the district court reactivated the writ. Although not
+attached to the complaint in the present action, the district court took judicial notice of the writ
+that it had issued in the previous action. The writ provided: This writ is for the seizure of the
+following real and personal property located at the following address: 1. All real property located
+at 308 High Street, Wilmington, OH 45177; 2. A Compaq desktop computer in Defendant’s bedroom, along
+with a modem or other data transmission device, a Hewlett Packard scanner, a Hewlett Packard
+printer, and a facsimile machine; 3. A desktop computer located in Defendant’s study, along with a
+data transmission device (modem) and all other associated equipment; 4. Each and every other
+computer, printer, scanner, data transmission device, and all other home office equipment; 5. An
+RCA-type of camcorder located in the library area of the Defendant’s residence, along with any other
+camera or camcorder located in the library area; 6. Two or more cameras located in the Defendant’s
+bedroom, one digital and one thirty-five millimeter; 7. Any other cameras or video recording devices
+located in the residence; 8. All books located in the Defendant’s library and throughout the
+remainder of the house, with the exception of children’s entertainment and educational books and
+bibles. These books should include any and all copies of materials written by the Defendant, both in
+published and unpublished form; 9. All VCR and DVD video equipment located throughout the residence,
+along with all televisions located throughout the residence; and 10.All stereo equipment located
+throughout the residence, including both shelf and portable models. THEREFORE, YOU ARE COMMANDED to
+sell the above-described property of Defendant Michael Bray after giving the public notice of the
+time and place of the sale as required by law. You are further commanded to make out of any other
+property of Defendant Michael Bray subject to execution the costs of suit and the costs of executing
+this writ. You shall execute this writ according to its terms and according to law. Bray v. Planned
+Parenthood Columbia Willamette, Inc., No. 2:10-cv-054, 2011 WL 1043940, at *3 (S.D.Ohio Mar. 17,
+2011). The language of this writ was taken verbatim from a proposed order filed by PPCW. A separate
+order issued the same day stated that “[i]f requested by the United States Marshal’s Service, a
+representative from [PPCW] shall be present to assist in the identification of property subject to
+seizure.” Because the Brays understood that the seizure of their property was imminent, they had
+their attorney contact the U.S. Marshals Service and the attorneys for PPCW (who are with the law
+firm of Squire, Sanders & Dempsey) to offer assistance and cooperation to avoid a traumatic event
+for the Brays’ young children. The Marshals Service and the attorneys “responded in a spirit of
+professional cooperation, but no details were discussed about the execution of the writ.” First
+Amended Compl. ¶ 4.10. The deputy marshals allegedly involved were Joel Kimmet, Chris Riley, and
+Micah Stevenson. The Brays’ complaint describes the execution of the writ as follows: 4.11 On
+October 1, 2007 at approximately 10:00 a.m., with no advance no tice of any kind to Mr. & Mrs. Bray
+or their respective counsel, Defendants Riley, Kimmet, Stevenson, one other United States Marshal
+and one agent from the Bureau of Alcohol, Tobacco and Firearms (ATF) appeared at the Bray home with
+attorneys from the Squire law firm, at least two Clinton County sheriff deputies, and other unknown
+people. Most or all of the U.S. Marshals and the ATF agent were carrying firearms and wearing flak
+jackets. Defendant Riley informed Mr. Bray that the United States Marshal Service was there to seize
+the Bray[s’] personal property and that the Bray family had to vacate the house within 30 days.
+After asking Mr. Bray if there were any guns in the house, Defendant Riley and the other marshals
+who were present ordered Mr. Bray to remain on a sofa in the front room of the house, denying him
+the right to walk about his own home and denying him the use of a telephone to call his attorney or
+anyone else. Eventually, Defendant Stevenson left a voice message at the office of Mr. Bray’s
+counsel that the raid was taking place but by the time Mr. Bray’s counsel retrieved the voice
+message and [traveled] one hour to the Bray home the raid was almost completed. Both the attorney
+for the Squire law firm and the Defendant U.S. Marshals refused to identify for Mr. Bray’s counsel
+the numerous strangers who were present. 4.12Meanwhile, PPCW’s attorneys and those multiple
+strangers were given free access to walk throughout the Bray home and yard. Confined to the sofa,
+Mr. Bray watched as one unidentified male walked around carefully videotaping the inside of the Bray
+home, PPCW attorneys walked around with clip boards, and others carried many boxes of personal
+property out of the Bray home. The Defendants denied Mr. Bray’s request that he be permitted to
+verify what items were being removed from his home. 4.13 At one point Plaintiff Jayne Bray arrived
+home to find the Defendants and their accomplices having their way throughout the Bray home. Mrs.
+Bray asked Defendant Riley why the inside of her home was being videotaped by PPCW attorneys. Riley
+replied that the home would be taken from the Bray family in 30 days and the PPCW attorneys wanted
+to make sure they knew what the interior of the house looked like so that it remained in good order
+after Defendants left that day. 4.14 Shortly after 11:00 a.m., Plaintiff Beseda Bray arrived home
+from school and found herself guarded by a U.S. Marshal. Beseda Bray was required to leave her cell
+phone outside of the house and was then questioned by a U.S. Marshal when she attempted to go up to
+her bedroom to change her clothes. Defendants’ treatment of Bese-da Bray made her feel like a
+criminal in her own home. Defendants’ display of firearms and their oppressive behavior throughout
+the Bray home made Beseda fearful for herself and for her parents and led her to weep during the
+ordeal. 4.14At 12:30 p.m. Plaintiff Perseverance (“Persie”) Bray arrived home from school and was
+confronted by a U.S. Marshal telling her that she could not go anywhere in the house. She was
+required to have an escort to go to the kitchen for lunch and lost her appetite for lunch as a U.S.
+Marshal kept watch over her. Persie Bray therefore took some water and elected to flee the house to
+walk on foot around the neighborhood rather than staying in the presence of the intimidating, armed
+federal agents. Like her sister Beseda, Persie Bray was made to feel like a criminal in her own home
+and broke down weeping as a result of what she witnessed. 4.15 At approximately 2:00 p.m. Defendants
+were prepared to leave the house with a moving truck full of boxes. They had reviewed nearly all of
+the papers in the Bray home before leaving, including family photo albums. Contrary to the Writ of
+Execution, Defendants removed from the Bray home books that Mr. Bray used to educate his children on
+religion, history and other subjects. Because both Mr. Bray and his counsel were deliberately cut
+out of the entire process, they were in no position to call that violation of the writ to
+Defendants’ attention. Id. ¶¶ 4.11-.15. Later that month, a magistrate judge conducted an
+evidentiary hearing at which the Brays asserted that some of the seized property was exempt from the
+writ and should be returned. On November 16, 2007, the district court ordered that many of the
+seized items be returned to the Brays on the grounds that the materials belonged to the Bray
+children or to third parties, or were otherwise exempt from seizure under Ohio law. Over one and a
+half years later, on June 22, 2009, PPCW returned the items. On September 29, 2009, the Brays filed
+suit in an Ohio state court against PPCW; Squire, Sanders & Dempsey; and Deputy U.S. Marshals Joel
+Kimmet, Chris Riley, and Micah Stevenson. The deputy marshals removed the action to the Southern
+District of Ohio pursuant to the Federal Officer Removal Statute. 28 U.S.C. § 1442. In their amended
+complaint, the Brays asserted two Fourth Amendment causes of action that remain relevant at this
+stage of the litigation: an unreasonable search of the Brays’ home, and an unreasonable seizure of
+Michael Bray. In particular, the Brays alleged that: (1) seven law enforcement officers arrived at
+their home; (2) most or all of them carried firearms and wore flak jackets; (3) the deputy marshals
+ordered Michael Bray to sit on the couch in his living room and did not allow him to leave for
+approximately four hours; (4) during that time, the marshals denied Michael Bray the use of his
+phone to call his attorney; (5) numerous private individuals accompanied the marshals; (6) the
+marshals refused to identify those individuals; and (7) one of the individuals, likely a
+representative of PPCW, carried a video camera and filmed the contents of the home. The deputy
+marshals moved to dismiss the action based on the alternative theories of quasi-judicial absolute
+immunity, qualified immunity, and the lack of a Bivens remedy for an unconstitutional search by U.S.
+Marshals executing a writ. The district court granted the motion, holding that the deputy marshals
+were protected by qualified immunity and by absolute quasi-judicial immunity, which “extends to
+persons performing tasks so integral or intertwined with the judicial process that these persons are
+considered an arm of the judicial officer who is immune.” Bush v. Rauch, 38 F.3d 842, 847 (6th
+Cir.1994). The district court reasoned that implicit in the power the magistrate judge had granted
+to the marshals through the writ of execution was “the authority to exercise a degree of control
+over both the property being seized, the location wherein the property is located, and, by
+extension, those present at the location.” Bray, 2011 WL 1043940, at *4. According to the court, the
+detention of Michael Bray “served reasonable and legitimate safety and operational concerns.” Id.
+Moreover, the court held, the writ merely ordered a representative of PPCW to be present if
+requested by the marshals, and the writ did not limit PPCW to one representative. Id. at *5.
+Finally, the court held, the filming of the home was both reasonable and permissible, because it
+captured a record of the condition of the property prior to its sale. Id. Following the settlement
+and dismissal of the Brays’ claims against PPCW and Squire, Sanders & Dempsey, the Brays appealed
+the judgment in favor of deputy marshals Kimmet and Riley. For the reasons that follow, the
+marshals’ alleged actions violated the Brays’ Fourth Amendment rights, but the marshals are
+nonetheless protected by qualified immunity. The Supreme Court has explicitly recognized the
+permissibility of such reasoning: “defining constitutional rights and only then conferring immunity
+... is sometimes beneficial to clarify the legal standards governing public officials.” Camreta v.
+Greene, — U.S. -, 131 S.Ct. 2020, 2032, 179 L.Ed.2d 1118 (2011). Because the overwhelming focus of
+the writ was media and communications property, the relevant constitutional analysis is particularly
+exacting. The Fourth Amendment originated, in part, as a safeguard for free speech, see, e.g.,
+Stanford v. Texas, 379 U.S. 476, 481-85, 85 S.Ct. 506, 13 L.Ed.2d 431 (1965), and “[w]here the
+materials sought to be seized may be protected by the First Amendment, the requirements of the
+Fourth Amendment must be applied with scrupulous exactitude.” Zurcher v. Stanford Daily, 436 U.S.
+547, 564, 98 S.Ct. 1970, 56 L.Ed.2d 525 (1978) (internal quotations and citations removed); see also
+Walter v. United States, 447 U.S. 649, 655, 100 S.Ct. 2395, 65 L.Ed.2d 410 (1980); A Quantity of
+Books v. Kansas, 378 U.S. 205, 206-13, 84 S.Ct. 1723, 12 L.Ed.2d 809 (1964); Marcus v. Search
+Warrant, 367 U.S. 717, 724-29, 81 S.Ct. 1708, 6 L.Ed.2d 1127 (1961). Under a “scrupulous”
+application, the Fourth Amendment was violated by the detention of Michael Bray for four hours with
+no access to outside communications while armed, flak-jacketed U.S. Marshals worked with an
+organization Mr. Bray despised to seize his books and manuscripts (including books and manuscripts
+of insignificant market value) for the ostensible purpose of satisfying a debt. Reasonableness is
+determined by “balancing] the nature and quality of the intrusion on the individual’s Fourth
+Amendment interests against the importance of the governmental interests alleged to justify the
+intrusion.” Scott v. Harris, 550 U.S. 372, 383, 127 S.Ct. 1769, 167 L.Ed.2d 686 (2007) (internal
+quotations and citations omitted). A detention or search that occurs within the home is subject to
+particular scrutiny because, among the places and things protected by the Fourth Amendment, “the
+home is first among equals. At the Amendment’s very core stands the right of a man to retreat into
+his own home and there be free from unreasonable government intrusion.” Florida v. Jardines, — U.S.
+-, 133 S.Ct. 1409, 1414, 185 L.Ed.2d 495 (2013) (internal quotations and citations omitted). No
+countervailing governmental interest justified the four-hour detention of Michael Bray. For one
+thing, the raid presented none of the operational and safety concerns that may justify seizing the
+occupants of a home during the execution of a criminal warrant. See, e.g., Los Angeles County v.
+Rettele, 550 U.S. 609, 614-16, 127 S.Ct. 1989, 167 L.Ed.2d 974 (2007). Allowing Michael Bray to
+leave his home or to use the telephone would not have threatened the completion of the search. Nor
+would an unrestrained Michael Bray have presented a safety concern. To the contrary, the marshals’
+own actions belie that argument. Had the marshals believed that not restraining Michael Bray risked
+violence, they would not likely have permitted numerous representatives of PPCW to join in a
+surprise raid of his home. Inviting multiple representatives from PPCW to join the search did more
+than undermine the argument that the marshals believed Michael Bray to be a safety threat. In
+addition, the action violated the Fourth Amendment because it exceeded the writ, which authorized
+only “a representative from [PPCW]” to “be present to assist in the identification of property
+subject to seizure.” First Amended Compl. ¶ 4.11 (emphasis added). Contrary to this clear
+instruction, the marshals permitted not one, but “numerous” representatives of the organization to
+join the raid. Id. “[T]he Fourth Amendment has drawn a firm line at the entrance to the house,” and
+a search or seizure in the home without a warrant is “presumptively unreasonable.” Payton v. New
+York, 445 U.S. 573, 586, 590, 100 S.Ct. 1371, 63 L.Ed.2d 639 (1980). Adding further support to the
+conclusion that the marshals’ actions violated the Constitution, the presence of multiple
+unauthorized representatives of PPCW served no valid purpose under the writ. Although the Fourth
+Amendment does not require that all conduct by an officer within a home be expressly authorized by a
+court order, it does demand that actions relate to the lawful objectives of the order. Wilson v.
+Layne, 526 U.S. 603, 611, 119 S.Ct. 1692, 143 L.Ed.2d 818 (1999). PPCW had no articulated expertise
+in satisfying the ostensible purpose of the writ, identifying valuable goods to satisfy a monetary
+judgment. Moreover, because the presence of additional representatives of PPCW was not authorized,
+and because the writ made no provision for the use of a camera, it was a violation of the Fourth
+Amendment to permit the organization to film the home. A person who is not lawfully present in a
+home may violate the Constitution by engaging in warrantless filming of the area. The Supreme Court
+made clear in Wilson that the right to be present in a home does not necessarily entitle police to
+bring photographers with them. Id. In this case, the unauthorized filming of the Brays’ home was
+particularly unreasonable because the raid was unannounced and the filming occurred within the home
+itself. Moreover, because of the location and nature of the filming, the use of the camera posed a
+heightened risk of intimidating the family and capturing its intimate, unguarded moments. Viewed in
+the light most favorable to the plaintiffs, the marshals’ asserted actions add support to the
+argument that the ostensible goal of the raid (identifying valuable goods to satisfy a monetary
+judgment) served as a pretext for intimidating the Brays and identifying disfavored books and papers
+for confiscation. This inference is particularly strong in light of the writ’s focus on expressive
+materials of negligible market value. For example, the writ authorized the marshals to seize “all
+copies of materials written by [Michael Bray], both in published and unpublished form.” (Emphasis
+added.) Expressive content cannot be targeted for confiscation, for instance under RICO, without a
+judicial determination that it is unlawful or otherwise intertwined with an illegal enterprise. See
+Alexander v. United States, 509 U.S. 544, 551, 113 S.Ct. 2766, 125 L.Ed.2d 441 (1993). Similarly,
+when compensating the victims of a crime, it is presumptively un constitutional to target the
+profits associated with publications describing that crime. See Simon & Schuster, Inc. v. Members of
+N.Y. State Crime Victims Bd„ 502 U.S. 105, 115-23, 112 S.Ct. 501, 116 L.Ed.2d 476 (1991). Of course,
+the Brays have not raised these specific arguments. Nor have they challenged the underlying writ,
+the constitutionality of which we therefore do not address. Nonetheless, the Fourth Amendment is not
+read in a vacuum, and “[a] seizure reasonable as to one type of material in one setting may be
+unreasonable in a different setting or with respect to another kind of material.” Roaden v.
+Kentucky, 413 U.S. 496, 501, 93 S.Ct. 2796, 37 L.Ed.2d 757 (1973). In light of concerns about free
+speech and the sanctity of the home, and for the more specific reasons identified above, the
+marshals’ alleged actions in executing the writ were unreasonable, and they violated the Brays’
+rights under the Fourth Amendment. Nonetheless, the officers are protected from suit by the doctrine
+of qualified immunity, because these constitutional rights were not clearly established at the time
+of the violations. The defense of qualified immunity applies if a plaintiff fails to allege facts
+that make out a violation of a constitutional right that was clearly established at the time of the
+alleged misconduct. See Messerschmidt v. Millender, — U.S.-, 132 S.Ct. 1235, 1244, 182 L.Ed.2d 47
+(2012). A right is clearly established if “every reasonable officer would have understood that what
+he [was] doing violate[d] that right,” and “existing precedent ... placed the statutory or
+constitutional question beyond debate.” Reichle v. Howards, — U.S. -, 132 S.Ct. 2088, 2093, 182
+L.Ed.2d 985 (2013). Because the legal and factual scenario presented in this action is not identical
+to any the Sixth Circuit or the Supreme Court has previously addressed, the rights the marshals
+violated were not clearly established at the time of the alleged misconduct, and a reasonable
+officer could have believed that his conduct was lawful. For one thing, the prolonged detention of
+Michael Bray might have been permissible in the distinct but more common context of executing a
+warrant for criminal contraband. The Supreme Court has approved of confinement by officers of the
+occupants of a house to minimize the risk of bodily harm during the execution of a criminal warrant,
+to facilitate the orderly completion of the search, and to prevent flight and the improper disposal
+of evidence. See, e.g., Bailey v. United States, — U.S. -, 133 S.Ct. 1031, 1038-41, 185 L.Ed.2d 19
+(2013). The right to detain in the somewhat analogous, albeit different, case of a search for
+contraband, is “categorical,” with no relationship to the “quantum of proof justifying detention or
+the extent of the intrusion to be imposed by the seizure.” Michigan v. Summers, 452 U.S. 692, 705 n.
+19, 101 S.Ct. 2587, 69 L.Ed.2d 340 (1981). Moreover, although the Supreme Court has questioned
+whether detention is permissible in the context of a search for evidence other than contraband, see
+id. at 705 n. 20,101 S.Ct. 2587, the Court has not examined the Fourth Amendment implications of a
+search or a seizure under a civil writ of execution. It is true, though, that our court has held in
+the civil judgment enforcement context that absolute quasi-judicial immunity may apply if detention
+is specifically authorized in a valid court order. See Cooper v. Parrish, 203 F.3d 937, 943, 948-19
+(6th Cir.2000). Accordingly, in the absence of specific guidance to the contrary, a reasonable
+officer could have interpreted existing precedent to permit the detention of Michael Bray. The
+marshals might also reasonably have believed that it was acceptable to invite additional
+representatives of PPCW to join the raid, because outside involvement in the execution of a court
+order is sometimes permissible. For example, in United States v. Clouston, 623 F.2d 485, 486-87 (6th
+Cir.1980), this circuit approved assistance by a telephone company’s employees in the execution of a
+warrant related to wiretapping, partly because the employees were present to aid in the
+identification of electronic devices covered by the warrant. Although here the writ of execution
+identified the number of PPCW representatives who were authorized to be present, a marshal might
+nonetheless have concluded that it was permissible to invite additional representatives of PPCW to
+execute the writ, because officers may sometimes seek the aid of third parties in executing court
+orders. Further buttressing this conclusion, the marshals’ actions in seeking outside assistance
+were distinct from those in which this circuit has recognized a possible constitutional violation.
+For example, the marshals did not invite private individuals to join them after they had already
+completed a search authorized by a warrant, as occurred in Bills v. Asel-tine, 958 F.2d 697, 702
+(6th Cir.1992).
 
 

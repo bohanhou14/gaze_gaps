@@ -1,142 +1,309 @@
 **gold_text:**
-The amendment to Rule 25(a) (1) was intended to dispel unwarranted rigidity and allow more
-flexibility in substitution. “It was intended that liberal effect be given to the 1963 amendment.”
-Roscoe v. Roscoe, 126 U.S.App.D.C. 317, 322, 379 F.2d 94, 99 (1967). “[T]he 90 day period was not
-intended to act as a bar to otherwise meritorious actions.” Staggers v. Otto Gerdau Co., 359 F.2d
-292, 296 (2d Cir. 1966).
+A similar point can be made with respect to McDonald v. Commissioner, 764 F.2d 322 (5th Cir.1985)
+and Estate of Gresham v. Commissioner, 752 F.2d 518 (10th Cir.1985). The Balestras rely on both
+cases, but these out-of-circuit cases are neither binding nor persuasive. Both cases involve the
+invalidation of a Treasury regulation when the related statute explicitly required consideration of
+fair market value. The statute in this case never references “fair market value.” Moreover, in this
+instance, there is no unambiguous intent or purpose requiring such a valuation.
 
 **Generations:**
 
 
 ***GPT-4o:***
-This stringent interpretation contrasts sharply with the intent of the 1963 amendments to Rule 25
-and Rule 6(b), which aimed to inject flexibility and fairness into the substitution process. As
-noted in 379 F.2d 94 and 359 F.2d 292, the amendments were designed to eliminate the inequities and
-hardships caused by the rigid two-year limitation originally imposed. The Advisory Committee
-emphasized that the revised rules were to be liberally construed to allow courts discretion in
-extending the substitution period, recognizing the difficulties that could arise in promptly
-identifying and notifying the proper representative of the deceased.   Given this context, the
-defendant’s counsel's suggestion of death, which lacked identification of a proper representative,
-failed to initiate the 90-day countdown. This interpretation aligns with the judicial precedent that
-courts should prioritize the equitable administration of justice over strict procedural formalities.
-Thus, the district court erred in dismissing the plaintiffs' action without granting the requested
-extension, especially considering the circumstances that inhibited timely substitution, such as the
-injury to plaintiffs' counsel and the ongoing legal processes in the probate court.  We, therefore,
-reverse the judgment and remand for further proceedings consistent with this opinion, ensuring that
-the substitution process adheres to the flexible and just principles intended by the amendments to
-the Federal Rules of Civil Procedure.
+II. The Regulation is Not Arbitrary and Capricious  Treasury's regulation must also survive scrutiny
+under the arbitrary and capricious standard as outlined in the State Farm case. A regulation will
+meet this standard if the agency has provided a rational connection between the facts found and the
+choices made. In assessing this, we examine whether Treasury considered the relevant factors and
+articulated a satisfactory explanation for its action, see Motor Vehicle Manufacturers Ass’n of the
+United States, Inc. v. State Farm Mutual Automobile Insurance Co., 463 U.S. 29, 43, 103 S.Ct. 2856,
+77 L.Ed.2d 443 (1983).  In our assessment of Treasury’s regulation defining "present value," we look
+to analogous cases to guide our interpretation. For example, in Gresham v. Commissioner, 79 T.C. 322
+(1982), the Tax Court invalidated a regulation that inadequately accounted for market restrictions
+impacting stock value, a decision maintained on appeal (752 F.2d 518). This exemplifies that
+regulatory definitions must align closely with realistic economic conditions affecting taxpayers.
+The Balestras argue that failing to consider an employer’s bankruptcy contravenes realistic
+valuation tactics similarly to how disregarding securities restrictions failed in Gresham (764 F.2d
+322). However, Treasury’s choice to exclude bankruptcy contingencies aims to maintain a general and
+practical approach, ensuring a stable and predictable tax base without the need for intricate and
+variable financial health assessments.  We conclude that Treasury has adequately justified its
+regulation within the permissible bounds of its authority. Consequently, the regulation is neither
+arbitrary nor capricious, but instead aligns with established legal principles and regulatory
+practices.
 
 
 **Label:** 
 
 
 ***Meta-Llama-3-8B-Instruct:***
-  In the context of Rule 25(a) (1) of the Federal Rules of Civil Procedure, the suggestion of death
-is a crucial step in the process of substituting a deceased party with a proper representative.
-However, not all suggestions of death are created equal. In cases where the suggestion of death is
-made by a party's attorney, but fails to identify a successor or representative of the deceased, the
-90-day period for substitution may not be triggered.  As noted in 359 F.2d 292, the Advisory
-Committee on Civil Rules intended to provide a more flexible standard for substitution, allowing for
-extensions of time and dispensing with the rigid two-year period previously in place. However, this
-flexibility is contingent upon the suggestion of death providing sufficient information to permit
-the court to proceed with substitution.  In the present case, the suggestion of death made by the
-defendant's attorney was deficient in that it failed to identify a successor or representative of
-the deceased. This lack of specificity rendered the suggestion ineffective in triggering the 90-day
-period for substitution, as explained in 379 F.2d 94.  Furthermore, the court's discretion to
-enlarge the time period for substitution, as provided by Rule 6(b), is not a blank check. Rather, it
-is intended to be exercised in a judicious and reasonable manner, taking into account the particular
-circumstances of each case.  In light of these principles, we conclude that the district court erred
-in dismissing the action with prejudice. The case should be remanded for further proceedings,
-allowing the parties to properly substitute a representative of the deceased and continue the action
-in a manner consistent with the Federal Rules of Civil Procedure.
+  The tax case at hand involves the calculation of the "amount deferred" under a nonqualified
+deferred compensation plan for purposes of FICA (hospital insurance) tax. The plan is a nonaccount
+balance plan, and the employer, United Airlines, calculated the present value of the deferred
+compensation using a reasonable actuarial assumption and method. The employer, however, became
+bankrupt, and the employee, Mr. Balestra, received only a portion of the benefits.  The court must
+determine whether the Treasury's regulation defining the "amount deferred" as the present value of
+the deferred compensation is reasonable and consistent with the statute. In determining this, the
+court looks to the Chevron framework, which requires it to first determine whether Congress's intent
+is clear regarding the precise question at issue. If not, the court must determine whether the
+agency's interpretation is a reasonable one.  The court finds that there is no clear congressional
+intent on the question of defining the "amount deferred" and that the Treasury's regulation is
+reasonable. The regulation is based on a simple and flexible definition of present value, which is
+consistent with the scant legislative history. The court also notes that the regulation is
+consistent with the Supreme Court's holding in Cartwright v. United States, 411 U.S. 546 (1973),
+which concerned the fair market value of mutual fund shares.  The court therefore concludes that the
+Treasury's regulation is reasonable and consistent with the statute, and it affirms the trial
+court's grant of summary judgment in favor of the government. The court's decision is in line with
+the holdings in Reference cases 764 F.2d 322 and 752 F.2d 518, which also considered the application
+of Treasury regulations in the context of tax law.
 
 
 **Label:** 
 
 
-**citations:** ['379 F.2d 94', '359 F.2d 292']
+**citations:** ['764 F.2d 322', '752 F.2d 518']
 
-***short_citations_0:*** 379 F.2d 94
+***short_citations_0:*** 764 F.2d 322
 
-the proper parties. * * * Unless the motion for substitution is made not later than 90 days after the death is suggested upon the record by service of a statement of the fact of the death as provided herein for the service of the motion, the action shall be dismissed as to the deceased party.” Here not only had the 90-day period not expired when the court entered summary judgment, the appellant by her motion for reconsideration had specifically invoked the discretion of the court. Rule 6(b) provides pertinently that when “by these rules * * * an act is required or allowed to be done at or within a specified time, the court for cause shown may at any time in its discretion (1) with or without motion or notice order the period enlarged if request therefor is made before the expiration of the period originally prescribed * * Originally the Rule had precluded an extension of time for taking action under Rule 25(a) (1), but by purposeful amendment, it was sought to relieve against the hardship of the Court’s holding in Anderson v. Yungkau, 329 U.S. 482, 67 S.Ct. 428, 91 L.Ed. 436 (1947). It was intended that liberal effect be given to the 1963 amendment. Graham v. Pennsylvania Railroad, 119 U.S.App.D.C. 335, 342 F.2d 914 (1964), cert. denied, 381 U.S. 904, 85 S.Ct. 1446, 14 L.Ed.2d 286 (1965). We are constrained to reverse for further proceedings not inconsistent with this opinion. Reversed. The only “party” then
+applied by this regulation to the section 57(a)(6) computation, for purposes of the section 56 minimum tax, of the item of tax preference, arising from the exercise of a qualified stock option. Appellees petitioned the Tax Court for a redetermination of the deficiencies asserted by the Commissioner. That court characterized the case as containing a “sole issue for decision ... whether certain Federal securities law restrictions imposed on the transfer of common stock received by an employee upon the exercise of a qualified stock option should be considered in determining the fair market value of the stock for purposes of the minimum tax computation.” McDonald v. Commissioner, No. 1983-197 (T.C. April 11, 1983), at 6. The Tax Court ruled in favor of the McDonalds. It felt itself bound by its prior decision in Gresham v. Commissioner, 79 T.C. 322 (1982), aff'd, 752 F.2d 518 (10th Cir.1985), which held Reg. section 1.57-l(f)(3) invalid, and specified that, for minimum tax purposes, similar lapsing restrictions on the transferability of stock acquired by exercise of a qualified stock option may not be wholly disregarded in determining the stock’s fair market value when so acquired. The Commissioner appeals to this Court. THE LEGAL FRAMEWORK The Minimum Tax Section 56 of the Internal Revenue Code was enacted as a part of the Tax Reform Act of 1969. As enacted and as in effect in 1972, it imposed a so-called minimum tax on certain “items of tax preference, listed in IRC section 57. Section 56 levied a
 
-***short_citations_1:*** 359 F.2d 292
+***short_citations_1:*** 752 F.2d 518
 
-insertion of a “reasonable time” standard. In 1963, the Advisory Committee suggested the present rule and noted: “Present Rule 25(a) (1), together with present Rule 6(b), results in an inflexible requirement that an action be dismissed as to a deceased party if substitution is not carried out within a fixed period measured from the time of the death. The hardships and inequities of this unyielding requirement plainly appear from the cases. * * * The amended rulé establishes a time limit for the motion to substitute based not upon the time of the death, but rather upon the time information of the death is provided by means of a suggestion of death upon the record, i. e. service of a statement of the fact of the death.” See Notes of Advisory Committee on the Civil Rules, 28 U.S.C. Rule 25 (1964). Rule 6(b) of the Federal Rules of Civil Procedure was also amended in 1963 and the prohibition against extending the time for taking action under Rule 25 was eliminated. The Advisory Committee on the Civil Rules noted: “It is intended that the court shall have discretion to enlarge that period.” The amendments of Rules 6(b) and 25(a) (1) provided needed flexibility. It was assumed that discretionary extensions would be liberally granted. Movants under Rule 25 can ordinarily control when a death is “suggested upon the record” and appellants’ attorney was under no obligation to file his affidavit of Staggers’ death on the date he did. He could have filed
+a period of two years, unless a registration statement was in effect with respect to the shares. (As stated earlier, no such statement was in effect on the dates of issuance of taxpayer’s shares.) In any private placement of the option stock, the SEC would also have required the purchaser to execute a similar investment letter. During the years in question, taxpayer calculated his minimum tax liability by first determining the bid prices for GEC stock traded on the over-the-counter market on the dates he exercised the option and then discounting the total value of each block of shares purchased by 33(4 percent, reporting this discounted value as the “fair market value” of the shares so acquired. (This discounted value represented the value taxpayer would receive if he sold the shares in a private placement.) Taxpayer then subtracted from this discounted value his cost for the option shares; this amount taxpayer reported as his tax preference income. In determining deficiencies for the years 1975 and 1976, the Commissioner of Internal Revenue (Commissioner) valued the option shares using the over-the-counter, rather than the private placement, value of the shares. The Commissioner thus ignored the effect of the investment letter restrictions on the basis of Treas.Reg. § 1.57-l(f)(3). The parties stipulated that if section 1.57-l(f)(3) is valid and applicable, taxpayer will concede the deficiencies as assessed in the statutory notice. Conversely, they have stipulated that if, as the Tax Court concluded, section 1.57-l(f)(3) is invalid or inapplicable, the fair market value of
 
 **prev_text:**
-LEVENTHAL, Circuit Judge: The District Court held that Rule 25(a) (1) of the Federal Rules of Civil
-Procedure required dismissal of the plaintiffs’ tort action because defendant’s counsel had filed a
-suggestion of death of the defendant yet plaintiff had not made any substitution of parties within
-90 days. We reverse on the ground that the suggestion of death, which was neither filed by nor
-identified a successor or representative of the deceased, such as an executor or administrator, was
-ineffective to trigger the running of the 90-day period provided by the Rule. Mr. and Mrs. John
-Rende filed an action in the District Court individually and on behalf of their infant son who had
-been struck and injured by Alfred S. Kay while driving his car. On August 27, 1967, defendant Kay
-died. On September 1, 1967, the defendant’s attorney, a term used here to identify the lawyer who
-had been retained by deceased to defend the action, and who had duly entered an appearance as
-attorney for defendant, filed a suggestion of death in the District Court, giving notice to
-plaintiffs’ attorney. That same day there was filed in the Orphans Court for Montgomery County,
-Maryland, residence of the deceased, his will naming his widow as executrix, but the will had not
-been probated, nor any legal representative appointed for the estate at the time of the filing of
-this appeal. Plaintiffs’ attorney was injured on October 14, 1967. On returning to practice early in
-1968, he learned that no successor to defendant Kay had yet been appointed, and he moved to certify
-the case to the ready calendar. The defendant’s attorney opposed this on grounds that discovery
-procedures had not been completed. The case was delayed and placed on the ready calendar as of June
-7, 1968. However, in April 1968, the defendant’s attorney moved in his own name to dismiss the
-action on the ground that Rule 25(a) (1) required plaintiffs to move to substitute a proper party
-for the deceased within 90 days of the suggestion of death. Plaintiffs filed an opposition and
-motion for substitution of the proper party, and sought an extension of the time for substitution as
-allowed by Rule 6(b). At argument, plaintiffs’ counsel asserted the “suggestion of death was
-defective in that it did not list the name of the proper party; that is the legal representative of
-the defendant.” The court responded: “That would not be his burden.” The court dismissed the action
-with prejudice. Prior to its amendment in 1963, Rule 25(a) (1) required the court to dismiss a case
-if no motion for substitution was filed within two. years after date of death, and no extensions of
-this period were allowed under Rule 6(b). The rule was rigorously applied, often with harsh results,
-and was called “easily the poorest rule of all the Federal Rules.” In 1955 the Advisory Committee on
-Rules for Civil Procedure recommended that the two-year period be changed to a “reasonable time”
-standard. In 1961 the Advisory Committee on Civil Rules again suggested the Rule be made more
-flexible. In 1963 the Supreme Court made changes in Rule 25(a) (1) and in Rule 6(b) so as to provide
-a 90-day time limit from the filing of a suggestion of death, and to give the court discretion to
-extend that time. The Committee Notes explaining the amendments state: Present Rule 25(a) (1),
-together with present Rule 6(b), results in an inflexible requirement that an action be dismissed as
-to a deceased party if substitution is not carried out within a fixed period measured from the time
-of death. The hardships and inequities of this unyielding requirement plainly appear from the cases.
-* * * The amended rule establishes a time limit for the motion to substitute based not upon the time
-of the death, but rather upon the time information of the death is provided by means of a suggestion
-of death upon the record. * * * A motion to substitute may be made by any party or by the
-representative of the deceased party without awaiting the suggestion of death. Indeed, the motion
-will usually be so made. If a party or the representative of the deceased party desires to limit the
-time within which another may make the motion, he may do so by suggesting the death upon the record.
-(Emphasis added.) Under the amended Rule either a party or “the successors or representatives of the
-deceased party” may avoid delay in effecting substitution for the deceased party either by filing a
-motion for substitution or by suggesting death on the record and thus triggering the 90-day period
-which begins with suggestion of death. The Advisory Committee, in outlining that suggestion of death
-could be made by “the representative of the deceased party” plainly contemplated that the suggestion
-emanating from the side of the deceased would identify a representative of the estate, such as an
-executor or administrator, who could be substituted for the deceased as a party, with the action
-continued in the name of the representative. The addition of “successor” in the Rule would take care
-of the case of, say, the distributee of an estate that had been distributed, but would not make a
-material difference in the aspect under consideration. Form 30, for suggestion of death, which was
-provided in order to expedite and facilitate implementation of the amendment, provides: A.B.
-[described as a party, or as executor, administrator, or other representative or successor of C.D.,
-the deceased party\ suggests upon the record, pursuant to Rule 25(a) (1), the death of C.D.
-[describe as party] during the pendency of this action. Added Jan. 21, 1963, eff. July 1, 1963.
-[Emphasis added.] Although the attorney for the defendant was retained to “represent” the deceased
-as his counsel, he is not a person who could be made a party, and is not a “representative of the
-deceased party” in the sense contemplated by Rule 25(a) d). In our opinion the Rule, as amended,
-cannot fairly be construed, as the de fendant’s attorney argues, to make his suggestion of death
-operative to trigger the 90-day period even though he was neither a successor nor representative of
-the deceased, and gave no indication of what person was available to be named in substitution as a
-representative of the deceased. Counsel’s construction would open the door to a tactical maneuver to
-place upon the plaintiff the burden of locating the representative of the estate within 90 days. We
-can conceive of cases wherein even the lawyer retained to represent a defendant might know the
-defendant had died, yet not readily know where his estate would be administered. In the present
-case, plaintiff’s attorney did know the court of probate, but he did not know whether probate of the
-will might be contested, or who would be appointed representative of the estate. The tactic of the
-defendant’s attorney would place on plaintiff the burden, where no conventional representative was
-appointed for the estate in probate court, of instituting machinery in order to produce some
-representative of the estate ad litem, pending appointment of the representative contemplated by law
-of the domicile of the deceased.
+PLAGER, Circuit Judge. Introduction This is a tax refund case. The Balestras seek &• refund of
+$3,285.26 for Federal Insurance Contribution Act (“FICA”) tax paid on certain deferred compensation—
+retirement benefits in this case — that Mr. Balestra will never receive due to his employer’s
+bankruptcy proceedings. The tax was based on a calculation of the “amount deferred” under 26 U.S.C.
+§ 3121(v)(2)(A) (2000). Congress did not define the phrase “amount deferred.” Instead, the
+Department of the Treasury (“Treasury”) promulgated a regulation defining the “amount deferred” in
+terms of the deferred compensation’s “present value.” This definition prohibited any consideration
+of an employer’s financial condition (e.g., bankruptcy) in calculating the amount deferred. See 26
+C.F.R. § 31.312'l(v)(2)-l(c)(2)(ii). The Balestras challenge this regulation as inconsistent with
+the statute, citing the analysis required by Chevron, U.S.A., Inc. v. Natural Resources Defense
+Council, Inc., 467 U.S. 837, 104 S.Ct. 2778, 81 L.Ed.2d 694 (1984). They also contend that the
+regulation is arbitrary and capricious under Motor Vehicle Manufacturers Ass’n of the United States,
+Inc. v. State Farm Mutual Automobile Insurance Co., 463 U.S. 29, 103 S.Ct. 2856, 77 L.Ed.2d 443
+(1983). After exhausting their administrative remedies before the Internal Revenue Service, they
+brought suit in the U.S. Court of Federal Claims seeking a refund of the taxes paid. When the trial
+court denied them a remedy, they brought this appeal. BACKGROUND A. FICA tax includes both the
+social security tax and the hospital insurance tax. See 26 U.S.C. §§ 3101(a)-(b). This case concerns
+FICA tax and the hospital insurance tax in particular. The hospital insurance tax is imposed on
+every individual’s income. Id. § 3101(b). The tax is collected by a withholding mechanism. Id. §
+3102(a). The taxpayer’s employer collects and remits the tax due by deducting the amount of the tax
+from the employee’s wages as and when paid. Id. For the relevant 2004 tax year, the hospital
+insurance tax was 1.45% of an individual’s “wages” received with respect to employment. Id. §
+3101(b)(6); 26 C.F.R. § 31.3101-2(c). “Wages” are defined in 26 U.S.C. § 3121(a) and include the
+deferred compensation at issue. On appeal, the parties do not dispute this fact. A critical question
+is when the wages are received. Generally, wages are received when they are paid by the employer to
+the employee, and wages are paid by the employer when they are actually or constructively paid. 26
+C.F.R. § 31.3121(a)-2. The same rule is • generally true for FICA tax purposes. Id. §
+31.3121(v)(2)-l(a)(l). However, some wages — including the deferred compensation at issue here — are
+treated differently under the “special timing rule” for FICA tax purposes. Id. §
+31.3121(v)(2)-l(a)(2). This special timing rule only applies to wages under 26 U.S.C. § 3121(a) if
+those wages are from a “nonqualified deferred compensation plan” as described in 26 C.F.R. §
+31.3121(v)(2)-1(b). Id. Both Congress and Treasury define “nonqualified deferred compensation plan.”
+See 26 U.S.C. § 3121(v)(2)(C) (Congress’s definition); 26 C.F.R. § 31.3121(v)(2)-l(b) (Treasury’s
+definition). The parties agree that the plan at issue is such a plan. With respect to nonqualified
+deferred compensation plans, Congress provided that: Any amount deferred pnder a nonquali-fied
+deferred compensation plan shall be taken into account for purposes of this chapter as of the later
+of — (i) when the services are performed, or (ii) when there is no substantial risk of forfeiture of
+the rights to such amount. 26 U.S.C. § 3121(v)(2)(A) (emphasis added). Some nonqualified deferred
+compensation plans — including the plan at issue— are also “nonaccount balance plans” as described
+in 26 C.F.R. § 31.3121(v)(2)-1(c)(2). For such plans, Treasury defined an “amount deferred” in
+terms- of the t “present value” of the deferred compensation (the future payments). 26 C.F.R. §
+31.3121(v)(2)-l(c)(2)(i). Treasury defined “present value” in this context: For purposes of this
+section, present value means the value as of a specified date of an amount or series of amounts due
+thereafter, where each amount is multiplied by the probability that the condition or conditions on
+which pay ment of the amount is contingent will be satisfied, and is discounted according to an
+assumed rate of interest to reflect the time value of money. For purposes of this section, the
+present value must be determined as of the date the amount deferred is required to be taken into
+account as wages under paragraph (e) of this section using actuarial assumptions and methods that
+are reasonable as of that date. For this purpose, a discount for the probability that an employee
+will die before commencement of benefit payments is permitted, but only to the extent that benefits
+will be forfeited upon death. In addition, the present value cannot be discounted for the
+probability that payments will not be made (or will be reduced) because of the unfunded status of
+the plan, the risk associated with any deemed or actual investment of amounts deferred under the
+plan, the risk that the employer, the trustee, or another party will be unwilling or unable to pay,
+the possibility of future plan amendments, the possibility of a future change in the law, or similar
+risks or contingencies. Nor is the present value affected by the possibility that some of the
+payments due under the plan will be eligible for one of the exclusions from wages in section
+3121(a). Id. § 31.3121(v)(2)-l(c)(2)(ii) (emphasis added). B. As a result of this statutory and
+regulatory background, the Balestras effectively paid FICA tax on wages they will never receive. Mr.
+Balestra was employed as a pilot by United Airlines (“United”) from January 29, 1979 until his
+retirement on October 1, 2004. Upon retirement, Mr. Balestra was eligible to receive retirement
+benefits through a non-qualified deferred compensation plan that was also a nonaccount balance plan.
+He was to receive, inter alia, continuing payments for the rest of his life. He elected to start his
+benefits effective the day of his retirement. United, as his employer, therefore withheld hospital
+insurance tax from Mr. Balestra in the 2004 tax .year. Mr. and Mrs. Bales-tra filed a joint return
+for that tax year. The tax withheld by United was based on the then-applicable 1.45% statutory tax
+rate applied to the present value of the deferred compensation that Mr. Balestra was to receive
+under the plan. In compliance with the statute and regulation at issue, United calculated the
+present value of the deferred compensation to be $289,601.18. United therefore withheld 1.45% of
+this amount ($4,199.22) in hospital insurance tax from Mr. Balestra. United was set to pay Mr.
+Balestra retirement benefits for the duration of his life. However, United had entered bankruptcy
+proceedings in 2002, and its obligations to pay these benefits were eventually discharged in those
+proceedings. United ceased paying benefits to Mr. Ba-lestra in 2010. As a result, Mr. Balestra
+actually received only $63,032.09 in benefits, even though he effectively (through his employer’s
+withholding) paid a hospital tax based on $289,601.18 in benefits. Since the Ba-lestras filed a
+joint tax return in 2004, they seek a refund of $3,285.26 — the amount of tax paid on compensation
+they will never receive. In May 2007, the Balestras filed an administrative claim before Treasury
+requesting a refund of the tax paid. That claim was denied. In May 2009, the Balestras filed the
+present action for a refund in the United States Court of Federal Claims (“trial court”). The trial
+court 'granted the Government’s motion for summary judgment and denied the Balestras’ cross-motion
+for summary judgment. The trial court determined, inter alia, that the regulation at issue, ' 37
+C.F.R. § 3121 (v)(2)-l(c)(2)(ii), satisfies Chevron and State Farm. The trial court also denied as
+moot the Government’s motion to amend the answer to add a defense. The Balestras timely appealed.
+Before this court, they argue that the regulation does not satisfy Chevron or State Farm. They
+contend that under the terms of the governing statute, the regulation is invalid or inapplicable to
+their situation because United was in bankruptcy proceedings when the deferred compensation’s
+present value was calculated. They also contend that the regulation is arbitrary and capricious
+because it departs from the plain meaning of “present value” without a sufficient explanation. We
+have jurisdiction under 28 U.S.C. § 1295(a)(3). Discussion We review the trial court’s grant of
+summary judgment without deference. Consolidation Coal Co. v. United States, 615 F.3d 1378, 1380
+(Fed.Cir.2010). The trial court was bound by the Rules of the United States Court of Federal Claims
+(“RCFC”). Under those rules, summary judgment is proper “if the movant shows that there is no
+genuine dispute as to any material fact and the movant is entitled to judgment as a matter of law.”
+RCFC 56(a). We review the court’s denial of a motion to amend a complaint for abuse of discretion.
+Shinnecock Indian Nation v. United States, 782 F.3d 1345, 1348 (Fed.Cir.2015). We agree with the
+Balestras that, regarding an agency with rulemaking authority such as Treasury, we review the
+agency’s regulatory interpretation of a statute it administers under the Supreme Court’s guidance in
+Chevron. See Mayo Found. for Med. Educ. & Research v. United States, 562 U.S. 44, 52-58, 131 S.Ct.
+704, 178 L.Ed.2d 588 (2011); Dominion Res., Inc. v. United States, 681 F.3d 1313, 1317
+(Fed.Cir.2012). We evaluate . the agency’s explanation for its action under State Farm to determine
+if it is arbitrary or capricious. , Mayo, 562 U.S. at 52-58, 131 S.Ct. 704; Dominion, 681 F.3d at
+1317. I. Treasury’s Regulation Satisfies Chevron Under the Chevron framework, we begin by using the
+ordinary tools of statu- tory construction to determine whether Congress’s intent is clear regarding
+the precise question at issue. Chevron, 467 U.S. at 842-43, 843 n. 9, 104 S.Ct. 2778; City of
+Arlington v. F.C.C., — U.S. -, 133 S.Ct. 1863, 1868, — L.Ed.2d - (2013). These tools include the
+statute’s text and structure, canons of statutory construction, and legislative history. Gilead
+Sois., Inc. v. Lee, 778 F.3d 1341, 1348 (Fed.Cir.2015). If Congress’s intent is clear,, then we give
+effect to Congress’s unambiguously expressed intent. Chevron, 467 U.S. at 842-43, 104 S.Ct. 2778.
+However, if that intent is not clear, then we determine whether the agency’s interpretation of the
+statute is a reasonable one. Id. at 842^44, 104 S.Ct. 2778. “If Congress has explicitly left a gap
+for the agency to fill, there is an express delegation of authority to the agency to elucidate a
+specific provision of the statute by regulation.” Id. at 843^44, 104 S.Ct. 2778. We afford such
+legislative regulations “controlling weight unless they are arbitrary, capricious, or manifestly
+contrary to the statute.” Id. at 844, 104 S.Ct. 2778 (footnote omitted). If the legislative
+delegation is implicit, then a court “may not substitute its own construction of a statutory
+provision for a reasonable interpretation made by the administrator of an agency.” Id. (footnote
+omitted). A. In determining whether Chevron deference is owed in this instance, we begin with the
+language of the statute and the ordinary tools of statutory construction to determine whether
+Congress directly addressed the precise question at issue. See, e.g., Gilead Scis., 778 F.3d at
+1347. The parties do not dispute the formulation of the question. The question is how employers must
+calculate the “amount deferred” under nonqualified deferred compensation plans that are also
+nonaccount balance plans for the purposes of FICA (hospital insurance) tax, and, more pointedly,
+whether the “amount deferred” can be defined as the compensation’s “present value” without
+consideration of an employer’s financial condition. The relevant statute provides that: Any amount
+deferred under a nonquali-fied deferred compensation plan shall be taken into account for purposes
+of this chapter as of the later of — (i) when the services are performed, or (ii) when there is no
+substantial risk of forfeiture of the rights to such amount. 26 U.S.C. § 3121(v)(2)(A) (emphasis
+added). Neither the statute nor the ordinary tools of statutory construction reveal any clear,
+unambiguously expressed congressional intent on the precise question at issue. The statute does not
+contain a definition of the “amount deferred” or reference any way to calculate such an amount —
+including by determining its “present value,” with or without considering an employer’s financial
+condition. The statute was enacted as part of the Social Security Amendments of 1983, Pub.L. 98-21,
+97 Stat. 65, 122 (1983) (“Act”). As a bill, it was considered and passed in the House of
+Representatives before being considered, amended, and passed in the Senate. See 97 Stat. at 172. The
+House and Senate then agreed to a conference report. Id. One of the Senate amendments contained the
+provision that became the statute at issue in this case. See 129 Cong. Rec. S6133-35 (daily ed. Mar.
+18, 1983); H.R. Conf. Rep. No. 98-47, at 145-47 (1983) (comparing the House and Senate versions of
+the bill and describing the conference agreement). The conference agreement “generally follow[ed]”
+that amendment. H.R. Conf. Rep. No. 98-47, at 147. Senator Bentsen introduced the amendment, and he.
+made several statements concerning it. The Balestras cite these statements as legislative history
+indicating Congress’s intent to impose FICA tax on the compensation’s “present value” in its plain
+and ordinary sense as used in other parts, of the tax code. According to the Balestras, Congress
+intended that the “present value” be calculated according to the “fair market value” of the
+compensation as understood from a “willing buyer-willing seller” model. However, Senator Bentsen’s
+statements do not support the Balestras’ conclusions. Senator Bentsen stated that: In most cases,
+under nonqualified deferred compensation agreements it is a relatively simple matter to determine
+when amounts are deferred and the amount that is being deferred. Likewise, as in many other areas of
+our tax law, simple rules can be established to determine the present value of amounts deferred in
+other cases. 129 Cong. Rec. S6134. When read in light of the House Conference Report, these
+statements indicate that Senator Bentsen, and presumably the Senate and Congress, intended to define
+the “amount deferred” in terms of the compensation’s “present value.” Neither party argues that
+Treasury’s defining “amount deferred” in terms of “present value” itself was improper. Instead, they
+argue over the precise and proper meaning of “present value.” However, these statements do not
+evince an unambiguous congressional intent that the “present value” calculation must consider an
+employer’s financial status. Similarly, there is nothing to indicate that “present value” is to be
+calculated specifically in terms of “fair market value” or the “willing buyer-willing seller”
+standard. The senator’s statements merely suggest that simple rules can be established. In other
+words, this legislative history actually supports Treasury’s regulation — a relatively simple rule
+that the Balestras simply dislike. We find no other legislative history, canon of construction, or
+salient feature of statutory structure that points to any unambiguous congressional intent on the
+issue. The parties, for their part, do not suggest any. B. Since there is no unambiguous expression
+of congressional intent, we pro ceed to the second step of the Chevron framework. We must determine
+whether Treasury’s interpretation of the statute is a reasonable one. Chevron, 467 U.S. at 842-44,
+104 S.Ct. 2778. Treasury was faced with a statutory ambiguity — how to define the “amount deferred.”
+Treasury devised the regulation to be workable, simple, and flexible. See 61 Fed.Reg. at 2195; 64
+Fed.Reg. at 4543. Agencies must draw such lines and make such choices between alternatives in
+drafting regulations. See Mayo, 562 U.S. at 58-59, 131 S.Ct. 704. Treasury chose to define the
+“amount deferred” in terms of “present value.” 26 C.F.R. § 31.3121(v)(2)-l(c)(2)(ii). Treasury
+further chose to define “present value” by considering, inter alia, the time value of money and
+reasonable actuarial assumptions and methods at the time the amount deferred was taken into account
+as wages. Id. The exact value of a future payment is inherently unknowable. Treasury’s definition
+allowed for the consideration of some contingencies but not others. As a matter of law, was Treasury
+obligated to include the contingency that if the employer became bankrupt, an adjustment in the
+employee’s tax would be made? It would seem reasonable for the rule drafters to have done so. But
+the question under Chevron is whether it was unreasonable not to have done so. The regulation as
+written would seem to comport with the scant legislative history. Nothing in the statute or
+congressional purpose, intent, or design precludes Treasury’s definition. The definition is
+rational, reasonable, and does not conflict with any law. As noted, the regulation comports with the
+scant legislative history relied upon by the Balestras. Senator Bentsen noted that in “most cases”
+it was “relatively simple” to determine the amount deferred. 129 Cong. Rec. S6134. He spoke of the
+“simple rules [that] can be established.” Id. Treasury promulgated a simple and reasonable rule. We
+decline to substitute our own regulation in place of the reasonable one that Treasury devised in
+this instance. The Balestras’ arguments on this point are unpersuasive. They admit that the statute
+is silent on the question at issue. They admit that the regulation “may well be a reasonable
+interpretation of the statute” when applied to employers who are not in bankruptcy. Appellants’ Br.
+at 41. However, they argue that the regulation is unreasonable as applied to employers in
+bankruptcy. They believe that the legislative history and purpose of the statute demonstrate
+Congress’s intent to tax the present value of deferred compensation only in terms of its fair market
+value— measured by a willing buyer-willing seller standard as in United States v. Cartmight, 411
+U.S. 546, 93 S.Ct. 1713, 36 L.Ed.2d 528 (1973). Based on Cartwright, the Balestras argue that any
+Treasury regulation with a valuation method must result in “a realistic valúe that does not vary
+significantly from the willing buyer-willing seller standard.” Appellants’ Br. at 47. Any regulation
+deviating from this standard is — in their words — invalid. This is not so. First, as previously
+discussed, the legislative history and purpose of the statute do not indicate that Congress intended
+to define the “amount deferred” as the compensation’s “present value” in terms of its “fair market
+value” under a willing buyer-willing seller standard or by necessitating an evaluation of an
+employer’s financial condition and its ability to make future payments. The Ba-lestras’ argument
+hinges upon the statements of Senator Bentsen. They reason that by referencing simple rules in place
+in other sections of the tax code, Senator Bentsen and all of Congress intended that Treasury abide
+by the willing buyer-willing seller standard. As we have already discussed, the record does not
+support this reading. Second, the Balestras read the import of Cartwright too broadly. Cartwright
+was a pre-Chevron case that dealt with fair market value and the willing buyer-willing seller
+standard in the context of the particular statute and regulation at issue in that case. Cartwright
+involved a Treasury regulation relating to 26 U.S.C. § 2031. This statute concerned the value of a
+decedent’s property for estate tax purposes. The regulation required Treasury to value mutual fund
+shares at their “fair market value”— which Treasury defined as the public offering or asking price
+of mutual fund shares — instead of the lower redemption price (the actual price for which someone
+could have redeemed the shares). Cartwright, 411 U.S. at 549 n. 5, 93 S.Ct. 1713 (quoting the
+relevant portion of 26 C.F.R. § 20.2031-8(b)). Treasury promulgated that regulation despite having
+previously stated — in the context of the same statute — that the “fair market value” was the “
+‘price at which the property would change hands between a willing buyer and a willing seller,
+neither being under any compulsion to buy or to sell and both having reasonable knowledge of
+relevant facts.’ ” Id. at 551, 93 S.Ct. 1713 (quoting 26 C.F.R. § 20.2031-l(b)). In other words,
+fair market value was at issue because of the particular statute and regulation in the case. It is
+true that the Court stated the “willing buyer-willing seller test of fair market value is nearly as
+old as the federal income, estate, and gift taxes themselves, and is not challenged here.” Id. at
+551, 551 n. 7, 93 S.Ct. 1713 (citing a separate Treasury regulation specifically relating to the
+test in the context of estate tax). However, this statement does not compel the result sought by the
+Balestras in this case. The Court in Cartwright ultimately found that the regulation was “manifestly
+inconsistent with the most elementary provisions of the Investment Company Act of 1940 [which
+regulated the mutual funds] and operate[d] without regard for the market in mutual fund shares that
+the Act created and regulates.” Id. at 557, 93 S.Ct. 1713. The Court stated that Congress “surely
+could not have intended” such a statutory interpretation. Id. Moreover, the Court determined that
+the regulation imposed an “unreasonable and unrealistic measure of value.” Id. Treasury treated load
+and no-load mutual funds differently, and in seeking the higher valuation, Treasury ignored its own
+definition of “fair market value.” See id. at 556-57, 93 S.Ct. 1713. This case involves no such
+contravention of the statute or the Social Security Amendments of 1983. As previously noted, this
+case also involves no such congressional intent on the question of “fair market value.” The
+Balestras’ other arguments are similarly unpersuasive. For instance, the Balestras cite several
+Treasury regulations relating to other sections of the tax code and numerous cases involving the
+willing buyer-willing seller standard and the general meaning of present value. However, without a
+clear indication of congressional intent on this issue (that Congress intended to keep these
+standards in this instance), their arguments are not persuasive. Section 3121 simply does not
+concern these other standards found in other areas of tax law. We may not import those standards
+into the statute or the regulation here.
 
 

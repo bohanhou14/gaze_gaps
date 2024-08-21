@@ -1,142 +1,126 @@
 **gold_text:**
-The amendment to Rule 25(a) (1) was intended to dispel unwarranted rigidity and allow more
-flexibility in substitution. “It was intended that liberal effect be given to the 1963 amendment.”
-Roscoe v. Roscoe, 126 U.S.App.D.C. 317, 322, 379 F.2d 94, 99 (1967). “[T]he 90 day period was not
-intended to act as a bar to otherwise meritorious actions.” Staggers v. Otto Gerdau Co., 359 F.2d
-292, 296 (2d Cir. 1966).
+Shoop resolved a circuit split between Cain v. Chappell , 870 F.3d 1003, 1024 n.9 (9th Cir. 2017) ("
+Moore itself cannot serve as 'clearly established' law at the time the state court decided Cain's
+claim."), pet. for cert. filed , No. 17-9218 (June 5, 2018); Davis v. Kelley , 854 F.3d 967, 970
+(8th Cir. 2017) (same), and Hill v. Anderson , 881 F.3d 483, 492 (6th Cir. 2018), vacated and
+remanded sub nom. Shoop v. Hill .
 
 **Generations:**
 
 
 ***GPT-4o:***
-This stringent interpretation contrasts sharply with the intent of the 1963 amendments to Rule 25
-and Rule 6(b), which aimed to inject flexibility and fairness into the substitution process. As
-noted in 379 F.2d 94 and 359 F.2d 292, the amendments were designed to eliminate the inequities and
-hardships caused by the rigid two-year limitation originally imposed. The Advisory Committee
-emphasized that the revised rules were to be liberally construed to allow courts discretion in
-extending the substitution period, recognizing the difficulties that could arise in promptly
-identifying and notifying the proper representative of the deceased.   Given this context, the
-defendant’s counsel's suggestion of death, which lacked identification of a proper representative,
-failed to initiate the 90-day countdown. This interpretation aligns with the judicial precedent that
-courts should prioritize the equitable administration of justice over strict procedural formalities.
-Thus, the district court erred in dismissing the plaintiffs' action without granting the requested
-extension, especially considering the circumstances that inhibited timely substitution, such as the
-injury to plaintiffs' counsel and the ongoing legal processes in the probate court.  We, therefore,
-reverse the judgment and remand for further proceedings consistent with this opinion, ensuring that
-the substitution process adheres to the flexible and just principles intended by the amendments to
-the Federal Rules of Civil Procedure.
+To merit habeas relief, it must be shown that no reasonable jurist could find the state court's
+application of clearly established federal law to be appropriate. Under AEDPA, "the federal habeas
+court may not issue the writ simply because that court concludes in its independent judgment that
+the relevant state-court decision applied clearly established federal law erroneously or
+incorrectly" (870 F.3d 1003). For Weathers, this requirement is not met because the state court's
+adjudication was consistent with established Supreme Court precedent.  Further, Davis establishes
+that a miscarriage of justice exception is not applicable when there is no substantial claim of
+actual innocence or new evidence that could have negated a reasonable juror's conviction (854 F.3d
+967). In Weathers's case, no such claim or new evidence exists to warrant application of this
+exception.  Moreover, this court acknowledges that Moore's holding regarding adaptive strengths is
+merely an application of what was previously established by Atkins, demonstrating that post-dated
+Supreme Court decisions cannot be "clearly established law" for the purposes of AEDPA if it post-
+dates the state court’s judgment (881 F.3d 483). Therefore, the court's reliance on pre-Moore
+standards does not constitute an unreasonable application of federal law.  In conclusion, in line
+with Shoop v. Hill and relevant precedents, Weathers's Atkins claim remains insufficient for federal
+habeas relief. Thus, we affirm the district court's judgment.
 
 
 **Label:** 
 
 
 ***Meta-Llama-3-8B-Instruct:***
-  In the context of Rule 25(a) (1) of the Federal Rules of Civil Procedure, the suggestion of death
-is a crucial step in the process of substituting a deceased party with a proper representative.
-However, not all suggestions of death are created equal. In cases where the suggestion of death is
-made by a party's attorney, but fails to identify a successor or representative of the deceased, the
-90-day period for substitution may not be triggered.  As noted in 359 F.2d 292, the Advisory
-Committee on Civil Rules intended to provide a more flexible standard for substitution, allowing for
-extensions of time and dispensing with the rigid two-year period previously in place. However, this
-flexibility is contingent upon the suggestion of death providing sufficient information to permit
-the court to proceed with substitution.  In the present case, the suggestion of death made by the
-defendant's attorney was deficient in that it failed to identify a successor or representative of
-the deceased. This lack of specificity rendered the suggestion ineffective in triggering the 90-day
-period for substitution, as explained in 379 F.2d 94.  Furthermore, the court's discretion to
-enlarge the time period for substitution, as provided by Rule 6(b), is not a blank check. Rather, it
-is intended to be exercised in a judicious and reasonable manner, taking into account the particular
-circumstances of each case.  In light of these principles, we conclude that the district court erred
-in dismissing the action with prejudice. The case should be remanded for further proceedings,
-allowing the parties to properly substitute a representative of the deceased and continue the action
-in a manner consistent with the Federal Rules of Civil Procedure.
+  Upon reviewing the reference articles, I noticed that they all deal with legal cases related to
+habeas corpus, Atkins, and the Eighth Amendment. The cases involve intellectual disability,
+competency, and the application of federal laws.  In the case of Weathers v. Texas, --- U.S. ----,
+137 S.Ct. 1039, 197 L.Ed.2d 416 (2017), the Supreme Court held that the Briseño factors "may not be
+used... to restrict qualification of an individual as intellectually disabled." Moore v. Texas, ---
+U.S. ----, 137 S.Ct. 1039, 197 L.Ed.2d 416 (2017). This decision was applied retroactively in the
+case of Shoop v. Hill, --- U.S. ----, 139 S. Ct. 504, --- L.Ed.2d ---- (2019).  In another case,
+Davis v. Warden, 854 F.3d 967, the court held that the miscarriage-of-justice exception is
+inapplicable when a petitioner does not assert an actual-innocence claim. Additionally, the court
+noted that the Supreme Court has clearly established that a defendant must receive adequate notice
+of the charges against him. Cole v. Arkansas, 333 U.S. 196, 201, 68 S.Ct. 614, 92 L.Ed. 644 (1948).
+In the case of Hill v. Warden, 881 F.3d 483, the court considered the issue of intellectual
+disability and found that the Ohio Court of Appeals' determination was unreasonable. The court noted
+that the Supreme Court has clearly established that a defendant must receive adequate notice of the
+charges against him and that the Briseño factors may not be used to restrict qualification of an
+individual as intellectually disabled.  Overall, these cases demonstrate the importance of
+considering the application of federal laws in legal proceedings and the need for adequate notice of
+charges against a defendant. They also highlight the role of the Supreme Court in establishing
+precedents and guidelines for lower courts to follow.
 
 
 **Label:** 
 
 
-**citations:** ['379 F.2d 94', '359 F.2d 292']
+**citations:** ['870 F.3d 1003', '854 F.3d 967', '881 F.3d 483']
 
-***short_citations_0:*** 379 F.2d 94
+***short_citations_0:*** 870 F.3d 1003
 
-the proper parties. * * * Unless the motion for substitution is made not later than 90 days after the death is suggested upon the record by service of a statement of the fact of the death as provided herein for the service of the motion, the action shall be dismissed as to the deceased party.” Here not only had the 90-day period not expired when the court entered summary judgment, the appellant by her motion for reconsideration had specifically invoked the discretion of the court. Rule 6(b) provides pertinently that when “by these rules * * * an act is required or allowed to be done at or within a specified time, the court for cause shown may at any time in its discretion (1) with or without motion or notice order the period enlarged if request therefor is made before the expiration of the period originally prescribed * * Originally the Rule had precluded an extension of time for taking action under Rule 25(a) (1), but by purposeful amendment, it was sought to relieve against the hardship of the Court’s holding in Anderson v. Yungkau, 329 U.S. 482, 67 S.Ct. 428, 91 L.Ed. 436 (1947). It was intended that liberal effect be given to the 1963 amendment. Graham v. Pennsylvania Railroad, 119 U.S.App.D.C. 335, 342 F.2d 914 (1964), cert. denied, 381 U.S. 904, 85 S.Ct. 1446, 14 L.Ed.2d 286 (1965). We are constrained to reverse for further proceedings not inconsistent with this opinion. Reversed. The only “party” then
+facts of the prisoner’s case.” Id. (citation and internal quotation marks omitted). “An unreasonable application of federal law is different from an incorrect application of federal law.” Id. (citation and alteration omitted) (emphases in the original). “The federal habeas court may not issue the writ simply because that court concludes in its independent judgment that the relevant state-court decision applied clearly established federal law erroneously or incorrectly.” Id. (citation and internal quotation marks omitted). “A state court’s adjudication is unreasonable only if the federal habeas court concludes that no fairminded jurist could conclude that the adjudication was consistent with established Supreme Court precedent. ...” Id. at 1161-62 (citation omitted). III. DISCUSSION A. Certified Issue—Adequate Notice of the Attempted Rape Special Circumstance Cain contends that habeas relief is warranted because he did not receive adequate notice of the attempted rape special circumstance and the prosecutor improperly relied on an attempted rape special circumstance that was not charged in the information. The Supreme Court has clearly established that a defendant must receive adequate notice of the charges against him. “No principle of procedural due process is more clearly established than that notice of the specific charge, and a chance to be heard in a trial of the issues raised by that charge, if desired, are among the constitutional rights of every accused in a criminal proceeding in all courts, state or federal....” Cole v. Arkansas, 333 U.S. 196, 201, 68 S.Ct. 614, 92 L.Ed. 644 (1948) (citation omitted). Relying on Gautt v.
 
-***short_citations_1:*** 359 F.2d 292
+***short_citations_1:*** 854 F.3d 967
 
-insertion of a “reasonable time” standard. In 1963, the Advisory Committee suggested the present rule and noted: “Present Rule 25(a) (1), together with present Rule 6(b), results in an inflexible requirement that an action be dismissed as to a deceased party if substitution is not carried out within a fixed period measured from the time of the death. The hardships and inequities of this unyielding requirement plainly appear from the cases. * * * The amended rulé establishes a time limit for the motion to substitute based not upon the time of the death, but rather upon the time information of the death is provided by means of a suggestion of death upon the record, i. e. service of a statement of the fact of the death.” See Notes of Advisory Committee on the Civil Rules, 28 U.S.C. Rule 25 (1964). Rule 6(b) of the Federal Rules of Civil Procedure was also amended in 1963 and the prohibition against extending the time for taking action under Rule 25 was eliminated. The Advisory Committee on the Civil Rules noted: “It is intended that the court shall have discretion to enlarge that period.” The amendments of Rules 6(b) and 25(a) (1) provided needed flexibility. It was assumed that discretionary extensions would be liberally granted. Movants under Rule 25 can ordinarily control when a death is “suggested upon the record” and appellants’ attorney was under no obligation to file his affidavit of Staggers’ death on the date he did. He could have filed
+122 L.Ed.2d 203 (1993) (emphasis added). This rule is called the “fundamental miscarriage of justice exception.” Id. Here, Davis has not asserted an actual-innocence claim; that is, he is not arguing “that it is more likely than not that no reasonable juror would have convicted him in the light of ... new evidence.” Schlup v. Delo, 513 U.S. 298, 327, 115 S.Ct. 851, 130 L.Ed.2d 808 (1995). Therefore, the miscarriage-of-justice exception is inapplicable. C. Ripeness Finally, Davis argues that while he “raised a claim challenging his sentence of death under Atkins in previous proceedings, see Davis, 423 F.3d at 878-79, he now, for the first time, raises a claim that Atkins prohibits his actual execution.” According to Davis, his “claim that the Eighth Amendment forbids the execution of an intellectually disabled person was not ripe until his warrant was issued.” We reject this argument. The two cases that Davis relies on—Ford v. Wainwright, 477 U.S. 399, 106 S.Ct. 2595, 91 L.Ed.2d 335 (1986), and Stewart v. Martinez-Villareal, 523 U.S. 637, 118 S.Ct. 1618, 140 L.Ed.2d 849 (1998)—involved the issue of competency, not intellectual disability. In Ford, the Supreme Court held that “the Eighth Amendment prohibits the State from inflicting the penalty of death upon a prisoner who is insane.” 477 U.S. at 410, 106 S.Ct. 2595. In Martinez-Villareal, the Supreme Court held that § 2244’s ban on successive petitions does not apply to a petitioner’s Ford claim that his scheduled execution would violate the Eighth Amendment because he is incompetent.
+
+***short_citations_2:*** 881 F.3d 483
+
+in Moore. Whereas Moore’s intellectual functioning based on IQ was debatable, Hill’s IQ is so low that the Warden concedes that Hill satisfies the first element of the definition. We recognize that Moore was decided after the Ohio Court of Appeals rejected Hill’s Atkins claim in .2008. See State v. Hill, 177 Ohio App.3d 171, 894 N.E.2d 108, 127 (2008). Ordinarily, Supreme Court decisions that post-date a state court’s determination cannot be “clearly established law” for the purposes of AEDPA. Peak v. Webb, 673 F.3d 465, 472 (6th Cir. 2012) (Under AEDPA, the “law in question must have been clearly established at the time the state-court decision became final,, not after.”). However, as discussed in more detail below, we find that Moore’s holding regarding adaptive strengths is merely an application of what was clearly established by Atkins. In light of the Ohio Court of Appeals’ unreasonable determinations under both the adaptive-skills and age-of-onset prongs of the Atkins standard, we REVERSE the judgment of the district court and REMAND the case with instructions to grant the petition and to issue the writ of habeas corpus with respect to Hill’s death sentence. In addition to his Atkins claim, Hill raises an ineffective assistance of counsel claim that attacks his trial counsel’s performance during his state Atkins hearing, a Miranda claim arguing that certain statements should have been suppressed during his trial, a prosecutorial misconduct claim, and a due process claim arguing that Hill was not competent to stand trial at the time
 
 **prev_text:**
-LEVENTHAL, Circuit Judge: The District Court held that Rule 25(a) (1) of the Federal Rules of Civil
-Procedure required dismissal of the plaintiffs’ tort action because defendant’s counsel had filed a
-suggestion of death of the defendant yet plaintiff had not made any substitution of parties within
-90 days. We reverse on the ground that the suggestion of death, which was neither filed by nor
-identified a successor or representative of the deceased, such as an executor or administrator, was
-ineffective to trigger the running of the 90-day period provided by the Rule. Mr. and Mrs. John
-Rende filed an action in the District Court individually and on behalf of their infant son who had
-been struck and injured by Alfred S. Kay while driving his car. On August 27, 1967, defendant Kay
-died. On September 1, 1967, the defendant’s attorney, a term used here to identify the lawyer who
-had been retained by deceased to defend the action, and who had duly entered an appearance as
-attorney for defendant, filed a suggestion of death in the District Court, giving notice to
-plaintiffs’ attorney. That same day there was filed in the Orphans Court for Montgomery County,
-Maryland, residence of the deceased, his will naming his widow as executrix, but the will had not
-been probated, nor any legal representative appointed for the estate at the time of the filing of
-this appeal. Plaintiffs’ attorney was injured on October 14, 1967. On returning to practice early in
-1968, he learned that no successor to defendant Kay had yet been appointed, and he moved to certify
-the case to the ready calendar. The defendant’s attorney opposed this on grounds that discovery
-procedures had not been completed. The case was delayed and placed on the ready calendar as of June
-7, 1968. However, in April 1968, the defendant’s attorney moved in his own name to dismiss the
-action on the ground that Rule 25(a) (1) required plaintiffs to move to substitute a proper party
-for the deceased within 90 days of the suggestion of death. Plaintiffs filed an opposition and
-motion for substitution of the proper party, and sought an extension of the time for substitution as
-allowed by Rule 6(b). At argument, plaintiffs’ counsel asserted the “suggestion of death was
-defective in that it did not list the name of the proper party; that is the legal representative of
-the defendant.” The court responded: “That would not be his burden.” The court dismissed the action
-with prejudice. Prior to its amendment in 1963, Rule 25(a) (1) required the court to dismiss a case
-if no motion for substitution was filed within two. years after date of death, and no extensions of
-this period were allowed under Rule 6(b). The rule was rigorously applied, often with harsh results,
-and was called “easily the poorest rule of all the Federal Rules.” In 1955 the Advisory Committee on
-Rules for Civil Procedure recommended that the two-year period be changed to a “reasonable time”
-standard. In 1961 the Advisory Committee on Civil Rules again suggested the Rule be made more
-flexible. In 1963 the Supreme Court made changes in Rule 25(a) (1) and in Rule 6(b) so as to provide
-a 90-day time limit from the filing of a suggestion of death, and to give the court discretion to
-extend that time. The Committee Notes explaining the amendments state: Present Rule 25(a) (1),
-together with present Rule 6(b), results in an inflexible requirement that an action be dismissed as
-to a deceased party if substitution is not carried out within a fixed period measured from the time
-of death. The hardships and inequities of this unyielding requirement plainly appear from the cases.
-* * * The amended rule establishes a time limit for the motion to substitute based not upon the time
-of the death, but rather upon the time information of the death is provided by means of a suggestion
-of death upon the record. * * * A motion to substitute may be made by any party or by the
-representative of the deceased party without awaiting the suggestion of death. Indeed, the motion
-will usually be so made. If a party or the representative of the deceased party desires to limit the
-time within which another may make the motion, he may do so by suggesting the death upon the record.
-(Emphasis added.) Under the amended Rule either a party or “the successors or representatives of the
-deceased party” may avoid delay in effecting substitution for the deceased party either by filing a
-motion for substitution or by suggesting death on the record and thus triggering the 90-day period
-which begins with suggestion of death. The Advisory Committee, in outlining that suggestion of death
-could be made by “the representative of the deceased party” plainly contemplated that the suggestion
-emanating from the side of the deceased would identify a representative of the estate, such as an
-executor or administrator, who could be substituted for the deceased as a party, with the action
-continued in the name of the representative. The addition of “successor” in the Rule would take care
-of the case of, say, the distributee of an estate that had been distributed, but would not make a
-material difference in the aspect under consideration. Form 30, for suggestion of death, which was
-provided in order to expedite and facilitate implementation of the amendment, provides: A.B.
-[described as a party, or as executor, administrator, or other representative or successor of C.D.,
-the deceased party\ suggests upon the record, pursuant to Rule 25(a) (1), the death of C.D.
-[describe as party] during the pendency of this action. Added Jan. 21, 1963, eff. July 1, 1963.
-[Emphasis added.] Although the attorney for the defendant was retained to “represent” the deceased
-as his counsel, he is not a person who could be made a party, and is not a “representative of the
-deceased party” in the sense contemplated by Rule 25(a) d). In our opinion the Rule, as amended,
-cannot fairly be construed, as the de fendant’s attorney argues, to make his suggestion of death
-operative to trigger the 90-day period even though he was neither a successor nor representative of
-the deceased, and gave no indication of what person was available to be named in substitution as a
-representative of the deceased. Counsel’s construction would open the door to a tactical maneuver to
-place upon the plaintiff the burden of locating the representative of the estate within 90 days. We
-can conceive of cases wherein even the lawyer retained to represent a defendant might know the
-defendant had died, yet not readily know where his estate would be administered. In the present
-case, plaintiff’s attorney did know the court of probate, but he did not know whether probate of the
-will might be contested, or who would be appointed representative of the estate. The tactic of the
-defendant’s attorney would place on plaintiff the burden, where no conventional representative was
-appointed for the estate in probate court, of instituting machinery in order to produce some
-representative of the estate ad litem, pending appointment of the representative contemplated by law
-of the domicile of the deceased.
+EDITH H. JONES, Circuit Judge: This case was remanded from the Supreme Court of the United States
+for reconsideration in light of its decision in Moore v. Texas , --- U.S. ----, 137 S.Ct. 1039, 197
+L.Ed.2d 416 (2017). There, on direct appeal, the Supreme Court held that the Briseño factors "may
+not be used ... to restrict qualification of an individual as intellectually disabled." Moore , 137
+S.Ct. at 1044 ; see Ex parte Briseño , 135 S.W.3d 1, 3 (Tex. Crim. App. 2004), abrogated by Moore v.
+Texas , --- U.S. ----, 137 S.Ct. 1039, 197 L.Ed.2d 416 (2017). Because applying Moore retroactively
+to this case contradicts the Court's recent decision in Shoop v. Hill, --- U.S. ----, 139 S. Ct.
+504, --- L.Ed.2d ---- (2019), we affirm the district's court's judgment BACKGROUND Obie Weathers III
+was convicted of the 2000 capital murder of Ted Church and was sentenced to death for that crime.
+His conviction and sentence were affirmed on direct appeal, Weathers v. State, 2003 WL 22410067
+(Tex. Crim. App. Oct. 22, 2003). Then followed two rounds of state habeas review, the last of which
+concerned his Atkins claim and was resolved against him in 2014. In Weathers v. Davis, 659 F. App'x
+778 (5th Cir. 2016), cert. granted , judgment vacated , --- U.S. ----, 138 S.Ct. 315, 199 L.Ed.2d
+203 (2017), this court denied a COA to appeal the federal district court's rejection of habeas
+relief on his Atkins claim. Weathers sought certiorari from the Supreme Court, urging for the first
+time that Texas's Briseño factors used as an adjunct to clinical findings of mental retardation were
+unconstitutional. In light of Moore , the Supreme Court granted his petition and remanded the case
+to this court for further consideration. We granted a COA and obtained additional briefing from both
+parties to consider whether the state courts' rejection of Weathers's Atkins claim was reasonable in
+light of Moore . In 2016, this court summarized the facts of this case: After a crime spree
+involving a string of burglaries, theft, one murder, and one sexual assault of an elderly man over
+the course of just a few months, one evening in February, 2000, Weathers entered Pierce's Ice House,
+a tavern in San Antonio, Texas, wielding a handgun and concealing his face with a pillowcase with
+eyeholes cut out. Weathers informed the patrons that he intended to rob the ice house, but he told
+the three black men present to remain calm because he only wanted to rob the white individuals.
+Weathers robbed the white patrons, then ordered a waitress at gun point to empty the cash register.
+While the waitress was carrying the till to Weathers, she stumbled and Weathers pointed his gun at
+her head. At this time, one of the bar patrons, Ted Church ... swung at and grabbed Weathers. In the
+ensuing struggle, Weathers shot Church twice in the head and once in the abdomen. Weathers fled with
+over two-hundred dollars, but he was apprehended eleven days later and confessed to this and other
+crimes. Church was rushed to the hospital and underwent multiple surgeries, but he died weeks later
+from irreparable damages to his pancreas caused by the gunshot wound. Weathers , 659 F. App'x at
+779-80. This court's 2016 opinion discusses at length Weathers's various appeals and concluded that
+reasonable jurists could not debate the district court's denial of his Atkins -claim. That opinion
+also examines the facts underlying his contention that the state court inappropriately credited the
+State's medical expert while discrediting Weathers's expert. This court also noted "the dearth of
+evidence concerning the third prong of Briseño (adopting the AAMR), whether any intellectual
+disability and adaptive deficits were evident before age 18." Weathers , 659 F. App'x at 789.
+DISCUSSION We granted a COA on remand from the Supreme Court, received further briefing, and
+reviewed the district court's findings of fact for clear error and its conclusions of law de novo.
+Martinez v. Johnson, 255 F.3d 229, 237 (5th Cir. 2001). To obtain federal habeas relief from state
+custody, AEDPA requires the petitioner to demonstrate that the state court's adjudication of the
+claim "resulted in a decision that was contrary to, or involved an unreasonable application of,
+clearly established Federal law," 28 U.S.C. § 2254(d)(1), or "resulted in a decision that was based
+on an unreasonable determination of the facts in light of the evidence presented in the State court
+proceeding," id. § 2254(d)(2). Williams v. Stephens , 761 F.3d 561, 566 (5th Cir. 2014). Events
+following the remand have rendered further discussion of many of the parties' arguments unnecessary.
+We adhere to this court's previous decision because the Supreme Court has just affirmed that lower
+courts may not properly apply Moore retroactively in habeas corpus to state court decisions that
+preceded it. Shoop v. Hill, 139 S. Ct. at 506 (holding that Moore was not "clearly established law"
+under AEDPA regarding execution of the mentally disabled in 2008 when the Ohio Court of Appeals
+rejected a petitioner's Atkins claim).
 
 

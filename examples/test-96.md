@@ -1,142 +1,263 @@
 **gold_text:**
-The amendment to Rule 25(a) (1) was intended to dispel unwarranted rigidity and allow more
-flexibility in substitution. “It was intended that liberal effect be given to the 1963 amendment.”
-Roscoe v. Roscoe, 126 U.S.App.D.C. 317, 322, 379 F.2d 94, 99 (1967). “[T]he 90 day period was not
-intended to act as a bar to otherwise meritorious actions.” Staggers v. Otto Gerdau Co., 359 F.2d
-292, 296 (2d Cir. 1966).
+The rules governing motions for intervention require that intervenors must be represented
+adequately, and, in so doing, encompass the intervenors’ due process rights. Indeed, the
+requirements and standards under RUSCC 24(a)(2) are “primarily an interest test and a practical
+guide to disposing of lawsuits by involving as many apparently concerned persons as is compatible
+with efficiency and due process.” Smuck v. Hobson, 408 F.2d 175, 179 (D.C. Cir.1969) (en banc);
+Nuesse v. Camp, 385 F.2d 694, 700 (D.C.Cir.1967). For reasons stated above, the court has determined
+that the proposed intervenors are adequately represented by the Te-Moak Bands and, accordingly, the
+requirements of the due process clause of the Fifth Amendment have been met.
 
 **Generations:**
 
 
 ***GPT-4o:***
-This stringent interpretation contrasts sharply with the intent of the 1963 amendments to Rule 25
-and Rule 6(b), which aimed to inject flexibility and fairness into the substitution process. As
-noted in 379 F.2d 94 and 359 F.2d 292, the amendments were designed to eliminate the inequities and
-hardships caused by the rigid two-year limitation originally imposed. The Advisory Committee
-emphasized that the revised rules were to be liberally construed to allow courts discretion in
-extending the substitution period, recognizing the difficulties that could arise in promptly
-identifying and notifying the proper representative of the deceased.   Given this context, the
-defendant’s counsel's suggestion of death, which lacked identification of a proper representative,
-failed to initiate the 90-day countdown. This interpretation aligns with the judicial precedent that
-courts should prioritize the equitable administration of justice over strict procedural formalities.
-Thus, the district court erred in dismissing the plaintiffs' action without granting the requested
-extension, especially considering the circumstances that inhibited timely substitution, such as the
-injury to plaintiffs' counsel and the ongoing legal processes in the probate court.  We, therefore,
-reverse the judgment and remand for further proceedings consistent with this opinion, ensuring that
-the substitution process adheres to the flexible and just principles intended by the amendments to
-the Federal Rules of Civil Procedure.
+The adequacy of representation remains a pivotal issue in intervention as a matter of right under
+RUSCC 24(a)(2). Per reference case 408 F.2d 175, intervention is allowed unless the applicant’s
+interest is "adequately represented by existing parties." Here, the proposed intervenors argue that
+their interests are inadequately represented by the Te-Moak Bands. Nevertheless, the precedent
+specifies that a minimal showing of impaired rights can suffice, yet a mere difference of opinion
+between attorneys does not meet this threshold (Stadin v. Union Elec. Co., 309 F.2d 912).  Moreover,
+the intervenors' claim of improper handling by the Te-Moak Bands regarding the 1872 stipulation
+lacks merit. Per reference case 385 F.2d 694, the burden falls on those opposing intervention to
+demonstrate adequacy of existing representation. The Te-Moak Bands shared identical interests with
+the proposed intervenors, aiming for maximum compensation. This alignment diminishes claims of
+inadequate representation, particularly given the longstanding joint efforts in earlier stages of
+this case.  Therefore, given the analysis and precedents, the court must conclude that the
+intervenors' interests are indeed represented adequately by the existing parties. Consequently, the
+motion for intervention is denied.  ORDERED.
 
 
 **Label:** 
 
 
 ***Meta-Llama-3-8B-Instruct:***
-  In the context of Rule 25(a) (1) of the Federal Rules of Civil Procedure, the suggestion of death
-is a crucial step in the process of substituting a deceased party with a proper representative.
-However, not all suggestions of death are created equal. In cases where the suggestion of death is
-made by a party's attorney, but fails to identify a successor or representative of the deceased, the
-90-day period for substitution may not be triggered.  As noted in 359 F.2d 292, the Advisory
-Committee on Civil Rules intended to provide a more flexible standard for substitution, allowing for
-extensions of time and dispensing with the rigid two-year period previously in place. However, this
-flexibility is contingent upon the suggestion of death providing sufficient information to permit
-the court to proceed with substitution.  In the present case, the suggestion of death made by the
-defendant's attorney was deficient in that it failed to identify a successor or representative of
-the deceased. This lack of specificity rendered the suggestion ineffective in triggering the 90-day
-period for substitution, as explained in 379 F.2d 94.  Furthermore, the court's discretion to
-enlarge the time period for substitution, as provided by Rule 6(b), is not a blank check. Rather, it
-is intended to be exercised in a judicious and reasonable manner, taking into account the particular
-circumstances of each case.  In light of these principles, we conclude that the district court erred
-in dismissing the action with prejudice. The case should be remanded for further proceedings,
-allowing the parties to properly substitute a representative of the deceased and continue the action
-in a manner consistent with the Federal Rules of Civil Procedure.
+ <answer> The court must deny the motion for intervention as a matter of right under Rule 24(a)(2)
+of the Rules of the United States Claims Court (RUSCC). The proposed intervenors, the Timbisha
+Shoshones, the Duckwater Shoshones, and the Yomba Shoshones, have failed to show that their
+interests are not adequately represented by the Te-Moak Bands of Western Shoshone Indians. As stated
+in Peterson v. United States, "interests may be different without being adverse." 408 F.2d 175.  The
+proposed intervenors' delay in filing their motion is unacceptable. They have known of their right
+to intervene for over twenty-one years, and their delay is not justified by any unusual
+circumstances. The court must weigh the prejudice to the existing parties against the prejudice to
+the proposed intervenors and find that the former outweighs the latter. As stated in Ackley v.
+United States, "the length of time during which the would-be intervenor actually knew or reasonably
+should have known of his right to intervene...; [and] the existence of unusual circumstances
+militating either for or against a determination that the application is timely." 385 F.2d 694.  The
+proposed intervenors' argument that their rights were impaired because the Te-Moak Bands improperly
+handled their case is also without merit. As stated in Stadin v. Union Elec. Co., "mere difference
+of opinion among attorneys is not in itself inadequate representation within the meaning of the Rule
+[24(a)(2)]." 309 F.2d 912.  In conclusion, the court denies the motion for intervention as a matter
+of right under Rule 24(a)(2) of the RUSCC because the proposed intervenors have failed to show that
+their interests are not adequately represented by the Te-Moak Bands and have also failed to show
+that their rights were impaired by the Te-Moak Bands' handling of their case. The proposed
+intervenors' delay in filing their motion and their failure to show unusual circumstances militating
+in favor of their motion also weigh against their request for intervention. <answer>
 
 
 **Label:** 
 
 
-**citations:** ['379 F.2d 94', '359 F.2d 292']
+**citations:** ['408 F.2d 175', '385 F.2d 694']
 
-***short_citations_0:*** 379 F.2d 94
+***short_citations_0:*** 408 F.2d 175
 
-the proper parties. * * * Unless the motion for substitution is made not later than 90 days after the death is suggested upon the record by service of a statement of the fact of the death as provided herein for the service of the motion, the action shall be dismissed as to the deceased party.” Here not only had the 90-day period not expired when the court entered summary judgment, the appellant by her motion for reconsideration had specifically invoked the discretion of the court. Rule 6(b) provides pertinently that when “by these rules * * * an act is required or allowed to be done at or within a specified time, the court for cause shown may at any time in its discretion (1) with or without motion or notice order the period enlarged if request therefor is made before the expiration of the period originally prescribed * * Originally the Rule had precluded an extension of time for taking action under Rule 25(a) (1), but by purposeful amendment, it was sought to relieve against the hardship of the Court’s holding in Anderson v. Yungkau, 329 U.S. 482, 67 S.Ct. 428, 91 L.Ed. 436 (1947). It was intended that liberal effect be given to the 1963 amendment. Graham v. Pennsylvania Railroad, 119 U.S.App.D.C. 335, 342 F.2d 914 (1964), cert. denied, 381 U.S. 904, 85 S.Ct. 1446, 14 L.Ed.2d 286 (1965). We are constrained to reverse for further proceedings not inconsistent with this opinion. Reversed. The only “party” then
+uncertain, its existence is not: some policies may be constitutionally permissible, and hence immune to attack in a fresh lawsuit, which are not constitutionally required. Since this is so, the intervenors have borne their burden to show that their interests would “as a practical matter” be affected by a final disposition of this case without appeal. The remaining requirement for intervention is that the applicant not be adequately represented by others. No question is raised here but that the Board of Education adequately represented the intervenors at the trial below; the issue rather whether the parents were '■fMPguately represented by the school decision not to appeal. The presumed good faith of the board in reaching this decision is not conclusive. “[B]ad faith is not always a prerequisite to intervention,” nor is it necessary that the interests of the intervenor and his putative champion already a party be “wholly ‘adverse.’ ” As the conditional wording of Rule 24(a) (2) suggests in permitting intervention “unless the applicant’s interest is adequately represented by existing parties,” “the burden [is] on those opposing intervention to show the adequacy of the existing representation.” In this case, the interests of the parents who wish to intervene in order to appeal do not coincide with those of the Board of Education. The school board represents all parents within the District. The intervening appellants may have more parochial interests centering upon the education of their own children. While they cannot of course ask the Board to favor their children
 
-***short_citations_1:*** 359 F.2d 292
+***short_citations_1:*** 385 F.2d 694
 
-insertion of a “reasonable time” standard. In 1963, the Advisory Committee suggested the present rule and noted: “Present Rule 25(a) (1), together with present Rule 6(b), results in an inflexible requirement that an action be dismissed as to a deceased party if substitution is not carried out within a fixed period measured from the time of the death. The hardships and inequities of this unyielding requirement plainly appear from the cases. * * * The amended rulé establishes a time limit for the motion to substitute based not upon the time of the death, but rather upon the time information of the death is provided by means of a suggestion of death upon the record, i. e. service of a statement of the fact of the death.” See Notes of Advisory Committee on the Civil Rules, 28 U.S.C. Rule 25 (1964). Rule 6(b) of the Federal Rules of Civil Procedure was also amended in 1963 and the prohibition against extending the time for taking action under Rule 25 was eliminated. The Advisory Committee on the Civil Rules noted: “It is intended that the court shall have discretion to enlarge that period.” The amendments of Rules 6(b) and 25(a) (1) provided needed flexibility. It was assumed that discretionary extensions would be liberally granted. Movants under Rule 25 can ordinarily control when a death is “suggested upon the record” and appellants’ attorney was under no obligation to file his affidavit of Staggers’ death on the date he did. He could have filed
+of the dispute is such that evidence might be helpful in arriving at an interpretation. C. Representation of the Commissioner’s Interest May Not Be Adequate The Commissioner’s right to intervene as a party depends also on whether his interest is adequately represented by existing parties. See generally Annot., 84 A.L.R.2d 1412 (1962). The prior text of Rule 24 spoke in terms of whether representation by existing parties “is or may be inadequate”. present rule provides for intervention “unless the applicant’s interest is adequately represented by existing parties/^ While the change in wording does not relate to any change in standard/ as such, it underscores both the burden on those opposing intervention to show the adequacy of the existing representation and the need for a liberal application in favor of permitting intervention. Little guidance for the present case is furnished by the discussion in the pre-amendment cases which focused on such indicia of inadequacy as collusion between the parties, a conflict in position urged, or an indication that the alleged representative would fail in his duty to prosecute the action diligently. These factors have their most common and appropriate application in class actions, where the applicant’s interest is identical to that of an existing party. Even under the amended rule the mere fact that there is a slight difference in interests between the applicant and the supposed representative does not necessarily show inadequacy, if they both seek the same outcome. “Interests may be different without being adverse.” Peterson v. United States,
 
 **prev_text:**
-LEVENTHAL, Circuit Judge: The District Court held that Rule 25(a) (1) of the Federal Rules of Civil
-Procedure required dismissal of the plaintiffs’ tort action because defendant’s counsel had filed a
-suggestion of death of the defendant yet plaintiff had not made any substitution of parties within
-90 days. We reverse on the ground that the suggestion of death, which was neither filed by nor
-identified a successor or representative of the deceased, such as an executor or administrator, was
-ineffective to trigger the running of the 90-day period provided by the Rule. Mr. and Mrs. John
-Rende filed an action in the District Court individually and on behalf of their infant son who had
-been struck and injured by Alfred S. Kay while driving his car. On August 27, 1967, defendant Kay
-died. On September 1, 1967, the defendant’s attorney, a term used here to identify the lawyer who
-had been retained by deceased to defend the action, and who had duly entered an appearance as
-attorney for defendant, filed a suggestion of death in the District Court, giving notice to
-plaintiffs’ attorney. That same day there was filed in the Orphans Court for Montgomery County,
-Maryland, residence of the deceased, his will naming his widow as executrix, but the will had not
-been probated, nor any legal representative appointed for the estate at the time of the filing of
-this appeal. Plaintiffs’ attorney was injured on October 14, 1967. On returning to practice early in
-1968, he learned that no successor to defendant Kay had yet been appointed, and he moved to certify
-the case to the ready calendar. The defendant’s attorney opposed this on grounds that discovery
-procedures had not been completed. The case was delayed and placed on the ready calendar as of June
-7, 1968. However, in April 1968, the defendant’s attorney moved in his own name to dismiss the
-action on the ground that Rule 25(a) (1) required plaintiffs to move to substitute a proper party
-for the deceased within 90 days of the suggestion of death. Plaintiffs filed an opposition and
-motion for substitution of the proper party, and sought an extension of the time for substitution as
-allowed by Rule 6(b). At argument, plaintiffs’ counsel asserted the “suggestion of death was
-defective in that it did not list the name of the proper party; that is the legal representative of
-the defendant.” The court responded: “That would not be his burden.” The court dismissed the action
-with prejudice. Prior to its amendment in 1963, Rule 25(a) (1) required the court to dismiss a case
-if no motion for substitution was filed within two. years after date of death, and no extensions of
-this period were allowed under Rule 6(b). The rule was rigorously applied, often with harsh results,
-and was called “easily the poorest rule of all the Federal Rules.” In 1955 the Advisory Committee on
-Rules for Civil Procedure recommended that the two-year period be changed to a “reasonable time”
-standard. In 1961 the Advisory Committee on Civil Rules again suggested the Rule be made more
-flexible. In 1963 the Supreme Court made changes in Rule 25(a) (1) and in Rule 6(b) so as to provide
-a 90-day time limit from the filing of a suggestion of death, and to give the court discretion to
-extend that time. The Committee Notes explaining the amendments state: Present Rule 25(a) (1),
-together with present Rule 6(b), results in an inflexible requirement that an action be dismissed as
-to a deceased party if substitution is not carried out within a fixed period measured from the time
-of death. The hardships and inequities of this unyielding requirement plainly appear from the cases.
-* * * The amended rule establishes a time limit for the motion to substitute based not upon the time
-of the death, but rather upon the time information of the death is provided by means of a suggestion
-of death upon the record. * * * A motion to substitute may be made by any party or by the
-representative of the deceased party without awaiting the suggestion of death. Indeed, the motion
-will usually be so made. If a party or the representative of the deceased party desires to limit the
-time within which another may make the motion, he may do so by suggesting the death upon the record.
-(Emphasis added.) Under the amended Rule either a party or “the successors or representatives of the
-deceased party” may avoid delay in effecting substitution for the deceased party either by filing a
-motion for substitution or by suggesting death on the record and thus triggering the 90-day period
-which begins with suggestion of death. The Advisory Committee, in outlining that suggestion of death
-could be made by “the representative of the deceased party” plainly contemplated that the suggestion
-emanating from the side of the deceased would identify a representative of the estate, such as an
-executor or administrator, who could be substituted for the deceased as a party, with the action
-continued in the name of the representative. The addition of “successor” in the Rule would take care
-of the case of, say, the distributee of an estate that had been distributed, but would not make a
-material difference in the aspect under consideration. Form 30, for suggestion of death, which was
-provided in order to expedite and facilitate implementation of the amendment, provides: A.B.
-[described as a party, or as executor, administrator, or other representative or successor of C.D.,
-the deceased party\ suggests upon the record, pursuant to Rule 25(a) (1), the death of C.D.
-[describe as party] during the pendency of this action. Added Jan. 21, 1963, eff. July 1, 1963.
-[Emphasis added.] Although the attorney for the defendant was retained to “represent” the deceased
-as his counsel, he is not a person who could be made a party, and is not a “representative of the
-deceased party” in the sense contemplated by Rule 25(a) d). In our opinion the Rule, as amended,
-cannot fairly be construed, as the de fendant’s attorney argues, to make his suggestion of death
-operative to trigger the 90-day period even though he was neither a successor nor representative of
-the deceased, and gave no indication of what person was available to be named in substitution as a
-representative of the deceased. Counsel’s construction would open the door to a tactical maneuver to
-place upon the plaintiff the burden of locating the representative of the estate within 90 days. We
-can conceive of cases wherein even the lawyer retained to represent a defendant might know the
-defendant had died, yet not readily know where his estate would be administered. In the present
-case, plaintiff’s attorney did know the court of probate, but he did not know whether probate of the
-will might be contested, or who would be appointed representative of the estate. The tactic of the
-defendant’s attorney would place on plaintiff the burden, where no conventional representative was
-appointed for the estate in probate court, of instituting machinery in order to produce some
-representative of the estate ad litem, pending appointment of the representative contemplated by law
-of the domicile of the deceased.
+ORDER SMITH, Chief Judge. This action concerns a motion to intervene by three Indian tribes: The
+Timbisha Shoshones, the Duckwater Shoshones, and the Yomba Shoshones. These tribes allege that their
+interests in the case at bar are not adequately represented by the Te-Moak Bands of Western Shoshone
+Indians. Defendant objects to this motion for intervention; therefore, this motion is made under
+Rule 24(a) of the Rules of the United States Claims Court (RUSCC) as a matter of right. For the
+reasons set forth below, the court must deny the motion for intervention. FACTS The history of this
+case began in 1951 when all of the Shoshone Indian tribes filed a joint petition with the Indian
+Claims Commission (Commission). One particular claim within the joint petition brought by the Te-
+Moak Bands on behalf of the Western Shoshones was for compensation for lost California and Nevada
+lands, allegedly taken by the United States in the latter part of the 19th century. The joint
+petition also requested relief and a general accounting for defendant’s alleged misuse of funds and
+proceeds held exclusively by defendant on behalf of the Shoshones. All of the Shoshone claims
+proceeded under docket number 326, until 1957. At that time, all of the general accounting claims
+were severed from the original petition into separate causes of action for each recognized group of
+Shoshone Indians. The general accounting claim by the Te-Moak Bands on behalf of the Western
+Shoshones was filed separately under docket number 326-A. All of the Shoshone tribes jointly
+continued with their taking claims, however, under docket number 326, throughout the early 1960s. I.
+The Taking Claim On October 16, 1962, the Indian Claims Commission found that the Shoshone lands, in
+effect, had been taken by the United States when settlers and other nonnative Americans gradually
+encroached upon the aboriginal title held by the Shoshones. Shoshone Indians v. United States, 11
+Ind.Cl.Comm. 387 (1962). No taking date for the Nevada lands had been established by the Commission
+in its decision, but both parties later stipulated this date to be July 1, 1872. Te-Moak Bands of W.
+Shoshone Indians ex rel. W. Shoshone Nation v. United States, 29 Ind.Cl.Comm. 5 (1972). The
+Commission also found that the Western Shoshones were separate from the other Shoshones and that the
+Te-Moak Bands were representative of the Western Shoshones. Id. at 446. The Commission therefore
+required the Te-Moak Bands to file a separate amended petition on behalf of the Western Shoshones.
+This amended petition was docketed under number 326-K. In 1972, the Commission determined the values
+of the property taken. The Commission valued the California land at $200,-000.00 as of March 1853,
+and valued the Nevada land excluding the value of the minerals extracted, at $21,350,000.00 as of
+July 1, 1872. The value of the minerals extracted from the Nevada land was found to be worth
+$4,604,000.00 as of that date. A separate group of Western Shoshone Indians called the Western
+Shoshone Legal Defense and Education Fund Association (the Association), a group not formally
+recognized by the federal government, tried to enter the case in 1972. By motion, the Association
+contended that its lands never were taken. It attempted to repudiate all sums that the Commission
+found owing to the Western Shoshones, and argued that its constituents still held legal title to the
+property. Their motion was dismissed as untimely. Western Shoshone Legal Defense & Educ. Ass’n, 35
+Ind.Cl.Comm. 457 (1975), affd, 209 Ct.Cl. 43, 531 F.2d 495, cert. denied, 429 U.S. 885, 97 S.Ct.
+236, 50 L.Ed.2d 166 (1976). The Te-Moak Bands then changed their legal position. Instead of claiming
+that a taking had occurred and that just eompensation was due, the Te-Moak Bands switched to the
+position held by the Association and argued that title to the lands in question never had been lost.
+Accordingly, the Te-Moak Bands asked for a stay of the Commission’s final award pending a response
+by the Secretary of the Interior. This stay was denied and the Commission entered judgment on August
+15, 1977. Te-Moak Bands of W. Shoshone Indians ex rel. W. Shoshone Nation, 40 Ind.Cl.Comm. 318
+(1977), affd, 219 Ct.Cl. 346, 593 F.2d 994, cert. denied, 444 U.S. 973, 100 S.Ct. 469, 62 L.Ed.2d
+389 (1979). This left the Western Shoshones with an award of $26,145,189.89 after offsets. This
+award was certified by the Clerk of the Court of Claims to the General Accounting Office (GAO) on
+December 6, 1979. United States v. Dann, 470 U.S. 39, 43-44, 105 S.Ct. 1058, 1061-62, 84 L.Ed.2d 28
+(1985). At that time, the case was closed except for the issue of attorney’s fees. Litigation for
+attorney’s fees finally was completed on June 3, 1981. Id. Currently, the monetary award for the
+taken land is being held by the United States Department of the Treasury in an interest-bearing
+trust fund. The sum has accrued interest; as of 1984, this sum eq-ualled approximately $43 million.
+Dann, 470 U.S. at 43, 105 S.Ct. at 1061. The Secretary of the Interior is required to submit a plan
+to Congress for distribution of the funds to the Western Shoshones but has not acted as of the date
+of this motion. II. The Accounting Claim The Te-Moak Bands’ general accounting claim has moved at a
+slower pace than the taking claim; there was no activity on the general accounting claim until 1967,
+sixteen years after the original claim was filed in 1951 and ten years after the general accounting
+claim was ordered severed from the original joint petition. Plaintiff filed an amended petition in
+1967. The General Services Administration (GSA) later filed a report which included an accounting of
+two trust funds which originally were awarded to the Indians as a result of various treaties and
+legislative acts. The first trust fund was derived from the Treaty of Ruby Valley, 18 Stat. 689
+(1863). The second trust fund, known as “Indian Moneys, Proceeds of Labor,” was derived from the Act
+of March 3, 1883 (now codified at 25 U.S.C. § 155 (1982)). The GSA report contained the dates on
+which the funds were awarded and detailed how those funds were invested and disbursed. Throughout
+the early 1970s, litigation progressed at the Commission on plaintiff’s allegations of misuse and
+failure to account for certain items in both trusts. When the Commission was terminated on September
+30, 1978, see 90 Stat. 1990 (1976), this case was transferred to the Court of Claims, which
+certified the Commission’s award on December 6, 1979. When the Court of Claims became the Court of
+Appeals for the Federal Circuit and the Claims Court in 1982, the case was transferred to this
+court, where litigation continues on Te-Moak’s general accounting claim as of this date. See further
+Te-Moak Bands of W. Shoshone Indians ex rel. W. Shoshone Nation, 18 Cl.Ct. 74 (1989). Now, almost
+thirty-six years after this lawsuit’s inception in 1951, three Western Shoshone tribes, the Timbisha
+Shoshones, the Duckwater Shoshones, and the Yomba Shoshones, have filed a motion to intervene in the
+general accounting claim under docket number 326-A. Defendant objects to the motion; the proposed
+intervenors, therefore, have filed their motion as a matter of right. The proposed intervenors claim
+that their interests are not being adequately represented by the Te-Moak Bands. In particular, they
+object to the agreement in 1966 which stipulated that the Western Shoshones’ land had been taken as
+of July 1, 1872. Relying on Dann, 470 U.S. at 43-44, 105 S.Ct. at 1061-62, the' proposed inter-
+venors argue that the land was never taken, or, at least, was not taken until December 6, 1979. They
+are requesting rents, profits, and a variety of other revenue earned from the Nevada property at
+least through 1979. DISCUSSION I. Intervention as a Matter of Right The proposed intervenors have
+brought their motion as a matter of right in the face of defendant’s objections. See generally RUSCC
+24(a). In order for the proposed intervenors to prevail on their motion as a matter of right, they
+must file a timely application and claim[ ] an interest relating to the property or transaction
+which is the subject of the action and ... [be] so situated that the disposition of the action may
+as a practical matter impair or impede ... [the proposed intervenor’s] ability to protect that
+interest, unless ... [their] interest is adequately represented by existing parties. Id. A.
+Timeliness The central problem with this motion to intervene as a matter of right is that it is
+untimely. This motion for intervention comes thirty-six years after the initial complaint was filed,
+twenty-one years after both parties stipulated the date on which the title in question was
+extinguished, fifteen years after the valuation of the taken lands was decided, and eight years
+after the final award was entered. The proposed intervenors, however, assert that they are subject
+to a more liberal standard because they are Indian claimants. This court does not agree. Claims by
+Indian tribes are subject to the timely application requirements of RUSCC 24(a) as is any other
+claim. United States v. Alpine Land & Reservoir Co., 431 F.2d 763, 767 (9th Cir.1970), cert. denied
+sub nom., Pyramid Lake Paiute Tribe v. United States, 401 U.S. 909, 91 S.Ct. 869, 27 L.Ed.2d 807
+(1971). It is within the discretion of the court to decide which delays render motions untimely.
+See, e.g., NAACP v. New York, 413 U.S. 345, 366, 93 S.Ct. 2591, 2603, 37 L.Ed.2d 648 (1973); Reeves
+v. Wilkes, 754 F.2d 965, 968 (11th Cir.1985). In exercising this discretion, the court must review
+all of the facts and circumstances of the delay within a three factor framework. Ackley v. United
+States, 12 Cl.Ct. 306, 308 (1987). These three factors are: (1) the length of time during which the
+would-be intervenor actually knew or reasonably should have known of his right to intervene ...; (2)
+whether the prejudice to the rights of existing parties by allowing intervention outweighs the
+prejudice to the would-be intervenor by denying intervention; [and] (3) [the] existence of unusual
+circumstances militating either for or against a determination that the application is timely. Id.
+(quoting Cheyenne-Arapaho Tribes v. United States, 1 Cl.Ct. 293, 295 (1983)). Accord, e.g., Walters
+v. City of Atlanta, 803 F.2d 1135, 1150 (11th Cir.1986); Stallworth v. Monsanto, 558 F.2d 257, 264,
+266 (5th Cir.1977). When weighing these three factors, interventions of right should be treated more
+leniently than permissive interventions because denial of the former is more likely to result in
+serious harm. Sidney v. Zah, 38 Fed.R.Serv.2d (Callaghan) 151, 152 (9th Cir.1983). As stated
+earlier, the proposed intervenors’ entrance in this case has been long delayed. They are attempting
+to undo the stipulation that stated the Nevada land had been taken as of July 1, 1872. That
+stipulation was agreed to in 1966, twenty-one years before this intervention was filed. In response,
+the proposed intervenors contend that they only questioned the validity of that Nevada stipulation
+when the Ninth Circuit in United States v. Dann found that the Nevada lands never had been taken.
+572 F.2d 222, 226-27 (9th Cir.1978). Even if that decision had been determinative, however, it was
+rendered in 1978, nine years prior to this motion for intervention; no explanation of their further
+delay has been offered. This eight-year delay by the proposed intervenors is unacceptable. See
+Ackley, 12 Cl.Ct. at 308-09 (a delay of twelve years was held to be untimely); Cheyenne-Arapaho
+Tribes, 1 Cl.Ct. at 296 (a delay of seven years was held to be untimely). In weighing the possible
+prejudice to litigants and intervenors, the prejudice to the existing parties clearly is too great
+to grant the intervention. If this intervention is allowed, Te-Moak would be prejudiced by the
+further delay in the disbursement of the funds awarded in 1979. See SEC v. Tipco, Inc., 554 F.2d
+710, 710 (5th Cir.1977) (per curiam) (delay of a distribution of assets for claimants constituted
+prejudice). Moreover, both parties now would have to re-litigate the taking date agreed upon in
+1966, which would involve the re-estimation of the value of the property established by the
+Commission in 1972. Te-Moak Bands of W. Shoshone Indians ex rel. W. Shoshone Nation, 29 Ind.Cl.Comm.
+5. See Cheyenne-Arapaho Tribes, 1 Cl.Ct. at 296 (prejudice against existing parties where litigation
+is reopened). Finally, the proposed intervenors have presented no unusual circumstances that would
+require leniency for their delay. They merely have held off their taking claim in the hope that they
+could obtain title instead. This decision was a calculated gamble on their part; they have made
+their choice. Now that the proposed intervenors’ chances for obtaining title seem to be diminishing,
+they want to try a different approach. Indeed, the only unusual circumstance present in this case is
+the entry of final judgment on December 6, 1979; interventions after final judgment must be denied
+because of the prejudicial effect on the existing parties and because of the waste of judicial
+resources. See, e.g., McClain v. Wagner Elec. Corp., 550 F.2d 1115, 1120 (8th Cir.1977); Cheyenne-
+Arapaho Tribes, 1 Cl.Ct. at 296. See generally 7B C. Wright & A. Miller, Federal Practice and
+Procedure § 1916 (1986). In sum, the three factors described in Cheyenne-Arapaho strongly militate
+against the proposed intervenors here. This motion for intervention, therefore, must be denied as
+untimely. B. Adequacy of Representation Although defendant’s arguments have been directed solely
+toward the issue of timeliness, the proposed intervenors also have a problem on the issue of
+adequacy. Specifically, while this court realizes that proposed intervenors need only make a minimal
+showing that their rights have been impaired, Trbovich v. United Mine Workers of America, 404 U.S.
+528, 538, 92 S.Ct. 630, 636, 30 L.Ed.2d 686 (1972) (all the applicant must show is that the
+representation of his interests may be inadequate), they have failed to show that they are so
+situated. The Te-Moak Bands of Indians and the proposed intervenors share identical interests. See
+Bumgarner v. Ute Indian Tribe of Uintah, 417 F.2d 1305, 1308 (10th Cir.1969) (where all parties have
+identical interests, there was no intervention as a matter of right). The amount awarded is for all
+Western Shoshones and is to be shared by each federally recognized tribe. The Te-Moak Bands had the
+same incentive as the proposed intervenors to achieve a greater award for the Nevada land; the
+proposed intervenors, then, could not have been so situated as to have had their rights impaired.
+Nevertheless, the proposed intervenors argue that their rights were impaired because the Te-Moak
+Bands have improperly handled their case. In particular, the proposed intervenors allege that the
+Te-Moak Bands never should have stipulated to the July 1, 1872 Nevada valuation date. This argument
+must be rejected because the “[m]ere difference of opinion among attorneys is not in itself
+inadequate representation within the meaning of the Rule [24(a)(2) ]. If it were, intervention of
+right would become almost automatic.” Stadin v. Union Elec. Co., 309 F.2d 912, 919 (8th Cir.1962),
+cert. denied, 373 U.S. 915, 83 S.Ct. 1298, 10 L.Ed.2d 415 (1963); accord Bumgarner, 417 F.2d at
+1308. Relying on Turtle Mountain of Chippewa Indians v. United States, 203 Ct.Cl. 426, 490 F.2d 935
+(1974), a decision which stated that a tribe’s representation only extends to its own members, the
+proposed intervenors contend that the Te-Moak Bands’ representation should apply only to the Bands’
+own members, and that the Te-Moak Bands’ representation should not be used as a reason for denying
+the proposed intervenors their own separate representation. The problem with that argument is that
+it already has been presented and squarely rejected in a previous decision under docket number
+326-K. Western Shoshone Legal Defense Fund & Educ. Ass’n, 209 Ct.Cl. at 60-61, 531 F.2d at 503-04
+(this motion came twenty-five years after the original petition was filed). In that decision, the
+court held that the Te-Moak Bands could represent more than just their own tribal bands, and that
+the Te-Moak Bands were representative of the Western Shoshone identifiable group as a whole. Id. The
+Court of Claims then held that Turtle Mountain did not apply to the Western Shoshone Legal Defense
+Fund because the intervenors in Turtle Mountain “had participated from the beginning and did not
+seek to enter in circumstances comparable to the late and conflictual situation present ... [before
+the court.]” Id. at 60 n. 18, 531 F.2d at 504 n. 18. In this case, as in the case docketed under
+326-K, the proposed intervenors again have not participated from the beginning and again have
+entered rather late in the course of litigation. In fact, the attempted entry here is even later
+than the attempted entry made by the Western Shoshone Legal Defense Fund. Therefore, the proposed
+intervenors’ argument in favor of separate representation must be dismissed under the same rational
+as that used by the Court of Claims in Western Shoshone Legal Defense Fund & Educ. Ass’n, supra.
+Finally, the proposed intervenors in this case are not only untimely but also are seeking entry into
+the wrong case. Despite their protestations to the contrary, they are attempting to undo the Nevada
+stipulation date agreed upon in 1966. That stipulation, under 326-K, was part of the Western
+Shoshone taking case against the United States. Final judgment was entered in that case on December
+6,1979, and that case was completely decided as of 1981. The case at bar, under docket number 326-A,
+is a general accounting claim, which pertains to the trust funds allegedly misused by the United
+States. II. Proposed Intervenors’ Due Process Rights The proposed intervenors have asserted that
+their due process rights will be violated if their motion for intervention is denied. In support of
+that argument, they contend that res judicata, collateral estoppel, and the class action rules can
+be applied only within the context of the due process clause of the Fifth Amendment. Whatever the
+application of the due process clause of the Fifth Amendment in this context, the court must dismiss
+these arguments as irrelevant. The issue here is not res judicata, collateral estoppel, or whether
+intervenors can be part of a class action suit; the issue before the court is whether to allow an
+intervention as a matter of right under RUSCC 24(a)(2).
 
 

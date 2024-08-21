@@ -1,142 +1,224 @@
 **gold_text:**
-The amendment to Rule 25(a) (1) was intended to dispel unwarranted rigidity and allow more
-flexibility in substitution. “It was intended that liberal effect be given to the 1963 amendment.”
-Roscoe v. Roscoe, 126 U.S.App.D.C. 317, 322, 379 F.2d 94, 99 (1967). “[T]he 90 day period was not
-intended to act as a bar to otherwise meritorious actions.” Staggers v. Otto Gerdau Co., 359 F.2d
-292, 296 (2d Cir. 1966).
+The Court’s review of the State records in this case shows that petitioner received a fair hearing
+on the merits of his claims in the Missouri courts, and that the Missouri Court of Appeals properly
+applied federal legal standards in all respects. The Court therefore finds that petitioner has not
+carried his burden of showing that the State court findings are not supported by the record. 28
+U.S.C. § 2254(d). His claims may be denied without a hearing. Jones v. Swenson, 469 F.2d 535 (8th
+Cir. 1972); Tyler v. Swenson, 427 F.2d 412 (8th Cir. 1970); Russell v. Wyrick, 395 F.Supp. 643 (W.D.
+Mo.1974); see also, LaVallee v. DelleRose, 410 U.S. 690, 93 S.Ct. 1203, 35 L.Ed.2d 637 (1973).
 
 **Generations:**
 
 
 ***GPT-4o:***
-This stringent interpretation contrasts sharply with the intent of the 1963 amendments to Rule 25
-and Rule 6(b), which aimed to inject flexibility and fairness into the substitution process. As
-noted in 379 F.2d 94 and 359 F.2d 292, the amendments were designed to eliminate the inequities and
-hardships caused by the rigid two-year limitation originally imposed. The Advisory Committee
-emphasized that the revised rules were to be liberally construed to allow courts discretion in
-extending the substitution period, recognizing the difficulties that could arise in promptly
-identifying and notifying the proper representative of the deceased.   Given this context, the
-defendant’s counsel's suggestion of death, which lacked identification of a proper representative,
-failed to initiate the 90-day countdown. This interpretation aligns with the judicial precedent that
-courts should prioritize the equitable administration of justice over strict procedural formalities.
-Thus, the district court erred in dismissing the plaintiffs' action without granting the requested
-extension, especially considering the circumstances that inhibited timely substitution, such as the
-injury to plaintiffs' counsel and the ongoing legal processes in the probate court.  We, therefore,
-reverse the judgment and remand for further proceedings consistent with this opinion, ensuring that
-the substitution process adheres to the flexible and just principles intended by the amendments to
-the Federal Rules of Civil Procedure.
+The Habeas Corpus Petition  Petitioner's petition for writ of habeas corpus under 28 U.S.C. § 2254
+challenges several aspects of his convictions, including the competency of the state court's
+findings and procedural fairness.  Competency Hearing Claim  Petitioner argues that he was denied a
+pre-trial hearing on his competency to stand trial, asserting that this omission deprived him of
+constitutional rights as delineated in Pate v. Robinson, 383 U.S. 375 (1966). However, as
+established in Tyler v. Swenson, 427 F.2d 412 (8th Cir. 1970), and reaffirmed in Townsend v. Sain,
+372 U.S. 293 (1963), the district court need not hold a de novo hearing if the state court's
+findings were sound and thorough. The state court here provided a comprehensive examination of
+petitioner's competency, fulfilling the criteria of 28 U.S.C. § 2254(d), thus negating the necessity
+for additional evidentiary hearings at the federal level.  Voluntariness of the Guilty Plea
+Petitioner contends his guilty plea was involuntary. As held in Tyler v. Swenson, 8 Cir., 469 F.2d
+535, the burden is on the defendant to furnish convincing evidence to dispute the state court’s
+factual resolutions. The record here, including state court findings and federal affirmations,
+supports the determination that petitioner's plea was voluntary.  Federal Review of State Court
+Findings  In line with the ruling in In re Parker, 423 F.2d 1021 (8th Cir. 1970), and as reiterated
+in the Supreme Court’s decision noted in 410 U.S. 690, federal courts afford deference to state
+court findings, presuming them correct unless significant procedural deficiencies are demonstrable.
+Here, no such deficiencies are evident, and therefore the state court’s determinations are upheld.
+Concluding, this Court finds no basis to overturn the previous findings or to warrant an evidentiary
+hearing on the petitioner's claims.  The petition for writ of habeas corpus is thus denied.  SO
+ORDERED.
 
 
 **Label:** 
 
 
 ***Meta-Llama-3-8B-Instruct:***
-  In the context of Rule 25(a) (1) of the Federal Rules of Civil Procedure, the suggestion of death
-is a crucial step in the process of substituting a deceased party with a proper representative.
-However, not all suggestions of death are created equal. In cases where the suggestion of death is
-made by a party's attorney, but fails to identify a successor or representative of the deceased, the
-90-day period for substitution may not be triggered.  As noted in 359 F.2d 292, the Advisory
-Committee on Civil Rules intended to provide a more flexible standard for substitution, allowing for
-extensions of time and dispensing with the rigid two-year period previously in place. However, this
-flexibility is contingent upon the suggestion of death providing sufficient information to permit
-the court to proceed with substitution.  In the present case, the suggestion of death made by the
-defendant's attorney was deficient in that it failed to identify a successor or representative of
-the deceased. This lack of specificity rendered the suggestion ineffective in triggering the 90-day
-period for substitution, as explained in 379 F.2d 94.  Furthermore, the court's discretion to
-enlarge the time period for substitution, as provided by Rule 6(b), is not a blank check. Rather, it
-is intended to be exercised in a judicious and reasonable manner, taking into account the particular
-circumstances of each case.  In light of these principles, we conclude that the district court erred
-in dismissing the action with prejudice. The case should be remanded for further proceedings,
-allowing the parties to properly substitute a representative of the deceased and continue the action
-in a manner consistent with the Federal Rules of Civil Procedure.
+ In the case of Randall v. State, 540 S.W.2d 156 (Mo.App.1976), the court found that the state's
+interest in preventing the damages of narcotic drugs outweighed the defendant's interest in
+practicing his religion. Similarly, in Leary v. United States, 383 F.2d 851 (5th Cir. 1967), the
+court held that the government's interest in preventing the dangers of psychedelic drugs outweighed
+the defendant's religious interest in using them. The court in Kuch v. United States, 288 F.Supp.
+439 (D.D.C.1968), also found that the government's interest in preventing the dangers of LSD
+outweighed the defendant's religious interest in using it.  In the case of 410 U.S. 690, the court
+held that the government's interest in preventing the dangers of drugs outweighed the defendant's
+religious interest in using them. The court in 427 F.2d 412, also held that the government's
+interest in preventing the dangers of drugs outweighed the defendant's religious interest in using
+them.  The court in 469 F.2d 535, found that the government's interest in preventing the dangers of
+drugs outweighed the defendant's religious interest in using them. The court in 540 S.W.2d 156, also
+found that the government's interest in preventing the dangers of drugs outweighed the defendant's
+religious interest in using them.  In conclusion, based on the references provided, it is clear that
+the courts have consistently held that the government's interest in preventing the dangers of drugs
+outweighs the defendant's religious interest in using them. Therefore, it is unlikely that the court
+would grant a writ of habeas corpus based on the defendant's religious beliefs.
 
 
 **Label:** 
 
 
-**citations:** ['379 F.2d 94', '359 F.2d 292']
+**citations:** ['469 F.2d 535', '427 F.2d 412', '410 U.S. 690']
 
-***short_citations_0:*** 379 F.2d 94
+***short_citations_0:*** 469 F.2d 535
 
-the proper parties. * * * Unless the motion for substitution is made not later than 90 days after the death is suggested upon the record by service of a statement of the fact of the death as provided herein for the service of the motion, the action shall be dismissed as to the deceased party.” Here not only had the 90-day period not expired when the court entered summary judgment, the appellant by her motion for reconsideration had specifically invoked the discretion of the court. Rule 6(b) provides pertinently that when “by these rules * * * an act is required or allowed to be done at or within a specified time, the court for cause shown may at any time in its discretion (1) with or without motion or notice order the period enlarged if request therefor is made before the expiration of the period originally prescribed * * Originally the Rule had precluded an extension of time for taking action under Rule 25(a) (1), but by purposeful amendment, it was sought to relieve against the hardship of the Court’s holding in Anderson v. Yungkau, 329 U.S. 482, 67 S.Ct. 428, 91 L.Ed. 436 (1947). It was intended that liberal effect be given to the 1963 amendment. Graham v. Pennsylvania Railroad, 119 U.S.App.D.C. 335, 342 F.2d 914 (1964), cert. denied, 381 U.S. 904, 85 S.Ct. 1446, 14 L.Ed.2d 286 (1965). We are constrained to reverse for further proceedings not inconsistent with this opinion. Reversed. The only “party” then
+the judge’s prior conduct.” (Emphasis in the original.) An examination of the complete record convinces us that petitioner received a full and fair state court hearing on his motion to vacate under the provisions of Rule 27.26, supra, and thus under the principles of Townsend v. Sain, 1963, 372 U.S. 293, 83 S.Ct. 745, 9 L. Ed.2d 770, the District Court was not compelled to hold a de novo evidentiary hearing. Petitioner also contends that his guilty plea was involuntary. Reference is made to the carefully considered opinion of the Supreme Court of Missouri, supra, and the very thorough opinion of the United States District Court, supra, each court having dealt most adequately with petitioner’s contention. It should be noted that there was evidence to support the finding of the state court that petitioner’s plea was made voluntarily. The allegations of the petitioner in his habeas corpus petition do not present the “convincing evidence” necessary to justify a federal court in reviewing a state court’s determination of disputed facts. Tyler v. Swenson, supra, 8 Cir., 1970, 427 F.2d 412, 414-415; In re Parker, 8 Cir., 1970, 423 F.2d 1021, 1027, cert. denied, 398 U.S. 966, 90 S.Ct. 2182, 26 L.Ed.2d 551. Petitioner finally argues that he was denied a pre-trial hearing on the issue of his competency to stand trial and alleges that the lack of such a hearing deprived him of his constitutional rights as outlined in Pate v. Robinson, 1966, 383 U.S. 375, 86 S.Ct. 836, 15 L.Ed.2d
 
-***short_citations_1:*** 359 F.2d 292
+***short_citations_1:*** 427 F.2d 412
 
-insertion of a “reasonable time” standard. In 1963, the Advisory Committee suggested the present rule and noted: “Present Rule 25(a) (1), together with present Rule 6(b), results in an inflexible requirement that an action be dismissed as to a deceased party if substitution is not carried out within a fixed period measured from the time of the death. The hardships and inequities of this unyielding requirement plainly appear from the cases. * * * The amended rulé establishes a time limit for the motion to substitute based not upon the time of the death, but rather upon the time information of the death is provided by means of a suggestion of death upon the record, i. e. service of a statement of the fact of the death.” See Notes of Advisory Committee on the Civil Rules, 28 U.S.C. Rule 25 (1964). Rule 6(b) of the Federal Rules of Civil Procedure was also amended in 1963 and the prohibition against extending the time for taking action under Rule 25 was eliminated. The Advisory Committee on the Civil Rules noted: “It is intended that the court shall have discretion to enlarge that period.” The amendments of Rules 6(b) and 25(a) (1) provided needed flexibility. It was assumed that discretionary extensions would be liberally granted. Movants under Rule 25 can ordinarily control when a death is “suggested upon the record” and appellants’ attorney was under no obligation to file his affidavit of Staggers’ death on the date he did. He could have filed
+(Emphasis ours.) The federal district court, relying upon the state trial judge’s findings and determination, and the affirmance of those findings by the Missouri Supreme Court, as well as upon its own determination from the evidence, denied the petition without further hearing. Under 28 U.S.C.A. § 2254(d) as amended (Supp. 1959-1967), the findings of the state court “shall be presumed to be correct” unless there exists some deficiency in the state court hearing. Once a fair hearing has taken place, the burden is placed upon the defendant to show that the findings are not supported by the record. This court has placed great emphasis upon the independent findings of the state trial judge as to factual disputes in post-conviction matters. See Parker v. Erickson, 423 F.2d 1021 (March 1970, 8 Cir.). The peculiar competence of the trial judge to resolve matters of credibility is of great weight to a reviewing court. Therefore, factual determinations as deduced from the record itself do not serve as a substitute for the findings of a trial judge who conducts the timely examinations and observes the overall manner and demeanor of the witnesses. Assuming the state proceeding was in full compliance with the requirements of 28 U.S.C.A. § 2254(d), then the federal district court’s dismissal of the petitioner’s claim without an evidentiary hearing was entirely proper. Our review, therefore, is simply one to appraise the fact finding procedure in the state court to determine whether there was a “full, fair and adequate hearing.” See Townsend
+
+***short_citations_2:*** 410 U.S. 690
+
+correctness and placed on respondent the burden of establishing by-convincing evidence that the state court’s conclusion was erroneous. The District Court therefore held its own hearing, found both confessions involuntary, and ordered respondent discharged from custody unless retried. A divided panel of the Second Circuit affirmed. The Court of Appeals held that the state court’s opinion did not meet the requisites of 28 U. S. C. § 2254 (d) which provides in relevant part: “[A] determination after a hearing on the merits of a factual issue, made by a State court of competent jurisdiction . . . evidenced by a written finding, written opinion, or other reliable and adequate written indicia, shall be presumed to be correct, unless the applicant shall establish or it shall otherwise appear ... — “(1) that the merits of the factual dispute were not resolved in the State court hearing . . . .” Although it is true that the state trial court did not specifically articulate its credibility findings, it can scarcely be doubted from its written opinion that respondent’s factual contentions were resolved against him. Respondent’s wife was killed by a blast from a sawed-off shotgun device which had been set to shoot through the back of their front car seat. His confessions indicated that because of extreme jealousy, he rigged the device to go off when his wife pulled the car seat forward. For some reason it failed initially; so when he was seated with her in the car, he operated it
 
 **prev_text:**
-LEVENTHAL, Circuit Judge: The District Court held that Rule 25(a) (1) of the Federal Rules of Civil
-Procedure required dismissal of the plaintiffs’ tort action because defendant’s counsel had filed a
-suggestion of death of the defendant yet plaintiff had not made any substitution of parties within
-90 days. We reverse on the ground that the suggestion of death, which was neither filed by nor
-identified a successor or representative of the deceased, such as an executor or administrator, was
-ineffective to trigger the running of the 90-day period provided by the Rule. Mr. and Mrs. John
-Rende filed an action in the District Court individually and on behalf of their infant son who had
-been struck and injured by Alfred S. Kay while driving his car. On August 27, 1967, defendant Kay
-died. On September 1, 1967, the defendant’s attorney, a term used here to identify the lawyer who
-had been retained by deceased to defend the action, and who had duly entered an appearance as
-attorney for defendant, filed a suggestion of death in the District Court, giving notice to
-plaintiffs’ attorney. That same day there was filed in the Orphans Court for Montgomery County,
-Maryland, residence of the deceased, his will naming his widow as executrix, but the will had not
-been probated, nor any legal representative appointed for the estate at the time of the filing of
-this appeal. Plaintiffs’ attorney was injured on October 14, 1967. On returning to practice early in
-1968, he learned that no successor to defendant Kay had yet been appointed, and he moved to certify
-the case to the ready calendar. The defendant’s attorney opposed this on grounds that discovery
-procedures had not been completed. The case was delayed and placed on the ready calendar as of June
-7, 1968. However, in April 1968, the defendant’s attorney moved in his own name to dismiss the
-action on the ground that Rule 25(a) (1) required plaintiffs to move to substitute a proper party
-for the deceased within 90 days of the suggestion of death. Plaintiffs filed an opposition and
-motion for substitution of the proper party, and sought an extension of the time for substitution as
-allowed by Rule 6(b). At argument, plaintiffs’ counsel asserted the “suggestion of death was
-defective in that it did not list the name of the proper party; that is the legal representative of
-the defendant.” The court responded: “That would not be his burden.” The court dismissed the action
-with prejudice. Prior to its amendment in 1963, Rule 25(a) (1) required the court to dismiss a case
-if no motion for substitution was filed within two. years after date of death, and no extensions of
-this period were allowed under Rule 6(b). The rule was rigorously applied, often with harsh results,
-and was called “easily the poorest rule of all the Federal Rules.” In 1955 the Advisory Committee on
-Rules for Civil Procedure recommended that the two-year period be changed to a “reasonable time”
-standard. In 1961 the Advisory Committee on Civil Rules again suggested the Rule be made more
-flexible. In 1963 the Supreme Court made changes in Rule 25(a) (1) and in Rule 6(b) so as to provide
-a 90-day time limit from the filing of a suggestion of death, and to give the court discretion to
-extend that time. The Committee Notes explaining the amendments state: Present Rule 25(a) (1),
-together with present Rule 6(b), results in an inflexible requirement that an action be dismissed as
-to a deceased party if substitution is not carried out within a fixed period measured from the time
-of death. The hardships and inequities of this unyielding requirement plainly appear from the cases.
-* * * The amended rule establishes a time limit for the motion to substitute based not upon the time
-of the death, but rather upon the time information of the death is provided by means of a suggestion
-of death upon the record. * * * A motion to substitute may be made by any party or by the
-representative of the deceased party without awaiting the suggestion of death. Indeed, the motion
-will usually be so made. If a party or the representative of the deceased party desires to limit the
-time within which another may make the motion, he may do so by suggesting the death upon the record.
-(Emphasis added.) Under the amended Rule either a party or “the successors or representatives of the
-deceased party” may avoid delay in effecting substitution for the deceased party either by filing a
-motion for substitution or by suggesting death on the record and thus triggering the 90-day period
-which begins with suggestion of death. The Advisory Committee, in outlining that suggestion of death
-could be made by “the representative of the deceased party” plainly contemplated that the suggestion
-emanating from the side of the deceased would identify a representative of the estate, such as an
-executor or administrator, who could be substituted for the deceased as a party, with the action
-continued in the name of the representative. The addition of “successor” in the Rule would take care
-of the case of, say, the distributee of an estate that had been distributed, but would not make a
-material difference in the aspect under consideration. Form 30, for suggestion of death, which was
-provided in order to expedite and facilitate implementation of the amendment, provides: A.B.
-[described as a party, or as executor, administrator, or other representative or successor of C.D.,
-the deceased party\ suggests upon the record, pursuant to Rule 25(a) (1), the death of C.D.
-[describe as party] during the pendency of this action. Added Jan. 21, 1963, eff. July 1, 1963.
-[Emphasis added.] Although the attorney for the defendant was retained to “represent” the deceased
-as his counsel, he is not a person who could be made a party, and is not a “representative of the
-deceased party” in the sense contemplated by Rule 25(a) d). In our opinion the Rule, as amended,
-cannot fairly be construed, as the de fendant’s attorney argues, to make his suggestion of death
-operative to trigger the 90-day period even though he was neither a successor nor representative of
-the deceased, and gave no indication of what person was available to be named in substitution as a
-representative of the deceased. Counsel’s construction would open the door to a tactical maneuver to
-place upon the plaintiff the burden of locating the representative of the estate within 90 days. We
-can conceive of cases wherein even the lawyer retained to represent a defendant might know the
-defendant had died, yet not readily know where his estate would be administered. In the present
-case, plaintiff’s attorney did know the court of probate, but he did not know whether probate of the
-will might be contested, or who would be appointed representative of the estate. The tactic of the
-defendant’s attorney would place on plaintiff the burden, where no conventional representative was
-appointed for the estate in probate court, of instituting machinery in order to produce some
-representative of the estate ad litem, pending appointment of the representative contemplated by law
-of the domicile of the deceased.
+MEMORANDUM AND ORDER ELMO B. HUNTER, District Judge. Petitioner, currently confined at the Missouri
+State Penitentiary, Jefferson City, has filed a pro se petition for writ of habeas corpus pursuant
+to 28 U.S.C. § 2254, challenging one or both of his drug-related convictions on first amendment
+grounds. In 1973, petitioner was convicted by a jury of selling hashish to an undercover police
+officer and sentenced to ten years imprisonment. In 1974, petitioner was charged with possession of
+marijuana, hashish, and LSD. A jury found him guilty of all three offenses, and he was sentenced to
+five years imprisonment on the hashish charge, four years imprisonment on the marijuana charge and
+fifteen years imprisonment on the LSD charge. Petitioner appealed both convictions. His appeal of
+the 1973 conviction was unsuccessful, State v. Randall, 530 S.W.2d 407 (Mo.App.1975), but in the
+second appeal, the Missouri Court of Appeals found that petitioner could not be convicted of
+possession of both hashish and marijuana. It reversed the hashish conviction but denied petitioner’s
+appeal in all other respects. State v. Randall, 540 S.W.2d 156 (Mo.App.1976). In petitioner’s first
+appeal (after the hashish sale conviction), the Missouri Court of Appeals found that petitioner was
+the religious leader of the Aquarian Brotherhood Church. He lived at the building which also served
+as the Church. An undercover police officer went to the Church and purchased an ounce of hashish
+from petitioner. The officer left the premises, analyzed the hashish, and returned to the Church,
+where he complained to petitioner about the quality of the drug. It appears that petitioner readily
+exchanged the first sample for another and showed the officer “some packets and a suitcase” on
+another floor of the building. Petitioner apparently told the officer that the packages and suitcase
+contained marijuana for use in the manufacture of hashish. 530 S.W.2d at 409. In petitioner’s second
+appeal, the Court of Appeals found that Randall lived in a two-story building . with a third story
+referred to as an attic. A stairway on the outside of the building led to a doorway leading onto the
+second story and entrance to the third floor was obtained through a doorway located on the second
+floor. He stated he slept on the first floor and a Mrs. Stratton lived on the second. However,
+Randall told a police officer the entire dwelling was controlled by the church and he was the
+minister. . . . [TJhere was no indication in the building that it was separated into multiple living
+units. On the date Randall was arrested, police officers wrnnt into the building and mounted the
+outside stairway to the second floor. When Mrs. Stratton opened the door they informed her they had
+a search warrant and immediately entered the second floor and proceeded to the third floor where the
+undercover officer had been shown a large quantity of drugs by Randall, together with laboratory
+equipment used in refining various drugs. Randall was arrested after the officers had gone to the
+third floor and discovered the drugs. 540 S.W.2d 167-68. In various pleadings filed during
+development of this action, petitioner has asserted that: (1) his arrest and conviction violated the
+religious guarantees of the first amendment because the drugs involved in the arrest were used as
+“sacraments” by the Aquarian Brotherhood Church; (2) police officers entrapped petitioner; (3) the
+search warrant used to gain access to the Church was illegal; (4) police officers made an illegal
+search of the Church at the time of petitioner’s arrest; and (5) police officers entered the Church
+with the intent to violate petitioner’s civil rights or with knowledge that they were violating
+petitioner’s civil rights. The Court will address these claims seriatim. The First Amendment Claim
+Petitioner first asserts that his arrest and conviction for the use and sale of narcotics violate
+his first amendment right to freedom of religion. In support of this claim, he asserts that the
+drugs involved in his arrest were sacraments of the Aquarian Brotherhood Church used to enable
+people to meditate and better understand their personal problems. In correspondence with this Court,
+petitioner has stated that [TJhe Aquarian Brotherhood Church is opposed to any drug which is
+addictive and destructive to humans. Yet, has used marijuana, hash, cocain [sic], and the drug known
+as l.s.d., to help people get off addicting drugs such as heroin, methadone, and the drug called
+“speed.” These drugs which can properly be used to help build and heal a human are drugs that the
+Aquarian Brotherhood Church has, since 1971, considered sacrament. Reduced to its essence,
+petitioner’s claim is that voluntary use of drugs is part and parcel of the Church’s program of
+meditation, which results in an understanding of “the sacredness of life and the belief . that a man
+is entitled to be reasoned with and has the given rights to love, and be loved in return.” Thus,
+petitioner claims that when Missouri officials investigated, arrested and prosecuted him, they
+impermissibly interfered with the constitutionally protected conduct of his church.' Although a
+number of courts, both state and federal, have examined the first amendment question presented here,
+the use of drugs in religious or quasi-religious ceremony remains a difficult problem. Two cases,
+Leary v. United States, 383 F.2d 851 (5th Cir. 1967), rev’d on other grounds, 395 U.S. 6, 89 S.Ct.
+1532, 23 L.Ed.2d 57 (1969), and United States v. Kuch, 288 F.Supp. 439 (D.D.C.1968), are
+particularly instructive. In Leary, Dr. Timothy Leary and his daughter were stopped at a customs
+checkpoint in Laredo, Texas, as they attempted to re-enter the United States. A search of the Learys
+and their vehicle yielded a quantity of marijuana, which became the basis for a federal narcotics
+prosecution. At trial, Dr. Leary introduced evidence tending to show that he had a profound
+religious experience after eating a number of “Sacred Mushrooms” while in Mexico. After that
+experience, Dr. Leary wrote many arti cles on the religious use of psychedelic drugs. He became a
+member of the Bramhakrishna sect of Hinduism and established a center and workshop for religious and
+scientific research. Dr. Leary testified that he used marijuana for religious illumination and
+meditation; he stated that his religious beliefs would not be affected if he were denied the use of
+marijuana, “but that he would consider it a violation of those beliefs and practices if he were
+denied its use.” 383 F.2d at 857. The Fifth Circuit carefully evaluated Leary’s first amendment
+claim and found that the first amendment embraced both the freedom to believe and the freedom to
+act. Id. at 859, quoting Cantwell v. Connecticut, 310 U.S. 296, 60 S.Ct. 900, 84 L.Ed. 1213. The
+freedom to act, however, was conditional and relative, and Congress might prescribe and enforce
+“certain conditions to control conduct which may be contrary to a person’s religious beliefs in the
+interest of the public welfare and protection of society.” Id. The Court found that the strong and
+clearly expressed Congressional interest to protect the public from the obvious damages of drugs and
+drug traffic predominated over Dr. Leary’s religious beliefs, no matter how sincere they were. Id.
+at 859-60. Kuch, which closely parallels this petition, involved the beliefs of members of the
+NeoAmerican Church, a non-profit California organization which asserted that each person had a right
+to expand his consciousness without outside interference. To this end, psychedelic drugs were “the
+true Host 'of the Church, . . . [its] sacramental foods.” 288 F.Supp. at 443. Judge Gesell, faced
+with the same contention as before this Court, found that the Neo-American Church’s interest in the
+use of psychedelic drugs, even if completely sincere, could not overbalance the state’s important
+interest in protecting the public from the dangers posed by those drugs. After finding compelling
+support for the Congressional determination that psychedelic drugs were harmful, id. at 445-46, he
+stated: Defendant misconceives the Constitution . . . when she claims in effect an unbridled right
+to practice her beliefs. The public interest is paramount and if properly determined the Congress
+may inhibit or prevent acts as opposed to beliefs even when those acts are in accord with religious
+convictions or beliefs. If individual religious conviction permits one to act contrary to civic
+duty, public health and the criminal laws of the land, then the right to be let alone in one’s
+belief with all the spiritual peace it guarantees would be destroyed in the resulting breakdown of
+society. Id. at 445. [I] Nine years have passed since Kuch, but Judge Gesell’s opinion retains its
+vitality. The balancing test expressly applied in Kuch and used in Leary remains the law of the
+land; Wisconsin v. Yoder, 406 U.S. 205, 213-15, 92 S.Ct. 1526, 32 L.Ed.2d 15 (1972); the Court must
+therefore balance Missouri’s interest in preventing the damages of narcotic drugs, as reflected by
+legislation, against petitioner’s interest in.éie practice of his religion. The Court assumes for
+purposes of this inquiry that the Aquarian Brotherhood Church is a genuine religion and that Randall
+fully subscribes to its doctrines. As noted in Kuch, there is considerable scientific evidence to
+support the view that marijuana poses a substantial health hazard. There is also considerable
+evidence that marijuana is associated with the commission of non-drug crimes. See United States v.
+Kuch, supra, at 446, 452-53. Petitioner states, however, that marijuana has been the subject of more
+testing “than almost any food item on the market, yet it has been proven, time and again, to be less
+harmful than butter.” This Court takes judicial notice of the fact that considerable new evidence
+regarding marijuana has been developed since Kuch, but the most that can be said about the present
+status of the debate over marijuana’s safety is that battle has been joined. This Court finds that
+the Missouri legislature had a rational basis for passage of the state’s narcotics laws and “that
+there is a substantial body of informed expert opinion which continues to support and indeed to
+underline and emphasize the very reasons for passage of” such laws. See also Kuch, supra, at 448.
+Missouri’s marijuana laws are still based on reason , they are directed against a continuing social
+and health problem and the purposes of the statute cannot be accomplished without continued full
+enforcement. Additionally, There is also a clear and compelling interest in regulation of the
+transfer and possession of LSD. The drug is more harmful than marijuana and defendant’s religious
+interest in its ingestion does not outweigh the threat to the public health and safety which LSD
+presents. The free exercise clause of the First Amendment does not prohibit the prosecution of this
+defendant . . . . The practice of [his] beliefs — if beliefs they be — must give way to the public
+good. Id. at 448. Petitioner also asserts that alcohol is the most abused and dangerous drug known,
+“killing scores of thousands of Americans every year, the most common denominator found in acts of
+crime and violence.” On this basis, he asserts that he has been denied equal protection because
+Catholic priests were not prosecuted for possession of alcohol (sacramental wine) during
+prohibition. Whatever emotional appeal this argument may have, it is legally baseless. As noted
+previously, the state of Missouri has a compelling interest in the regulation of narcotic drugs and
+narcotics traffic which is rationally reflected in its narcotic laws. The proscriptions against the
+use of narcotics apply equally to all, and there is nothing to indicate that the Missouri
+legislature intended to discriminate against any person or religious group, assuming that the
+Aquarian Brotherhood Church can be described as a group for fourteenth amendment purposes. Under
+these circumstances, this Court can find no equal protection violation in this case. United States
+v. Kuch, 288 F.Supp. 439, 450-51 (D.D.C.1968). Petitioner’s Other Allegations During development of
+this case, petitioner raised four other allegations. Three of these allegations challenge various
+aspects of the search warrants and searches employed by the Kansas City Police. These claims were
+carefully considered by the Missouri Court of Appeals. State v. Randall, 540 S.W.2d 156, 159-60
+(Mo.App.1976). The review by the Court of Appeals forecloses further consideration of these search
+and seizure issues by this Court. Stone v. Powell, 428 U.S. 465, 96 S.Ct. 3037, 49 L.Ed.2d 1067
+(1976). Petitioner’s final claim is that he was “entrapped” into the commission of a crime. He also
+states that Kansas City Police officers entered the Church to “create crime.” Insofar as these
+claims amount to a restate ment of the claim that petitioner’s use of narcotics is protected by the
+first amendment, they are denied for the reasons stated above. Construing petitioner’s cursory
+entrapment allegations as a separate claim, it appears that he challenges the actions of John Dawson
+of the Kansas City Police. Petitioner asserts that Dawson decided to “get” petitioner on a sales
+charge after the two men allegedly met at the Church; petitioner states that “the officer was
+angered because [petitioner] spoke out in opposition to the then President, Richard Nixon
+Petitioner’s claims of entrapment are not reviewable in a federal habeas corpus proceeding. Under
+federal law, entrapment is not a constitutional defense. United States v. Russell, 411 U.S. 423, 93
+S.Ct. 1637, 36 L.Ed.2d 366 (1973), and claims of entrapment may not be heard on collateral review.
+See, e. g., Evans v. United States, 408 F.2d 369 (7th Cir. 1969); United States ex rel. Hall v.
+State of Illinois, 329 F.2d 354 (7 Cir. 1964); Turner v. United States, 262 F.2d 643 (8th Cir.
+1959); LeDent v. Wolff, 334 F.Supp. 64 (D.Neb.1971). Petitioner is not entitled to relief on this
+ground.
 
 

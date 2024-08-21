@@ -1,142 +1,255 @@
 **gold_text:**
-The amendment to Rule 25(a) (1) was intended to dispel unwarranted rigidity and allow more
-flexibility in substitution. “It was intended that liberal effect be given to the 1963 amendment.”
-Roscoe v. Roscoe, 126 U.S.App.D.C. 317, 322, 379 F.2d 94, 99 (1967). “[T]he 90 day period was not
-intended to act as a bar to otherwise meritorious actions.” Staggers v. Otto Gerdau Co., 359 F.2d
-292, 296 (2d Cir. 1966).
+There are two ways to read the majority opinion. One, which tracks its language and has been echoed
+in opinions in this and other circuits, e.g., Jenkins v. Price Waterhouse Long Term Disability Plan,
+564 F.3d 856, 861-62 (7th Cir.2009); Holland v. Int’l Paper Co. Retirement Plan, 576 F.3d 240,
+246-49 (5th Cir.2009), makes the existence of a conflict of interest one factor out of many in
+determining reasonableness. That sounds like a balancing test in which unweighted factors
+mysteriously are weighed. Such a test is not conducive to providing guidance to courts or plan
+administrators. “Multifactor tests with no weight assigned to any factor are bad enough from the
+standpoint of providing an objective basis for a judicial decision; multifactor tests when none of
+the factors is concrete are worse.” Menard, Inc. v. Commissioner, 560 F.3d 620, 622-23 (7th
+Cir.2009) (citations omitted); see also Sullivan v. William A. Randolph, Inc., 504 F.3d 665, 671
+(7th Cir.2007); Short v. Belleville Shoe Mfg. Co., 908 F.2d 1385, 1394 (7th Cir.1990) (concurring
+opin ion); Stevens v. Tillman, 855 F.2d 394, 399-400 (7th Cir.1988).
 
 **Generations:**
 
 
 ***GPT-4o:***
-This stringent interpretation contrasts sharply with the intent of the 1963 amendments to Rule 25
-and Rule 6(b), which aimed to inject flexibility and fairness into the substitution process. As
-noted in 379 F.2d 94 and 359 F.2d 292, the amendments were designed to eliminate the inequities and
-hardships caused by the rigid two-year limitation originally imposed. The Advisory Committee
-emphasized that the revised rules were to be liberally construed to allow courts discretion in
-extending the substitution period, recognizing the difficulties that could arise in promptly
-identifying and notifying the proper representative of the deceased.   Given this context, the
-defendant’s counsel's suggestion of death, which lacked identification of a proper representative,
-failed to initiate the 90-day countdown. This interpretation aligns with the judicial precedent that
-courts should prioritize the equitable administration of justice over strict procedural formalities.
-Thus, the district court erred in dismissing the plaintiffs' action without granting the requested
-extension, especially considering the circumstances that inhibited timely substitution, such as the
-injury to plaintiffs' counsel and the ongoing legal processes in the probate court.  We, therefore,
-reverse the judgment and remand for further proceedings consistent with this opinion, ensuring that
-the substitution process adheres to the flexible and just principles intended by the amendments to
-the Federal Rules of Civil Procedure.
+However, the inherent conflict of interest should not automatically nullify the deference usually
+afforded to the plan administrator's decision. In evaluating the impact of such a conflict, it is
+essential to weigh it alongside other factors, as outlined in Metropolitan Life Ins. Co. v. Glenn.
+The conflict "acts as a tiebreaker when the other factors are closely balanced" (564 F.3d 856). It
+becomes significant when there's a "higher likelihood" that it affected the decision, especially in
+cases with a demonstrated history of biased claims administration.  In this context, the decision of
+whether an amendment to the plan that curtailed Marrs’s benefits was reasonable falls under the
+administrator's interpretive discretion. As reiterated by the Supreme Court in Firestone, deference
+is warranted as long as the interpretation is not "arbitrary and capricious." This principle
+balances the plan administrator's discretion while acknowledging potential conflicts, aligning with
+Glenn's nuanced approach (576 F.3d 240).  The careful scrutiny over conflicts of interest does not
+imply outright dismissal of the administrator's decision but rather a contextual assessment of its
+reasonableness, particularly when the plan confers such discretion (560 F.3d 620). This approach
+ensures that plan administrators' decisions hold, provided they exhibit reasonable grounds (504 F.3d
+665). Consequently, while acknowledging possible bias, the administrator's interpretation of the
+amendment in Marrs's case stands as reasonable and is thus upheld (855 F.2d 394).
 
 
 **Label:** 
 
 
 ***Meta-Llama-3-8B-Instruct:***
-  In the context of Rule 25(a) (1) of the Federal Rules of Civil Procedure, the suggestion of death
-is a crucial step in the process of substituting a deceased party with a proper representative.
-However, not all suggestions of death are created equal. In cases where the suggestion of death is
-made by a party's attorney, but fails to identify a successor or representative of the deceased, the
-90-day period for substitution may not be triggered.  As noted in 359 F.2d 292, the Advisory
-Committee on Civil Rules intended to provide a more flexible standard for substitution, allowing for
-extensions of time and dispensing with the rigid two-year period previously in place. However, this
-flexibility is contingent upon the suggestion of death providing sufficient information to permit
-the court to proceed with substitution.  In the present case, the suggestion of death made by the
-defendant's attorney was deficient in that it failed to identify a successor or representative of
-the deceased. This lack of specificity rendered the suggestion ineffective in triggering the 90-day
-period for substitution, as explained in 379 F.2d 94.  Furthermore, the court's discretion to
-enlarge the time period for substitution, as provided by Rule 6(b), is not a blank check. Rather, it
-is intended to be exercised in a judicious and reasonable manner, taking into account the particular
-circumstances of each case.  In light of these principles, we conclude that the district court erred
-in dismissing the action with prejudice. The case should be remanded for further proceedings,
-allowing the parties to properly substitute a representative of the deceased and continue the action
-in a manner consistent with the Federal Rules of Civil Procedure.
+ <answer>  This case presents the question whether an employee welfare benefits plan creates an
+entitlement to lifetime benefits or just to benefits that can be terminated by an amendment to the
+plan. The plan administrator, Motorola, amended the plan to place a two-year limit on benefits for
+disability resulting from certain mental conditions, including the plaintiff's condition.  The
+plaintiff, Marrs, argues that the plan's provision stating that no amendment shall adversely affect
+the rights of any participant to receive benefits with respect to periods of disability prior to the
+adoption date of the amendment is violated. He interprets "periods of disability prior to the
+adoption date" to mean one or more periods of disability that began before the plan was amended but
+may not have ended before then. However, the plan administrator's interpretation is reasonable, and
+we are inclined to stop with that observation.  The Supreme Court's decision in Glenn v.
+Metropolitan Life Ins. Co. (128 S.Ct. 2343, 171 L.Ed.2d 299 (2008)) is relevant in this case. The
+Court held that a conflict of interest by the plan administrator should be given weight in judicial
+review of the denial of benefits. However, the weight to be given to the conflict of interest
+depends on the circumstances of the case.  In this case, the plan administrator had an incentive to
+resolve a close case in favor of a denial of benefits, but this incentive may be outweighed by other
+incentives, such as an employer's interest in maintaining a reputation among current and prospective
+employees for fair dealing. The employees who actually decide benefits claims at the plan-
+administrator level may not be acutely concerned with the financial implications of a benefits award
+for their employer.  We conclude that the plan administrator's decision to deny benefits is
+reasonable and that the conflict of interest does not render the decision unreasonable. The judgment
+of the district court is Affirmed.  References: 1. Glenn v. Metropolitan Life Ins. Co., 128 S.Ct.
+2343, 171 L.Ed.2d 299 (2008) 2. Marrs v. Motorola, 908 F.2d 1385 (7th Cir. 1990) 3. Rogers v.
+Department of Health & Environmental Control, 174 F.3d 431, 435 (4th Cir. 1999) 4. Kahane v. UNUM
+Life Ins. Co., 563 F.3d 1210, 1212 (11th Cir.
 
 
 **Label:** 
 
 
-**citations:** ['379 F.2d 94', '359 F.2d 292']
+**citations:** ['564 F.3d 856', '576 F.3d 240', '560 F.3d 620', '504 F.3d 665', '908 F.2d 1385', '855 F.2d 394']
 
-***short_citations_0:*** 379 F.2d 94
+***short_citations_0:*** 564 F.3d 856
 
-the proper parties. * * * Unless the motion for substitution is made not later than 90 days after the death is suggested upon the record by service of a statement of the fact of the death as provided herein for the service of the motion, the action shall be dismissed as to the deceased party.” Here not only had the 90-day period not expired when the court entered summary judgment, the appellant by her motion for reconsideration had specifically invoked the discretion of the court. Rule 6(b) provides pertinently that when “by these rules * * * an act is required or allowed to be done at or within a specified time, the court for cause shown may at any time in its discretion (1) with or without motion or notice order the period enlarged if request therefor is made before the expiration of the period originally prescribed * * Originally the Rule had precluded an extension of time for taking action under Rule 25(a) (1), but by purposeful amendment, it was sought to relieve against the hardship of the Court’s holding in Anderson v. Yungkau, 329 U.S. 482, 67 S.Ct. 428, 91 L.Ed. 436 (1947). It was intended that liberal effect be given to the 1963 amendment. Graham v. Pennsylvania Railroad, 119 U.S.App.D.C. 335, 342 F.2d 914 (1964), cert. denied, 381 U.S. 904, 85 S.Ct. 1446, 14 L.Ed.2d 286 (1965). We are constrained to reverse for further proceedings not inconsistent with this opinion. Reversed. The only “party” then
+And this is not the kind of case where the conflict-of-interest factor plays an important role. In Glenn, the Supreme Court said the presence of a conflict will “act as a tiebreaker when the other factors are closely balanced.” Glenn, 128 S.Ct. at 2351. When the case is borderline, in other words, the inherent conflict of interest that exists in so many of these situations can push it over the edge — towards a finding of caprieiousness. See Champion v. Black & Decker (U.S.) Inc., 550 F.3d 353, 362 (4th Cir.2008). This is not one of those borderline cases. Nevertheless, Jenkins suggests that it is impossible to reconcile the initial determination of disability with the later decision that he could attempt full-time sedentary employment. At best, Jenkins argues, the evidence showed that his condition was stable. If that condition was grave enough to warrant disability in 1994, why wasn’t it sufficient in 2006? But Jenkins fails to recognize what CGLIC (and the general population, it seems) thought HIV and AIDS meant in the early 1990s. That impression was that HIV (and certainly AIDS) brought rapid death. Thankfully, the prognosis has changed — in large measure due to new drugs — both for Jenkins and countless others. It was not “downright unreasonable” for CGLIC to shift its position along with that change when the medical evidence supported it. The judgment of the district court is Affirmed. . Sub-Saharan Africa being a tragic exception. . Another long-time victim of HIV was on
 
-***short_citations_1:*** 359 F.2d 292
+***short_citations_1:*** 576 F.3d 240
 
-insertion of a “reasonable time” standard. In 1963, the Advisory Committee suggested the present rule and noted: “Present Rule 25(a) (1), together with present Rule 6(b), results in an inflexible requirement that an action be dismissed as to a deceased party if substitution is not carried out within a fixed period measured from the time of the death. The hardships and inequities of this unyielding requirement plainly appear from the cases. * * * The amended rulé establishes a time limit for the motion to substitute based not upon the time of the death, but rather upon the time information of the death is provided by means of a suggestion of death upon the record, i. e. service of a statement of the fact of the death.” See Notes of Advisory Committee on the Civil Rules, 28 U.S.C. Rule 25 (1964). Rule 6(b) of the Federal Rules of Civil Procedure was also amended in 1963 and the prohibition against extending the time for taking action under Rule 25 was eliminated. The Advisory Committee on the Civil Rules noted: “It is intended that the court shall have discretion to enlarge that period.” The amendments of Rules 6(b) and 25(a) (1) provided needed flexibility. It was assumed that discretionary extensions would be liberally granted. Movants under Rule 25 can ordinarily control when a death is “suggested upon the record” and appellants’ attorney was under no obligation to file his affidavit of Staggers’ death on the date he did. He could have filed
+KING, Circuit Judge: Plaintiff Derrell Holland brings this suit against Defendant Retirement Plan of International Paper Co. alleging that he was denied disability retirement benefits in violation of provisions of the Employee Retirement Income Security Act. The Plan Administrator denied Holland’s application for disability retirement benefits. The district court granted Holland relief from that denial, on the ground that the Plan Administrator abused its discretion, and awarded retirement benefits to Holland. The Retirement Plan now appeals. We reverse and remand for entry of judgment in favor of the Retirement Plan because the Plan Administrator did not abuse its discretion. I. FACTUAL BACKGROUND AND PROCEDURAL HISTORY Derrell Holland worked at International Paper Co.’s mill in Bastrop, Louisiana, for over thirty-six years. During that time, he held positions of paper machine specialist, equipment operator, dispatcher, and, most recently, fire protection specialist. With the exception of the dispatcher position, which he performed for about two years, Holland’s positions required heavy physical exertion. On April 28, 2003, Holland suffered a myocardial infarction (heart attack), had a pacemaker inserted, and was unable to return to his position as a fire protection specialist due to the physical demands of the position. He applied for and received thirty-nine weeks of sickness and accident benefits. He also applied for disability retirement benefits under the Retirement Plan of International Paper Co. (the “Plan”). The Plan is an employee welfare benefit plan governed by the Employee Retirement Income Security Act (“ERISA”). International Paper funds the Plan by making irrevocable, non-reversionary,
+
+***short_citations_2:*** 560 F.3d 620
+
+1091, 1095 (9th Cir.2000); Alpha Medical, Inc. v. Commissioner, 172 F.3d 942, 946 (6th Cir.1999); Rutter v. Commissioner, 853 F.2d 1267, 1271 (5th Cir.1988). (Alpha and Rutter each list nine factors.) We reviewed a number of these attempts in Exacto Spring Corp. v. Commissioner, 196 F.3d 833 (7th Cir.1999), and concluded that they were too vague, and too difficult to opera-tionalize, to be of much utility. Multifactor tests with no weight assigned to any factor are bad enough from the standpoint of providing an objective basis for a judicial decision, Farmer v. Haas, 990 F.2d 319, 321 (7th Cir.1993); Prussner v. United States, 896 F.2d 218, 224 (7th Cir.1990) (en banc); Palmer v. Chicago, 806 F.2d 1316, 1318 (7th Cir.1986); United States v. Borer, 412 F.3d 987, 992 (8th Cir.2005); multifactor tests when none of the factors is concrete are worse, and that is the character of most of the multifactor tests of excessive compensation. They include such semantic vapors as “the type and extent of the services rendered,” “the scarcity of qualified employees,” “the qualifications ... of the employee,” his “contributions to the business venture,” and “the peculiar characteristics of the employer’s business.” All businesses are different, all CEOs are different, and all compensation packages for CEOs are different. In Ex-acto, in an effort to bring a modicum of objectivity to the determination of whether a corporate owner/employee’s compensation is “reasonable,” we created the presumption that “when ... the investors in his company are obtaining a far higher return
+
+***short_citations_3:*** 504 F.3d 665
+
+personally an award of attorneys’ fees; (3) whether or not an award of attorneys’ fees against the offending parties would deter other persons acting under similar circumstances; (4) the amount of benefit conferred on members of the pension plan as a whole; and (5) the relative merits of the parties’ positions.” 728 F.2d at 828-29. The five-factor test continues to be intoned in this circuit, often in conjunction with the Bittner test. E.g., Lowe v. McGraw-Hill Cos., supra, 361 F.3d at 339. Two tests to govern the same issue might well seem — even though they are not inconsistent — one too many, Eddy v. Colonial Life Ins. Co. of America, 59 F.3d 201, 210 (D.C.Cir.1995) (dissenting opinion), especially when one is a multifactor test; such tests tend to be “redundant, incomplete, and unclear.” Palmer v. City of Chicago, 806 F.2d 1316, 1318 (7th Cir. 1986); see also Exacto Spring Corp. v. Commissioner, 196 F.3d 833, 834 (7th Cir. 1999); Stevens v. Tillman, 855 F.2d 394, 399-400 (7th Cir.1988). Consider: Factor 1 (bad faith) identifies a basis for awarding (or refusing to award) attorneys’ fees that owes nothing to the fee-shifting provision of ERISA, because, as we noted in Bittner v. Sadoff & Rudoy Industries, supra, 728 F.2d at 828, courts have inherent authority to award attorney’s fees as a sanction for conducting litigation in bad faith. Chambers v. NASCO, Inc., 501 U.S. 32, 46-47, 50, 111 S.Ct. 2123, 115 L.Ed.2d 27 (1991); Stive v. United States, 366 F.3d 520,
+
+***short_citations_4:*** 908 F.2d 1385
+
+material inside information violates Rule 10b-5, the only way to apply a single statute of limitations to all actions under that Rule is to use § 20A(b)(4). Clever lawyers could describe even a garden variety fraud as “purchasing or selling a security while in possession of material, nonpublic information” — that is, the truth — blurring the line between the offenses and making the choice of a period of limitations difficult. Moreover, § 20A offers plaintiffs more time than does § 13. Section 10(b) and Rule 10b-5 require the plaintiff to prove scienter, which a plaintiff under § 12(2) need not; perhaps the additional years are appropriate to the extra requirements of litigation under Rule 10b-5. Interests in uniformity tug both ways: if we choose § 20A we shall have one statute of limitations for all Rule 10b-5 cases in the seventh circuit, but different rules in the seventh and third circuits. If we choose § 13 we shall be in line with the third circuit, but different kinds of claims under Rule 10b-5 will be subject to different periods of limitations. The latter diversity is likely to be tolerable. To obtain the five-year period of § 20A, the plaintiff would have to sue under § 20A, establish trading by an insider (Belleville Shoe’s insiders did not trade with Short), and accept the limitations of that statute, including the restriction of damages to the defendants’ profit (as opposed to the plaintiff’s loss). In the great bulk of cases, there will
+
+***short_citations_5:*** 855 F.2d 394
+
+has or implies an evaluative component. Even the statement “I don’t like the color blue” implies a proposition about the speaker’s sensibilities; he could be lying about his own dislikes or mistaken in the sense that on further reflection he would say something different about the color blue. The statement “mauve is a lousy color” implies “I don’t like mauve”, with the same difficulties. The statement “socialism is better than capitalism”, seemingly an opinion dependent on the speaker’s preferences about control of productive assets, could be false in the sense that the speaker, who holds certain values, might conclude after reflection (and access to data) that capitalism serves his own values better than socialism does. Much modern political and ethical philosophy consists in efforts to demonstrate that statements about justice and other hard-to-pin-down terms may be reduced to less contentious statements that will be accepted (with their logical implications) in a way that produces agreement. Statements of “pure” opinion also may imply or depend on facts. One may say “Jones has a tin ear”, implying something about his behavior that may be false. One may say “George Stigler did not deserve the Nobel Prize” because one believes that Frank Knight should have received it; but Knight died before Stigler received the prize, and on learning that there are no posthumous Nobel Prizes this person too might favor Stigler. The statement “no one will ever build a heavier-than-air flying machine” is opinion in 1900 and false in 1905. The statement “Paul
 
 **prev_text:**
-LEVENTHAL, Circuit Judge: The District Court held that Rule 25(a) (1) of the Federal Rules of Civil
-Procedure required dismissal of the plaintiffs’ tort action because defendant’s counsel had filed a
-suggestion of death of the defendant yet plaintiff had not made any substitution of parties within
-90 days. We reverse on the ground that the suggestion of death, which was neither filed by nor
-identified a successor or representative of the deceased, such as an executor or administrator, was
-ineffective to trigger the running of the 90-day period provided by the Rule. Mr. and Mrs. John
-Rende filed an action in the District Court individually and on behalf of their infant son who had
-been struck and injured by Alfred S. Kay while driving his car. On August 27, 1967, defendant Kay
-died. On September 1, 1967, the defendant’s attorney, a term used here to identify the lawyer who
-had been retained by deceased to defend the action, and who had duly entered an appearance as
-attorney for defendant, filed a suggestion of death in the District Court, giving notice to
-plaintiffs’ attorney. That same day there was filed in the Orphans Court for Montgomery County,
-Maryland, residence of the deceased, his will naming his widow as executrix, but the will had not
-been probated, nor any legal representative appointed for the estate at the time of the filing of
-this appeal. Plaintiffs’ attorney was injured on October 14, 1967. On returning to practice early in
-1968, he learned that no successor to defendant Kay had yet been appointed, and he moved to certify
-the case to the ready calendar. The defendant’s attorney opposed this on grounds that discovery
-procedures had not been completed. The case was delayed and placed on the ready calendar as of June
-7, 1968. However, in April 1968, the defendant’s attorney moved in his own name to dismiss the
-action on the ground that Rule 25(a) (1) required plaintiffs to move to substitute a proper party
-for the deceased within 90 days of the suggestion of death. Plaintiffs filed an opposition and
-motion for substitution of the proper party, and sought an extension of the time for substitution as
-allowed by Rule 6(b). At argument, plaintiffs’ counsel asserted the “suggestion of death was
-defective in that it did not list the name of the proper party; that is the legal representative of
-the defendant.” The court responded: “That would not be his burden.” The court dismissed the action
-with prejudice. Prior to its amendment in 1963, Rule 25(a) (1) required the court to dismiss a case
-if no motion for substitution was filed within two. years after date of death, and no extensions of
-this period were allowed under Rule 6(b). The rule was rigorously applied, often with harsh results,
-and was called “easily the poorest rule of all the Federal Rules.” In 1955 the Advisory Committee on
-Rules for Civil Procedure recommended that the two-year period be changed to a “reasonable time”
-standard. In 1961 the Advisory Committee on Civil Rules again suggested the Rule be made more
-flexible. In 1963 the Supreme Court made changes in Rule 25(a) (1) and in Rule 6(b) so as to provide
-a 90-day time limit from the filing of a suggestion of death, and to give the court discretion to
-extend that time. The Committee Notes explaining the amendments state: Present Rule 25(a) (1),
-together with present Rule 6(b), results in an inflexible requirement that an action be dismissed as
-to a deceased party if substitution is not carried out within a fixed period measured from the time
-of death. The hardships and inequities of this unyielding requirement plainly appear from the cases.
-* * * The amended rule establishes a time limit for the motion to substitute based not upon the time
-of the death, but rather upon the time information of the death is provided by means of a suggestion
-of death upon the record. * * * A motion to substitute may be made by any party or by the
-representative of the deceased party without awaiting the suggestion of death. Indeed, the motion
-will usually be so made. If a party or the representative of the deceased party desires to limit the
-time within which another may make the motion, he may do so by suggesting the death upon the record.
-(Emphasis added.) Under the amended Rule either a party or “the successors or representatives of the
-deceased party” may avoid delay in effecting substitution for the deceased party either by filing a
-motion for substitution or by suggesting death on the record and thus triggering the 90-day period
-which begins with suggestion of death. The Advisory Committee, in outlining that suggestion of death
-could be made by “the representative of the deceased party” plainly contemplated that the suggestion
-emanating from the side of the deceased would identify a representative of the estate, such as an
-executor or administrator, who could be substituted for the deceased as a party, with the action
-continued in the name of the representative. The addition of “successor” in the Rule would take care
-of the case of, say, the distributee of an estate that had been distributed, but would not make a
-material difference in the aspect under consideration. Form 30, for suggestion of death, which was
-provided in order to expedite and facilitate implementation of the amendment, provides: A.B.
-[described as a party, or as executor, administrator, or other representative or successor of C.D.,
-the deceased party\ suggests upon the record, pursuant to Rule 25(a) (1), the death of C.D.
-[describe as party] during the pendency of this action. Added Jan. 21, 1963, eff. July 1, 1963.
-[Emphasis added.] Although the attorney for the defendant was retained to “represent” the deceased
-as his counsel, he is not a person who could be made a party, and is not a “representative of the
-deceased party” in the sense contemplated by Rule 25(a) d). In our opinion the Rule, as amended,
-cannot fairly be construed, as the de fendant’s attorney argues, to make his suggestion of death
-operative to trigger the 90-day period even though he was neither a successor nor representative of
-the deceased, and gave no indication of what person was available to be named in substitution as a
-representative of the deceased. Counsel’s construction would open the door to a tactical maneuver to
-place upon the plaintiff the burden of locating the representative of the estate within 90 days. We
-can conceive of cases wherein even the lawyer retained to represent a defendant might know the
-defendant had died, yet not readily know where his estate would be administered. In the present
-case, plaintiff’s attorney did know the court of probate, but he did not know whether probate of the
-will might be contested, or who would be appointed representative of the estate. The tactic of the
-defendant’s attorney would place on plaintiff the burden, where no conventional representative was
-appointed for the estate in probate court, of instituting machinery in order to produce some
-representative of the estate ad litem, pending appointment of the representative contemplated by law
-of the domicile of the deceased.
+POSNER, Circuit Judge. This suit under ERISA for disability payments presents the recurring question
+whether an employee welfare benefits plan creates an entitlement to lifetime benefits rather than
+just to benefits that can be terminated by an amendment to the plan. In 1997 Michael Marrs, an
+employee of Motorola, ceased working because of a psychiatric condition and began drawing disability
+benefits under Motorola’s Disability Income Plan. Six years later Motorola amended the plan to place
+a two-year limit on benefits for disability resulting from certain “Mental, Nervous, Alcohol, [or]
+Drug-Related” (MNAD) conditions, including Marrs’s. Such limitations on MNAD conditions are common
+in employee disability plans. Rogers v. Department of Health & Environmental Control, 174 F.3d 431,
+435 (4th Cir.1999); see, e.g., Krolnik v. Prudential Ins. Co., 570 F.3d 841, 842 (7th Cir.2009);
+Hackner v. Long Term Disability Plan for Employees of Havi Group LP, 81 Fed.Appx. 589, 591 (7th
+Cir.2003); Kahane v. UNUM Life Ins. Co., 563 F.3d 1210, 1212 (11th Cir.2009); Steven J. Sacher et
+al., Employee Benefits Law 1003-05, 1147-48 (2d ed. Supp.2008); cf. Dana L. Kaplan, “Can Legislation
+Alone Solve America’s Mental Health Dilemma? Current State Legislative Schemes Cannot Achieve Mental
+Health Parity,” 8 Quinnipiac Health L.J. 325, 328-30 (2005). Previously, however, Motorola had
+imposed no time limit on the receipt of such benefits. Although Marrs had already received benefits
+for more than two years, he was given an additional two years of benefits, starting on the date of
+the amendment. That period has ended and the benefits have ceased. His suit is on behalf of himself
+and others in the same position, and a class action has been certified. The district court granted
+summary judgment in Motorola’s favor. In an earlier stage of the litigation, the district court had
+dismissed two other claims under Rule 12(b)(6). Marrs renews them on appeal, but they are too
+clearly without merit to require us to discuss them. Marrs contends that the application of the
+amendment to persons in his situation violates a provision of the disability-income plan that, like
+the provision in Article V of the U.S. Constitution according to which a state cannot by
+constitutional amendment be deprived of its right to two senators without its consent, limits
+Motorola’s power to amend the plan. The provision states that no amendment “shall adversely affect
+the rights of any Participant to receive benefits with respect to periods of Disability prior to the
+adoption date of the [amendment].” Marrs interprets “periods of Disability prior to the adoption
+date” to mean one or more periods of disability that began before the plan was amended but may not
+have ended before then. That is a forced reading. The reference in the plan to “periods” rather than
+“period” suggests the segmentation of a period of disability, with some segments (“periods”) lying
+before and some after the amendment. It is true that the plan defines the term “Period of
+Disability” to mean “one or more periods of absence from Active Employment due to Disability,” and
+if we substituted “Period of Disability prior to the plan” for “periods of Disability prior to the
+plan” we would come closer to Marrs’s preferred interpretation. But the plan provides that only
+words the initial letters of which are capitalized are defined terms, and so “periods of Disability”
+cannot be equated to “Period of Disability.” Marrs’s interpretation is further undermined by the
+disability plan that was in force in 1997 when he stopped working and that states that if a
+participant became disabled prior to 1994, the benefit levels specified in the disability income
+plan in force then would “continue in force until [the participant] returns to work for thirty (30)
+days.” This provision would be surplusage in the superseding plan (where it also appears) if the
+plan guaranteed the continuation of disability benefits without diminution even if, as in Marrs’s
+case, the disability did not arise before 1994. Whether this interpretation of the plan, which is
+the plan administrator’s interpretation, is correct or not, it is reasonable; and we are inclined to
+stop with that observation. But Marrs asks us to give no weight to the administrator’s
+interpretation because the administrator labored under a conflict of interest: Motorola is both the
+plan administrator and the payor of benefits awarded under the plan. Marrs cites the Supreme Court’s
+recent decision in Metropolitan Life Ins. Co. v. Glenn, — U.S. -, 128 S.Ct. 2343, 171 L.Ed.2d 299
+(2008), which addresses the significance of a conflict of interest by the plan administrator when,
+as in that case and this one, the plan commits the decision whether to award benefits to the
+administrator’s discretion. (If the plan did not confer discretion on the administrator, his
+decision would be entitled to no deference by the reviewing court.) Marrs reads Glenn to require “a
+more penetrating inquiry into the actions of a conflicted administrator” than the ear lier case law,
+which was all over the map— see Kathryn J. Kennedy, “Judicial Standard of Review in ERISA Benefit
+Claim Cases,” 50 Am. U.L.Rev. 1083, 1135-62 (2001); see also Denmark v. Liberty Life Assurance Co.,
+566 F.3d 1, 6 (1st Cir.2009)—had required. Although normally an employer can amend a welfare
+benefits plan without regard to the employees’ interests, Hughes Aircraft Co. v. Jacobson, 525 U.S.
+432, 443-44, 119 S.Ct. 755, 142 L.Ed.2d 881 (1999); Curtiss-Wright Corp. v. Schoonejongen, 514 U.S.
+73, 78, 115 S.Ct. 1223, 131 L.Ed.2d 94 (1995), remember that Marrs’s claim is that the amendment
+curtailing his benefits violated the plan, and that is a claim of wrongful denial of benefits and so
+the Supreme Court’s concern with “conflicted” administrators would seem pertinent. True, the issue
+in this case is the interpretation of a plan document rather than the application of the plan’s
+criteria for an award of benefits to particular facts; and the interpretation of a contract, unless
+extrinsic evidence is considered, is usually treated as an issue of law, which an appellate tribunal
+therefore resolves without deferring to the opinion of the first-line decision maker. But when an
+ERISA plan gives the plan administrator discretion to interpret its terms as well as to determine
+eligibility for benefits under terms the meaning of which is not questioned, the court can, as the
+parties to this case agree, reject the administrator’s interpretation only if it is unreasonable
+(“arbitrary and capricious”). Firestone Tire & Rubber Co. v. Bruch, 489 U.S. 101, 115, 109 S.Ct.
+948, 103 L.Ed.2d 80 (1989); Carr v. Gates Health Care Plan, 195 F.3d 292, 294 (7th Cir.1999) (“under
+the arbitrary and capricious standard, the administrator’s decision will only be overturned if it is
+‘downright unreasonable.’ A denial of benefits will not be set aside if the denial was based upon a
+reasonable interpretation of the plan documents”) (citations omitted); Call v. Ameritech Management
+Pension Plan, 475 F.3d 816, 822 (7th Cir.2007). And both the original and the amended plan in this
+case confer discretion on the plan administrator to “construe and interpret the Plan, decide all
+questions of fact and questions of eligibility and determine the amount, manner and time of payment
+of any benefits hereunder” (emphasis added). The administrator is not by virtue of such a grant of
+authority free to disregard unambiguous language in the plan, id. at 822-23; Swaback v. American
+Information Technologies Corp., 103 F.3d 535, 540 (7th Cir.1996) (“if fiduciaries or administrators
+of an ERISA plan controvert the plain meaning of a plan, their actions are arbitrary and
+capricious”) — that would be unreasonable. But the administrator’s use of interpretive tools to
+disambiguate ambiguous language is, one would think, by the terms of the plan entitled to
+deferential consideration by a reviewing court. Yet Vallone v. CNA Financial Corp., 375 F.3d 623
+(7th Cir.2004), although noting that the plan in that case gave the plan administrator interpretive
+discretion, treats the question whether benefits claimed by the plaintiffs had vested as a straight
+issue of contract interpretation. The court seemed to give no weight to the plan administrator’s
+judgment, though in the end agreeing with the administrator’s denial of benefits. But the court was
+mirroring the parties’ emphasis, and it did not say that the grant of interpretive discretion to a
+plan administrator is entitled to no weight, although one passage in the opinion could be thought to
+imply this. See id. at 632. Any such implication would be in tension with the Firestone and Carr
+decisions — and the former is a Supreme Court decision, which is a trump. Confusion may have been
+injected into the issue of deference to interpretive discretion by cases which say that the
+interpretation of an ERISA plan is governed by the ordinary federal common law principles of
+contract interpretation, e.g., Ruttenberg v. United States Life Ins. Co., 413 F.3d 652, 659 (7th
+Cir.2005); Mathews v. Sears Pension Plan, 144 F.3d 461, 465 (7th Cir.1998); Dobson v. Hartford
+Financial Services Group, Inc., 389 F.3d 386, 399 (2d Cir.2004), and by cases in this circuit that
+say that welfare benefits plans are presumed not to create lifetime benefits. Hackett v. Xerox Corp.
+Long-Term Disability Income Plan, 315 F.3d 771, 774 (7th Cir.2003); Rossetto v. Pabst Brewing Co.,
+217 F.3d 539, 543 (7th Cir.2000); contra, Gibbs v. CIGNA Corp., 440 F.3d 571, 576 (2d Cir.2006). But
+these statements, so far as applicable to plans in which the administrator is given interpretive
+discretion, are properly understood as aids to determining whether the denial of benefits by the
+administrator is reasonable, rather than as warrants for a court’s resolving interpretive disputes
+without any deference to the administrator’s exercise of interpretive discretion. Thus, as explained
+in Ross v. Indiana State Teacher’s Ass’n Ins. Trust, 159 F.3d 1001, 1011 (7th Cir. 1998), “although,
+generally, ambiguities in an insurance policy are construed in favor of an insured, in the ERISA
+context in which a plan administrator has been empowered to interpret the terms of the plan, this
+rule does not obtain. See Morton v. Smith, 91 F.3d 867, 871 n. 1 (7th Cir.1996) (explaining that
+rule of contra proferentem applies only when courts undertake de novo review of an administrator’s
+interpretation of an ERISA plan).” The play between principles of contract interpretation and the
+scope of review of a plan administrator’s decision is illustrated by Hackett. The court had to
+determine which version of a plan controlled the determination of entitlement to disability
+benefits. The earlier version did not grant interpretive authority to the plan administrator, but
+the later one did, so we had to determine as a matter of contract law which plan controlled because
+that would determine the standard of review of the plan administrator’s interpretation that we
+should use. 315 F.3d at 773-74. In this case both plans confer interpretive authority on the plan
+administrator. But maybe the court in Vallone thought that an alleged misinterpretation of a plan’s
+eligibility criteria is less serious than an alleged misinterpretation of a plan provision that
+affects an employer’s right to amend it without trampling on vested rights, and therefore that
+appellate review of the latter claim should be less deferential. Neither Vallone nor, to our
+knowledge, any other case says that. Nor is it apparent why the interpretive principles (including
+the scope of judicial review of the first-line interpreter’s decision) that govern the two types of
+issue should differ. In any event we do not think that the Glenn decision has the significance that
+Marrs attaches to it even if it is fully applicable to cases involving the interpretation of plan
+amendments alleged to infringe on vested rights. When a payment of benefits comes out of the plan
+administrator’s pocket, the administrator has an incentive to resolve a close case in favor of a
+denial of benefits. But that incentive may be outweighed by other incentives, such as an employer’s
+interest in maintaining a reputation among current and prospective employees for fair dealing — a
+reputation that may enable him to obtain a better-quality employee at a lower cost in wages and
+benefits. E.g., Williams v. Interpublic Severance Pay Plan, 523 F.3d 819, 821-22 (7th Cir.2008).
+Then too, the employees who actually decide benefits claims at the plan-administrator level may not
+be acutely concerned with the financial implications of a benefits award for their employer. Id. at
+821; Perlman v. Swiss Bank Corp. Comprehen sive Disability Protection Plan, 195 F.3d 975, 981 (7th
+Cir.1999). But especially when a firm is struggling (which may or may not be the case here — there
+is nothing in the record bearing on the question), an opportunity for short-run economies may
+dominate decision making by benefits officers. In any event, a majority of the Supreme Court
+Justices consider the potential conflict of interest of a plan administrator (or its staff) serious
+enough to be given weight in judicial review of the denial of benefits. But how much weight should
+it be given? The nub of the Glenn opinion is the following passage: [W]hen judges review the
+lawfulness of benefit denials, they will often take account of several different considerations of
+which a conflict of interest is one. This kind of review is no stranger to the judicial system. Not
+only trust law, but also administrative law, can ask judges to determine lawfulness by taking
+account of several different, often case-specific, factors, reaching a result by weighing all
+together. In such instances, any one factor will act as a tiebreaker when the other factors are
+closely balanced, the degree of closeness necessary depending upon the tiebreaking factor’s inherent
+or case-specific importance. The conflict of interest at issue here, for example, should prove more
+important (perhaps of great importance) where circumstances suggest a higher likelihood that it
+affected the benefits decision, including, but not limited to, cases where an insurance company
+administrator has a history of biased claims administration. It should prove less important (perhaps
+to the vanishing point) where the administrator has taken active steps to reduce potential bias and
+to promote accuracy, for example, by walling off claims administrators from those interested in firm
+finances, or by imposing management checks that penalize inaccurate decisionmaking irrespective of
+whom the inaccuracy benefits. 128 S.Ct. at 2351 (citations omitted). A dissent by Justice Scalia
+argued that a conflict of interest should prompt an inquiry only into the existence of improper
+motive that would render the plan administrator’s decision unreasonable. If the decision is
+reasonable, he argued, in the sense in which “a reasonable decision is one over which reasonable
+minds seeking the ‘best’ or ‘right’ answer could disagree,” the fact that the administrator had a
+conflict of interest is irrelevant, id. at 2360, “unless the conflict actually and improperly
+motivates the decision.” Id. at 2357 (emphasis in original).
 
 

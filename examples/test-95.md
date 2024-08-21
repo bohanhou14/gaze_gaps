@@ -1,142 +1,139 @@
 **gold_text:**
-The amendment to Rule 25(a) (1) was intended to dispel unwarranted rigidity and allow more
-flexibility in substitution. “It was intended that liberal effect be given to the 1963 amendment.”
-Roscoe v. Roscoe, 126 U.S.App.D.C. 317, 322, 379 F.2d 94, 99 (1967). “[T]he 90 day period was not
-intended to act as a bar to otherwise meritorious actions.” Staggers v. Otto Gerdau Co., 359 F.2d
-292, 296 (2d Cir. 1966).
+Without direct proof of access or proof of a reasonable possibility of access, the courts have quite
+generally held that access and copying may be implied only if the similarities of the two plays are
+so striking and of such nature as to preclude the possibility of coincidence, accident or
+independent creation. Twentieth Century-Fox Film Corp. v. Dieckhaus, 8 Cir., 153 F.2d 893, 898-899,
+cert. den. 329 U.S. 716, 67 S.Ct. 46, 91 L.Ed. 621; Heim v. Universal Pictures Co., 2 Cir., 154 F.2d
+480, 487.
 
 **Generations:**
 
 
 ***GPT-4o:***
-This stringent interpretation contrasts sharply with the intent of the 1963 amendments to Rule 25
-and Rule 6(b), which aimed to inject flexibility and fairness into the substitution process. As
-noted in 379 F.2d 94 and 359 F.2d 292, the amendments were designed to eliminate the inequities and
-hardships caused by the rigid two-year limitation originally imposed. The Advisory Committee
-emphasized that the revised rules were to be liberally construed to allow courts discretion in
-extending the substitution period, recognizing the difficulties that could arise in promptly
-identifying and notifying the proper representative of the deceased.   Given this context, the
-defendant’s counsel's suggestion of death, which lacked identification of a proper representative,
-failed to initiate the 90-day countdown. This interpretation aligns with the judicial precedent that
-courts should prioritize the equitable administration of justice over strict procedural formalities.
-Thus, the district court erred in dismissing the plaintiffs' action without granting the requested
-extension, especially considering the circumstances that inhibited timely substitution, such as the
-injury to plaintiffs' counsel and the ongoing legal processes in the probate court.  We, therefore,
-reverse the judgment and remand for further proceedings consistent with this opinion, ensuring that
-the substitution process adheres to the flexible and just principles intended by the amendments to
-the Federal Rules of Civil Procedure.
+In considering the alleged infringement, reference must be made to the burden of proof and the
+standards for establishing copyright violation. In the case cited at 153 F.2d 893, it was held that
+the unauthorized copying of a substantial part of the literary property constitutes a tort, provided
+there is evidence of access and copying. Here, however, the defendant, Mrs. Hire, testified
+unequivocally that she did not have access to the plaintiff’s work, which is further supported by
+geographical and professional separation, as she had never been in Michigan nor read any unpublished
+scripts prior to 1958.  Furthermore, as noted in the case cited at 154 F.2d 480, similarity alone
+does not suffice to prove copying; access must be proven or, alternatively, the similarities must be
+so striking and idiosyncratic as to preclude independent creation. Although there are thematic
+similarities and specific phrases that appear in both plays, the District Court determined that
+these elements are not unique enough to infer copying given the commonality of the “love triangle”
+plot in literature and drama.  The courts also found that Mrs. Hire’s and Ms. Scott’s language
+choices and specific dialogues were not identical nor idiosyncratically distinctive. The
+similarities pointed out, such as the use of the word "brazen," are insufficient to establish
+unlawful appropriation. The trial court's findings that sequence, characterization, and style were
+significantly different between the two plays further weaken the plaintiff’s case. Thus, based on
+the principle that copyright protection does not extend to general themes but to the specific
+expression (Wihtol v. Wells, 231 F.2d 550), and the necessity of proof of access (Arnstein v.
+Porter, 154 F.2d 464), the plaintiff has failed to meet the required burden of proof for copyright
+infringement.
 
 
 **Label:** 
 
 
 ***Meta-Llama-3-8B-Instruct:***
-  In the context of Rule 25(a) (1) of the Federal Rules of Civil Procedure, the suggestion of death
-is a crucial step in the process of substituting a deceased party with a proper representative.
-However, not all suggestions of death are created equal. In cases where the suggestion of death is
-made by a party's attorney, but fails to identify a successor or representative of the deceased, the
-90-day period for substitution may not be triggered.  As noted in 359 F.2d 292, the Advisory
-Committee on Civil Rules intended to provide a more flexible standard for substitution, allowing for
-extensions of time and dispensing with the rigid two-year period previously in place. However, this
-flexibility is contingent upon the suggestion of death providing sufficient information to permit
-the court to proceed with substitution.  In the present case, the suggestion of death made by the
-defendant's attorney was deficient in that it failed to identify a successor or representative of
-the deceased. This lack of specificity rendered the suggestion ineffective in triggering the 90-day
-period for substitution, as explained in 379 F.2d 94.  Furthermore, the court's discretion to
-enlarge the time period for substitution, as provided by Rule 6(b), is not a blank check. Rather, it
-is intended to be exercised in a judicious and reasonable manner, taking into account the particular
-circumstances of each case.  In light of these principles, we conclude that the district court erred
-in dismissing the action with prejudice. The case should be remanded for further proceedings,
-allowing the parties to properly substitute a representative of the deceased and continue the action
-in a manner consistent with the Federal Rules of Civil Procedure.
+ In the case at hand, the plaintiff, Scott, is suing the defendants, Hire, for allegedly infringing
+on her copyrighted play, "Discretion". The plaintiff claims that the defendants' play, "Conditional
+Surrender", is a copy of her original work.  To establish copyright infringement, the plaintiff must
+prove that the defendants' play was copied from her copyrighted work and that the defendants
+unlawfully appropriated protected material from her work. The plaintiff argues that there are
+similarities between the two plays, including similar plots, characters, and settings.  However, the
+defendants argue that the similarities are not sufficient to establish copyright infringement. They
+point out that the plays are significantly different in terms of sequence, characterization,
+characters, scenes, settings, and style of writing.  The District Court found that the two plays are
+"two entirely different plays" and that there is no evidence or proof of direct access or even the
+possibility of access to the plaintiff's play by the author or producers of "Conditional Surrender".
+In this case, the plaintiff's claim is similar to the case of 153 F.2d 893, where the court found
+that the defendant's work was not a copy of the plaintiff's work, but rather an independent
+creation. The court also noted that the doctrine of unconscious plagiarism is not applicable in this
+case.  Additionally, the plaintiff's claim is also similar to the case of 154 F.2d 480, where the
+court found that the similarity between the two works was not sufficient to establish copyright
+infringement. The court noted that the similarity was due to the use of a common source and that the
+works were not substantially similar.  In conclusion, based on the evidence presented, it appears
+that the defendants' play "Conditional Surrender" is not a copy of the plaintiff's copyrighted play
+"Discretion". The District Court's finding that the two plays are "two entirely different plays" and
+that there is no evidence or proof of direct access or even the possibility of access to the
+plaintiff's play by the author or producers of "Conditional Surrender" supports this conclusion.
 
 
 **Label:** 
 
 
-**citations:** ['379 F.2d 94', '359 F.2d 292']
+**citations:** ['153 F.2d 893', '154 F.2d 480']
 
-***short_citations_0:*** 379 F.2d 94
+***short_citations_0:*** 153 F.2d 893
 
-the proper parties. * * * Unless the motion for substitution is made not later than 90 days after the death is suggested upon the record by service of a statement of the fact of the death as provided herein for the service of the motion, the action shall be dismissed as to the deceased party.” Here not only had the 90-day period not expired when the court entered summary judgment, the appellant by her motion for reconsideration had specifically invoked the discretion of the court. Rule 6(b) provides pertinently that when “by these rules * * * an act is required or allowed to be done at or within a specified time, the court for cause shown may at any time in its discretion (1) with or without motion or notice order the period enlarged if request therefor is made before the expiration of the period originally prescribed * * Originally the Rule had precluded an extension of time for taking action under Rule 25(a) (1), but by purposeful amendment, it was sought to relieve against the hardship of the Court’s holding in Anderson v. Yungkau, 329 U.S. 482, 67 S.Ct. 428, 91 L.Ed. 436 (1947). It was intended that liberal effect be given to the 1963 amendment. Graham v. Pennsylvania Railroad, 119 U.S.App.D.C. 335, 342 F.2d 914 (1964), cert. denied, 381 U.S. 904, 85 S.Ct. 1446, 14 L.Ed.2d 286 (1965). We are constrained to reverse for further proceedings not inconsistent with this opinion. Reversed. The only “party” then
+was direct evidence that it had had no access thereto, but the court found from comparison of the book with the picture that there were similarities which could not be the result of coincidence and which, therefore, were the result of access to the book by defendant and of “conscious or unconscious” copying thereof. It recognized as the parties here agree, that in law the unauthorized copying of the whole or substantial part of the literary property of another is a tort and that in an action such as this the burden of proof to establish the commission of the tort was upon plaintiff. Also that the law of literary property and copyright, differing from patent law, protects the property right of the originator of a composition, even though the composition he has originated is the same as that which another has originated. Each originator has property right in his own and the action does not lie unless the defendant had access to the plaintiff’s work and copied therefrom. But as summarized in its written opinion, included in the record, the court inferred from the existence of similarities which it found “that this is a -case where plaintiff’s treatment has been consciously or unconsciously purloined.” The defendant prosecutes this appeal to reverse the decree and contends, among other things, (1) that the court erroneously applied the doctrine of unconscious plagiarism and that upon proper application of the law relating to access and copying to the evidence before the court, the
 
-***short_citations_1:*** 359 F.2d 292
+***short_citations_1:*** 154 F.2d 480
 
-insertion of a “reasonable time” standard. In 1963, the Advisory Committee suggested the present rule and noted: “Present Rule 25(a) (1), together with present Rule 6(b), results in an inflexible requirement that an action be dismissed as to a deceased party if substitution is not carried out within a fixed period measured from the time of the death. The hardships and inequities of this unyielding requirement plainly appear from the cases. * * * The amended rulé establishes a time limit for the motion to substitute based not upon the time of the death, but rather upon the time information of the death is provided by means of a suggestion of death upon the record, i. e. service of a statement of the fact of the death.” See Notes of Advisory Committee on the Civil Rules, 28 U.S.C. Rule 25 (1964). Rule 6(b) of the Federal Rules of Civil Procedure was also amended in 1963 and the prohibition against extending the time for taking action under Rule 25 was eliminated. The Advisory Committee on the Civil Rules noted: “It is intended that the court shall have discretion to enlarge that period.” The amendments of Rules 6(b) and 25(a) (1) provided needed flexibility. It was assumed that discretionary extensions would be liberally granted. Movants under Rule 25 can ordinarily control when a death is “suggested upon the record” and appellants’ attorney was under no obligation to file his affidavit of Staggers’ death on the date he did. He could have filed
+copied from plaintiff’s work, and (b) that, if copying is proved, it was so “material” or “substantial” as to constitute unlawful appropriation. Plaintiff here must lose for failure to establish the first of these facts. The evidence by no means compels the conclusion that there was access; on the other hand, it does not compel the conclusion that there was not. Consequently, copying might still be proved by showing striking similarity. Here similarity exists; indeed, a passage in Franchelti’s “verse” is identical with one in plaintiff’s “chorus.” Mere similarity is not enough; but here one finds more; both to the eye and ear, the identity is unmistakable, as defendants virtually concede. But defendants explain this fact by saying that, quite independently, both composers utilized a common source — either Dvorak’s composition or the older commonplace theme which Dvorak had adopted and adapted. As, however, both optically and aurally, plaintiff’s treatment is distinguishable from Dvorak’s and also from the older commonplace theme, that explanation would not wash, were plaintiff’s -contribution highly original. In an appropriate case, copying might be demonstrated, with no proof or weak proof of access, by showing that a single brief phrase, contained in both pieces, was so idiosyncratic- in its treatment as to preclude coincidence. In such circumstances, stimulation by the same stimulus would not serve as a defense: Buchanan tells us that Kekulé’s “idea of the carbon-ring came out of the lurid imagery of a morning after a party”; many a chemist had had a like
 
 **prev_text:**
-LEVENTHAL, Circuit Judge: The District Court held that Rule 25(a) (1) of the Federal Rules of Civil
-Procedure required dismissal of the plaintiffs’ tort action because defendant’s counsel had filed a
-suggestion of death of the defendant yet plaintiff had not made any substitution of parties within
-90 days. We reverse on the ground that the suggestion of death, which was neither filed by nor
-identified a successor or representative of the deceased, such as an executor or administrator, was
-ineffective to trigger the running of the 90-day period provided by the Rule. Mr. and Mrs. John
-Rende filed an action in the District Court individually and on behalf of their infant son who had
-been struck and injured by Alfred S. Kay while driving his car. On August 27, 1967, defendant Kay
-died. On September 1, 1967, the defendant’s attorney, a term used here to identify the lawyer who
-had been retained by deceased to defend the action, and who had duly entered an appearance as
-attorney for defendant, filed a suggestion of death in the District Court, giving notice to
-plaintiffs’ attorney. That same day there was filed in the Orphans Court for Montgomery County,
-Maryland, residence of the deceased, his will naming his widow as executrix, but the will had not
-been probated, nor any legal representative appointed for the estate at the time of the filing of
-this appeal. Plaintiffs’ attorney was injured on October 14, 1967. On returning to practice early in
-1968, he learned that no successor to defendant Kay had yet been appointed, and he moved to certify
-the case to the ready calendar. The defendant’s attorney opposed this on grounds that discovery
-procedures had not been completed. The case was delayed and placed on the ready calendar as of June
-7, 1968. However, in April 1968, the defendant’s attorney moved in his own name to dismiss the
-action on the ground that Rule 25(a) (1) required plaintiffs to move to substitute a proper party
-for the deceased within 90 days of the suggestion of death. Plaintiffs filed an opposition and
-motion for substitution of the proper party, and sought an extension of the time for substitution as
-allowed by Rule 6(b). At argument, plaintiffs’ counsel asserted the “suggestion of death was
-defective in that it did not list the name of the proper party; that is the legal representative of
-the defendant.” The court responded: “That would not be his burden.” The court dismissed the action
-with prejudice. Prior to its amendment in 1963, Rule 25(a) (1) required the court to dismiss a case
-if no motion for substitution was filed within two. years after date of death, and no extensions of
-this period were allowed under Rule 6(b). The rule was rigorously applied, often with harsh results,
-and was called “easily the poorest rule of all the Federal Rules.” In 1955 the Advisory Committee on
-Rules for Civil Procedure recommended that the two-year period be changed to a “reasonable time”
-standard. In 1961 the Advisory Committee on Civil Rules again suggested the Rule be made more
-flexible. In 1963 the Supreme Court made changes in Rule 25(a) (1) and in Rule 6(b) so as to provide
-a 90-day time limit from the filing of a suggestion of death, and to give the court discretion to
-extend that time. The Committee Notes explaining the amendments state: Present Rule 25(a) (1),
-together with present Rule 6(b), results in an inflexible requirement that an action be dismissed as
-to a deceased party if substitution is not carried out within a fixed period measured from the time
-of death. The hardships and inequities of this unyielding requirement plainly appear from the cases.
-* * * The amended rule establishes a time limit for the motion to substitute based not upon the time
-of the death, but rather upon the time information of the death is provided by means of a suggestion
-of death upon the record. * * * A motion to substitute may be made by any party or by the
-representative of the deceased party without awaiting the suggestion of death. Indeed, the motion
-will usually be so made. If a party or the representative of the deceased party desires to limit the
-time within which another may make the motion, he may do so by suggesting the death upon the record.
-(Emphasis added.) Under the amended Rule either a party or “the successors or representatives of the
-deceased party” may avoid delay in effecting substitution for the deceased party either by filing a
-motion for substitution or by suggesting death on the record and thus triggering the 90-day period
-which begins with suggestion of death. The Advisory Committee, in outlining that suggestion of death
-could be made by “the representative of the deceased party” plainly contemplated that the suggestion
-emanating from the side of the deceased would identify a representative of the estate, such as an
-executor or administrator, who could be substituted for the deceased as a party, with the action
-continued in the name of the representative. The addition of “successor” in the Rule would take care
-of the case of, say, the distributee of an estate that had been distributed, but would not make a
-material difference in the aspect under consideration. Form 30, for suggestion of death, which was
-provided in order to expedite and facilitate implementation of the amendment, provides: A.B.
-[described as a party, or as executor, administrator, or other representative or successor of C.D.,
-the deceased party\ suggests upon the record, pursuant to Rule 25(a) (1), the death of C.D.
-[describe as party] during the pendency of this action. Added Jan. 21, 1963, eff. July 1, 1963.
-[Emphasis added.] Although the attorney for the defendant was retained to “represent” the deceased
-as his counsel, he is not a person who could be made a party, and is not a “representative of the
-deceased party” in the sense contemplated by Rule 25(a) d). In our opinion the Rule, as amended,
-cannot fairly be construed, as the de fendant’s attorney argues, to make his suggestion of death
-operative to trigger the 90-day period even though he was neither a successor nor representative of
-the deceased, and gave no indication of what person was available to be named in substitution as a
-representative of the deceased. Counsel’s construction would open the door to a tactical maneuver to
-place upon the plaintiff the burden of locating the representative of the estate within 90 days. We
-can conceive of cases wherein even the lawyer retained to represent a defendant might know the
-defendant had died, yet not readily know where his estate would be administered. In the present
-case, plaintiff’s attorney did know the court of probate, but he did not know whether probate of the
-will might be contested, or who would be appointed representative of the estate. The tactic of the
-defendant’s attorney would place on plaintiff the burden, where no conventional representative was
-appointed for the estate in probate court, of instituting machinery in order to produce some
-representative of the estate ad litem, pending appointment of the representative contemplated by law
-of the domicile of the deceased.
+DUFFY, Senior Circuit Judge. This suit for damages and injunctive relief was brought by the
+plaintiff for the alleged infringement by defendants of a copyright owned by her. Plaintiff Scott
+testified that when she wrote “Discretion” in 1939, she was a housewife living in Grand Rapids,
+Michigan ; that she wrote it as a one-act radio play as a pilot for a proposed radio series, but
+that “Discretion” was never broadcast as a radio play. She testified further that in 1944, after
+many hours of drafting and rewriting, she expanded “Discretion” into a two and a half hour three-act
+play. This is the play which was copyrighted by plaintiff in 1944, and with a few brief additions,
+was presented by an amateur group in Detroit, Michigan, for two performances in 1946. The play
+“Discretion” has never been published, publicly circulated or professionally produced. The validity
+of plaintiff’s copyright is not contested. Up to the time of the alleged infringing telecast in
+1962, plaintiff had made fifteen copies of her work some of which she still had on hand. She had
+circulated her work among several business agents, but without success. Mrs. Lois Hire is the author
+of the allegedly infringing play “Conditional Surrender.” It is a half hour TV show which was
+telecast on May 9, 1962 by National Broadcasting Company (NBC) and station WKJG, Inc. in Fort Wayne,
+Indiana, in presenting “The Loretta Young Show.” Mrs. Hire testified she wrote “Conditional
+Surrender” in 1960 in California, and that it was based upon an idea given to her by the instructor
+of an adult TY play-writing class which she attended from 1958 to 1960. She testified she completed
+the play in a five day, twenty hour period. Mrs. Hire is a professional writer. She has written
+twelve plays of which seven have been sold and produced on nationally televised productions such as
+“Bonanza”, “U. S. Steel Hour”, “Kentucky Jones” and “The Loretta Young Show.” Mrs. Hire testified
+she had never known of plaintiff’s play nor of the plaintiff until the instant suit was commenced.
+She testified that she had never been in the State of Michigan, and that prior to 1958, she had had
+no particular interest in plays or play-writing and had never read any unpublished scripts. There
+are similarities in the two plays here involved. Both have the same general stock plot, for each
+play involves a husband, wife and husband’s girl friend situation. It cannot be said that the love
+triangle plot is, in itself, unique. Involved in each play is a middle-aged couple having been
+married for about fifteen years. They have reached a crisis resulting from the husband’s involvement
+with a woman who works in his place of business. In each play the wife apparently accedes to the
+husband’s request for a divorce, but does so in a manner to show to him the disadvantages of such a
+situation. The wife’s terms and her other actions are, in fact, devices by which the wife seeks to
+defeat her husband’s plans for a divorce. In both plays the wife’s devices include the requirement
+that the husband assume the custody of the children, and purchase the wife’s interest in the home
+property. Also involved in each play is the wife’s acquisition of new clothes as a means of
+attracting men when the wife goes on a hunt for a new husband. There is a further similarity in that
+the wardrobe suggested by the wife in each case was daring and rather shocking to the husband.
+Plaintiff points to certain words and groups of words which, she argues, demonstrate a copying by
+the defendant. With reference to the suggested divorce, the wife in defendant’s play states “Since
+it has, there’s no point in being uncivilized about it. * * The wife in plaintiff’s play states “ *
+* * We’re two civilized people. * * * ” Again, the wife in defendant’s play says “ * * I’ll line
+them up and say ‘Boys, your father has found a new playmate’ ” while the wife in plaintiff’s play
+states “ * * The King is dead — long live the King.” Plaintiff also points to the use of the word
+“brazen.” The husband in defendant’s play states “I certainly didn’t expect this brazen man hunt.”
+In the plaintiff’s play the husband states “You sound brazen.” Plaintiff refers to a grammatical
+error, the alleged use of “I’d” as a contraction for “I had.” However, the use of “I’d” in
+defendant’s “Conditional Surrender” was not a contraction for “I had.” Plaintiff makes references to
+some additional groups of words called by her “key words,” and also additional sentences used in
+defendant’s play which plaintiff claims indicate copying. However, the District Court found that
+there were no identical or copied word for word sentences or passages in the two plays. The trial
+court also found the two plays were so significantly different as to sequence, characterization,
+characters, scenes, settings and style of writing as to be “two entirely different plays.” In
+addition, the District Court found there was no evidence or proof of direct access or even the
+possibility of access to the plaintiff’s play by the author or producers of “Conditional Surrender.”
+A copyright is intended to protect authorship. The essence of a copyright protection is the
+protection of originality rather than novelty or invention. Wihtol v. Wells, 7 Cir., 231 F.2d 550.
+It must be remembered that copyright protection does not extend to ideas, plots, dramatic situations
+and events. Rather, it is limited to the arrangement of words the author uses to express his ideas.
+Funkhouser v. Loew’s, Inc., 8 Cir., 208 F.2d 185, 189, cert. den. 348 U.S. 843, 75 S.Ct. 64, 99
+L.Ed. 664; Burnett v. Lambino, S.D.N.Y., 204 F.Supp. 327, 331-332. To establish the infringement of
+a copyright, the plaintiff has the burden of proving 1) that the accused work was copied from the
+copyrighted work, and 2) that the author of the accused work unlawfully appropriated protected
+material from the copyrighted work. Arnstein v. Porter, 2 Cir., 154 F.2d 464, 468.
 
 

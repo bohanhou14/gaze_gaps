@@ -1,142 +1,228 @@
 **gold_text:**
-The amendment to Rule 25(a) (1) was intended to dispel unwarranted rigidity and allow more
-flexibility in substitution. “It was intended that liberal effect be given to the 1963 amendment.”
-Roscoe v. Roscoe, 126 U.S.App.D.C. 317, 322, 379 F.2d 94, 99 (1967). “[T]he 90 day period was not
-intended to act as a bar to otherwise meritorious actions.” Staggers v. Otto Gerdau Co., 359 F.2d
-292, 296 (2d Cir. 1966).
+‘“We have held with a regularity bordering on the monotonous that fact-specific claims of
+ineffective assistance cannot make their debut on direct review of criminal convictions, but,
+rather, must originally be presented to, and acted upon by, the trial court.’ ” United States v.
+Leahy, 473 F.3d 401, 410 (1st Cir.2007) (quoting United States v. Mala, 7 F.3d 1058, 1063 (1st
+Cir.1993)). Hicks may choose to pursue his allegations that his counsel was conflicted and
+ineffective in a collateral proceeding. Regardless, on direct review, there is not enough to support
+his claims. The district court neither abused its discretion in denying counsel’s motion to
+withdraw, nor improperly participated in plea negotiations. Affirmed.
 
 **Generations:**
 
 
 ***GPT-4o:***
-This stringent interpretation contrasts sharply with the intent of the 1963 amendments to Rule 25
-and Rule 6(b), which aimed to inject flexibility and fairness into the substitution process. As
-noted in 379 F.2d 94 and 359 F.2d 292, the amendments were designed to eliminate the inequities and
-hardships caused by the rigid two-year limitation originally imposed. The Advisory Committee
-emphasized that the revised rules were to be liberally construed to allow courts discretion in
-extending the substitution period, recognizing the difficulties that could arise in promptly
-identifying and notifying the proper representative of the deceased.   Given this context, the
-defendant’s counsel's suggestion of death, which lacked identification of a proper representative,
-failed to initiate the 90-day countdown. This interpretation aligns with the judicial precedent that
-courts should prioritize the equitable administration of justice over strict procedural formalities.
-Thus, the district court erred in dismissing the plaintiffs' action without granting the requested
-extension, especially considering the circumstances that inhibited timely substitution, such as the
-injury to plaintiffs' counsel and the ongoing legal processes in the probate court.  We, therefore,
-reverse the judgment and remand for further proceedings consistent with this opinion, ensuring that
-the substitution process adheres to the flexible and just principles intended by the amendments to
-the Federal Rules of Civil Procedure.
+In addressing Hicks’s claims of ineffective assistance of counsel, we adhere to the principle that
+such fact-specific claims are generally not suitable for direct review. As established in United
+States v. Mala, fact-specific claims of ineffective assistance must first be presented to the trial
+court and cannot debut on direct appeal (7 F.3d 1058, 1063). This prudential rule insists on initial
+presentation at trial to ensure a developed record.  In this case, Hicks's claims of ineffective
+assistance are not adequately supported by the current record. The assertion that counsel’s
+performance was deficient hinges largely on Hicks's own observations and lacks concrete evidence of
+professional negligence or actual misconduct. The trial court's findings—that counsel had
+represented Hicks competently—along with the absence of clear-cut evidence to the contrary, indicate
+that Hicks’s claims fail to meet the threshold for direct review established in United States v.
+Segarra-Rivera, where direct appeal was allowed only in the presence of specific, colorable evidence
+of actual misconduct (473 F.3d 401, 385).  Given these considerations, Hicks’s ineffective
+assistance claims are best suited for collateral proceedings where a fuller factual record can be
+developed to assess the assertions of unpreparedness, conflict of interest, and coercion.
+Accordingly, we affirm the district court's decisions on the matters amenable to direct review,
+while recognizing that the remaining ineffectiveness claims must be addressed in a different forum.
 
 
 **Label:** 
 
 
 ***Meta-Llama-3-8B-Instruct:***
-  In the context of Rule 25(a) (1) of the Federal Rules of Civil Procedure, the suggestion of death
-is a crucial step in the process of substituting a deceased party with a proper representative.
-However, not all suggestions of death are created equal. In cases where the suggestion of death is
-made by a party's attorney, but fails to identify a successor or representative of the deceased, the
-90-day period for substitution may not be triggered.  As noted in 359 F.2d 292, the Advisory
-Committee on Civil Rules intended to provide a more flexible standard for substitution, allowing for
-extensions of time and dispensing with the rigid two-year period previously in place. However, this
-flexibility is contingent upon the suggestion of death providing sufficient information to permit
-the court to proceed with substitution.  In the present case, the suggestion of death made by the
-defendant's attorney was deficient in that it failed to identify a successor or representative of
-the deceased. This lack of specificity rendered the suggestion ineffective in triggering the 90-day
-period for substitution, as explained in 379 F.2d 94.  Furthermore, the court's discretion to
-enlarge the time period for substitution, as provided by Rule 6(b), is not a blank check. Rather, it
-is intended to be exercised in a judicious and reasonable manner, taking into account the particular
-circumstances of each case.  In light of these principles, we conclude that the district court erred
-in dismissing the action with prejudice. The case should be remanded for further proceedings,
-allowing the parties to properly substitute a representative of the deceased and continue the action
-in a manner consistent with the Federal Rules of Civil Procedure.
+  In the case of Hicks v. United States, the defendant sought to have his guilty plea invalidated on
+several grounds related to problems with his counsel and the proceedings surrounding his plea and
+sentencing. The court held that two of his allegations were meritless and two others were better
+suited for collateral proceedings.  The defendant claimed that the district court had improperly
+participated in plea negotiations, but the court found that the district court's comments were not
+coercive and did not amount to judicial pressure to plead guilty. The court also rejected the
+defendant's claims of ineffective assistance of counsel, finding that there was no evidence of
+counsel's failure to perform his duties.  In reaching its decision, the court cited two reference
+cases: Leahy v. United States (473 F.3d 401) and United States v. Mala (7 F.3d 1058). The court
+noted that ineffective assistance of counsel claims must be presented first to the trial court for
+factual development, and that direct review of conflict of interest claims is only appropriate where
+there is specific, colorable evidence of actual misconduct.  In conclusion, the court's decision was
+based on a thorough examination of the record and a careful consideration of the defendant's
+allegations. The court's findings on the defendant's claims of ineffective assistance of counsel and
+judicial coercion were consistent with the principles established in the referenced cases.
 
 
 **Label:** 
 
 
-**citations:** ['379 F.2d 94', '359 F.2d 292']
+**citations:** ['473 F.3d 401', '7 F.3d 1058']
 
-***short_citations_0:*** 379 F.2d 94
+***short_citations_0:*** 473 F.3d 401
 
-the proper parties. * * * Unless the motion for substitution is made not later than 90 days after the death is suggested upon the record by service of a statement of the fact of the death as provided herein for the service of the motion, the action shall be dismissed as to the deceased party.” Here not only had the 90-day period not expired when the court entered summary judgment, the appellant by her motion for reconsideration had specifically invoked the discretion of the court. Rule 6(b) provides pertinently that when “by these rules * * * an act is required or allowed to be done at or within a specified time, the court for cause shown may at any time in its discretion (1) with or without motion or notice order the period enlarged if request therefor is made before the expiration of the period originally prescribed * * Originally the Rule had precluded an extension of time for taking action under Rule 25(a) (1), but by purposeful amendment, it was sought to relieve against the hardship of the Court’s holding in Anderson v. Yungkau, 329 U.S. 482, 67 S.Ct. 428, 91 L.Ed. 436 (1947). It was intended that liberal effect be given to the 1963 amendment. Graham v. Pennsylvania Railroad, 119 U.S.App.D.C. 335, 342 F.2d 914 (1964), cert. denied, 381 U.S. 904, 85 S.Ct. 1446, 14 L.Ed.2d 286 (1965). We are constrained to reverse for further proceedings not inconsistent with this opinion. Reversed. The only “party” then
+Leahy next complains that his trial counsel did not offer to stipulate to the fact the he was a previously convicted felon — an omission that opened the door for the government to introduce evidence of the unattractive particulars of Leahy’s prior misdeeds. Since the government would have had no choice but to enter into such a stipulation upon a timely request, see Old Chief v. United States, 519 U.S. 172, 174, 117 S.Ct. 644, 136 L.Ed.2d 574 (1997), this strategy does seem puzzling. The problem, however, is that this claim is newly advanced. “We have held with a regularity bordering on the monotonous that fact-specific claims of ineffective assistance cannot make their debut on direct review of criminal convictions, but, rather, must originally be presented to, and acted upon by, the trial court.” United States v. Mala, 7 F.3d 1058, 1063 (1st Cir.1993). To be sure, there is a narrow exception to this rule for cases in which the record is adequately developed to permit reasoned consideration of the claim. See, e.g., United States v. Natanel, 938 F.2d 302, 309 (1st Cir.1991). Here, however, that exception does not pertain. The record below contains nothing approaching an adequate elaboration of why counsel adopted the course that he followed (Leahy suggests that his lawyer did not know of the Old Chief decision, but that fact is not pellucid from the record), nor does it provide the district court’s first-hand insights as to what (if any) quantum of prejudice might have attended
 
-***short_citations_1:*** 359 F.2d 292
+***short_citations_1:*** 7 F.3d 1058
 
-insertion of a “reasonable time” standard. In 1963, the Advisory Committee suggested the present rule and noted: “Present Rule 25(a) (1), together with present Rule 6(b), results in an inflexible requirement that an action be dismissed as to a deceased party if substitution is not carried out within a fixed period measured from the time of the death. The hardships and inequities of this unyielding requirement plainly appear from the cases. * * * The amended rulé establishes a time limit for the motion to substitute based not upon the time of the death, but rather upon the time information of the death is provided by means of a suggestion of death upon the record, i. e. service of a statement of the fact of the death.” See Notes of Advisory Committee on the Civil Rules, 28 U.S.C. Rule 25 (1964). Rule 6(b) of the Federal Rules of Civil Procedure was also amended in 1963 and the prohibition against extending the time for taking action under Rule 25 was eliminated. The Advisory Committee on the Civil Rules noted: “It is intended that the court shall have discretion to enlarge that period.” The amendments of Rules 6(b) and 25(a) (1) provided needed flexibility. It was assumed that discretionary extensions would be liberally granted. Movants under Rule 25 can ordinarily control when a death is “suggested upon the record” and appellants’ attorney was under no obligation to file his affidavit of Staggers’ death on the date he did. He could have filed
+this instance, the assignment of error premised on the defendant’s constitutional right to a speedy trial succumbs for want of satisfactory proof. C. Ineffective Assistance The Sixth Amendment also provides that persons accused of crimes shall receive the benefit of counsel for their defense. See U.S. Const., Amend. VI. Appellant maintains that he was denied this safeguard because his trial counsel performed below any acceptable standard of proficiency. While this suggestion is not implausible on its face, we do not think it is ripe for our consideration. We explain briefly. We have held with a regularity bordering on the monotonous that fact-specific claims of ineffective assistance cannot make their debut on direct review of criminal convictions, but, rather, must originally be presented to, and acted upon by, the trial court. See, e.g., United States v. McGill, 952 F.2d 16, 19 (1st Cir.1992); United States v. Natanel, 938 F.2d 302, 309 (1st Cir.1991), cert. denied, — U.S. -, 112 S.Ct. 986, 117 L.Ed.2d 148 (1992); United States v. Hunnewell, 891 F.2d 955, 956 (1st Cir.1989); United States v. Costa, 890 F.2d 480, 482-83 (1st Cir.1989); United States v. Hoyos-Medina, 878 F.2d 21, 22 (1st Cir.1989); United States v. Carter, 815 F.2d 827, 829 (1st Cir.1987); United States v. Kobrosky, 711 F.2d 449, 457 (1st Cir.1983). The rule has a prudential aspect. Since claims of ineffective assistance involve a binary analysis—the defendant must show, first, that counsel’s performance was constitutionally deficient and, second, that the deficient performance prejudiced the defense, see Strickland
 
 **prev_text:**
-LEVENTHAL, Circuit Judge: The District Court held that Rule 25(a) (1) of the Federal Rules of Civil
-Procedure required dismissal of the plaintiffs’ tort action because defendant’s counsel had filed a
-suggestion of death of the defendant yet plaintiff had not made any substitution of parties within
-90 days. We reverse on the ground that the suggestion of death, which was neither filed by nor
-identified a successor or representative of the deceased, such as an executor or administrator, was
-ineffective to trigger the running of the 90-day period provided by the Rule. Mr. and Mrs. John
-Rende filed an action in the District Court individually and on behalf of their infant son who had
-been struck and injured by Alfred S. Kay while driving his car. On August 27, 1967, defendant Kay
-died. On September 1, 1967, the defendant’s attorney, a term used here to identify the lawyer who
-had been retained by deceased to defend the action, and who had duly entered an appearance as
-attorney for defendant, filed a suggestion of death in the District Court, giving notice to
-plaintiffs’ attorney. That same day there was filed in the Orphans Court for Montgomery County,
-Maryland, residence of the deceased, his will naming his widow as executrix, but the will had not
-been probated, nor any legal representative appointed for the estate at the time of the filing of
-this appeal. Plaintiffs’ attorney was injured on October 14, 1967. On returning to practice early in
-1968, he learned that no successor to defendant Kay had yet been appointed, and he moved to certify
-the case to the ready calendar. The defendant’s attorney opposed this on grounds that discovery
-procedures had not been completed. The case was delayed and placed on the ready calendar as of June
-7, 1968. However, in April 1968, the defendant’s attorney moved in his own name to dismiss the
-action on the ground that Rule 25(a) (1) required plaintiffs to move to substitute a proper party
-for the deceased within 90 days of the suggestion of death. Plaintiffs filed an opposition and
-motion for substitution of the proper party, and sought an extension of the time for substitution as
-allowed by Rule 6(b). At argument, plaintiffs’ counsel asserted the “suggestion of death was
-defective in that it did not list the name of the proper party; that is the legal representative of
-the defendant.” The court responded: “That would not be his burden.” The court dismissed the action
-with prejudice. Prior to its amendment in 1963, Rule 25(a) (1) required the court to dismiss a case
-if no motion for substitution was filed within two. years after date of death, and no extensions of
-this period were allowed under Rule 6(b). The rule was rigorously applied, often with harsh results,
-and was called “easily the poorest rule of all the Federal Rules.” In 1955 the Advisory Committee on
-Rules for Civil Procedure recommended that the two-year period be changed to a “reasonable time”
-standard. In 1961 the Advisory Committee on Civil Rules again suggested the Rule be made more
-flexible. In 1963 the Supreme Court made changes in Rule 25(a) (1) and in Rule 6(b) so as to provide
-a 90-day time limit from the filing of a suggestion of death, and to give the court discretion to
-extend that time. The Committee Notes explaining the amendments state: Present Rule 25(a) (1),
-together with present Rule 6(b), results in an inflexible requirement that an action be dismissed as
-to a deceased party if substitution is not carried out within a fixed period measured from the time
-of death. The hardships and inequities of this unyielding requirement plainly appear from the cases.
-* * * The amended rule establishes a time limit for the motion to substitute based not upon the time
-of the death, but rather upon the time information of the death is provided by means of a suggestion
-of death upon the record. * * * A motion to substitute may be made by any party or by the
-representative of the deceased party without awaiting the suggestion of death. Indeed, the motion
-will usually be so made. If a party or the representative of the deceased party desires to limit the
-time within which another may make the motion, he may do so by suggesting the death upon the record.
-(Emphasis added.) Under the amended Rule either a party or “the successors or representatives of the
-deceased party” may avoid delay in effecting substitution for the deceased party either by filing a
-motion for substitution or by suggesting death on the record and thus triggering the 90-day period
-which begins with suggestion of death. The Advisory Committee, in outlining that suggestion of death
-could be made by “the representative of the deceased party” plainly contemplated that the suggestion
-emanating from the side of the deceased would identify a representative of the estate, such as an
-executor or administrator, who could be substituted for the deceased as a party, with the action
-continued in the name of the representative. The addition of “successor” in the Rule would take care
-of the case of, say, the distributee of an estate that had been distributed, but would not make a
-material difference in the aspect under consideration. Form 30, for suggestion of death, which was
-provided in order to expedite and facilitate implementation of the amendment, provides: A.B.
-[described as a party, or as executor, administrator, or other representative or successor of C.D.,
-the deceased party\ suggests upon the record, pursuant to Rule 25(a) (1), the death of C.D.
-[describe as party] during the pendency of this action. Added Jan. 21, 1963, eff. July 1, 1963.
-[Emphasis added.] Although the attorney for the defendant was retained to “represent” the deceased
-as his counsel, he is not a person who could be made a party, and is not a “representative of the
-deceased party” in the sense contemplated by Rule 25(a) d). In our opinion the Rule, as amended,
-cannot fairly be construed, as the de fendant’s attorney argues, to make his suggestion of death
-operative to trigger the 90-day period even though he was neither a successor nor representative of
-the deceased, and gave no indication of what person was available to be named in substitution as a
-representative of the deceased. Counsel’s construction would open the door to a tactical maneuver to
-place upon the plaintiff the burden of locating the representative of the estate within 90 days. We
-can conceive of cases wherein even the lawyer retained to represent a defendant might know the
-defendant had died, yet not readily know where his estate would be administered. In the present
-case, plaintiff’s attorney did know the court of probate, but he did not know whether probate of the
-will might be contested, or who would be appointed representative of the estate. The tactic of the
-defendant’s attorney would place on plaintiff the burden, where no conventional representative was
-appointed for the estate in probate court, of instituting machinery in order to produce some
-representative of the estate ad litem, pending appointment of the representative contemplated by law
-of the domicile of the deceased.
+HOWARD, Circuit Judge. Gary Hicks pled guilty to two counts of possession with intent to distribute
+cocaine base, in violation of 18 U.S.C. § 841(a)(1) and (b)(1)(B). He seeks to have that guilty plea
+invalidated on a number of grounds, all of them related to problems with his counsel and consequent
+irregularities in the proceedings surrounding his plea and sentencing. We hold two of his
+allegations meritless and two others better suited for collateral proceedings. We therefore affirm
+the district court. I. Facts The defendant was indicted for selling crack cocaine on two occasions.
+Hicks’s appointed counsel obtained a continuance to review the discovery, which included videotape
+of the drug transactions. Hicks received a proposed plea agreement from the government, but it
+expired without his acceptance of the terms proposed. There is some disagreement about the extent of
+Hicks’s discussions with his counsel about the plea agreement. Hicks initially told the district
+court that counsel met with him at 10:30 in the morning saying the deal would be off the table at
+4:00 that afternoon. On further questioning Hicks conceded that counsel had gone over the plea
+agreement “very quickly” with him once prior to that date. Defense counsel stated for the record
+that he had met with Hicks and discussed the plea agreement three separate times before the deadline
+passed. In any event, the plea offer expired, the government filed an information, and the case was
+set for trial. On the day of jury empanelment, Hicks addressed the court. He offered to waive his
+speedy trial right in order to secure a continuance, but the motion was denied. His counsel moved to
+withdraw. The district court questioned both Hicks and his counsel about their relationship. Hicks
+said he was dissatisfied with counsel because of the short timeline for accepting or rejecting the
+plea deal, and because of counsel’s advice that he accept the plea deal. The district court assured
+Hicks that his counsel was “one of the most experienced criminal lawyers in the entire state” and
+that “if [he] is giving you legal advice, you can rest assured that he knows what he’s talking
+about.” The court then denied the motion, saying, “[I]f the reason you’re asking him to get out of
+the case is because you don’t agree with something that was in the plea agreement, that’s not a
+valid basis for me to grant the motion.” Jury empanelment proceeded without further issue. On the
+morning that the presentation of evidence was to begin, Hicks once more expressed dissatisfaction
+with his counsel and declared that he did not wish to go forward with the trial. On further
+questioning by the court, Hicks asserted a conflict of interest with counsel as well as a lack of
+confidence in counsel. The district court put to Hicks that he had two choices: go to trial with his
+appointed counsel or plead guilty without the benefit of a plea agreement. Hicks consulted with
+counsel twice, at his own request. Counsel stated that Hicks merely kept repeating that he did not
+wish to go forward with the trial. Once more the district court assured Hicks that his counsel was
+competent, calling him “one of the five top criminal defense lawyers in the state.” Hicks repeated
+that he did not have confidence in his counsel. He elaborated: I don’t think he’s properly prepared.
+I told him several times of witnesses that he should subpoena for this trial. He has not mentioned
+one witness that I told him about.... He hasn’t even conferred with me on how he’s going to defend
+me. I think that’s pretty important. I think I should know how I’m going to be defended in a trial
+that has to do with me. He came to visit me Friday for four minutes. Four minutes. The district
+court then directed counsel to confer with Hicks and explain how he intended to conduct Hicks’s
+defense. After this third conference, with Hicks still unwilling to proceed to trial, the district
+court began the plea colloquy. During the plea colloquy Hicks elaborated on his lack of confidence
+in his counsel. He acknowledged that counsel had presented the plea agreement to him on two
+occasions, and admitted that “the plea agreement was, in turn, not that bad of a deal.” He explained
+that counsel did warn him that refusing the plea agreement might double his sentence, but that
+counsel had not been able to speak in concrete terms about the sentence Hicks might face. The
+district court explained to Hicks that counsel was right. Although Hicks said of his counsel, “I
+don’t blame him for anything,” later in the colloquy Hicks took issue with “the way the message was
+being delivered.” He said that although he had been arrested on May 15, counsel did not visit him
+until “well after” June 26, despite what Hicks characterized as “continuous” requests from Hicks’s
+family members that counsel go and see him. After the colloquy, the district court found Hicks’s
+plea to be knowing, voluntary and intelligent and entered a judgment of guilty on both counts.
+Sentencing was scheduled for December 1, 2006. At sentencing, the district court inquired as to
+several objections Hicks made to the pre-sentence report. One of these merits discussion here.
+Hicks, by himself, claimed that the plea should be set aside as involuntary. His counsel stated he
+did not know of any ground on which he could argue that the plea was involuntary, and suggested that
+Hicks might wish to address this himself. The district court treated this as a motion to withdraw a
+guilty plea and denied it, reiterating that the guilty plea had been knowing, voluntary and
+intelligent. After Hicks exercised his right of allocution, the district court sentenced him to the
+statutory mandatory minimum: incarceration for 120 months followed by 8 years of supervised release.
+II. Discussion Hicks raises several claims on appeal. He contends that the district court improperly
+participated in plea discussions by vouching for defense counsel and asserting that whatever advice
+he was offering was sound advice. In the specific context of this case, Hicks argües, this amounted
+to judicial pressure to plead guilty. He also makes a cluster of arguments that all relate to the
+adequacy of his representation: that the district court should have allowed his counsel to withdraw
+and appointed new counsel, that counsel was ineffective, and that the guilty plea was involuntary
+because counsel’s lack of trial preparation coerced the plea. Our examination of the record
+convinces us that the district court did not improperly participate in plea negotiations. Nor did
+the district court abuse its discretion in refusing to allow counsel to withdraw. The other claims,
+of coercion in his plea and ineffective assistance of counsel, are properly brought in a collateral
+proceeding; the record here is insufficient to find inadequate representation, which is the issue
+central to the remaining claims. Consequently, we affirm the district court. A. Improper judicial
+participation in plea negotiations Hicks claims that the district court improperly participated in
+plea negotiations. He argues that the district court indirectly recommended that Hicks plead guilty
+when it told Hicks that whatever advice counsel was giving him was good advice. Federal Rule of
+Criminal Procedure 11 governs plea negotiations. It permits the government and defendant’s counsel
+to discuss a plea agreement and explicitly provides, “The court must not participate in these
+discussions.” Id. at § 11(c). In this case, however, the district court’s eomment came in the
+absence of any plea agreement discussions. Indeed, defense counsel admitted that the proposed plea
+agreement had “gone by the boards weeks ago.” Consequently, the strictures of Rule 11(c) are not
+applicable. Judicial coercion of defendants to plead guilty, even in the absence of plea agreement
+discussions, is a matter of serious concern. Hicks cites Longval v. Meachum, 693 F.2d 236 (1st
+Cir.1982), for the proposition that a district court can taint proceedings by impermissibly
+pressuring a defendant to plead guilty. That case held that comments from the bench that could have
+created a “reasonable apprehension of vindictiveness” required remand for re-sentencing after the
+defendant declined the trial judge’s invitation to plead, was convicted by a jury, and sentenced
+much more harshly than the plea agreement would have provided. Id. at 237 (quoting Blackledge v.
+Perry, 417 U.S. 21, 28, 94 S.Ct. 2098, 40 L.Ed.2d 628 (1974)). Here, however, there is nothing to
+support that kind of apprehension. Contrary to Hicks’s assertion on appeal, the district court did
+not tell Hicks he “should listen to [counsel’s] advice.” Rather, the transcript reveals different
+language: “He’s given you advice. You can rest assured it’s sound and good legal advice.” Further,
+this was not in the context of whether to plead guilty or proceed to trial: it took place
+immediately before jury empanelment, with no deal on the table and no guilty plea on the horizon.
+The context was a motion to withdraw, and Hicks was explaining why he wanted new counsel. In this
+context, Hicks offered his prior disagreement with counsel’s advice about the plea agreement as
+evidence that communications had broken down, and the district court’s response was addressed to
+that argument, not to the merits of the expired plea deal, let alone to the merits of an open plea
+no one anticipated. B. Adequacy of counsel Four of Hicks’s claims on appeal boil down to an attack
+on the adequacy of his representation: 1) his appeal of the denial of counsel’s motion to withdraw;
+2) his ineffective assistance claim based on a conflict of interest that allegedly arose when Hicks
+refused his counsel’s advice; 3) Hicks’s assertion that a failure to seek reinstatement of a lapsed
+offer for a plea bargain was ineffective assistance of counsel; and 4) his contention that the
+guilty plea was involuntary because it was coerced by counsel’s ineffective representation. The
+first of these we can resolve; the others we will not address on direct review. We sketch Hicks’s
+asserted problems with his counsel before discussing each claim in turn. In general, although Hicks
+claimed his counsel was unprepared, he offers only his observation that counsel had not subpoenaed
+the witnesses Hicks had proposed. Without more, this might reflect a difference of opinion about
+trial strategy, but not a lack of preparation amounting to ineffective assistance. Hicks alleges no
+admission by his counsel that counsel was in fact unprepared. Nor did counsel represent to the court
+that he was unready for trial. The district court noted that counsel had represented Hicks ably at
+every step of the process up to trial. Without specific, colorable allegations, Hicks could not
+convince the district court that counsel was unready, nor can he convince us. Hicks alleges that
+communication had broken down, but the only breakdown on the record is that Hicks did not like the
+advice he was getting. We address each of Hicks’s specific arguments below, but they all suffer from
+the same infirmity: there is no evidence that his counsel failed in his duties. First, Hicks argues
+that the district court should have granted counsel’s motion to withdraw. In our view, the district
+court appropriately inquired of both Hicks and his counsel to determine the nature and extent of the
+problem, and decided the matter well within its discretion. In reviewing the denial of a motion for
+new appointed counsel, or a motion to withdraw in a case with appointed counsel, we examine “(1) the
+timeliness of the motion; (2) the adequacy of the court’s inquiry into the defendant’s complaint;
+and (3) whether the conflict between the defendant and his counsel was so great that it resulted in
+a total lack of communication preventing an adequate defense.” United States v. Van Anh, 523 F.3d
+43, 48 (1st Cir.2008) (internal quotation marks omitted) (quoting United States v. Allen, 789 F.2d
+90, 92 (1st Cir.1986)) (articulating test in the context of denial of motion for new counsel); see
+United States v. Reyes, 352 F.3d 511, 515 (1st Cir.2003) (applying same test for counsel’s motion to
+withdraw). Here, the motion was made the day of jury empanelment, the district court conducted a
+thorough inquiry, and the record does not show a complete breakdown of communication. Accordingly,
+the district court did not abuse its discretion in denying the motion to withdraw. Next, Hicks
+argues that his refusal to heed counsel’s advice to plead guilty created a conflict of interest that
+only deepened every time Hicks expressed his dissatisfaction with counsel. Due to this conflict of
+interest, Hicks claims, he did not receive the effective representation that is his right under the
+Sixth Amendment. We have on occasion entertained such claims on direct appeal, but only when facts
+point to specific, colorable evidence of actual misconduct. See United States v. Segarra-Rivera, 473
+F.3d 381, 385 (1st Cir.2007) (direct review of conflict of interest appropriate where there is a
+colorable claim of actual misconduct). In SegarrarRivera, for instance, the defendant alleged that
+his guilty plea had been coerced by his counsel, who had “ambushed” him with a visit from his
+tearful wife, refused to leave without a signed plea agreement, and was wholly unprepared for trial.
+Counsel then argued against his client’s motion to withdraw the guilty plea, pointing out flaws in
+the motion and intimating that witnesses could prove his client’s guilt. Id. at 383-84. We remanded
+for an evidentiary hearing on the conflict of interest issue, relying on our conclusion that the
+misconduct alleged was more than professional negligence. Because Hicks has made no such showing,
+this claim must await a collateral proceeding. Hicks also confronts the adequacy of his counsel more
+squarely in advancing two garden-variety ineffective assistance of counsel claims. He claims that
+when he elected to plead guilty after the jury had been empaneled the morning of trial, counsel
+should have requested that the government again extend to Hicks its original offer; he further
+claims that counsel should have filed a formal motion to withdraw the guilty plea. These alleged
+lapses as well must be presented first to the trial court for factual development. Massaro v. United
+States, 538 U.S. 500, 505, 123 S.Ct. 1690, 155 L.Ed.2d 714 (2003) (“[Ijneffective-assistance claims
+ordinarily will be litigated in the first instance in the district court, the forum best suited to
+developing the facts necessary to determining the adequacy of representation during an entire
+trial.”). “In all but extraordinary circumstances, ... a claim of ineffective assistance that is
+raised for the first time in this court will not be entertained.” United States v. Martins, 413 F.3d
+139, 155 (1st Cir.2005). Although this is not an absolute rule, we are not confronted here with one
+of the “cases in which trial counsel’s ineffectiveness is so apparent from the record that” the
+issue may be decided on direct appeal. Massaro, 538 U.S. at 508, 123 S.Ct. 1690. Finally, Hicks
+claims that because his counsel was unprepared for trial, his guilty plea was involuntary and the
+district court committed reversible error in finding otherwise, an error the court compounded when
+it denied Hicks’s motion to withdraw his guilty plea at sentencing. This claim logically depends on
+the allegations of misconduct, conflict of interest and ineffective assistance in the other claims,
+and so must fare as they do. III. Conclusion
 
 

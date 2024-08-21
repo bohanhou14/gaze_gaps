@@ -1,142 +1,218 @@
 **gold_text:**
-The amendment to Rule 25(a) (1) was intended to dispel unwarranted rigidity and allow more
-flexibility in substitution. “It was intended that liberal effect be given to the 1963 amendment.”
-Roscoe v. Roscoe, 126 U.S.App.D.C. 317, 322, 379 F.2d 94, 99 (1967). “[T]he 90 day period was not
-intended to act as a bar to otherwise meritorious actions.” Staggers v. Otto Gerdau Co., 359 F.2d
-292, 296 (2d Cir. 1966).
+As the prevailing party in this Title VII ease, plaintiff is entitled to reasonable attorneys’ fees
+and costs. 42 U.S.C. § 2000e-5(k); see Moore v. National Association of Securities Dealers, Inc.,
+762 F.2d 1093, 1097-98 (D.C.Cir.1985). The Court has reviewed defendant’s request, including
+counsel’s sworn declaration and the detailed billing records provided, as well as the government’s
+arguments, to determine whether the hours spent and the hourly rates are reasonable. Copeland v.
+Marshall, 641 F.2d 880, 889 (D.C.Cir.1980); see Evans v. Sheraton Park Hotel, 503 F.2d 177
+(D.C.Cir.1974).
 
 **Generations:**
 
 
 ***GPT-4o:***
-This stringent interpretation contrasts sharply with the intent of the 1963 amendments to Rule 25
-and Rule 6(b), which aimed to inject flexibility and fairness into the substitution process. As
-noted in 379 F.2d 94 and 359 F.2d 292, the amendments were designed to eliminate the inequities and
-hardships caused by the rigid two-year limitation originally imposed. The Advisory Committee
-emphasized that the revised rules were to be liberally construed to allow courts discretion in
-extending the substitution period, recognizing the difficulties that could arise in promptly
-identifying and notifying the proper representative of the deceased.   Given this context, the
-defendant’s counsel's suggestion of death, which lacked identification of a proper representative,
-failed to initiate the 90-day countdown. This interpretation aligns with the judicial precedent that
-courts should prioritize the equitable administration of justice over strict procedural formalities.
-Thus, the district court erred in dismissing the plaintiffs' action without granting the requested
-extension, especially considering the circumstances that inhibited timely substitution, such as the
-injury to plaintiffs' counsel and the ongoing legal processes in the probate court.  We, therefore,
-reverse the judgment and remand for further proceedings consistent with this opinion, ensuring that
-the substitution process adheres to the flexible and just principles intended by the amendments to
-the Federal Rules of Civil Procedure.
+Plaintiff seeks an award of attorneys' fees and costs associated with the litigation. Title VII,
+under 42 U.S.C. § 2000e-5(k), allows for such an award in the court's discretion (503 F.2d 177). The
+primary purpose of this provision is to enable plaintiffs to obtain competent legal representation
+in their fight against discrimination (641 F.2d 880). In this instance, the jury has already
+rendered a verdict in favor of the plaintiff on multiple claims of discrimination and retaliation,
+entitling him to reasonable attorneys' fees as part of the costs of the suit.  Furthermore,
+according to precedent, a plaintiff may voluntarily waive attorneys' fees during settlement
+negotiations, provided there is no coercion or demand by the defendant to do so (762 F.2d 1093). In
+this case, plaintiff's counsel did not waive any claims to attorneys' fees and therefore, is
+entitled to a fee award.  Given the favorable jury verdict and in line with the statutory provisions
+and policies underlying Title VII, the Court will approve plaintiff's motion for reasonable
+attorneys' fees and costs incurred in bringing this action. The specific amount will be determined
+after a thorough review of detailed billing records submitted by plaintiff's counsel.
 
 
 **Label:** 
 
 
 ***Meta-Llama-3-8B-Instruct:***
-  In the context of Rule 25(a) (1) of the Federal Rules of Civil Procedure, the suggestion of death
-is a crucial step in the process of substituting a deceased party with a proper representative.
-However, not all suggestions of death are created equal. In cases where the suggestion of death is
-made by a party's attorney, but fails to identify a successor or representative of the deceased, the
-90-day period for substitution may not be triggered.  As noted in 359 F.2d 292, the Advisory
-Committee on Civil Rules intended to provide a more flexible standard for substitution, allowing for
-extensions of time and dispensing with the rigid two-year period previously in place. However, this
-flexibility is contingent upon the suggestion of death providing sufficient information to permit
-the court to proceed with substitution.  In the present case, the suggestion of death made by the
-defendant's attorney was deficient in that it failed to identify a successor or representative of
-the deceased. This lack of specificity rendered the suggestion ineffective in triggering the 90-day
-period for substitution, as explained in 379 F.2d 94.  Furthermore, the court's discretion to
-enlarge the time period for substitution, as provided by Rule 6(b), is not a blank check. Rather, it
-is intended to be exercised in a judicious and reasonable manner, taking into account the particular
-circumstances of each case.  In light of these principles, we conclude that the district court erred
-in dismissing the action with prejudice. The case should be remanded for further proceedings,
-allowing the parties to properly substitute a representative of the deceased and continue the action
-in a manner consistent with the Federal Rules of Civil Procedure.
+  Regarding the request for attorneys' fees and costs, the Court will follow the precedent set forth
+in the case of 641 F.2d 880, which holds that the prevailing party is entitled to a reasonable
+attorney's fee as part of the costs. The Court will consider the factors set forth in 762 F.2d 1093,
+including the time and labor required, the novelty and difficulty of the questions, and the skill
+and ability required to perform the legal services.  In this case, the plaintiff has prevailed in
+his claims of discrimination and retaliation, and the Court finds that the defendants' conduct was
+intentional and willful. Therefore, the Court will award the plaintiff a reasonable attorney's fee,
+as authorized by 42 U.S.C. § 2000e-5(k).  Regarding the costs, the Court will also award the
+plaintiff the costs of bringing this action, as authorized by 42 U.S.C. § 2000e-5(k). The costs will
+include the fees and expenses incurred by the plaintiff's counsel, as well as the costs of the court
+reporter and other expenses incurred during the litigation.  In conclusion, the Court will award the
+plaintiff a reasonable attorney's fee and the costs of bringing this action, as authorized by 42
+U.S.C. § 2000e-5(k). The Court will also correct the Department's records to reflect the jury's
+verdict and the equitable relief provided by the Court. The Court's decision is final and binding.
 
 
 **Label:** 
 
 
-**citations:** ['379 F.2d 94', '359 F.2d 292']
+**citations:** ['762 F.2d 1093', '641 F.2d 880', '503 F.2d 177']
 
-***short_citations_0:*** 379 F.2d 94
+***short_citations_0:*** 762 F.2d 1093
 
-the proper parties. * * * Unless the motion for substitution is made not later than 90 days after the death is suggested upon the record by service of a statement of the fact of the death as provided herein for the service of the motion, the action shall be dismissed as to the deceased party.” Here not only had the 90-day period not expired when the court entered summary judgment, the appellant by her motion for reconsideration had specifically invoked the discretion of the court. Rule 6(b) provides pertinently that when “by these rules * * * an act is required or allowed to be done at or within a specified time, the court for cause shown may at any time in its discretion (1) with or without motion or notice order the period enlarged if request therefor is made before the expiration of the period originally prescribed * * Originally the Rule had precluded an extension of time for taking action under Rule 25(a) (1), but by purposeful amendment, it was sought to relieve against the hardship of the Court’s holding in Anderson v. Yungkau, 329 U.S. 482, 67 S.Ct. 428, 91 L.Ed. 436 (1947). It was intended that liberal effect be given to the 1963 amendment. Graham v. Pennsylvania Railroad, 119 U.S.App.D.C. 335, 342 F.2d 914 (1964), cert. denied, 381 U.S. 904, 85 S.Ct. 1446, 14 L.Ed.2d 286 (1965). We are constrained to reverse for further proceedings not inconsistent with this opinion. Reversed. The only “party” then
+MacKINNON, Senior Circuit Judge: Sharon Moore brought a Title VII class action suit that was settled prior to trial pursuant to a consent decree entered by the district court. In the settlement process Moore and her counsel waived all claims for attorneys’ fees and costs otherwise available under section 706(k) of the Civil Rights Act of 1964, 42 U.S.C. § 2000e-5(k). After Moore’s agreement to the settlement as class representative but prior to a fairness hearing as to class members, Moore changed her position and requested that the court separately modify the settlement to include attorneys’ fees and costs. The district court rejected Moore’s proposal and affirmed the settlement. This case presents the narrow question of whether the fee-shifting provision of Title VII prohibits a plaintiff from voluntarily offering to waive attorneys’ fees and costs during simultaneous negotiations of merits, fees, and costs. We hold that in this case simultaneous negotiations are permissible, and that a plaintiff may voluntarily waive attorneys’ fees and costs if done so without a demand by the defendant. On the merits, because we believe that the district court did not abuse its discretion, we affirm. I. Background Appellant Sharon A. Moore was a black employee of appellee National Association of Securities Dealers (“NASD”) from November 1978 to February 1980. On December 1, 1980, she initiated this class action against NASD, alleging discrimination against blacks and females in recruitment, selection, training, evaluation, promotion, and work assignments in violation of Title VII of the Civil Rights Act
 
-***short_citations_1:*** 359 F.2d 292
+***short_citations_1:*** 641 F.2d 880
 
-insertion of a “reasonable time” standard. In 1963, the Advisory Committee suggested the present rule and noted: “Present Rule 25(a) (1), together with present Rule 6(b), results in an inflexible requirement that an action be dismissed as to a deceased party if substitution is not carried out within a fixed period measured from the time of the death. The hardships and inequities of this unyielding requirement plainly appear from the cases. * * * The amended rulé establishes a time limit for the motion to substitute based not upon the time of the death, but rather upon the time information of the death is provided by means of a suggestion of death upon the record, i. e. service of a statement of the fact of the death.” See Notes of Advisory Committee on the Civil Rules, 28 U.S.C. Rule 25 (1964). Rule 6(b) of the Federal Rules of Civil Procedure was also amended in 1963 and the prohibition against extending the time for taking action under Rule 25 was eliminated. The Advisory Committee on the Civil Rules noted: “It is intended that the court shall have discretion to enlarge that period.” The amendments of Rules 6(b) and 25(a) (1) provided needed flexibility. It was assumed that discretionary extensions would be liberally granted. Movants under Rule 25 can ordinarily control when a death is “suggested upon the record” and appellants’ attorney was under no obligation to file his affidavit of Staggers’ death on the date he did. He could have filed
+fee should depend on the identity of the losing party. Our conclusion is based on both the language of the statute and the policies that underlie it. Our starting point, of course, is the statutory text. The attorney’s fee section provides that, in any Title VII action, the court, in its discretion, may allow the prevailing party ... a reasonable attorney’s fee as part of the costs, and the .. . United States shall be liable for costs the same as a private person. 42 U.S.C. § 2000e-5(k) (1976)- (emphasis added). The language of the statute indicates that the calculation of the fee should not vary with the identity of the losing defendant, and the policies underlying the attorney’s fee provision are fully consistent with this plain language. Those policies, as we have seen, are two. The primary purpose is to help persons obtain competent counsel with which to vindicate civil rights through litigation. E. g., Piggie Park, 390 U.S. at 402, 88 S.Ct. at 966. Nothing in the statute suggests that the incentive to ferret out discrimination, provided by the prospect of an attorney’s fee, should be any less when the government is the defendant. If anything, it is even more important to provide adequate fees to employment discrimination litigants who prevail against the government. In Parker v. Califano, 561 F.2d 320 (D.C. Cir. 1977), this court observed that Title VII litigants against the government face greater obstacles than litigants against private defendants. We noted: Unlike private sector employees,
+
+***short_citations_2:*** 503 F.2d 177
+
+the District Court was able to fix with a reasonable degree of accuracy, though not with exactitude, the approximate amount of Mrs. Evans’ damages. We conclude that the District Court did not abuse its discretion in awarding Mrs. Evans $1,100 to be paid jointly by all defendants and $500 to be paid by the Hotel. Ill ATTORNEY’S FEES Title VII of the Civil Rights Act of 1964, 42 U.S.C. § 2000e-5(k) provides: “In any action or proceeding under this subchapter the court, in its discretion, may allow the prevailing party, other than the Commission or the United States, a reasonable attorney’s fee as part of the costs, and the Commission and the United States shall be liable for costs the same as a private person.” Pursuant to this authority, the District Court concluded that “[i]n addition to the damages specified, plaintiff will be awarded her costs and nominal attorney’s fees of $1,000.” Appendix, p. 6, 5 FEP Cases 396. Mr. Whitworth Stokes, attorney for Mrs. Evans, then filed a motion for reconsideration of the court’s ruling. He did not seek a specified amount for attorney’s fees; however, he submitted to the District Court: 1. His affidavit as the attorney employed by plaintiff in this action; 2. An itemized expense schedule; 3. An exhibit (3% pages) showing in chronological order the daily time spent by him, excepting from this the time for his services in the course of amending the complaint, unsuccessful motions for summary judgment, and the motion for reconsideration;
 
 **prev_text:**
-LEVENTHAL, Circuit Judge: The District Court held that Rule 25(a) (1) of the Federal Rules of Civil
-Procedure required dismissal of the plaintiffs’ tort action because defendant’s counsel had filed a
-suggestion of death of the defendant yet plaintiff had not made any substitution of parties within
-90 days. We reverse on the ground that the suggestion of death, which was neither filed by nor
-identified a successor or representative of the deceased, such as an executor or administrator, was
-ineffective to trigger the running of the 90-day period provided by the Rule. Mr. and Mrs. John
-Rende filed an action in the District Court individually and on behalf of their infant son who had
-been struck and injured by Alfred S. Kay while driving his car. On August 27, 1967, defendant Kay
-died. On September 1, 1967, the defendant’s attorney, a term used here to identify the lawyer who
-had been retained by deceased to defend the action, and who had duly entered an appearance as
-attorney for defendant, filed a suggestion of death in the District Court, giving notice to
-plaintiffs’ attorney. That same day there was filed in the Orphans Court for Montgomery County,
-Maryland, residence of the deceased, his will naming his widow as executrix, but the will had not
-been probated, nor any legal representative appointed for the estate at the time of the filing of
-this appeal. Plaintiffs’ attorney was injured on October 14, 1967. On returning to practice early in
-1968, he learned that no successor to defendant Kay had yet been appointed, and he moved to certify
-the case to the ready calendar. The defendant’s attorney opposed this on grounds that discovery
-procedures had not been completed. The case was delayed and placed on the ready calendar as of June
-7, 1968. However, in April 1968, the defendant’s attorney moved in his own name to dismiss the
-action on the ground that Rule 25(a) (1) required plaintiffs to move to substitute a proper party
-for the deceased within 90 days of the suggestion of death. Plaintiffs filed an opposition and
-motion for substitution of the proper party, and sought an extension of the time for substitution as
-allowed by Rule 6(b). At argument, plaintiffs’ counsel asserted the “suggestion of death was
-defective in that it did not list the name of the proper party; that is the legal representative of
-the defendant.” The court responded: “That would not be his burden.” The court dismissed the action
-with prejudice. Prior to its amendment in 1963, Rule 25(a) (1) required the court to dismiss a case
-if no motion for substitution was filed within two. years after date of death, and no extensions of
-this period were allowed under Rule 6(b). The rule was rigorously applied, often with harsh results,
-and was called “easily the poorest rule of all the Federal Rules.” In 1955 the Advisory Committee on
-Rules for Civil Procedure recommended that the two-year period be changed to a “reasonable time”
-standard. In 1961 the Advisory Committee on Civil Rules again suggested the Rule be made more
-flexible. In 1963 the Supreme Court made changes in Rule 25(a) (1) and in Rule 6(b) so as to provide
-a 90-day time limit from the filing of a suggestion of death, and to give the court discretion to
-extend that time. The Committee Notes explaining the amendments state: Present Rule 25(a) (1),
-together with present Rule 6(b), results in an inflexible requirement that an action be dismissed as
-to a deceased party if substitution is not carried out within a fixed period measured from the time
-of death. The hardships and inequities of this unyielding requirement plainly appear from the cases.
-* * * The amended rule establishes a time limit for the motion to substitute based not upon the time
-of the death, but rather upon the time information of the death is provided by means of a suggestion
-of death upon the record. * * * A motion to substitute may be made by any party or by the
-representative of the deceased party without awaiting the suggestion of death. Indeed, the motion
-will usually be so made. If a party or the representative of the deceased party desires to limit the
-time within which another may make the motion, he may do so by suggesting the death upon the record.
-(Emphasis added.) Under the amended Rule either a party or “the successors or representatives of the
-deceased party” may avoid delay in effecting substitution for the deceased party either by filing a
-motion for substitution or by suggesting death on the record and thus triggering the 90-day period
-which begins with suggestion of death. The Advisory Committee, in outlining that suggestion of death
-could be made by “the representative of the deceased party” plainly contemplated that the suggestion
-emanating from the side of the deceased would identify a representative of the estate, such as an
-executor or administrator, who could be substituted for the deceased as a party, with the action
-continued in the name of the representative. The addition of “successor” in the Rule would take care
-of the case of, say, the distributee of an estate that had been distributed, but would not make a
-material difference in the aspect under consideration. Form 30, for suggestion of death, which was
-provided in order to expedite and facilitate implementation of the amendment, provides: A.B.
-[described as a party, or as executor, administrator, or other representative or successor of C.D.,
-the deceased party\ suggests upon the record, pursuant to Rule 25(a) (1), the death of C.D.
-[describe as party] during the pendency of this action. Added Jan. 21, 1963, eff. July 1, 1963.
-[Emphasis added.] Although the attorney for the defendant was retained to “represent” the deceased
-as his counsel, he is not a person who could be made a party, and is not a “representative of the
-deceased party” in the sense contemplated by Rule 25(a) d). In our opinion the Rule, as amended,
-cannot fairly be construed, as the de fendant’s attorney argues, to make his suggestion of death
-operative to trigger the 90-day period even though he was neither a successor nor representative of
-the deceased, and gave no indication of what person was available to be named in substitution as a
-representative of the deceased. Counsel’s construction would open the door to a tactical maneuver to
-place upon the plaintiff the burden of locating the representative of the estate within 90 days. We
-can conceive of cases wherein even the lawyer retained to represent a defendant might know the
-defendant had died, yet not readily know where his estate would be administered. In the present
-case, plaintiff’s attorney did know the court of probate, but he did not know whether probate of the
-will might be contested, or who would be appointed representative of the estate. The tactic of the
-defendant’s attorney would place on plaintiff the burden, where no conventional representative was
-appointed for the estate in probate court, of instituting machinery in order to produce some
-representative of the estate ad litem, pending appointment of the representative contemplated by law
-of the domicile of the deceased.
+OPINION PAUL L. FRIEDMAN, District Judge. After a trial before a jury over a seven-day period
+beginning on November 29, 1995, the jury returned a verdict in favor of plaintiff John Blair Hayes,
+finding by a preponderance of the evidence that (1) he was denied a promotion to a position for
+which he was qualified by virtue of the defendant’s intentional discrimination against him because
+of his race; (2) that he was denied a promotion to a position for which he was qualified because of
+the defendant’s intentional retaliation against him because of his prior EEO activity; and (3) that
+thereafter the person who was appointed to the job for which he had applied, Barbara Twombly,
+intentionally retaliated against him because of his prior EEO complaint regarding his non-selection
+for the position. The jury awarded plaintiff $50,000 on each of these three claims, and the Court
+entered judgment on the verdict for plaintiff in the amount of $150,000, together with costs. The
+matter is now before the Court on plaintiffs motion for an award of equitable relief and attorneys’
+fees. Plaintiff argues that in addition to the compensatory damages awarded by the jury, Title VII
+requires the Court to provide plaintiff with the following equitable relief: (1) retroactive
+appointment to the position of Director of the Division of Acquisition Management; (2) retroactive
+promotion to the GS-15 level at an appropriate step within that grade; (3) full back pay (with
+interest) and other benefits; (4) recrediting of both annual leave and sick leave, amounting to
+approximately 850 hours; (5) back pay for a week of leave without pay (with interest); (6) an
+injunction prohibiting the Department of Health and Human Services from discriminating against
+plaintiff because of his race and from retaliating against him because of his successful litigation
+in this matter; (7) an award of the costs of bringing these actions and the related administrative
+claims, including reasonable attorneys’ fees; and (8) an order directing the defendant to correct
+its records to reflect the jury’s verdict and the equitable relief provided by the Court. DISCUSSION
+Title VII entitles individuals to be “[made] whole for injuries suffered on account of unlawful
+employment discrimination.” Albemarle Paper Co. v. Moody, 422 U.S. 405, 418, 95 S.Ct. 2362, 2372, 45
+L.Ed.2d 280 (1975). In order to effectuate this purpose, “Congress took care to arm the courts with
+full equitable powers” so that the injured party may be “placed, as near as may be, in the situation
+he [or she] would have occupied if the wrong had not been committed.” Id. at 418-19, 95 S.Ct. at
+2372-73; see Lander v. Lujan, 888 F.2d 153, 156 (D.C.Cir.1989). The district court has “considerable
+discretion” in choosing the method or methods of redress, Lander v. Lujan, 888 F.2d at 156; see
+McKenzie v. Sawyer, 684 F.2d 62, 75 (D.C.Cir.1982), although this discretion is to be exercised “in
+light of the large objectives of [Title VII].” Albemarle Paper Co. v. Moody, 422 U.S. at 416, 95
+S.Ct. at 2371. A Retroactive Appointment, Promotion and Back Pay Plaintiff seeks appointment as
+Director of the Division of Acquisition Management, the position for which the jury found that he
+was qualified but was denied appointment because of intentional discrimination on the basis of race
+and because of intentional retaliation against him because of his prior EEO activity. As plaintiff
+points out, the Special Verdict Form demonstrates that the jury expressly and specifically concluded
+that plaintiff would have been selected as Director of the Division of Acquisition Management absent
+such racial discrimination and reprisal. The government argues against this form of equitable
+relief. It maintains that to make plaintiff the head of the Division would be “severely detrimental”
+and would undermine the ability of the Division to operate effectively because of the “already
+unfortunate relationship plaintiff has established with his colleagues.” The government maintains
+that “given plaintiffs disrespectful and uncooperative attitude, his placement in this position
+would seriously undermine the Division’s morale and potentially paralyze its ability to operate.”
+Plaintiff responds that any evidence concerning Mr. Hayes’ disrespectful and uncooperative attitude
+and his potential to create a morale problem should be disregarded because the jury disbelieved the
+witnesses who testified about plaintiffs shortcomings and uncooperative attitude. “Title VII
+envisioned that making a victim whole would include his reinstatement to the position he would have
+held but for the discrimination.” Lander v. Lujan, 888 F.2d at 156. 42 U.S.C. § 2000e-5(g)
+specifically includes reinstatement as an appropriate judicial remedy; indeed, “reinstatement is the
+preferred remedy in the absence of special circumstances militating against it.” Squires v. Bonser,
+54 F.3d 168, 173 (3d Cir.1995). Although there is evidence of prior antagonism between plaintiff and
+the individuals with whom he would have to work, defendant may not justify denying plaintiff the
+promotion based on hostility engendered by the employer’s own acts of discrimination or by this
+litigation itself. See Lander v. Lujan, 888 F.2d at 158. Since the jury concluded that plaintiff was
+qualified for and should have been selected for the job and that he was denied it only because of
+illegal discrimination and retaliation, plaintiff should not be further penalized for the workplace
+discord that may have arisen from defendant’s own discriminatory activity. The Court must assume
+that, if awarded the job, plaintiff will carry out his responsibilities professionally and without
+rancor and that plaintiff and defendant alike will actively seek to promote and sustain the sort of
+respectful workplace relationships envisioned by Title VII itself. As for the fact that
+retroactively appointing plaintiff to the position of Division Director would “bump” Barbara
+Twombly, who currently is “acting” in that position, the District of Columbia Circuit has indicated
+that bumping is authorized and appropriate in precisely the kind of situation presented by this
+case. Lander v. Lujan, 888 F.2d at 156-58. For these reasons, the Court will order the retroactive
+appointment of plaintiff to the position of Director of the Division of Acquisition Management. The
+parties agree that, in light of the jury’s verdict, the plaintiff is entitled to retroactive
+promotion to a GS-15 Level, Step 6. They differ only as to whether he should be promoted to that
+level as of June 10, 1992, the date on which Robert Stovenour, the recommending official, formally
+recommended Barbara Twombly for the position of Division Director, or as of August 9, 1992, the
+beginning of the first pay period after Laurence Love, the selecting official, approved the
+recommendation of Ms. Twombly by Mr. Stovenour. Based on the representations of the government and
+the declaration of Sylvia Vela, dated March 12, 1996, the Court concludes that plaintiff is entitled
+to retroactive promotion to the GS-15 Level, Step 6, as of August 9, 1992, not as of June 10, 1992.
+The parties also are in agreement that, in view of the jury’s verdict, plaintiff is entitled to back
+pay and other benefits, with interest, for the pay differential between what he earned as a GS-14,
+Step 10, and a GS-15, Step 6, and that he should receive the appropriate bonuses and step increases,
+if any, attendant with the promotion to Division Director. The only point of disagreement is whether
+plaintiffs benefits should be calculated based on the assumption that he would have performed at the
+“outstanding” level as Division Director or only at a “fully successful” level, his most recent
+performance rating. Because plaintiff has never been a Division Director, there is no direct
+evidence about how plaintiff would have performed in that position. There is evidence, however, that
+his most recent performance evaluation was only a “fully successful” rating, and plaintiff testified
+at trial that he did not contest this rating. Based on the trial testimony, the Court concludes that
+it would be more appropriate to calculate plaintiffs back pay and other benefits as if plaintiff had
+received a “fully successful” rating rather than an “outstanding” rating. Thus, the back pay and
+benefits shall be calculated as if he had received a “fully successful” rating from August 10, 1992
+until the present time. B. Recrediting Annual Leave and Sick Leave Plaintiff argues that Mr. Hayes
+was forced to use both sick leave and annual leave “to get treatment and to maintain his
+equilibrium” because of the “retaliatory campaign” waged against him by Barbara Twombly. He
+maintains that he was forced to use 405.5 hours of sick leave and 447.8 hours of annual leave
+between March of 1993, when the “retaliatory campaign against him seems to have started,” and the
+trial of this case that began on November 29, 1995. He also argues that because of this retaliatory
+treatment he was “forced to conserve what little leave he had left” and thus took 40 hours of leave
+without pay in order to take his sons on vacation. He therefore seeks payment for this week of leave
+without pay, in addition to the re-crediting of annual and sick leave. All of these requests are
+premised on the jury having found by a preponderance of the evidence that Barbara Twombly
+intentionally retaliated against plaintiff because of his EEO complaint regarding his non-selection
+for the Division Director position. The jury found that Ms. Twombly’s retaliatory actions caused Mr.
+Hayes to suffer “emotional pain, suffering, inconvenience, mental anguish, or loss of enjoyment of
+life so as to entitle him to monetary compensation over and above back pay” and awarded him $50,000
+in compensation. The jury also compensated plaintiff for the humiliation, emotional pain and
+suffering, inconvenience and mental anguish that he suffered by virtue of the discrimination and
+retaliation that led to his non-selection for the position of Division Director. This jury award of
+$150,-000 more than compensates and makes plaintiff whole for these emotional injuries. The fact
+that he allegedly had to take leave to visit his psychotherapist and to otherwise absent himself
+from the workplace because of the work environment which he found intolerable necessarily was
+considered by the jury as evidence in support of his claim for compensatory damages and therefore is
+encompassed by the jury’s verdict. See Shaw v. Nebraska Department of Correctional Services, 666
+F.Supp. 1330, 1339 (D.Neb.1987). It is clear from the legislative history of the Civil Rights Act of
+1991, which provided for compensatory damages under Title VII for the first time, that the sort of
+recovery for emotional distress sought by plaintiff is not available as a form of equitable relief,
+since before 1991 it was not available under Title VII at all. In explaining why Congress added
+compensatory damages, the House Report reasoned that [v]ictims of intentional ... discrimination ...
+often endure terrible humiliation, pain and suffering. This distress often manifests itself in
+emotional disorders and medical problems. [Yet without compensatory damages] [v]ietims of
+discrimination often suffer substantial out-of-pocket expenses as a result of the discrimination,
+none of which is compensable with equitable remedies. The limitation of relief under Title VII to
+equitable remedies often means that victims of intentional discrimination may not recover for the
+very real effects of the discrimination. H.R.Rep. No. 102-40, 102d Cong., 1st Sess. 2 pt. 2, at 25
+(1991), U.S.Code Cong. & Admin.News 1991 at 694, 718. Moreover, equitable relief is not automatic
+and the Court must assess the appropriateness of the equitable relief sought in light of the
+injuries found. Where the jury has not actually decided an issue or where the basis for the jury’s
+decision cannot be determined, the court is not bound. Blake v. Hall, 668 F.2d 52, 54 (1st
+Cir.1981), cert. denied, 456 U.S. 983, 102 S.Ct. 2257, 72 L.Ed.2d 862 (1982). Here, the jury
+expressly found that Ms. Twombly refused to allow plaintiff to accrue and use credit hours to work
+out at the gym during an extended lunch hour every day and in so doing unlawfully retaliated against
+him. The government has conceded that plaintiff is entitled to 44.5 hours of annual leave for this
+time. The jury also expressly found that Ms. Twombly retaliated against plaintiff by charging him
+with one hour of Absent Without Leave (AWOL); plaintiff therefore is entitled to recover this hour.
+The jury’s other findings, however, do not demonstrate that plaintiff is entitled to be credited
+with the large amount of leave he took allegedly to improve his mental health. The jury found that
+Ms. Twombly retaliated against plaintiff by rating him only at the “fully successful” level, by
+requiring him to submit a work plan before she would approve his annual leave, by denying his
+request for annual leave, by investigating a complaint against him, by reprimanding him and by
+verbally abusing him. These actions have, at best, a highly attenuated connection to plaintiffs
+decision to take over 850 hours of sick leave and annual leave. Plaintiffs unilateral decision to
+absent himself from the workplace does not entitle him to the equitable relief he seeks either in
+the Court’s view or, so far as can be discerned, in the jury’s. For these same reasons, the 40 hours
+of leave that plaintiff took without pay is also not compensable because plaintiff has failed to
+demonstrate, and the jury did not find, that his leave taking resulted from defendant’s unlawful
+conduct. C. Injunction Prohibiting Discrimination and Retaliation and Correction of Records An
+injunction prohibiting discrimination and retaliation in this case is both unnecessary and
+inappropriate. The jury verdict is sufficient in and of itself to protect plaintiff against future
+acts of discrimination and retaliation. The Court will not presume that the Secretary of Health and
+Human Services and her employees will not follow the law and plaintiff has not demonstrated that
+future violations are likely. See E.E.O.C. v. General Lines, Inc., 865 F.2d 1555, 1565 (10th
+Cir.1989). No injunction will be issued. Regarding the request for correction of records, the Court
+will order that Mr. Hayes’ personnel folder and other relevant Department records be corrected to
+reflect the jury’s verdict and the equitable relief provided by the Court. D. Attorneys’Fees and
+Costs-
 
 

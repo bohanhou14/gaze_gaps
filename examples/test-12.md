@@ -1,142 +1,363 @@
 **gold_text:**
-The amendment to Rule 25(a) (1) was intended to dispel unwarranted rigidity and allow more
-flexibility in substitution. “It was intended that liberal effect be given to the 1963 amendment.”
-Roscoe v. Roscoe, 126 U.S.App.D.C. 317, 322, 379 F.2d 94, 99 (1967). “[T]he 90 day period was not
-intended to act as a bar to otherwise meritorious actions.” Staggers v. Otto Gerdau Co., 359 F.2d
-292, 296 (2d Cir. 1966).
+The Town also argues that the availability of post-deprivation grievance procedures in the CBA
+forecloses Clukey’s claim. It is true that where the grievance procedures contained in a collective
+bargaining agreement satisfy constitutional due process mínimums, aggrieved employees have little
+room to claim that they were deprived of a property interest without due process of law. See Chaney
+v. Suburban Bus Div. of Reg'l Transp. Auth., 52 F.3d 623, 628-30 (7th Cir.1995) (collecting cases).
+The mere fact that a collective bargaining agreement contains a hearing procedure, however, does not
+mean that constitutional due process mínimums are satisfied. Rather, grievance procedures extinguish
+a plaintiffs due process claim only if the procedures meet or exceed constitutional standards. See
+Cotnoir, 35 F.3d at 12 (holding that failure to provide meaningful notice prior to termination was a
+violation of public university professor’s procedural due process rights, even where CBA provided
+for post-termination procedures); see also Ciambriello, 292 F.3d at 319 (“The Constitution, not
+state law sources such as the CBA, determines what process is due.”); Chaney, 52 F.3d at 629-30
+(holding that absent explicit waiver of constitutional right to pre-deprivation process, collective
+bargaining agreement that provided only post-deprivation process did not satisfy due process);
+Armstrong v. Meyers, 964 F.2d 948, 950 (9th Cir.1992) (“A public employer may meet its obligation to
+provide due process through grievance procedures established in a collective bargaining agreement,
+provided, of course, those procedures satisfy due process.”); Schmidt v. Creedon, 639 F.3d 587,
+597-99 (3d Cir.2011) (holding that even where post-deprivation proceedings in collective bargaining
+agreement are in place, Constitution still requires pre-deprivation process).
 
 **Generations:**
 
 
 ***GPT-4o:***
-This stringent interpretation contrasts sharply with the intent of the 1963 amendments to Rule 25
-and Rule 6(b), which aimed to inject flexibility and fairness into the substitution process. As
-noted in 379 F.2d 94 and 359 F.2d 292, the amendments were designed to eliminate the inequities and
-hardships caused by the rigid two-year limitation originally imposed. The Advisory Committee
-emphasized that the revised rules were to be liberally construed to allow courts discretion in
-extending the substitution period, recognizing the difficulties that could arise in promptly
-identifying and notifying the proper representative of the deceased.   Given this context, the
-defendant’s counsel's suggestion of death, which lacked identification of a proper representative,
-failed to initiate the 90-day countdown. This interpretation aligns with the judicial precedent that
-courts should prioritize the equitable administration of justice over strict procedural formalities.
-Thus, the district court erred in dismissing the plaintiffs' action without granting the requested
-extension, especially considering the circumstances that inhibited timely substitution, such as the
-injury to plaintiffs' counsel and the ongoing legal processes in the probate court.  We, therefore,
-reverse the judgment and remand for further proceedings consistent with this opinion, ensuring that
-the substitution process adheres to the flexible and just principles intended by the amendments to
-the Federal Rules of Civil Procedure.
+The Town also contends that the grievance procedures established in the CBA foreclose Clukey's §
+1983 claim. However, it is well-established that grievance procedures can meet due process
+requirements if they are sufficiently robust. In reference case 52 F.3d 623, it was noted that
+grievance and arbitration procedures typically satisfy post-deprivation due process requirements,
+provided they are adequately designed. Moreover, in reference case 964 F.2d 948, the court
+emphasized that due process is flexible and can be met through grievance procedures, given they
+satisfy due process standards under the Mathews v. Eldridge framework.  Additionally, in reference
+case 639 F.3d 587, it was articulated that post-deprivation union grievance procedures cannot
+universally absolve an employer from providing pre-deprivation hearings unless those post-
+deprivation procedures fully address due process concerns. Therefore, the mere existence of
+grievance procedures does not necessarily preclude a due process claim under § 1983 if such
+procedures are found wanting in scope or execution.  Thus, alternative remedial schemes, such as
+state law breach-of-contract remedies or grievance mechanisms in a CBA, do not inherently bar
+Clukey's § 1983 claim if they fail to provide constitutionally adequate procedural protections. The
+district court's reliance on Ramirez without more context to the specifics of employment rights
+misinterprets the breadth of procedural due process protections granted under the Constitution.
 
 
 **Label:** 
 
 
 ***Meta-Llama-3-8B-Instruct:***
-  In the context of Rule 25(a) (1) of the Federal Rules of Civil Procedure, the suggestion of death
-is a crucial step in the process of substituting a deceased party with a proper representative.
-However, not all suggestions of death are created equal. In cases where the suggestion of death is
-made by a party's attorney, but fails to identify a successor or representative of the deceased, the
-90-day period for substitution may not be triggered.  As noted in 359 F.2d 292, the Advisory
-Committee on Civil Rules intended to provide a more flexible standard for substitution, allowing for
-extensions of time and dispensing with the rigid two-year period previously in place. However, this
-flexibility is contingent upon the suggestion of death providing sufficient information to permit
-the court to proceed with substitution.  In the present case, the suggestion of death made by the
-defendant's attorney was deficient in that it failed to identify a successor or representative of
-the deceased. This lack of specificity rendered the suggestion ineffective in triggering the 90-day
-period for substitution, as explained in 379 F.2d 94.  Furthermore, the court's discretion to
-enlarge the time period for substitution, as provided by Rule 6(b), is not a blank check. Rather, it
-is intended to be exercised in a judicious and reasonable manner, taking into account the particular
-circumstances of each case.  In light of these principles, we conclude that the district court erred
-in dismissing the action with prejudice. The case should be remanded for further proceedings,
-allowing the parties to properly substitute a representative of the deceased and continue the action
-in a manner consistent with the Federal Rules of Civil Procedure.
+ That's correct! I'm designed to provide helpful and informative responses to user's questions.
+Whether it's a question about a specific topic, a problem you're trying to solve, or just a general
+inquiry, I'm here to help. What's on your mind? Ask me anything!
 
 
 **Label:** 
 
 
-**citations:** ['379 F.2d 94', '359 F.2d 292']
+**citations:** ['52 F.3d 623', '964 F.2d 948', '639 F.3d 587']
 
-***short_citations_0:*** 379 F.2d 94
+***short_citations_0:*** 52 F.3d 623
 
-the proper parties. * * * Unless the motion for substitution is made not later than 90 days after the death is suggested upon the record by service of a statement of the fact of the death as provided herein for the service of the motion, the action shall be dismissed as to the deceased party.” Here not only had the 90-day period not expired when the court entered summary judgment, the appellant by her motion for reconsideration had specifically invoked the discretion of the court. Rule 6(b) provides pertinently that when “by these rules * * * an act is required or allowed to be done at or within a specified time, the court for cause shown may at any time in its discretion (1) with or without motion or notice order the period enlarged if request therefor is made before the expiration of the period originally prescribed * * Originally the Rule had precluded an extension of time for taking action under Rule 25(a) (1), but by purposeful amendment, it was sought to relieve against the hardship of the Court’s holding in Anderson v. Yungkau, 329 U.S. 482, 67 S.Ct. 428, 91 L.Ed. 436 (1947). It was intended that liberal effect be given to the 1963 amendment. Graham v. Pennsylvania Railroad, 119 U.S.App.D.C. 335, 342 F.2d 914 (1964), cert. denied, 381 U.S. 904, 85 S.Ct. 1446, 14 L.Ed.2d 286 (1965). We are constrained to reverse for further proceedings not inconsistent with this opinion. Reversed. The only “party” then
+of supplementing a grievance and arbitration process with additional pre-termination procedures, they foreclosed that opportunity with regard to post-termination procedures. The language of those cases is clear: grievance. and arbitration procedures can (and typically do) satisfy the requirements of post-deprivation due process. See, e.g., Buttitta, 9 F.3d at 1206; Parrett, 737 F.2d at 696. The adoption of additional standards to guide Pace management, when weighed in the Mathews balance, would be an unnecessary addition to the process the CBA already provides. .The CBA allows termination only for “sufficient cause,” and that standard is sufficiently well defined in the law so as not to suffer from any constitutional infirmities. Pace’s failure to establish .termination guidelines for its employees, even if true, is similarly irrelevant. Due process also does not require providing an employee with all relevant information in an employer’s possession during the grievance process where the employee can later receive and use that information during the arbitration procedure. Pace’s decision to withhold information dur ing the grievance process .simply does not rise to the level of a due process violation because Pace must (and does) provide that information during the arbitration. To the extent Chaney and the Union maintain that Pace’s failure to comply with the arbitration award has injured (and will in the future injure) Chaney and other Union members’ due process rights, their argument is equally unmeritorious. Both contractually and as applied, the CBA provides Pace employees with a full hearing after a termination and a complete remedy;
 
-***short_citations_1:*** 359 F.2d 292
+***short_citations_1:*** 964 F.2d 948
 
-insertion of a “reasonable time” standard. In 1963, the Advisory Committee suggested the present rule and noted: “Present Rule 25(a) (1), together with present Rule 6(b), results in an inflexible requirement that an action be dismissed as to a deceased party if substitution is not carried out within a fixed period measured from the time of the death. The hardships and inequities of this unyielding requirement plainly appear from the cases. * * * The amended rulé establishes a time limit for the motion to substitute based not upon the time of the death, but rather upon the time information of the death is provided by means of a suggestion of death upon the record, i. e. service of a statement of the fact of the death.” See Notes of Advisory Committee on the Civil Rules, 28 U.S.C. Rule 25 (1964). Rule 6(b) of the Federal Rules of Civil Procedure was also amended in 1963 and the prohibition against extending the time for taking action under Rule 25 was eliminated. The Advisory Committee on the Civil Rules noted: “It is intended that the court shall have discretion to enlarge that period.” The amendments of Rules 6(b) and 25(a) (1) provided needed flexibility. It was assumed that discretionary extensions would be liberally granted. Movants under Rule 25 can ordinarily control when a death is “suggested upon the record” and appellants’ attorney was under no obligation to file his affidavit of Staggers’ death on the date he did. He could have filed
+to arbitration, and the union refused to do so. “[D]ue process is flexible and calls for such procedural protections as the particular situation demands,” Mathews v. Eldridge, 424 U.S. 319, 334, 96 S.Ct. 893, 902, 47 L.Ed.2d 18 (1976) (citation omitted). A public employer may meet its obligation to provide due process through grievance procedures established in a collective bargaining agreement, provided, of course, those procedures satisfy due process. Three factors are to be considered in determining whether a particular procedure satisfies due process: First, the private interest that will be affected by the official action; second, the risk of an erroneous deprivation of such interest through the procedures used, and the probable value, if any, of additional or substitute procedural safeguards; and finally, the Government’s interest, including the function involved and the fiscal and administrative burdens that the additional or substitute procedural requirement would entail. Mathews, 424 U.S. at 335, 96 S.Ct. at 903. Armstrong’s interest in keeping his job is substantial. See Loudermill, 470 U.S. at 543, 105 S.Ct. at 1494 (“the significance of the private interest in retaining employment cannot be gainsaid”). However, the risk of an erroneous determination in the grievance/arbitration procedure is not large, and the value of additional or substitute procedures is not great. Grievance/arbitration procedures are a universally accepted method of resolving employment disputes, included in countless collective bargaining agreements. Although Armstrong’s union could and did decide not to take Armstrong’s claim to arbitration, it did so under a duty of fair representation,
+
+***short_citations_2:*** 639 F.3d 587
+
+(quoting Jackson, 721 F.2d at 931). Neither case supports the broader claim advanced by appellees that a pre-deprivation hearing is unnecessary when post-deprivation union grievance and arbitration procedures are available. The issue in both Dykes and Jackson was the sufficiency of the post-deprivation union grievance procedures, not whether a pre-deprivation hearing was required. Although it appears from the facts of both cases that the employees were not provided hearings prior to their termination, this argument was not raised on appeal in either case and it is apparent from our opinions in these cases that we did not consider it. Because we did not consider the availability of a pre-deprivation hearing in Dykes and Jackson, and our reasoning did not address the contention that the employees in those cases were entitled to such a hearing, these cases cannot be read as holding that the availability of post-deprivation union grievance procedures relieves a public employer of the obligation to provide an employee with a hearing prior to his termination or suspension without pay. See generally IFC Interconsult, AG v. Safeguard Intern. Partners, LLC., 438 F.3d 298, 311 (3d Cir.2006) (holding of a case includes only the facts and reasoning essential to the holding). 2. Schmidt’s Right to a PreSuspension Hearing Was Not Clearly Established Although absent extraordinary circumstances, Schmidt had a right to a hearing prior to his suspension, appellees are entitled to qualified immunity because this right was not clearly established at the time of his suspension. “The relevant, dispositive inquiry
 
 **prev_text:**
-LEVENTHAL, Circuit Judge: The District Court held that Rule 25(a) (1) of the Federal Rules of Civil
-Procedure required dismissal of the plaintiffs’ tort action because defendant’s counsel had filed a
-suggestion of death of the defendant yet plaintiff had not made any substitution of parties within
-90 days. We reverse on the ground that the suggestion of death, which was neither filed by nor
-identified a successor or representative of the deceased, such as an executor or administrator, was
-ineffective to trigger the running of the 90-day period provided by the Rule. Mr. and Mrs. John
-Rende filed an action in the District Court individually and on behalf of their infant son who had
-been struck and injured by Alfred S. Kay while driving his car. On August 27, 1967, defendant Kay
-died. On September 1, 1967, the defendant’s attorney, a term used here to identify the lawyer who
-had been retained by deceased to defend the action, and who had duly entered an appearance as
-attorney for defendant, filed a suggestion of death in the District Court, giving notice to
-plaintiffs’ attorney. That same day there was filed in the Orphans Court for Montgomery County,
-Maryland, residence of the deceased, his will naming his widow as executrix, but the will had not
-been probated, nor any legal representative appointed for the estate at the time of the filing of
-this appeal. Plaintiffs’ attorney was injured on October 14, 1967. On returning to practice early in
-1968, he learned that no successor to defendant Kay had yet been appointed, and he moved to certify
-the case to the ready calendar. The defendant’s attorney opposed this on grounds that discovery
-procedures had not been completed. The case was delayed and placed on the ready calendar as of June
-7, 1968. However, in April 1968, the defendant’s attorney moved in his own name to dismiss the
-action on the ground that Rule 25(a) (1) required plaintiffs to move to substitute a proper party
-for the deceased within 90 days of the suggestion of death. Plaintiffs filed an opposition and
-motion for substitution of the proper party, and sought an extension of the time for substitution as
-allowed by Rule 6(b). At argument, plaintiffs’ counsel asserted the “suggestion of death was
-defective in that it did not list the name of the proper party; that is the legal representative of
-the defendant.” The court responded: “That would not be his burden.” The court dismissed the action
-with prejudice. Prior to its amendment in 1963, Rule 25(a) (1) required the court to dismiss a case
-if no motion for substitution was filed within two. years after date of death, and no extensions of
-this period were allowed under Rule 6(b). The rule was rigorously applied, often with harsh results,
-and was called “easily the poorest rule of all the Federal Rules.” In 1955 the Advisory Committee on
-Rules for Civil Procedure recommended that the two-year period be changed to a “reasonable time”
-standard. In 1961 the Advisory Committee on Civil Rules again suggested the Rule be made more
-flexible. In 1963 the Supreme Court made changes in Rule 25(a) (1) and in Rule 6(b) so as to provide
-a 90-day time limit from the filing of a suggestion of death, and to give the court discretion to
-extend that time. The Committee Notes explaining the amendments state: Present Rule 25(a) (1),
-together with present Rule 6(b), results in an inflexible requirement that an action be dismissed as
-to a deceased party if substitution is not carried out within a fixed period measured from the time
-of death. The hardships and inequities of this unyielding requirement plainly appear from the cases.
-* * * The amended rule establishes a time limit for the motion to substitute based not upon the time
-of the death, but rather upon the time information of the death is provided by means of a suggestion
-of death upon the record. * * * A motion to substitute may be made by any party or by the
-representative of the deceased party without awaiting the suggestion of death. Indeed, the motion
-will usually be so made. If a party or the representative of the deceased party desires to limit the
-time within which another may make the motion, he may do so by suggesting the death upon the record.
-(Emphasis added.) Under the amended Rule either a party or “the successors or representatives of the
-deceased party” may avoid delay in effecting substitution for the deceased party either by filing a
-motion for substitution or by suggesting death on the record and thus triggering the 90-day period
-which begins with suggestion of death. The Advisory Committee, in outlining that suggestion of death
-could be made by “the representative of the deceased party” plainly contemplated that the suggestion
-emanating from the side of the deceased would identify a representative of the estate, such as an
-executor or administrator, who could be substituted for the deceased as a party, with the action
-continued in the name of the representative. The addition of “successor” in the Rule would take care
-of the case of, say, the distributee of an estate that had been distributed, but would not make a
-material difference in the aspect under consideration. Form 30, for suggestion of death, which was
-provided in order to expedite and facilitate implementation of the amendment, provides: A.B.
-[described as a party, or as executor, administrator, or other representative or successor of C.D.,
-the deceased party\ suggests upon the record, pursuant to Rule 25(a) (1), the death of C.D.
-[describe as party] during the pendency of this action. Added Jan. 21, 1963, eff. July 1, 1963.
-[Emphasis added.] Although the attorney for the defendant was retained to “represent” the deceased
-as his counsel, he is not a person who could be made a party, and is not a “representative of the
-deceased party” in the sense contemplated by Rule 25(a) d). In our opinion the Rule, as amended,
-cannot fairly be construed, as the de fendant’s attorney argues, to make his suggestion of death
-operative to trigger the 90-day period even though he was neither a successor nor representative of
-the deceased, and gave no indication of what person was available to be named in substitution as a
-representative of the deceased. Counsel’s construction would open the door to a tactical maneuver to
-place upon the plaintiff the burden of locating the representative of the estate within 90 days. We
-can conceive of cases wherein even the lawyer retained to represent a defendant might know the
-defendant had died, yet not readily know where his estate would be administered. In the present
-case, plaintiff’s attorney did know the court of probate, but he did not know whether probate of the
-will might be contested, or who would be appointed representative of the estate. The tactic of the
-defendant’s attorney would place on plaintiff the burden, where no conventional representative was
-appointed for the estate in probate court, of instituting machinery in order to produce some
-representative of the estate ad litem, pending appointment of the representative contemplated by law
-of the domicile of the deceased.
+LIPEZ, Circuit Judge. Plaintiff-appellant Alan Clukey brought this procedural due process claim
+against his former employer, the Town of Camden (“the Town”), pursuant to 42 U.S.C. § 1983 alleging
+that the Town deprived him of a constitutionally protected property interest in his right to be
+recalled to employment without due process of law. The district court dismissed Clukey’s complaint,
+adopting the magistrate judge’s conclusion that while Clukey did have a protected property interest
+in his recall right, his § 1983 claim was foreclosed by the availability of a state law breach-of-
+contract claim. ' Although the court was correct that Clukey’s complaint alleged a protected
+property interest in his recall right, we cannot accept its conclusion that Clukey’s potential
+recourse to state law foreclosed his § 1983 claim. Hence, we vacate the district court’s order and
+remand for further proceedings. I. We draw the following facts, which we take as true, from the
+complaint and documents incorporated by reference into the complaint. See Lass v. Bank of America,
+N.A., 695 F.3d 129, 133-34 (1st Cir.2012). Plaintiff Alan Clukey was a police dispatcher with the
+Camden Police Department for 31 years until his department was eliminated in 2007 and he was laid
+off. At the time of his lay-off, Clukey was the most senior employee in his department. The terms of
+Clukey’s employment with the Town were governed by a Collective Bargaining Agreement (“CBA”) between
+the Town and the Fraternal Order of Police. In critical part, Article 19, Section 3 of the
+Collective Bargaining agreement provides that: In the event it becomes necessary for the Employer to
+layoff employees for any reason, employees shall be laid off in the inverse order of their
+seniority, by classification, with bumping rights. Bumping shall not be allowed between the police
+function and the dispatcher function. Employees shall be recalled from lay-off according to their
+seniority provided they are qualified to fill the position. Police function and dispatcher function
+shall be treated separately.... The affected employee has recall rights for twelve (12) months from
+the date of such lay off. Article 7 of the CBA provides a formal grievance procedure for dealing
+with “any dispute between the parties as to the meaning, or application, of the specific terms of
+the Agreement.” The grievance procedure provides for an escalating interactive process and an
+informal hearing. If the employee remains dissatisfied at the conclusion of the informal process,
+she can request arbitration. The decisions of the arbitrator “shall be final and binding on the
+parties for the duration of the Agreement.” In the twelve months following Clukey’s termination, at
+least two positions opened with the police department for which Clukey was qualified—one position as
+an Administrative Assistant and one as a Parking Enforcement Officer. The Town did not recall him to
+either position. Indeed, the Town filled these positions with new hires without providing Clukey any
+notice that he was not being recalled, or explaining how he could appeal this determination. Clukey
+and his wife Dera Clukey brought suit in federal court against the Town of Camden under 42 U.S.C. §
+1983, alleging that the Town had deprived him of his property interest in his right to be recalled
+without providing him due process of law in violation of the Constitution’s procedural due process
+guarantees. The Town filed a motion under Federal Rule of Civil Procedure 12(b)(6) to dismiss
+Clukey’s claims, arguing that Clukey did not have a constitutionally protected property interest in
+his right to be recalled. In reviewing the defendant’s motion, the magistrate judge determined that
+Clukey did have a property interest in his right to be recalled, but ultimately concluded that our
+decision in Ramírez v. Arlequín, 447 F.3d 19 (1st Cir.2006), compelled the conclusion that Clukey’s
+claim was not cognizable under § 1983. In particular, the magistrate judge’s recommendation relied
+heavily on our conclusion that: [a] claim of breach of contract by a state actor without any
+indication or allegation that the state would refuse to remedy the plaintiffs’ grievance should they
+demonstrate a breach of contract under state law, does not state a claim for violation of the
+plaintiffs’ right of procedural due process. Id. at 25 (citation omitted) (internal quotation marks
+omitted). Concluding that, like the plaintiffs claim in Ramirez, Clukey’s claim was one for breach
+of contract, the magistrate judge recommended dismissal. The district court adopted the
+recommendation, dismissing Clukey’s complaint for failure to state a claim. Clukey appeals. II. To
+state a procedural due process claim under § 1983, the plaintiff must allege facts which, if true,
+establish that the plaintiff (1) had a property interest of constitutional magnitude and (2) was
+deprived of that property interest without due process of law. See García-Rubiera v. Fortuño, 665
+F.3d 261, 270 (1st Cir.2011). Our review of the trial court’s dismissal of Chi-key’s complaint is de
+novo. See Ramírez, 447 F.3d at 20. A. Clukey’s Property Interest In His Right to Be Recalled 1.
+Property Interests In Public Employment “The threshold issue in a procedural due process action is
+whether the plaintiff had a constitutionally protected property interest at stake.” Mard v. Town of
+Amherst, 350 F.3d 184, 188 (1st Cir.2003) (citing Cleveland Bd. of Educ. v. Loudermill, 470 U.S.
+532, 538-41, 105 S.Ct. 1487, 84 L.Ed.2d 494 (1985)). The Due Process Clause guarantees individuals
+procedural protections from state actions that deprive those individuals of their property interests
+in certain entitlements and benefits. See, e.g., Goldberg v. Kelly, 397 U.S. 254, 255, 90 S.Ct.
+1011, 25 L.Ed.2d 287 (1970) (property interest in welfare benefits); Perry v. Sindermann, 408 U.S.
+593, 599, 92 S.Ct. 2694, 33 L.Ed.2d 570 (1972) (public employment); Goss v. Lopez, 419 U.S. 565,
+573, 95 S.Ct. 729, 42 L.Ed.2d 725 (1975) (attendance at public schools); Memphis Light, Gas & Water
+Div. v. Craft, 436 U.S. 1, 3, 98 S.Ct. 1554, 56 L.Ed.2d 30 (1978) (utility services); Barry v.
+Barchi, 443 U.S. 55, 64, 99 S.Ct. 2642, 61 L.Ed.2d 365 (1979) (professional licenses). The Town
+asserts, without citing any precedent, that it is impossible for Clukey to have a property interest
+in his right to recall because “no property interest in continued employment can exist if one is not
+already employed.” This argument ignores the centrality of state law to the property interest
+inquiry. The critical inquiry in a procedural due process case involving a right of employment is
+whether the plaintiff has a legitimate claim of entitlement grounded in state law, not whether one
+is “already employed.” See Paul v. Davis, 424 U.S. 693, 710, 96 S.Ct. 1155, 47 L.Ed.2d 405 (1976)
+(noting that the property interests protected by the Due Process Clause “attain this constitutional
+status by virtue of the fact that they have been initially recognized by state law”); see also Town
+of Castle Rock, Colo. v. Gonzales, 545 U.S. 748, 771, 125 S.Ct. 2796, 162 L.Ed.2d 658 (2005)
+(Souter, J. concurring) (“[T]he federal process protects the property created by state law.”). The
+Supreme Court has emphasized that it is the prerogative of the states to define property, and “[i]t
+is not the business of a court adjudicating due process rights to make its own critical evaluation
+of those choices and protect only the ones that, by its own lights, are ‘necessary.’ ” Fuentes v.
+Shevin, 407 U.S. 67, 90, 92 S.Ct. 1983, 32 L.Ed.2d 556 (1972). As such, our inquiry must begin by
+considering whether an entitlement grounded in state law exists, recognizing that “the types of
+interests protected as ‘property’ are varied and, as often as not, intangible, relating ‘to the
+whole domain of social and economic fact.’ ” Logan v. Zimmerman Brush Co., 455 U.S. 422, 430, 102
+S.Ct. 1148, 71 L.Ed.2d 265 (1982) (quoting Nat’l Mut. Ins. Co. v. Tidewater Transfer Co., 337 U.S.
+582, 646, 69 S.Ct. 1173, 93 L.Ed. 1556 (1949) (Frankfurter, J., dissenting)); see also Town of
+Castle Rock, 545 U.S. at 757, 125 S.Ct. 2796 (“Resolution of the federal issue begins ... with a
+determination of what it is that state law provides.”). In considering whether state law creates an
+entitlement, we look primarily to the discretion state law accords state actors to withhold the
+entitlement from individuals. In general, “a benefit is not a protected entitlement if government
+officials may grant or deny it in their discretion.” Town of Castle Rock, 545 U.S. at 756, 125 S.Ct.
+2796. Rather, “the more circumscribed is the government’s discretion (under substantive state or
+federal law) to withhold a benefit, the more likely that benefit constitutes ‘property.’ ” Beitzell
+v. Jeffrey, 643 F.2d 870, 874 (1st Cir.1981); see also Colburn v. Trs. of Ind. Univ., 973 F.2d 581,
+589 (7th Cir.1992) (“Property interests exist when an employer’s discretion is clearly limited so
+that the employee cannot be denied employment unless specific conditions are met.”); Bd. of Regents
+of State Colls. v. Roth, 408 U.S. 564, 577, 92 S.Ct. 2701, 33 L.Ed.2d 548 (1972) (“To have a
+property interest in a benefit, a person clearly must have more than an abstract need or desire for
+it. He must have more than a unilateral expectation of it. He must, instead, have a legitimate claim
+of entitlement to it.”). That a tenured public employee has a protected property interest in
+continued employment is beyond question. See Loudermill, 470 U.S. at 538-39, 105 S.Ct. 1487. Tenure
+is not the only employment benefit, however, that can be protected by the constitutional guarantees
+of due process. For example, we have held that where a public employer’s collective bargaining
+agreement uses mandatory language, the public employees covered by that agreement have a
+constitutionally protected property interest in injury leave benefits. See Mard, 350 F.3d at 186,
+188-89. Similarly, we have joined a majority of our sister circuits in concluding that public
+employees may have a protected property interest in their rank such that they may not be demoted
+without due process. See Acosta-Orozco v. Rodriguez-de-Rivera, 132 F.3d 97, 98, 104 (1st Cir.1997);
+see also Ciambriello v. Cnty. of Nassau, 292 F.3d 307, 318-19 (2d Cir.2002) (collecting cases). We
+have also held that physicians can have a property right in privileges at public hospitals. See Lowe
+v. Scott, 959 F.2d 323, 336 (1st Cir.1992). At least one of our fellow circuits has also determined
+that public employees can have a property interest in a veteran’s preference in promotions. See
+Carter v. City of Phil., 989 F.2d 117, 122 (3d Cir.1993) (concluding that armed forces veteran had
+interest “not in the promotion per se, but in being given a preference when his promotion is
+considered”). Directly addressing the question of whether a public employee has a property interest
+in a recall right, the Seventh Circuit has determined that the existence of the right depended on
+whether the state law at issue created such a substantive right in the employees. See Chi. Teachers
+Union v. Bd. of Educ., 662 F.3d 761, 763 (7th Cir.2011) (per curiam). In that case, the City of
+Chicago, facing a budget crisis, laid off 1,300 tenured teachers in the summer of 2010. Id. at
+762-63. As the budget situation improved, approximately half of those laid off teachers were
+recalled to new positions. However, some teacher openings were filled with new hires, rather than
+the tenured teachers who had been laid off. Id. at 763. The tenured teachers Although we have never
+addressed whether the right to be recalled following a lay-off can be a constitutionally protected
+property interest, we have addressed closely analogous situations, such as the right to be
+reinstated following a period of disability leave. In Laborde-Garcia v. Puerto Rico Telephone Co.,
+993 F.2d 265 (1st Cir.1993), we considered whether a Puerto Rico statute created a property interest
+in reinstatement for public employees who sought to return to their previous positions following a
+period of disability. The statute provides that “the employer shall be under the obligation to
+reserve the job filled by the laborer or employee at the time the accident occurred, and to
+reinstate him therein,” provided certain conditions were met. P.R. Laws Ann, tit. 11, § 7 (1995).
+The employer argued that the employees could not have a right to reinstatement “because such
+‘rights’ are only expectations of em ployment, which may or may not be fulfilled.” Laborde-Garcia,
+993 F.2d at 267. Rejecting this argument, we found that the language of the statute so “narrow[ed]
+... the employer’s discretion to decide not to reinstate” the employee to her previous employment
+that it amounted to “a legitimate claim of entitlement to that continued employment.” Id. (internal
+quotation marks omitted); see Rivera-Flores v. P.R. Tel. Co., 64 F.3d 742, 750-51 (1st Cir.1995)
+(addressing the same statute and describing the process due); see also Harhay v. Town of Ellington
+Bd. of Educ., 323 F.3d 206, 212-13 (2d Cir.2003) (determining that laid off teacher had protected
+property interest in her place on a reappointment list); Buttitta v. City of Chi., 9 F.3d 1198, 1204
+(7th Cir.1993) (determining that state law governing compulsory disability leave for police officers
+“creates in police officers a property interest in being returned to the department for an
+opportunity to demonstrate their fitness for active duty”); Stana v. Sch. Dist. of Pittsburgh, 775
+F.2d 122, 125-26 (3d Cir.1985) (determining that public school teacher had property interest in her
+position on list determining eligibility for promotions and transfers). who were not recalled
+brought suit against the state alleging, inter alia, that the state had deprived them of their
+property interest in their right to be recalled without due process. After initially determining
+that the teachers did have a substantive right to recall, see Chi. Teachers Union v. Bd. of Educ.,
+662 F.3d 761 (7th Cir.2011), the panel, in response to a petition for rehearing en banc, decided to
+certify to the Illinois Supreme Court the question of whether Illinois law granted the teachers such
+a substantive recall right. Taking on the certified questions, in Chicago Teachers Union v. Board of
+Education, 2012 IL 112566, 357 Ill.Dec. 520, 963 N.E.2d 918 (2012), the Illinois Supreme Court
+compared two separate Illinois statutes—one governing teachers in Chicago and one governing Illinois
+teachers outside of Chicago. The court concluded that the statute governing Chicago teachers did not
+create a property interest in recall because the statute did not contain any mandatory language and
+concerned primarily the powers of the Board, not the rights of the individual teachers. See id., 357
+Ill.Dec. 520, 963 N.E.2d at 925-26 (discussing 105 Ill. Comp. Stat. Ann. 5/34-18(31)). By contrast,
+the statute governing teachers outside of Chicago did create a substantive right to recall because
+the statute contained mandatory language and focused on the rights of the individual teachers
+themselves. See id. (discussing 105 Ill. Comp. Stat. Ann. 5/24-12). 2. Clukey’s Property Interest
+Under Maine law, a constitutionally protected property interest can be created in a public
+employment contract. See Krennerich v. Inhabitants of Town of Bristol, 943 F.Supp. 1345, 1352 (D.Me.
+1996) (“In Maine a property interest in continued employment may be established by contract,
+statute, or by proof of an objectively reasonable expectation of continued employment.”) (citing
+Mercier v. Town of Fairfield, 628 A.2d 1053, 1055 (Me.1993)); see also Rivera-Flores, 64 F.3d at 750
+n. 7 (recognizing that a collective bargaining agreement can give rise to protected property
+interests); Ciambriello, 292 F.3d at 314 (same). Thus, we must examine the language of the CBA
+itself to see whether it so narrows the Town’s discretion to rehire Clukey that Clukey had a
+legitimate claim of entitlement to be recalled to police department positions for which he was
+qualified. See Laborde-Garcia, 993 F.2d at 267. The relevant provision of the CBA, Article 19
+provides: Employees shall be recalled from lay-off according to their seniority provided they are
+qualified to fill the position.... The affected employee has recall rights for twelve (12) months
+from the date of such lay off. (Emphasis added.) We agree with the district court that the plain
+language of this proviso compels a conclusion that Clukey had a property interest in his right to be
+recalled. The intent of the bargaining parties to grant laid-off employees an entitlement to recall
+could not be clearer. By its terms, this proviso vests the “recall rights” in the individual
+“affected employee” and provides the Town no discretion in re-hiring qualified laid-off employees
+with requisite seniority—“employees shall be recalled.” Indeed, the language in Article 19 is so
+obviously rights-creating that the Town does not seriously contend otherwise, conceding in its
+briefs that Article 19 creates “conditional recall rights for certain laid off employees.” Thus,
+rather than arguing that the CBA creates no rights at all, the Town argues that the language in the
+CBA defines the recall right so narrowly that Clukey was only entitled to be recalled to a position
+as a dispatcher, rather than any position in the police department for which he was qualified and
+most senior. The Town rests much of this argument on the sentence in Article 19 that reads: “Police
+function and dispatcher function shall be treated separately.” According to the Town, this sentence
+can only mean that laid-off dispatchers have a right to be recalled only to open positions involving
+“dispatcher functions.” Since Clukey has not specifically plead that he was not recalled to a job
+involving “dispatcher functions,” he has not established the deprivation of a property interest.
+Before the district court, the Town itself pressed a different interpretation of this language that
+it now says on appeal has one meaning. In its motion to dismiss, the Town argued only that the
+“shall be treated separately” language meant that Clukey’s recall right did not extend to the
+Parking Enforcement Officer position, presumably because this was a position involving “police
+function.” The Town did not argue that this language meant Clukey could not be recalled to the
+Administrative Assistant position or that he could be re called only to positions involving
+“dispatcher function.” Clukey plausibly offers yet another interpretation of the disputed language:
+that the “treated separately” language is about seniority and not the scope of the recall right
+itself. In other words, the “treated separately” language parallels the anti-bumping language in the
+lay-off procedures. When a police position becomes open, if there is a laid-off police officer on
+the recall list, he is automatically entitled to seniority for that position. If there are no police
+officers on the recall list, then the position goes to the most senior dispatcher. Mindful that this
+appeal is before us from a dismissal for failure to state a claim, we need not decide the meaning of
+this sentence. Rather, having found the phrase plausibly susceptible to different interpretations,
+we resolve the ambiguity in Clukey’s favor, and thus reject the Town’s argument that the language of
+Article 19 clearly limits the scope of Clukey’s recall right to jobs involving “dispatcher
+function.” See Lass, 695 F.3d at 185-36 (holding that ambiguous contract provisions foreclose
+dismissal of complaint); see also Subaru, Distribs. Corp. v. Subaru of Am., Inc., 425 F.3d 119, 122
+(2d Cir.2005) (“We are not obliged to accept the allegations of the complaint as to how to construe
+[a contract], but at this procedural stage, we should resolve any contractual ambiguities in favor
+of the plaintiff.”). For these reasons, we conclude that the district court was correct in its
+determination that Clukey has stated facts which, if true, establish that he has a constitutionally
+protected property interest in his right to be recalled to employment with the police department of
+the Town of Camden. We turn now to the question of whether he has adequately alleged that the Town
+deprived him of that interest without constitutionally sufficient process. B. The Process Due It is
+well established that in every case where a protected property interest is at stake, the
+Constitution requires, at a minimum, some kind of notice and some kind of opportunity to be heard.
+See Dusenbery v. United States, 534 U.S. 161, 167, 122 S.Ct. 694, 151 L.Ed.2d 597 (2002);
+Loudermill, 470 U.S. at 541, 105 S.Ct. 1487 (“While the legislature may elect not to confer a
+property interest in [public] employment, it may not constitutionally authorize the deprivation of
+such an interest, once conferred, without appropriate procedural safeguards.” (alteration in
+original) (citation and internal quotation marks omitted)). Exactly what sort of notice and what
+sort of hearing the Constitution requires, however, vary with the particulars of the case. See
+Morrissey v. Brewer, 408 U.S. 471, 481, 92 S.Ct. 2593, 33 L.Ed.2d 484 (1972) (“[N]ot all situations
+calling for procedural safeguards call for the same kind of procedure.”); Zinermon v. Burch, 494
+U.S. 113, 127, 110 S.Ct. 975, 108 L.Ed.2d 100 (1990) (“Due Process ... is a flexible concept that
+varies with the particular situation.”). To resolve this question, we use the familiar test laid out
+by the Supreme Court in Mathews v. Eldridge, 424 U.S. 319, 96 S.Ct. 893, 47 L.Ed.2d 18 (1976). We
+determine the private interest that will be affected by the official action; the risk of an
+erroneous deprivation of such interest through the procedures used, and the probable value, if any,
+of additional or substitute procedural safeguards; and finally, the Government’s interest, including
+the function involved and the fiscal and administrative burdens that the additional or substitute
+procedural requirement would entail. Id. at 335, 96 S.Ct. 893. Both parties press us to make a more
+specific determination about the process due Clukey pursuant to the Mathews test. In particular, the
+parties dispute whether Clukey was entitled to any pre-deprivation process. Whether or not an
+individual is entitled to pre-deprivation notice is often a difficult, fact-intensive question. See
+Ciambriello, 292 F.3d at 319 (“The determination of whether one is entitled to a predeprivation
+hearing is fact-specific.... ”). However, as we explain, resolving this appeal does not require us
+to address this question. The complaint alleges that the Town failed to provide Clukey with any
+notice of any kind whatsoever. This allegation is fatal to the Town’s argument. See Memphis Light,
+436 U.S. at 14-15, 98 S.Ct. 1554 (concluding that even where opportunities to be heard existed, due
+process is not satisfied if affected individuals are given no notice of those opportunities);
+García-Rubiera, 665 F.3d at 276 (holding that even where affected individuals had or should have had
+actual knowledge about deprivation, due process still required individualized notice); Collins v.
+Marina-Martinez, 894 F.2d 474, 481 (1st Cir.1990) (concluding that without “suitable notice, the
+‘opportunity’ for plaintiff to be heard [is] a charade”). The Mathews test is a balancing test used
+to determine what sort of notice and what sort of hearing is required in a particular case. It
+excludes the premise that public employees may be deprived of a property interest without any notice
+at all. This is not to say, of course, that the Town on remand is foreclosed from offering evidence
+of the administrative and financial costs it would have to bear in order to provide various
+procedural protections to its aggrieved employees. We leave it to the district court to engage in a
+full-scale Mathews analysis on a more developed factual record if doing so becomes necessary to
+resolve the ease. For present purposes, however, Clukey’s uncontested allegation that he received no
+notice either before or after the Town deprived him of a protected property interest in employment
+is in itself sufficient to state a procedural due process claim under § 1983. C. The Availability of
+Alternative Remedial Schemes The district court concluded that Clukey’s claim was foreclosed by the
+availability of state law remedies. Following the district court’s lead, the Town also urges us to
+find that any § 1983 claim Clukey might otherwise have is foreclosed by the availability of either
+(1) state law contract remedies, or (2) the grievance procedures in the collective bargaining
+agreement. As we will explain, the existence of these alternative remedies does not foreclose
+Clukey’s § 1983 claim. 1. State Law Breach of Contract Claims The court’s conclusion that the
+availability of a state law breach of contract claim foreclosed any § 1983 claim Clukey might
+otherwise have rests on a misunderstanding of the application of our opinion in Ramírez v. Arlequín,
+447 F.3d 19, 25 (1st Cir.2006), to this very different case. Ramirez was a classic breach of
+contract case concerning a dispute between a municipality and an independent contractor over the
+municipality’s alleged refusal to pay the contractor for work it had performed pursuant to a
+contractual agreement between the parties. We held that the availability of a traditional state law
+breach of contract claim for damages foreclosed any argument from the contractor that the state had
+deprived it of due process. See id. Our decision in Ramirez rested heavily on the Supreme Court’s
+opinion in Lujan v. G & G Fire Sprinklers, Inc., 532 U.S. 189, 121 S.Ct. 1446, 149 L.Ed.2d 391
+(2001). In that case, the Court addressed a California statutory scheme that allowed state agencies
+to withhold payments to public works contractors if that contractor or its subcontractors failed to
+comply with certain provisions of the California Labor Code. Id. at 191, 121 S.Ct. 1446. Plaintiff
+subcontractor G & G Sprinklers alleged that the state had deprived it of property without due
+process when the state withheld payments following a state agency’s determination that G & G had
+engaged in unfair labor practices. Id. at 193, 121 S.Ct. 1446. Assuming without deciding that G & G
+had a property interest in receiving the payments, the Court concluded that where a government
+contractor’s only claim is that “it is entitled to be paid in full,” a state law breach of contract
+claim was all the process due. Id. at 196, 121 S.Ct. 1446. The Court was careful, however, to
+distinguish the facts in Lujan from cases where plaintiffs allege that they are “presently entitled
+either to exercise ownership dominion over real or personal property, or to pursue a gainful
+occupation.” Id. Here, we are not dealing with a contractual dispute over compensation for past work
+performed analogous to Ramirez or Lujan. The property right at issue in this case is the right to be
+employed if certain conditions are met. Lujan made clear that the right “to pursue a gainful
+occupation ... cannot be fully protected by an ordinary breach-of-contract suit.” Concepcion
+Chaparro v. Ruiz-Hernández, 607 F.3d 261, 267 n. 2 (1st Cir.2010) (quoting Lujan, 532 U.S. at 196,
+121 S.Ct. 1446) (internal quotation marks omitted); see also Baird v. Bd. of Educ., 389 F.3d 685,
+691-93 (7th Cir.2004) (discussing Lujan and concluding that deprivation of property interest in
+employment would not be satisfied by breach-of-contract claim). In fact, there is a long history of
+case law in this circuit holding that public employees who have been deprived of a property interest
+in employment without due process may bring a § 1983 claim in federal court regardless of the
+availability of a state law breach-of-contract claim. See, e.g., Concepción Chaparro, 607 F.3d at
+267; Cotnoir v. Univ. of Me. Sys., 35 F.3d 6 (1st Cir.1994); see also Godin v. Machiasport Sch.
+Dep’t Bd. of Directors, 831 F.Supp.2d 380, 389 (D.Me.2011) (holding that public employee’s failure
+to pursue appeal process under Maine Rule of Civil Procedure 80B did not preclude her from bringing
+procedural due process claim under § 1983). 2. The Grievance Procedures in the Collective Bargaining
+Agreement
 
 

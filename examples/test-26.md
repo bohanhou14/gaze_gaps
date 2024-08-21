@@ -1,142 +1,181 @@
 **gold_text:**
-The amendment to Rule 25(a) (1) was intended to dispel unwarranted rigidity and allow more
-flexibility in substitution. “It was intended that liberal effect be given to the 1963 amendment.”
-Roscoe v. Roscoe, 126 U.S.App.D.C. 317, 322, 379 F.2d 94, 99 (1967). “[T]he 90 day period was not
-intended to act as a bar to otherwise meritorious actions.” Staggers v. Otto Gerdau Co., 359 F.2d
-292, 296 (2d Cir. 1966).
+It is plaintiff’s assertion that it was error for the District Court to deny a motion to suppress
+evidence derived from the search warrants. Applying the test indicated in Aguilar v. Texas, 378 U.S.
+108, 84 S.Ct. 1509, 12 L.Ed.2d 723 (1964) as clarified by Spinelli v. United States, 393 U.S. 410,
+89 S.Ct. 584, 21 L.Ed.2d 637 (1968), we approve the action of the District Court.
 
 **Generations:**
 
 
 ***GPT-4o:***
-This stringent interpretation contrasts sharply with the intent of the 1963 amendments to Rule 25
-and Rule 6(b), which aimed to inject flexibility and fairness into the substitution process. As
-noted in 379 F.2d 94 and 359 F.2d 292, the amendments were designed to eliminate the inequities and
-hardships caused by the rigid two-year limitation originally imposed. The Advisory Committee
-emphasized that the revised rules were to be liberally construed to allow courts discretion in
-extending the substitution period, recognizing the difficulties that could arise in promptly
-identifying and notifying the proper representative of the deceased.   Given this context, the
-defendant’s counsel's suggestion of death, which lacked identification of a proper representative,
-failed to initiate the 90-day countdown. This interpretation aligns with the judicial precedent that
-courts should prioritize the equitable administration of justice over strict procedural formalities.
-Thus, the district court erred in dismissing the plaintiffs' action without granting the requested
-extension, especially considering the circumstances that inhibited timely substitution, such as the
-injury to plaintiffs' counsel and the ongoing legal processes in the probate court.  We, therefore,
-reverse the judgment and remand for further proceedings consistent with this opinion, ensuring that
-the substitution process adheres to the flexible and just principles intended by the amendments to
-the Federal Rules of Civil Procedure.
+Although the case primarily concerns the application of Ill.Rev.Stats. Ch. 38, § 28-1(a) (10) with
+respect to the First Amendment, reference cases such as 393 U.S. 410 and 378 U.S. 108 provide
+critical insights into the broader constitutional issues. In 393 U.S. 410, the principle of
+assessing the warrant's probable cause was significantly expounded, clarifying that judicial
+interpretation must comply strictly with constitutional safeguards to prevent unwarranted
+intrusions, paralleling the need to meticulously judge the circumstances surrounding Angelini's
+activities.  Moreover, in 378 U.S. 108, the Court emphasized the necessity of specific, credible
+evidence in affidavits supporting warrant issuance, which directly relates to the rigorous need for
+factual substantiation in judicial scrutiny of Angelini's operations. Applying these precedents
+ensures a balanced approach in upholding statutory mandates while respecting constitutional
+freedoms.   Thus, the dissemination of information, when contextualized within professional
+gambling, warrants regulation without inherently infringing upon constitutional rights. Both
+referenced cases underscore the importance of calibrated judicial processes in maintaining the
+delicate balance between law enforcement prerogatives and protected freedoms.
 
 
 **Label:** 
 
 
 ***Meta-Llama-3-8B-Instruct:***
-  In the context of Rule 25(a) (1) of the Federal Rules of Civil Procedure, the suggestion of death
-is a crucial step in the process of substituting a deceased party with a proper representative.
-However, not all suggestions of death are created equal. In cases where the suggestion of death is
-made by a party's attorney, but fails to identify a successor or representative of the deceased, the
-90-day period for substitution may not be triggered.  As noted in 359 F.2d 292, the Advisory
-Committee on Civil Rules intended to provide a more flexible standard for substitution, allowing for
-extensions of time and dispensing with the rigid two-year period previously in place. However, this
-flexibility is contingent upon the suggestion of death providing sufficient information to permit
-the court to proceed with substitution.  In the present case, the suggestion of death made by the
-defendant's attorney was deficient in that it failed to identify a successor or representative of
-the deceased. This lack of specificity rendered the suggestion ineffective in triggering the 90-day
-period for substitution, as explained in 379 F.2d 94.  Furthermore, the court's discretion to
-enlarge the time period for substitution, as provided by Rule 6(b), is not a blank check. Rather, it
-is intended to be exercised in a judicious and reasonable manner, taking into account the particular
-circumstances of each case.  In light of these principles, we conclude that the district court erred
-in dismissing the action with prejudice. The case should be remanded for further proceedings,
-allowing the parties to properly substitute a representative of the deceased and continue the action
-in a manner consistent with the Federal Rules of Civil Procedure.
+  The questions presented in these reference cases involve the constitutional requirements for
+obtaining a state search warrant and the applicability of a state statute regulating the
+dissemination of gambling information.  In the case of 378 U.S. 108, the Supreme Court held that a
+search warrant issued without probable cause is unconstitutional. The Court stated that the Fourth
+Amendment requires that a search warrant be issued only upon a showing of probable cause, and that
+the warrant must particularly describe the place to be searched and the persons or things to be
+seized.  In the case of 393 U.S. 410, the Supreme Court held that a state statute regulating the
+dissemination of gambling information is unconstitutional under the First Amendment. The Court
+stated that the statute was overly broad and that it prohibited the dissemination of information
+that was protected by the First Amendment.  The case at bar presents a similar issue, as it involves
+the applicability of a state statute regulating the dissemination of gambling information. However,
+unlike the case of 393 U.S. 410, the statute at issue in this case is not overly broad and does not
+prohibit the dissemination of information that is protected by the First Amendment.  In this case,
+the defendant, Angelini, was convicted of violating the Illinois gambling law by transmitting
+information about sporting events to bookmakers and gamblers. The evidence showed that Angelini
+transmitted the information for the purpose of facilitating gambling, and that he knowingly
+transmitted the information to persons engaged in gambling activities.  The issue in this case is
+whether the Illinois gambling law is unconstitutional under the First Amendment. The court must
+determine whether the law is overly broad and whether it prohibits the dissemination of information
+that is protected by the First Amendment.  In conclusion, the case at bar presents a similar issue
+to the case of 393 U.S. 410, but with a different outcome. The Illinois gambling law is not
+unconstitutional under the First Amendment, as it does not prohibit the dissemination of information
+that is protected by the First Amendment.
 
 
 **Label:** 
 
 
-**citations:** ['379 F.2d 94', '359 F.2d 292']
+**citations:** ['378 U.S. 108', '393 U.S. 410']
 
-***short_citations_0:*** 379 F.2d 94
+***short_citations_0:*** 378 U.S. 108
 
-the proper parties. * * * Unless the motion for substitution is made not later than 90 days after the death is suggested upon the record by service of a statement of the fact of the death as provided herein for the service of the motion, the action shall be dismissed as to the deceased party.” Here not only had the 90-day period not expired when the court entered summary judgment, the appellant by her motion for reconsideration had specifically invoked the discretion of the court. Rule 6(b) provides pertinently that when “by these rules * * * an act is required or allowed to be done at or within a specified time, the court for cause shown may at any time in its discretion (1) with or without motion or notice order the period enlarged if request therefor is made before the expiration of the period originally prescribed * * Originally the Rule had precluded an extension of time for taking action under Rule 25(a) (1), but by purposeful amendment, it was sought to relieve against the hardship of the Court’s holding in Anderson v. Yungkau, 329 U.S. 482, 67 S.Ct. 428, 91 L.Ed. 436 (1947). It was intended that liberal effect be given to the 1963 amendment. Graham v. Pennsylvania Railroad, 119 U.S.App.D.C. 335, 342 F.2d 914 (1964), cert. denied, 381 U.S. 904, 85 S.Ct. 1446, 14 L.Ed.2d 286 (1965). We are constrained to reverse for further proceedings not inconsistent with this opinion. Reversed. The only “party” then
+Mr. Justice Goldberg delivered the opinion of the Court. This case presents questions concerning the constitutional requirements for obtaining a state search warrant. Two Houston police officers applied to a local Justice of the Peace for a warrant to search for narcotics in petitioner's home. In support of their application, the officers submitted an affidavit which, in relevant part, recited that: “Affiants have received reliable information from a credible person and do believe that heroin, marijuana, barbiturates and other narcotics and narcotic paraphernalia are being kept at the above described premises for the purpose of sale and use contrary to the provisions of the law.” The search warrant was issued. In executing the warrant, the local police, along with federal officers, announced at petitioner’s door that they were police with a warrant. Upon hearing a commotion within the house, the officers forced their way into the house and seized petitioner in the act of attempting to dispose of a packet of narcotics. At his trial in the state court, petitioner, through his attorney, objected to the introduction of evidence obtained as a result of the execution of the warrant. The objections were overruled and the evidence admitted. Petitioner was convicted of illegal possession of heroin and sentenced to serve 20 years in the state penitentiary. On appeal to the Texas Court of Criminal Appeals, the conviction was affirmed, 172 Tex. Cr. R. 629, 362 S. W. 2d 111, affirmance upheld on rehearing, 172 Tex. Cr. R. 631, 362 S. W.
 
-***short_citations_1:*** 359 F.2d 292
+***short_citations_1:*** 393 U.S. 410
 
-insertion of a “reasonable time” standard. In 1963, the Advisory Committee suggested the present rule and noted: “Present Rule 25(a) (1), together with present Rule 6(b), results in an inflexible requirement that an action be dismissed as to a deceased party if substitution is not carried out within a fixed period measured from the time of the death. The hardships and inequities of this unyielding requirement plainly appear from the cases. * * * The amended rulé establishes a time limit for the motion to substitute based not upon the time of the death, but rather upon the time information of the death is provided by means of a suggestion of death upon the record, i. e. service of a statement of the fact of the death.” See Notes of Advisory Committee on the Civil Rules, 28 U.S.C. Rule 25 (1964). Rule 6(b) of the Federal Rules of Civil Procedure was also amended in 1963 and the prohibition against extending the time for taking action under Rule 25 was eliminated. The Advisory Committee on the Civil Rules noted: “It is intended that the court shall have discretion to enlarge that period.” The amendments of Rules 6(b) and 25(a) (1) provided needed flexibility. It was assumed that discretionary extensions would be liberally granted. Movants under Rule 25 can ordinarily control when a death is “suggested upon the record” and appellants’ attorney was under no obligation to file his affidavit of Staggers’ death on the date he did. He could have filed
+Mb. Justice Harlan delivered the opinion of the Court. William Spinelli was convicted under 18 U. S. C. i 1952 of traveling to St. Louis, Missouri, from a nearby Illinois suburb with the intention of conducting gambling activities proscribed by Missouri law. See Mo. Rev. Stat. § 563.360 (1959). At every appropriate stage in the proceedings in the lower courts, the petitioner challenged the constitutionality of the warrant which authorized the FBI search that uncovered the evidence necessary for his conviction. At each stage, Spinelli’s challenge was treated in a different way. At a pretrial suppression hearing, the United States District Court for the Eastern District of Missouri held that Spinelli lacked standing to raise a Fourth Amendment objection. A unanimous panel of the Court of Appeals for the Eighth Circuit rejected the District Court’s ground, a majority holding further that the warrant was issued without probable cause. After an en banc rehearing, the Court of Appeals sustained the warrant and affirmed the conviction by a vote of six to two. 382 F. 2d 871. Both the majority and dissenting en banc opinions reflect a most conscientious effort to apply the principles we announced in Aguilar v. Texas, 378 U. S. 108 (1964), to a factual situation whose basic characteristics have not been at all uncommon in recent search warrant cases. Believing it desirable that the principles of Aguilar should be further explicated, we granted certiorari, 390 U. S. 942, our writ being later limited to the question of the
 
 **prev_text:**
-LEVENTHAL, Circuit Judge: The District Court held that Rule 25(a) (1) of the Federal Rules of Civil
-Procedure required dismissal of the plaintiffs’ tort action because defendant’s counsel had filed a
-suggestion of death of the defendant yet plaintiff had not made any substitution of parties within
-90 days. We reverse on the ground that the suggestion of death, which was neither filed by nor
-identified a successor or representative of the deceased, such as an executor or administrator, was
-ineffective to trigger the running of the 90-day period provided by the Rule. Mr. and Mrs. John
-Rende filed an action in the District Court individually and on behalf of their infant son who had
-been struck and injured by Alfred S. Kay while driving his car. On August 27, 1967, defendant Kay
-died. On September 1, 1967, the defendant’s attorney, a term used here to identify the lawyer who
-had been retained by deceased to defend the action, and who had duly entered an appearance as
-attorney for defendant, filed a suggestion of death in the District Court, giving notice to
-plaintiffs’ attorney. That same day there was filed in the Orphans Court for Montgomery County,
-Maryland, residence of the deceased, his will naming his widow as executrix, but the will had not
-been probated, nor any legal representative appointed for the estate at the time of the filing of
-this appeal. Plaintiffs’ attorney was injured on October 14, 1967. On returning to practice early in
-1968, he learned that no successor to defendant Kay had yet been appointed, and he moved to certify
-the case to the ready calendar. The defendant’s attorney opposed this on grounds that discovery
-procedures had not been completed. The case was delayed and placed on the ready calendar as of June
-7, 1968. However, in April 1968, the defendant’s attorney moved in his own name to dismiss the
-action on the ground that Rule 25(a) (1) required plaintiffs to move to substitute a proper party
-for the deceased within 90 days of the suggestion of death. Plaintiffs filed an opposition and
-motion for substitution of the proper party, and sought an extension of the time for substitution as
-allowed by Rule 6(b). At argument, plaintiffs’ counsel asserted the “suggestion of death was
-defective in that it did not list the name of the proper party; that is the legal representative of
-the defendant.” The court responded: “That would not be his burden.” The court dismissed the action
-with prejudice. Prior to its amendment in 1963, Rule 25(a) (1) required the court to dismiss a case
-if no motion for substitution was filed within two. years after date of death, and no extensions of
-this period were allowed under Rule 6(b). The rule was rigorously applied, often with harsh results,
-and was called “easily the poorest rule of all the Federal Rules.” In 1955 the Advisory Committee on
-Rules for Civil Procedure recommended that the two-year period be changed to a “reasonable time”
-standard. In 1961 the Advisory Committee on Civil Rules again suggested the Rule be made more
-flexible. In 1963 the Supreme Court made changes in Rule 25(a) (1) and in Rule 6(b) so as to provide
-a 90-day time limit from the filing of a suggestion of death, and to give the court discretion to
-extend that time. The Committee Notes explaining the amendments state: Present Rule 25(a) (1),
-together with present Rule 6(b), results in an inflexible requirement that an action be dismissed as
-to a deceased party if substitution is not carried out within a fixed period measured from the time
-of death. The hardships and inequities of this unyielding requirement plainly appear from the cases.
-* * * The amended rule establishes a time limit for the motion to substitute based not upon the time
-of the death, but rather upon the time information of the death is provided by means of a suggestion
-of death upon the record. * * * A motion to substitute may be made by any party or by the
-representative of the deceased party without awaiting the suggestion of death. Indeed, the motion
-will usually be so made. If a party or the representative of the deceased party desires to limit the
-time within which another may make the motion, he may do so by suggesting the death upon the record.
-(Emphasis added.) Under the amended Rule either a party or “the successors or representatives of the
-deceased party” may avoid delay in effecting substitution for the deceased party either by filing a
-motion for substitution or by suggesting death on the record and thus triggering the 90-day period
-which begins with suggestion of death. The Advisory Committee, in outlining that suggestion of death
-could be made by “the representative of the deceased party” plainly contemplated that the suggestion
-emanating from the side of the deceased would identify a representative of the estate, such as an
-executor or administrator, who could be substituted for the deceased as a party, with the action
-continued in the name of the representative. The addition of “successor” in the Rule would take care
-of the case of, say, the distributee of an estate that had been distributed, but would not make a
-material difference in the aspect under consideration. Form 30, for suggestion of death, which was
-provided in order to expedite and facilitate implementation of the amendment, provides: A.B.
-[described as a party, or as executor, administrator, or other representative or successor of C.D.,
-the deceased party\ suggests upon the record, pursuant to Rule 25(a) (1), the death of C.D.
-[describe as party] during the pendency of this action. Added Jan. 21, 1963, eff. July 1, 1963.
-[Emphasis added.] Although the attorney for the defendant was retained to “represent” the deceased
-as his counsel, he is not a person who could be made a party, and is not a “representative of the
-deceased party” in the sense contemplated by Rule 25(a) d). In our opinion the Rule, as amended,
-cannot fairly be construed, as the de fendant’s attorney argues, to make his suggestion of death
-operative to trigger the 90-day period even though he was neither a successor nor representative of
-the deceased, and gave no indication of what person was available to be named in substitution as a
-representative of the deceased. Counsel’s construction would open the door to a tactical maneuver to
-place upon the plaintiff the burden of locating the representative of the estate within 90 days. We
-can conceive of cases wherein even the lawyer retained to represent a defendant might know the
-defendant had died, yet not readily know where his estate would be administered. In the present
-case, plaintiff’s attorney did know the court of probate, but he did not know whether probate of the
-will might be contested, or who would be appointed representative of the estate. The tactic of the
-defendant’s attorney would place on plaintiff the burden, where no conventional representative was
-appointed for the estate in probate court, of instituting machinery in order to produce some
-representative of the estate ad litem, pending appointment of the representative contemplated by law
-of the domicile of the deceased.
+DUFFY, Senior Circuit Judge. The principal issue for us to decide in this case is whether
+Ill.Rev.Stats. Ch. 38, § 28-1(a) (10), which forbids knowing telephone transmission of “information
+as to wagers, betting odds, or changes in betting odds”, may, consistently with freedom of speech,
+be applied to a telephone subscriber who does not accept wagers but supplies odds quotations to
+bookmakers and gamblers, so as to bring him within 18 U.S.C. § 1084(d), which requires the
+termination of telephone service used for interstate transmission of gambling information “in
+violation of * * * State * * * law.” Plaintiff filed complaint against the Illinois Bell Telephone
+Company (111. Bell) alleging he had received a notice from the defendant that plaintiff’s telephone
+service would be terminated on April 8, 1968, pursuant to the request of the Federal Bureau of
+Investigation and the United States Attorney. Jurisdiction was based on 28 U.S.C. § 1331. The
+complaint asked for a temporary restraining order and for preliminary and permanent injunctions
+forbidding the termination of the telephone service. A temporary restraining order was entered on
+April 5, 1968. Leave was granted to the United States to intervene as a defendant. Evidence was
+taken on four court days. The temporary restraining order was dissolved on May 3, 1968 after which
+plaintiff applied for the convening of a three-judge court. On June 13, 1968, the District Court
+denied the application . for the three-judge court and overruled the motion for a preliminary
+injunction. It then entered judgment for the defendant and dismissed the complaint. For many years,
+plaintiff Angelini operated a business known as “Angel and Kaplan Sports News Service”, with
+headquarters on North Clark Street in Chicago. A preliminary activity was to prepare and sell to a
+group of subscribers, a list or schedule of coming sport events. Each sports schedule has printed
+boxes left blank allowing for the insertion of other information. The practice followed was that
+shortly before any of the events took place, the subscriber would telephone Mr. Angelini in Chicago.
+If a caller properly identified himself such as by using a code name or number, either plaintiff or
+one of his employees would permit the caller to listen to a recorded message which had been prepared
+either by plaintiff or under his direction. These recordings contained information which could be
+entered in the blank spaces on the printed list which had theretofore been distributed. Plaintiff’s
+attorney insists that her client used the telephone only to express an opinion as to the relative
+strength of teams engaged in athletic contests, and that such use was not in violation of 111.
+Rev.Stats. Ch. 38, § 28-1 (a) (10). If such section is held to be applicable, plaintiff insists that
+it offends the First Amendment, United States Constitution. It seems advisable to set forth one of
+the recordings which is typical of those usually used: “Good morning. In the NBA playoff for tonight
+Boston will be at Detroit at 7:00 o’clock, that is, Boston at Detroit. Boston is one point. The
+total number is 231. For the exhibition baseball, Detroit is one twenty, Pittsburgh one forty, the
+Yankees are one twenty, St. Louis is one forty, San Francisco is a dollar and a half. The Cubs are
+one twenty, Philadelphia is one forty and the White Sox are one-twenty.. In the hockey for tonight I
+am only using one game, that is Chicago at Detroit at 7:00 o’clock on TV, that is Chicago at
+Detroit. Detroit is a straight five to seven over Chicago. If you miss anything, just hold on,
+please.” A witness from the FBI testified that the information transmitted in the recording was the
+odds on sporting events mentioned. Thus, with reference to baseball games “The Cubs are one twenty”
+which meant that the Chicago Cubs were favored by odds of 6-5 (i. e., $1.20.-$1.00). Quotations
+which were given by Angelini concerned baseball, basketball, football, hockey but not horse racing.
+The plaintiff did not himself place or accept bets or wagers. Ill.Rev.Stats., Ch. 38, § 28-1 (a)
+(10) provides that it is unlawful to transmit by telephone “information as to wagers, betting odds,
+or changes in betting odds.” In order to avoid applying this statute to information protected by the
+First Amendment, it has been limited by court decisions to the “rapid” transmission of either actual
+wagers, betting odds or changes in betting odds to or by persons engaged directly or indirectly in
+gambling operations, a construction which preserves the freedom of speech but does not hinder the
+legislative purpose of suppressing gambling. Kelly v. Illinois Bell Telephone Co., and United States
+of America; Kelly v. Western Union Telegraph Co., and United States of America, 325 F.2d 148, 152 (7
+Cir., 1963); Telephone News System, Inc. v. Illinois Bell Telephone Company, 210 F.Supp. 471
+(N.D.Ill., 1962), 220 F.Supp. 621, 639 (N.D.Ill., 1963), aff’d mem. 376 U.S. 782, 84 S.Ct. 1134, 12
+L.Ed.2d 83 (1964). It was shown in the case at bar that the transmission was “rapid” in that
+plaintiff distributed printed forms with blank spaces to be filled in with late information supplied
+by telephone, and that such information was intended to be received and was received by persons
+engaged in gambling activities. Horace Boone testified that he had been a bookmaker in Petersburg,
+Virginia, and that during the past seven or eight years he frequently had placed long distance calls
+to plaintiff, Angelini’s telephone number in Chicago, and that he did so in order to obtain odds for
+use in his bookmaking. He paid $50 a week for this service in addition to the charge for the printed
+schedules. Boone was known to Angelini as “Antioch” and he testified that this name purported to
+identify the town in Illinois from which he was calling. Other geographical names appearing on the
+list of plaintiff’s subscribers included “Cicero,” “Decatur,” “Des Plaines,” “Maywood,” “Lockport,”
+“Peoria,” “Skokie,” “Rock Island” and “Quincy,” all of which are the names of cities or communities
+in Illinois. Most, if not all of those calling from these stations, called from locations beyond the
+state limits of Illinois. Pursuant to warrants, FBI agents conducted a search of plaintiff’s
+premises on March 28, 1968, and again on April 4, 1968. Plaintiff argues that Ill.Rev.Stats. Ch. 38,
+§ 28-1 (a) (10) does not apply. This section reads, in part: “(a) A person commits gambling when he:
+(10) knowingly transmits information as to wagers, betting odds, or changes in betting odds by
+telephone * * * or knowingly installs or maintains equipment for the transmission or receipt of such
+information ; except that nothing in this subdivision (10) prohibits transmission or receipt of such
+information for use in news reporting of sporting events or contests.” The testimony of Boone and
+Levine shows that plaintiff’s information was knowingly transmitted to professional bookmakers
+(Boone) and gamblers (one Harry S. Levine). Rapid transmission of plaintiff’s information was also
+shown by Boone’s testimony that he would call as often as three times a day for “late changes.”
+Also, during a football season, Levine would call as many as eight times a week. Furthermore, the
+plaintiff testified that whenever he felt odds on a particular sporting event had changed, he would
+change the worded message even though there was as little as an hour remaining before the event. We
+think the dissemination of information as was done by plaintiff to bookmakers and gamblers in a form
+primarily for use by them and of little value to the general public, is subject to the power of the
+states to regulate professional gambling. “ ‘The nature of the materials is, of course, relevant as
+an attribute of the defendant’s conduct, but the materials are thus placed in context from which
+they draw color and character. A wholly different result might be reached in a different setting.’ ”
+Ginzburg v. United States, 383 U.S. 463, 475, 86 S.Ct. 942, 950, 16 L.Ed.2d 31 (1965). We agree with
+the conclusion of law of the District Court that plaintiff’s activities hereinbefore described
+violated the provisions of Ill.Rev.Stat., Ch. 38, § 28~l(a) (10). It is clear that the dissemination
+of such information is not, as plaintiff claims, a “constitutionally protected act.” Telephone News
+System, Inc. v. Illinois Bell Telephone Co., supra, 220 F.Supp. at page 639. Plaintiff has raised
+numerous additional points which we have considered and which we reject. We shall briefly comment on
+several. Contrary to plaintiff’s brief, there was no admission by anyone that Angelini was the
+subject of illegal eavesdropping, nor any indication that any evidence obtained thereby was used
+before or during the trial. A letter from the Assistant United States Attorney stated “We have been
+advised that the following listed individuals were not present at, or participated in, conversations
+overheard in any electronic surveillance conducted by the FBI in Chicago: Donald Angelini aka Don
+Angel.” Furthermore, as to the logs of four overhearings where Angelini’s name was mentioned and
+which were examined by the trial court in camera, it appears that the latest of these was five years
+old and had no bearing on the case at bar. It further appeared that no conversation of Angelini “was
+at any time overheard by electronic surveillance.” We approve the action of the District Court in
+denying an adversary hearing on this issue. Although making the assertion that regulation of the
+dissemination of gambling information pursuant to 18 U.S.C. § 1952 violates the First Amendment,
+plaintiff has cited no cases to support that argument. In fact, this Court has held to the contrary.
+United States v. Lookretis, 385 F.2d 487, 489 (7 Cir., 1967), vacated on other grounds, 390 U.S.
+338, 88 S.Ct. 1097, 19 L.Ed.2d 1219 (1968). Plaintiff asserts his Fifth Amendment rights were
+violated because he had to bring a civil action to enjoin the removal of his phones while a criminal
+complaint was pending which involved the same use of the telephone service. A similar contention was
+rejected in Telephone News System, Inc. v. Illinois Bell Telephone Co., 220 F.Supp. 621, 628
+(N.D.Ill., 1963). Plaintiff contends that unpublished Illinois Bell tariffs may not be used as the
+basis for violations of federal law, particularly 47 U.S.C. §§ 203, 501 and 502. This is a civil
+action, therefore we do not address ourselves to the question of criminal penalties. However,
+violations of unpublished tariffs have frequently been the basis for termination of telephone
+service. Palma v. Powers, 295 F.Supp. 924, 931, 940 (N.D.Ill., 1969); McBride v. Western Union Tel.
+Co., 171 F.2d 1 (9 Cir., 1948).
 
 

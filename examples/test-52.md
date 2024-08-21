@@ -1,142 +1,206 @@
 **gold_text:**
-The amendment to Rule 25(a) (1) was intended to dispel unwarranted rigidity and allow more
-flexibility in substitution. “It was intended that liberal effect be given to the 1963 amendment.”
-Roscoe v. Roscoe, 126 U.S.App.D.C. 317, 322, 379 F.2d 94, 99 (1967). “[T]he 90 day period was not
-intended to act as a bar to otherwise meritorious actions.” Staggers v. Otto Gerdau Co., 359 F.2d
-292, 296 (2d Cir. 1966).
+. Tollett v. Henderson, 411 U.S. 258, 266, 93 S.Ct. 1602, 36 L.Ed.2d 235 (1973), holds that a guilty
+plea precludes a federal habeas corpus claim that the composition of the indicting grand jury
+violated the fourteenth amendment. Blackledge v. Perry, 417 U.S. 21, 30, 94 S.Ct. 2098, 2104, 40
+L.Ed.2d 628 (1974), explains that in Toilett the tainted indictment “could have been ‘cured’ through
+a new indictment by a properly selected grand jury." Here Langella argues that there must be both a
+new grand jury and redaction of his truthful immunized answers.
 
 **Generations:**
 
 
 ***GPT-4o:***
-This stringent interpretation contrasts sharply with the intent of the 1963 amendments to Rule 25
-and Rule 6(b), which aimed to inject flexibility and fairness into the substitution process. As
-noted in 379 F.2d 94 and 359 F.2d 292, the amendments were designed to eliminate the inequities and
-hardships caused by the rigid two-year limitation originally imposed. The Advisory Committee
-emphasized that the revised rules were to be liberally construed to allow courts discretion in
-extending the substitution period, recognizing the difficulties that could arise in promptly
-identifying and notifying the proper representative of the deceased.   Given this context, the
-defendant’s counsel's suggestion of death, which lacked identification of a proper representative,
-failed to initiate the 90-day countdown. This interpretation aligns with the judicial precedent that
-courts should prioritize the equitable administration of justice over strict procedural formalities.
-Thus, the district court erred in dismissing the plaintiffs' action without granting the requested
-extension, especially considering the circumstances that inhibited timely substitution, such as the
-injury to plaintiffs' counsel and the ongoing legal processes in the probate court.  We, therefore,
-reverse the judgment and remand for further proceedings consistent with this opinion, ensuring that
-the substitution process adheres to the flexible and just principles intended by the amendments to
-the Federal Rules of Civil Procedure.
+IV.  Langella's assertion that his guilty plea precludes raising his constitutional claims in this
+federal habeas corpus proceeding is unavailing. According to Tollett v. Henderson, 411 U.S. 258
+(1973), a guilty plea constitutes "a break in the chain of events," thereby preventing defendants
+from raising independent claims about constitutional violations occurring prior to the plea. The
+crux of the inquiry post-guilty plea focuses on the voluntariness and competence of counsel's
+advice. In Perry v. Lynaugh, 417 U.S. 21 (1974), it was reinforced that an effective guilty plea
+bars subsequent habeas relief on antecedent constitutional claims, aligning with the principle
+established in Tollett.  Langella's case hinges on the legitimacy of his plea and counsel advice
+rather than preceding constitutional infirmities. He must demonstrate that his counsel's advice fell
+outside “the range of competence demanded of attorneys in criminal cases” (411 U.S. at 266-67).
+Without showing incompetence or involuntariness, Langella's guilty plea forecloses his habeas
+petition on constitutional grounds.  V.  Additionally, Langella argues the Fifth Amendment was
+violated by the same grand jury indicting him post-testimony. However, in United States v.
+Camporeale, 515 F.2d 184 (2d Cir. 1975), the court endorsed the practice of the same grand jury
+issuing a perjury indictment, deeming it in a unique position to assess the witness's credibility.
+This rationale applies to Langella’s contempt indictment, rendering his claim baseless.  Affirmed.
 
 
 **Label:** 
 
 
 ***Meta-Llama-3-8B-Instruct:***
-  In the context of Rule 25(a) (1) of the Federal Rules of Civil Procedure, the suggestion of death
-is a crucial step in the process of substituting a deceased party with a proper representative.
-However, not all suggestions of death are created equal. In cases where the suggestion of death is
-made by a party's attorney, but fails to identify a successor or representative of the deceased, the
-90-day period for substitution may not be triggered.  As noted in 359 F.2d 292, the Advisory
-Committee on Civil Rules intended to provide a more flexible standard for substitution, allowing for
-extensions of time and dispensing with the rigid two-year period previously in place. However, this
-flexibility is contingent upon the suggestion of death providing sufficient information to permit
-the court to proceed with substitution.  In the present case, the suggestion of death made by the
-defendant's attorney was deficient in that it failed to identify a successor or representative of
-the deceased. This lack of specificity rendered the suggestion ineffective in triggering the 90-day
-period for substitution, as explained in 379 F.2d 94.  Furthermore, the court's discretion to
-enlarge the time period for substitution, as provided by Rule 6(b), is not a blank check. Rather, it
-is intended to be exercised in a judicious and reasonable manner, taking into account the particular
-circumstances of each case.  In light of these principles, we conclude that the district court erred
-in dismissing the action with prejudice. The case should be remanded for further proceedings,
-allowing the parties to properly substitute a representative of the deceased and continue the action
-in a manner consistent with the Federal Rules of Civil Procedure.
+  The case involves Jerry Langella, who was subpoenaed to appear before a New York grand jury
+investigating a murder. Langella claimed that the grand jury's questions were derived from illegal
+electronic surveillance, in violation of 18 U.S.C. § 2515. He argued that his conviction for
+criminal contempt, which stemmed from his refusal to answer certain questions, was improper.  The
+court held that Langella's guilty plea did not foreclose his pursuit of his claims in a federal
+habeas corpus proceeding, citing Lefkowitz v. Newsome, 420 U.S. 283 (1975). The court also noted
+that Langella's claims were not presented to the New York courts, and therefore, the federal court
+had jurisdiction to hear them.  The court further held that the grand jury's questions were not
+derived from illegal electronic surveillance, citing People v. Einhorn, 35 N.Y.2d 948 (1974).
+Langella's claims were based on his assumption that the grand jury's questions were derived from
+illegal surveillance, but the court found that he failed to make a timely request for further
+determination as to the source of the questions.  In conclusion, the court affirmed Langella's
+conviction, citing 411 U.S. 258 (1973) and 417 U.S. 21 (1974). The court held that Langella's guilty
+plea did not foreclose his pursuit of his claims, and that the grand jury's questions were not
+derived from illegal electronic surveillance.
 
 
 **Label:** 
 
 
-**citations:** ['379 F.2d 94', '359 F.2d 292']
+**citations:** ['411 U.S. 258', '417 U.S. 21']
 
-***short_citations_0:*** 379 F.2d 94
+***short_citations_0:*** 411 U.S. 258
 
-the proper parties. * * * Unless the motion for substitution is made not later than 90 days after the death is suggested upon the record by service of a statement of the fact of the death as provided herein for the service of the motion, the action shall be dismissed as to the deceased party.” Here not only had the 90-day period not expired when the court entered summary judgment, the appellant by her motion for reconsideration had specifically invoked the discretion of the court. Rule 6(b) provides pertinently that when “by these rules * * * an act is required or allowed to be done at or within a specified time, the court for cause shown may at any time in its discretion (1) with or without motion or notice order the period enlarged if request therefor is made before the expiration of the period originally prescribed * * Originally the Rule had precluded an extension of time for taking action under Rule 25(a) (1), but by purposeful amendment, it was sought to relieve against the hardship of the Court’s holding in Anderson v. Yungkau, 329 U.S. 482, 67 S.Ct. 428, 91 L.Ed. 436 (1947). It was intended that liberal effect be given to the 1963 amendment. Graham v. Pennsylvania Railroad, 119 U.S.App.D.C. 335, 342 F.2d 914 (1964), cert. denied, 381 U.S. 904, 85 S.Ct. 1446, 14 L.Ed.2d 286 (1965). We are constrained to reverse for further proceedings not inconsistent with this opinion. Reversed. The only “party” then
+evaluating those facts as a part of the recommendation to plead guilty. In the instant case, the facts relating to the selection of the Davidson County grand jury in 1948 were found by the District Court and the Court of Appeals to have been unknown to both respondent and his attorney. If the issue were to be cast solely in terms of “waiver,” the Court of Appeals was undoubtedly correct in concluding that there had been no such waiver here. But just as the guilty pleas in the Brady trilogy were found to foreclose direct inquiry into the merits of claimed antecedent constitutional violations there, we conclude that respondent’s guilty plea here alike forecloses independent inquiry into the claim of discrimination in the selection of the grand jury. III We hold that after a criminal defendant pleads guilty, on the advice of counsel, he is not automatically entitled to federal collateral relief on proof that the indicting grand jury was unconstitutionally selected. The focus of federal habeas inquiry is the nature of the advice and the voluntariness of the plea, not the existence as such of an antecedent constitutional infirmity. A state prisoner must, of course, prove that some constitutional infirmity occurred in the proceedings. But the inquiry does not end at that point, as the Court of Appeals apparently thought. If a prisoner pleads guilty on the advice of counsel, he must demonstrate that the advice was not “within the range of competence demanded of attorneys in criminal cases,”
 
-***short_citations_1:*** 359 F.2d 292
+***short_citations_1:*** 417 U.S. 21
 
-insertion of a “reasonable time” standard. In 1963, the Advisory Committee suggested the present rule and noted: “Present Rule 25(a) (1), together with present Rule 6(b), results in an inflexible requirement that an action be dismissed as to a deceased party if substitution is not carried out within a fixed period measured from the time of the death. The hardships and inequities of this unyielding requirement plainly appear from the cases. * * * The amended rulé establishes a time limit for the motion to substitute based not upon the time of the death, but rather upon the time information of the death is provided by means of a suggestion of death upon the record, i. e. service of a statement of the fact of the death.” See Notes of Advisory Committee on the Civil Rules, 28 U.S.C. Rule 25 (1964). Rule 6(b) of the Federal Rules of Civil Procedure was also amended in 1963 and the prohibition against extending the time for taking action under Rule 25 was eliminated. The Advisory Committee on the Civil Rules noted: “It is intended that the court shall have discretion to enlarge that period.” The amendments of Rules 6(b) and 25(a) (1) provided needed flexibility. It was assumed that discretionary extensions would be liberally granted. Movants under Rule 25 can ordinarily control when a death is “suggested upon the record” and appellants’ attorney was under no obligation to file his affidavit of Staggers’ death on the date he did. He could have filed
+to respond to Perry’s invocation of his statutory right to appeal by bringing a more serious charge against him prior to the trial de novo. II The remaining question is whether, because of his guilty plea to the felony charge in the Superior Court, Perry is precluded from raising his constitutional claims in this federal habeas corpus proceeding. In contending that such is the case, petitioners rely chiefly on this Court’s decision last Term in Tollett v. Henderson, 411 U. S. 258. The precise issue presented in Tollett was “whether a state prisoner, pleading guilty with the advice of counsel, may later obtain release through federal habeas corpus by proving only that the indictment to which he pleaded was returned by an unconstitutionally selected grand jury.” Id., at 260. The Court answered that question in the negative. Relying primarily on the guilty-plea trilogy of Brady v. United States, 397 U. S. 742, McMann v. Richardson, 397 U. S. 759, and Parker v. North Carolina, 397 U. S. 790, the Court characterized the guilty plea as “a break in the chain of events which has preceded it in the criminal process.” 411 U. S., at 267. Accordingly, the Court held that when a criminal defendant enters a guilty plea, “he may not thereafter raise independent claims relating to the deprivation of con stitutional rights that occurred prior to the entry of the guilty plea.” Ibid. Rather, a person complaining of such “antecedent constitutional violations,” id., at 266, is limited in a
 
 **prev_text:**
-LEVENTHAL, Circuit Judge: The District Court held that Rule 25(a) (1) of the Federal Rules of Civil
-Procedure required dismissal of the plaintiffs’ tort action because defendant’s counsel had filed a
-suggestion of death of the defendant yet plaintiff had not made any substitution of parties within
-90 days. We reverse on the ground that the suggestion of death, which was neither filed by nor
-identified a successor or representative of the deceased, such as an executor or administrator, was
-ineffective to trigger the running of the 90-day period provided by the Rule. Mr. and Mrs. John
-Rende filed an action in the District Court individually and on behalf of their infant son who had
-been struck and injured by Alfred S. Kay while driving his car. On August 27, 1967, defendant Kay
-died. On September 1, 1967, the defendant’s attorney, a term used here to identify the lawyer who
-had been retained by deceased to defend the action, and who had duly entered an appearance as
-attorney for defendant, filed a suggestion of death in the District Court, giving notice to
-plaintiffs’ attorney. That same day there was filed in the Orphans Court for Montgomery County,
-Maryland, residence of the deceased, his will naming his widow as executrix, but the will had not
-been probated, nor any legal representative appointed for the estate at the time of the filing of
-this appeal. Plaintiffs’ attorney was injured on October 14, 1967. On returning to practice early in
-1968, he learned that no successor to defendant Kay had yet been appointed, and he moved to certify
-the case to the ready calendar. The defendant’s attorney opposed this on grounds that discovery
-procedures had not been completed. The case was delayed and placed on the ready calendar as of June
-7, 1968. However, in April 1968, the defendant’s attorney moved in his own name to dismiss the
-action on the ground that Rule 25(a) (1) required plaintiffs to move to substitute a proper party
-for the deceased within 90 days of the suggestion of death. Plaintiffs filed an opposition and
-motion for substitution of the proper party, and sought an extension of the time for substitution as
-allowed by Rule 6(b). At argument, plaintiffs’ counsel asserted the “suggestion of death was
-defective in that it did not list the name of the proper party; that is the legal representative of
-the defendant.” The court responded: “That would not be his burden.” The court dismissed the action
-with prejudice. Prior to its amendment in 1963, Rule 25(a) (1) required the court to dismiss a case
-if no motion for substitution was filed within two. years after date of death, and no extensions of
-this period were allowed under Rule 6(b). The rule was rigorously applied, often with harsh results,
-and was called “easily the poorest rule of all the Federal Rules.” In 1955 the Advisory Committee on
-Rules for Civil Procedure recommended that the two-year period be changed to a “reasonable time”
-standard. In 1961 the Advisory Committee on Civil Rules again suggested the Rule be made more
-flexible. In 1963 the Supreme Court made changes in Rule 25(a) (1) and in Rule 6(b) so as to provide
-a 90-day time limit from the filing of a suggestion of death, and to give the court discretion to
-extend that time. The Committee Notes explaining the amendments state: Present Rule 25(a) (1),
-together with present Rule 6(b), results in an inflexible requirement that an action be dismissed as
-to a deceased party if substitution is not carried out within a fixed period measured from the time
-of death. The hardships and inequities of this unyielding requirement plainly appear from the cases.
-* * * The amended rule establishes a time limit for the motion to substitute based not upon the time
-of the death, but rather upon the time information of the death is provided by means of a suggestion
-of death upon the record. * * * A motion to substitute may be made by any party or by the
-representative of the deceased party without awaiting the suggestion of death. Indeed, the motion
-will usually be so made. If a party or the representative of the deceased party desires to limit the
-time within which another may make the motion, he may do so by suggesting the death upon the record.
-(Emphasis added.) Under the amended Rule either a party or “the successors or representatives of the
-deceased party” may avoid delay in effecting substitution for the deceased party either by filing a
-motion for substitution or by suggesting death on the record and thus triggering the 90-day period
-which begins with suggestion of death. The Advisory Committee, in outlining that suggestion of death
-could be made by “the representative of the deceased party” plainly contemplated that the suggestion
-emanating from the side of the deceased would identify a representative of the estate, such as an
-executor or administrator, who could be substituted for the deceased as a party, with the action
-continued in the name of the representative. The addition of “successor” in the Rule would take care
-of the case of, say, the distributee of an estate that had been distributed, but would not make a
-material difference in the aspect under consideration. Form 30, for suggestion of death, which was
-provided in order to expedite and facilitate implementation of the amendment, provides: A.B.
-[described as a party, or as executor, administrator, or other representative or successor of C.D.,
-the deceased party\ suggests upon the record, pursuant to Rule 25(a) (1), the death of C.D.
-[describe as party] during the pendency of this action. Added Jan. 21, 1963, eff. July 1, 1963.
-[Emphasis added.] Although the attorney for the defendant was retained to “represent” the deceased
-as his counsel, he is not a person who could be made a party, and is not a “representative of the
-deceased party” in the sense contemplated by Rule 25(a) d). In our opinion the Rule, as amended,
-cannot fairly be construed, as the de fendant’s attorney argues, to make his suggestion of death
-operative to trigger the 90-day period even though he was neither a successor nor representative of
-the deceased, and gave no indication of what person was available to be named in substitution as a
-representative of the deceased. Counsel’s construction would open the door to a tactical maneuver to
-place upon the plaintiff the burden of locating the representative of the estate within 90 days. We
-can conceive of cases wherein even the lawyer retained to represent a defendant might know the
-defendant had died, yet not readily know where his estate would be administered. In the present
-case, plaintiff’s attorney did know the court of probate, but he did not know whether probate of the
-will might be contested, or who would be appointed representative of the estate. The tactic of the
-defendant’s attorney would place on plaintiff the burden, where no conventional representative was
-appointed for the estate in probate court, of instituting machinery in order to produce some
-representative of the estate ad litem, pending appointment of the representative contemplated by law
-of the domicile of the deceased.
+J. JOSEPH SMITH, Circuit Judge: Jerry Langella appeals the denial of his petition for a writ of
+habeas corpus by the United States District Court for the Southern District of New York, Charles L.
+Brieant, Jr., Judge. Langella argues that his conviction for criminal contempt for refusing to
+answer the questions of a New York grand jury violates 18 U.S.C. § 2515 and the fifth amendment. We
+affirm. I. In 1972 Langella was subpoenaed to appear before a New York County grand jury
+investigating the death of Joseph Gallo in April, 1972. On December 19, 1972 Justice Jawn Sandifer,
+Supreme Court (New York), denied Langella’s motion to quash the subpoena. The motion was based on a
+claim that the questions to be asked by the grand jury were the product of illegal electronic
+surveillance. Justice Sandifer, on the prosecution’s representation that a court surveillance order
+had been obtained, rejected Langella’s request that a hearing be held. On the same day Langella
+appeared before the grand jury and was given “transactional” immunity. While he answered some
+questions, Langella refused, after consulting with his attorney, to answer other questions, and on
+January 16, 1973 he was indicted, pursuant to New York Penal Law § 215.51 (McKinney 1975), for
+criminal contempt for refusing to answer two questions. In June, 1975 Justice George Roberts,
+Supreme Court (New York), denied Langella’s motion to dismiss the indictment, and on June 18,1975
+Langella pleaded guilty. On July 24, 1975 he was sentenced to five months’ imprisonment. On March 4,
+1976 the Appellate Division, First Department, affirmed his conviction without opinion, and on April
+13, 1976 the New York Court of Appeals denied leave to appeal. Langella then filed a petition for a
+writ of habeas corpus, which Judge Brieant denied on May 12, 1976. 413 F.Supp. 1214. On appeal
+Langella claims that the grand jury’s questions were derived from illegal electronic surveillance in
+violation of 18 U.S.C. § 2515 and that it is a violation of the fifth amendment for the same grand
+jury that heard his immunized testimony later to indict him for contempt. II. Before reaching the
+merits of Langella’s claims, we must deal with New York’s vigorous argument that this court cannot
+consider these claims because they were not presented to the United States District Court, because
+Langella by-passed the New York courts, and because he pleaded guilty. The first two arguments are
+without merit. Judge Brieant’s opinion indicates that the issues were fully presented to the
+district court. Justice Roberts’ opinion and the brief Langella presented to the Appellate Division
+indicate that the substance of these issues was also presented to the New York courts. Picard v.
+Connor, 404 U.S. 270, 278, 92 S.Ct. 509, 30 L.Ed.2d 438 (1971). On the third contention, relying on
+People v. Melton, 35 N.Y.2d 327, 329, 361 N.Y. S.2d 877, 320 N.E.2d 622 (1974), and People v. Lynn,
+28 N.Y.2d 196, 201-03, 321 N.Y. S.2d 74, 269 N.E.2d 794 (1971), New York argues that under New York
+law Langella’s claims are not re viewable in New York on appeal after a guilty plea and thus, under
+Lefkowitz v. Newsome, 420 U.S. 283, 95 S.Ct. 886, 43 L.Ed.2d 196 (1975), Langella is foreclosed from
+pursuing these claims in a federal habeas corpus proceeding. Both Melton and Lynn, however, involve
+appeals from a coram nobis proceeding in which the defendant initially failed to appeal after
+pleading guilty. People v. Gleeson, 44 A.D.2d 252, 354 N.Y.S.2d 207, 208 (1974), rev’d on other
+grounds, 36 N.Y.2d 462, 369 N.Y.S.2d 113 (1975), holds that despite a guilty plea a defendant
+retains his right to appeal the denial of his suppression motion, pursuant to New York Criminal
+Procedure Law (NYCPL, § 710.70(2) (McKinney 1971). Judge Brieant held that under Lefkowitz,
+Langella’s plea of guilty did not foreclose his pursuing his claims in a federal habeas corpus
+proceeding. See also Menna v. New York, 423 U.S. 61, 96 S.Ct. 241, 46 L.Ed.2d 195 (1975) (per
+curiam). Lefkowitz involved a fourth amendment claim, and Menna involved a fifth amendment claim. We
+agree with Judge Brieant that NYCPL § 710.20(2) and § 710.70(2) permit Langella to challenge the
+legality of the electronic surveillance and that NYCPL § 210.20(l)(c) and § 210.20(l)(d) (McKinney
+1971), permit him to challenge the same grand jury’s hearing his testimony and then indicting him.
+III. In In re Persico, 491 F.2d 1156 (2d Cir.), cert. denied, 419 U.S. 924, 95 S.Ct. 199, 42 L.Ed.2d
+158, reh. denied, 419 U.S. 1060, 95 S.Ct. 645, 42 L.Ed.2d 657 (1974), we held that under 18 U.S.C. §
+2515 a witness before a federal grand jury is not entitled to a suppression hearing during the grand
+jury’s proceedings unless (1) there is not a valid court order for the electronic surveillance, (2)
+the government concedes the surveillance is illegal, or (3) there is a prior judicial determination
+that the surveillance was illegal. Id., 1162. Section 2515 also applies to a witness before a state
+grand jury. United States v. Marion, 535 F.2d 697, 701 (2d Cir. 1976). Langella relies on the first
+exception set out in Pérsico. At the December 19, 1972 hearing the prosecutor told Justice Sandifer
+that Langella’s attorney “inquired of me whether or not there was electronic eavesdropping. The
+people told them [sic] that it was. In addition I told them that we had a Court order” (A. 22).
+Langella’s attorney asked the court to determine whether “all the questions to be asked by the
+government are based only on lawful interceptions, and not on any other unlawful interceptions” (A.
+25). Justice Sandifer denied this request. In People v. Einhorn, 35 N.Y.2d 948, 365 N.Y.S.2d 171,
+324 N.E.2d 551 (1974) (per curiam), the New York Court of Appeals set out the procedure to be
+followed by a grand jury witness who claims the questions being posed violate 18 U.S.C. § 2515: “The
+request during the Grand Jury proceeding by the witness that he be brought before the court must be
+respected and once there the Presiding Justice may make appropriate inquiry whether the witness’
+objection is sound.” Id., 949, 365 N.Y.S.2d 172, 324 N.E.2d 552. The New York procedure, as set out
+in Einhorn, complies with 18 U.S.C. § 2515. When the grand jury asked Langella whether he had been
+receiving messages from Joseph Gorgone about the murder of Joseph Gallo, Langella, after consulting
+for the fourth time with his attorney, asked whether the question was based on electronic
+surveillance and requested that he be taken before a judge. His request was denied. Upon his
+continuing to be recalcitrant and to request that he be taken before a judge, he was excused by the
+grand jury. But the two questions for which Langella was held in contempt were asked earlier in the
+grand jury proceedings (A. 49, 61, 65, 69-70, 71, 75-77). Although he had already consulted three
+times with his attorney, Langella never told the grand jury that his refusal to answer these two
+questions was based on his claim that they were the product of an illegal electronic surveillance.
+The hearing here occurred before Einhorn, which would today govern the procedure in the New York
+courts in a similar case. Justice Sandifer’s denial of Langella’s pre-appearance motion, on the
+prosecutor’s assurance of the existence of a court order for the electronic surveillance,
+essentially meets the requirements of Einhorn and constitutes a sufficient accommodation of the
+needs of the grand jury with those of the witness. Gelbard v. United States, 408 U.S. 41, 70, 92
+S.Ct. 2357, 33 L.Ed.2d 179 (1972) (White, J., concurring). Moreover, Langella failed thereafter to
+make a timely request for further determination as to the source of the two questions which were the
+subject of the contempt indictment. The court had been informed that the surveillance was pursuant
+to court order and had denied the motion to quash the subpoena. Later Langella refused to answer the
+questions on which the indictment for contempt was based, until he could see his lawyer. After
+consulting his lawyer, he persisted in evading answers, but not on any claim the questions were
+based on illegal surveillance. Later, after being asked about one Gorgone, a/k/a Black, he asked to
+see a judge to determine whether that question arose from illegal surveillance. Here there was a
+sufficient compliance with the requirements of Einhorn on the earlier motion, and nothing new was
+raised before the grand jury to require a new hearing as to the source of the particular questions
+the witness refused to answer, which refusal was the basis of the contempt conviction. IV. Langella
+claims that his indictment by the same grand jury that heard his immunized testimony violates the
+fifth amendment. He argues that Kastigar v. United States, 406 U.S. 441, 92 S.Ct. 1653, 32 L.Ed.2d
+212 (1972), puts the burden on the government to show that the immunized testimony was not the basis
+of the subsequent indictment and that it is impossible to meet this burden when the grand jury which
+hears his truthful but highly prejudicial answers to some of its questions also indicts for
+contempt. His proposed solution is to have a different grand jury examine the transcript of his
+testimony, with all the truthful answers being redacted. One problem with this proposed solution is
+that in deciding on a charge of criminal contempt, the second grand jury would also want to know the
+extent of his answers to questions. To be guilty of contempt under New York Penal Law § 215.51 a
+“witness need not flatly refuse to answer the questions put to him; false and evasive profession of
+an inability to recall, which amounts to no answer at all, is punishable as criminal contempt.”
+People v. Ianniello, 36 N.Y.2d 137, 142, 365 N.Y.S.2d 821, 824, 325 N.E.2d 146, 148 (1975). In
+United States v. Camporeale, 515 F.2d 184, 189 (2d Cir. 1975), we affirmed “the settled practice of
+permitting the same grand jury which heard the witness to file an indictment charging him with
+perjury. Having had the opportunity to observe his demeanor on the stand, it was in a superior
+position to determine whether there were reasonable grounds to believe that he was deliberately
+giving false [immunized] testimony. The grand jury’s knowledge of a witness’ prior criminal record,
+furthermore, should not preclude its filing the indictment, which merely represents a charge.” We
+think similar considerations warrant having the same grand jury return the indictment for criminal
+contempt, especially where, as here, the charged offense involved refusal to answer, not any crime
+revealed in the immunized answers. Affirmed. . [Y]ou are a witness in this legal proceeding and you
+cannot be convicted of any offense or be subjected to any penalty or forfeiture for or on account of
+any transaction, matter or thing concerning which you give evidence in this legal proceeding. You
+possess immunity from any such conviction, penalty or forfeiture. However, even though you possess
+such immunity you may nevertheless be convicted of perjury as a result of having given false
+testimony in this legal proceeding and you may be convicted of or adjudged in contempt as a result
+of having contumatiously [sic] refused to give evidence. I further tell you that this grand jury
+proceeding is a legal proceeding and to give evidence here means to testify or to produce physical
+evidence. Statement of Immunity. . Langella was indicted for refusing to answer “whether he visited
+101 Gedney Street in Nyack, New York during the month of April, 1972; and, whether inside the
+apartment LK, at 101 Gedney Street in Nyack, New York, after April 7, 1972, he also spoke with
+Joseph Luparelli.” . 18 U.S.C. § 2515 provides: Whenever any wire or oral communication has been
+intercepted, no part of the contents of such communication and no evidence derived therefrom may be
+received in evidence in any trial, hearing, or other proceeding in or before any court, grand jury,
+department, officer, agency, regulatory body, legislative committee, or other authority of the
+United States, a State, or a political subdivision thereof if the disclosure of that information
+would be in violation of this chapter. . NYCPL § 710.20(2) provides: Upon motion of a defendant who
+(a) is aggrieved by unlawful or improper acquisition of evidence and has reasonable cause to believe
+that such may be offered against him in a criminal action, or (b) claims that improper
+identification testimony may be offered against him in a criminal action, a court may, under
+circumstances prescribed in this article, order that such evidence be suppressed or excluded upon
+the ground that it: 2. Consists of a record or potential testimony reciting or describing
+declarations or conversations overheard or recorded by means of eavesdropping, obtained under
+circumstances precluding admissibility thereof in a criminal action against such defendant NYCPL §
+710.70(2) provides: An order finally denying a motion to suppress evidence may be reviewed upon an
+appeal from an ensuing judgment of conviction notwithstanding the fact that such judgment is entered
+upon a plea of guilty. . NYCPL § 210.20(l)(c) and (l)(d) provide: 1. After arraignment upon an
+indictment, the superior court may, upon motion of the defendant, dismiss such indictment or any
+count thereof upon the ground that: (c) The grand jury proceeding was defective, within the meaning
+of section 210.35; or (d) The defendant has immunity with respect to the offense charged, pursuant
+to section 50.20 or 190.40.
 
 

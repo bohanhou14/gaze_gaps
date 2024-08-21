@@ -1,142 +1,176 @@
 **gold_text:**
-The amendment to Rule 25(a) (1) was intended to dispel unwarranted rigidity and allow more
-flexibility in substitution. “It was intended that liberal effect be given to the 1963 amendment.”
-Roscoe v. Roscoe, 126 U.S.App.D.C. 317, 322, 379 F.2d 94, 99 (1967). “[T]he 90 day period was not
-intended to act as a bar to otherwise meritorious actions.” Staggers v. Otto Gerdau Co., 359 F.2d
-292, 296 (2d Cir. 1966).
+. We are aware that this court has recently rejected a facial vagueness challenge to a criminal
+statute. Relying on Village of Hoffman Estates v. Flipside, 455 U.S. 489, 102 S.Ct. 1186, 71 L.Ed.2d
+362 (1982), in United States v. Posters ‘N’ Things Ltd, 969 F.2d 652 (8th Cir.1992), this court held
+that 21 U.S.C. § 857, which prohibits the sale of drug paraphernalia, is not unconstitutionally
+vague on its face or as applied. In Village of Hoffman Estates the Supreme Court rejected a facial
+vagueness challenge to a city ordinance that regulated drug paraphernalia, because the ordinance was
+"sufficiently clear as applied.” 455 U.S. at 500, 102 S.Ct. at 1194. We note that in Village of
+Hoffman Estates, the Supreme Court stated that "[a] plaintiff who engages in some conduct that is
+clearly proscribed cannot complain of the vagueness of the law as applied to the conduct of others.”
+Id. at 495, 102 S.Ct. at 1191.
 
 **Generations:**
 
 
 ***GPT-4o:***
-This stringent interpretation contrasts sharply with the intent of the 1963 amendments to Rule 25
-and Rule 6(b), which aimed to inject flexibility and fairness into the substitution process. As
-noted in 379 F.2d 94 and 359 F.2d 292, the amendments were designed to eliminate the inequities and
-hardships caused by the rigid two-year limitation originally imposed. The Advisory Committee
-emphasized that the revised rules were to be liberally construed to allow courts discretion in
-extending the substitution period, recognizing the difficulties that could arise in promptly
-identifying and notifying the proper representative of the deceased.   Given this context, the
-defendant’s counsel's suggestion of death, which lacked identification of a proper representative,
-failed to initiate the 90-day countdown. This interpretation aligns with the judicial precedent that
-courts should prioritize the equitable administration of justice over strict procedural formalities.
-Thus, the district court erred in dismissing the plaintiffs' action without granting the requested
-extension, especially considering the circumstances that inhibited timely substitution, such as the
-injury to plaintiffs' counsel and the ongoing legal processes in the probate court.  We, therefore,
-reverse the judgment and remand for further proceedings consistent with this opinion, ensuring that
-the substitution process adheres to the flexible and just principles intended by the amendments to
-the Federal Rules of Civil Procedure.
+Wheeler's void-for-vagueness challenge to the guideline term "cocaine base" is unpersuasive. The
+Supreme Court has emphasized that for a statute to be declared unconstitutionally vague, it must be
+impermissibly vague in all its applications and provide no standard of conduct at all (Village of
+Hoffman Estates v. Flipside, Hoffman Estates, Inc., 455 U.S. 489, 495). In United States v. Jackson,
+968 F.2d 158, 163 (2d Cir.1992), it was clarified that differing judicial definitions do not
+automatically render a term void for vagueness.   Similarly, the Eighth Circuit has rejected
+vagueness challenges to 21 U.S.C. § 841(b) stating that the term "cocaine base" sufficiently limits
+governmental discretion and provides adequate notice (United States v. House, 939 F.2d 659).
+Furthermore, in Poster ‘n’ Things, Ltd. v. United States, 969 F.2d 652, the court affirmed that the
+standard for evaluating vagueness is neither the strictest nor the most lenient when constitutional
+protections are not directly inhibited.  In this case, the testimony by chemist Gene Bangs provided
+a clear distinction between cocaine base and cocaine, satisfying the requirement for a
+comprehensible normative standard. Thus, section 2D1.1 is not void for vagueness as it offers
+sufficient specification of prohibited conduct. The district court's interpretation aligns with the
+precedent set by the aforementioned cases, affirming that descriptions such as "crack" or forms of
+cocaine that can be smoked fall under "cocaine base" (Shaw, 936 F.2d at 415). Therefore, the
+judgment of the district court is affirmed.
 
 
 **Label:** 
 
 
 ***Meta-Llama-3-8B-Instruct:***
-  In the context of Rule 25(a) (1) of the Federal Rules of Civil Procedure, the suggestion of death
-is a crucial step in the process of substituting a deceased party with a proper representative.
-However, not all suggestions of death are created equal. In cases where the suggestion of death is
-made by a party's attorney, but fails to identify a successor or representative of the deceased, the
-90-day period for substitution may not be triggered.  As noted in 359 F.2d 292, the Advisory
-Committee on Civil Rules intended to provide a more flexible standard for substitution, allowing for
-extensions of time and dispensing with the rigid two-year period previously in place. However, this
-flexibility is contingent upon the suggestion of death providing sufficient information to permit
-the court to proceed with substitution.  In the present case, the suggestion of death made by the
-defendant's attorney was deficient in that it failed to identify a successor or representative of
-the deceased. This lack of specificity rendered the suggestion ineffective in triggering the 90-day
-period for substitution, as explained in 379 F.2d 94.  Furthermore, the court's discretion to
-enlarge the time period for substitution, as provided by Rule 6(b), is not a blank check. Rather, it
-is intended to be exercised in a judicious and reasonable manner, taking into account the particular
-circumstances of each case.  In light of these principles, we conclude that the district court erred
-in dismissing the action with prejudice. The case should be remanded for further proceedings,
-allowing the parties to properly substitute a representative of the deceased and continue the action
-in a manner consistent with the Federal Rules of Civil Procedure.
+ In the context of legal cases, vagueness is a crucial aspect that can lead to arbitrary and
+discriminatory application of laws. In the reference case 455 U.S. 489, the Supreme Court held that
+a drug paraphernalia ordinance was not unconstitutionally vague, as it provided a clear standard of
+conduct for businesses to follow. The Court noted that the ordinance was not vague because it was
+"transparently clear" that certain conduct was restricted.  In a similar vein, the reference case
+969 F.2d 652 dealt with a challenge to the constitutionality of a drug trafficking statute. The
+Court held that the statute was not unconstitutionally vague, as it provided a clear definition of
+the term "cocaine base." The Court noted that the term "cocaine base" was not ambiguous, and that
+the statute provided a clear standard of conduct for individuals to follow.  In the present case,
+the defendant argues that the term "cocaine base" is unconstitutionally vague, as it has been
+subject to conflicting judicial definitions. However, the Court finds that the term is not vague, as
+it provides a clear standard of conduct for individuals to follow. The Court notes that the
+definition of "cocaine base" is not ambiguous, and that the statute provides a clear standard of
+conduct for individuals to follow.  In conclusion, the Court finds that the term "cocaine base" is
+not unconstitutionally vague, as it provides a clear standard of conduct for individuals to follow.
+The Court relies on the reference cases 455 U.S. 489 and 969 F.2d 652 to support its conclusion. The
+defendant's argument that the term is unconstitutionally vague is without merit, and the Court
+affirms the judgment of the lower court.
 
 
 **Label:** 
 
 
-**citations:** ['379 F.2d 94', '359 F.2d 292']
+**citations:** ['455 U.S. 489', '969 F.2d 652']
 
-***short_citations_0:*** 379 F.2d 94
+***short_citations_0:*** 455 U.S. 489
 
-the proper parties. * * * Unless the motion for substitution is made not later than 90 days after the death is suggested upon the record by service of a statement of the fact of the death as provided herein for the service of the motion, the action shall be dismissed as to the deceased party.” Here not only had the 90-day period not expired when the court entered summary judgment, the appellant by her motion for reconsideration had specifically invoked the discretion of the court. Rule 6(b) provides pertinently that when “by these rules * * * an act is required or allowed to be done at or within a specified time, the court for cause shown may at any time in its discretion (1) with or without motion or notice order the period enlarged if request therefor is made before the expiration of the period originally prescribed * * Originally the Rule had precluded an extension of time for taking action under Rule 25(a) (1), but by purposeful amendment, it was sought to relieve against the hardship of the Court’s holding in Anderson v. Yungkau, 329 U.S. 482, 67 S.Ct. 428, 91 L.Ed. 436 (1947). It was intended that liberal effect be given to the 1963 amendment. Graham v. Pennsylvania Railroad, 119 U.S.App.D.C. 335, 342 F.2d 914 (1964), cert. denied, 381 U.S. 904, 85 S.Ct. 1446, 14 L.Ed.2d 286 (1965). We are constrained to reverse for further proceedings not inconsistent with this opinion. Reversed. The only “party” then
+Justice Marshall delivered the opinion of the Court. This case presents a pre-enforcement facial challenge to a drug paraphernalia ordinance on the ground that it is unconstitutionally vague and overbroad. The ordinance in question requires a business to obtain a license if it sells any items that are “designed or marketed for use with illegal cannabis or drugs.” Village of Hoffman Estates Ordinance No. 969-1978. The United States Court of Appeals for the Seventh Circuit held that the ordinance is vague on its face. 639 F. 2d 373 (1981). We noted probable jurisdiction, 452 U. S. 904 (1981), and now reverse. I For more than three years prior to May 1, 1978, appellee The Flipside, Hoffman Estates, Inc. (Flipside), sold a variety of merchandise, including phonographic records, smoking accessories, novelty devices, and jewelry, in its store located in the village of Hoffman Estates, Ill. (village). On February 20, 1978, the village enacted an ordinance regulating drug paraphernalia, to be effective May 1, 1978. The ordinance makes it unlawful for any person “to sell any items, effect, paraphernalia, accessory or thing which is designed or marketed for use with illegal cannabis or drugs, as defined by Illinois Revised Statutes, without obtaining a license therefor.” The license fee is $150. A business must also file affidavits that the licensee and its employees have not been convicted of a drug-related offense. Moreover, the business must keep a record of each sale of a regulated item, including the name and address of the purchaser,
 
-***short_citations_1:*** 359 F.2d 292
+***short_citations_1:*** 969 F.2d 652
 
-insertion of a “reasonable time” standard. In 1963, the Advisory Committee suggested the present rule and noted: “Present Rule 25(a) (1), together with present Rule 6(b), results in an inflexible requirement that an action be dismissed as to a deceased party if substitution is not carried out within a fixed period measured from the time of the death. The hardships and inequities of this unyielding requirement plainly appear from the cases. * * * The amended rulé establishes a time limit for the motion to substitute based not upon the time of the death, but rather upon the time information of the death is provided by means of a suggestion of death upon the record, i. e. service of a statement of the fact of the death.” See Notes of Advisory Committee on the Civil Rules, 28 U.S.C. Rule 25 (1964). Rule 6(b) of the Federal Rules of Civil Procedure was also amended in 1963 and the prohibition against extending the time for taking action under Rule 25 was eliminated. The Advisory Committee on the Civil Rules noted: “It is intended that the court shall have discretion to enlarge that period.” The amendments of Rules 6(b) and 25(a) (1) provided needed flexibility. It was assumed that discretionary extensions would be liberally granted. Movants under Rule 25 can ordinarily control when a death is “suggested upon the record” and appellants’ attorney was under no obligation to file his affidavit of Staggers’ death on the date he did. He could have filed
+an ad hoc and subjective basis, with the attendant dangers of arbitrary and discriminatory application.” Id. at 108-09, 92 S.Ct. at 2299. Because of the nature of section 857, the vagueness standard that we apply is neither the most stringent nor the most tolerant of tests. Section 857 does not threaten “to inhibit the exercise of constitutionally protected rights,” therefore it does not receive our most demanding scrutiny. Village of Hoffman Estates, 455 U.S. at 499, 102 S.Ct. at 1193. But it is also a criminal statute, and not merely an economic regu lation, therefore we do not treat it with the greatest tolerance. Id. Posters and Acty have the burden to demonstrate that section 857 is unconstitutionally vague, and to succeed in their facial challenge they must prove that section 857 “is vague ‘ “not in the sense that it requires a person to conform his conduct to an imprecise but comprehensible normative standard, but rather in the sense that no standard of conduct is specified at all.” Such a [statute] simply has no core.’ ” Village of Hoffman Estates, 455 U.S. at 495 n. 7, 102 S.Ct. at 1191 n. 7 (citations omitted). Posters and Acty must “demonstrate that the law is impermissibly vague in all of its applications.” Id. at 497, 102 S.Ct. at 1193. Thus, “[i]f it is ‘transparently clear’ that some particular conduct is restricted by the [statute], the [statute] survives a facial challenge on vagueness grounds.” Id. at 507-08, 102 S.Ct. at 1198 (White,
 
 **prev_text:**
-LEVENTHAL, Circuit Judge: The District Court held that Rule 25(a) (1) of the Federal Rules of Civil
-Procedure required dismissal of the plaintiffs’ tort action because defendant’s counsel had filed a
-suggestion of death of the defendant yet plaintiff had not made any substitution of parties within
-90 days. We reverse on the ground that the suggestion of death, which was neither filed by nor
-identified a successor or representative of the deceased, such as an executor or administrator, was
-ineffective to trigger the running of the 90-day period provided by the Rule. Mr. and Mrs. John
-Rende filed an action in the District Court individually and on behalf of their infant son who had
-been struck and injured by Alfred S. Kay while driving his car. On August 27, 1967, defendant Kay
-died. On September 1, 1967, the defendant’s attorney, a term used here to identify the lawyer who
-had been retained by deceased to defend the action, and who had duly entered an appearance as
-attorney for defendant, filed a suggestion of death in the District Court, giving notice to
-plaintiffs’ attorney. That same day there was filed in the Orphans Court for Montgomery County,
-Maryland, residence of the deceased, his will naming his widow as executrix, but the will had not
-been probated, nor any legal representative appointed for the estate at the time of the filing of
-this appeal. Plaintiffs’ attorney was injured on October 14, 1967. On returning to practice early in
-1968, he learned that no successor to defendant Kay had yet been appointed, and he moved to certify
-the case to the ready calendar. The defendant’s attorney opposed this on grounds that discovery
-procedures had not been completed. The case was delayed and placed on the ready calendar as of June
-7, 1968. However, in April 1968, the defendant’s attorney moved in his own name to dismiss the
-action on the ground that Rule 25(a) (1) required plaintiffs to move to substitute a proper party
-for the deceased within 90 days of the suggestion of death. Plaintiffs filed an opposition and
-motion for substitution of the proper party, and sought an extension of the time for substitution as
-allowed by Rule 6(b). At argument, plaintiffs’ counsel asserted the “suggestion of death was
-defective in that it did not list the name of the proper party; that is the legal representative of
-the defendant.” The court responded: “That would not be his burden.” The court dismissed the action
-with prejudice. Prior to its amendment in 1963, Rule 25(a) (1) required the court to dismiss a case
-if no motion for substitution was filed within two. years after date of death, and no extensions of
-this period were allowed under Rule 6(b). The rule was rigorously applied, often with harsh results,
-and was called “easily the poorest rule of all the Federal Rules.” In 1955 the Advisory Committee on
-Rules for Civil Procedure recommended that the two-year period be changed to a “reasonable time”
-standard. In 1961 the Advisory Committee on Civil Rules again suggested the Rule be made more
-flexible. In 1963 the Supreme Court made changes in Rule 25(a) (1) and in Rule 6(b) so as to provide
-a 90-day time limit from the filing of a suggestion of death, and to give the court discretion to
-extend that time. The Committee Notes explaining the amendments state: Present Rule 25(a) (1),
-together with present Rule 6(b), results in an inflexible requirement that an action be dismissed as
-to a deceased party if substitution is not carried out within a fixed period measured from the time
-of death. The hardships and inequities of this unyielding requirement plainly appear from the cases.
-* * * The amended rule establishes a time limit for the motion to substitute based not upon the time
-of the death, but rather upon the time information of the death is provided by means of a suggestion
-of death upon the record. * * * A motion to substitute may be made by any party or by the
-representative of the deceased party without awaiting the suggestion of death. Indeed, the motion
-will usually be so made. If a party or the representative of the deceased party desires to limit the
-time within which another may make the motion, he may do so by suggesting the death upon the record.
-(Emphasis added.) Under the amended Rule either a party or “the successors or representatives of the
-deceased party” may avoid delay in effecting substitution for the deceased party either by filing a
-motion for substitution or by suggesting death on the record and thus triggering the 90-day period
-which begins with suggestion of death. The Advisory Committee, in outlining that suggestion of death
-could be made by “the representative of the deceased party” plainly contemplated that the suggestion
-emanating from the side of the deceased would identify a representative of the estate, such as an
-executor or administrator, who could be substituted for the deceased as a party, with the action
-continued in the name of the representative. The addition of “successor” in the Rule would take care
-of the case of, say, the distributee of an estate that had been distributed, but would not make a
-material difference in the aspect under consideration. Form 30, for suggestion of death, which was
-provided in order to expedite and facilitate implementation of the amendment, provides: A.B.
-[described as a party, or as executor, administrator, or other representative or successor of C.D.,
-the deceased party\ suggests upon the record, pursuant to Rule 25(a) (1), the death of C.D.
-[describe as party] during the pendency of this action. Added Jan. 21, 1963, eff. July 1, 1963.
-[Emphasis added.] Although the attorney for the defendant was retained to “represent” the deceased
-as his counsel, he is not a person who could be made a party, and is not a “representative of the
-deceased party” in the sense contemplated by Rule 25(a) d). In our opinion the Rule, as amended,
-cannot fairly be construed, as the de fendant’s attorney argues, to make his suggestion of death
-operative to trigger the 90-day period even though he was neither a successor nor representative of
-the deceased, and gave no indication of what person was available to be named in substitution as a
-representative of the deceased. Counsel’s construction would open the door to a tactical maneuver to
-place upon the plaintiff the burden of locating the representative of the estate within 90 days. We
-can conceive of cases wherein even the lawyer retained to represent a defendant might know the
-defendant had died, yet not readily know where his estate would be administered. In the present
-case, plaintiff’s attorney did know the court of probate, but he did not know whether probate of the
-will might be contested, or who would be appointed representative of the estate. The tactic of the
-defendant’s attorney would place on plaintiff the burden, where no conventional representative was
-appointed for the estate in probate court, of instituting machinery in order to produce some
-representative of the estate ad litem, pending appointment of the representative contemplated by law
-of the domicile of the deceased.
+HENLEY, Senior Circuit Judge. Robert Edward Wheeler appeals his twenty-seven month sentence imposed
+by the district court following his guilty plea to distribution of cocaine in violation of 21 U.S.C.
+§ 841(a). For reversal, Wheeler argues that the term “cocaine base” as used in Sentencing Guidelines
+§ 2D1.1 is unconstitutionally vague. We affirm. Wheeler was charged with three counts of
+distribution of cocaine base and two counts of distribution of cocaine. Pursuant to an agreement, he
+pleaded guilty to one count of distribution of cocaine and the other counts were dismissed. In the
+presentence report, the probation officer recommended inclusion of the drugs that were subject to
+the dismissed counts of the indictment, including 6.388 grams of crack cocaine and 78.542 grams of
+cocaine. The Drug Equivalency Tables of section 2D1.1 provided “1 gm of Cocaine Base (“Crack”) = 100
+gm of cocaine.” Using this “100 to 1” ratio, the officer calculated the total amount of drugs to be
+717.342 grams of cocaine, which resulted in a base offense level of 26. The officer also recommended
+a two point reduction for acceptance of responsibility. Because Wheeler had a criminal history
+category of I, the guideline range was 51 to 63 months. Wheeler filed objections to the report,
+contending that the base offense level should have been 16 based on 84.93 grams of cocaine. He
+contended that the “100 to 1” ratio of section 2D1.1 was void for vagueness because the term
+“cocaine base” had been subject to conflicting judicial definitions, citing United States v. Brown,
+859 F.2d 974, 975-76 (D.C.Cir.1988) (per cu-riam) (cocaine base is “any form of cocaine with the
+hydroxyl radical”), and United States v. Shaw, 936 F.2d 412, 415 (“crack generally refers to very
+pure cocaine intended for smoking rather than inhalation”) (9th Cir.1991) (quotation omitted). In
+the alternative, Wheeler argued that in United States v. Buckner, 894 F.2d 975 (8th Cir.1990), this
+court had adopted the Brown definition of cocaine base and that the drugs at issue were not cocaine
+base because they did not contain the hydroxyl radical. In Buckner, this court rejected a
+substantive due process and eighth amendment challenge to the “100 to 1” ratio of section 2D1.1.
+“After noting that this ratio was mandated by Congress in 21 U.S.C. § 841(b), we reviewed the 1986
+legislative history in detail.” United States v. Willis, 967 F.2d 1220, 1225 (8th Cir.1992). Among
+other things, “[w]e concluded that Congress had a reasonable basis, in terms of protecting society,
+for imposing more severe penalties for crimes involving crack cocaine ‘because of crack’s potency,
+its highly addictive nature, its affordability, and its increasing prevalence.’ ” 967 F.2d at 1225
+(quoting Buckner, 894 F.2d at 978). In a footnote in Buckner, this court stated that “[c]ocaine base
+or ‘crack’ ‘is any form of cocaine with [a] hydroxyl radical’ in the chemical compound.” 894 F.2d at
+976 n. 1 (quoting United States v. Brown, 859 F.2d at 975-76). We went on to state that “[i]n lay
+terms, ‘crack’ is a form of cocaine that can be inhaled, goes rapidly to the brain, and for which
+very small dosage units are sufficient for initial uses.” Id. At the sentencing hearing, Wheeler
+presented the testimony of Gene Bangs, a chemist with the Arkansas State Crime Laboratory. Bang
+testified that he had examined the drugs in Wheeler’s case, including twelve rock-like substances.
+Bangs defined cocaine base as an “organic base, containing a nitrogen-type group giving it a base
+characteristic that will react with an acid to form a salt.” He believed that cocaine base was not
+characterized by the presence of a hydroxyl radical and that under “the hydroxyl definition” the
+rock-like substances would not be cocaine base. However, on cross-examination, he testified he had
+“no doubt” in his mind that the rock-like substances were cocaine base and not cocaine. He explained
+that cocaine base was different from cocaine, because cocaine base could be smoked, whereas cocaine
+could not be smoked efficiently. He further explained that cocaine base vaporized on heating and was
+practically insoluble in water, but that cocaine broke down on heating and was freely soluble in
+water. In response to a question from the court, Banks stated that the twelve rock-like substances
+were capable of being smoked. At the conclusion of the hearing, the district court stated that it
+had read Buckner and did not believe that this court had held that the presence of a hydroxyl
+radical was the exclusive definition of cocaine base, noting that in the footnote this court also
+had referred to the lay definition of crack. The district court held that section 2D 1.1 was not
+vague and that under the guidelines cocaine base should be defined as a cocaine-containing substance
+that was prepared in a form that could be smoked. After granting the government’s motion for
+downward departure for substantial assistance under Guidelines § 5K1.1, the court sentenced Wheeler
+to twenty-seven months imprisonment. On appeal Wheeler renews his argument that section 2D1.1 is
+unconstitutionally vague on its face. He concedes that this court has rejected a void-for-vagueness
+challenge to 21 U.S.C. § 841(b), see United States v. House, 939 F.2d 659, 664 (8th Cir.1991) (§
+841(b) not unconstitutionally vague “despite the lack of an exacting definition of cocaine base in
+the statue, .[because] the term provides adequate notice to individuals and sufficiently limits
+governmental discretion”), but asserts that this court has never addressed his argument that the
+guideline is unconstitutionally vague because the term “cocaine base” has been subject to
+conflicting judicial definitions. We note that “[]]ust because other courts of appeals differ in
+their definitions of a term does not mean that the term is void for vagueness[,]” United States v.
+Jackson, 968 F.2d 158, 163 (2d Cir.1992), and we find no merit in this argument. “It is well
+established that vagueness challenges to statutes, which do not involve First Amendment freedoms
+must be examined in the light of the facts of the case at hand.” United States v. Mazurie, 419 U.S.
+544, 550, 95 S.Ct. 710, 714, 42 L.Ed.2d 706 (1975). Wheeler does not dispute that Bangs testified
+that the twelve rock-like substances were cocaine base and not cocaine and that he could
+differentiate between the two drugs. Therefore, section 2D1.1 is not void for vagueness as applied
+to Wheeler. See Jackson, 968 F.2d at 163; United States v. Turner, 928 F.2d 956, 960 (10th Cir.),
+cert. denied, — U.S. -, 112 S.Ct. 230, 116 L.Ed.2d 187 (1991); Brown, 859 F.2d at 976. Although
+Wheeler does not dispute that Bangs testified that the substances were cocaine base, he contends
+that the substances should not be classified as cocaine base. He argues that in Buckner this court
+held that the presence of a hydroxyl radical was determinative of whether a substance was cocaine
+base. We disagree. In United States v. Shaw, 936 F.2d at 414-416, the Ninth Circuit has rejected an
+almost identical argument. In Shaw, the Ninth Circuit held that a district court had erred in
+defining cocaine base as cocaine that contained a hydroxyl ion. The lower court had relied on United
+States v. Van Hawkins, 899 F.2d 852, 854 (9th Cir.1990), wherein the Ninth Circuit in a footnote had
+stated that cocaine base was cocaine that contained an active hydroxyl ion. The Ninth Circuit stated
+that Van Hawkins “simply” held that 21 U.S.C. § 841(b) was not unconstitutionally vague and did “not
+answer the question of what the correct definition of cocaine base [wa]s as a matter of statutory
+interpretation.” Id. 939 F.2d at 415. In Shaw, the court began its analysis by stating that 21
+U.S.C. § 841(b) and Guidelines § 2D1.1 are to be construed “consistent with each other in their use
+of the term ‘cocaine base.’ ” Id. The court found that the legislative history of section 841(b) was
+consistent with the commentary to section 2D1.1, which equated cocaine base to crack. The court
+noted the statements of the sponsors of section 841(b) “indicate[d] concern primarily with the crack
+epidemic, and ... describe[d] crack as cocaine that is smoked rather than snorted.” Id. at 416. We
+agree with the Ninth Circuit’s conclusion in Shaw that “Congress and the [Sentencing] Commission
+must have intended the term ‘cocaine base’ to include ‘crack,’ or ‘rock cocaine,’ which we
+understand to mean cocaine that can be smoked....” Id. Because it is undisputed in this case that
+the twelve rock-like substances could be smoked, we “need not here attempt to adopt a precise
+chemical definition of cocaine base.” United States v. Turner, 928 F.2d at 960. “There can be no
+doubt that whatever else [section 2D1.1] encompasses, it certainly includes” crack cocaine. United
+States v. Brown, 859 F.2d at 976. As indicated, the judgment of the district court is affirmed. .
+The Honorable Stephen M. Reasoner, Chief Judge, United States District Court for the Eastern
+District of Arkansas. . Effective November 1, 1991, section 2D1.1 was amended to "referenc[e] the
+conversions to one substance (marijuana), rather than to four substances; the use of one referent
+rather than four makes no substantive change but will make the required computations easier and
+reduce the likelihood of computational error.” Commentary to section 2D 1.1. Under the revised
+guideline, the ‘TOO to 1" ratio is retained; one gram of cocaine is the equivalent of 200 grams of
+marijuana, and one gram of cocaine base is the equivalent of 20 kilograms of marijuana. .In Willis,
+this court rejected an equal protection challenge to Guidelines § 2D 1.1, noting this court had
+previously rejected such challenges. 967 F.2d at 1225 (citing, e.g., United States v. Johnson, 944
+F.2d 396, 404 n. 7 (8th Cir.), cert. denied, — U.S. -, 112 S.Ct. 646, 116 L.Ed.2d 663 (1991).
 
 

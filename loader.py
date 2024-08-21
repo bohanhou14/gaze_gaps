@@ -26,6 +26,7 @@ if __name__ == "__main__":
     # train_dataset = load_dataset("jhu-clsp/CLERC", data_files={"data": f"generation/train.jsonl"})["data"]
     gpt4o_generations = parse_generations_dataset()
     llama3_generations = parse_generations_dataset("clerc_generations/prompt1/Meta-Llama-3-8B-Instruct/preds")
+    llama3ft_generations = parse_generations_dataset("clerc_generations/prompt1/llama3-ft/preds")
     
     written = 0; idx = 0; cutoff = 100
     while written < cutoff:
@@ -34,6 +35,7 @@ if __name__ == "__main__":
         prev_text = dataset[idx]["previous_text"]
         citations = [cite[0] for cite in dataset[idx]["citations"]]
         short_citations = dataset[idx]["short_citations"]
+        # breakpoint()
         gpt4o_generation = [gen["generation"] for gen in gpt4o_generations if gen["docid"] == docid]
         llama3_generation = [gen["generation"] for gen in llama3_generations if gen["docid"] == docid]
         if len(gpt4o_generation) == 0 or len(llama3_generation) == 0:
@@ -51,8 +53,8 @@ if __name__ == "__main__":
             f.write(wrap_text(llama3_generation[0]) + "\n\n")
             f.write("\n**Label:** \n\n")
             f.write("\n**citations:** " + wrap_text(str(citations)) + "\n\n")
-            for idx, cite in enumerate(short_citations):
-                f.write(f"***short_citations_{idx}:*** " + cite + "\n\n")
+            for i, cite in enumerate(short_citations):
+                f.write(f"***short_citations_{i}:*** " + cite + "\n\n")
             f.write("**prev_text:**\n")
             f.write(wrap_text(prev_text) + "\n\n")
             f.write("\n")

@@ -1,142 +1,186 @@
 **gold_text:**
-The amendment to Rule 25(a) (1) was intended to dispel unwarranted rigidity and allow more
-flexibility in substitution. “It was intended that liberal effect be given to the 1963 amendment.”
-Roscoe v. Roscoe, 126 U.S.App.D.C. 317, 322, 379 F.2d 94, 99 (1967). “[T]he 90 day period was not
-intended to act as a bar to otherwise meritorious actions.” Staggers v. Otto Gerdau Co., 359 F.2d
-292, 296 (2d Cir. 1966).
+As the application note to § 3B1.3 indicates, the other type of case where an enhancement under §
+3B1.3 is proper is where a fiduciary or personal trust relationship exists. For example, in United
+States v. Queen, 4 F.3d 925 (10th Cir.1993), cert. denied, — U.S. —, 114 S.Ct. 1230, 127 L.Ed.2d 575
+(1994), we upheld an enhancement for the president of a company who had claimed to be an investment
+advisor/broker and had solicited funds which he had diverted for his personal use. He covered up his
+diversion by sending phony profit statements to the investors. Clearly, his position provided him
+with “the freedom to commit a difficult-to-detect wrong,” one of the essential factors in the test
+for abuse of trust. United States v. Williams, 966 F.2d at 557. Furthermore, the district court had
+specifically found that a fiduciary relationship existed between the defendant and his “clients.”
+Id. at 927. Similarly, in United States v. Lowder, 5 F.3d 467 (10th Cir.1993), an accountant
+personally solicited investments from his tax clients, fraudulently promising them a guaranteed
+twelve percent return; the funds he then diverted to his personal use. As president of the company,
+he was able to dispose of the investors’ money without oversight. These cases are closer to the ease
+at bar in that they involve presidents of companies who defrauded others. Despite this similarity,
+these cases do not support an “abuse of trust” enhancement for Mr. Brunson.
 
 **Generations:**
 
 
 ***GPT-4o:***
-This stringent interpretation contrasts sharply with the intent of the 1963 amendments to Rule 25
-and Rule 6(b), which aimed to inject flexibility and fairness into the substitution process. As
-noted in 379 F.2d 94 and 359 F.2d 292, the amendments were designed to eliminate the inequities and
-hardships caused by the rigid two-year limitation originally imposed. The Advisory Committee
-emphasized that the revised rules were to be liberally construed to allow courts discretion in
-extending the substitution period, recognizing the difficulties that could arise in promptly
-identifying and notifying the proper representative of the deceased.   Given this context, the
-defendant’s counsel's suggestion of death, which lacked identification of a proper representative,
-failed to initiate the 90-day countdown. This interpretation aligns with the judicial precedent that
-courts should prioritize the equitable administration of justice over strict procedural formalities.
-Thus, the district court erred in dismissing the plaintiffs' action without granting the requested
-extension, especially considering the circumstances that inhibited timely substitution, such as the
-injury to plaintiffs' counsel and the ongoing legal processes in the probate court.  We, therefore,
-reverse the judgment and remand for further proceedings consistent with this opinion, ensuring that
-the substitution process adheres to the flexible and just principles intended by the amendments to
-the Federal Rules of Civil Procedure.
+The district court found that Mr. Brunson’s role as president of Consolidated Services Corporation
+did not equate to a position of trust vis-a-vis the Russian Coal Company. This determination aligns
+with established jurisprudence that an abuse of trust enhancement under U.S.S.G. § 3B1.3 requires
+the defendant’s position to significantly facilitate the offense through trust placed by the victim
+(4 F.3d 925). Furthermore, Mr. Brunson’s argument that he merely portrayed a semblance of
+legitimacy, hence not occupying a genuine position of trust, resonates with the principles laid out
+in United States v. Lowder, where the use of authority and the absence of oversight defined the
+clear abuse of such trust (5 F.3d 467).  In light of these precedents, Mr. Brunson did not possess a
+fiduciary or authoritative role that would substantiate a § 3B1.3 enhancement. His actions, instead,
+embody the conduct of an external fraudster rather than an insider exploiting privileged access or
+reliance. Consequently, the application of the two-point enhancement for abuse of a position of
+trust is reversed, consistent with the statutory interpretation and case law guiding the proper
+constraints of this sentencing enhancement.
 
 
 **Label:** 
 
 
 ***Meta-Llama-3-8B-Instruct:***
-  In the context of Rule 25(a) (1) of the Federal Rules of Civil Procedure, the suggestion of death
-is a crucial step in the process of substituting a deceased party with a proper representative.
-However, not all suggestions of death are created equal. In cases where the suggestion of death is
-made by a party's attorney, but fails to identify a successor or representative of the deceased, the
-90-day period for substitution may not be triggered.  As noted in 359 F.2d 292, the Advisory
-Committee on Civil Rules intended to provide a more flexible standard for substitution, allowing for
-extensions of time and dispensing with the rigid two-year period previously in place. However, this
-flexibility is contingent upon the suggestion of death providing sufficient information to permit
-the court to proceed with substitution.  In the present case, the suggestion of death made by the
-defendant's attorney was deficient in that it failed to identify a successor or representative of
-the deceased. This lack of specificity rendered the suggestion ineffective in triggering the 90-day
-period for substitution, as explained in 379 F.2d 94.  Furthermore, the court's discretion to
-enlarge the time period for substitution, as provided by Rule 6(b), is not a blank check. Rather, it
-is intended to be exercised in a judicious and reasonable manner, taking into account the particular
-circumstances of each case.  In light of these principles, we conclude that the district court erred
-in dismissing the action with prejudice. The case should be remanded for further proceedings,
-allowing the parties to properly substitute a representative of the deceased and continue the action
-in a manner consistent with the Federal Rules of Civil Procedure.
+ The cases referenced in the articles provide guidance on the application of sentencing guidelines,
+particularly with regards to enhancements for abuse of trust and vulnerability. In the case of
+U.S.S.G. § 3B1.3, an enhancement is permitted if the defendant occupied a position of trust and
+abused that position to facilitate the commission or concealment of the offense. Reference case 4
+F.3d 925 supports this interpretation, stating that an abuse of trust is only appropriate if the
+defendant occupied a position of trust, abused that position, and the abuse is not included in the
+base level offense or specific offense characteristics.  In the instant case, the defendant, Mr.
+Brunson, did not occupy a position of trust vis-a-vis the Russian Coal Company, and therefore, the
+application of this enhancement is clearly erroneous. This is in line with the reasoning in
+Reference case 5 F.3d 467, which states that an enhancement for abuse of trust is only appropriate
+if the defendant occupied a position of trust and abused that position to facilitate the commission
+or concealment of the offense.  Additionally, the district court erred in applying the two-point
+sentence enhancement under U.S.S.G. § 3A1.1, which provides for an enhancement if the defendant knew
+or should have known that a victim of the offense was unusually vulnerable due to age, physical or
+mental condition, or that a victim was otherwise particularly susceptible to the criminal conduct.
+The court's finding that the Russian Coal Company was vulnerable due to a language barrier and
+inexperience with a free market economy is insufficient to support a finding of special
+vulnerability.  In conclusion, the district court's application of the enhancements under U.S.S.G. §
+3B1.3 and U.S.S.G. § 3A1.1 is erroneous, and the case must be remanded for resentencing. The court's
+findings were not supported by the evidence, and the enhancements were applied incorrectly. The
+court's application of these enhancements was also not in line with the reasoning in the referenced
+cases, which provide guidance on the application of these sentencing guidelines.
 
 
 **Label:** 
 
 
-**citations:** ['379 F.2d 94', '359 F.2d 292']
+**citations:** ['4 F.3d 925', '5 F.3d 467']
 
-***short_citations_0:*** 379 F.2d 94
+***short_citations_0:*** 4 F.3d 925
 
-the proper parties. * * * Unless the motion for substitution is made not later than 90 days after the death is suggested upon the record by service of a statement of the fact of the death as provided herein for the service of the motion, the action shall be dismissed as to the deceased party.” Here not only had the 90-day period not expired when the court entered summary judgment, the appellant by her motion for reconsideration had specifically invoked the discretion of the court. Rule 6(b) provides pertinently that when “by these rules * * * an act is required or allowed to be done at or within a specified time, the court for cause shown may at any time in its discretion (1) with or without motion or notice order the period enlarged if request therefor is made before the expiration of the period originally prescribed * * Originally the Rule had precluded an extension of time for taking action under Rule 25(a) (1), but by purposeful amendment, it was sought to relieve against the hardship of the Court’s holding in Anderson v. Yungkau, 329 U.S. 482, 67 S.Ct. 428, 91 L.Ed. 436 (1947). It was intended that liberal effect be given to the 1963 amendment. Graham v. Pennsylvania Railroad, 119 U.S.App.D.C. 335, 342 F.2d 914 (1964), cert. denied, 381 U.S. 904, 85 S.Ct. 1446, 14 L.Ed.2d 286 (1965). We are constrained to reverse for further proceedings not inconsistent with this opinion. Reversed. The only “party” then
+or used a special skill, in a manner that significantly facilitated the commission or concealment of the offense, increase by 2 levels. This adjustment may not be employed if an abuse of trust or skill is .included in the base offense level or specific offense characteristic. If this adjustment is based upon an abuse of a position of trust, it may be employed in addition to an adjustment under § 3B1.1 (Aggravating Role); if this adjustment is based solely on the use of a special skill, it may not' be employed in addition to an adjustment under § 3B1.1 (Aggravating Role). U.S.S.G. § 3B1.3, (Nov. 1, 1991 version). As the language of § 3B1.3 indicates, an enhancement for abuse of trust is appropriate only if 1) the defendant occupied a position of trust, 2) the defendant abused this position in a manner that significantly facilitated his or her offense, and 3) abuse of trust is not included in the base level offense or specific offense characteristics pertaining to the defendant’s crime. In the instant case, the district court concluded that the defendant’s offense involved an abuse of position of trust and applied the two-level enhancement permitted by § 3B1.3. The defendant argues that this two-level enhancement was inappropriate for two reasons. First, he argues that abuse of trust is included in his base offense level. Second, he argues that he did not occupy a position of trust. We will address each of these contentions in’ turn. A. Whether Abuse of
 
-***short_citations_1:*** 359 F.2d 292
+***short_citations_1:*** 5 F.3d 467
 
-insertion of a “reasonable time” standard. In 1963, the Advisory Committee suggested the present rule and noted: “Present Rule 25(a) (1), together with present Rule 6(b), results in an inflexible requirement that an action be dismissed as to a deceased party if substitution is not carried out within a fixed period measured from the time of the death. The hardships and inequities of this unyielding requirement plainly appear from the cases. * * * The amended rulé establishes a time limit for the motion to substitute based not upon the time of the death, but rather upon the time information of the death is provided by means of a suggestion of death upon the record, i. e. service of a statement of the fact of the death.” See Notes of Advisory Committee on the Civil Rules, 28 U.S.C. Rule 25 (1964). Rule 6(b) of the Federal Rules of Civil Procedure was also amended in 1963 and the prohibition against extending the time for taking action under Rule 25 was eliminated. The Advisory Committee on the Civil Rules noted: “It is intended that the court shall have discretion to enlarge that period.” The amendments of Rules 6(b) and 25(a) (1) provided needed flexibility. It was assumed that discretionary extensions would be liberally granted. Movants under Rule 25 can ordinarily control when a death is “suggested upon the record” and appellants’ attorney was under no obligation to file his affidavit of Staggers’ death on the date he did. He could have filed
+U.S.S.G. § 3B1.3.- Abuse of a position of trust is a factual determination that we will uphold unless clearly erroneous. United States v. Fox, 999 F.2d 483 (10th Cir.1993). An enhancement is proper if the defendant “abused a position of public or private trust, or used a special skill, in a manner that significantly facilitated ... the offense.” Id. Mr. Lowder contends that he used no position of trust or special skill to spend funds under § 1957.' He merely wrote checks for the company. The district court found that it was only because of his position as president of the sham corporations that he was entrusted with and able to spend the money. We recently set forth a number of factors relevant to this determination, including defendant’s level of knowledge and authority, the level of public trust, in defendant, and whether' the abuse could be easily or readily noticed. United States v. Williams, 966 F.2d 555, 557 (10th Cir.1992). Here, Mr. Lowder was a CPA who provided tax and financial advice to elderly and unsophisticated clients. He advised them to place their money with him and promised them security. As president of the corporations he was free to spend that money, without oversight. The district court did not err in finding an abuse of position of trust. VIII.The Government’s Closing Argument During rebuttal argument, the government attorney made the following remarks: Think about who' gets left out in one of these trials; The government gets a table here. We’ve
 
 **prev_text:**
-LEVENTHAL, Circuit Judge: The District Court held that Rule 25(a) (1) of the Federal Rules of Civil
-Procedure required dismissal of the plaintiffs’ tort action because defendant’s counsel had filed a
-suggestion of death of the defendant yet plaintiff had not made any substitution of parties within
-90 days. We reverse on the ground that the suggestion of death, which was neither filed by nor
-identified a successor or representative of the deceased, such as an executor or administrator, was
-ineffective to trigger the running of the 90-day period provided by the Rule. Mr. and Mrs. John
-Rende filed an action in the District Court individually and on behalf of their infant son who had
-been struck and injured by Alfred S. Kay while driving his car. On August 27, 1967, defendant Kay
-died. On September 1, 1967, the defendant’s attorney, a term used here to identify the lawyer who
-had been retained by deceased to defend the action, and who had duly entered an appearance as
-attorney for defendant, filed a suggestion of death in the District Court, giving notice to
-plaintiffs’ attorney. That same day there was filed in the Orphans Court for Montgomery County,
-Maryland, residence of the deceased, his will naming his widow as executrix, but the will had not
-been probated, nor any legal representative appointed for the estate at the time of the filing of
-this appeal. Plaintiffs’ attorney was injured on October 14, 1967. On returning to practice early in
-1968, he learned that no successor to defendant Kay had yet been appointed, and he moved to certify
-the case to the ready calendar. The defendant’s attorney opposed this on grounds that discovery
-procedures had not been completed. The case was delayed and placed on the ready calendar as of June
-7, 1968. However, in April 1968, the defendant’s attorney moved in his own name to dismiss the
-action on the ground that Rule 25(a) (1) required plaintiffs to move to substitute a proper party
-for the deceased within 90 days of the suggestion of death. Plaintiffs filed an opposition and
-motion for substitution of the proper party, and sought an extension of the time for substitution as
-allowed by Rule 6(b). At argument, plaintiffs’ counsel asserted the “suggestion of death was
-defective in that it did not list the name of the proper party; that is the legal representative of
-the defendant.” The court responded: “That would not be his burden.” The court dismissed the action
-with prejudice. Prior to its amendment in 1963, Rule 25(a) (1) required the court to dismiss a case
-if no motion for substitution was filed within two. years after date of death, and no extensions of
-this period were allowed under Rule 6(b). The rule was rigorously applied, often with harsh results,
-and was called “easily the poorest rule of all the Federal Rules.” In 1955 the Advisory Committee on
-Rules for Civil Procedure recommended that the two-year period be changed to a “reasonable time”
-standard. In 1961 the Advisory Committee on Civil Rules again suggested the Rule be made more
-flexible. In 1963 the Supreme Court made changes in Rule 25(a) (1) and in Rule 6(b) so as to provide
-a 90-day time limit from the filing of a suggestion of death, and to give the court discretion to
-extend that time. The Committee Notes explaining the amendments state: Present Rule 25(a) (1),
-together with present Rule 6(b), results in an inflexible requirement that an action be dismissed as
-to a deceased party if substitution is not carried out within a fixed period measured from the time
-of death. The hardships and inequities of this unyielding requirement plainly appear from the cases.
-* * * The amended rule establishes a time limit for the motion to substitute based not upon the time
-of the death, but rather upon the time information of the death is provided by means of a suggestion
-of death upon the record. * * * A motion to substitute may be made by any party or by the
-representative of the deceased party without awaiting the suggestion of death. Indeed, the motion
-will usually be so made. If a party or the representative of the deceased party desires to limit the
-time within which another may make the motion, he may do so by suggesting the death upon the record.
-(Emphasis added.) Under the amended Rule either a party or “the successors or representatives of the
-deceased party” may avoid delay in effecting substitution for the deceased party either by filing a
-motion for substitution or by suggesting death on the record and thus triggering the 90-day period
-which begins with suggestion of death. The Advisory Committee, in outlining that suggestion of death
-could be made by “the representative of the deceased party” plainly contemplated that the suggestion
-emanating from the side of the deceased would identify a representative of the estate, such as an
-executor or administrator, who could be substituted for the deceased as a party, with the action
-continued in the name of the representative. The addition of “successor” in the Rule would take care
-of the case of, say, the distributee of an estate that had been distributed, but would not make a
-material difference in the aspect under consideration. Form 30, for suggestion of death, which was
-provided in order to expedite and facilitate implementation of the amendment, provides: A.B.
-[described as a party, or as executor, administrator, or other representative or successor of C.D.,
-the deceased party\ suggests upon the record, pursuant to Rule 25(a) (1), the death of C.D.
-[describe as party] during the pendency of this action. Added Jan. 21, 1963, eff. July 1, 1963.
-[Emphasis added.] Although the attorney for the defendant was retained to “represent” the deceased
-as his counsel, he is not a person who could be made a party, and is not a “representative of the
-deceased party” in the sense contemplated by Rule 25(a) d). In our opinion the Rule, as amended,
-cannot fairly be construed, as the de fendant’s attorney argues, to make his suggestion of death
-operative to trigger the 90-day period even though he was neither a successor nor representative of
-the deceased, and gave no indication of what person was available to be named in substitution as a
-representative of the deceased. Counsel’s construction would open the door to a tactical maneuver to
-place upon the plaintiff the burden of locating the representative of the estate within 90 days. We
-can conceive of cases wherein even the lawyer retained to represent a defendant might know the
-defendant had died, yet not readily know where his estate would be administered. In the present
-case, plaintiff’s attorney did know the court of probate, but he did not know whether probate of the
-will might be contested, or who would be appointed representative of the estate. The tactic of the
-defendant’s attorney would place on plaintiff the burden, where no conventional representative was
-appointed for the estate in probate court, of instituting machinery in order to produce some
-representative of the estate ad litem, pending appointment of the representative contemplated by law
-of the domicile of the deceased.
+McKAY, Circuit Judge. The defendant, Mr. Brunson, was convicted of numerous counts of wire fraud,
+laundering of monetary instruments, and engaging in monetary transactions in property derived from
+specified unlawful activity in conjunction with a scheme to defraud the Russian Coal Company out of
+several million dollars. 18 U.S.C. §§ 1343, 1956(a)(l)(A)(i), and 1957. He was forced to forfeit the
+monies, properties, and proceeds traceable to the illegally acquired funds pursuant to 18 U.S.C. §
+982(a)(1). Mr. Brunson has raised five issues on appeal. The first issue pertains to the defendant’s
+competency to stand trial. Three of the issues concern the district court’s application of the
+Sentencing Guidelines. Finally, Mr. Brunson challenges the district court’s order that he pay
+restitution. We affirm in part, reverse in part, and remand. Mr. Brunson devised a scheme to defraud
+the Russian Coal Corporation of over four million dollars. Of this sum, he received over one million
+dollars. To obtain these funds, Mr. Brunson promised to build an automated brick plant in Russia. A
+contract to this effect was signed in July 1992 in Del City, Oklahoma, by Mr. Brunson (as President
+of Consolidated Services Corporation) and by a representative of the Russian Coal Corporation. The
+total contract price was $4,395 million. An expert testified that a brick-making plant of the type
+specified in the contract could not have been built for less than $10 million. On September 14,
+1992, $1,318,480.00 was transferred by wire into Mr. Brunson’s personal bank account. Shortly
+thereafter, Mr. Brunson began to dissipate these funds for personal use, including the purchase of
+seventeen luxury and classic automobiles, the purchase of one residence, the rental of another
+residence, vacation trips, computer software and hardware, college tuition for his son, jewelry,
+furniture, home improvements, etc. Needless to say, these expenditures were unrelated to the
+construction of a brick factory in Russia. Mr. Brunson did utilize some of the funds to lease a
+warehouse and to purchase a few items of brick-making equipment. It appears, however, that these
+acts were done solely in furtherance of the fraud, that is, to create the impression that CSC was a
+viable business capable of fulfilling the contract. In fact, the only items ever sent to Russia were
+approximately $1,000 worth of anchor bolts. By June 1993, when the original indictment against Mr.
+Brunson was filed, only about $176,000 remained in the defendant’s account. Mr. Brunson’s trial was
+held in November 1993, and he was convicted on all fifty-one counts. On appeal, Mr. Brunson contends
+that the district court erred by failing to consider his competency during the time of trial. Mr.
+Brunson did not raise the issue of his competency to stand trial until January 1994, after the trial
+but prior to sentencing. Although the court did not believe there was any basis to believe that he
+was incompetent, out of an “abundance of caution” he ordered a psychological examination and granted
+a hearing on the issue. The district judge found Mr. Brunson to be competent based on his own
+observations and the testimony both of the examining physician and Mr. Brun-son’s trial counsel. Mr.
+Brunson has offered no credible basis for disturbing this finding on appeal. Mr. Brunson has claimed
+that three errors were made in applying the Sentencing Guidelines. His first claim is that the
+district court erred in its application of the grouping provisions. Specifically, Mr. Brun-son
+claims that his multiple counts of conviction should be grouped under U.S.S.G. § 3D1.2(b) rather
+than § 3D1.2(d). A determination of whether counts are appropriately grouped under the Guidelines is
+an issue of law which we review de novo. United States v. Smith, 13 F.3d 1421, 1428 (10th Cir.),
+cert. denied, — U.S. —, 115 S.Ct. 209, 130 L.Ed.2d 138 (1994). Mr. Brunson’s claim is without merit.
+We find no error in the manner in which the sentencing court applied the grouping provisions. Mr.
+Brunson also disputes the application of two victim-related adjustments to his sentence. We find
+these arguments to be meritorious. Mr. Brunson received a two-point sentence enhancement under
+U.S.S.G. § 3A1.1, which provides for an enhancement “[i]f the defendant knew or should have known
+that a victim of the offense was unusually vulnerable due to age, physical or mental condition, or
+that a victim was otherwise particularly susceptible to the criminal conduct.” We uphold such
+findings of the district court unless they are clearly erroneous. United States v. Lee, 973 F.2d
+832, 833 (10th Cir.1992). However, never before have we held that a company engaged in an arms-
+length business transaction could be classified as a “vulnerable victim,” and we decline to do so
+here. In order to classify a victim as “vulnerable,” “the sentencing court must make particularized
+findings of vulnerability.” Id. at 834. The focus of the inquiry must be on the “victim’s personal
+or individual vulnerability.” Id. at 835; see also United States v. Creech, 913 F.2d 780, 781-82
+(10th Cir.1990). For example, a frail, older woman recently weakened by a double mastectomy who was
+targeted for a sexual assault was an unusually vulnerable victim. United States v. Pearce, 967 F.2d
+434, 435 (10th Cir.), cert. denied, — U.S. —, 113 S.Ct. 341, 121 L.Ed.2d 257 (1992). Most recently,
+we upheld an enhancement under § 3A1.1 based on a finding that the victims were elderly,
+unsophisticated retirees who were fraudulently induced to invest their retirement funds in a phony
+investment scam. United States v. Lowder, 5 F.3d 467, 472 (10th Cir.1993). As these cases indicate,
+“vulnerable victims” are those who are in need of greater societal protection. It is doubtful that a
+state-owned business entity would ever qualify as a vulnerable victim; this is certainly true of a
+corporation engaged in multi-million dollar international transactions. Although it is true that the
+Russian Coal Company employed as its agent an elderly gentleman who appeared to be unsophisticated
+and inexperienced in the international business arena, it was the company, not the agent, that was
+the victim of the crime. Section 3A1.1 is not intended to protect businesses from their own
+incompetence by providing an enhancement above and beyond the normal criminal sanctions. The
+district court seemed to suggest that the mere fact that the Russian Coal Company engaged in the
+transaction proved that they were a vulnerable victim. “[O]ne can conclude that the very fact that
+they entered into negotiations and, indeed, concluded a contract with this defendant, under the
+circumstances, is evidence of naivete and inexperience and lack of sophistication.” (Trial
+transcript at 1322-23). The fact that they were victimized is insufficient, by itself, to show that
+they were especially vulnerable. More specifically, the court held that the Russian Coal Company was
+vulnerable “because of the language barrier as well' as inexperience with a free market economy.”
+(Presentence report at 4). As we have stated previously, the “victim’s vulnerability made the
+attempted crime possible, but ... did not make [the victim] an unusually vulnerable victim.” Creech,
+913 F.2d at 782 (quoting, United States v. Moree, 897 F.2d 1329, 1336 (5th Cir.1990)). We may take
+judicial notice that foreign companies, even those from formerly socialist economies, conclude
+contracts with American companies all the time. These two factors are insufficient to support a
+finding of special vulnerability. The district court also placed great weight on the fact that Mr.
+Brunson apparently singled out foreign companies because they could be more easily duped. While it
+is true that the defendant targeted the Russian Coal Company for his fraudulent scheme because he
+thought that they might fall for it, the same could be said of virtually all schemes to defraud. It
+is logical to assume the intended victim of any premeditated offense will be selected because
+something in his or her persona or circumstances will make successful the intended criminal act. We
+must therefore assume the Commission adopted § 3A1.1 to enhance a defendant’s punishment for an act
+of depravity. Creech, 913 F.2d at 782. In Creech, we held that singling out newlywed husbands for
+extortionate threats directed at their wives did not warrant a § 3A1.1 enhancement. We cannot say
+that focusing on foreign companies as potential victims is more depraved than that. Mr. Brunson also
+challenges the application of a two-point sentence enhancement under U.S.S.G. § 3B1.3. This section
+provides for an increase for defendants who abuse a position of trust that they occupy in relation
+to the victim. We find the application of this section to Mr. Brunson to be clearly erroneous
+because Mr. Brunson did not occupy a position of trust vis-a-vis the Russian Coal Company in this
+transaction. In the typical case where § 3B1.3 applies, the victim is a business and the defendant
+is an employee who has taken advantage of the knowledge and responsibilities acquired by virtue of
+his or her position within the company to embezzle or otherwise steal from the company. Their
+“position of trust must have contributed in some significant way to facilitating the commission or
+concealment of the defense {e.g., by making the detection of the offense or the defendant’s
+responsibility for the offense more difficult.)” U.S.S.G. § 3B1.3 cmt. 1; see, e.g., United States
+v. Johnson, 4 F.3d 904 (10th Cir.1993), cert. denied, — U.S. —, 114 S.Ct. 1082, 127 L.Ed.2d 398
+(1994) (bank vault teller conspired with others to rob bank vault using knowledge of security
+procedures to avoid detection); United States v. Fox, 999 F.2d 483 (10th Cir.1993) (credit card
+company employee issued card to herself under another person’s account, made charges, then covered
+up delinquency on computer); United States v. Levy, 992 F.2d 1081 (10th Cir.1993) (president of
+bankrupt company embezzled funds, defrauding trustee and creditors); United States v. Chimal, 976
+F.2d 608 (10th Cir.1992), cert. denied, — U.S. —, 113 S.Ct. 1331, 122 L.Ed.2d 715 (1993)
+(embezzlement by company controller); United States v. Williams, 966 F.2d 555 (10th Cir.1992)
+(embezzlement by military pay accountant). Clearly, this case does not fall into this category.
 
 

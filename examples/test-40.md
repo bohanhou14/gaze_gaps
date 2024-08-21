@@ -1,142 +1,237 @@
 **gold_text:**
-The amendment to Rule 25(a) (1) was intended to dispel unwarranted rigidity and allow more
-flexibility in substitution. “It was intended that liberal effect be given to the 1963 amendment.”
-Roscoe v. Roscoe, 126 U.S.App.D.C. 317, 322, 379 F.2d 94, 99 (1967). “[T]he 90 day period was not
-intended to act as a bar to otherwise meritorious actions.” Staggers v. Otto Gerdau Co., 359 F.2d
-292, 296 (2d Cir. 1966).
+This Court finds Defendant’s argument regarding the Second Mortgage unpersuasive. First, courts have
+a duty to construe pro se pleadings liberally, including pro se motions as well as complaints. See
+Zichko v. Idaho, 247 F.3d 1015, 1020 (9th Cir.2001) (acknowledging that courts must construe pro se
+prisoner motions and pleadings liberally); see also Karim-Panahi v. Los Angeles Police Dep% 839 F.2d
+621, 623 (9th Cir.1988) (“In civil rights cases where the plaintiff appears pro se, the court must
+construe the pleadings liberally and must afford plaintiff the benefit of any doubt.”); Christensen
+v. CIR, 786 F.2d 1382, 1384 (9th Cir.1986) (construing a pro se taxpayer’s motion to “place
+statements in the record” as a motion to amend). Not only is Plaintiff acting pro se, she is also
+the non-moving party and therefore entitled to the interpretation most favorable to her position.
 
 **Generations:**
 
 
 ***GPT-4o:***
-This stringent interpretation contrasts sharply with the intent of the 1963 amendments to Rule 25
-and Rule 6(b), which aimed to inject flexibility and fairness into the substitution process. As
-noted in 379 F.2d 94 and 359 F.2d 292, the amendments were designed to eliminate the inequities and
-hardships caused by the rigid two-year limitation originally imposed. The Advisory Committee
-emphasized that the revised rules were to be liberally construed to allow courts discretion in
-extending the substitution period, recognizing the difficulties that could arise in promptly
-identifying and notifying the proper representative of the deceased.   Given this context, the
-defendant’s counsel's suggestion of death, which lacked identification of a proper representative,
-failed to initiate the 90-day countdown. This interpretation aligns with the judicial precedent that
-courts should prioritize the equitable administration of justice over strict procedural formalities.
-Thus, the district court erred in dismissing the plaintiffs' action without granting the requested
-extension, especially considering the circumstances that inhibited timely substitution, such as the
-injury to plaintiffs' counsel and the ongoing legal processes in the probate court.  We, therefore,
-reverse the judgment and remand for further proceedings consistent with this opinion, ensuring that
-the substitution process adheres to the flexible and just principles intended by the amendments to
-the Federal Rules of Civil Procedure.
+However, due to Plaintiff's pro se status, the allegations and filings should be construed
+liberally. As established in Zichko v. Idaho, 247 F.3d 1015, courts have a duty to construe pro se
+pleadings liberally, especially in cases involving pro se prisoners. This principle extends to pro
+se litigants generally, including those involved in tax disputes, as seen in Christiansen v.
+Commissioner, 786 F.2d 1382. Additionally, the Ninth Circuit case Karim-Panahi v. Los Angeles Police
+Department, 839 F.2d 621, emphasizes that when dismissing a pro se complaint due to procedural
+deficiencies, courts should allow the plaintiff an opportunity to amend the complaint to correct
+such defects.  Applying this standard, the Court notes Plaintiff’s pro se status and the necessity
+to afford Plaintiff the opportunity to address any procedural deficiencies, such as failure to
+specifically allege receipt of a right-to-sue letter or to identify the proper defendant for the
+rescission claim. Therefore, while granting summary judgment on the grounds of the untimeliness of
+the rescission claim for the First Mortgage based on § 1635(f), the Court DENIES the motion for
+summary judgment on the Second Mortgage to allow Plaintiff an opportunity to amend the complaint to
+correctly address the procedural requirements and substantiate the foreclosure claim.
 
 
 **Label:** 
 
 
 ***Meta-Llama-3-8B-Instruct:***
-  In the context of Rule 25(a) (1) of the Federal Rules of Civil Procedure, the suggestion of death
-is a crucial step in the process of substituting a deceased party with a proper representative.
-However, not all suggestions of death are created equal. In cases where the suggestion of death is
-made by a party's attorney, but fails to identify a successor or representative of the deceased, the
-90-day period for substitution may not be triggered.  As noted in 359 F.2d 292, the Advisory
-Committee on Civil Rules intended to provide a more flexible standard for substitution, allowing for
-extensions of time and dispensing with the rigid two-year period previously in place. However, this
-flexibility is contingent upon the suggestion of death providing sufficient information to permit
-the court to proceed with substitution.  In the present case, the suggestion of death made by the
-defendant's attorney was deficient in that it failed to identify a successor or representative of
-the deceased. This lack of specificity rendered the suggestion ineffective in triggering the 90-day
-period for substitution, as explained in 379 F.2d 94.  Furthermore, the court's discretion to
-enlarge the time period for substitution, as provided by Rule 6(b), is not a blank check. Rather, it
-is intended to be exercised in a judicious and reasonable manner, taking into account the particular
-circumstances of each case.  In light of these principles, we conclude that the district court erred
-in dismissing the action with prejudice. The case should be remanded for further proceedings,
-allowing the parties to properly substitute a representative of the deceased and continue the action
-in a manner consistent with the Federal Rules of Civil Procedure.
+  ORDER GRANTING IN PART AND DENYING IN PART DEFENDANT’S MOTION FOR SUMMARY JUDGMENT  Pursuant to
+Local Rule 7.2(d), the Court finds this matter suitable for disposition without a hearing. After
+reviewing Defendant’s motion and the supporting and opposing memoranda, the Court GRANTS IN PART AND
+DENIES IN PART Defendant’s Motion for Summary Judgment.  The Court notes that Plaintiff’s claim for
+rescission of the First Mortgage is time-barred. As stated in Beach v. Ocwen Federal Bank, 523 U.S.
+410, 118 S.Ct. 1408, 140 L.Ed.2d 566 (1998), the right to rescind under TILA completely extinguishes
+at the end of the three-year period. Similarly, in King v. California, 784 F.2d 910, 913 (9th
+Cir.1986), the Ninth Circuit held that section 1635(f) is an absolute limitation on rescission
+actions, barring any claims filed more than three years after the consummation of the transaction.
+As for the Second Mortgage, Plaintiff obtained the loan to purchase the fee interest in the Property
+and does not dispute that it constitutes a residential mortgage transaction, exempt from the
+rescission provision under TILA. Defendant argues that Plaintiff has not provided evidence that a
+foreclosure process is in progress, and therefore does not meet her burden to rebut a motion for
+summary judgment.  The Court finds that Defendant has demonstrated that there is no genuine issue of
+material fact and is entitled to judgment as a matter of law. Therefore, the Court GRANTS
+Defendant’s motion for summary judgment on the claims related to the First Mortgage and DENIES the
+motion on the claims related to the Second Mortgage.
 
 
 **Label:** 
 
 
-**citations:** ['379 F.2d 94', '359 F.2d 292']
+**citations:** ['247 F.3d 1015', '839 F.2d 621', '786 F.2d 1382']
 
-***short_citations_0:*** 379 F.2d 94
+***short_citations_0:*** 247 F.3d 1015
 
-the proper parties. * * * Unless the motion for substitution is made not later than 90 days after the death is suggested upon the record by service of a statement of the fact of the death as provided herein for the service of the motion, the action shall be dismissed as to the deceased party.” Here not only had the 90-day period not expired when the court entered summary judgment, the appellant by her motion for reconsideration had specifically invoked the discretion of the court. Rule 6(b) provides pertinently that when “by these rules * * * an act is required or allowed to be done at or within a specified time, the court for cause shown may at any time in its discretion (1) with or without motion or notice order the period enlarged if request therefor is made before the expiration of the period originally prescribed * * Originally the Rule had precluded an extension of time for taking action under Rule 25(a) (1), but by purposeful amendment, it was sought to relieve against the hardship of the Court’s holding in Anderson v. Yungkau, 329 U.S. 482, 67 S.Ct. 428, 91 L.Ed. 436 (1947). It was intended that liberal effect be given to the 1963 amendment. Graham v. Pennsylvania Railroad, 119 U.S.App.D.C. 335, 342 F.2d 914 (1964), cert. denied, 381 U.S. 904, 85 S.Ct. 1446, 14 L.Ed.2d 286 (1965). We are constrained to reverse for further proceedings not inconsistent with this opinion. Reversed. The only “party” then
+on medication for his terminal cancer and had mood-swings. Zichko did not specifically identify the failure to appeal as one of the grounds for an ineffective assistance of counsel claim. However, we have a “duty ... to construe pro se pleadings liberally.” Hamilton v. United States, 67 F.3d 761, 764 (9th Cir.1995) (citing Hughes v. Rowe, 449 U.S. 5, 9, 101 S.Ct. 173, 66 L.Ed.2d 163 (1980) (quotation omitted)). This rule particularly applies to complaints and motions filed by pro se prisoners. See, e.g., United States v. Seesing, 234 F.3d 456, 462-63 (9th Cir.2000). Zichko did allege that his attorney had failed to communicate with him at times, a concern in which the Flores-Ortega decision was grounded. 528 U.S. at 480, 120 S.Ct. 1029 (holding that “counsel has a constitutionally-imposed duty to consult with the defendant about an appeal” in certain circumstances) (emphasis added). And elsewhere in the petition, Zichko claimed that his “public defender said he would appeal the case but he did not, as he told a Presbyterian minister he would ap peal....” Given our duty to read Zichko’s petition liberally, these two statements are sufficient to establish that Zichko did raise the claim in his federal habeas petition. The district court could have looked to the entire petition to see if the ineffective assistance of counsel claim had any merit; had it done so, the court would have found the allegation that Brown failed to appeal. Cf. Selam, 134 F.3d at 952 (reaching the merits of the
 
-***short_citations_1:*** 359 F.2d 292
+***short_citations_1:*** 839 F.2d 621
 
-insertion of a “reasonable time” standard. In 1963, the Advisory Committee suggested the present rule and noted: “Present Rule 25(a) (1), together with present Rule 6(b), results in an inflexible requirement that an action be dismissed as to a deceased party if substitution is not carried out within a fixed period measured from the time of the death. The hardships and inequities of this unyielding requirement plainly appear from the cases. * * * The amended rulé establishes a time limit for the motion to substitute based not upon the time of the death, but rather upon the time information of the death is provided by means of a suggestion of death upon the record, i. e. service of a statement of the fact of the death.” See Notes of Advisory Committee on the Civil Rules, 28 U.S.C. Rule 25 (1964). Rule 6(b) of the Federal Rules of Civil Procedure was also amended in 1963 and the prohibition against extending the time for taking action under Rule 25 was eliminated. The Advisory Committee on the Civil Rules noted: “It is intended that the court shall have discretion to enlarge that period.” The amendments of Rules 6(b) and 25(a) (1) provided needed flexibility. It was assumed that discretionary extensions would be liberally granted. Movants under Rule 25 can ordinarily control when a death is “suggested upon the record” and appellants’ attorney was under no obligation to file his affidavit of Staggers’ death on the date he did. He could have filed
+he filed a discrimination charge with the Equal Employment Opportunity Commission concerning the conduct of the defendants subsequent to February 28, 1984, the date of decision in an earlier employment discrimination case instituted by Karim-Panahi against several of the same defendants. Instead, the amended complaint alleges that “[a]ll necessary administrative procedures for action under [Title VII] have been utilized in the previous cases against these defendants.” Amended Complaint ¶ 33. Karim-Panahi’s Title VII claim was properly dismissed. When the district court dismisses a pro se Title VII complaint on the ground that plaintiff has failed to allege the receipt of a right-to-sue letter, however, plaintiff must be granted leave to amend the pleading to cure the defect. See Jones v. Bechtel, 788 F.2d 571, 573 (9th Cir.1986) (where complaint failed to allege receipt of right-to-sue letter but plaintiff received such letter after complaint was filed, district court erred in dismissing complaint without affording pro se plaintiff an opportunity to amend complaint to allege receipt of letter). On remand, the district court should advise Karim-Panahi of the necessity of alleging receipt of a right-to-sue letter. E. Claims under California Tort Law Karim-Panahi’s pendent state law tort claims against both the individual and public entity defendants are barred unless he presented them to the City and the LAPD before commencing suit. See Cal. Gov’t Code §§ 905, 945.4, 950.2 (West 1980); Ortega v. O’Connor, 764 F.2d 703, 707 (9th Cir.1985), rev’d on other grounds, — U.S. —, 107 S.Ct. 1492, 94 L.Ed.2d
+
+***short_citations_2:*** 786 F.2d 1382
+
+language in the pro se pleadings. Id. at 151. See also Feistman v. Commissioner, 587 F.2d 941, 942 (9th Cir.1978) (treating pro se taxpayers’ filing liberally). And several district court cases that dealt with tax claims (although not in a Tax Court context) stressed that pro se papers should be held to less stringent standards. See, e.g., O’Neal v. United States, 601 F.Supp. 874, 875 (N.D.Ind.1985); Blair v. United States Treasury Department, 596 F.Supp. 273, 275 (N.D.Ind.1984). These cases have extended the liberality doctrine beyond the prisoner/civil rights context. The policy allowing liberal reading of pro se pleadings is particularly appropriate in tax cases. Taxpayers, unassisted by trained attorneys, are likely to have difficulty understanding the intricacies of tax litigation and procedure. Without legal counsel, they are pitted against the expertise of the Internal Revenue Service in the Tax Court. Tax disputes that involve relatively minor sums may be of great significance to less wealthy taxpayers. Such taxpayers’ access to Tax Court review should not be barred by legal technicalities. Indeed, Rule 41 itself speaks in terms of “when justice so requires,” not in terms of legal technicality. Hence, we remand to the Tax Court to consider the “Motion to Place the Following Statements in the Record” as a motion to amend for both the income averaging and the automobile expenses claims. The court must decide whether to grant this motion for either or both claims. It should consider whether the Commissioner’s Pretrial Memorandum, which notes that the Christensens have
 
 **prev_text:**
-LEVENTHAL, Circuit Judge: The District Court held that Rule 25(a) (1) of the Federal Rules of Civil
-Procedure required dismissal of the plaintiffs’ tort action because defendant’s counsel had filed a
-suggestion of death of the defendant yet plaintiff had not made any substitution of parties within
-90 days. We reverse on the ground that the suggestion of death, which was neither filed by nor
-identified a successor or representative of the deceased, such as an executor or administrator, was
-ineffective to trigger the running of the 90-day period provided by the Rule. Mr. and Mrs. John
-Rende filed an action in the District Court individually and on behalf of their infant son who had
-been struck and injured by Alfred S. Kay while driving his car. On August 27, 1967, defendant Kay
-died. On September 1, 1967, the defendant’s attorney, a term used here to identify the lawyer who
-had been retained by deceased to defend the action, and who had duly entered an appearance as
-attorney for defendant, filed a suggestion of death in the District Court, giving notice to
-plaintiffs’ attorney. That same day there was filed in the Orphans Court for Montgomery County,
-Maryland, residence of the deceased, his will naming his widow as executrix, but the will had not
-been probated, nor any legal representative appointed for the estate at the time of the filing of
-this appeal. Plaintiffs’ attorney was injured on October 14, 1967. On returning to practice early in
-1968, he learned that no successor to defendant Kay had yet been appointed, and he moved to certify
-the case to the ready calendar. The defendant’s attorney opposed this on grounds that discovery
-procedures had not been completed. The case was delayed and placed on the ready calendar as of June
-7, 1968. However, in April 1968, the defendant’s attorney moved in his own name to dismiss the
-action on the ground that Rule 25(a) (1) required plaintiffs to move to substitute a proper party
-for the deceased within 90 days of the suggestion of death. Plaintiffs filed an opposition and
-motion for substitution of the proper party, and sought an extension of the time for substitution as
-allowed by Rule 6(b). At argument, plaintiffs’ counsel asserted the “suggestion of death was
-defective in that it did not list the name of the proper party; that is the legal representative of
-the defendant.” The court responded: “That would not be his burden.” The court dismissed the action
-with prejudice. Prior to its amendment in 1963, Rule 25(a) (1) required the court to dismiss a case
-if no motion for substitution was filed within two. years after date of death, and no extensions of
-this period were allowed under Rule 6(b). The rule was rigorously applied, often with harsh results,
-and was called “easily the poorest rule of all the Federal Rules.” In 1955 the Advisory Committee on
-Rules for Civil Procedure recommended that the two-year period be changed to a “reasonable time”
-standard. In 1961 the Advisory Committee on Civil Rules again suggested the Rule be made more
-flexible. In 1963 the Supreme Court made changes in Rule 25(a) (1) and in Rule 6(b) so as to provide
-a 90-day time limit from the filing of a suggestion of death, and to give the court discretion to
-extend that time. The Committee Notes explaining the amendments state: Present Rule 25(a) (1),
-together with present Rule 6(b), results in an inflexible requirement that an action be dismissed as
-to a deceased party if substitution is not carried out within a fixed period measured from the time
-of death. The hardships and inequities of this unyielding requirement plainly appear from the cases.
-* * * The amended rule establishes a time limit for the motion to substitute based not upon the time
-of the death, but rather upon the time information of the death is provided by means of a suggestion
-of death upon the record. * * * A motion to substitute may be made by any party or by the
-representative of the deceased party without awaiting the suggestion of death. Indeed, the motion
-will usually be so made. If a party or the representative of the deceased party desires to limit the
-time within which another may make the motion, he may do so by suggesting the death upon the record.
-(Emphasis added.) Under the amended Rule either a party or “the successors or representatives of the
-deceased party” may avoid delay in effecting substitution for the deceased party either by filing a
-motion for substitution or by suggesting death on the record and thus triggering the 90-day period
-which begins with suggestion of death. The Advisory Committee, in outlining that suggestion of death
-could be made by “the representative of the deceased party” plainly contemplated that the suggestion
-emanating from the side of the deceased would identify a representative of the estate, such as an
-executor or administrator, who could be substituted for the deceased as a party, with the action
-continued in the name of the representative. The addition of “successor” in the Rule would take care
-of the case of, say, the distributee of an estate that had been distributed, but would not make a
-material difference in the aspect under consideration. Form 30, for suggestion of death, which was
-provided in order to expedite and facilitate implementation of the amendment, provides: A.B.
-[described as a party, or as executor, administrator, or other representative or successor of C.D.,
-the deceased party\ suggests upon the record, pursuant to Rule 25(a) (1), the death of C.D.
-[describe as party] during the pendency of this action. Added Jan. 21, 1963, eff. July 1, 1963.
-[Emphasis added.] Although the attorney for the defendant was retained to “represent” the deceased
-as his counsel, he is not a person who could be made a party, and is not a “representative of the
-deceased party” in the sense contemplated by Rule 25(a) d). In our opinion the Rule, as amended,
-cannot fairly be construed, as the de fendant’s attorney argues, to make his suggestion of death
-operative to trigger the 90-day period even though he was neither a successor nor representative of
-the deceased, and gave no indication of what person was available to be named in substitution as a
-representative of the deceased. Counsel’s construction would open the door to a tactical maneuver to
-place upon the plaintiff the burden of locating the representative of the estate within 90 days. We
-can conceive of cases wherein even the lawyer retained to represent a defendant might know the
-defendant had died, yet not readily know where his estate would be administered. In the present
-case, plaintiff’s attorney did know the court of probate, but he did not know whether probate of the
-will might be contested, or who would be appointed representative of the estate. The tactic of the
-defendant’s attorney would place on plaintiff the burden, where no conventional representative was
-appointed for the estate in probate court, of instituting machinery in order to produce some
-representative of the estate ad litem, pending appointment of the representative contemplated by law
-of the domicile of the deceased.
+ORDER GRANTING IN PART AND DENYING IN PART DEFENDANT’S MOTION FOR SUMMARY JUDGMENT DAVID ALAN EZRA,
+District Judge. Pursuant to Local Rule 7.2(d), the Court finds this matter suitable for disposition
+without a hearing. After reviewing Defendant’s motion and the supporting and opposing memoranda, the
+Court GRANTS IN PART AND DENIES IN PART Defendant’s Motion for Summary Judgment. BACKGROUND
+Plaintiff contracted for the sale of property at 1430 Hunakai Street, # 4, Honolulu, Hawaii 96816
+(the “Property”) on November 17, 2005. On January 30, 2006, Plaintiff applied for and received two
+loans from The Funding Group, Inc., a Nevada corporation. The first loan for $408,000 was secured by
+a first mortgage (“First Mortgage”) on the Property. The bulk of the proceeds from the First
+Mortgage were used to pay off Plaintiffs existing loans and closing costs and the remainder was used
+to purchase the fee interest. The second loan for $102,000 was secured by a second mortgage (“Second
+Mortgage”) on the Property. The proceeds from the Second Mortgage were used to purchase the fee
+simple interest in and to the Property from Kamehameha Schools. Both the First and Second Mortgage
+were recorded at the Bureau of Conveyances of the State of Hawaii (“Bureau”) on February 7, 2006. On
+February 3, 2006, The Funding Group assigned both the First and Second Mortgage to Defendant Option
+One Mortgage Corporation (“Option One”). Subsequently, Option One assigned the First Mortgage to
+Wells Fargo Bank, N.A., as Trustee for Option One Mortgage Loan Trust 2006-2 AsseL-Back
+Certificates, Series 2006-2, a Minnesota corporation (“Wells Fargo”), by a document executed on
+April 24, 2007, and recorded at the Bureau on May 10, 2007. Wells Fargo is still the holder of the
+First Mortgage. Option One is still the holder of the Second Mortgage. On March 29, 2008, Plaintiff
+sent a letter to Option One, attempting to exercise her right to rescind the First and Second
+Mortgages. After apparently not receiving a response, Plaintiff filed a Complaint on July 18, 2008,
+stating that Plaintiff was not provided with the credit term disclosures and notice of right to
+cancel, which is required by the Truth in Lending Act (“TILA”), 15 U.S.C. § 1601 et seq. as
+implemented by 12 C.F.R. Part 226 (“Regulation Z”). This failure to disclose, Plaintiff concludes,
+improperly denied Plaintiff the right of rescission. As a remedy, Plaintiff seeks: (1) the refund of
+all interest charges and closing costs; (2) the immediate halt of the foreclosure auction of the
+Property; and (3) a new mortgage from “the lender”. (Pl.’s Compl. attached as Exhibit A to Def.’s
+Motion for Summary Judgment.) On June 2, 2009, Defendant filed a Motion for Summary Judgment. (Doc.
+# 20.) On July 10, 2009, Plaintiff filed a Memorandum in Opposition (Doc. # 26), and on July 20,
+2009, Defendant filed a reply. (Doc. # 27.) STANDARD OF REVIEW I. Motion for Summary Judgment Rule
+56 requires summary judgment to be granted when “the pleadings, the discovery and disclosure
+materials on file, and any affidavits show that there is no genuine issue as to any material fact
+and that the movant is entitled to judgment as a matter of law.” Fed.R.Civ.P. 56(c); see also Porter
+v. Cal. Dep’t of Corrections, 419 F.3d 885, 891 (9th Cir.2005); Addisu v. Fred Meyer, Inc., 198 F.3d
+1130, 1134 (9th Cir.2000). A main purpose of summary judgment is to dispose of factually unsupported
+claims and defenses. Celotex Corp. v. Catrett, 477 U.S. 317, 323-24, 106 S.Ct. 2548, 91 L.Ed.2d 265
+(1986). Summary judgment must be granted against a party that fails to demonstrate facts to
+establish what will be an essential element at trial. See id. at 323, 106 S.Ct. 2548. A moving party
+without the ultimate burden of persuasion at trial — usually, but not always, the defendant — has
+both the initial burden of production and the ultimate burden of persuasion on a motion for summary
+judgment. Nissan Fire & Marine Ins. Co. v. Fritz Cos., 210 F.3d 1099, 1102 (9th Cir.2000). The
+burden initially falls upon the moving party to identify for the court those “portions of the
+materials on file that it believes demonstrate the absence of any genuine issue of material fact.”
+T.W. Elec. Serv., Inc. v. Pac. Elec. Contractors Ass’n, 809 F.2d 626, 630 (9th Cir.1987) (citing
+Celotex Corp., 477 U.S. at 323, 106 S.Ct. 2548). Once the moving party has carried its burden under
+Rule 56, the non-moving party “must set forth specific facts showing that there is a genuine issue
+for trial” and may not rely on the mere allegations in the pleadings. Porter, 419 F.3d at 891
+(quoting Anderson v. Liberty Lobby, Inc., 477 U.S. 242, 256, 106 S.Ct. 2505, 91 L.Ed.2d 202 (1986)).
+In setting forth “specific facts,” the nonmoving party may not meet its burden on a summary judgment
+motion by making general references to evidence without page or line numbers. S. Cal. Gas Co. v.
+City of Santa Ana, 336 F.3d 885, 889 (9th Cir.2003); Local Rule 56.1(f) (“When resolving motions for
+summary judgment, the court shall have no independent duty to search and consider any part of the
+court record not otherwise referenced in the separate concise statements of the parties.”). “[A]t
+least some ‘significant probative evidence’ ” must be produced. T.W. Elec. Serv., 809 F.2d at 630
+(quoting First Nat’l Bank of Ariz. v. Cities Serv. Co., 391 U.S. 253, 290, 88 S.Ct. 1575, 20 L.Ed.2d
+569 (1968)). “A scintilla of evidence or evidence that is merely colorable or not significantly
+probative does not present a genuine issue of material fact.” Addisu, 198 F.3d at 1134. When “direct
+evidence” produced by the moving party conflicts with “direct evidence” produced by the party
+opposing summary judgment, “the judge must assume the truth of the evidence set forth by the
+nonmoving party with respect to that fact.” T.W. Elec. Serv., 809 F.2d at 631. In other words,
+evidence and inferences must be construed in the light most favorable to the nonmoving party.
+Porter, 419 F.3d at 891. The court does not make credibility determinations or weigh conflicting
+evidence at the summary judgment stage. Id. However, inferences may be drawn from underlying facts
+not in dispute, as well as from disputed facts that the judge is required to resolve in favor of the
+nonmoving party. T.W. Elec. Serv., 809 F.2d at 631. DISCUSSION I. First Mortgage TILA provides that
+a consumer has the right to rescind, among other transactions, a consumer credit transaction in
+which a security interest is retained on the consumer’s home. 15 U.S.C. § 1635(a). This right
+extends until the third business day after the later of two dates: the date on which the transaction
+is consummated, or the date on which disclosure and rescission forms are delivered to the consumer.
+Id. If the creditor fails to deliver the forms or fails to provide the required information, then
+the right to rescind extends for three years after the transaction’s consummation. Id. § 1635(f); 12
+C.F.R. § 226.23(a)(3). Plaintiffs allegation that its right to rescind was not properly disclosed is
+sufficient to bring into play, for purposes of the present motion at least, the extended three-year
+rescission period, which in this case expired January 30, 2009. (Def.’s Motion for Summ. J. Ex. D at
+1.) When Congress enacts statutes creating public rights or benefits, it can impose time limits on
+their availability. Ellis v. Gen. Motors Acceptance Corp., 160 F.3d 703, 706 (11th Cir.1998); accord
+Shendock v. Dir., Office of Workers’ Comp. Programs, 893 F.2d 1458, 1462 (3d Cir.1990). These
+limits, when completely extinguishing the right previously created, deprive courts of jurisdiction.
+Ellis, 160 F.3d at 706. In Beach v. Ocwen Federal Bank, 523 U.S. 410, 118 S.Ct. 1408, 140 L.Ed.2d
+566 (1998), the U.S. Supreme Court held that “section 1635(f) completely extinguishes the right of
+rescission at the end of the three year period.” Id. at 412, 118 S.Ct. 1408. The court stated:
+Section 1635(f) ... takes us beyond any question whether it limits more than the time for bringing a
+suit, by governing the life of the underlying right as well. The subsection says nothing in terms of
+bringing an action but instead provides that the ‘right of rescission [under the Act] shall expire’
+at the end of the time period. It talks not of a suit’s commencement but of a right’s duration,
+which it addresses in terms so straightforward as to render any limitation on the time for seeking a
+remedy superfluous. There is no reason, then, even to resort to the canons of construction that we
+use to resolve doubtful cases, such as the rule that the creation of a right in the same statute
+that provides a limitation is some evidence that the right was meant to be limited, not just the
+remedy- Id. at 417, 118 S.Ct. 1408, quoting § 1635(f), citing Midstate Horticultural Co. v. Penn.
+R.R. Co., 320 U.S. 356, 360, 64 S.Ct. 128, 88 L.Ed. 96 (1943); Burnett v. N.Y. Cent. R.R. Co., 380
+U.S. 424, 427, n. 2, 85 S.Ct. 1050, 13 L.Ed.2d 941 (1965); Davis v. Mills, 194 U.S. 451, 454, 24
+S.Ct. 692, 48 L.Ed. 1067 (1904). The court concluded, “We respect Congress’s manifest intent by
+concluding that the Act permits no federal right to rescind, defensively or otherwise after the
+3-year period of § 1635(f) has run.” Id. at 419. Likewise, the Ninth Circuit Court of Appeals has
+held that section 1635(f) represents an “absolute limitation on rescission actions,” which bars any
+claims filed more than three years after the consummation of the transaction. King v. California,
+784 F.2d 910, 913 (9th Cir.1986). Therefore, § 1635(f) is a statute of repose, depriving this Court
+of subject matter jurisdiction when a § 1635(f) claim is brought outside the three-year limitation
+period. Miguel v. Country Funding Corp., 309 F.3d 1161, 1164 (9th Cir.2002). In this case, the date
+of the consummation of the transaction for the First Mortgage was January 30, 2006. Therefore,
+Plaintiff had until January 30, 2009, before the rescission rights expired. As of this date,
+Plaintiff still has not named Wells Fargo, who is the owner of the First Mortgage, as a defendant to
+this case nor is there any evidence in the record to show that Wells Fargo has any notice of the
+complaint or the existence of the lawsuit. Because Plaintiff did not attempt to rescind against the
+proper entity within the three-year limitation period, her right to rescind has expired. Plaintiff
+argues that she can seek rescission from “any or all of the assignees,” regardless of whether they
+are the current holder of the loan. (Pl.’s Mem. in Opp’n to Mot. for Summ. J. at 3.) Plaintiff
+seemingly misunderstands the legal ramifications of an assignment by insisting that Defendant was
+the current owner of the First Mortgage when the complaint was filed on July 18, 2008. (Id.,
+stating, “The defendant as owner of both the first and second mortgage received ... the complaint
+for rescission[.]”)(emphasis added). An assignment is a “transfer or setting over of property, or of
+some right or interest therein, from one person to another[.]” Alexander M. Burrill, A Treatise on
+the Law and Practice of Voluntary Assignments for the Benefit of Creditors § 1 at 1 (James Avery
+Webb ed., 6th ed. 1894). Once a valid and unqualified assignment is made, all interests and rights
+of the assignor are transferred to the assignee; the assignor loses all control over the thing
+assigned, and cannot do anything to defeat the assignee’s rights. See 6A C.J.S. Assignments § 112,
+p. 1158. In this case, Option One assigned its interests and rights in the First Mortgage to Wells
+Fargo. As such, it may no longer assert dominion over the assigned loan. By the mere fact of the
+assignment, the assignor impliedly guarantees or agrees that he or she will not thereafter interfere
+with the thing assigned, or do anything to defeat or impair the value of the assignment. See
+Lonsdale v. Chesterfield, 99 Wash.2d 353, 662 P.2d 385 (1983). Indeed, any act of dominion by the
+assignor over the thing assigned, depriving the assignee of title or right to possession, is a
+conversion for which the assignor may be held liable in tort. 6A C.J.S. Assignments § 112, p. 1158.
+Option One, therefore, lacks the authority to grant a rescission of the loan or affect any of Wells
+Fargo’s rights or interests to the assignment. Furthermore, the Ninth Circuit has made clear that an
+obligor who wishes to cancel a loan must provide actual notice within the three year limitation
+period to the actual holder of the loan when the notice is given. Miguel, 309 F.3d at 1164— 65
+(holding that district court lacked subject-matter jurisdiction over mortgage dispute with bank,
+lender’s servicing agent, since borrower did not attempt to rescind against the proper entity within
+a three-year limitation period, and her right to rescind expired). Because Plaintiff did not rescind
+against the proper entity within the three-year limitation period, her right to rescind has expired,
+therefore relieving this Court of subject matter jurisdiction on this issue. II. Second Mortgage The
+right to rescind does not arise in all credit transactions in which a security interest in the
+consumer’s principal residence is granted. Originally, the Congressional purpose in creating the
+statutory rescission right was to protect home owners from certain sharp practices of home
+improvement contractors (and those financing such contractors), by creating a rescission right for
+home improvement loans that were secured by residential mortgages on existing dwellings. Heuer v.
+Forest Hill State Bank, 728 F.Supp. 1199, 1200 (D.Md.1989). This federal remedy was thought
+necessary to protect consumers against surprise and oppression stemming from mortgages unwittingly
+executed on homes to pay for often questionable “home improvements.” N.C. Freed Co., Inc. v. Board
+of Governors of the Federal Reserve System, 473 F.2d 1210, 1214-15 (2d Cir.), cert. denied 414 U.S.
+827, 94 S.Ct. 48, 38 L.Ed.2d 61 (1973). Given this Congressional purpose, it is clear that the
+Congress did not intend the rescission obligation (or disclosure of it) to extend to a loan whose
+predominant purpose is to enable the borrower to acquire a new residential structure. Thus, the
+rescission provision of TILA contains a specific exemption for a “residential mortgage transaction,”
+which is defined in the statute as: “a transaction in which a mortgage, deed of trust, purchase
+money security interest arising under an installment sales contract, or equivalent consensual
+security interest is created or retained against the consumer’s swelling to finance the acquisition
+or initial construction of such dwelling.” 15 U.S.C. § 16Q2(w) Under TILA, a residential mortgage
+transaction includes the initial construction financing of the principal dwelling, as well as a
+permanent loan to satisfy the construction financing. See 12 C.F.R. 226, Supp. I 2(a)(24)(4)(1998).
+Moreover, the exemption applies whether it is the same lender providing the permanent financing or
+an entirely different lender. Id. In addition, as long as proceeds from the loan are used to acquire
+the home, the residential mortgage transaction exemption applies, even if some proceeds are used for
+other purposes. In this case, Plaintiff obtained the Second Mortgage in order to purchase the fee
+interest in the Property pursuant to the Sales Contract, and does not dispute that the Second
+Mortgage constitutes a residential mortgage transaction. (Pl.’s Mem. in Opp’n at 4.) Although
+Plaintiff concedes that § 1635(e)(1) generally bars rescission of a residential mortgage
+transaction, Plaintiff insists that § 1635(i) circumvents the restriction of 1635(e)(1) and allows
+for the rescission of a residential mortgage transaction when the lender commences foreclosure.
+Defendant counters that Plaintiff has not provided evidence that a foreclosure process is in
+progress, and therefore does not meet her burden to rebut a motion for summary judgment.
 
 

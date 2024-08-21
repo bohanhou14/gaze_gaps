@@ -1,142 +1,174 @@
 **gold_text:**
-The amendment to Rule 25(a) (1) was intended to dispel unwarranted rigidity and allow more
-flexibility in substitution. “It was intended that liberal effect be given to the 1963 amendment.”
-Roscoe v. Roscoe, 126 U.S.App.D.C. 317, 322, 379 F.2d 94, 99 (1967). “[T]he 90 day period was not
-intended to act as a bar to otherwise meritorious actions.” Staggers v. Otto Gerdau Co., 359 F.2d
-292, 296 (2d Cir. 1966).
+The purpose of the question to which the debtor gave his false oath is to allow the trustee and the
+creditors of the debtor to determine if there should be other assets in the bankruptcy estate. “The
+materiality of a false oath by the debtor will not depend upon whether in fact the falsehood has
+been detrimental to the creditors.” In re Diodati, 9 B.R. 804, 808 (Bankr.D.Mass.1981) quoting In re
+Slocum, 22 F.2d 282, 285 (2d Cir.1927). The debtor’s role in answering the questions on the
+Statement of Affairs is to consider the questions carefully and answer them completely and
+accurately. In re Diodati, 9 B.R. 804, 808 (Bankr.D.Mass.1981).
 
 **Generations:**
 
 
 ***GPT-4o:***
-This stringent interpretation contrasts sharply with the intent of the 1963 amendments to Rule 25
-and Rule 6(b), which aimed to inject flexibility and fairness into the substitution process. As
-noted in 379 F.2d 94 and 359 F.2d 292, the amendments were designed to eliminate the inequities and
-hardships caused by the rigid two-year limitation originally imposed. The Advisory Committee
-emphasized that the revised rules were to be liberally construed to allow courts discretion in
-extending the substitution period, recognizing the difficulties that could arise in promptly
-identifying and notifying the proper representative of the deceased.   Given this context, the
-defendant’s counsel's suggestion of death, which lacked identification of a proper representative,
-failed to initiate the 90-day countdown. This interpretation aligns with the judicial precedent that
-courts should prioritize the equitable administration of justice over strict procedural formalities.
-Thus, the district court erred in dismissing the plaintiffs' action without granting the requested
-extension, especially considering the circumstances that inhibited timely substitution, such as the
-injury to plaintiffs' counsel and the ongoing legal processes in the probate court.  We, therefore,
-reverse the judgment and remand for further proceedings consistent with this opinion, ensuring that
-the substitution process adheres to the flexible and just principles intended by the amendments to
-the Federal Rules of Civil Procedure.
+The reference cases provide further support for the Bank’s objection to the Debtor’s discharge under
+§ 727(a)(4)(A). In **In re Diodati, 9 B.R. 804**, the court emphasized that the debtor must make a
+serious effort to provide honest answers and that a casual attitude toward accuracy equates to
+knowingly and fraudulently making a false oath. The court denied the debtor’s discharge on these
+grounds. Similarly, in **In re Adelson, 22 F.2d 282**, the court held that a bankruptcy discharge
+should be denied if the debtor knowingly and fraudulently makes a false oath respecting a material
+fact. In Adelson’s case, false statements about stock purchases and salary were considered material,
+and the discharge was denied.  In the case at bar, Thomas Howard Cook’s failure to disclose the
+transfer of real estate to Delbert Hammond constitutes a false oath, as defined by these precedents.
+The Debtor’s omission was neither inadvertent nor a simple mistake; rather, it was a deliberate act
+meant to mislead the court and creditors. The false oath directly impairs the trustee's duty to
+verify asset disclosures and fairly distribute the debtor’s estate, meeting the standard for knowing
+and fraudulent intent as set forth in **9 B.R. 804** and **22 F.2d 282**.  This omission is
+undoubtedly material. The sum involved, $5,000, is significant and its disclosure could have
+materially affected the administration of the Debtor’s estate. Thus, the Court concludes that the
+Debtor's discharge is rightly denied under **11 U.S.C. § 727(a)(4)(A)**, following the examples in
+**9 B.R. 804** and **22 F.2d 282**.  Therefore, the ORDER is issued denying the discharge of Thomas
+Howard Cook.
 
 
 **Label:** 
 
 
 ***Meta-Llama-3-8B-Instruct:***
-  In the context of Rule 25(a) (1) of the Federal Rules of Civil Procedure, the suggestion of death
-is a crucial step in the process of substituting a deceased party with a proper representative.
-However, not all suggestions of death are created equal. In cases where the suggestion of death is
-made by a party's attorney, but fails to identify a successor or representative of the deceased, the
-90-day period for substitution may not be triggered.  As noted in 359 F.2d 292, the Advisory
-Committee on Civil Rules intended to provide a more flexible standard for substitution, allowing for
-extensions of time and dispensing with the rigid two-year period previously in place. However, this
-flexibility is contingent upon the suggestion of death providing sufficient information to permit
-the court to proceed with substitution.  In the present case, the suggestion of death made by the
-defendant's attorney was deficient in that it failed to identify a successor or representative of
-the deceased. This lack of specificity rendered the suggestion ineffective in triggering the 90-day
-period for substitution, as explained in 379 F.2d 94.  Furthermore, the court's discretion to
-enlarge the time period for substitution, as provided by Rule 6(b), is not a blank check. Rather, it
-is intended to be exercised in a judicious and reasonable manner, taking into account the particular
-circumstances of each case.  In light of these principles, we conclude that the district court erred
-in dismissing the action with prejudice. The case should be remanded for further proceedings,
-allowing the parties to properly substitute a representative of the deceased and continue the action
-in a manner consistent with the Federal Rules of Civil Procedure.
+  Based on the provided references, I will evaluate the situation and provide an answer.  In the
+context of bankruptcy proceedings, a debtor's false oath can lead to the denial of discharge. The
+references provided, specifically 9 B.R. 804 and 22 F.2d 282, highlight the importance of accuracy
+and honesty in the debtor's financial statements.  In the case at hand, the debtor's Statement of
+Financial Affairs was found to contain false information regarding the transfer of real estate to a
+third party. This false oath was deemed to be made "knowingly and fraudulently" within the meaning
+of § 727(a)(4)(A). The court noted that the debtor's failure to list the transfer was not due to
+mere mistake or inadvertence, but rather a reckless disregard for the serious nature of the
+information sought.  In reaching its conclusion, the court considered the purpose of § 727(a)(4)(A),
+which is to ensure that dependable information is supplied for those interested in administering the
+bankruptcy estate. The court also noted that the trustee and creditors are entitled to honest and
+accurate signposts on the trail showing what property has passed through the debtor's hands during
+the period prior to his bankruptcy.  In light of these references, it is clear that the debtor's
+false oath was material and sufficient to deny him a discharge. The court's decision was supported
+by the evidence presented, which showed that the debtor had knowingly and fraudulently made a false
+oath regarding the transfer of real estate.  In conclusion, the denial of discharge in this case was
+justified due to the debtor's false oath and reckless disregard for the accuracy of his financial
+statements. The references provided, 9 B.R. 804 and 22 F.2d 282, offer valuable insights into the
+importance of honesty and accuracy in bankruptcy proceedings.
 
 
 **Label:** 
 
 
-**citations:** ['379 F.2d 94', '359 F.2d 292']
+**citations:** ['9 B.R. 804', '22 F.2d 282']
 
-***short_citations_0:*** 379 F.2d 94
+***short_citations_0:*** 9 B.R. 804
 
-the proper parties. * * * Unless the motion for substitution is made not later than 90 days after the death is suggested upon the record by service of a statement of the fact of the death as provided herein for the service of the motion, the action shall be dismissed as to the deceased party.” Here not only had the 90-day period not expired when the court entered summary judgment, the appellant by her motion for reconsideration had specifically invoked the discretion of the court. Rule 6(b) provides pertinently that when “by these rules * * * an act is required or allowed to be done at or within a specified time, the court for cause shown may at any time in its discretion (1) with or without motion or notice order the period enlarged if request therefor is made before the expiration of the period originally prescribed * * Originally the Rule had precluded an extension of time for taking action under Rule 25(a) (1), but by purposeful amendment, it was sought to relieve against the hardship of the Court’s holding in Anderson v. Yungkau, 329 U.S. 482, 67 S.Ct. 428, 91 L.Ed. 436 (1947). It was intended that liberal effect be given to the 1963 amendment. Graham v. Pennsylvania Railroad, 119 U.S.App.D.C. 335, 342 F.2d 914 (1964), cert. denied, 381 U.S. 904, 85 S.Ct. 1446, 14 L.Ed.2d 286 (1965). We are constrained to reverse for further proceedings not inconsistent with this opinion. Reversed. The only “party” then
+make an evaluation of the Debtor’s financial condition and for the Trustee to make and the creditors to be satisfied that they are receiving the fullest pro rata distribution. The $20.00 paid the Trustee is hardly enough to expect him or her to have to verify a no asset filing. The fresh start offered by the 1978 Act may well be the most extensive since the seven year release described in the Old Testament and what is required of the Debtor is that in asking for this relief he not be deliberately dishonest. Here, seven significant and relevant financial facts known to the Debtor to exist were represented unequivocally as not existing in answer to simple and direct questions. While scrupulous accuracy would be ideal, in the practical affairs of men it is not required; however, a serious effort at providing honest answers is required. A cavalier casual attitude toward the importance of accurate, complete and honest answers in this context equates to knowingly and fraudulently making a false oath. An order should issue denying the Debt- or, James Diodati, a discharge in bankruptcy due to his false oaths in violation of 11 U.S.C. § 727(a)(4)(A). . The consolidated adversary proceedings also included a complaint by the Plaintiffs alleging a fraudulent conveyance, which was found against them from the bench at the conclusion of the trial, and a complaint for non-dischargeability also brought by the same Plaintiffs. I rule against the Plaintiffs on this cause of action for dischargeability because,
 
-***short_citations_1:*** 359 F.2d 292
+***short_citations_1:*** 22 F.2d 282
 
-insertion of a “reasonable time” standard. In 1963, the Advisory Committee suggested the present rule and noted: “Present Rule 25(a) (1), together with present Rule 6(b), results in an inflexible requirement that an action be dismissed as to a deceased party if substitution is not carried out within a fixed period measured from the time of the death. The hardships and inequities of this unyielding requirement plainly appear from the cases. * * * The amended rulé establishes a time limit for the motion to substitute based not upon the time of the death, but rather upon the time information of the death is provided by means of a suggestion of death upon the record, i. e. service of a statement of the fact of the death.” See Notes of Advisory Committee on the Civil Rules, 28 U.S.C. Rule 25 (1964). Rule 6(b) of the Federal Rules of Civil Procedure was also amended in 1963 and the prohibition against extending the time for taking action under Rule 25 was eliminated. The Advisory Committee on the Civil Rules noted: “It is intended that the court shall have discretion to enlarge that period.” The amendments of Rules 6(b) and 25(a) (1) provided needed flexibility. It was assumed that discretionary extensions would be liberally granted. Movants under Rule 25 can ordinarily control when a death is “suggested upon the record” and appellants’ attorney was under no obligation to file his affidavit of Staggers’ death on the date he did. He could have filed
+* ” The false oath relied upon by the objecting creditors consisted in testimony given by the bankrupt upon his examination before the referee at the first meeting of his creditors. Such examination is a “proceeding in bankruptcy,” within the meaning of section 29 (b), and a bankrupt who has knowingly and fraudulently made a false oath respecting a material fact at the first meeting of creditors is not entitled to a discharge. In re Gaylord, 112 F. 668 (C. C. A. 2); In re Zoffer, 211 F. 936 (C. C. A. 2). Several grounds of objection were specified by the creditors, but only two were sustained by the special master, One of them alleged that -the bankrupt had falsely sworn that he had not purchased any shares of National Tin stock from one Lederer; the other that he had falsely sworn that in 1919 he did not receive any salary from the Corbett Company. The master’s report stated: “As to objection (a), I am fully satisfied that the bankrupt did buy National Tin stock from Lederer and gave notes in payment for same, and that this stock, or the major part of it, was afterwards sold. Whether Adelson was the one who really benefited by the transaction, or whether the estate would be any better off if the bankrupt had testified fully, honestly and frankly, I am not prepared to say; but at any rate the trustee and creditors were entitled to the information which I feel sure the
 
 **prev_text:**
-LEVENTHAL, Circuit Judge: The District Court held that Rule 25(a) (1) of the Federal Rules of Civil
-Procedure required dismissal of the plaintiffs’ tort action because defendant’s counsel had filed a
-suggestion of death of the defendant yet plaintiff had not made any substitution of parties within
-90 days. We reverse on the ground that the suggestion of death, which was neither filed by nor
-identified a successor or representative of the deceased, such as an executor or administrator, was
-ineffective to trigger the running of the 90-day period provided by the Rule. Mr. and Mrs. John
-Rende filed an action in the District Court individually and on behalf of their infant son who had
-been struck and injured by Alfred S. Kay while driving his car. On August 27, 1967, defendant Kay
-died. On September 1, 1967, the defendant’s attorney, a term used here to identify the lawyer who
-had been retained by deceased to defend the action, and who had duly entered an appearance as
-attorney for defendant, filed a suggestion of death in the District Court, giving notice to
-plaintiffs’ attorney. That same day there was filed in the Orphans Court for Montgomery County,
-Maryland, residence of the deceased, his will naming his widow as executrix, but the will had not
-been probated, nor any legal representative appointed for the estate at the time of the filing of
-this appeal. Plaintiffs’ attorney was injured on October 14, 1967. On returning to practice early in
-1968, he learned that no successor to defendant Kay had yet been appointed, and he moved to certify
-the case to the ready calendar. The defendant’s attorney opposed this on grounds that discovery
-procedures had not been completed. The case was delayed and placed on the ready calendar as of June
-7, 1968. However, in April 1968, the defendant’s attorney moved in his own name to dismiss the
-action on the ground that Rule 25(a) (1) required plaintiffs to move to substitute a proper party
-for the deceased within 90 days of the suggestion of death. Plaintiffs filed an opposition and
-motion for substitution of the proper party, and sought an extension of the time for substitution as
-allowed by Rule 6(b). At argument, plaintiffs’ counsel asserted the “suggestion of death was
-defective in that it did not list the name of the proper party; that is the legal representative of
-the defendant.” The court responded: “That would not be his burden.” The court dismissed the action
-with prejudice. Prior to its amendment in 1963, Rule 25(a) (1) required the court to dismiss a case
-if no motion for substitution was filed within two. years after date of death, and no extensions of
-this period were allowed under Rule 6(b). The rule was rigorously applied, often with harsh results,
-and was called “easily the poorest rule of all the Federal Rules.” In 1955 the Advisory Committee on
-Rules for Civil Procedure recommended that the two-year period be changed to a “reasonable time”
-standard. In 1961 the Advisory Committee on Civil Rules again suggested the Rule be made more
-flexible. In 1963 the Supreme Court made changes in Rule 25(a) (1) and in Rule 6(b) so as to provide
-a 90-day time limit from the filing of a suggestion of death, and to give the court discretion to
-extend that time. The Committee Notes explaining the amendments state: Present Rule 25(a) (1),
-together with present Rule 6(b), results in an inflexible requirement that an action be dismissed as
-to a deceased party if substitution is not carried out within a fixed period measured from the time
-of death. The hardships and inequities of this unyielding requirement plainly appear from the cases.
-* * * The amended rule establishes a time limit for the motion to substitute based not upon the time
-of the death, but rather upon the time information of the death is provided by means of a suggestion
-of death upon the record. * * * A motion to substitute may be made by any party or by the
-representative of the deceased party without awaiting the suggestion of death. Indeed, the motion
-will usually be so made. If a party or the representative of the deceased party desires to limit the
-time within which another may make the motion, he may do so by suggesting the death upon the record.
-(Emphasis added.) Under the amended Rule either a party or “the successors or representatives of the
-deceased party” may avoid delay in effecting substitution for the deceased party either by filing a
-motion for substitution or by suggesting death on the record and thus triggering the 90-day period
-which begins with suggestion of death. The Advisory Committee, in outlining that suggestion of death
-could be made by “the representative of the deceased party” plainly contemplated that the suggestion
-emanating from the side of the deceased would identify a representative of the estate, such as an
-executor or administrator, who could be substituted for the deceased as a party, with the action
-continued in the name of the representative. The addition of “successor” in the Rule would take care
-of the case of, say, the distributee of an estate that had been distributed, but would not make a
-material difference in the aspect under consideration. Form 30, for suggestion of death, which was
-provided in order to expedite and facilitate implementation of the amendment, provides: A.B.
-[described as a party, or as executor, administrator, or other representative or successor of C.D.,
-the deceased party\ suggests upon the record, pursuant to Rule 25(a) (1), the death of C.D.
-[describe as party] during the pendency of this action. Added Jan. 21, 1963, eff. July 1, 1963.
-[Emphasis added.] Although the attorney for the defendant was retained to “represent” the deceased
-as his counsel, he is not a person who could be made a party, and is not a “representative of the
-deceased party” in the sense contemplated by Rule 25(a) d). In our opinion the Rule, as amended,
-cannot fairly be construed, as the de fendant’s attorney argues, to make his suggestion of death
-operative to trigger the 90-day period even though he was neither a successor nor representative of
-the deceased, and gave no indication of what person was available to be named in substitution as a
-representative of the deceased. Counsel’s construction would open the door to a tactical maneuver to
-place upon the plaintiff the burden of locating the representative of the estate within 90 days. We
-can conceive of cases wherein even the lawyer retained to represent a defendant might know the
-defendant had died, yet not readily know where his estate would be administered. In the present
-case, plaintiff’s attorney did know the court of probate, but he did not know whether probate of the
-will might be contested, or who would be appointed representative of the estate. The tactic of the
-defendant’s attorney would place on plaintiff the burden, where no conventional representative was
-appointed for the estate in probate court, of instituting machinery in order to produce some
-representative of the estate ad litem, pending appointment of the representative contemplated by law
-of the domicile of the deceased.
+Findings of Fact, Conclusions of Law, and ORDER Sustaining Complaint Objecting to Discharge Pursuant
+to § 727 WILLIAM W. THINNES, Bankruptcy Judge. The matter before the Court is the Complaint filed by
+The First National Bank of Mason City (Bank) objecting to the discharge of Thomas Howard Cook
+(Debtor). Attorney John L. Duffy represented the Bank and Attorney David M. Nelsen represented the
+Debtor. The Court, being fully advised and pursuant to E7R.B.P. 7052, now makes the following
+Findings of Fact, Conclusions of Law, and Orders. I. 11 U.S.C. § 727(a)(b) The Bank’s basis for
+objecting to the discharge of the Debtor is 11 U.S.C. 727(a)(4)(A): (a) The Court shall grant the
+debtor a discharge, unless— (4) the debtor knowingly and fraudulently, in connection with the ease
+(A) made a false oath or account .... To support its contention, the Bank points to the Statement of
+Financial Affairs submitted by the Debtor at the time of the filing of the Petition. Specifically,
+the Bank points to Question 12, which inquired of the Debtor: a. Have you made any gifts, other than
+ordinary and usual presents to family members ..., during the year immediately preceding the filing
+of the original petition herein? ... (b) Have you made any other transfer, absolute or for the
+purpose of security, or any other disposition, of real or tangible personal property during the year
+immediately preceding the filing of the original petition herein? The Debtor responded with an
+unqualified “No” to Question 12. Also germane to the case at bar is that the Debtor at the end of
+the Statement of Financial Affairs “cer-tif[ied] under penalty of perjury that [he has] read the
+answers contained in the foregoing statement of financial affairs and that they are true and correct
+to the best of [his] knowledge, information and belief.” See generally, 28 U.S.C. § 1746 (1976). At
+trial it was revealed that during the year prior to the filing of his Petition, the Debtor
+transferred two lots, a boat, a trailer, and various sums of cash to his children. In addition, a
+third lot was transferred to an unrelated third party. As noted earlier, these transfers were not
+revealed in his response to Question 12. 1. False Oath a. Transfers to Children One element
+necessary to support a § 727(a)(4)(A) contention is a false oath. With respect to the cash, the
+boat, trailer, and two lots transferred to his children, the Debtor asserts that no falsity was
+perpetrated. Specifically, the Debtor contends that the transfers were “ordinary and usual presents
+to family members” and therefore not within the purview of Question 12(a). The debtor’s contention
+has merit. The inquiry sought by Question 12(a) is necessitated by 11 U.S.C. § 521(1): ; ’ The
+debtor shall— (1) file ... unless the court orders otherwise ... a statement of the debtor’s
+financial affairs_ Because the statute does not enumerate explicit requirements, the “contents of
+the statement is [sic] left entirely to the Rules of Bankruptcy Procedure.” 3 Collier on Bankruptcy,
+¶ 521.09, at 521-36 (15th ed. 1983). At the time of the filing of the Debtor’s Petition, Local Rule
+1007(c) required the filing of a statement of financial affairs “in the manner prescribed by
+[official] form ... No. 7.” However, neither the rule, nor the form defined “ordinary and usual
+presents to family members.” In order to gauge whether the Debtor perpetrated a false oath, this
+Court must determine the meaning of the term “ordinary and usual presents to family members” in
+Question 12(a). In Glidden Rural Electric Co-op v. Iowa Employment Security Commission, 236 Iowa
+910, 20 N.W.2d 435, 438 -(1945), the court defined the term “usual” as “such as occurs in ... the
+ordinary course of events; customary; ... habitual.” Similarly, in Chicago & A.R.R. v. House, 172
+Ill. 601, 50 N.E. 151, 153 (1893), the court defined the term “ordinary” as “common ... [and] often
+recurring.” Applying these definitions to the case at bar, this court finds that the transfers
+between the Debt- or and his children were indeed “ordinary and usual presents to family members.”
+First, there is no dispute that the Debt- or’s children are “family members." Second, there is
+little dispute that the transfers were in the nature of “presents.” Third, the presents were indeed
+“ordinary” in that they have been “often recurring.” Indeed, exhibits admitted at the trial revealed
+a steady pattern of gifts (in the form of checks to the children) since 1978. Fourth, the presents
+were “usual” in that they were in “the ordinary course of events, customary, ... [and] habitual.”
+Certainly wedding gifts (boat and trailer) to one’s daughter are “customary.” Similarly, the
+Debtor’s wife testified that she and her husband had a “habit and custom of giving gifts to
+children.” In sum, this Court finds that the transfers between the Debtor and his children were
+“ordinary and usual presents to family members.” Because Question 12(a) sought the listing of only
+those gifts that are “other than ordinary and usual presents to family members,” no falsity was
+perpetrated when the Debtor responded with a “No” to Question 12(a). Discharge therefore will not be
+denied the Debtor under § 727(a)(4)(A) on the basis of these transfers to his children. See, e.g.,
+In re Golowaty, 13 B.R. 781, 784, (Bankr.D.Vt.1981) (no false oath; discharge not denied). b.
+Transfer to Third Party The record also reveals that about one month before the filing of the
+Bankruptcy Petition, the Debtor, via Warranty Deed, transferred a piece of real estate to one
+Delbert Hammond. On the “Declaration of Value” form submitted to the County Assessor, a value of
+$5,000 was disclosed as the amount paid by the buyer. Noting that the Debtor answered “No” to
+Question 12(b), the Bank contends that § 727(a)(4)(A) has been violated. Question 12(b) inquires of
+the Debtor “any ... transfer, absolute or for the purpose of security, ... of real ... property
+during the year immediately preceding the filing of the original petition.” Unlike his response to
+Question 12(a), Debtor’s answer to Question 12(b) was false. Real estate was undoubtedly transferred
+to Delbert Hammond during the year before the filing. Further, because the Debtor certified to the
+truthfulness of his answer, an oath was effected. See, Note, Local Official Form No. 1; Advisory
+Committee Note, F.R.B.P. Official Form No. 1. See generally, 28 U.S.C. § 1746 (1976). In sum, this
+Court holds that the Debtor has perpetrated a false oath within the meaning of § 727(a)(4)(A). See,
+e.g., In re Irving, 27 B.R. 943, 945, (Bankr.E.D.N. Y.1983). 2. “Knowingly and Fraudulently” Having
+determined that a false oath was perpetrated, the next issue is whether such false oath was made
+“knowingly and fraudulently” within the meaning of § 727(a)(4)(A). The purpose and applicable
+standards of inquiry in a § 727(a)(4)(A) case is perhaps best summarized as follows: The primary
+purpose of § 727(a)(4)(A) of the Code, and its predecessor, § 14c(l) of the Bankruptcy Act, is to
+insure that dependable information is supplied for those interested in administration of the
+bankruptcy estate from which they can rely without a need for the trustee or other interested
+parties to dig out the true facts in examinations or investigations. The trustee and creditors are
+entitled to honest and accurate signposts on the trail showing what property has passed through the
+debtor’s hands during the period prior to his bankruptcy. While a false statement in the schedules
+or statement of affairs due to mere mistake or inadvertence is not sufficient for a denial of
+discharge — fraudulent intent is necessary to bar a discharge, the courts have held that a reckless
+disregard of both the serious nature of the information sought and the necessary attention to detail
+and accuracy in answering may rise to the level of fraudulent intent necessary to bar a discharge.
+In re Diodati, 9 B.R. 804, 807-08 (Bankr.D. Mass.1981) (citations omitted); accord, In re Mazzola, 4
+B.R. 179, 181-82 (Bankr.D. Mass.1980); see, Irving, 27 B.R. at 945; see also, In re Gonday, 27 B.R.
+428, 433 (Bankr.M.D.La.1983) (simple mistake or inadvertence not equivalent of fraud); In re
+Gugliada, 20 B.R. 524, 528 (Bankr.S.D.N. Y.1982). Applying the above purpose and standards to the
+case at bar, this Court finds and concludes that the Debtor knowingly -and fraudulently omitted from
+his Statement of Financial Affairs the real estate transfer to Delbert Hammond. At the hearing, the
+Debtor offered no adequate explanation of his failure to list the Hammond transfer. The only
+justification was that the transfer would have occurred earlier had there been no “abstract
+problems.” While this timing inconvenience may explain why the transfer occurred one month before
+filing, it does not excuse failure to list the transfer on the statement. Similarly, while one may
+attribute the Debtor’s response to Question 12(b) as mere inadvertence or inattention to detail, the
+record is devoid of any mitigating facts to support a finding of inadvertence or inattention. In
+sum, this Court has little choice but to find that the Debtor has fraudulently and knowingly made a
+false oath. 3. Materiality. Having found that the Debtor has fraudulently and knowingly made a false
+oath the Court must determine if it relates to a material fact. In re Braidis, 27 B.R. 470, 472
+(Bankr.E.D.Penn.1983). The Court observes that the debtor received the not insubstantial sum of
+$5,000 from the transaction. Numerous other courts have been faced with questions regarding the
+discharge of debtors who made false oaths and have denied the debtor a discharge based upon false
+oaths involving much smaller sums than the $5,000 involved herein.
 
 

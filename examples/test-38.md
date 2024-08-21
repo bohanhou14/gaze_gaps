@@ -1,142 +1,188 @@
 **gold_text:**
-The amendment to Rule 25(a) (1) was intended to dispel unwarranted rigidity and allow more
-flexibility in substitution. “It was intended that liberal effect be given to the 1963 amendment.”
-Roscoe v. Roscoe, 126 U.S.App.D.C. 317, 322, 379 F.2d 94, 99 (1967). “[T]he 90 day period was not
-intended to act as a bar to otherwise meritorious actions.” Staggers v. Otto Gerdau Co., 359 F.2d
-292, 296 (2d Cir. 1966).
+In the instant case I find no basis, other than petitioner’s allegations, to conclude that any fraud
+or misrepresentations were practiced upon him in connection with his enlistment in the Army. I also
+find that the agreements petitioner entered into with the Army clearly did not promise him a JAGC
+position upon graduation from law school and admission to the bar. Furthermore petitioner, a college
+and law school student, had the capacity to read and understand these agreements. In the absence of
+fraud or imposition, Chalfant v. Laird, 420 F.2d 945 (9th Cir.1969), non-negligent or negligent
+misrepresentations, Pence v. Brown, 627 F.2d 872 (8th Cir. 1980), or ambiguity in the agreements
+themselves, Dubeau v. Commanding Officer, 440 F.Supp. 747 (D.Mass.1977), petitioner is bound by the
+contents of the agreements. It is therefore unlikely, for the purposes of this motion, that
+petitioner will succeed on the merits of his contract claim.
 
 **Generations:**
 
 
 ***GPT-4o:***
-This stringent interpretation contrasts sharply with the intent of the 1963 amendments to Rule 25
-and Rule 6(b), which aimed to inject flexibility and fairness into the substitution process. As
-noted in 379 F.2d 94 and 359 F.2d 292, the amendments were designed to eliminate the inequities and
-hardships caused by the rigid two-year limitation originally imposed. The Advisory Committee
-emphasized that the revised rules were to be liberally construed to allow courts discretion in
-extending the substitution period, recognizing the difficulties that could arise in promptly
-identifying and notifying the proper representative of the deceased.   Given this context, the
-defendant’s counsel's suggestion of death, which lacked identification of a proper representative,
-failed to initiate the 90-day countdown. This interpretation aligns with the judicial precedent that
-courts should prioritize the equitable administration of justice over strict procedural formalities.
-Thus, the district court erred in dismissing the plaintiffs' action without granting the requested
-extension, especially considering the circumstances that inhibited timely substitution, such as the
-injury to plaintiffs' counsel and the ongoing legal processes in the probate court.  We, therefore,
-reverse the judgment and remand for further proceedings consistent with this opinion, ensuring that
-the substitution process adheres to the flexible and just principles intended by the amendments to
-the Federal Rules of Civil Procedure.
+Constitutional Claim  Petitioner’s constitutional claim hinges on alleged retaliation against him
+for his critical speech about the Defense Officer Personnel Management Act (DOPMA). He argues that
+his First Amendment rights were violated because his outspoken stance on DOPMA negatively impacted
+his application for a JAGC position.  In analyzing this claim, it is essential to consider the
+threshold for proving retaliation in First Amendment claims. Petitioner must demonstrate a causal
+link between his protected speech and the adverse action taken against him. However, the provided
+facts do not sufficiently substantiate this claim. While there is evidence that his critical letters
+were part of his application file, there is no concrete evidence indicating that his rejection was
+directly caused by these letters.  Reviewing similar cases, such as Novak v. Rumsfeld, 423 F.Supp.
+971, 972 (D.C.Cal.1976), which emphasizes the necessity of clear evidence linking protected speech
+to adverse military decisions, petitioner’s claim lacks the required evidentiary support. Equally
+important is the recognition from case law, including Bemis v. Whalen, 341 F.Supp. 1289
+(S.D.Cal.1972), that the burden of proof in such claims lies heavily on the petitioner.  Conclusion
+Based on the analysis of both contract and constitutional claims, it is evident that petitioner has
+not demonstrated a likelihood of success on the merits. Consequently, the request for a preliminary
+injunction is denied.  SO ORDERED.
 
 
 **Label:** 
 
 
 ***Meta-Llama-3-8B-Instruct:***
-  In the context of Rule 25(a) (1) of the Federal Rules of Civil Procedure, the suggestion of death
-is a crucial step in the process of substituting a deceased party with a proper representative.
-However, not all suggestions of death are created equal. In cases where the suggestion of death is
-made by a party's attorney, but fails to identify a successor or representative of the deceased, the
-90-day period for substitution may not be triggered.  As noted in 359 F.2d 292, the Advisory
-Committee on Civil Rules intended to provide a more flexible standard for substitution, allowing for
-extensions of time and dispensing with the rigid two-year period previously in place. However, this
-flexibility is contingent upon the suggestion of death providing sufficient information to permit
-the court to proceed with substitution.  In the present case, the suggestion of death made by the
-defendant's attorney was deficient in that it failed to identify a successor or representative of
-the deceased. This lack of specificity rendered the suggestion ineffective in triggering the 90-day
-period for substitution, as explained in 379 F.2d 94.  Furthermore, the court's discretion to
-enlarge the time period for substitution, as provided by Rule 6(b), is not a blank check. Rather, it
-is intended to be exercised in a judicious and reasonable manner, taking into account the particular
-circumstances of each case.  In light of these principles, we conclude that the district court erred
-in dismissing the action with prejudice. The case should be remanded for further proceedings,
-allowing the parties to properly substitute a representative of the deceased and continue the action
-in a manner consistent with the Federal Rules of Civil Procedure.
+  In reviewing the case, it is clear that the petitioner's likelihood of success on the merits of
+his contract claim is minimal. The plain language of the enlistment contract does not indicate that
+Mr. Tremblay was being guaranteed a position in the JAGC. Additionally, the delay agreement and
+letter from an Army official put petitioner on notice that he was not assured of a JAGC position.
+The cases cited by petitioner, such as Pence v. Brown, 627 F.2d 872 (8th Cir.1980), are
+distinguishable from the instant case on a number of grounds.  In Pence, there was evidence beyond
+the plaintiff's allegations that misrepresentations were actually made, and the plaintiff relied on
+these misrepresentations in deciding to enlist. In contrast, there is no evidence in the instant
+case beyond petitioner's uncorroborated allegations that any oral representations concerning a JAGC
+position were made to him or that he relied on any such representations.  Furthermore, the
+enlistment contract in the instant case, unlike that in Pence, clearly and specifically put
+petitioner on notice that he was not promised a specific duty assignment in the Army. The
+supplemental delay agreement also clearly could not have led petitioner to believe he was promised a
+specific duty assignment given its conjunctive reference to a duty assignment "consistent with post-
+graduate subject discipline and military requirements" (emphasis added).  In conclusion, based on
+the evidence presented, it is clear that the petitioner's likelihood of success on the merits of his
+contract claim is minimal. The court's findings and conclusions are supported by the trial court's
+findings and are not clearly erroneous. The judgment is therefore affirmed.
 
 
 **Label:** 
 
 
-**citations:** ['379 F.2d 94', '359 F.2d 292']
+**citations:** ['420 F.2d 945', '627 F.2d 872']
 
-***short_citations_0:*** 379 F.2d 94
+***short_citations_0:*** 420 F.2d 945
 
-the proper parties. * * * Unless the motion for substitution is made not later than 90 days after the death is suggested upon the record by service of a statement of the fact of the death as provided herein for the service of the motion, the action shall be dismissed as to the deceased party.” Here not only had the 90-day period not expired when the court entered summary judgment, the appellant by her motion for reconsideration had specifically invoked the discretion of the court. Rule 6(b) provides pertinently that when “by these rules * * * an act is required or allowed to be done at or within a specified time, the court for cause shown may at any time in its discretion (1) with or without motion or notice order the period enlarged if request therefor is made before the expiration of the period originally prescribed * * Originally the Rule had precluded an extension of time for taking action under Rule 25(a) (1), but by purposeful amendment, it was sought to relieve against the hardship of the Court’s holding in Anderson v. Yungkau, 329 U.S. 482, 67 S.Ct. 428, 91 L.Ed. 436 (1947). It was intended that liberal effect be given to the 1963 amendment. Graham v. Pennsylvania Railroad, 119 U.S.App.D.C. 335, 342 F.2d 914 (1964), cert. denied, 381 U.S. 904, 85 S.Ct. 1446, 14 L.Ed.2d 286 (1965). We are constrained to reverse for further proceedings not inconsistent with this opinion. Reversed. The only “party” then
+to Vietnam and the request was denied. The district court heard the case including the oral testimony of appellant as constituting an offer of proof. The district court found “There is no basis for the Court to conclude that there was any fraud practiced upon the petitioner in connection with his enlistment contract ; nor were there any false or fraudulent inducements, representations, promises, or guarantees that prompted or caused petitioner to sign his contract of enlistment.” Obviously the court did not credit appellant’s sworn testimony. In his original complaint and affidavits petitioner stated that the “guarantee” that he would not be sent to Vietnam was made by Sergeants Thomas and French. The Government’s motion to dismiss included a statement by Sergeant Thomas in contradiction to appellant’s claim. Thomas was thus apparently available to the Army for testimony. But Sergeant French could not be located. Appellant then testified before the court that the supposed “guarantee” was made only by Sergeant French. Appellant had the capacity to read and understand the “Statement of Understanding” and in absence of fraud or imposition he is bound by its contents. See Dobler v. Story, (9 Cir. 1959) 268 F.2d 274, 277. This case is controlled by the trial court’s findings and we cannot say they were clearly erroneous. We do not reach the questions counsel press upon us — when and under what conditions may the courts interfere with military duty assignments or other legitimate military orders and directions to service personnel. The judgment
 
-***short_citations_1:*** 359 F.2d 292
+***short_citations_1:*** 627 F.2d 872
 
-insertion of a “reasonable time” standard. In 1963, the Advisory Committee suggested the present rule and noted: “Present Rule 25(a) (1), together with present Rule 6(b), results in an inflexible requirement that an action be dismissed as to a deceased party if substitution is not carried out within a fixed period measured from the time of the death. The hardships and inequities of this unyielding requirement plainly appear from the cases. * * * The amended rulé establishes a time limit for the motion to substitute based not upon the time of the death, but rather upon the time information of the death is provided by means of a suggestion of death upon the record, i. e. service of a statement of the fact of the death.” See Notes of Advisory Committee on the Civil Rules, 28 U.S.C. Rule 25 (1964). Rule 6(b) of the Federal Rules of Civil Procedure was also amended in 1963 and the prohibition against extending the time for taking action under Rule 25 was eliminated. The Advisory Committee on the Civil Rules noted: “It is intended that the court shall have discretion to enlarge that period.” The amendments of Rules 6(b) and 25(a) (1) provided needed flexibility. It was assumed that discretionary extensions would be liberally granted. Movants under Rule 25 can ordinarily control when a death is “suggested upon the record” and appellants’ attorney was under no obligation to file his affidavit of Staggers’ death on the date he did. He could have filed
+as majors. The trial court’s finding that the misrepresentations were made and that they were material cannot now be overturned unless it is clearly erroneous. There is ample proof in the record to support the finding of material misrepresentation on the basis of the testimony of Doctors Pence, Nelson, Chailett, and Robinson, and Captain Glen Havel, an Air Force recruiter. The District Court further found that Dr. Pence had been induced to enter the contract by these misrepresentations and that the “difference in grade . . . [was] a material factor to the execution of the contract.” We find no error in this conclusion. Claims that an enlistment contract is invalid or has been breached are decided under traditional principles of contract law. Peavy v. Warner, 493 F.2d 748 (5th Cir. 1974). When a contract has been procured by fraud or material misrepresentation, even though innocently and non-negligently made, the injured party may rescind the contract. United Forest Products Co. v. Baxter, 452 F.2d 11, 16 (8th Cir. 1971); Restatement of the Law of Contracts, § 476, comment (b). The enlistment contract is subject to these principles. Bemis v. Whalen, 341 F.Supp. 1289 (S.D.Cal.1972). In Shelton v. Brunson, 465 F.2d 144 (5th Cir. 1972), for example, the petitioner had been led to believe when he signed a reenlistment agreement that he had been certified as physically qualified for a commission. After he signed the agreement the Air Force found he did not meet the physical qualifications, and he was dropped
 
 **prev_text:**
-LEVENTHAL, Circuit Judge: The District Court held that Rule 25(a) (1) of the Federal Rules of Civil
-Procedure required dismissal of the plaintiffs’ tort action because defendant’s counsel had filed a
-suggestion of death of the defendant yet plaintiff had not made any substitution of parties within
-90 days. We reverse on the ground that the suggestion of death, which was neither filed by nor
-identified a successor or representative of the deceased, such as an executor or administrator, was
-ineffective to trigger the running of the 90-day period provided by the Rule. Mr. and Mrs. John
-Rende filed an action in the District Court individually and on behalf of their infant son who had
-been struck and injured by Alfred S. Kay while driving his car. On August 27, 1967, defendant Kay
-died. On September 1, 1967, the defendant’s attorney, a term used here to identify the lawyer who
-had been retained by deceased to defend the action, and who had duly entered an appearance as
-attorney for defendant, filed a suggestion of death in the District Court, giving notice to
-plaintiffs’ attorney. That same day there was filed in the Orphans Court for Montgomery County,
-Maryland, residence of the deceased, his will naming his widow as executrix, but the will had not
-been probated, nor any legal representative appointed for the estate at the time of the filing of
-this appeal. Plaintiffs’ attorney was injured on October 14, 1967. On returning to practice early in
-1968, he learned that no successor to defendant Kay had yet been appointed, and he moved to certify
-the case to the ready calendar. The defendant’s attorney opposed this on grounds that discovery
-procedures had not been completed. The case was delayed and placed on the ready calendar as of June
-7, 1968. However, in April 1968, the defendant’s attorney moved in his own name to dismiss the
-action on the ground that Rule 25(a) (1) required plaintiffs to move to substitute a proper party
-for the deceased within 90 days of the suggestion of death. Plaintiffs filed an opposition and
-motion for substitution of the proper party, and sought an extension of the time for substitution as
-allowed by Rule 6(b). At argument, plaintiffs’ counsel asserted the “suggestion of death was
-defective in that it did not list the name of the proper party; that is the legal representative of
-the defendant.” The court responded: “That would not be his burden.” The court dismissed the action
-with prejudice. Prior to its amendment in 1963, Rule 25(a) (1) required the court to dismiss a case
-if no motion for substitution was filed within two. years after date of death, and no extensions of
-this period were allowed under Rule 6(b). The rule was rigorously applied, often with harsh results,
-and was called “easily the poorest rule of all the Federal Rules.” In 1955 the Advisory Committee on
-Rules for Civil Procedure recommended that the two-year period be changed to a “reasonable time”
-standard. In 1961 the Advisory Committee on Civil Rules again suggested the Rule be made more
-flexible. In 1963 the Supreme Court made changes in Rule 25(a) (1) and in Rule 6(b) so as to provide
-a 90-day time limit from the filing of a suggestion of death, and to give the court discretion to
-extend that time. The Committee Notes explaining the amendments state: Present Rule 25(a) (1),
-together with present Rule 6(b), results in an inflexible requirement that an action be dismissed as
-to a deceased party if substitution is not carried out within a fixed period measured from the time
-of death. The hardships and inequities of this unyielding requirement plainly appear from the cases.
-* * * The amended rule establishes a time limit for the motion to substitute based not upon the time
-of the death, but rather upon the time information of the death is provided by means of a suggestion
-of death upon the record. * * * A motion to substitute may be made by any party or by the
-representative of the deceased party without awaiting the suggestion of death. Indeed, the motion
-will usually be so made. If a party or the representative of the deceased party desires to limit the
-time within which another may make the motion, he may do so by suggesting the death upon the record.
-(Emphasis added.) Under the amended Rule either a party or “the successors or representatives of the
-deceased party” may avoid delay in effecting substitution for the deceased party either by filing a
-motion for substitution or by suggesting death on the record and thus triggering the 90-day period
-which begins with suggestion of death. The Advisory Committee, in outlining that suggestion of death
-could be made by “the representative of the deceased party” plainly contemplated that the suggestion
-emanating from the side of the deceased would identify a representative of the estate, such as an
-executor or administrator, who could be substituted for the deceased as a party, with the action
-continued in the name of the representative. The addition of “successor” in the Rule would take care
-of the case of, say, the distributee of an estate that had been distributed, but would not make a
-material difference in the aspect under consideration. Form 30, for suggestion of death, which was
-provided in order to expedite and facilitate implementation of the amendment, provides: A.B.
-[described as a party, or as executor, administrator, or other representative or successor of C.D.,
-the deceased party\ suggests upon the record, pursuant to Rule 25(a) (1), the death of C.D.
-[describe as party] during the pendency of this action. Added Jan. 21, 1963, eff. July 1, 1963.
-[Emphasis added.] Although the attorney for the defendant was retained to “represent” the deceased
-as his counsel, he is not a person who could be made a party, and is not a “representative of the
-deceased party” in the sense contemplated by Rule 25(a) d). In our opinion the Rule, as amended,
-cannot fairly be construed, as the de fendant’s attorney argues, to make his suggestion of death
-operative to trigger the 90-day period even though he was neither a successor nor representative of
-the deceased, and gave no indication of what person was available to be named in substitution as a
-representative of the deceased. Counsel’s construction would open the door to a tactical maneuver to
-place upon the plaintiff the burden of locating the representative of the estate within 90 days. We
-can conceive of cases wherein even the lawyer retained to represent a defendant might know the
-defendant had died, yet not readily know where his estate would be administered. In the present
-case, plaintiff’s attorney did know the court of probate, but he did not know whether probate of the
-will might be contested, or who would be appointed representative of the estate. The tactic of the
-defendant’s attorney would place on plaintiff the burden, where no conventional representative was
-appointed for the estate in probate court, of instituting machinery in order to produce some
-representative of the estate ad litem, pending appointment of the representative contemplated by law
-of the domicile of the deceased.
+MEMORANDUM AND ORDER DAVID S. NELSON, District Judge. Petitioner seeks a preliminary injunction
+enjoining the United States Army from ordering him to report for 119 days active duty in the
+Military Police Officer Basic Course until this court has ruled on his habeas corpus petition for
+full discharge from the military. Petitioner contends that the Army materially represented to .him
+that he would enter the Judge Advocate General Corp (JAGC) as a military attorney upon graduation
+from law school and admission to a state bar. Petitioner argues that the Army’s decision not to
+grant him a JAGC was a breach of contract and a violation of his constitutional rights. He claims he
+is entitled to recission of his contractual obligations to the military. The Army opposes
+petitioner’s request for injunctive relief on the grounds that he has failed to demonstrate a
+substantial likelihood of success on the merits of his claim and further on the grounds that there
+has been no showing that he will suffer irreparable injury. PACTS Petitioner joined the Reserve
+Officers Training Corp (ROTC) in 1974 during his freshman year at Northeastern University. In 1977,
+he executed an enlistment contract committing himself to six years of service. Petitioner alleges
+that he executed the con tract after his ROTC instructors and recruitment literature had indicated
+to him that he would be assigned to the JAGC as an attorney if he: a) was accepted into an American
+Bar Association accredited law school; b) graduated from law school; and c) passed a state bar
+examination. The enlistment contract Tremblay executed did not express this understanding. The
+contract stated: 54 I have had this contract fully explained to me. I understand it, and certify
+that no promise of any kind has been made to me concerning assignment to duty, geographical area,
+schooling, special programs, assignment of government quarters, or transportation of dependents
+except as indicated. 55 I swear (or affirm) that the foregoing statements have been read to me, that
+my statements have been correctly recorded and are true in all respects and that I fully understand
+the conditions under which I am enlisting. Petitioner was accepted at New England School of Law in
+1979. He entered into a delay agreement allowing him to postpone his active duty. Paragraph 16(d) of
+the delay agreement, upon which petitioner places great weight, provides: “At the end of the delay
+period, a branch of service will be assigned that is consistent with post graduate subject
+discipline and military requirements (Not applicable to special medical program participants).”
+After entering into the agreement petitioner received a letter from an Army official stating: Even
+though you are currently delayed to complete the requirements for a law degree, you are not
+automatically assured of fulfilling your service obligation as a member of the Judge Advocate
+General’s Corps. Specifically, you must apply for branch transfer into the Judge Advocate General’s
+Corp in the fall of the senior year of law school. If you do not apply for active duty and branch
+transfer, your records will not be reviewed by JAGC branch and you will be assigned to another
+branch. Petitioner, in 1981, and again in 1982, applied for a permanent JAGC position but in both
+instances was rejected. In July, 1983 he was advised that he was to be assigned as a Military Police
+Officer for a three-year tour of active duty in Germany. Petitioner requested transfer to reserve
+duty and the request was granted. In the fall of 1982 petitioner had a change of heart and he
+requested permission to resign from the military. This request was denied. In April, 1983 Lieutenant
+Tremblay was issued active duty orders to commence June, 1983. This suit resulted. CLAIMS Petitioner
+claims the Army breached its contract with him by failing to honor the alleged representations of
+its ROTC instructors and educational delay agreement indicating that he would be granted a JAGC
+position upon graduation from law school and admission to a state bar. Petitioner says he was passed
+over in the JAGC selection process in favor of many less qualified applicants despite his record,
+which includes academic honors, membership on the law review and two summer internships with the
+JAGC. More important, in petitioner’s view, is his constitutional claim that he was denied a JAGC
+petition because he spoke critically about a recently passed federal statute known as the Defense
+Officer Personnel Management Act (DOPMA), 10 U.S.C. § 101 et seq. DOPMA, in pertinent part, reduces
+the rank and pay of attorneys entering the JAGC. Petitioner wrote several letters to a Congressman
+expressing his concern over the unfair and deleterious effects of DOPMA on reserve lieutenants
+attending law school. It is not disputed that at least one of petitioner’s letters, and a reply from
+Senator Thurmond, were in his application file. Petitioner alleges that the criticisms he made of
+DOPMA were held against him in the JAGC selection process in violation of his First Amendment
+rights. ANALYSIS OF CLAIMS In determining whether to grant a preliminary injunction, the court must
+consider four criteria: (1) whether plaintiff will suffer'irreparable injury if the injunction is
+not granted; (2) whether such injury outweighs any harm which granting injunctive relief would
+inflict on the defendant; (3) whether the public interest will not be adversely affected by the
+granting of the injunction; and (4) whether plaintiff has exhibited a likelihood of success on the
+merits. Planned Parenthood League of Massachusetts v. Bellotti, 641 F.2d 1006, 1009 (1st Cir.1981).
+As to the first criterion, I find that the petitioner will suffer irreparable injury if he is
+compelled to undertake active duty for 119 days. He will be forced to abandon his law practice for
+four months, leave his wife, and otherwise disrupt his life. Petitioner’s duties as a military
+police officer promise little in the way of useful training for his chosen profession. As to the
+second criterion, I find that plaintiff’s potential injury outweighs any harm the Army would suffer
+if the preliminary injunction were granted. The Army could, of course, function effectively without
+the services of one probably reluctant military police officer. As to the third criterion, I find
+that the public interest would not be adversely affected by the granting of a preliminary
+injunction. The public interest in the fair administration of military service laws and regulations
+dictates restraint in situations where such laws and regulations may be applied in an unfair manner.
+See e.g., Novak v. Rumsfeld, 423 F.Supp. 971, 972 (D.C.Cal.1976). As to the fourth and final
+criterion, the First Circuit Court of Appeals has written recently that “[wjhile each of these
+factors must be considered, ‘the probability-of-success component has loomed large in cases before
+this court.’ ” Mass. Assoc, of Older Americans, et al. v. Sharp, 700 F.2d 749, 751 (1st Cir.1983),
+quoting, Auburn News Co. v. Providence Journal Co., 659 F.2d 273, 277 (1st Cir. 1981). Reviewing the
+facts of this case in light of the applicable law, I find that petitioner’s likelihood of success on
+the merits of his contract and constitutional claims is minimal. Contract Claim The factual
+circumstances of petitioner’s enlistment in the Army do not support his contract claim. First, the
+plain language of petitioner’s enlistment contract, particularly paragraph 54, does not indicate
+that Mr. Tremblay was being guaranteed a position in the JAGC. Second, although petitioner’s delay
+agreement, quoted in part above, does indicate that service would be assigned that was “consistent
+with post graduate subject discipline,” it also noted that service would be assigned that was
+consistent with “military requirements.” At the time plaintiff sought a JAGC position there were,
+according to respondent, far fewer available JAGC positions than had existed in the recent past. The
+delay agreement had put petitioner on notice of this contingency. Therefore no promise of a position
+is inferrable from the delay agreement. Third, the letter petitioner received from an Army official
+after executing the delay agreement, put petitioner on notice that he was not assured of a JAGC
+position. Petitioner’s failure to respond to the Army’s notice indicates, at least tacitly, his
+understanding of the contingent nature of the JAGC duty assignment. Petitioner places great weight
+on recent cases holding the government responsible for the oral promises, misstatements, and
+representations of its military recruiters. These cases hold that recission of a military contract
+is available where, first, misrepresentations were made even if innocently or negligently, and,
+second, such misrepresentations were material and induced the prospective recruit to enlist. See
+e.g., Pence v. Brown, 627 F.2d 872 (8th Cir.1980); Santos v. Franklin, 493 F.Supp. 847
+(E.D.Pa.1980); Withum v. O’Connor, 506 F.Supp. 1374 (D.P.R.1981). Reviewing the cases advanced by
+petitioner, I find they are distinguishable from the instant case on a number of grounds. First, in
+each of the cited cases there is evidence, beyond the plaintiffs’ own allegations, that
+misrepresentations were actually made. Second, there is evidence, often undisputed, that the
+plaintiff in each case relied on these misrepresentations in deciding to enlist. Third, there is no
+indication in the cited cases that the relevant enlistment contracts put the respective plaintiffs
+on notice that no promise as to duty assignment had been made. In Pence v. Brown, 627 F.2d 872, 874
+(8th Cir.1980), for example, a case heavily relied upon by petitioner, it was undisputed that
+promises had been made to a medical student about the rank at which he would enter the Air Force. It
+was also undisputed that the student had relied on these promises in deciding to enlist. Id.
+Furthermore, in Pence, the enlistment contract the plaintiff signed was silent as to whether or not
+the recruit was promised a specific entering rank. Id. at 873. When he was not granted the promised
+rank, plaintiffs enlistment contract was rescinded and he was discharged from his military
+obligations. In the instant case, unlike Pence, there is no evidence beyond petitioner’s
+uncorroborated allegations that any oral representations concerning a JAGC position were made to him
+or that he relied on any such representations. Furthermore, the enlistment contract in the instant
+case, unlike that in Pence, clearly and specifically put petitioner on notice that he was not
+promised a specific duty assignment in the Army. Additionally, the supplemental delay agreement
+clearly could not have led petitioner to believe he was promised a specific duty assignment given
+its conjunctive reference to a duty assignment “consistent with post-graduate subject discipline and
+military requirements” (emphasis added). The other eases cited by petitioner are similarly
+distinguishable.
 
 

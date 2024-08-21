@@ -1,142 +1,242 @@
 **gold_text:**
-The amendment to Rule 25(a) (1) was intended to dispel unwarranted rigidity and allow more
-flexibility in substitution. “It was intended that liberal effect be given to the 1963 amendment.”
-Roscoe v. Roscoe, 126 U.S.App.D.C. 317, 322, 379 F.2d 94, 99 (1967). “[T]he 90 day period was not
-intended to act as a bar to otherwise meritorious actions.” Staggers v. Otto Gerdau Co., 359 F.2d
-292, 296 (2d Cir. 1966).
+Although Parsons concedes that his hotel may have been used in interstate commerce at some point, he
+argues that it was used only for local functions, such as dances, when it was destroyed by fire.
+Parsons thus argues that use of his hotel at the time of the fire does not satisfy the Jones
+requirement of “active employment for commercial purposes, and not merely a passive, passing, or
+past connection to commerce.” Jones, 529 U.S. at 855, 120 S.Ct. at 1910, 146 L.Ed.2d at 910. Despite
+the fact that Parsons’s hotel may have been closed for the winter season, a temporary cessation of
+activity does not place the hotel beyond the reach of 18 U.S.C. § 844(i) if there is intent to
+return to the stream of commerce. See United States v. Williams, 299 F.3d 250 (3d Cir.2002) (holding
+that arson of a vacant building available for rent constituted a federal crime under 18 U.S.C. §
+844(f)); United States v. Martin, 63 F.3d 1422 (7th Cir.1995) (same); United States v. Turner, 995
+F.2d 1357 (6th Cir.1993) (same). Because a reasonable jury could have found beyond a reasonable
+doubt that Parsons’s hotel was used in interstate commerce, we affirm his conviction for federal
+arson under 18 U.S.C. § 844®.
 
 **Generations:**
 
 
 ***GPT-4o:***
-This stringent interpretation contrasts sharply with the intent of the 1963 amendments to Rule 25
-and Rule 6(b), which aimed to inject flexibility and fairness into the substitution process. As
-noted in 379 F.2d 94 and 359 F.2d 292, the amendments were designed to eliminate the inequities and
-hardships caused by the rigid two-year limitation originally imposed. The Advisory Committee
-emphasized that the revised rules were to be liberally construed to allow courts discretion in
-extending the substitution period, recognizing the difficulties that could arise in promptly
-identifying and notifying the proper representative of the deceased.   Given this context, the
-defendant’s counsel's suggestion of death, which lacked identification of a proper representative,
-failed to initiate the 90-day countdown. This interpretation aligns with the judicial precedent that
-courts should prioritize the equitable administration of justice over strict procedural formalities.
-Thus, the district court erred in dismissing the plaintiffs' action without granting the requested
-extension, especially considering the circumstances that inhibited timely substitution, such as the
-injury to plaintiffs' counsel and the ongoing legal processes in the probate court.  We, therefore,
-reverse the judgment and remand for further proceedings consistent with this opinion, ensuring that
-the substitution process adheres to the flexible and just principles intended by the amendments to
-the Federal Rules of Civil Procedure.
+Parsons's Estate argues that the conviction for federal arson should be reversed based on
+insufficient evidence regarding the interstate commerce requirement under 18 U.S.C. § 844(i). In
+assessing this argument, we refer to multiple precedents. In Russell v. United States, the Supreme
+Court held that rental properties used in a commercial manner fell under § 844(i). The Court
+concluded that the statute applies when a property is used in an activity affecting commerce,
+directly supporting federal jurisdiction (995 F.2d 1357, Russell v. United States, 471 U.S. at 862).
+Additionally, it was held that privately owned residences not actively used for commercial purposes
+do not satisfy this requirement (299 F.3d 250). In our case, the hotel was commercial property
+actively used for interstate commerce activities, validating the application of § 844(i). Thus,
+Parsons's argument lacks merit, and the district court's decision is affirmed.
 
 
 **Label:** 
 
 
 ***Meta-Llama-3-8B-Instruct:***
-  In the context of Rule 25(a) (1) of the Federal Rules of Civil Procedure, the suggestion of death
-is a crucial step in the process of substituting a deceased party with a proper representative.
-However, not all suggestions of death are created equal. In cases where the suggestion of death is
-made by a party's attorney, but fails to identify a successor or representative of the deceased, the
-90-day period for substitution may not be triggered.  As noted in 359 F.2d 292, the Advisory
-Committee on Civil Rules intended to provide a more flexible standard for substitution, allowing for
-extensions of time and dispensing with the rigid two-year period previously in place. However, this
-flexibility is contingent upon the suggestion of death providing sufficient information to permit
-the court to proceed with substitution.  In the present case, the suggestion of death made by the
-defendant's attorney was deficient in that it failed to identify a successor or representative of
-the deceased. This lack of specificity rendered the suggestion ineffective in triggering the 90-day
-period for substitution, as explained in 379 F.2d 94.  Furthermore, the court's discretion to
-enlarge the time period for substitution, as provided by Rule 6(b), is not a blank check. Rather, it
-is intended to be exercised in a judicious and reasonable manner, taking into account the particular
-circumstances of each case.  In light of these principles, we conclude that the district court erred
-in dismissing the action with prejudice. The case should be remanded for further proceedings,
-allowing the parties to properly substitute a representative of the deceased and continue the action
-in a manner consistent with the Federal Rules of Civil Procedure.
+ To address the legal issues, we must refer to relevant case law. The cases of Jones v. United
+States (299 F.3d 250) and Russell v. United States (63 F.3d 1422) are particularly relevant. In
+Jones, the court held that a private, owner-occupied residence is not used in activities affecting
+interstate commerce and therefore does not fall under 18 U.S.C. § 844(i)'s reach. However, in
+Russell, the court concluded that the statute unquestionably applies to rental activities, stating
+that the local rental of an apartment unit is merely an element of a broader commercial market in
+rental properties.  In the instant case, the building in question was a hotel and pavilion that was
+used for commercial purposes, including providing accommodations and services to out-of-state
+guests. As such, it is reasonable to conclude that the building was used in activities affecting
+interstate commerce. Therefore, the government's evidence suggests that the building was used in
+interstate commerce, and a rational jury could have found that the government proved each element of
+the offense beyond a reasonable doubt.  Furthermore, the cases of United States v. Dudley (739 F.2d
+175) and United States v. Cloud (921 F.2d 225) are relevant to the issue of restitution orders
+surviving the death of a criminal defendant. In Dudley, the court held that the abatement principle
+does not apply to unpaid restitution orders, while in Cloud, the court concluded that the doctrine
+of abatement does not apply to restitution orders. These cases support the conclusion that
+restitution orders can survive the death of a criminal defendant.  In conclusion, the government's
+evidence suggests that the building was used in activities affecting interstate commerce, and a
+rational jury could have found that the government proved each element of the offense beyond a
+reasonable doubt. Additionally, restitution orders can survive the death of a criminal defendant.
+Therefore, the conviction and restitution order should be affirmed.
 
 
 **Label:** 
 
 
-**citations:** ['379 F.2d 94', '359 F.2d 292']
+**citations:** ['299 F.3d 250', '63 F.3d 1422', '995 F.2d 1357']
 
-***short_citations_0:*** 379 F.2d 94
+***short_citations_0:*** 299 F.3d 250
 
-the proper parties. * * * Unless the motion for substitution is made not later than 90 days after the death is suggested upon the record by service of a statement of the fact of the death as provided herein for the service of the motion, the action shall be dismissed as to the deceased party.” Here not only had the 90-day period not expired when the court entered summary judgment, the appellant by her motion for reconsideration had specifically invoked the discretion of the court. Rule 6(b) provides pertinently that when “by these rules * * * an act is required or allowed to be done at or within a specified time, the court for cause shown may at any time in its discretion (1) with or without motion or notice order the period enlarged if request therefor is made before the expiration of the period originally prescribed * * Originally the Rule had precluded an extension of time for taking action under Rule 25(a) (1), but by purposeful amendment, it was sought to relieve against the hardship of the Court’s holding in Anderson v. Yungkau, 329 U.S. 482, 67 S.Ct. 428, 91 L.Ed. 436 (1947). It was intended that liberal effect be given to the 1963 amendment. Graham v. Pennsylvania Railroad, 119 U.S.App.D.C. 335, 342 F.2d 914 (1964), cert. denied, 381 U.S. 904, 85 S.Ct. 1446, 14 L.Ed.2d 286 (1965). We are constrained to reverse for further proceedings not inconsistent with this opinion. Reversed. The only “party” then
+“require[d] that the damaged or destroyed property must itself have been used in commerce or in an activity affecting commerce.” Id. (alteration in original) (internal quotations omitted). Thus, the proper inquiry is an analysis of the “function of the building itself, and then a determination of whether that function affects interstate commerce.” Id. (internal quotations omitted). The Court ruled that the word “used” is “most sensibly read to mean active employment for commercial purposes, and not merely a passive, passing, or past connection to commerce.” Id. at 855, 120 S.Ct. 1904. It held that private, owner-occupied residences are not used in activities affecting interstate commerce and that arson of such buildings therefore does not fall under § 844(i)’s reach. Id. at 856-58, 120 S.Ct. 1904. In the instant case, Williams focuses on the Supreme Court’s discussion regarding the word “used” and argues that, because the Otterman building had not been leased at the time of the fire, it was not, under Jones, being actively employed for commercial purposes. We reject this argument. Gaydos is instructive. Gaydos involved a defendant who argued that the house she burned down was not rental property because at the time of the arson it was vacant, uninhabitable, and she had no intention of renting it again. 108 F.3d at 507. We agreed with the defendant, holding that the trial record did not support a finding that the house at issue remained in or was intended to return to the stream of commerce. Id. at 510.
 
-***short_citations_1:*** 359 F.2d 292
+***short_citations_1:*** 63 F.3d 1422
 
-insertion of a “reasonable time” standard. In 1963, the Advisory Committee suggested the present rule and noted: “Present Rule 25(a) (1), together with present Rule 6(b), results in an inflexible requirement that an action be dismissed as to a deceased party if substitution is not carried out within a fixed period measured from the time of the death. The hardships and inequities of this unyielding requirement plainly appear from the cases. * * * The amended rulé establishes a time limit for the motion to substitute based not upon the time of the death, but rather upon the time information of the death is provided by means of a suggestion of death upon the record, i. e. service of a statement of the fact of the death.” See Notes of Advisory Committee on the Civil Rules, 28 U.S.C. Rule 25 (1964). Rule 6(b) of the Federal Rules of Civil Procedure was also amended in 1963 and the prohibition against extending the time for taking action under Rule 25 was eliminated. The Advisory Committee on the Civil Rules noted: “It is intended that the court shall have discretion to enlarge that period.” The amendments of Rules 6(b) and 25(a) (1) provided needed flexibility. It was assumed that discretionary extensions would be liberally granted. Movants under Rule 25 can ordinarily control when a death is “suggested upon the record” and appellants’ attorney was under no obligation to file his affidavit of Staggers’ death on the date he did. He could have filed
+denied, - U.S. -, 115 S.Ct. 226, 130 L.Ed.2d 152 (1994), raises the issue without resolving it for these purposes.
+
+***short_citations_2:*** 995 F.2d 1357
+
+the building in question was rental property at the time of the fire and that as a result thereof no link to interstate commerce had been developed. It was conceded that the residence was vacant when the fire occurred, but the government developed evidence that it had been a rental property since it was purchased by Philip Hudson and that Hudson intended to re-let the building as soon as repairs and renovations were completed. Rental properties constitute a sufficient nexus to interstate commerce for federal jurisdiction to attach under 18 U.S.C. § 844(i). In Russell v. United States, 471 U.S. 858, 859, 105 S.Ct. 2455, 2456, 85 L.Ed.2d 829 (1985), the defendant was convicted of attempting to burn a two-unit apartment building he owned. In rejecting defendant’s argument that the building was not a business or commercial property involved in interstate commerce, the Supreme Court concluded that the statute “unquestionably” applied to defendant’s rental activity: “[w]e need not rely on the connection between the market for residential units and ‘the interstate movement of people,’ to recognize that the local rental of an apartment unit is merely an element of a much broader commercial market in rental properties.” Russell, 471 U.S. at 862, 105 S.Ct. at 2457 (citation omitted). Instead, jurisdiction under § 844(i) attaches when the “property is ‘used’ in an ‘activity1 that affects commerce.” Id. Turner conceded that rental of real estate constitutes a sufficient link to interstate commerce but attempted to distinguish his case from the result in
 
 **prev_text:**
-LEVENTHAL, Circuit Judge: The District Court held that Rule 25(a) (1) of the Federal Rules of Civil
-Procedure required dismissal of the plaintiffs’ tort action because defendant’s counsel had filed a
-suggestion of death of the defendant yet plaintiff had not made any substitution of parties within
-90 days. We reverse on the ground that the suggestion of death, which was neither filed by nor
-identified a successor or representative of the deceased, such as an executor or administrator, was
-ineffective to trigger the running of the 90-day period provided by the Rule. Mr. and Mrs. John
-Rende filed an action in the District Court individually and on behalf of their infant son who had
-been struck and injured by Alfred S. Kay while driving his car. On August 27, 1967, defendant Kay
-died. On September 1, 1967, the defendant’s attorney, a term used here to identify the lawyer who
-had been retained by deceased to defend the action, and who had duly entered an appearance as
-attorney for defendant, filed a suggestion of death in the District Court, giving notice to
-plaintiffs’ attorney. That same day there was filed in the Orphans Court for Montgomery County,
-Maryland, residence of the deceased, his will naming his widow as executrix, but the will had not
-been probated, nor any legal representative appointed for the estate at the time of the filing of
-this appeal. Plaintiffs’ attorney was injured on October 14, 1967. On returning to practice early in
-1968, he learned that no successor to defendant Kay had yet been appointed, and he moved to certify
-the case to the ready calendar. The defendant’s attorney opposed this on grounds that discovery
-procedures had not been completed. The case was delayed and placed on the ready calendar as of June
-7, 1968. However, in April 1968, the defendant’s attorney moved in his own name to dismiss the
-action on the ground that Rule 25(a) (1) required plaintiffs to move to substitute a proper party
-for the deceased within 90 days of the suggestion of death. Plaintiffs filed an opposition and
-motion for substitution of the proper party, and sought an extension of the time for substitution as
-allowed by Rule 6(b). At argument, plaintiffs’ counsel asserted the “suggestion of death was
-defective in that it did not list the name of the proper party; that is the legal representative of
-the defendant.” The court responded: “That would not be his burden.” The court dismissed the action
-with prejudice. Prior to its amendment in 1963, Rule 25(a) (1) required the court to dismiss a case
-if no motion for substitution was filed within two. years after date of death, and no extensions of
-this period were allowed under Rule 6(b). The rule was rigorously applied, often with harsh results,
-and was called “easily the poorest rule of all the Federal Rules.” In 1955 the Advisory Committee on
-Rules for Civil Procedure recommended that the two-year period be changed to a “reasonable time”
-standard. In 1961 the Advisory Committee on Civil Rules again suggested the Rule be made more
-flexible. In 1963 the Supreme Court made changes in Rule 25(a) (1) and in Rule 6(b) so as to provide
-a 90-day time limit from the filing of a suggestion of death, and to give the court discretion to
-extend that time. The Committee Notes explaining the amendments state: Present Rule 25(a) (1),
-together with present Rule 6(b), results in an inflexible requirement that an action be dismissed as
-to a deceased party if substitution is not carried out within a fixed period measured from the time
-of death. The hardships and inequities of this unyielding requirement plainly appear from the cases.
-* * * The amended rule establishes a time limit for the motion to substitute based not upon the time
-of the death, but rather upon the time information of the death is provided by means of a suggestion
-of death upon the record. * * * A motion to substitute may be made by any party or by the
-representative of the deceased party without awaiting the suggestion of death. Indeed, the motion
-will usually be so made. If a party or the representative of the deceased party desires to limit the
-time within which another may make the motion, he may do so by suggesting the death upon the record.
-(Emphasis added.) Under the amended Rule either a party or “the successors or representatives of the
-deceased party” may avoid delay in effecting substitution for the deceased party either by filing a
-motion for substitution or by suggesting death on the record and thus triggering the 90-day period
-which begins with suggestion of death. The Advisory Committee, in outlining that suggestion of death
-could be made by “the representative of the deceased party” plainly contemplated that the suggestion
-emanating from the side of the deceased would identify a representative of the estate, such as an
-executor or administrator, who could be substituted for the deceased as a party, with the action
-continued in the name of the representative. The addition of “successor” in the Rule would take care
-of the case of, say, the distributee of an estate that had been distributed, but would not make a
-material difference in the aspect under consideration. Form 30, for suggestion of death, which was
-provided in order to expedite and facilitate implementation of the amendment, provides: A.B.
-[described as a party, or as executor, administrator, or other representative or successor of C.D.,
-the deceased party\ suggests upon the record, pursuant to Rule 25(a) (1), the death of C.D.
-[describe as party] during the pendency of this action. Added Jan. 21, 1963, eff. July 1, 1963.
-[Emphasis added.] Although the attorney for the defendant was retained to “represent” the deceased
-as his counsel, he is not a person who could be made a party, and is not a “representative of the
-deceased party” in the sense contemplated by Rule 25(a) d). In our opinion the Rule, as amended,
-cannot fairly be construed, as the de fendant’s attorney argues, to make his suggestion of death
-operative to trigger the 90-day period even though he was neither a successor nor representative of
-the deceased, and gave no indication of what person was available to be named in substitution as a
-representative of the deceased. Counsel’s construction would open the door to a tactical maneuver to
-place upon the plaintiff the burden of locating the representative of the estate within 90 days. We
-can conceive of cases wherein even the lawyer retained to represent a defendant might know the
-defendant had died, yet not readily know where his estate would be administered. In the present
-case, plaintiff’s attorney did know the court of probate, but he did not know whether probate of the
-will might be contested, or who would be appointed representative of the estate. The tactic of the
-defendant’s attorney would place on plaintiff the burden, where no conventional representative was
-appointed for the estate in probate court, of instituting machinery in order to produce some
-representative of the estate ad litem, pending appointment of the representative contemplated by law
-of the domicile of the deceased.
+EDITH H. JONES, Circuit Judge: Julies have twice found Parsons guilty of federal arson, mail fraud,
+and money laundering. Parsons died while his second appeal was pending before this Court. We hold
+that Parsons’s Estate is not entitled to a return of the criminal forfeiture he paid the government
+before his death. More problematically, we are compelled by the current law of this circuit to
+conclude that Parsons’s restitution order does not abate due to his death, and we must review his
+now-abated conviction to determine whether the restitution order was properly awarded. Finding no
+merit in issues raised concerning the Speedy Trial Act and the interstate commerce basis for
+Parsons’s federal arson charge, we affirm the restitution order. I. BACKGROUND On May 13, 1997, a
+federal grand jury returned a ten-count indictment against Parsons alleging that he intentionally
+burned a hotel and pavilion he owned in Clifton, Texas. Parsons appealed after a jury convicted him
+on all ten counts. This Court found that Parsons’s trial began outside the time limits prescribed by
+the Speedy Trial Act, 18 U.S.C. § 3161, et seq., vacated his conviction, and remanded to the
+district court for determination whether the indictment should be dismissed with or without
+prejudice. Without a hearing, the district court dismissed the indictment without prejudice and
+denied Parsons’s subsequent motion to reconsider. The government reindicted Parsons for two counts
+of federal arson in violation of 18 U.S.C. § 844(i), four counts of mail fraud in violation of 18
+U.S.C. § 1341, and four counts of laundering money from criminally derived property in violation of
+18 U.S.C. § 1957. A jury again found Parsons guilty on all ten counts. The district court entered a
+preliminary judgment of forfeiture in the amount of $970,826.90; fined Parsons $75,000; ordered
+Parsons to pay restitution to the insurance companies that reimbursed him for his claimed losses in
+the amount of $1,317,834.57; ordered Parsons to pay a special assessment of $1,000; and sentenced
+Parsons to imprisonment for a term of 78 months and supervised release for a term of three years.
+Before Parsons died, the United States Department of Treasury, Bureau of Alcohol, Tobacco and
+Firearms received payment for the forfeiture judgment. Parsons timely appealed his conviction to
+this Court but then died. This Court granted a motion to substitute his Estate as appellant. II.
+DISCUSSION A. Survival of VWPA Restitution Order The general rule, uncontested by the government, is
+that the death of a criminal defendant pending direct appeal of his conviction abates the criminal
+proceeding ab initio, as if the defendant had never been indicted and convicted. Unpaid fines and
+forfeitures also abate upon a criminal defendant’s death. But the doctrine of abatement does not
+apply to fines, forfeitures, and restitution paid prior to a defendant’s death. United States v.
+Zizzo, 120 F.3d 1838, 1347 (7th Cir.1997) (fines and forfeitures); Asset, 990 F.2d at 214
+(restitution); United States v. Schumann, 861 F.2d 1234, 1236 (11th Cir.1988) (fine). Thus,
+Parsons’s Estate is not entitled to a return of the forfeiture judgment paid to the government
+before Parsons’s death. With regard to unpaid restitution orders, this Court has held that if the
+purpose of the restitution order is primarily compensatory rather than penal, it does not abate upon
+the death of a defendant pending direct appeal. Asset, 990 F.2d at 214. Moreover, this court must
+review the defendant’s criminal conviction to determine whether the non-abated restitution order was
+properly awarded. United States v. Mmahat, 106 F.3d 89, 93 (5th Cir.1997). Whether this circuit’s
+current law, which authorizes Parsons’s Estate’s appeal, comports with the authorization of
+restitution by the Victim and Witness Protection Act, 18 U.S.C. § 3663 (VWPA) is a matter for
+debate, particularly when it leads to the strange situation of our reviewing a criminal conviction
+in what has become a hypothetical case. In Asset, this Court relied on United States v. Dudley, 739
+F.2d 175 (4th Cir.1984) and on United States v. Cloud, 921 F.2d 225 (9th Cir.1990), in concluding
+that the doctrine of abatement does not apply to unpaid compensatory restitution awards. Asset, 990
+F.2d at 212-14. Cloud does not, however, necessarily support this Court’s conclusion in Asset. In
+Cloud, the appellant, who was still alive, asserted that the portion of his sentence that made any
+unpaid balance of his restitution payments due and payable upon his death violated 18 U.S.C. §
+3565(h) (repealed). Section 3565(h) provided that “an obligation to pay a fine or penalty ceases
+upon the death of the defendant” (emphasis added). The court stated in Cloud that its task was not
+to decide whether restitution payments under the VWPA were primarily compensatory or penal in nature
+but was instead one of statutory interpretation. The court decided that the “ceases upon death”
+provision did not apply to restitution orders and that interpreting § 3565(h) otherwise could
+frustrate the compensatory goals of the VWPA. Although Cloud recognized the compensatory purpose of
+VWPA restitution orders, a purpose that arguably supports this court’s conclusion in Asset, there is
+a significant difference between the two cases. In Cloud, the appellant had unsuccessfully appealed
+his conviction before challenging the survival of his restitution order, whereas in Asset, the
+criminal defendant died pending an appeal of her case, hence her criminal proceeding abated ab
+initio. Thus, in Cloud, a judgment of conviction supported the appellant’s restitution order, but in
+Asset, the defendant’s conviction was abated. The Ninth Circuit rejected the argument that Cloud’s
+restitution order should abate because Cloud had not died pending resolution of his direct appeal,
+and his conviction had not abated. United States v. Cloud, 872 F.2d 846, 856-57 (9th Cir.1989). In
+Dudley, the Fourth Circuit held that the abatement principle does not apply to unpaid restitution
+orders. Instead of focusing on the language of the VWPA, which requires a judgment of conviction to
+support a restitution award, the court in Dudley based its holding on the compensatory rather than
+penal nature of restitution orders under the VWPA. Dudley, 739 F.2d at 177. The Eleventh Circuit has
+rejected the Dudley approach and concluded that allowing a restitution order to survive the death of
+a criminal defendant pending appeal conflicts with the VWPA. United States v. Logal, 106 F.3d 1547,
+1552 (11th Cir.1997). Under 18 U.S.C. § 3663(a)(1), the court noted, a defendant must first be
+convicted of a crime for the court to impose a restitution order, but the abatement principle leaves
+the defendant “as if he never had been indicted or convicted.” See id. (quoting United States v.
+Schumann, 861 F.2d 1234, 1237 (11th Cir.1988)). The Eleventh Circuit concluded that the “absence of
+a conviction precludes imposition of the restitution order ... pursuant to § 3663.” Moreover,
+survival of the restitution order would violate the “fundamental principle of our jurisprudence from
+which the abatement principle is derived ... that a criminal conviction is not final until
+resolution of the defendant’s appeal as a matter of right.” Id. The Third Circuit recently
+recognized the Eleventh Circuit’s view as a minority view, holding that abatement does not apply to
+compensatory restitution and allowing the parties to brief the merits of a conviction in order to
+challenge a restitution order. United States v. Christopher, 273 F.3d 294 (3d Cir.2001). The D.C.
+Circuit and the Second Circuit have both declined to offer an opinion on the issue when decedents’
+estates left no assets against which a claim for restitution could be enforced. United States v.
+Wright, 160 F.3d 905, 909 (2d Cir.1998); United States v. Pogue, 19 F.3d 663, 665 (D.C.Cir.1994).
+Although the Second Circuit avoided answering the question, it noted that the “analytical
+underpinnings of [not applying the abatement principle to compensatory restitution orders] are not
+entirely clear ... since there is no civil judgment!,] ... and once the conviction is vacated there
+would seem to be no foundation for the order of restitution.” Wright, 160 F.3d at 908-09. The
+compensatory purpose of the restitution statutes supports this circuit’s current position. If
+restitution orders did not survive the death of a criminal defendant pending direct appeal, victims
+would be forced to expend time and expense to prove what the defendant did in a claim against his
+estate. On the other hand, the VWPA states that restitution may be ordered when “sentencing a
+defendant convicted of an offense.” 18 U.S.C. § 3663(a)(1)(A) (emphasis added). <fWe assume that
+Congress is aware of existing law when it passes legislation.” Michel v. Total Transp., Inc., 957
+F.2d 186, 191 (5th Cir.1992) (quoting Miles v. Apex Marine Corp., 498 U.S. 19, 32, 111 S.Ct. 317,
+325, 112 L.Ed.2d 275, 291 (1990)). Federal courts have recognized the abatement principle for over
+100 years, see Menken v. Atlanta, 131 U.S. 405, 9 S.Ct. 794, 33 L.Ed. 221 (1889), yet Congress did
+not provide for the survival of restitution orders following the death of a criminal defendant
+pending direct appeal. Furthermore, although civil litigation may be costly and time consuming,
+“nothing precludes the victims from bringing a separate civil action to prevent any improper benefit
+to [the defendant’s] estate.” United States v. Logal, 106 F.3d 1547, 1552 (11th Cir.1997). This
+panel is not convinced that this court’s holdings in Asset and Mmahat comply with the plain language
+of the VWPA. Nevertheless, our precedent holds that because the restitution order here is
+unquestionably compensatory in nature, it survives Parsons’s death. We proceed to consider the
+appeal of his conviction to determine whether restitution was properly ordered. B. Merits Parsons’s
+Estate argues that Parsons’s convictions should be reversed for three reasons. Parsons’s Estate
+first contends that the district court’s reasons for dismissing Parsons’s indictment without
+prejudice were inadequate. This Court reviews the dismissal of an indictment without prejudice due
+to a violation of the Speedy Trial Act for an abuse of discretion. United States v. Blevins, 142
+F.3d 223, 225 (5th Cir.1998). In determining whether to dismiss an indictment for noneompliance with
+the Speedy Trial Act with or without prejudice, a district court must consider (1) the seriousness
+of the offense; (2) the facts and circumstances of the case which led to the dismissal; and (3) the
+impact of a reprosecution on the administration of the Speedy Trial Act and on the administration of
+justice. 18 U.S.C. § 3162(a)(2); United States v. Taylor, 487 U.S. 326, 333, 108 S.Ct. 2413, 2417,
+101 L.Ed.2d 297, 308 (1988). In dismissing Parsons’s indictment without prejudice, the district
+court properly considered each of the three factors. Parsons was convicted of a number of serious
+offenses that reflected an ongoing scheme of arson and insurance fraud. The trial setting was
+delayed past the Speedy Trial Act deadline to assure that Parsons’s attorney was sufficiently
+recovered from major surgery to be able to properly represent Parsons. Nothing in the record
+suggests that a dismissal with prejudice would have had deterrent value, and the public had a
+significant interest in bringing Parsons to trial on the charged crimes. Moreover, Parsons did not
+press his right to a speedy trial until he filed a motion to dismiss on the day of his first trial.
+See Blevins, 142 F.3d at 226 (approving a dismissal without prejudice for a defendant who did not
+press his right to a speedy trial); United States v. Johnson, 29 F.3d 940, 946 (5th Cir.1994)
+(same). Parsons’s Estate asserts that despite the district court’s consideration of the three
+factors set forth in 18- U.S.C. § 3162(a)(2), its reasons for dismissing Parsons’s indictment
+without prejudice are inadequate because the court failed to consider prejudice to the defendant.
+Taylor, 487 U.S. at 334, 108 S.Ct. at 2418, 101 L.Ed.2d at 309 (recognizing that “[ajlthough the
+discussion in the House is inconclusive as to the weight to be given to the presence or absence of
+prejudice to the defendant, there is little doubt that Congress intend ed this factor to be relevant
+for a district court’s consideration”). The record is clear, however, that Parsons did not suffer
+prejudice due to the delay of his first trial, and he failed to show significant prejudice from
+undergoing a retrial that his appellate strategy rendered likely. See Blevins, 142 F.3d at 225 (even
+if the district court does not articulate its reasons for dismissing an indictment without
+prejudice, this Court can determine whether the district court abused its discretion based on the
+record). The court had this sequence of events in mind when, on remand, it dismissed Parsons’s
+indictment without prejudice. There was plainly no abuse of discretion. Second, Parsons’s Estate
+asserts that he was entitled to notice and a hearing before the district court decided whether to
+dismiss his indictment for a violation of the Speedy Trial Act with or without prejudice. We decline
+to follow the Ninth Circuit in requiring notice and a hearing under these circumstances. United
+States v. Pena-Carrillo, 46 F.3d 879 (9th Cir.1995); United States v. Delgado-Miranda, 951 F.2d 1063
+(9th Cir.1991). Because the district court was well-acquainted with the procedural background of
+Parsons’s case before it dismissed his indictment without prejudice, a hearing would not have
+affected the district court’s decision. Moreover, the district court substantially complied with the
+analysis required by 18 U.S.C. § 3162(a)(2). Finally, even if we were to adopt the Ninth Circuit
+position, which we do not, we would have to remand to the district court. Since Parsons is dead, it
+would be absurd to ask the trial court to enter into a hypothetical exercise. Third, Parsons’s
+Estate contends that his conviction for federal arson under 18 U.S.C. § 844(i) should be reversed
+because the government did not present sufficient evidence to allow a reasonable jury to find that
+his hotel was used in interstate commerce or that it affected interstate commerce. When reviewing
+the sufficiency of evidence, this Court views “the evidence and all inferences therefrom in the
+light most favorable to the verdict and must affirm if a rational jury could have found that the
+government proved each element of the offense beyond a reasonable doubt.” United States v. Cavin, 39
+F.3d 1299, 1305 (5th Cir.1994). A two-part test governs whether a building satisfies the interstate
+commerce requirement of 18 U.S.C. § 844(i). The proper inquiry “is into the function of the building
+itself, and then a determination of whether that function affects interstate commerce.” Jones v.
+United States, 529 U.S. 848, 854, 120 S.Ct. 1904, 1910, 146 L.Ed.2d 902, 909 (2000) (quoting United
+States v. Ryan, 9 F.3d 660, 675 (8th Cir.1993) (Arnold, C.J., concurring in part and dissenting in
+part)). The function of a commercial hotel is to provide guests with a place to stay or a place to
+hold events, and such a function affects interstate com merce, especially when, as in this case, the
+hotel advertises nationwide and provides services for out-of-state guests. Moreover, a hotel is an
+instrumentality in interstate commerce under the second prong of the Lopez test and is also a
+facility that substantially affects interstate commerce under the third prong of the Lopez test for
+upholding federal jurisdiction under the commerce clause. See United States v. Lopez, 514 U.S. 549,
+558-59, 115 S.Ct. 1624, 1629-30, 131 L.Ed.2d 626, 637 (1994); Heart of Atlanta Motel, Inc. v. United
+States, 379 U.S. 241, 85 S.Ct. 348, 13 L.Ed.2d 258 (1964) (concluding that hotels catering to
+interstate guests substantially affect interstate commerce).
 
 

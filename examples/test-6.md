@@ -1,142 +1,263 @@
 **gold_text:**
-The amendment to Rule 25(a) (1) was intended to dispel unwarranted rigidity and allow more
-flexibility in substitution. “It was intended that liberal effect be given to the 1963 amendment.”
-Roscoe v. Roscoe, 126 U.S.App.D.C. 317, 322, 379 F.2d 94, 99 (1967). “[T]he 90 day period was not
-intended to act as a bar to otherwise meritorious actions.” Staggers v. Otto Gerdau Co., 359 F.2d
-292, 296 (2d Cir. 1966).
+“In Gutierrez v. Waterman Steamship Corp., 1963, 373 U.S. 206, 83 S.Ct. 1185, 10 L.Ed.2d 297, 1963
+A.M.C. 1649, the Supreme Court concluded that ‘things about a ship, whether the hull, the decks, the
+machinery, the tools furnished, the stowage, or the cargo containers, must be reasonably fit for the
+purpose for which they are to be used.’ Id. at 213, 83 S.Ct. at 1190, 10 L.Ed.2d at 303. More
+recently, in Usner v. Luckenbach, 1971, 400 U.S. 494, 91 S.Ct. 514, 27 L.Ed.2d 562, 1971 A.M.C. 277,
+the Supreme Court said that: ‘A vessel’s condition of unseaworthiness might arise from any number of
+circumstances. Her gear might be defective, her appurtenances might be in disrepair, her crew unfit.
+The number of men assigned to perform a shipboard task might be insufficient. The method of loading
+her cargo, or the manner of its stowage, might be improper. For any of these reasons, or others, a
+vessel might not be reasonably fit for her intended service.’ Id. at 499, 91 S.Ct. at 517-18, 27
+L.Ed.2d at 562.”
 
 **Generations:**
 
 
 ***GPT-4o:***
-This stringent interpretation contrasts sharply with the intent of the 1963 amendments to Rule 25
-and Rule 6(b), which aimed to inject flexibility and fairness into the substitution process. As
-noted in 379 F.2d 94 and 359 F.2d 292, the amendments were designed to eliminate the inequities and
-hardships caused by the rigid two-year limitation originally imposed. The Advisory Committee
-emphasized that the revised rules were to be liberally construed to allow courts discretion in
-extending the substitution period, recognizing the difficulties that could arise in promptly
-identifying and notifying the proper representative of the deceased.   Given this context, the
-defendant’s counsel's suggestion of death, which lacked identification of a proper representative,
-failed to initiate the 90-day countdown. This interpretation aligns with the judicial precedent that
-courts should prioritize the equitable administration of justice over strict procedural formalities.
-Thus, the district court erred in dismissing the plaintiffs' action without granting the requested
-extension, especially considering the circumstances that inhibited timely substitution, such as the
-injury to plaintiffs' counsel and the ongoing legal processes in the probate court.  We, therefore,
-reverse the judgment and remand for further proceedings consistent with this opinion, ensuring that
-the substitution process adheres to the flexible and just principles intended by the amendments to
-the Federal Rules of Civil Procedure.
+In the context of the unseaworthiness doctrine, it is crucial to examine the provisions of both the
+bareboat charter and the time charter agreements. As previously established, the bareboat charter
+transferred full control and possession to Chaplin, making Chaplin the owner pro hoc vice and
+therefore responsible for the vessel’s seaworthiness at the time of the incident. Following the
+principles laid out in Mitchell v. Trawler Racer, Inc., 362 U.S. 539, and Morales v. City of
+Galveston, 370 U.S. 165, a ship’s gear, appurtenances, and manner of stowage must be reasonably fit
+for their intended purpose.  In addressing Plaintiff's allegations, it must be noted that the
+condition leading to the Plaintiff's injury must be attributable to the vessel's unseaworthy state
+rather than an isolated act of negligence by fellow crew members. As highlighted in 400 U.S. 494, an
+individual act of negligence does not render a vessel unseaworthy. Therefore, any claim of
+unseaworthiness must relate to inherent vessel deficiencies existing at the time of the charter’s
+inception or subsequently arising due to the charterer’s conduct.  With regards to the incineration
+barrel, the Plaintiff has not provided sufficient evidence to show that the vessel’s condition per
+373 U.S. 206 was inherently unseaworthy at the time of the accident. The burn barrel itself does not
+appear to constitute an unseaworthy condition under the standards applied in earlier cases.  Based
+on the evidence and the precedents discussed, the movement for summary judgment by Chaplin on the
+grounds of unseaworthiness is not substantiated. Consequently, the motion for summary judgment by
+Mon River on grounds of the vessel's alleged unseaworthiness is GRANTED.  IV.  In sum, the bareboat
+charter agreement effectively transferred ownership responsibilities to Chaplin, and no substantial
+evidence indicates unseaworthiness from Mon River’s side that would breach the express warranty
+concerning seaworthiness at delivery. Therefore, the court GRANTS the summary judgment for Mon River
+and DENIES Plaintiff's claim against Chaplin on the grounds presented.  It is so ordered.
 
 
 **Label:** 
 
 
 ***Meta-Llama-3-8B-Instruct:***
-  In the context of Rule 25(a) (1) of the Federal Rules of Civil Procedure, the suggestion of death
-is a crucial step in the process of substituting a deceased party with a proper representative.
-However, not all suggestions of death are created equal. In cases where the suggestion of death is
-made by a party's attorney, but fails to identify a successor or representative of the deceased, the
-90-day period for substitution may not be triggered.  As noted in 359 F.2d 292, the Advisory
-Committee on Civil Rules intended to provide a more flexible standard for substitution, allowing for
-extensions of time and dispensing with the rigid two-year period previously in place. However, this
-flexibility is contingent upon the suggestion of death providing sufficient information to permit
-the court to proceed with substitution.  In the present case, the suggestion of death made by the
-defendant's attorney was deficient in that it failed to identify a successor or representative of
-the deceased. This lack of specificity rendered the suggestion ineffective in triggering the 90-day
-period for substitution, as explained in 379 F.2d 94.  Furthermore, the court's discretion to
-enlarge the time period for substitution, as provided by Rule 6(b), is not a blank check. Rather, it
-is intended to be exercised in a judicious and reasonable manner, taking into account the particular
-circumstances of each case.  In light of these principles, we conclude that the district court erred
-in dismissing the action with prejudice. The case should be remanded for further proceedings,
-allowing the parties to properly substitute a representative of the deceased and continue the action
-in a manner consistent with the Federal Rules of Civil Procedure.
+ The court's decision to grant summary judgment to Mon River Towing, Inc. is correct. As stated in
+373 U.S. 206, a vessel's condition of unseaworthiness might arise from any number of circumstances,
+including defects in the vessel's gear, appurtenances, or crew. However, in this case, the evidence
+presented does not show that the vessel was unseaworthy at the time of the incident.  The plaintiff
+argues that the vessel was not properly maintained and that the crew was negligent, but these claims
+are not supported by the evidence. The court has already granted summary judgment to Mon River on
+the grounds that it transferred possession, control, and command of the vessel to Chaplin Marine
+Transport, Inc. under a bareboat charter agreement.  As stated in 400 U.S. 494, a bareboat charter
+agreement transfers all of the rights and responsibilities of ownership to the charterer. In this
+case, Chaplin Marine Transport, Inc. was the bareboat charterer and pro hac vice owner of the
+vessel, and it was responsible for the vessel's seaworthiness at the time of the incident.  The
+plaintiff has failed to present evidence that the vessel was unseaworthy or that Chaplin Marine
+Transport, Inc. was negligent. Therefore, the court's decision to grant summary judgment to Mon
+River Towing, Inc. is correct.
 
 
 **Label:** 
 
 
-**citations:** ['379 F.2d 94', '359 F.2d 292']
+**citations:** ['373 U.S. 206', '400 U.S. 494']
 
-***short_citations_0:*** 379 F.2d 94
+***short_citations_0:*** 373 U.S. 206
 
-the proper parties. * * * Unless the motion for substitution is made not later than 90 days after the death is suggested upon the record by service of a statement of the fact of the death as provided herein for the service of the motion, the action shall be dismissed as to the deceased party.” Here not only had the 90-day period not expired when the court entered summary judgment, the appellant by her motion for reconsideration had specifically invoked the discretion of the court. Rule 6(b) provides pertinently that when “by these rules * * * an act is required or allowed to be done at or within a specified time, the court for cause shown may at any time in its discretion (1) with or without motion or notice order the period enlarged if request therefor is made before the expiration of the period originally prescribed * * Originally the Rule had precluded an extension of time for taking action under Rule 25(a) (1), but by purposeful amendment, it was sought to relieve against the hardship of the Court’s holding in Anderson v. Yungkau, 329 U.S. 482, 67 S.Ct. 428, 91 L.Ed. 436 (1947). It was intended that liberal effect be given to the 1963 amendment. Graham v. Pennsylvania Railroad, 119 U.S.App.D.C. 335, 342 F.2d 914 (1964), cert. denied, 381 U.S. 904, 85 S.Ct. 1446, 14 L.Ed.2d 286 (1965). We are constrained to reverse for further proceedings not inconsistent with this opinion. Reversed. The only “party” then
+which is in essence that things about a ship, whether the hull, the decks, the machinery, the tools furnished, the stowage, or the cargo containers, must be reasonably fit for the purpose for which they are to be used. See Mitchell v. Trawler Racer, Inc., 362 U. S. 539, 550; Morales v. City of Galveston, 370 U. S. 165, 169, 172 (dissenting opinion). A ship that leaks is unseaworthy; so is a cargo container that leaks. When the shipowner accepts cargo in a faulty container or allows the container to become faulty, he assumes the responsibility for injury that this may cause to seamen or their substitutes on or about the ship. Beans belong inside their containers, and anyone should know, as the trial court found, that serious injury may result if they get out of their containers and get underfoot. These bean bags were unfit and thus unseaworthy. The second question is one of first impression in this Court, although other federal courts have already recognized that the case law compels this conclusion. Strika v. Netherlands Ministry of Traffic, 185 F. 2d 555 (C. A. 2d Cir.); Robillard v. A. L. Burbank & Co., 186 F. Supp. 193 (S. D. N. Y.); see Pope & Talbot, Inc., v. Cordray, 258 F. 2d 214, 218 (C. A. 9th Cir.). In Strika, while the longshoreman was working on the dock, use of an improper wire cable caused a hatch cover to fall on him. Building on such cases as O’Donnell v.
 
-***short_citations_1:*** 359 F.2d 292
+***short_citations_1:*** 400 U.S. 494
 
-insertion of a “reasonable time” standard. In 1963, the Advisory Committee suggested the present rule and noted: “Present Rule 25(a) (1), together with present Rule 6(b), results in an inflexible requirement that an action be dismissed as to a deceased party if substitution is not carried out within a fixed period measured from the time of the death. The hardships and inequities of this unyielding requirement plainly appear from the cases. * * * The amended rulé establishes a time limit for the motion to substitute based not upon the time of the death, but rather upon the time information of the death is provided by means of a suggestion of death upon the record, i. e. service of a statement of the fact of the death.” See Notes of Advisory Committee on the Civil Rules, 28 U.S.C. Rule 25 (1964). Rule 6(b) of the Federal Rules of Civil Procedure was also amended in 1963 and the prohibition against extending the time for taking action under Rule 25 was eliminated. The Advisory Committee on the Civil Rules noted: “It is intended that the court shall have discretion to enlarge that period.” The amendments of Rules 6(b) and 25(a) (1) provided needed flexibility. It was assumed that discretionary extensions would be liberally granted. Movants under Rule 25 can ordinarily control when a death is “suggested upon the record” and appellants’ attorney was under no obligation to file his affidavit of Staggers’ death on the date he did. He could have filed
+our cases have held that the scope of unseaworthiness is by no means so limited. A vessel’s condition of unseaworthiness might arise from any number of circumstances. Her gear might be defective, her appurtenances in disrepair, her crew unfit. The number of men assigned to perform a shipboard task might be insufficient. The method of loading her cargo, or the manner of its stowage, might be improper. For any of these reasons, or others, a vessel might not be reasonably fit for her intended service. What caused the petitioner’s injuries in the present case, however, was not the condition of the ship, her appurtenances, her cargo, or her crew, but the isolated, personal negligent act of the petitioner’s fellow longshoreman. To hold that this individual act of negligence rendered the ship unseaworthy would be' to subvert the fundamental distinction between unseaworthiness and negligence that we have so painstakingly and repeatedly emphasized in our decisions. In Trawler Racer, supra, there existed a condition of unseaworthiness,, and we held it was error to require a finding of negligent conduct in order to hold the shipowner liable. The case before us-presents the other side of the same coin. For it would be equally erroneous here, where no condition of unseaworthiness existed, to hold the shipowner liable for a third party’s single and wholly unforeseeable act of negligence. The judgment of the Court of Appeals is affirmed. It is so ordered.' 28 U. S. C. § 1292 (b) provides as follows: Compare Candiano v.
 
 **prev_text:**
-LEVENTHAL, Circuit Judge: The District Court held that Rule 25(a) (1) of the Federal Rules of Civil
-Procedure required dismissal of the plaintiffs’ tort action because defendant’s counsel had filed a
-suggestion of death of the defendant yet plaintiff had not made any substitution of parties within
-90 days. We reverse on the ground that the suggestion of death, which was neither filed by nor
-identified a successor or representative of the deceased, such as an executor or administrator, was
-ineffective to trigger the running of the 90-day period provided by the Rule. Mr. and Mrs. John
-Rende filed an action in the District Court individually and on behalf of their infant son who had
-been struck and injured by Alfred S. Kay while driving his car. On August 27, 1967, defendant Kay
-died. On September 1, 1967, the defendant’s attorney, a term used here to identify the lawyer who
-had been retained by deceased to defend the action, and who had duly entered an appearance as
-attorney for defendant, filed a suggestion of death in the District Court, giving notice to
-plaintiffs’ attorney. That same day there was filed in the Orphans Court for Montgomery County,
-Maryland, residence of the deceased, his will naming his widow as executrix, but the will had not
-been probated, nor any legal representative appointed for the estate at the time of the filing of
-this appeal. Plaintiffs’ attorney was injured on October 14, 1967. On returning to practice early in
-1968, he learned that no successor to defendant Kay had yet been appointed, and he moved to certify
-the case to the ready calendar. The defendant’s attorney opposed this on grounds that discovery
-procedures had not been completed. The case was delayed and placed on the ready calendar as of June
-7, 1968. However, in April 1968, the defendant’s attorney moved in his own name to dismiss the
-action on the ground that Rule 25(a) (1) required plaintiffs to move to substitute a proper party
-for the deceased within 90 days of the suggestion of death. Plaintiffs filed an opposition and
-motion for substitution of the proper party, and sought an extension of the time for substitution as
-allowed by Rule 6(b). At argument, plaintiffs’ counsel asserted the “suggestion of death was
-defective in that it did not list the name of the proper party; that is the legal representative of
-the defendant.” The court responded: “That would not be his burden.” The court dismissed the action
-with prejudice. Prior to its amendment in 1963, Rule 25(a) (1) required the court to dismiss a case
-if no motion for substitution was filed within two. years after date of death, and no extensions of
-this period were allowed under Rule 6(b). The rule was rigorously applied, often with harsh results,
-and was called “easily the poorest rule of all the Federal Rules.” In 1955 the Advisory Committee on
-Rules for Civil Procedure recommended that the two-year period be changed to a “reasonable time”
-standard. In 1961 the Advisory Committee on Civil Rules again suggested the Rule be made more
-flexible. In 1963 the Supreme Court made changes in Rule 25(a) (1) and in Rule 6(b) so as to provide
-a 90-day time limit from the filing of a suggestion of death, and to give the court discretion to
-extend that time. The Committee Notes explaining the amendments state: Present Rule 25(a) (1),
-together with present Rule 6(b), results in an inflexible requirement that an action be dismissed as
-to a deceased party if substitution is not carried out within a fixed period measured from the time
-of death. The hardships and inequities of this unyielding requirement plainly appear from the cases.
-* * * The amended rule establishes a time limit for the motion to substitute based not upon the time
-of the death, but rather upon the time information of the death is provided by means of a suggestion
-of death upon the record. * * * A motion to substitute may be made by any party or by the
-representative of the deceased party without awaiting the suggestion of death. Indeed, the motion
-will usually be so made. If a party or the representative of the deceased party desires to limit the
-time within which another may make the motion, he may do so by suggesting the death upon the record.
-(Emphasis added.) Under the amended Rule either a party or “the successors or representatives of the
-deceased party” may avoid delay in effecting substitution for the deceased party either by filing a
-motion for substitution or by suggesting death on the record and thus triggering the 90-day period
-which begins with suggestion of death. The Advisory Committee, in outlining that suggestion of death
-could be made by “the representative of the deceased party” plainly contemplated that the suggestion
-emanating from the side of the deceased would identify a representative of the estate, such as an
-executor or administrator, who could be substituted for the deceased as a party, with the action
-continued in the name of the representative. The addition of “successor” in the Rule would take care
-of the case of, say, the distributee of an estate that had been distributed, but would not make a
-material difference in the aspect under consideration. Form 30, for suggestion of death, which was
-provided in order to expedite and facilitate implementation of the amendment, provides: A.B.
-[described as a party, or as executor, administrator, or other representative or successor of C.D.,
-the deceased party\ suggests upon the record, pursuant to Rule 25(a) (1), the death of C.D.
-[describe as party] during the pendency of this action. Added Jan. 21, 1963, eff. July 1, 1963.
-[Emphasis added.] Although the attorney for the defendant was retained to “represent” the deceased
-as his counsel, he is not a person who could be made a party, and is not a “representative of the
-deceased party” in the sense contemplated by Rule 25(a) d). In our opinion the Rule, as amended,
-cannot fairly be construed, as the de fendant’s attorney argues, to make his suggestion of death
-operative to trigger the 90-day period even though he was neither a successor nor representative of
-the deceased, and gave no indication of what person was available to be named in substitution as a
-representative of the deceased. Counsel’s construction would open the door to a tactical maneuver to
-place upon the plaintiff the burden of locating the representative of the estate within 90 days. We
-can conceive of cases wherein even the lawyer retained to represent a defendant might know the
-defendant had died, yet not readily know where his estate would be administered. In the present
-case, plaintiff’s attorney did know the court of probate, but he did not know whether probate of the
-will might be contested, or who would be appointed representative of the estate. The tactic of the
-defendant’s attorney would place on plaintiff the burden, where no conventional representative was
-appointed for the estate in probate court, of instituting machinery in order to produce some
-representative of the estate ad litem, pending appointment of the representative contemplated by law
-of the domicile of the deceased.
+MEMORANDUM OPINION AND ORDER HADEN, Chief Judge. Pending is the motion for summary judgment filed by
+Defendants Chaplin Marine Transport, Inc. (“Chaplin”) and Mon River Towing, Inc. (“Mon River”).
+Plaintiff has responded and Defendants have replied. This issue is ripe for adjudication. Plaintiff
+initiated this action on May 28, 1993. He filed an amended complaint on December 7,1994. Plaintiff
+contends he was injured while working on the MTV Lillian G, a tow boat, on November 25,1992. The
+Lillian G is owned by Mon River, but was being operated pursuant to a bareboat, or demise charter by
+Chaplin. In turn, Chaplin was operating the boat pursuant to a purported time charter between it and
+Mon River. Plaintiff contends he was following the common practice of his employer, Chaplin, when he
+was seriously burned as he attempted to incinerate garbage in a barrel located on the deck of the
+vessel. He asserts Mon River was aware of the presence and use of the barrel to burn garbage at the
+time of the incident. Plaintiff asserts causes of action based upon this Court’s admiralty
+jurisdiction and the Jones Act, 46 U.S.C.App. § 688. I. Defendants contend they are entitled to
+summary judgment. The standard used to determine whether a motion for summary judgment should be
+granted or denied is stated by our Court of Appeals as follows: “A moving party is entitled to
+summary judgment ‘if the pleading, depositions, answers to interrogatories, and admissions on file,
+together with the affidavits, if any, show that there is no genuine issue as to material fact and
+that the moving party is entitled to judgment as a matter of law.’ Fed R.Civ.Pro. 56(c). See
+Charbonnages de France v. Smith, 597 F.2d 406 (4th Cir.1979). “A genuine issue of material fact
+exists ‘if the evidence is such that a reasonable jury could return a verdict for the nonmov-ing
+party.’ Anderson v. Liberty Lobby, Inc., 477 U.S. 242, 248, 106 S.Ct. 2505, 2510, 91 L.Ed.2d 202
+(1986). In considering a motion for summary judgement, the court is required to view the facts and
+draw reasonable inferences in a light most favorable to the nonmoving party. Id. at 255, 106 S.Ct.
+at 2513-14. The plaintiff is entitled to have the credibility of all his evidence presumed. Miller
+v. Leathers, 913 F.2d 1085, 1087 (4th Cir.1990), cert. denied, 498 U.S. 1109, 111 S.Ct. 1018, 112
+L.Ed.2d 1100 (1991). The party seeking summary judgment has the initial burden to show absence of
+evidence to support the nonmoving party’s case. Celotex Corp. v. Catrett, 477 U.S. 317, 325, 106
+S.Ct. 2548, 2553-54, 91 L.Ed.2d 265 (1986). The opposing party must demonstrate that a triable issue
+of fact exists; he may not rest upon mere allegations or denials. Anderson, 477 U.S. at 248, 106
+S.Ct. at 2510. A mere scintilla of evidence supporting the ease is insufficient. Id.” Shaw v.
+Stroud, 13 F.3d 791, 798 (4th Cir.), cert. denied, — U.S. -, 115 S.Ct. 67, 130 L.Ed.2d 24, and cert.
+denied, — U.S. -, 115 S.Ct. 68, 130 L.Ed.2d 24 (1994). Accord, McCoy v. United Postal Service, 890
+F.Supp. 529, 531 n. 3 (S.D.W.Va.1995) (Haden, C.J.); Browning v. Snead, 886 F.Supp. 547, 549-50
+(S.D.W.Va.1995) (Haden, C.J.). II. Mon River asserts it is not liable for any negligence occurring
+on or unseaworthiness of the Lillian G. It relies on the bareboat charter agreement between it and
+Chaplin. It claims the bareboat charter turns exclusive control, operation and navigation of the
+vessel over to Chaplin, thus relieving it of responsibility for Plaintiffs injuries. For the reasons
+that follow the Court agrees. The owner of a vessel is normally liable for injuries caused by the
+vessel’s un seaworthiness. McAleer v. Smith, 57 F.3d 109, 111-12 (1st Cir.1995), citing, Seas
+Shipping Co. v. Sieracki, 328 U.S. 85, 90, 66 S.Ct. 872, 875, 90 L.Ed. 1099 (1946) (citing, The
+Osceola, 189 U.S. 158, 23 S.Ct. 483, 47 L.Ed. 760 (1903)); Moore v. Phillips Petroleum Co., 912 F.2d
+789, 792 (5th Cir.1990) (“The vessel owner remains responsible for the seaworthiness of the
+vessel[.]”). Nonetheless, an owner may turn the exclusive possession, control and navigation over to
+another party through a bare-boat, or demise charter. A bareboat charter is “created when ‘the owner
+of the vessel .-.. completely and exclusively relinquishes] possession, command, and navigation
+thereof to the demisee. [They are] therefore tantamount to, though just short of, an outright
+transfer of ownership. However, anything short of such a complete transfer is a time or voyage
+charter party or not a charter party at all.’ ” McAleer v. Smith, supra, 57 F.3d at 113, citing,
+Guzman v. Pichirilo, 369 U.S. 698, 699-700, 82 S.Ct. 1095, 1096, 8 L.Ed.2d 205 (1962) (internal
+quotation and citation omitted). See Wheatley v. Gladden, 660 F.2d 1024, 1026 (4th Cir.1981) (“Under
+a bareboat charter the charterer assumes all the obligations of ownership, including those of the
+employer and crew. United States v. W.M. Webb, Inc., [397 U.S. 179, 90 S.Ct. 850, 25 L.Ed.2d 207
+(1970) ]. The test for establishing a bareboat charter is one of control — has the owner completely
+relinquished possession and command of the boat.”); Carolina Seafoods, Inc. v. United States, 581
+F.2d 1098, 1100 (4th Cir.1978). The charterer under a bareboat or demise charter thus stands in the
+shoes of the owner and becomes the owner pro hoc vice. Because the bareboat charterer stands in the
+shoes of the owner, the bareboat charterer assumes the duties and responsibilities appurtenant to
+ownership, and the owner is relieved of the same. As stated recently in Dow Chemical Co. v. Texaco
+Refining and Marketing, Inc., 887 F.Supp. 853, 863, (E.D.Va.1995): “Under a bareboat or demise
+charter, full possession and control of the chartered vessel is turned over to the charterer. Reed
+v. S.S. Yaka, 373 U.S. 410, 412, 83 S.Ct. 1349, 1351, 10 L.Ed.2d 448 (1963) (‘It has long been
+recognized in the law of admiralty that for many, if not most purposes the bareboat charterer is to
+be treated as the owner, generally called the owner pro hoc vice.’); Alex L. Parks & Edward V.
+Cattel, Jr., The Law of Tug, Tow & Pilotage 875 (3d ed.1994). The United States Court of Appeals for
+the Fourth Circuit has stated: This rule recognizes that when the owner of the vessel enters into a
+demise charter, he surrenders all possession and control of the vessel to the charterer. Since he no
+longer has the right to control the use of the vessel, he is no longer charged with the duties and
+liabilities of its ownership. Conversely, the demise charterer ‘becomes subject to the duties and
+responsibilities of ownership.’ Kerr-McGee Corp. v. Law, 479 F.2d 61, 63 (4th Cir.1973) (quoting
+Leary v. United States, 81 U.S. (14 Wall) 607, 610, 20 L.Ed. 756 (1872)). As a bareboat charterer,
+the charterer is held to be a bailee of the vessel. Richmond Sand & Gravel Corp. v. Tidewater
+Constr. Corp., 170 F.2d 392, 393 (4th Cir.1948); 2b Benedict on Admiralty § 51, at 3-3 (1995).” See
+Forrester v. Ocean Marine Indem. Co., 11 F.3d 1213, 1215 (5th Cir.1993) (“In a demise charter, the
+vessel owner transfers full possession and control to the charterer, who in turn furnishes the crew
+and maintenance for the vessel (thus the term ‘bare-boat’).”). And as stated in Wolsiffer v.
+Atlantis Submarines, Inc., 848 F.Supp. 1489, 1494 (D.Haw.1994): “In order for the agreement to be
+considered a demise charter, complete transfer of possession, command, and navigation of the vessel
+from the owner to the charterer is necessary. Guzman v. Pichirilo, 369 U.S. 698, 700, 82 S.Ct. 1095,
+1096-97, 8 L.Ed.2d 205 (1962); Gaspard v. Diamond M. Drilling Co., 593 F.2d 605, 606 (5th Cir.1979).
+‘Anything short of ... a complete transfer is a time or voyage charter party or not a charter party
+at all.’ Guzman, 369 U.S. at 700, 82 S.Ct. at 1096. Courts are reluctant to find a demise char ter
+when the dealings between the parties are consistent with any lesser relationship.” The owner of a
+vessel impliedly warrants its seaworthiness to the point of delivery to the bareboat charterer.
+Kerr-McGee Corp. v. Law, 479 F.2d 61 (4th Cir.1973); Dow Chemical Co. v. Texaco Refining and
+Marketing, Inc., 887 F.Supp. at 864, citing, Dempsey v. Downing, 11 F.2d 15, 17 (4th Cir.1926); In
+the Matter of D & H Corp., 1994 WL 574143, *1 (E.D.Va.1993); Cos v. French-Polish Shipping Co., 1986
+WL 13361, *1 (D.Md.1986); Interocean Shipping Co. v. M/V Lygaria, 512 F.Supp. 960 (D.Md.1981). If
+the vessel was unseaworthy when delivered, the owner is liable for injuries caused by such
+unseaworthiness notwithstanding the existence of the bareboat charter. If the vessel is seaworthy
+upon delivery, the bareboat charterer then assumes the responsibilities of the owner for liability
+for injuries thereafter caused by the unseaworthiness of the vessel. McAleer v. Smith, supra, 57
+F.3d at 112 (“In general, if there is an owner pro hac vice, the title owner will be absolved of
+personal liability (except for defective conditions that existed before the owner pro hac vice took
+control of the vessel).”); Forrester v. Ocean Marine Indem. Co., 11 F.3d at 1215 (“The demise
+charterer is ... responsible in personam for the negligence of the crew and the unseaworthiness of
+the vessel.”); Wolsiffer v. Atlantis Submarines, Inc., 848 F.Supp. at 1494 (“The remedy of
+unseaworthiness for an injured seaman applies in rem against the vessel and in personam against
+either the title owner of the vessel ..., or the owner pro hac vice under a demise charter.”
+(citation omitted).). Plaintiff acknowledges the existence of the bareboat charter agreement and
+does not dispute the bareboat agreement has the effect of giving Chaplin the status of owner pro hac
+vice. Plaintiff argues Mon River is liable for the alleged unseaworthiness of the vessel, however,
+by virtue of the “charter party” agreement executed between Chaplin and Mon River the same day the
+bareboat charter agreement was executed. Plaintiff argues that pursuant to the charter party
+agreement, Mon River controlled Chaplin and the vessel, and is thus liable for its alleged
+unseaworthiness. Defendants, on the other hand, contend the agreement was a “time charter” agreement
+that left control and possession of the vessel solely in the hands of Chaplin, the pro hac vice
+owner under the bareboat agreement. The second agreement entered into by the parties is entitled
+“Charter Party.” In the first paragraph of the agreement, the contract purports to be a “Time
+Charter.” Plaintiff acknowledges the time charter did not place any responsibility upon Mon River to
+furnish the crew or man the vessel. Instead, he relies only on paragraph six of the agreement, which
+states: “6. REPORTS: Chaplin shall require that the master of the towboat report daily by radio the
+position of the tow and any other information that it is requested by [Mon River] regarding the
+status of the barges that it has or has had in tow. Chaplin shall require that the master of the
+towboat report weekly by radio the engine hours of the two main engines and the two generator
+engines on the boat. Chaplin shall furnish to Mon River copies of all purchases of fuel oil,
+lubricating oil and hydraulic oil which are purchased for consumption aboard the towboat M/V Lillian
+G. Mon River Towing will pay said vendors of such oils directly.” Plaintiff suggests the foregoing,
+combined with his contention that the vessel frequently refueled and underwent engine maintenance at
+a location operated by Mon River, is enough to create a genuine issue of material fact regarding the
+control of the vessel for liability purposes. The Court disagrees. In contrast to a bareboat
+charter, a time charter does not vest operational control in the time charterer. Instead, the time
+charterer directs the destinations of the vessel without assuming any responsibility for the actual
+operation of the ship. Therefore, the time charterer is not held hable for the negligence of the
+crew or the unseaworthiness of the vessel. As stated by the Court of Appeals for the Fifth Circuit:
+“A time charter only entitles the charterer to the use of the vessel for a specified time. The
+vessel owner retains primary possession and control. Although a time charterer does direct the
+destinations of the vessel, he does not control the details of vessel operation required to reach
+those destinations. As a non-demise charterer, the time charterer is thus not liable for claims of
+negligence of the crew or for the unseaworthiness of the vessel. But the time charterer may be
+liable in that capacity for his own negligence.” (footnotes omitted and emphasis added). Forrester
+v. Ocean Marine Indem. Co., 11 F.3d at 1215. In Moore v. Phillips Petroleum Co., 912 F.2d at 791-92,
+the Court distinguished the responsibilities of time charterers from those of owners as follows:
+“Under the traditional time-charter agreement, the time charterer directs the vessel’s commercial
+activities. It may designate the cargo to be carried and determine the vessel’s routes and
+destinations. * * * The time charterer’s duties are different from the vessel owner’s duties. The
+vessel owner remains responsible for the seaworthiness of the vessel, e.g., Nichimen Co. v. M.V.
+Farland, 462 F.2d 319, 331 (2nd Cir.1972), dangerous conditions on board, e.g., Migut v. Hyman-
+Michaels Co., 571 F.2d 352, 356 (6th Cir.1978), navigational errors by the pilot and negligence by
+the crew, e.g., Delta Transload, Inc. v. MV Navios Commander, 818 F.2d 445, 451 (5th Cir.1987), and
+a reasonably safe means of access for those boarding or leaving the vessel, see, e.g., Tittle v.
+Aldacosta, 544 F.2d 752, 755 (5th Cir.1977) [.]” See Wolsiffer v. Atlantis Submarines, Inc., 848
+F.Supp. at 1494; Roby v. Hyundai Merchant Marine, 700 F.Supp. 316, 320-21 (E.D.La.1988); Vlachos v.
+M/V Proso, 637 F.Supp. 1354, 1364 n. 14 (D.Md.1986). As noted above, the Plaintiff acknowledges the
+delegation of responsibilities pursuant to the bareboat charter. Under said agreement, Mon River
+transferred possession, control and command of the Lillian G to Chaplin. Chaplin thus became the pro
+hoc vice owner of the vessel, legally responsible for the unseaworthiness of the vessel after the
+date of transfer. Chaplin, in turn, executed a purported time charter agreement with Mon River.
+Although Plaintiff argues the time charter had the effect of a demise charter transferring control
+over the vessel back to Mon River, the Court disagrees. In essence, it appears Plaintiff is arguing
+Chaplin, after becoming the bareboat charterer and pro hac vice owner, executed a bareboat charter
+back to Mon River, making Mon River both paper owner and pro hac vice owner of the vessel. The Court
+notes the following: first, Plaintiff does not dispute Chaplin was a bareboat charterer under the
+first agreement, and therefore pro hac vice owner of the vessel; second, in regard to the second
+agreement between Chaplin and Mon River a time charter, rather than a bareboat charter, is presumed
+to exist as a matter of law and such presumption may be overcome only by specific facts showing a
+demise charter existed, Wolsijfer, supra, 848 F.Supp. at 1494, citing Gaspard v. Diamond M. Drilling
+Co., 593 F.2d 605, 607 (5th Cir.1979); third, the charter is an unrebutted time charter. Plaintiff
+has been unable to present specific facts showing a demise charter was executed between Chaplin and
+Mon River after Mon River demised the vessel to Chaplin. The Court thus concludes the time charter
+is precisely what it purports to be. Therefore, because Chaplin, the pro hac vice owner of the boat,
+was responsible for the seaworthiness of the vessel on the date of the Plaintiff’s injury, the Court
+GRANTS Mon River’s motion for summary judgment on the unseaworthiness claim against it. III. Chaplin
+contends it is entitled to summary judgment because Plaintiff failed to produce evidence the vessel
+was unseaworthy or that Chaplin was negligent. Plaintiff has attached several portions of
+depositions he asserts create a question of material fact regarding the seaworthiness of the Lillian
+G at the time of the incident and of Chaplin’s negligence. Claims of negligence under the Jones Act
+or of unseaworthiness subject the plaintiff to a light burden of proof. As stated by the Court of
+Appeals in Estate of Larkins v. Farrell Lines, Inc., 806 F.2d 510, 512 (4th Cir.1986), cert. denied,
+481 U.S. 1037, 107 S.Ct. 1973, 95 L.Ed.2d 814 (1987): “Under the Jones Act, the standard of recovery
+has not been a strict one, and seamen have been afforded the ‘judicially developed doctrine of
+liability granted to railroad workers by the FELA,’ Kernan v. American Dredging Co., 355 U.S. 426,
+439, 78 S.Ct. 394, 401, 2 L.Ed.2d 382 (1958), including its light burden of proof on negligence and
+causation. While the standard of causation for unseaworthiness is ‘more demanding,’ Chisholm v.
+Sabine Towing and Transportation Co., 679 F.2d 60, 62 (5th Cir.1982), the plaintiff’s burden in
+either case has been characterized as light. Vallot v. Central Gulf Lines, 641 F.2d 347, 350 (5th
+Cir.1981). The jury’s role, moreover, has been an important one in such cases, and doubts have been
+resolved in favor of submission.” A. A comprehensive but concise overview of an owner’s
+responsibility for a vessel’s seaworthiness was provided in Drachenberg v. Canal Barge Co., Inc.,
+571 F.2d 912, 918 (5th Cir.1978): “The owner of the vessel has a duty to provide a vessel that is
+reasonably fit for its intended use. This duty to provide a seaworthy vessel requires that the
+vessel, its gear, appurtenances, and operation must be reasonably safe. Seas Shipping Co. v.
+Sieracki 1946, 328 U.S. 85, 66 S.Ct. 872, 90 L.Ed. 1099, 1946 A.M.C. 698. ‘That (a vessel) owner is
+liable to indemnify a seaman for an injury caused by the unseaworthiness of the vessel or its
+appurtenant appliances and equipment has been settled law in this country ever since The Osceola,
+189 U.S. 158, 23 S.Ct. 483, 47 L.Ed. 760; Mahnich v. Southern S.S. Co., 321 U.S. 96, 99, 64 S.Ct.
+455, [457] 88 L.Ed. 561, 564, [ (1944) ] and authorities cited.’ Id. at 90, 66 S.Ct. 872, at 875, 90
+L.Ed. at 1103.
 
 

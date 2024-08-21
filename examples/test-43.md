@@ -1,142 +1,156 @@
 **gold_text:**
-The amendment to Rule 25(a) (1) was intended to dispel unwarranted rigidity and allow more
-flexibility in substitution. “It was intended that liberal effect be given to the 1963 amendment.”
-Roscoe v. Roscoe, 126 U.S.App.D.C. 317, 322, 379 F.2d 94, 99 (1967). “[T]he 90 day period was not
-intended to act as a bar to otherwise meritorious actions.” Staggers v. Otto Gerdau Co., 359 F.2d
-292, 296 (2d Cir. 1966).
+. Although McCarthy involved the sale of three pounds, we do not understand that the sale
+necessarily must involve such a large quantity to constitute a threat to the security of the
+installation especially where, as here, the purchase ostensibly was for the use of several persons.
+Also, we are aware of the possible implication by the Court of Military Appeals that a police-
+controlled buy can pose no actual threat to the military community. See United States v. Alef, 3
+M.J. 414, 418 n. 12 (C.M.A. 1977). Such an interpretation of the Court’s remark would be
+inconsistent with its accompanying observation that the sale in Alef did not “appear” to involve a
+threat and that the locale of the sale and other circumstances are likewise relevant to the
+remoteness or probability that illicit substances will filter back into the military community.
+Moreover, this Court’s conclusions that jurisdiction can exist under similar circumstances recently
+have been affirmed. See, for example, United States v. Valles-Santana, 54 C.M.R. 383, 389 n. 10, 2
+M.J. 1049 (A.C.M.R.1976), aff'd, 4 M.J. 84 (C.M.A. 1977); United States v. Ortiz-Negron, 54 C.M.R.
+362, 365 n. 10, 2 M.J. 1038 (A.C.M.R. 1976), aff'd, 4 M.J. 84 (C.M.A.1977).
 
 **Generations:**
 
 
 ***GPT-4o:***
-This stringent interpretation contrasts sharply with the intent of the 1963 amendments to Rule 25
-and Rule 6(b), which aimed to inject flexibility and fairness into the substitution process. As
-noted in 379 F.2d 94 and 359 F.2d 292, the amendments were designed to eliminate the inequities and
-hardships caused by the rigid two-year limitation originally imposed. The Advisory Committee
-emphasized that the revised rules were to be liberally construed to allow courts discretion in
-extending the substitution period, recognizing the difficulties that could arise in promptly
-identifying and notifying the proper representative of the deceased.   Given this context, the
-defendant’s counsel's suggestion of death, which lacked identification of a proper representative,
-failed to initiate the 90-day countdown. This interpretation aligns with the judicial precedent that
-courts should prioritize the equitable administration of justice over strict procedural formalities.
-Thus, the district court erred in dismissing the plaintiffs' action without granting the requested
-extension, especially considering the circumstances that inhibited timely substitution, such as the
-injury to plaintiffs' counsel and the ongoing legal processes in the probate court.  We, therefore,
-reverse the judgment and remand for further proceedings consistent with this opinion, ensuring that
-the substitution process adheres to the flexible and just principles intended by the amendments to
-the Federal Rules of Civil Procedure.
+The reference cases reinforce our decision on the jurisdictional issue. In United States v.
+McCarthy, 2 M.J. 1049, the Court established that jurisdiction could not rest solely on the military
+status of the individuals involved but required a comprehensive analysis of circumstances, adhering
+to Relford criteria. Similarly, United States v. Beeker, as cited in 2 M.J. 1038, emphasized the
+military's interest in maintaining order within its jurisdiction. Our case parallels Beeker where
+on-post negotiations and off-post arrangements were deemed sufficient for military jurisdiction.
+Moreover, the case discussed in 3 M.J. 414 highlighted the necessity to evaluate the locale and
+context of illicit transactions, emphasizing that on-post negotiations and off-post sales could
+still fall under military jurisdiction if they were military in origin and intended usage within the
+military community was apparent. Here, the transaction initiated on-post and intended usage on-post
+were verified, aligning with McCarthy's emphasis on the military connection.   Thus, consistent with
+precedents (2 M.J. 1049, 2 M.J. 1038, and 3 M.J. 414), we uphold the military court's jurisdiction
+and affirm the sentence.
 
 
 **Label:** 
 
 
 ***Meta-Llama-3-8B-Instruct:***
-  In the context of Rule 25(a) (1) of the Federal Rules of Civil Procedure, the suggestion of death
-is a crucial step in the process of substituting a deceased party with a proper representative.
-However, not all suggestions of death are created equal. In cases where the suggestion of death is
-made by a party's attorney, but fails to identify a successor or representative of the deceased, the
-90-day period for substitution may not be triggered.  As noted in 359 F.2d 292, the Advisory
-Committee on Civil Rules intended to provide a more flexible standard for substitution, allowing for
-extensions of time and dispensing with the rigid two-year period previously in place. However, this
-flexibility is contingent upon the suggestion of death providing sufficient information to permit
-the court to proceed with substitution.  In the present case, the suggestion of death made by the
-defendant's attorney was deficient in that it failed to identify a successor or representative of
-the deceased. This lack of specificity rendered the suggestion ineffective in triggering the 90-day
-period for substitution, as explained in 379 F.2d 94.  Furthermore, the court's discretion to
-enlarge the time period for substitution, as provided by Rule 6(b), is not a blank check. Rather, it
-is intended to be exercised in a judicious and reasonable manner, taking into account the particular
-circumstances of each case.  In light of these principles, we conclude that the district court erred
-in dismissing the action with prejudice. The case should be remanded for further proceedings,
-allowing the parties to properly substitute a representative of the deceased and continue the action
-in a manner consistent with the Federal Rules of Civil Procedure.
+  The reference cases provided, 3 M.J. 414, 2 M.J. 1049, and 2 M.J. 1038, offer valuable insights
+into the concept of court-martial jurisdiction. In each case, the court has examined the criteria
+for establishing jurisdiction, particularly in cases involving off-post drug offenses.  In 3 M.J.
+414, the court held that the sale of marijuana between two service members, though occurring off-
+post, was still subject to military jurisdiction due to the military connection. The court
+emphasized that the transaction was "engendered by on-post conversations and was military in its
+origin, military in its participants, and military in the destination and use of the marijuana."
+Similarly, in 2 M.J. 1049, the court found that a service member's sale of heroin to a civilian
+undercover agent, though occurring off-post, was still subject to military jurisdiction. The court
+noted that the service member's actions were "clearly a violation of military rules and regulations"
+and that the military had a strong interest in maintaining the sanctity of its camps, posts, and
+stations.  In 2 M.J. 1038, the court examined the issue of jurisdiction in a case involving the sale
+of marijuana between two service members, with one being an informant working for the OSI. The court
+held that the sale was still subject to military jurisdiction, despite occurring off-post, due to
+the military connection.  In conclusion, the reference cases demonstrate that court-martial
+jurisdiction can be established even in cases involving off-post drug offenses, so long as there is
+a sufficient military connection. The courts have emphasized the importance of maintaining the
+sanctity of military installations and the military's interest in regulating the conduct of its
+members. Ultimately, the determination of jurisdiction depends on a detailed analysis of the facts
+under the criteria established in Relford v. Commandant, 401 U.S. 355, 91 S.Ct. 649, 28 L.Ed.2d 102
+(1971).
 
 
 **Label:** 
 
 
-**citations:** ['379 F.2d 94', '359 F.2d 292']
+**citations:** ['3 M.J. 414', '2 M.J. 1049', '2 M.J. 1038']
 
-***short_citations_0:*** 379 F.2d 94
+***short_citations_0:*** 3 M.J. 414
 
-the proper parties. * * * Unless the motion for substitution is made not later than 90 days after the death is suggested upon the record by service of a statement of the fact of the death as provided herein for the service of the motion, the action shall be dismissed as to the deceased party.” Here not only had the 90-day period not expired when the court entered summary judgment, the appellant by her motion for reconsideration had specifically invoked the discretion of the court. Rule 6(b) provides pertinently that when “by these rules * * * an act is required or allowed to be done at or within a specified time, the court for cause shown may at any time in its discretion (1) with or without motion or notice order the period enlarged if request therefor is made before the expiration of the period originally prescribed * * Originally the Rule had precluded an extension of time for taking action under Rule 25(a) (1), but by purposeful amendment, it was sought to relieve against the hardship of the Court’s holding in Anderson v. Yungkau, 329 U.S. 482, 67 S.Ct. 428, 91 L.Ed. 436 (1947). It was intended that liberal effect be given to the 1963 amendment. Graham v. Pennsylvania Railroad, 119 U.S.App.D.C. 335, 342 F.2d 914 (1964), cert. denied, 381 U.S. 904, 85 S.Ct. 1446, 14 L.Ed.2d 286 (1965). We are constrained to reverse for further proceedings not inconsistent with this opinion. Reversed. The only “party” then
+8, this is a factor to be established, not generalized. . It may well be argued that where one service member sells or transfers contraband narcotics, drugs or marihuana to another service member, it is reasonably foreseeable that those illicit substances will filter back into the military community. Although we certainly do not discount such a possibility, this factor must be weighed in relationship to the locale of the sale or transfer, and such other circumstances as would, in and of themselves, determine the remoteness or probability of such an occurrence. This sale and all the essential underlying negotiations occurred off-post with all indications from the record being that the parties had blended into the civilian community. Further, as the “victim,” Sp5 Hines, in this case, was an informant working for the OSI in a controlled buy, it is beyond cavil that the evidence of record indicates the factual impossibility of the substance being reintroduced into the military community in the manner spoken of in United States v. McCarthy, supra. Additionally, while we recognize the need to consider this possibility in each case, we cannot embrace the “commuter distance” theory which has been offered, nor its corollary that the decision of a commander to disperse military police outside the territorial confines of his installation to participate in attempts to curtail off-post drug activity constitutes indicia of a threat to a military installation sufficient to warrant a finding of court-martial jurisdiction. . As detailed in notes 7, 8, and 10, we
 
-***short_citations_1:*** 359 F.2d 292
+***short_citations_1:*** 2 M.J. 1049
 
-insertion of a “reasonable time” standard. In 1963, the Advisory Committee suggested the present rule and noted: “Present Rule 25(a) (1), together with present Rule 6(b), results in an inflexible requirement that an action be dismissed as to a deceased party if substitution is not carried out within a fixed period measured from the time of the death. The hardships and inequities of this unyielding requirement plainly appear from the cases. * * * The amended rulé establishes a time limit for the motion to substitute based not upon the time of the death, but rather upon the time information of the death is provided by means of a suggestion of death upon the record, i. e. service of a statement of the fact of the death.” See Notes of Advisory Committee on the Civil Rules, 28 U.S.C. Rule 25 (1964). Rule 6(b) of the Federal Rules of Civil Procedure was also amended in 1963 and the prohibition against extending the time for taking action under Rule 25 was eliminated. The Advisory Committee on the Civil Rules noted: “It is intended that the court shall have discretion to enlarge that period.” The amendments of Rules 6(b) and 25(a) (1) provided needed flexibility. It was assumed that discretionary extensions would be liberally granted. Movants under Rule 25 can ordinarily control when a death is “suggested upon the record” and appellants’ attorney was under no obligation to file his affidavit of Staggers’ death on the date he did. He could have filed
+morale and fitness for duty of persons in the armed forces. As a result, the circumstances of no military significance described in O’Callahan as an essential condition for the limitation of court-martial jurisdiction were not previously to be considered present. However, the effect of Beeker, supra, was severely limited by the United States Court of Military Appeals in United States v. McCarthy. In that case the Court was faced with the issue of determining whether military jurisdiction existed where the transfer of three pounds of marijuana by one soldier to another occurred just outside of a post gate at Fort Campbell, Kentucky. The court there concluded jurisdiction could not be predicated solely on military status of the wrongdoer and the victim but, rather, a detailed analysis of the facts under the criteria enunciated in Relford, supra was required. Finding jurisdiction, the Court balanced the Relford factors which indicated military jurisdiction and those not favoring such jurisdiction. In dicta, the court noted that the case was materially different from that in which an off-duty soldier commits a drug offense while blended into the general civilian populace. Turning to the case before us, we believe that we must separate the factual events into the three separate transactions. With regard to the events which occurred on 21 November 1975 and which constituted Specifications 1 and 2 of Charge I, we find criteria 1, 6, 9 and 10 favor military jurisdiction over these specification. Here, the appellant was in a “duty status” on the
+
+***short_citations_2:*** 2 M.J. 1038
+
+urging of the United States Court of Military Appeals, this Court is in the process of re-examining the matter of drug offenses as they are affected by the O’Callahan doctrine. The guiding light provided by United States v. Beeker, 18 U.S.C.M.A. 563, 40 C.M.R. 275 (1969) has been dimmed, if not snuffed, by the United States Court of Military Appeals in its McCarthy opinion and this Court must now approach each case on an ad hoc basis using as a beacon the Relford duodenary rules. These 12 canons have been so oft repeated of late as to be all but a litany, therefore, we won’t duplicate them here. Suffice to say the Relford decision clearly recognized the paramount interest of the military in maintaining the sanctity of its camps, posts and stations against the presence of criminal activities. While it is true beyond cavil that the sale for which appellant was tried was ultimately consummated in Colorado Springs, a place not under military control, it cannot be said with equal certainty that that location is where the crime was committed. Appellant, clearly evidenced during the on-post negotiations his assention to Velasco’s request to buy some heroin. His only reservation concerned his ability to find some of the drug. We find, therefore, that a sufficient portion of the transaction occurred on post to justify a conclusion that the sale was “committed” on post. Furthermore, the fact that the purchaser was a civilian undercover agent does not, in our view, diminish one
 
 **prev_text:**
-LEVENTHAL, Circuit Judge: The District Court held that Rule 25(a) (1) of the Federal Rules of Civil
-Procedure required dismissal of the plaintiffs’ tort action because defendant’s counsel had filed a
-suggestion of death of the defendant yet plaintiff had not made any substitution of parties within
-90 days. We reverse on the ground that the suggestion of death, which was neither filed by nor
-identified a successor or representative of the deceased, such as an executor or administrator, was
-ineffective to trigger the running of the 90-day period provided by the Rule. Mr. and Mrs. John
-Rende filed an action in the District Court individually and on behalf of their infant son who had
-been struck and injured by Alfred S. Kay while driving his car. On August 27, 1967, defendant Kay
-died. On September 1, 1967, the defendant’s attorney, a term used here to identify the lawyer who
-had been retained by deceased to defend the action, and who had duly entered an appearance as
-attorney for defendant, filed a suggestion of death in the District Court, giving notice to
-plaintiffs’ attorney. That same day there was filed in the Orphans Court for Montgomery County,
-Maryland, residence of the deceased, his will naming his widow as executrix, but the will had not
-been probated, nor any legal representative appointed for the estate at the time of the filing of
-this appeal. Plaintiffs’ attorney was injured on October 14, 1967. On returning to practice early in
-1968, he learned that no successor to defendant Kay had yet been appointed, and he moved to certify
-the case to the ready calendar. The defendant’s attorney opposed this on grounds that discovery
-procedures had not been completed. The case was delayed and placed on the ready calendar as of June
-7, 1968. However, in April 1968, the defendant’s attorney moved in his own name to dismiss the
-action on the ground that Rule 25(a) (1) required plaintiffs to move to substitute a proper party
-for the deceased within 90 days of the suggestion of death. Plaintiffs filed an opposition and
-motion for substitution of the proper party, and sought an extension of the time for substitution as
-allowed by Rule 6(b). At argument, plaintiffs’ counsel asserted the “suggestion of death was
-defective in that it did not list the name of the proper party; that is the legal representative of
-the defendant.” The court responded: “That would not be his burden.” The court dismissed the action
-with prejudice. Prior to its amendment in 1963, Rule 25(a) (1) required the court to dismiss a case
-if no motion for substitution was filed within two. years after date of death, and no extensions of
-this period were allowed under Rule 6(b). The rule was rigorously applied, often with harsh results,
-and was called “easily the poorest rule of all the Federal Rules.” In 1955 the Advisory Committee on
-Rules for Civil Procedure recommended that the two-year period be changed to a “reasonable time”
-standard. In 1961 the Advisory Committee on Civil Rules again suggested the Rule be made more
-flexible. In 1963 the Supreme Court made changes in Rule 25(a) (1) and in Rule 6(b) so as to provide
-a 90-day time limit from the filing of a suggestion of death, and to give the court discretion to
-extend that time. The Committee Notes explaining the amendments state: Present Rule 25(a) (1),
-together with present Rule 6(b), results in an inflexible requirement that an action be dismissed as
-to a deceased party if substitution is not carried out within a fixed period measured from the time
-of death. The hardships and inequities of this unyielding requirement plainly appear from the cases.
-* * * The amended rule establishes a time limit for the motion to substitute based not upon the time
-of the death, but rather upon the time information of the death is provided by means of a suggestion
-of death upon the record. * * * A motion to substitute may be made by any party or by the
-representative of the deceased party without awaiting the suggestion of death. Indeed, the motion
-will usually be so made. If a party or the representative of the deceased party desires to limit the
-time within which another may make the motion, he may do so by suggesting the death upon the record.
-(Emphasis added.) Under the amended Rule either a party or “the successors or representatives of the
-deceased party” may avoid delay in effecting substitution for the deceased party either by filing a
-motion for substitution or by suggesting death on the record and thus triggering the 90-day period
-which begins with suggestion of death. The Advisory Committee, in outlining that suggestion of death
-could be made by “the representative of the deceased party” plainly contemplated that the suggestion
-emanating from the side of the deceased would identify a representative of the estate, such as an
-executor or administrator, who could be substituted for the deceased as a party, with the action
-continued in the name of the representative. The addition of “successor” in the Rule would take care
-of the case of, say, the distributee of an estate that had been distributed, but would not make a
-material difference in the aspect under consideration. Form 30, for suggestion of death, which was
-provided in order to expedite and facilitate implementation of the amendment, provides: A.B.
-[described as a party, or as executor, administrator, or other representative or successor of C.D.,
-the deceased party\ suggests upon the record, pursuant to Rule 25(a) (1), the death of C.D.
-[describe as party] during the pendency of this action. Added Jan. 21, 1963, eff. July 1, 1963.
-[Emphasis added.] Although the attorney for the defendant was retained to “represent” the deceased
-as his counsel, he is not a person who could be made a party, and is not a “representative of the
-deceased party” in the sense contemplated by Rule 25(a) d). In our opinion the Rule, as amended,
-cannot fairly be construed, as the de fendant’s attorney argues, to make his suggestion of death
-operative to trigger the 90-day period even though he was neither a successor nor representative of
-the deceased, and gave no indication of what person was available to be named in substitution as a
-representative of the deceased. Counsel’s construction would open the door to a tactical maneuver to
-place upon the plaintiff the burden of locating the representative of the estate within 90 days. We
-can conceive of cases wherein even the lawyer retained to represent a defendant might know the
-defendant had died, yet not readily know where his estate would be administered. In the present
-case, plaintiff’s attorney did know the court of probate, but he did not know whether probate of the
-will might be contested, or who would be appointed representative of the estate. The tactic of the
-defendant’s attorney would place on plaintiff the burden, where no conventional representative was
-appointed for the estate in probate court, of instituting machinery in order to produce some
-representative of the estate ad litem, pending appointment of the representative contemplated by law
-of the domicile of the deceased.
+OPINION OF THE COURT FULTON, Senior Judge: The appellant, stationed at Fort Campbell, Kentucky,
+pleaded guilty to and was convicted of selling marijuana “at Montgomery County, Tennessee,” which
+bounds the southeast portion of the post. The military judge, sitting as a special court-martial,
+sentenced him to a bad-conduct discharge, confinement at hard labor for four months, forfeiture of
+$240.00 pay per month for four months, and reduction to the grade of Private E—1. The convening
+authority approved the sentence. On appeal as well as at the trial, appellant contests the court’s
+jurisdiction over the offense on the basis that there was insufficient service connection. See
+United States v. McCarthy, 25 U.S.C.M.A. 30, 54 C.M.R. 30, 2 M.J. 26 (1976). He also asserts that
+Article 54(c) of the Uniform Code of Military Justice, 10 U.S.C. § 854(c), was violated by his
+removal from Fort Campbell (to the United States Disciplinary Barracks at Fort Leavenworth, Kansas)
+shortly after the trial and before the convening authority’s action. In the exercise of our
+responsibilities under Article 66 of the Code, we also note issues concerning the adequacy of the
+judge’s plea bargain inquiry (United States v. Green, 24 U.S.C.M.A. 299, 52 C.M.R. 10, 1 M.J. 453
+(1976)) and the admissibility of records of prior nonjudicial punishment (United States v. Booker, 3
+M.J. 443 (C.M.A. 1977), opinion modified, 4 M.J. 95 (C.M.A. 1977)). The jurisdictional issue in this
+case involves an increasingly familiar scenario. A fellow member of the appellant’s battery, working
+as an informer for the installation’s drug suppression unit, observed the appellant with
+approximately one pound of marijuana in the unit area. He told the appellant that he had a “friend”
+(in reality a military police investigator (MPI)) who wanted to buy some marijuana and he
+interpreted the appellant’s response as an open invitation to visit the appellant’s off-post trailer
+home for that purpose at any time. About a week later, without more specific arrangements, the
+informer and the MPI visited the appellant’s trailer in a trailer park about seven miles from Fort
+Campbell near Clarksville, Tennessee, arriving after the appellant seemingly had retired for the
+night. They informed the appellant that they wished to buy marijuana to use at a party on the
+installation. He withdrew several packets of marijuana from his refrigerator. His customers selected
+two and the investigator paid the appellant $40.00. The trial judge denied appellant’s motion to
+dismiss for lack of subject-matter jurisdiction. We agree with his implicit rejection of the
+appellant’s version of the transaction, but still face the question whether the prosecution’s
+version, when measured against the criteria established in Relford v. Commandant, 401 U.S. 355, 91
+S.Ct. 649, 28 L.Ed.2d 102 (1971), supports military jurisdiction. We hold that it does. The informer
+and the appellant were members of the same unit and had a duty relationship. The appellant was seen
+to possess the drug on the post. The intent to sell drugs to the informer’s friend was formed and
+expressed on post. Only payment and delivery remained to be accomplished, and that alone was
+accomplished away from the installation. It was done under circumstances in which the appellant knew
+or had reason to believe that the usage of the drug would occur on the installation. The appellant’s
+drug transaction was engendered by on-post conversations and was military in its origin, military in
+its participants, and military in the destination and use of the marijuana, so far as the seller
+knew. Only the land on which it was consummated was not under military jurisdiction. We believe,
+therefore, that this was a transaction in which the military interest in deterrence was distinct
+from and greater than that of the civilian jurisdiction and in which that interest could not
+adequately be vindicated by the civilian courts. Having resolved the jurisdictional issue against
+the appellant, we necessarily turn to the remaining issues. As to the supplementally assigned error,
+the Court of Military Appeals has not found error in the incarceration of an accused at another
+place before the convening authority’s action on the record. See, for example, United States v.
+Cruz-Rijos, 24 U.S.C.M.A. 271, 274, 51 C.M.R. 723, 726, 1 M.J. 429, 432 (1976). Even were that Court
+to change its view (see United States v. Vick, 3 M.J. 266 (C.M.A.1977) (order granting petition for
+review)), we think that remedial action would require a showing of specific prejudice, of which
+there is none here. We also hold that the military judge’s inquiry concerning the plea bargain fully
+satisfied the requirements of United States v. Green, supra. He did not literally ask whether his
+interpretation of the agreement comported with counsel’s understanding of its meaning and effect.
+Presumably this was because there could be no difference: the entire agreement consisted only of one
+short paragraph which recited the appellant’s offer to plead guilty to one specification and the
+convening authority’s agreement to withdraw the other two specifications and limit any confinement
+imposed to a four-month term. There were no other requirements (such as for a stipulation) and no
+“understandings” (such as a list of contingencies that might annul the agreement) involved. The
+record expressly indicates that there were no other, unwritten, agreements to be interpreted and
+understood. A question as to the admissibility of a record of non-judicial punishment imposed on the
+appellant for an earlier offense arises because of the Court of Military Appeals’ decision in United
+States v. Booker, supra. That Court has not yet addressed the question of Booker’s retroactivity,
+but we have done so in several unpublished opinions. In our view, the same reasons that militated
+against according retroactivity to United States v. Courtney, 24 U.S.C.M.A. 280, 51 C.M.R. 796, 1
+M.J. 438 (1976), are operative here. See United States v. Jackson, 3 M.J. 101 (C.M.A.1977). In
+particular, we note that Middendorf v. Henry, 425 U.S. 25, 96 S.Ct. 1281, 47 L.Ed.2d 556 (1976), did
+not specifically call into question the admissibility of records of non judicial punishment and that
+countless such records have been admitted under service regulations implementing paragraph 75 d of
+the Manual for Courts-Martial, United States, 1969 (Revised edition). Accordingly, we rest our
+decision on the nonapplicability of Booker to trials occurring before that decision and we do not
+seek to divine its requirements as to records of nonjudicial punishment. The findings of guilty and
+the sentence are affirmed. Judge MOUNTS and Judge TALIAFERRO concur. . The investigator testified
+that he did this routinely in off-post drug purchases “to establish the military connection.” The
+appellant testified that, at the outset, he had not even wanted to discuss any drug transaction with
+the informant because “I don’t believe I should carry on with any kind of stuff like that on the
+military reservation.” He also testified that, when they came to his trailer, he believed that the
+informer and his friend wanted the marijuana for an off-post party with some civilian girls and that
+he specifically warned them not to take the marijuana onto the military installation.
 
 

@@ -1,142 +1,133 @@
 **gold_text:**
-The amendment to Rule 25(a) (1) was intended to dispel unwarranted rigidity and allow more
-flexibility in substitution. “It was intended that liberal effect be given to the 1963 amendment.”
-Roscoe v. Roscoe, 126 U.S.App.D.C. 317, 322, 379 F.2d 94, 99 (1967). “[T]he 90 day period was not
-intended to act as a bar to otherwise meritorious actions.” Staggers v. Otto Gerdau Co., 359 F.2d
-292, 296 (2d Cir. 1966).
+. 1932 A.M.C. 933, 935 (W.D.N.Y.). See also Mississippi Valley Barge Line Co. v. Indian Towing Co.,
+232 F.2d 750, 753 n. 4 (5th Cir. 1956); La Hue v. United Fruit Co., 181 F.2d 895, 898-899 (4th Cir.
+1950); McConnochie v. Kerr, 9 F. 50, 53 (S.D.N.Y.1881); The Saragossa, Fed.Cas.No.12,334, 1 Ben.
+551, 553 (1867).
 
 **Generations:**
 
 
 ***GPT-4o:***
-This stringent interpretation contrasts sharply with the intent of the 1963 amendments to Rule 25
-and Rule 6(b), which aimed to inject flexibility and fairness into the substitution process. As
-noted in 379 F.2d 94 and 359 F.2d 292, the amendments were designed to eliminate the inequities and
-hardships caused by the rigid two-year limitation originally imposed. The Advisory Committee
-emphasized that the revised rules were to be liberally construed to allow courts discretion in
-extending the substitution period, recognizing the difficulties that could arise in promptly
-identifying and notifying the proper representative of the deceased.   Given this context, the
-defendant’s counsel's suggestion of death, which lacked identification of a proper representative,
-failed to initiate the 90-day countdown. This interpretation aligns with the judicial precedent that
-courts should prioritize the equitable administration of justice over strict procedural formalities.
-Thus, the district court erred in dismissing the plaintiffs' action without granting the requested
-extension, especially considering the circumstances that inhibited timely substitution, such as the
-injury to plaintiffs' counsel and the ongoing legal processes in the probate court.  We, therefore,
-reverse the judgment and remand for further proceedings consistent with this opinion, ensuring that
-the substitution process adheres to the flexible and just principles intended by the amendments to
-the Federal Rules of Civil Procedure.
+The District Court's determination conflicts with established precedents regarding marine peril and
+salvage. In our view, the factual record does not support the trial judge's conclusion that there
+was no "reasonably to be apprehended" peril. As noted in The Freedom, 181 F.2d 895, “It is not
+necessary that there be danger immediately impending, but if the vessel is stranded so that it is
+subject to the potential danger of damage or destruction, she may well be a subject of salvage
+services.”  Furthermore, the classification of service as towage or salvage must be carefully
+examined. In 232 F.2d 750, the court distinguished between "simple" towage and salvage, noting that
+the latter involves a higher degree of service. The Fort Myers' services, being intensive and
+involving re-floating efforts, arguably qualify as salvage, a point that necessitates thorough
+factual inquiry.  Moreover, in 9 F. 50, it was established that a settlement for towage does not
+preclude a reclassification to salvage if services rendered meet salvage criteria. The Fort Myers'
+claim, therefore, should not be dismissed purely on contractual grounds without a detailed
+evaluation of the services rendered.  The judgment is reversed, and the case is remanded for a new
+trial consistent with these principles.
 
 
 **Label:** 
 
 
 ***Meta-Llama-3-8B-Instruct:***
-  In the context of Rule 25(a) (1) of the Federal Rules of Civil Procedure, the suggestion of death
-is a crucial step in the process of substituting a deceased party with a proper representative.
-However, not all suggestions of death are created equal. In cases where the suggestion of death is
-made by a party's attorney, but fails to identify a successor or representative of the deceased, the
-90-day period for substitution may not be triggered.  As noted in 359 F.2d 292, the Advisory
-Committee on Civil Rules intended to provide a more flexible standard for substitution, allowing for
-extensions of time and dispensing with the rigid two-year period previously in place. However, this
-flexibility is contingent upon the suggestion of death providing sufficient information to permit
-the court to proceed with substitution.  In the present case, the suggestion of death made by the
-defendant's attorney was deficient in that it failed to identify a successor or representative of
-the deceased. This lack of specificity rendered the suggestion ineffective in triggering the 90-day
-period for substitution, as explained in 379 F.2d 94.  Furthermore, the court's discretion to
-enlarge the time period for substitution, as provided by Rule 6(b), is not a blank check. Rather, it
-is intended to be exercised in a judicious and reasonable manner, taking into account the particular
-circumstances of each case.  In light of these principles, we conclude that the district court erred
-in dismissing the action with prejudice. The case should be remanded for further proceedings,
-allowing the parties to properly substitute a representative of the deceased and continue the action
-in a manner consistent with the Federal Rules of Civil Procedure.
+  The cases before us present an interesting question regarding the scope of salvage services and
+the factors that determine whether a service is considered "low order" or "high order." The
+reference case 232 F.2d 750 provides guidance on this issue, stating that whether a service is
+"simple" or "low order" salvage is left to the considered judgment of the judge, as life's variables
+defy repetition.  In the present case, the district court held that the services rendered by Fort
+Myers Shell were not in danger, either imminent or reasonably to be apprehended. However, the
+reference case 181 F.2d 895 suggests that a stranded vessel may be subject to potential danger of
+damage or destruction, even if not immediately impending. Therefore, we cannot say that as a matter
+of law peril was not reasonably to be apprehended.  The district court also concluded that Fort
+Myers was contractually obligated to unbeach the barges, citing a modification and continuation of
+the prior towing contract. However, the reference case 9 F. 50 states that a shipowner's request for
+a salvage service and the salvors' response in furnishing it, standing alone, does not create an
+implied contract. Therefore, we cannot find sufficient evidence to support the district court's
+conclusion.  In conclusion, the district court's determination that Fort Myers was not entitled to
+salvage compensation is reversed, and the case is remanded for a new trial. The issue of the scope
+of the peril and the factors that determine whether a service is considered "low order" or "high
+order" salvage must be fully explored and factually supported.
 
 
 **Label:** 
 
 
-**citations:** ['379 F.2d 94', '359 F.2d 292']
+**citations:** ['232 F.2d 750', '181 F.2d 895', '9 F. 50']
 
-***short_citations_0:*** 379 F.2d 94
+***short_citations_0:*** 232 F.2d 750
 
-the proper parties. * * * Unless the motion for substitution is made not later than 90 days after the death is suggested upon the record by service of a statement of the fact of the death as provided herein for the service of the motion, the action shall be dismissed as to the deceased party.” Here not only had the 90-day period not expired when the court entered summary judgment, the appellant by her motion for reconsideration had specifically invoked the discretion of the court. Rule 6(b) provides pertinently that when “by these rules * * * an act is required or allowed to be done at or within a specified time, the court for cause shown may at any time in its discretion (1) with or without motion or notice order the period enlarged if request therefor is made before the expiration of the period originally prescribed * * Originally the Rule had precluded an extension of time for taking action under Rule 25(a) (1), but by purposeful amendment, it was sought to relieve against the hardship of the Court’s holding in Anderson v. Yungkau, 329 U.S. 482, 67 S.Ct. 428, 91 L.Ed. 436 (1947). It was intended that liberal effect be given to the 1963 amendment. Graham v. Pennsylvania Railroad, 119 U.S.App.D.C. 335, 342 F.2d 914 (1964), cert. denied, 381 U.S. 904, 85 S.Ct. 1446, 14 L.Ed.2d 286 (1965). We are constrained to reverse for further proceedings not inconsistent with this opinion. Reversed. The only “party” then
+that changes the “simple” towage to something else? What does it become? What makes “low order” salvage into something higher ? How much higher in rank does it have to be to invoke a new or different rule? There is thus no certainty in the absolute proposed. It only aids when the crucial fact is determined — that the case is a simple one. But whether it is something less or something more must inevitably be left to the considered judgment of the judge. Since life’s variables defy repetition, today’s “low order” situation may present much different concerns than tomorrow’s. The category itself is too elastic to think that once identified as such, the result or solution must be inflexible. While claiming, as the Trial Court found, that it was of a low order, the salved barge owner concedes that these were salvage services and not towage, as such. The salved barge MV 603, worth approximately $60,000.00, 195 feet long, 35-foot beam, depth 11 feet, went adrift off of Petit Bois Island (south of Pascagoula, Mississippi) about 7:30 p. m., February 14. She was light, drawing perhaps two feet leaving nine feet of her hull plus the height of special hatch covers exposed to the wind. Twenty-two hours later, 5:00 p. m., February 15, she was sighted 30 miles south of Mobile Bay which meant she had drifted approximately 35 miles to the southeast. Sixteen hours later, 9:00 a. m., February 16, she was sighted by a Coast Guard plane
 
-***short_citations_1:*** 359 F.2d 292
+***short_citations_1:*** 181 F.2d 895
 
-insertion of a “reasonable time” standard. In 1963, the Advisory Committee suggested the present rule and noted: “Present Rule 25(a) (1), together with present Rule 6(b), results in an inflexible requirement that an action be dismissed as to a deceased party if substitution is not carried out within a fixed period measured from the time of the death. The hardships and inequities of this unyielding requirement plainly appear from the cases. * * * The amended rulé establishes a time limit for the motion to substitute based not upon the time of the death, but rather upon the time information of the death is provided by means of a suggestion of death upon the record, i. e. service of a statement of the fact of the death.” See Notes of Advisory Committee on the Civil Rules, 28 U.S.C. Rule 25 (1964). Rule 6(b) of the Federal Rules of Civil Procedure was also amended in 1963 and the prohibition against extending the time for taking action under Rule 25 was eliminated. The Advisory Committee on the Civil Rules noted: “It is intended that the court shall have discretion to enlarge that period.” The amendments of Rules 6(b) and 25(a) (1) provided needed flexibility. It was assumed that discretionary extensions would be liberally granted. Movants under Rule 25 can ordinarily control when a death is “suggested upon the record” and appellants’ attorney was under no obligation to file his affidavit of Staggers’ death on the date he did. He could have filed
+the water. She was out of commerce and useless in her then situation — to all intents and purposes a total loss as a vessel unless floated.” In The Freedom, 1932 A.M.C. 933 at page 9^35, the Court said: “It is not necessary that there be danger immediately impending, but if the vessel is stranded so that it is subject to the potential danger of damage or destruction she may well be a subject of salvage services.” One of the cases most favorable to libelants is The Sahara, D.C., 246 F. 141, 142, where the Court found that “the ship’s engines might have gotten her off” and “during all the time the weather was good, and the ship was in no imminent danger.” A salvage award was granted but the Court went on to say, 246 F. at page 142, that “the coast, however, is very dangerous, and no ship can wisely take chances with it.” See also Baker v. Hemenway, 2 Fed. Cas. page 463, No. 770, where a stranded vessel could' have freed herself, but a 1 salvage award was allowed because it was doubtful whether she could have got ten off before high water, at which time she would have been placed in a dangerous situation. In the instant case there was substantial evidence to support the conclusion of the District Court that the San Jose was not in danger, either imminent or reasonably to be apprehended. There was, as previously stated, evidence that the San Jose
+
+***short_citations_2:*** 9 F. 50
+
+and intent of the award were made known to the parties to it, that they acquiesced in it, and that the moneys in question were paid to Kerr in execution of it. A settlement thus made is binding upon the parties to it. Neither side, as against the other, can afterwards legally or equitably assert any claims at variance with its intent or legal effect. Though the service rendered might be subsequently adjudged to be a salvage service, in proceedings by other persons interested, Kerr could claim no benefit from any share in the compensation that would have been awarded to him as owner, though it might be much larger than that received in his settlement; nor could the owners of the Colon claim .any protection or indemnity from Kerr against the claims of any other persons not bound by the award and settlement. Nor can the court vary the amount of compensation awarded; but, as it was made upon the basis of a towage service only, it must bo presumed to have been much less than would have been awarded to Kerr upon the basis of a salvage compensation. The Emily B. Souder, 15 Blatchf. 185. As this court cannot directly set aside or vary the terms of the •award and settlement, so it cannot do so indirectly at the suit of others by compelling Kerr to share with thorn the money which was paid to him for his own separate interest as owner, unless others have a clear
 
 **prev_text:**
-LEVENTHAL, Circuit Judge: The District Court held that Rule 25(a) (1) of the Federal Rules of Civil
-Procedure required dismissal of the plaintiffs’ tort action because defendant’s counsel had filed a
-suggestion of death of the defendant yet plaintiff had not made any substitution of parties within
-90 days. We reverse on the ground that the suggestion of death, which was neither filed by nor
-identified a successor or representative of the deceased, such as an executor or administrator, was
-ineffective to trigger the running of the 90-day period provided by the Rule. Mr. and Mrs. John
-Rende filed an action in the District Court individually and on behalf of their infant son who had
-been struck and injured by Alfred S. Kay while driving his car. On August 27, 1967, defendant Kay
-died. On September 1, 1967, the defendant’s attorney, a term used here to identify the lawyer who
-had been retained by deceased to defend the action, and who had duly entered an appearance as
-attorney for defendant, filed a suggestion of death in the District Court, giving notice to
-plaintiffs’ attorney. That same day there was filed in the Orphans Court for Montgomery County,
-Maryland, residence of the deceased, his will naming his widow as executrix, but the will had not
-been probated, nor any legal representative appointed for the estate at the time of the filing of
-this appeal. Plaintiffs’ attorney was injured on October 14, 1967. On returning to practice early in
-1968, he learned that no successor to defendant Kay had yet been appointed, and he moved to certify
-the case to the ready calendar. The defendant’s attorney opposed this on grounds that discovery
-procedures had not been completed. The case was delayed and placed on the ready calendar as of June
-7, 1968. However, in April 1968, the defendant’s attorney moved in his own name to dismiss the
-action on the ground that Rule 25(a) (1) required plaintiffs to move to substitute a proper party
-for the deceased within 90 days of the suggestion of death. Plaintiffs filed an opposition and
-motion for substitution of the proper party, and sought an extension of the time for substitution as
-allowed by Rule 6(b). At argument, plaintiffs’ counsel asserted the “suggestion of death was
-defective in that it did not list the name of the proper party; that is the legal representative of
-the defendant.” The court responded: “That would not be his burden.” The court dismissed the action
-with prejudice. Prior to its amendment in 1963, Rule 25(a) (1) required the court to dismiss a case
-if no motion for substitution was filed within two. years after date of death, and no extensions of
-this period were allowed under Rule 6(b). The rule was rigorously applied, often with harsh results,
-and was called “easily the poorest rule of all the Federal Rules.” In 1955 the Advisory Committee on
-Rules for Civil Procedure recommended that the two-year period be changed to a “reasonable time”
-standard. In 1961 the Advisory Committee on Civil Rules again suggested the Rule be made more
-flexible. In 1963 the Supreme Court made changes in Rule 25(a) (1) and in Rule 6(b) so as to provide
-a 90-day time limit from the filing of a suggestion of death, and to give the court discretion to
-extend that time. The Committee Notes explaining the amendments state: Present Rule 25(a) (1),
-together with present Rule 6(b), results in an inflexible requirement that an action be dismissed as
-to a deceased party if substitution is not carried out within a fixed period measured from the time
-of death. The hardships and inequities of this unyielding requirement plainly appear from the cases.
-* * * The amended rule establishes a time limit for the motion to substitute based not upon the time
-of the death, but rather upon the time information of the death is provided by means of a suggestion
-of death upon the record. * * * A motion to substitute may be made by any party or by the
-representative of the deceased party without awaiting the suggestion of death. Indeed, the motion
-will usually be so made. If a party or the representative of the deceased party desires to limit the
-time within which another may make the motion, he may do so by suggesting the death upon the record.
-(Emphasis added.) Under the amended Rule either a party or “the successors or representatives of the
-deceased party” may avoid delay in effecting substitution for the deceased party either by filing a
-motion for substitution or by suggesting death on the record and thus triggering the 90-day period
-which begins with suggestion of death. The Advisory Committee, in outlining that suggestion of death
-could be made by “the representative of the deceased party” plainly contemplated that the suggestion
-emanating from the side of the deceased would identify a representative of the estate, such as an
-executor or administrator, who could be substituted for the deceased as a party, with the action
-continued in the name of the representative. The addition of “successor” in the Rule would take care
-of the case of, say, the distributee of an estate that had been distributed, but would not make a
-material difference in the aspect under consideration. Form 30, for suggestion of death, which was
-provided in order to expedite and facilitate implementation of the amendment, provides: A.B.
-[described as a party, or as executor, administrator, or other representative or successor of C.D.,
-the deceased party\ suggests upon the record, pursuant to Rule 25(a) (1), the death of C.D.
-[describe as party] during the pendency of this action. Added Jan. 21, 1963, eff. July 1, 1963.
-[Emphasis added.] Although the attorney for the defendant was retained to “represent” the deceased
-as his counsel, he is not a person who could be made a party, and is not a “representative of the
-deceased party” in the sense contemplated by Rule 25(a) d). In our opinion the Rule, as amended,
-cannot fairly be construed, as the de fendant’s attorney argues, to make his suggestion of death
-operative to trigger the 90-day period even though he was neither a successor nor representative of
-the deceased, and gave no indication of what person was available to be named in substitution as a
-representative of the deceased. Counsel’s construction would open the door to a tactical maneuver to
-place upon the plaintiff the burden of locating the representative of the estate within 90 days. We
-can conceive of cases wherein even the lawyer retained to represent a defendant might know the
-defendant had died, yet not readily know where his estate would be administered. In the present
-case, plaintiff’s attorney did know the court of probate, but he did not know whether probate of the
-will might be contested, or who would be appointed representative of the estate. The tactic of the
-defendant’s attorney would place on plaintiff the burden, where no conventional representative was
-appointed for the estate in probate court, of instituting machinery in order to produce some
-representative of the estate ad litem, pending appointment of the representative contemplated by law
-of the domicile of the deceased.
+GODBOLD, Circuit Judge: This is an appeal from a final judgment dismissing with prejudice the libel-
+ant’s claim for salvage, which was entered at the conclusion of the libelant’s case upon the
+respondents’ motion for a “directed verdict.” The facts before the trial court, by-stipulation and
+oral testimony, give the following picture. In early March of 1965, Edmonson Towing Company
+telephoned the libelant Fort Myers Shell asking that Fort Myers send a tug to meet Edmonson’s Tug
+Nellie in the Gulf of Mexico outside Fort Myers, Florida and there take over the tow of two steel
+barges belonging to the respondents. Edmonson and Fort Myers agreed that Fort Myers would pick up
+the barges from the Nellie on Saturday morning, March 6, at the sea buoy off Sanibel. Island and
+would then tow the barges up the Caloosahatchie River into port, delivering them to the respondents’
+Tug Leon Roddy. A price of $1000 was set for the proposed towing job. The Nellie arrived off Sanibel
+Island in the late afternoon of Friday, March 5. Fort Myers was notified of the Nellie’s arrival but
+declined to send its tug to meet the Nellie at that time, claiming that the weather was too rough
+and that nightfall was approaching. During the night the Nellie’s hawser parted and she lost her
+tow. The two barges were washed ashore on Fort Myers Beach, and the Nellie ran aground farther up
+the coast. Later Friday night the Coast Guard located the two barges, secured them by lines to palm
+trees on high ground, and notified Fort Myers. Fort Myers put watchmen on the barges and telephoned
+Edmonson and Edmonson’s towing broker, either or both of whom requested that Fort Myers do what it
+could to free the barges and turn them over to the Tug Leon Roddy. According to the testimony of two
+officers of Fort Myers, further conversations were had with Ed-monson, the respondent Oliver, and
+the United States Salvage Association, each of whom said that he would see that Fort Myers would be
+compensated, but none of whom made an explicit offer to pay. On Saturday morning Fort Myers’ tug,
+Belle of Myers, proceeded down the Caloosahatchie River and, after pulling the Tug Nellie off the
+flats, located the two barges. The barges were positioned in tandem above the normal high water
+mark, parallel to the shoreline, near the remaining pilings of an old dock. For the remainder of
+Saturday the Belle of Myers tried unsuccessfully to float the barges. On the following day she was
+joined by another of Fort Myers’ tugs and by the Leon Roddy, and after considerable effort the three
+succeeded in re-floating both stranded vessels. The Leon Roddy towed one barge into port. Fort
+Myers, claiming to have received no clear promises of payment from any of the other parties,
+retained the other barge to secure payment of its fees. It later sent a bill for its services in the
+amount of $3,514.42 to the respondent with copies to Edmonson and the Salvage Association. In due
+course libels for salvage services were brought against the barges and their owners. The District
+Court found that on the basis of the stipulated facts and the testimony of libelant’s witnesses the
+barges were not in “imminent” danger and, therefore, as a matter of law they were not subject to a
+peril of the sea. It also held that Fort Myers’ services in unbeaching the barges constituted a
+continuation of its towage contract to deliver the barges to the respondent, rather than a voluntary
+act of salvage. Finally, the court held that Fort Myers’ conduct was so inequitable as to bar it
+from relief. The standard of “imminent” danger employed by the trial judge is not the test of marine
+peril. As this court stated in The Leonie O. Louise, 4 F.2d 699, 700 (1925), the standard is not
+whether the peril is imminent, but rather whether it is “reasonably to be apprehended.” As was said
+in The Freedom: It is not necessary that there be danger immediately impending, but if the vessel is
+stranded so that it is subject to the potential danger of damage or destruction she may well be a
+subject of salvage services. On the record before us we cannot say that as a matter of law peril was
+not reasonably to be apprehended. The barges were stranded. There were pilings nearby. The sudden
+storms that arise in the Gulf of Mexico at all times of the year have frequently accounted for cases
+before the admiralty courts. See, e. g., Caillouet v. The Jackie G., 196 F.Supp. 951, 953
+(E.D.La.1961) The issue of the scope of the peril should be the subject of a full factual inquiry
+with the proper standard of law applied thereto. The District Court’s determination that Fort Myers
+was contractually obligated to unbeach the barges lacks adequate support in the record. By agreeing
+to a modification and continuation of the prior towing contract whereby it would be obligated to
+refloat the barges on the beach rather than pick them up at the sea buoy, Fort Myers would have
+undertaken a time-consuming and extensive unbeaching operation for the same fee that had been set
+for a relatively simple towing job. We are unable to find sufficient evidence to indicate that such
+an agreement was made. The fact that a shipowner requests a salvage service and that the salvors in
+response furnish it, standing alone, does not create an implied contract so as to defeat a salvage
+claim. See Atlantic Towing Co. v. The Caliche, 47 F.Supp. 610, 614 (S.D.Ga.1942). The District Court
+also concluded that Fort Myers “forced its services upon the barges” and that it would be grossly
+inequitable under the circumstances of this case to require the respondents to pay. Here too, the
+facts in the limited record before us are not sufficient to support the court’s conclusion. The
+judgment of the court below is reversed and the case remanded for a new trial. . As the Supreme
+Court long ago stated in The Sabine, 101 U.S. 384, 25 L.Ed. 982 (1880): Three elements are necessary
+to a valid salvage claim: (1) A marine peril. (2) Service voluntarily rendered when not required as
+an existing duty or from a special contract. (3) Success in whole or in part, or that the service
+rendered contributed to such success. The trial court in the present case determined that the first
+two elements were absent.
 
 

@@ -1,142 +1,204 @@
 **gold_text:**
-The amendment to Rule 25(a) (1) was intended to dispel unwarranted rigidity and allow more
-flexibility in substitution. “It was intended that liberal effect be given to the 1963 amendment.”
-Roscoe v. Roscoe, 126 U.S.App.D.C. 317, 322, 379 F.2d 94, 99 (1967). “[T]he 90 day period was not
-intended to act as a bar to otherwise meritorious actions.” Staggers v. Otto Gerdau Co., 359 F.2d
-292, 296 (2d Cir. 1966).
+In Smith v. Payne (C. C. A.) 269 F. 1, 3, the court said: “But in order to safeguard himself from
+the ordinary 'dangers of his employment, as the law requires him to do, a traek employee is not
+called upon to seek out and discover extraordinary dangers imposed on him by his employer, but may
+assume that his employer and his agents have exercised for his safety such care as the circumstances
+reasonably admit” — the court adding in Ches. & Ohio Ry. v. De Atley, 241 U. S. 310, 36 S. Ct. 564,
+566, 60 L. Ed. 1016: “Unless the want of care and the danger arising from it are so obvious that an
+ordinarily careful person, under the circumstances, would observe and appreciate them.” “The federal
+Employers’ Liability Act places a coemployee’s negligence, when it is the ground of the action, in
+the same relation as that of the employer upon the matter of assumption of risk.” See Chicago, R. I.
+& P. Ry. Co. v. Ward, 252 U. S. 18, 21, 22, 40 S. Ct. 275, 276, 64 L. Ed. 430.
 
 **Generations:**
 
 
 ***GPT-4o:***
-This stringent interpretation contrasts sharply with the intent of the 1963 amendments to Rule 25
-and Rule 6(b), which aimed to inject flexibility and fairness into the substitution process. As
-noted in 379 F.2d 94 and 359 F.2d 292, the amendments were designed to eliminate the inequities and
-hardships caused by the rigid two-year limitation originally imposed. The Advisory Committee
-emphasized that the revised rules were to be liberally construed to allow courts discretion in
-extending the substitution period, recognizing the difficulties that could arise in promptly
-identifying and notifying the proper representative of the deceased.   Given this context, the
-defendant’s counsel's suggestion of death, which lacked identification of a proper representative,
-failed to initiate the 90-day countdown. This interpretation aligns with the judicial precedent that
-courts should prioritize the equitable administration of justice over strict procedural formalities.
-Thus, the district court erred in dismissing the plaintiffs' action without granting the requested
-extension, especially considering the circumstances that inhibited timely substitution, such as the
-injury to plaintiffs' counsel and the ongoing legal processes in the probate court.  We, therefore,
-reverse the judgment and remand for further proceedings consistent with this opinion, ensuring that
-the substitution process adheres to the flexible and just principles intended by the amendments to
-the Federal Rules of Civil Procedure.
+The defendant argues that the plaintiff, as an experienced worker, should have anticipated the risks
+associated with his employment and taken necessary precautions. However, established precedents
+elucidate that an employee is not mandated to discover extraordinary dangers imposed by employer
+negligence. As cited in Erie R. Co. v. Healy, 269 F. 1, and further supported by C. & O. Ry. Co. v.
+De Atley, 241 U.S. 310, 315 (36 S. Ct. 564), an employee is entitled to presume that adequate safety
+measures have been implemented by the employer, except in scenarios where extraordinary dangers are
+markedly apparent. The evidence underscored by the testimonies, particularly regarding the train
+operating without a headlight in poor visibility conditions, supports a jury finding of
+extraordinary danger that the plaintiff could not have reasonably anticipated.  In alignment with
+prior judgments like Gila Valley Ry. Co. v. Hall and Seaboard Air Line v. Horton, (ubi supra, 60 L.
+Ed. 1016), the rule remains that employees should not bear the burden of discovering hazards caused
+by employer negligence, nor assume risks unless blatantly obvious. Thus, the jury's verdict, which
+surmised negligence on part of the defendant due to lack of precautionary measures in a smoke-filled
+tunnel, stands on firm legal grounds.  Given the context and substantiation of hazards not
+inherently assumed in the employee’s work duties, it was reasonable for the jury to conclude
+negligence on the defendant's part, thereby justifying the judgment awarded to the plaintiff. The
+court did not err in its decisions aligned with these precedents, nor in rejecting defense requests
+for specific jury instructions that failed to encapsulate these rulings accurately.
 
 
 **Label:** 
 
 
 ***Meta-Llama-3-8B-Instruct:***
-  In the context of Rule 25(a) (1) of the Federal Rules of Civil Procedure, the suggestion of death
-is a crucial step in the process of substituting a deceased party with a proper representative.
-However, not all suggestions of death are created equal. In cases where the suggestion of death is
-made by a party's attorney, but fails to identify a successor or representative of the deceased, the
-90-day period for substitution may not be triggered.  As noted in 359 F.2d 292, the Advisory
-Committee on Civil Rules intended to provide a more flexible standard for substitution, allowing for
-extensions of time and dispensing with the rigid two-year period previously in place. However, this
-flexibility is contingent upon the suggestion of death providing sufficient information to permit
-the court to proceed with substitution.  In the present case, the suggestion of death made by the
-defendant's attorney was deficient in that it failed to identify a successor or representative of
-the deceased. This lack of specificity rendered the suggestion ineffective in triggering the 90-day
-period for substitution, as explained in 379 F.2d 94.  Furthermore, the court's discretion to
-enlarge the time period for substitution, as provided by Rule 6(b), is not a blank check. Rather, it
-is intended to be exercised in a judicious and reasonable manner, taking into account the particular
-circumstances of each case.  In light of these principles, we conclude that the district court erred
-in dismissing the action with prejudice. The case should be remanded for further proceedings,
-allowing the parties to properly substitute a representative of the deceased and continue the action
-in a manner consistent with the Federal Rules of Civil Procedure.
+  Based on the given reference cases, it appears that the defendant, New York, New Haven & Hartford
+Railroad, failed to take reasonable precautions to ensure the safety of the plaintiff, who was a
+track employee. The case revolves around the idea that the defendant knew of the dangers present in
+the tunnel, yet failed to take necessary measures to prevent the accident.  In reference case 269 F.
+1, the court established that an employee may assume that his employer has exercised proper care
+with respect to his safety until notified to the contrary, unless the want of care and the danger
+arising from it are so obvious that an ordinarily careful person, under the circumstances, would
+observe and appreciate them.  In reference case 36 S. Ct. 564, the court ruled that the Federal
+Employers' Liability Act abolishes the defense of negligence of a fellow servant, except that the
+latter may be considered in fixing the damages. However, in this case, the defendant's negligence
+appears to be more egregious than that of a fellow servant, as it failed to take necessary
+precautions to prevent the accident.  Furthermore, reference case 60 L. Ed. 1016 suggests that
+circumstances may arise under which a railroad is required to take some precautions to protect
+workmen in its yards. In this case, the defendant was aware of the dangers present in the tunnel and
+failed to take necessary measures to prevent the accident.  In conclusion, the defendant's failure
+to take reasonable precautions to ensure the safety of the plaintiff constituted negligence, and the
+plaintiff is entitled to compensation for his injuries. The reference cases provide valuable
+guidance in evaluating the defendant's liability and the extent of the plaintiff's damages.
 
 
 **Label:** 
 
 
-**citations:** ['379 F.2d 94', '359 F.2d 292']
+**citations:** ['269 F. 1', '36 S. Ct. 564', '60 L. Ed. 1016']
 
-***short_citations_0:*** 379 F.2d 94
+***short_citations_0:*** 269 F. 1
 
-the proper parties. * * * Unless the motion for substitution is made not later than 90 days after the death is suggested upon the record by service of a statement of the fact of the death as provided herein for the service of the motion, the action shall be dismissed as to the deceased party.” Here not only had the 90-day period not expired when the court entered summary judgment, the appellant by her motion for reconsideration had specifically invoked the discretion of the court. Rule 6(b) provides pertinently that when “by these rules * * * an act is required or allowed to be done at or within a specified time, the court for cause shown may at any time in its discretion (1) with or without motion or notice order the period enlarged if request therefor is made before the expiration of the period originally prescribed * * Originally the Rule had precluded an extension of time for taking action under Rule 25(a) (1), but by purposeful amendment, it was sought to relieve against the hardship of the Court’s holding in Anderson v. Yungkau, 329 U.S. 482, 67 S.Ct. 428, 91 L.Ed. 436 (1947). It was intended that liberal effect be given to the 1963 amendment. Graham v. Pennsylvania Railroad, 119 U.S.App.D.C. 335, 342 F.2d 914 (1964), cert. denied, 381 U.S. 904, 85 S.Ct. 1446, 14 L.Ed.2d 286 (1965). We are constrained to reverse for further proceedings not inconsistent with this opinion. Reversed. The only “party” then
+Fed. 336; Erie R. Co. v. Healy (C. C. A.) 266 Fed. 342. But in order to safeguard himself from the ordinary dangers of his employment, as the law requires him to do, a track employe is not called upon to seek out and discover extraordinary dangers imposed on him by his employer, but may assume that his employer and his-agents have exercised for his safety such care as the circumstances reasonably admit. C. & O. Ry. Co. v. De Atley, 241 U. S. 310, 315, 36 Sup. Ct. 564, 60 L. Ed. 1016; C., R. I. & P. Ry. Co. v. Ward, 252 U. S. 18, 40 Sup. Ct. 275, 64 L. Ed; 430. Did the defendant subject Bogdan to such extraordinary dangers; and, if so, were they so obvious that he must be held, in law, to have assumed the risks arising from them? There was testimony that the engine of the train which struck the decedent was operated by the defendant without a headlight, under conditions of darkness and storm which made it difficult or impossible for the decedent, though on watch for a train, to see it, and for his companion to kpow of its approach until it had come abreast of him and had struck the decedent. If lack of evidence of negligence on the part of defendant was the ground on which the learned trial judge entered judgment of non-suit, we think he fell into error, for he could not have held, as a
 
-***short_citations_1:*** 359 F.2d 292
+***short_citations_1:*** 36 S. Ct. 564
 
-insertion of a “reasonable time” standard. In 1963, the Advisory Committee suggested the present rule and noted: “Present Rule 25(a) (1), together with present Rule 6(b), results in an inflexible requirement that an action be dismissed as to a deceased party if substitution is not carried out within a fixed period measured from the time of the death. The hardships and inequities of this unyielding requirement plainly appear from the cases. * * * The amended rulé establishes a time limit for the motion to substitute based not upon the time of the death, but rather upon the time information of the death is provided by means of a suggestion of death upon the record, i. e. service of a statement of the fact of the death.” See Notes of Advisory Committee on the Civil Rules, 28 U.S.C. Rule 25 (1964). Rule 6(b) of the Federal Rules of Civil Procedure was also amended in 1963 and the prohibition against extending the time for taking action under Rule 25 was eliminated. The Advisory Committee on the Civil Rules noted: “It is intended that the court shall have discretion to enlarge that period.” The amendments of Rules 6(b) and 25(a) (1) provided needed flexibility. It was assumed that discretionary extensions would be liberally granted. Movants under Rule 25 can ordinarily control when a death is “suggested upon the record” and appellants’ attorney was under no obligation to file his affidavit of Staggers’ death on the date he did. He could have filed
+effect, he ought to have anticipated and taken precautions to discover the danger. This is inconsistent with the rule repeatedly laid down and uniformly adhered to by this court. ■ According to our decisions, the settled rule is, not that it is the duty of an employee to exercise care to discover extraordinary dangers that may arise from the negligence of the employer or of those -for whose conduct the employer is responsible, but that the employee may assume that the employer or his agents have exercised proper care with respect to his safety until notified to the contrary, unless the want of care and the danger arising from it are so obvious that an ordinarily careful person, under the circumstances, would observe and appreciate them. Gila Valley Ry. Co. v. Hall, Seaboard Air Line v. Horton, ubi supra. We conclude that there was no error in refusing to peremptorily instruct the jury to return a verdict in favor of defendant. Error is assigned to the refusal of the trial court to instruct the jury as follows: That when plaintiff entered defendant’s service as brakeman he assumed all the ordinary risks and hazards of that employment, and' if the jury should believe from the evidence that his injuries were the natural and direct result of any of such risks or hazards, they must find for. the defendant. The instruction thus requested, was defective, and there was no error in refusing to give it in this form, since it embodied no
+
+***short_citations_2:*** 60 L. Ed. 1016
+
+effect, he ought to have anticipated and taken precautions to discover the danger. This is inconsistent with the rule repeatedly laid down and uniformly adhered to by this court. ■ According to our decisions, the settled rule is, not that it is the duty of an employee to exercise care to discover extraordinary dangers that may arise from the negligence of the employer or of those -for whose conduct the employer is responsible, but that the employee may assume that the employer or his agents have exercised proper care with respect to his safety until notified to the contrary, unless the want of care and the danger arising from it are so obvious that an ordinarily careful person, under the circumstances, would observe and appreciate them. Gila Valley Ry. Co. v. Hall, Seaboard Air Line v. Horton, ubi supra. We conclude that there was no error in refusing to peremptorily instruct the jury to return a verdict in favor of defendant. Error is assigned to the refusal of the trial court to instruct the jury as follows: That when plaintiff entered defendant’s service as brakeman he assumed all the ordinary risks and hazards of that employment, and' if the jury should believe from the evidence that his injuries were the natural and direct result of any of such risks or hazards, they must find for. the defendant. The instruction thus requested, was defective, and there was no error in refusing to give it in this form, since it embodied no
 
 **prev_text:**
-LEVENTHAL, Circuit Judge: The District Court held that Rule 25(a) (1) of the Federal Rules of Civil
-Procedure required dismissal of the plaintiffs’ tort action because defendant’s counsel had filed a
-suggestion of death of the defendant yet plaintiff had not made any substitution of parties within
-90 days. We reverse on the ground that the suggestion of death, which was neither filed by nor
-identified a successor or representative of the deceased, such as an executor or administrator, was
-ineffective to trigger the running of the 90-day period provided by the Rule. Mr. and Mrs. John
-Rende filed an action in the District Court individually and on behalf of their infant son who had
-been struck and injured by Alfred S. Kay while driving his car. On August 27, 1967, defendant Kay
-died. On September 1, 1967, the defendant’s attorney, a term used here to identify the lawyer who
-had been retained by deceased to defend the action, and who had duly entered an appearance as
-attorney for defendant, filed a suggestion of death in the District Court, giving notice to
-plaintiffs’ attorney. That same day there was filed in the Orphans Court for Montgomery County,
-Maryland, residence of the deceased, his will naming his widow as executrix, but the will had not
-been probated, nor any legal representative appointed for the estate at the time of the filing of
-this appeal. Plaintiffs’ attorney was injured on October 14, 1967. On returning to practice early in
-1968, he learned that no successor to defendant Kay had yet been appointed, and he moved to certify
-the case to the ready calendar. The defendant’s attorney opposed this on grounds that discovery
-procedures had not been completed. The case was delayed and placed on the ready calendar as of June
-7, 1968. However, in April 1968, the defendant’s attorney moved in his own name to dismiss the
-action on the ground that Rule 25(a) (1) required plaintiffs to move to substitute a proper party
-for the deceased within 90 days of the suggestion of death. Plaintiffs filed an opposition and
-motion for substitution of the proper party, and sought an extension of the time for substitution as
-allowed by Rule 6(b). At argument, plaintiffs’ counsel asserted the “suggestion of death was
-defective in that it did not list the name of the proper party; that is the legal representative of
-the defendant.” The court responded: “That would not be his burden.” The court dismissed the action
-with prejudice. Prior to its amendment in 1963, Rule 25(a) (1) required the court to dismiss a case
-if no motion for substitution was filed within two. years after date of death, and no extensions of
-this period were allowed under Rule 6(b). The rule was rigorously applied, often with harsh results,
-and was called “easily the poorest rule of all the Federal Rules.” In 1955 the Advisory Committee on
-Rules for Civil Procedure recommended that the two-year period be changed to a “reasonable time”
-standard. In 1961 the Advisory Committee on Civil Rules again suggested the Rule be made more
-flexible. In 1963 the Supreme Court made changes in Rule 25(a) (1) and in Rule 6(b) so as to provide
-a 90-day time limit from the filing of a suggestion of death, and to give the court discretion to
-extend that time. The Committee Notes explaining the amendments state: Present Rule 25(a) (1),
-together with present Rule 6(b), results in an inflexible requirement that an action be dismissed as
-to a deceased party if substitution is not carried out within a fixed period measured from the time
-of death. The hardships and inequities of this unyielding requirement plainly appear from the cases.
-* * * The amended rule establishes a time limit for the motion to substitute based not upon the time
-of the death, but rather upon the time information of the death is provided by means of a suggestion
-of death upon the record. * * * A motion to substitute may be made by any party or by the
-representative of the deceased party without awaiting the suggestion of death. Indeed, the motion
-will usually be so made. If a party or the representative of the deceased party desires to limit the
-time within which another may make the motion, he may do so by suggesting the death upon the record.
-(Emphasis added.) Under the amended Rule either a party or “the successors or representatives of the
-deceased party” may avoid delay in effecting substitution for the deceased party either by filing a
-motion for substitution or by suggesting death on the record and thus triggering the 90-day period
-which begins with suggestion of death. The Advisory Committee, in outlining that suggestion of death
-could be made by “the representative of the deceased party” plainly contemplated that the suggestion
-emanating from the side of the deceased would identify a representative of the estate, such as an
-executor or administrator, who could be substituted for the deceased as a party, with the action
-continued in the name of the representative. The addition of “successor” in the Rule would take care
-of the case of, say, the distributee of an estate that had been distributed, but would not make a
-material difference in the aspect under consideration. Form 30, for suggestion of death, which was
-provided in order to expedite and facilitate implementation of the amendment, provides: A.B.
-[described as a party, or as executor, administrator, or other representative or successor of C.D.,
-the deceased party\ suggests upon the record, pursuant to Rule 25(a) (1), the death of C.D.
-[describe as party] during the pendency of this action. Added Jan. 21, 1963, eff. July 1, 1963.
-[Emphasis added.] Although the attorney for the defendant was retained to “represent” the deceased
-as his counsel, he is not a person who could be made a party, and is not a “representative of the
-deceased party” in the sense contemplated by Rule 25(a) d). In our opinion the Rule, as amended,
-cannot fairly be construed, as the de fendant’s attorney argues, to make his suggestion of death
-operative to trigger the 90-day period even though he was neither a successor nor representative of
-the deceased, and gave no indication of what person was available to be named in substitution as a
-representative of the deceased. Counsel’s construction would open the door to a tactical maneuver to
-place upon the plaintiff the burden of locating the representative of the estate within 90 days. We
-can conceive of cases wherein even the lawyer retained to represent a defendant might know the
-defendant had died, yet not readily know where his estate would be administered. In the present
-case, plaintiff’s attorney did know the court of probate, but he did not know whether probate of the
-will might be contested, or who would be appointed representative of the estate. The tactic of the
-defendant’s attorney would place on plaintiff the burden, where no conventional representative was
-appointed for the estate in probate court, of instituting machinery in order to produce some
-representative of the estate ad litem, pending appointment of the representative contemplated by law
-of the domicile of the deceased.
+WILSON, Circuit Judge. This is an action to recover under the Federal Employers’ Liability Act (45
+USCA §§ 51-59) for injuries received through the alleged negligence of the defendant and appellant
+in this action. The case was submitted to a jury, which awarded a verdict for the plaintiff. There
+is no question but that the work in which the plaintiff, and appellee before this court, was engaged
+related to interstate commerce, and that he was subject to the Federal Employers’ Liability Act. It
+is contended at the outset, however, that the action was not brought within the two-year period of
+limitation fixed by the act. Under the law of Massachusetts and according to what now appears to be
+the uniform practice in the federal courts, an action is begun within the period of limitation when
+in good faith a writ is placed in the hands of an officer for service. Linn & Lane Timber Co. v.
+United States, 236 U. S. 574, 578, 35 S. Ct. 440, 59 L. Ed. 725. United States v. Northern Finance
+Corp. (C. C. A.) 16 F. (2d) 998. This was a question of fact. On this point we cannot say that the
+jury found in favor of the plaintiff without substantial evidence to support their finding. It is
+further urged that the defendant violated no duty it owed to the plaintiff, and that the plaintiff’s
+injuries resulted from dangers, the risk of which he assumed as one of the incidents of his
+employment. The undisputed facts are as follows: The plaintiff was employed by the defendant as a
+laborer and repair worker on its traeks and roadbed. He had been in its employ for some time, and at
+the time of his injury was an assistant or subforeman, of a crew of men. On the morning of his
+injury he, with his crew, was brought into Boston from Readville on a worktrain to work on a drain
+underneath or alongside the traeks of the defendant, between the place where the injury occurred and
+South Station. They detrained at the Back Bay Station, where they were met by an assistant
+superintendent to give the foreman in charge directions for the day’s work. They then proceeded
+along the tracks of the defendant toward the Tremont street or Castle Square bridge, which, by
+reason of its construction, forms a tunnel 230 feet long, in which are two incoming and two outgoing
+tracks of the defendant separated by a brick wall. Just before arriving at the Tremont street
+bridge, two regular trains going west passed under the bridge, filling the tunnel with smoke. The
+men waited for the smoke to clear up, and then started to walk through on the outbound tracks. When
+they were within 70 feet of the farther end of the bridge, a train passed on the Boston & Albany
+traeks, which are parallel with those of the New York, New Haven & Hartford Railroad, and are
+separated from them by a brick wall with semicircular openings in the upper half, and which formed
+one side of the tunnel 'through which the men, led by the plaintiff, were then proceeding. Through
+these openings smoke and steam from the Boston & Albany train poured and again filled the tunnel, so
+that it was impossible to see objects even a few feet away. Evidently, fully aware of the possible
+danger from a “draft” or a “switching”, or a special train entering the tunnel, they stopped and
+waited for the smoke to clear up, when suddenly out of the smoke appeared what proved to be a
+“draft,” so called, composed of three empty passenger ears, an engine, and tender, which was being
+backed from the South Station into the Roxbury yard. Some of the crew succeeded in reaching points
+of safety. The plaintiff, who was nearer the on-coming cars, failed to do so, and was hit by one of
+the cars and severely injured. It is also undisputed that before the' smoke filled the tunnel the
+men could see through the tunnel and beyond for nearly, if not quite, 900 feet, and saw no train
+approaching. It is also undisputed that, when the “draft” came around'a curve, eight or nine hundred
+feet from the tunnel, the tunnel was already filled with smoke from the Boston & Albany train, and,
+without slackening their speed or giving any warning by lights, whistle, or bell, the “draft” backed
+into the smoke-filled tunnel. There are some disputed questions of fact which are stressed by
+counsel on one side or the other. The plaintiff; testified, and his testimony was corroborated by
+two or more of the crew, that the assistant superintendent, after the smoke had cleared away, before
+the men entered the tunnel, said to them: “Go ahead. There will not be another train for fifteen or
+twenty- minutes,” or words to that effect. Others of the crew said they did not hear that statement.
+Whether given or not, it is quite clear that the plaintiff and the other members of the crew did not
+understand that it meant there would bo no “draft,” or switching, or irregular movement of cars
+during that period, since as soon as they found themselves enveloped in smoke they all stopped and
+waited, and, as one or more testified, they were on the “w-atch for all trains, all the time.” There
+is a rule of the railroad company that, on all “drafts” backing within the yard, there must be two
+men on the rear platform of the first ear as the draft proceeded, “'to watch for and call signals.”
+There was some question raised by the plaintiff’s testimony as to whether this rule was complied
+with; but we think the jury upon the evidence was not warranted in finding, nor do we know that they
+did find, that there was a breach of this rule, or that it was adopted’ to insure the safety of
+track workers. Of course, if the men on the rear platform saw eondiiions endangering the lives ,of
+workmen, which it was within their power to avoid, it would he their duty to do so, though not
+stationed on the rear platform for that purpose. Such “drafts” are obliged to proceed according to
+block signals controlling all train movements in the yards. An engineer or fireman while backing a
+“draft” obviously could not see the block signals, and such a movement, therefore, absolutely
+requires two men on the rear platform to watch for the signals and call to 'each other, operate air
+brakes, and control the movement of the train according to the signals. The two men supposed to be
+on the rear platform of the “draft” in this instance testified that they were at their stations, and
+controlled the movement of the “draft” on that morning in accordance with the signals; that they
+were obliged to stop at the block next beyond the Tremont street bridge; and there is no queslion
+but that the “draft,” after entering the tunnel, came to an emergency stop as the air brakes were
+applied. The engineer testified that he did not apply them; that he did not know until some time
+afterward the reason for their application. It is obvious, we think, from the record, that the air
+brakes must have been applied by men on the rear platform. In the smoke which rendered the tunnel as
+dark as midnight, it would he nothing unusual that the men in there, under the circumstances, did
+not notice the men on the rear platform. The testimony also differs as to the speed of the train.
+The men estimated it as 15 to 17 miles per hour, and the trainmen from 6 to 8. According to the
+first estimate, it was covering from 21 to 25 feet per second; and, according to the last, only 9 to
+12 feet per second. The plaintiff contends that his estimate is corroborated by the distance that
+the train went after the brakes were applied, viz. from 150 to 160 feet. One of the defendant’s
+witnesses admitted that, when traveling from 6 to 8 miles per hour, a “draft” such as this was, by
+an application of the air brakes, could be stopped in 20 feet. The distance it actually traveled was
+accounted for by the defendant’s witnesses by a “bad rail,” and the train sliding. The jury,
+however, may have reasonably accepted tlie testimony of the plaintiff and his witnesses and found
+that the train was traveling from 15 to 17 miles per hour when it entered the tunnel. The appellant
+contends that this was a switching movement. Whether a switching movement in the usual sense in
+which the term is used in railroad parlanee, it was within a yard and was not oil a regular
+schedule. The appellant, in view of these facts, urges that it was not obliged to ring a hell, sound
+a whistle, or show any lights, especially in the daytime; that the rule of law governing such
+conditions is that workmen in a yard must look out for their own safety; that these workmen had been
+so instructed; that they were employed in a dangerous work and assumed all the ordinary risks
+resulting therefrom, and all the extraordinary risks of which they had notice and appreciated; and
+that the latter includes the negligence of a fellow servant, although under the Federal Employers’
+Liability Act the defense of negligence of a fellow servant is abolished as well as that of
+contributory negligence, except that the latter may be considered in fixing the damages. Aerkfetz v.
+Humphreys, 145 U. S. 418, 12 S. Ct. 835, 36 L. Ed. 758; Toledo, St. L. & W. R. R. v. Allen, 276 U.
+S. 165, 169, 48 S. Ct. 215, 72 L. Ed. 513; Boldt v. Pennsylvania R. R. Co., 245 U. S. 441, 445, 38
+S. Ct. 139, 62 L. Ed. 385; Davis v. Philadelphia & R. Ry. Co. (D. C.) 276 F. 187. We do not think we
+can apply these doctrines as strictly as in the eases cited to the facts in this ease. In this
+instance the defendant knew that it had workmen employed on the tracks just beyond the tunnel toward
+South Station. It knew that its working crew on this morning was being landed at Back Bay Station at
+approximately the time the “draft” was released to be taken to the Roxbury yard; that it would reach
+this tunnel about the time this working crew would be passing along these tracks on their way to the
+locus of their work. It was familiar with the conditions existing in this tunnel Whenever trains
+passed over its own tracks or on the Boston & Albany tracks; yet, With full knowledge of these
+conditions and that the tunnel was filled with smoke, and the possibility that this working crew
+might be in there on their way to their work, it permitted a “draft” to run into this tunnel, as the
+jury may have found, at the rate of 15 or 17 miles per hour, without even a whistle or a horn that
+could be operated by the men on the rear platform. To back a train without warning even in a yard
+into a smoke-filled tunnel at such a rate of speed where workmen passing through might be caught,
+the jury may have found was a violation of a duty the defendant owed to these men, and that it was
+not unreasonable to require it either to slacken the speed of a “draft” under such circumstances, or
+provide the men on the rear platform with some means of giving warning to men who might, without
+their fault, be caught like “rats in a trap.” It is not a case where one man in a crew could watch
+and give notice of approaching trains, as in McGovern v. Phila. & Reading R. R., 235 U. S. 389, 35
+S. Ct. 127, 59 L. Ed. 283. The conditions producing the injuries in this case occurred so nearly
+contemporaneously that the men were practically helpless to avoid the danger. ! It is obvious that
+there would have been much more time to reach a point of safety if the train were moving only 6 to 8
+feet per second, than if it were moving 25. At the rate the crew testified the train was moving, it
+would only take three seconds for it to reach the plaintiff after it entered the tunnel, and from
+ten to twelve seconds if it were going only 6 to 8 miles per hour. As the court said in Central R.
+R. of N. J. v. Sharkey, 259 F. 144,149: The doctrine stated in Aerkfetz v. Humphreys, supra, “is to
+he understood in the light of the circumstances of that ease. * * * But we do hot understand that
+the court meant to lay •down the doctrine that under no circumstances could it be negligence if an
+engine in a railroad yard failed to blow its whistle or ring its bell.” Also see Colasurdo v.
+Central R. R. of N. J. (C. C.) 180 F. 832, affirmed in (C. C. A.) 192 F. 901. In otherwords,
+circumstances may arise under which a railroad is required to take some precautions to protect
+workmen in its yards.
 
 

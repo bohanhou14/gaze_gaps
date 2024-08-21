@@ -1,142 +1,226 @@
 **gold_text:**
-The amendment to Rule 25(a) (1) was intended to dispel unwarranted rigidity and allow more
-flexibility in substitution. “It was intended that liberal effect be given to the 1963 amendment.”
-Roscoe v. Roscoe, 126 U.S.App.D.C. 317, 322, 379 F.2d 94, 99 (1967). “[T]he 90 day period was not
-intended to act as a bar to otherwise meritorious actions.” Staggers v. Otto Gerdau Co., 359 F.2d
-292, 296 (2d Cir. 1966).
+With certain exceptions, 11 U.S.C.A. § 362 (West 1993) automatically stays “commencement or
+continuation” of any judicial proceeding against a debtor that was or could have been brought before
+the commencement of the debtor’s bankruptcy case. The automatic stay of the bankruptcy court,
+however, does not divest the court of “jurisdiction to hear every claim that is in any way related
+to the bankruptcy proceeding.” In re San Juan Dupont Plaza Hotel Fire Litig., 994 F.2d 956, 969 (1st
+Cir.1993) (quoting Picco v. Global Marine Drilling Co., 900 F.2d 846, 850 (5th Cir.1990)). Metrome-
+dia’s action for trademark infringement, unfair competition, breach of contract and breach of
+promissory note against Resco is a “proceeding against the debtor” and subject to the automatic
+stay. See 11 U.S.C.A. § 362(a). Mather, however, is not affected by the automatic stay because he is
+not a debtor in bankruptcy. See In re San Juan Dupont Plaza Hotel Fire Litig., 994 F.2d at 969
+(citing Austin v. Unarco Indus., Inc., 705 F.2d 1, 4 (1st Cir.1983)); In re Supermercado Gamboa,
+Inc., 68 B.R. 230, 231 (Bankr.D.P.R.1986) (section 362 ordinarily does not stay an action against
+the officers or shareholders of a debtor-corporation).
 
 **Generations:**
 
 
 ***GPT-4o:***
-This stringent interpretation contrasts sharply with the intent of the 1963 amendments to Rule 25
-and Rule 6(b), which aimed to inject flexibility and fairness into the substitution process. As
-noted in 379 F.2d 94 and 359 F.2d 292, the amendments were designed to eliminate the inequities and
-hardships caused by the rigid two-year limitation originally imposed. The Advisory Committee
-emphasized that the revised rules were to be liberally construed to allow courts discretion in
-extending the substitution period, recognizing the difficulties that could arise in promptly
-identifying and notifying the proper representative of the deceased.   Given this context, the
-defendant’s counsel's suggestion of death, which lacked identification of a proper representative,
-failed to initiate the 90-day countdown. This interpretation aligns with the judicial precedent that
-courts should prioritize the equitable administration of justice over strict procedural formalities.
-Thus, the district court erred in dismissing the plaintiffs' action without granting the requested
-extension, especially considering the circumstances that inhibited timely substitution, such as the
-injury to plaintiffs' counsel and the ongoing legal processes in the probate court.  We, therefore,
-reverse the judgment and remand for further proceedings consistent with this opinion, ensuring that
-the substitution process adheres to the flexible and just principles intended by the amendments to
-the Federal Rules of Civil Procedure.
+The contention that Resco’s bankruptcy filing automatically stays the action against Mather is
+unpersuasive. The automatic stay provision under 11 U.S.C. § 362(a) generally applies exclusively to
+the debtor in bankruptcy and not to solvent co-defendants or associated entities. As established in
+case law, such as *Austin v. Unarco Indus., Inc.*, 705 F.2d 1, 4 (1st Cir.) and cert. dismissed, 463
+U.S. 1247, it is clear that section 362(a)'s provisions do not extend to co-defendants of the
+debtor. Similarly, the court in *In re Western Real Estate Fund, Inc.*, 922 F.2d 592, clarified that
+the stay applies strictly to actions against the debtor itself.  Additionally, courts have
+consistently held that the protections of § 362 do not extend to non-debtor parties. For instance,
+in *Parkview-Gem, Inc. v. Stein*, it was concluded that legally distinct entities from the debtor
+are not covered by the automatic stay. As emphasized in *In re Aboussie Bros. Construction Co.*, 705
+F.2d 1, solvent co-defendants are not protected by the automatic stay unless Congress explicitly
+states otherwise.  Conclusion: Mather's motion to dismiss based on Resco's bankruptcy stay is
+without merit. The action against him is not stayed by 11 U.S.C. § 362(a), as he is not the debtor
+in this case. Therefore, the proceedings will continue against Mather independently of Resco’s
+bankruptcy status.
 
 
 **Label:** 
 
 
 ***Meta-Llama-3-8B-Instruct:***
-  In the context of Rule 25(a) (1) of the Federal Rules of Civil Procedure, the suggestion of death
-is a crucial step in the process of substituting a deceased party with a proper representative.
-However, not all suggestions of death are created equal. In cases where the suggestion of death is
-made by a party's attorney, but fails to identify a successor or representative of the deceased, the
-90-day period for substitution may not be triggered.  As noted in 359 F.2d 292, the Advisory
-Committee on Civil Rules intended to provide a more flexible standard for substitution, allowing for
-extensions of time and dispensing with the rigid two-year period previously in place. However, this
-flexibility is contingent upon the suggestion of death providing sufficient information to permit
-the court to proceed with substitution.  In the present case, the suggestion of death made by the
-defendant's attorney was deficient in that it failed to identify a successor or representative of
-the deceased. This lack of specificity rendered the suggestion ineffective in triggering the 90-day
-period for substitution, as explained in 379 F.2d 94.  Furthermore, the court's discretion to
-enlarge the time period for substitution, as provided by Rule 6(b), is not a blank check. Rather, it
-is intended to be exercised in a judicious and reasonable manner, taking into account the particular
-circumstances of each case.  In light of these principles, we conclude that the district court erred
-in dismissing the action with prejudice. The case should be remanded for further proceedings,
-allowing the parties to properly substitute a representative of the deceased and continue the action
-in a manner consistent with the Federal Rules of Civil Procedure.
+  The automatic stay provision in 11 U.S.C. § 362(a) only applies to the bankrupt debtor, not its
+solvent co-defendants. As stated in Royal Truck and Trailer, Inc. v. Armadora Maritima Salvadorena,
+S.A. de C.V., 10 B.R. 488 (N.D.Ill.1981), and In re Carib-Inn of San Juan, Corp., Case No.
+B-81-00273(B) (Order filed April 12, 1982), the automatic stay does not protect nondebtor parties.
+Therefore, the action against Mather cannot be dismissed based on the automatic stay.  The court
+also finds that Mather is personally liable for the torts he committed, regardless of his status as
+an agent of Resco. As stated in Al-Khazraji v. St. Francis College, 784 F.2d 505, 518 (3d Cir.1986),
+an individual, including a director, officer, or agent of a corporation, may be liable for injuries
+suffered by third parties because of his torts, regardless of whether he acted on his own account or
+on behalf of the corporation.  Furthermore, Mather's claim that he is not liable for matters related
+to the contracts between Metromedia and Resco and Ernst is without merit. As stated in 15 U.S.C.A.
+§§ 1114, 1125(a) (West 1963 & Supp.1994), any individual may be liable for trademark infringement or
+unfair competition under the Lanham Act, regardless of any contractual relationship.  In conclusion,
+the court finds that Mather is personally liable for the torts he committed and that the action
+against him cannot be dismissed based on the automatic stay or the lack of a contractual
+relationship. The court will deny Mather's motion to dismiss.
 
 
 **Label:** 
 
 
-**citations:** ['379 F.2d 94', '359 F.2d 292']
+**citations:** ['994 F.2d 956', '994 F.2d 956', '900 F.2d 846', '900 F.2d 846', '705 F.2d 1', '705 F.2d 1', '68
+B.R. 230']
 
-***short_citations_0:*** 379 F.2d 94
+***short_citations_0:*** 994 F.2d 956
 
-the proper parties. * * * Unless the motion for substitution is made not later than 90 days after the death is suggested upon the record by service of a statement of the fact of the death as provided herein for the service of the motion, the action shall be dismissed as to the deceased party.” Here not only had the 90-day period not expired when the court entered summary judgment, the appellant by her motion for reconsideration had specifically invoked the discretion of the court. Rule 6(b) provides pertinently that when “by these rules * * * an act is required or allowed to be done at or within a specified time, the court for cause shown may at any time in its discretion (1) with or without motion or notice order the period enlarged if request therefor is made before the expiration of the period originally prescribed * * Originally the Rule had precluded an extension of time for taking action under Rule 25(a) (1), but by purposeful amendment, it was sought to relieve against the hardship of the Court’s holding in Anderson v. Yungkau, 329 U.S. 482, 67 S.Ct. 428, 91 L.Ed. 436 (1947). It was intended that liberal effect be given to the 1963 amendment. Graham v. Pennsylvania Railroad, 119 U.S.App.D.C. 335, 342 F.2d 914 (1964), cert. denied, 381 U.S. 904, 85 S.Ct. 1446, 14 L.Ed.2d 286 (1965). We are constrained to reverse for further proceedings not inconsistent with this opinion. Reversed. The only “party” then
+on which the trial judge’s viewpoint is especially important. We conclude, therefore, that the ease must be returned to the district court for further proceedings before Judge Acosta. We intimate no opinion as to the appropriate outcome of those proceedings. V. BANKRUPTCY OF AN AFFILIATED ENTITY We are not yet at journey’s end. Two appellees, Associates and HSI, invoke the so-called automatic stay provision, 11 U.S.C. § 362 (1988), in an endeavor to persuade us that an affiliated firm’s bankruptcy should have resulted in a stay of proceedings on appeal. We are not convinced. The essential facts are as follows. On August 6, 1991, Holders Capital Corporation (HoCap) filed for bankruptcy. Because HSI is a wholly owned subsidiary of HoCap and Associates is a limited partnership whose general partner is also a wholly owned subsidiary of HoCap, both appellees assert that continued prosecution of the pre-fire insurers’ appeals, as against them, constitutes an impermissible attempt to obtain possession of the debtor’s property in violation of 11 U.S.C. § 362(a)(3). This assertion need not detain us. As a general rule, section 362(a)’s automatic stay provisions apply only to the debtor in bankruptcy. See Austin v. Unarco Indus., Inc., 706 F.2d 1, 4 (1st Cir.), cert. dismissed, 463 U.S. 1247, 104 S.Ct. 34, 77 L.Ed.2d 1454 (1983); see generally In re Western Real Estate Fund Inc., 922 F.2d 592, 600 (10th Cir.1990), modified on other grounds, 932 F.2d 898 (10th Cir.1991). As entities legally distinct from HoCap, see Parkview-Gem, Inc. v. Stein,
 
-***short_citations_1:*** 359 F.2d 292
+***short_citations_1:*** 994 F.2d 956
 
-insertion of a “reasonable time” standard. In 1963, the Advisory Committee suggested the present rule and noted: “Present Rule 25(a) (1), together with present Rule 6(b), results in an inflexible requirement that an action be dismissed as to a deceased party if substitution is not carried out within a fixed period measured from the time of the death. The hardships and inequities of this unyielding requirement plainly appear from the cases. * * * The amended rulé establishes a time limit for the motion to substitute based not upon the time of the death, but rather upon the time information of the death is provided by means of a suggestion of death upon the record, i. e. service of a statement of the fact of the death.” See Notes of Advisory Committee on the Civil Rules, 28 U.S.C. Rule 25 (1964). Rule 6(b) of the Federal Rules of Civil Procedure was also amended in 1963 and the prohibition against extending the time for taking action under Rule 25 was eliminated. The Advisory Committee on the Civil Rules noted: “It is intended that the court shall have discretion to enlarge that period.” The amendments of Rules 6(b) and 25(a) (1) provided needed flexibility. It was assumed that discretionary extensions would be liberally granted. Movants under Rule 25 can ordinarily control when a death is “suggested upon the record” and appellants’ attorney was under no obligation to file his affidavit of Staggers’ death on the date he did. He could have filed
+on which the trial judge’s viewpoint is especially important. We conclude, therefore, that the case must be returned to the district court for further proceedings before Judge Acosta. We intimate no opinion as to the appropriate outcome of those proceedings. V. BANKRUPTCY OF AN AFFILIATED ENTITY We are not yet at journey’s end. Two appellees, Associates and HSI, invoke the so-called automatic stay provision, 11 U.S.C. § 362 (1988), in an endeavor to persuade us that an affiliated firm’s bankruptcy should have resulted in a stay of proceedings on appeal. We are not convinced. The essential facts are as follows. On August 5, 1991, Holders Capital Corporation (HoCap) filed for bankruptcy. Because HSI is a wholly owned subsidiary of HoCap and Associates is a limited partnership whose general partner is also a wholly owned subsidiary of HoCap, both appellees assert that continued prosecution of the pre-fire insurers’ appeals, as against them, constitutes an impermissible attempt to obtain possession of the debtor’s property in violation of 11 U.S.C. § 362(a)(3). This assertion need not detain us. As a general rule, section 362(a)’s automatic stay provisions apply only to the debtor in bankruptcy. See Austin v. Unarco Indus., Inc., 705 F.2d 1, 4 (1st Cir.), cert. dismissed, 463 U.S. 1247, 104 S.Ct. 34, 77 L.Ed.2d 1454 (1983); see generally In re Western Real Estate Fund, Inc., 922 F.2d 592, 600 (10th Cir.1990), modified on other grounds, 932 F.2d 898 (10th Cir.1991). As entities legally distinct from HoCap, see Parkview-Gem, Inc. v. Stein,
+
+***short_citations_2:*** 900 F.2d 846
+
+the bankruptcy court had lifted the stay to allow the filing of suits more than three months before we decided Chick Kam Choo. Thus, it was an abuse of discretion to grant relief under Rule 60(b)(6). Conclusion For the foregoing reasons, we vacate the orders entered by the district court on Oc tober 6 and November 14, 1988, and reinstate the original dismissal entered on September 4, 1986. REVERSED. . Section 362(a), 11 U.S.C., provides in part: "[A] petition filed under section 301, 302, or 303 of this title operates as a stay, applicable to all entities, of— (1) the commencement or continuation ... of a judicial ... proceeding against the debtor that was or could have been commenced before the commencement of the case under this title, or to recover a claim against the debtor that arose before the commencement of the case under this title_” . The Anti-Injunction Act provides: "A court of the United States may not grant an injunction to stay proceedings in a State Court except as expressly authorized by Act of Congress, or where necessary in aid of its jurisdiction, or to protect or effectuate its judgments.” 28 U.S.C. § 2283. . In pertinent part, Fed.R.Civ.P. 60(b) provides: "On motion and upon such terms as are just, the court may relieve a party ... from a final judgment, order, or proceeding for the following reasons: (1) mistake, inadvertence, surprise, or excusable neglect; (2) newly discovered evidence which by due diligence could not have been
+
+***short_citations_3:*** 900 F.2d 846
+
+and the bankruptcy court had lifted the stay to allow the filing of suits more than three months before we decided Chick Kam Choo. Thus, it was an abuse of discretion to grant relief under Rule 60(b)(6). Conclusion For the foregoing reasons, we vacate the orders entered by the district court on Oc tober 6 and November 14, 1988, and reinstate the original dismissal entered on September 4, 1986. REVERSED. . Section 362(a), 11 U.S.C., provides in part: "[A] petition filed under section 301, 302, or 303 of this title operates as a stay, applicable to all entities, of— (1) the commencement or continuation ... of a judicial ... proceeding against the debtor that was or could have been commenced before the commencement of the case under this title, or to recover a claim against the debtor that arose before the commencement of the case under this title....” . The Anti-Injunction Act provides: “A court of the United States may not grant an injunction to stay proceedings in a State Court except as expressly authorized by Act of Congress, or where necessary in aid of its jurisdiction, or to protect or effectuate its judgments." 28 U.S.C. § 2283. . In pertinent part, Fed.R.Civ.P. 60(b) provides: “On motion and upon such terms as are just, the court may relieve a party ... from a final judgment, order, or proceeding for the following reasons: (1) mistake, inadvertence, surprise, or excusable neglect; (2) newly discovered evidence which by due diligence could not have
+
+***short_citations_4:*** 705 F.2d 1
+
+the Bankruptcy Court was wrong in deciding that the automatic stay provisions of 11 U.S.C. § 362(a) apply only to the bankrupt debtor and not its solvent co-defendants. It argues, instead, that Unarco is a necessary party and that particularly because plaintiff made no effort to have the stay of proceedings against Unarco lifted, she should not be allowed to proceed against Raybestos alone. As an initial matter and because we expect that the issue will arise again in this circuit, we express our judgment that the Bankruptcy Court was correct in deciding that the automatic stay provisions of 11 U.S.C. § 362(a) apply only to the bankrupt debtor. We are persuaded by the reasoning of the Illinois Bankruptcy Court in Royal Truck and Trailer, Inc. v. Armadora Maritima Salvadorena, S.A. de C.V., 10 B.R. 488 (N.D.Ill.1981), and by a comparison of the stay provisions provided by Congress for a chapter 13 bankruptcy proceeding, which expressly include co-defendant debtors, with those provided for a chapter 11 bankruptcy proceeding, which make no mention of co-defendant debtors, that had Congress intended § 362(a) to apply to solvent co-defendants, it would have said so. See also In re: Related Asbestos Cases, 23 B.R. 523 (N.D.Cal.1982); Aboussie Bros. Construc tion Co. v. United Missouri Bank of Kirkwood (In re Aboussie Bros. Construction Co.), 8 B.R. 302 (E.D.Mo.1981). Courts that have come to a different conclusion do not appear to have done so on the basis that § 362 requires such a result, but rather
+
+***short_citations_5:*** 705 F.2d 1
+
+proceeding voluntarily initiated by Unarco, one of the original co-defendants in this case. Since that time, the Bankruptcy Court has made clear its position that the automatic stay of all proceedings against bankrupt debtors provided by § 362(a) of the Bankruptcy Code, 11 U.S.C. § 362(a), applies only to the debt- or and not to the debtor’s solvent co-defendants. On the basis of that ruling, the plaintiff requested and received from the Bankruptcy Court on October 1, 1982, an order authorizing her to pursue her appeal in this court as to parties other than Unarco. On October 20, 1982, plaintiff requested this court to lift its stay of August 5, 1982 and to allow the appeal to proceed against Raybestos alone. Raybestos does not urge that the Bankruptcy Court was wrong in deciding that the automatic stay provisions of 11 U.S.C. § 362(a) apply only to the bankrupt debtor and not its solvent co-defendants. It argues, instead, that Unarco is a necessary party and that particularly because plaintiff made no effort to have the stay of proceedings against Unarco lifted, she should not be allowed to proceed against Raybestos alone. As an initial matter and because we expect that the issue will arise again in this circuit, we express our judgment that the Bankruptcy Court was correct in deciding that the automatic stay provisions of 11 U.S.C. § 362(a) apply only to the bankrupt debtor. We are persuaded by the reasoning of the Illinois Bankruptcy Court in Royal Truck and
+
+***short_citations_6:*** 68 B.R. 230
+
+The contention that the automatic stay provided by § 362 of the Code protects these nondebtor parties is not tenable. The statute in question provides in pertinent part as follows: (a) Except as provided in subsection (b) of this section, a petition filed under.... this title_operates as a stay, applicable to all entities of — (1) the commencement or continuation, including the issuance or employment of process, of a judicial, administrative, or other action or proceeding against the debtor that was or could have been commenced before the commencement of the case under this title, or to recover a claim against the debtor that arose before the commencement of the case under this title.... (3) any act to obtain possession of property of the estate or of property from the estate or to exercise control over property of the estate.... It is obvious that the statutory language imposes this extraordinary ex parte injunction only upon actions directed “against the debtor”. As stated by Judge Beckerleg in In re Carib-Inn of San Juan, Corp., Case No. B-81-00273(B) (Order filed April 12, 1982), it is settled law in this district that § 362 by itself does not protect nondebtor parties: “We have uniformly held in the past, and see no reason to change, that § 362 does not protect officers of a debtor corporation. If that seems unfair, or unjust, (and at times such as in the present case, it does), the answer is that the statute simply does not support the
 
 **prev_text:**
-LEVENTHAL, Circuit Judge: The District Court held that Rule 25(a) (1) of the Federal Rules of Civil
-Procedure required dismissal of the plaintiffs’ tort action because defendant’s counsel had filed a
-suggestion of death of the defendant yet plaintiff had not made any substitution of parties within
-90 days. We reverse on the ground that the suggestion of death, which was neither filed by nor
-identified a successor or representative of the deceased, such as an executor or administrator, was
-ineffective to trigger the running of the 90-day period provided by the Rule. Mr. and Mrs. John
-Rende filed an action in the District Court individually and on behalf of their infant son who had
-been struck and injured by Alfred S. Kay while driving his car. On August 27, 1967, defendant Kay
-died. On September 1, 1967, the defendant’s attorney, a term used here to identify the lawyer who
-had been retained by deceased to defend the action, and who had duly entered an appearance as
-attorney for defendant, filed a suggestion of death in the District Court, giving notice to
-plaintiffs’ attorney. That same day there was filed in the Orphans Court for Montgomery County,
-Maryland, residence of the deceased, his will naming his widow as executrix, but the will had not
-been probated, nor any legal representative appointed for the estate at the time of the filing of
-this appeal. Plaintiffs’ attorney was injured on October 14, 1967. On returning to practice early in
-1968, he learned that no successor to defendant Kay had yet been appointed, and he moved to certify
-the case to the ready calendar. The defendant’s attorney opposed this on grounds that discovery
-procedures had not been completed. The case was delayed and placed on the ready calendar as of June
-7, 1968. However, in April 1968, the defendant’s attorney moved in his own name to dismiss the
-action on the ground that Rule 25(a) (1) required plaintiffs to move to substitute a proper party
-for the deceased within 90 days of the suggestion of death. Plaintiffs filed an opposition and
-motion for substitution of the proper party, and sought an extension of the time for substitution as
-allowed by Rule 6(b). At argument, plaintiffs’ counsel asserted the “suggestion of death was
-defective in that it did not list the name of the proper party; that is the legal representative of
-the defendant.” The court responded: “That would not be his burden.” The court dismissed the action
-with prejudice. Prior to its amendment in 1963, Rule 25(a) (1) required the court to dismiss a case
-if no motion for substitution was filed within two. years after date of death, and no extensions of
-this period were allowed under Rule 6(b). The rule was rigorously applied, often with harsh results,
-and was called “easily the poorest rule of all the Federal Rules.” In 1955 the Advisory Committee on
-Rules for Civil Procedure recommended that the two-year period be changed to a “reasonable time”
-standard. In 1961 the Advisory Committee on Civil Rules again suggested the Rule be made more
-flexible. In 1963 the Supreme Court made changes in Rule 25(a) (1) and in Rule 6(b) so as to provide
-a 90-day time limit from the filing of a suggestion of death, and to give the court discretion to
-extend that time. The Committee Notes explaining the amendments state: Present Rule 25(a) (1),
-together with present Rule 6(b), results in an inflexible requirement that an action be dismissed as
-to a deceased party if substitution is not carried out within a fixed period measured from the time
-of death. The hardships and inequities of this unyielding requirement plainly appear from the cases.
-* * * The amended rule establishes a time limit for the motion to substitute based not upon the time
-of the death, but rather upon the time information of the death is provided by means of a suggestion
-of death upon the record. * * * A motion to substitute may be made by any party or by the
-representative of the deceased party without awaiting the suggestion of death. Indeed, the motion
-will usually be so made. If a party or the representative of the deceased party desires to limit the
-time within which another may make the motion, he may do so by suggesting the death upon the record.
-(Emphasis added.) Under the amended Rule either a party or “the successors or representatives of the
-deceased party” may avoid delay in effecting substitution for the deceased party either by filing a
-motion for substitution or by suggesting death on the record and thus triggering the 90-day period
-which begins with suggestion of death. The Advisory Committee, in outlining that suggestion of death
-could be made by “the representative of the deceased party” plainly contemplated that the suggestion
-emanating from the side of the deceased would identify a representative of the estate, such as an
-executor or administrator, who could be substituted for the deceased as a party, with the action
-continued in the name of the representative. The addition of “successor” in the Rule would take care
-of the case of, say, the distributee of an estate that had been distributed, but would not make a
-material difference in the aspect under consideration. Form 30, for suggestion of death, which was
-provided in order to expedite and facilitate implementation of the amendment, provides: A.B.
-[described as a party, or as executor, administrator, or other representative or successor of C.D.,
-the deceased party\ suggests upon the record, pursuant to Rule 25(a) (1), the death of C.D.
-[describe as party] during the pendency of this action. Added Jan. 21, 1963, eff. July 1, 1963.
-[Emphasis added.] Although the attorney for the defendant was retained to “represent” the deceased
-as his counsel, he is not a person who could be made a party, and is not a “representative of the
-deceased party” in the sense contemplated by Rule 25(a) d). In our opinion the Rule, as amended,
-cannot fairly be construed, as the de fendant’s attorney argues, to make his suggestion of death
-operative to trigger the 90-day period even though he was neither a successor nor representative of
-the deceased, and gave no indication of what person was available to be named in substitution as a
-representative of the deceased. Counsel’s construction would open the door to a tactical maneuver to
-place upon the plaintiff the burden of locating the representative of the estate within 90 days. We
-can conceive of cases wherein even the lawyer retained to represent a defendant might know the
-defendant had died, yet not readily know where his estate would be administered. In the present
-case, plaintiff’s attorney did know the court of probate, but he did not know whether probate of the
-will might be contested, or who would be appointed representative of the estate. The tactic of the
-defendant’s attorney would place on plaintiff the burden, where no conventional representative was
-appointed for the estate in probate court, of instituting machinery in order to produce some
-representative of the estate ad litem, pending appointment of the representative contemplated by law
-of the domicile of the deceased.
+ORDER DiCLERICO, Chief Judge. The plaintiff, Metromedia Steakhouses Company, L.P. (“Metromedia”),
+brought a multiple count action against defendants Res-eo Management, Inc. (“Resco”), Frank Ernst
+and David Mather. Pursuant to Fed. R.Civ.P. 12(b)(6), Mather brings this motion to dismiss for
+failure to state a claim upon which relief can be granted as to all counts against him (document no.
+18). Jurisdiction is based on 28 U.S.C.A. § 1332 (West 1993). Background In March 1982 Metromedia,
+the owner of certain Bonanza trade names and service marks, entered into a license agreement with
+Resco. Pursuant to the agreement Resco was licensed to use the Bonanza trade names and service marks
+and to operate a Bonanza restaurant at 291 North Main Street, Rochester, New Hampshire. Verified
+Complaint, ¶ 13. Ernst, president of Resco, “personally guaranteed the performance of each covenant,
+payment, agreement and undertaking of Reseo set forth in the License Agreement.” Id. at ¶ 14.
+Sometime later Reseo and Ernst defaulted on the terms of the license agreement and the guarantee.
+See id. at ¶23. On April 8, 1993, Metromedia terminated Resco’s rights under the license agreement.
+Id. at ¶25. On July 28, 1993, Metromedia brought an action against Resco and Ernst alleging
+trademark and service mark infringement, unfair competition, breach of contract and breach of
+promissory note. Me-tromedia named Mather, manager of the Rochester restaurant, in the trademark
+infringement and unfair competition counts. Id. at Counts I, II, III and VI. On August 16, 1993,
+Resco filed for bankruptcy under Chapter 7 of the U.S. Bankruptcy Code, 11 U.S.C.A. § 101 et seq.
+Discussion Mather moves to dismiss the action against him on the grounds that (1) he was merely an
+agent and/or employee of Resco and therefore he is not liable for tortious conduct occurring within
+the scope of employment; (2) the causes of action are based on contractual relationships and he was
+never a party to any contracts between Me-tromedia and Resco; (3) Resco’s bankruptcy precludes entry
+of judgment because the underlying corporate obligations form the basis of the causes of action; and
+(4) the closing of the Rochester restaurant renders Metrome-dia’s claim for permanent injunctive
+relief moot. Mather makes his motion pursuant to Fed.R.Civ.P. 12(b)(6). Because Mather has already
+filed an answer to the Metromedia’s complaint (document 13), the pleadings have closed under
+Fed.R.Civ.P. 7(a) and the court will treat Mather’s motion to dismiss Counts I, II, III and VI as a
+motion for judgment on the pleadings. See Fed.R.Civ.P. 12(c). The standard for evaluating a Rule
+12(e) motion for judgment on the pleadings is essentially the same as the standard for evaluating a
+Rule 12(b)(6) motion. Republic Steel Corp. v. Pennsylvania Eng’g Corp., 785 F.2d 174, 182 (7th
+Cir.1986). In both cases, the court’s inquiry is a limited one, focusing not on “whether a plaintiff
+will ultimately prevail but whether [he or she] is entitled to offer evidence to support the claim.”
+Scheuer v. Rhodes, 416 U.S. 232, 236, 94 S.Ct. 1683, 1686, 40 L.Ed.2d 90 (1974) (motion to dismiss
+under Fed.R.Civ.P. 12(b)(6)). In making its inquiry, the court must accept all of the factual
+averments contained in the complaint as true and draw every reasonable inference in favor of the
+plaintiffs. Garita Hotel Ltd. Partnership v. Ponce Fed. Bank, 958 F.2d 15, 17 (1st Cir.1992) (Rule
+12(b)(6) motion); Santiago de Castro v. Morales Medina, 943 F.2d 129, 130 (1st Cir.1991) (Rule 12(c)
+motion). Great specificity is not required to survive a Rule 12(c) motion. “[I]t is enough for a
+plaintiff to sketch an actionable claim by means of ‘a generalized statement of facts.’ ” Garita,
+958 F.2d at 17 (quoting 5A Charles A. Wright & Arthur R. Miller, Federal Practice and Procedure 1357
+(1990)). In the end, the court may not enter judgment on the pleadings unless it appears “ ‘beyond
+doubt that the plaintiff can prove no set of facts in support of his or her claim which would
+entitle him or her to relief.’” Santiago de Castro, 943 F.2d at 130 (quoting Conley v. Gibson, 355
+U.S. 41, 45-46, 78 S.Ct. 99, 101-102, 2 L.Ed.2d 80 (1957)); see also Rivera-Gomez v. de Castro, 843
+F.2d 631, 635 (1st Cir.1988). I. Agent’s Liability for Torts Metromedia claims that once it served
+notice of the termination of the license agreement the defendants’ continued operation of the
+restaurant and use of the Bonanza name and marks infringed § 32 of the Lanham Act, 15 U.S.C.A. §
+1114, and violated the common law of trademarks. Metromedia asserts the infringement caused consumer
+confusion and deceived the general public into believing that the Rochester restaurant was run by
+Bonanza. Verified Complaint, ¶¶ 29-38. Metromedia also claims that the defendants engaged in acts of
+unfair competition in violation of the common law and § 43(a) of the Lanham Act, 15 U.S.C.A. §
+1125(a), by advertising, displaying and selling products with Metromedia’s proprietary marks at the
+Rochester restaurant. Id. at ¶¶ 39^5. Mather does not dispute Metromedia’s substantive allegations.
+Rather, he contends the court must dismiss the claims against him because he is not and was never an
+“owner, officer or director of the defendant Resco Management, Inc.” Defendant’s Motion to Dismiss,
+¶ 1. Pursuant to the plain language of the Lanham Act, any individual may be liable in civil actions
+for damages. Section 32 of the Lanham Act states, in part: (1) Any person who shall, without the
+consent of the registrant— (a) use in commerce any reproduction, counterfeit, copy, or colorable
+imitation of a registered mark in connection with the sale, offering for sale, distribution, or
+advertising of any goods or services on or in connection with which such use is likely to cause
+confusion, or to cause mistake, or to deceive ... ‡ ‡ Í! ‡ ‡ ‡ shall be liable in a civil action by
+the registrant for the remedies hereinafter provided. 15 U.S.C.A. § 1114 (West 1963 & Supp.1994)
+(emphasis added). Likewise, the unfair competition statute, § 43(a) of the Lanham Act, uses similar
+language for determining liability: (а)(1) Any person who, on or in connection with any goods or
+services, or any container for goods, uses in commerce any word, term, name, symbol, or device ...
+which— (A) is likely to cause confusion, or to cause mistake, or to deceive as to the affiliation,
+connection ... or as to the origin, sponsorship,, or approval of his or her goods, services, or
+commercial activities by another person, or (B) in commercial advertising or promotion,
+misrepresents the nature, characteristics, qualities ... of his or her or another person’s goods,
+services, or commercial activities, shall be liable in a civil action by any person who believes
+that he or she is or is likely to be damaged by such act. 15 U.S.C.A. § 1125(a) (West 1983 & Supp.
+1994) (emphasis added). Under the Lanham Act employees of corporations are not shielded from
+individual liability for tortious actions solely because those actions were taken within the scope
+of their employment. Donsco, Inc. v. Casper Corp., 587 F.2d 602, 606 (3d Cir.1978) (corporate
+officer is personally liable for torts he commits); Mead Johnson & Co. v. Baby’s Formula Serv.,
+Inc., 402 F.2d 19, 23 (5th Cir.1968) (corporate officer liable for trademark infringement);
+Brandywine Mushroom Co. v. Hockessin Mushroom Prod., Inc., 682 F.Supp. 1307, 1311 (D.Del.1988)
+(officer of corporation personally liable for tort of unfair competition); Polo Fashions, Inc. v.
+Gordon Group, 627 F.Supp. 878, 890 (M.D.N.C.1985) (corporate officer liable for trademark
+infringement and unfair competition); In re Table Talk, Inc., 49 B.R. 485, 487 (D.Mass.1985)
+(individual acting in corporate capacity is liable for trademark infringement); Polo Fashions, Inc.
+v. Branded Apparel Merchandising, Inc., 592 F.Supp. 648, 652 (D.Mass.1984) (corporate officer is
+individually liable for trademark infringement). There can be no doubt but that a trademark, like a
+patent, can be infringed by an individual. It is infringed when an individual performs the act or
+does the things that the patent or trademark law protects against. The fact that the persons thus
+acting are acting for a corporation also, of course, may make the corporation liable under the
+doctrine of respondeat superior. It does not relieve the individuals of their responsibility. Mead,
+402 F.2d at 23. “The only crucial predicate to [an individual’s] liability is his participation in
+the wrongful acts.” Donsco, 587 F.2d at 606. While the above cases establish the liability of
+employees who are officers or directors of a corporation, Mather contends that because he is a lower
+level employee of Resco, principles of agency relieve him from individual liability. Defendant’s
+Motion to Dismiss, ¶¶ 2, 6. Mather asserts that as an agent of Resco the “principal is liable for
+the conduct of its agent when said agent acts within the scope of his authority.” Id. at ¶ 6. Mather
+fails to cite any authority for his assertion. “An agent who does an act otherwise a tort is not
+relieved from liability by the fact that he acted at the command of the principal or on account of
+the principal_” Restatement (Second) of Agency § 343 (1958). “An individual, including a director,
+officer, or agent of a corporation, may be hable for injuries suffered by third parties because of
+his torts, regardless of whether he acted on his own account or on behalf of the corporation.” Al-
+Khazraji v. St. Francis College, 784 F.2d 505, 518 (3d Cir.1986) (emphasis added), aff'd, 481 U.S.
+604, 107 S.Ct. 2022, 95 L.Ed.2d 582 (1987); see also In re Interstate Agency, Inc., 760 F.2d 121,
+125 (6th Cir.1985) (“ ‘It is weh established that a corporate officer or agent is personally hable
+for torts committed by him even though he was acting for the benefit of the corporation.’ ”)
+(quoting A & M Records, Inc. v. M.V.C. Distrib. Corp., 574 F.2d 312 (6th Cir.1978)). Although the
+New Hampshire Supreme Court has not considered the issue of an agent’s liability to third parties
+for torts, the rule of § 343 is weh estabhshed. See Raysor v. Port Auth., 768 F.2d 34, 38 (2d
+Cir.1985), cert. denied, 475 U.S. 1027, 106 S.Ct. 1227, 89 L.Ed.2d 337 (1986); Powe v. Miles, 407
+F.2d 73, 82 (2d Cir.1968); Kalawe v. KFC Nat’l Management Co., No. 90-00779 ACK, 1991 WL 338566, at
+*3-*4, 1991 U.S. Dist. LEXIS 20073, at *9-*10 (D.Haw. July 16, 1991); Massachusetts v. Zimmerman,
+1982-1 Trade Cas. (CCH) ¶ 64, 471, 1982 WL 1793 (D.Mass. January 13, 1982). An individual is hable
+for his tor-tious conduct under §§ 32 and 43(a) of the Lanham Act. Under agency law, an agent is not
+reheved of liability solely because he acted on behalf of the principal. Therefore, the action
+against Mather cannot be dismissed based on Mather’s status as an employee or agent of Resco. II.
+Contractual Relationship Mather next contends that any cause of action Metromedia may have is solely
+related to the contractual relationship between Me-tromedia and Resco and Ernst. Mather argues that
+because he never entered into any individual contracts with Metromedia and was never a party to the
+contracts between Metromedia and Resco and Ernst, he is not liable for matters related to these
+contracts. Defendant’s Motion to Dismiss, ¶ 3. As noted above, any individual may be hable for
+trademark infringement or unfair competition under the Lanham Act. No special or contractual
+relationship is required. See 15 U.S.C.A. §§ 1114, 1125(a) (West 1963 & Supp.1994). Liability for
+common law trademark infringement and unfair competition does not require a breach of a contractual
+relationship because trademark infringement is a tort. See Donsco, 587 F.2d at 606; Mead, 402 F.2d
+at 23; Brandywine, 682 F.Supp. at 1311; Polo Fashions, 627 F.Supp. at 890; In re Table Talk, 49 B.R.
+at 487; Branded Apparel, 592 F.Supp. at 652. Mather remains hable for his own torts regardless of
+his relationship to the contract between Metromedia and Resco and Ernst. A contractual relationship
+is not an essential element of the claims asserted against him. Therefore, the action cannot be
+dismissed based on the lack of a contractual relationship between Metromedia and Mather. III.
+Automatic Stay Mather also notes that Resco has filed for Chapter 7 bankruptcy pursuant to 11
+U.S.C.A. § 362 (West 1993). He contends that Reseo’s bankruptcy petition, “pre-clud[es] entry of
+judgment for the underlying corporate obligations that form the basis of the cause of action.”
+Defendant’s Motion to Dismiss, ¶ 8. The court assumes that Mather is arguing either that the action
+against him must also be stayed or that the action against him should be dismissed because of the
+stay.
 
 

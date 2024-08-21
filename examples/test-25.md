@@ -1,142 +1,306 @@
 **gold_text:**
-The amendment to Rule 25(a) (1) was intended to dispel unwarranted rigidity and allow more
-flexibility in substitution. “It was intended that liberal effect be given to the 1963 amendment.”
-Roscoe v. Roscoe, 126 U.S.App.D.C. 317, 322, 379 F.2d 94, 99 (1967). “[T]he 90 day period was not
-intended to act as a bar to otherwise meritorious actions.” Staggers v. Otto Gerdau Co., 359 F.2d
-292, 296 (2d Cir. 1966).
+It is well-settled that, in the absence of special circumstances, a parent corporation is not liable
+for the Title VII violations of its wholly owned subsidiary. See Watson v. Gulf & W. Indus., 650
+F.2d 990, 993 (9th Cir.1981). See also, Frank v. U.S. West, Inc., 3 F.3d 1357, 1362 (10th Cir.1993)
+(the "doctrine of limited liability creates a strong presumption that a parent company is not the
+employer of its subsidiary's employees, and the courts have found otherwise only in extraordinary
+circumstances.”) Such "exceptional circumstances” exist where the parent corporation exercises a
+degree of control that exceeds that normally exercised by a parent corporation. See id. at 1363. See
+also, Lock-ard v. Pizza Hut, Inc., 162 F.3d 1062, 1071 n. 2 (10th Cir.1998).
 
 **Generations:**
 
 
 ***GPT-4o:***
-This stringent interpretation contrasts sharply with the intent of the 1963 amendments to Rule 25
-and Rule 6(b), which aimed to inject flexibility and fairness into the substitution process. As
-noted in 379 F.2d 94 and 359 F.2d 292, the amendments were designed to eliminate the inequities and
-hardships caused by the rigid two-year limitation originally imposed. The Advisory Committee
-emphasized that the revised rules were to be liberally construed to allow courts discretion in
-extending the substitution period, recognizing the difficulties that could arise in promptly
-identifying and notifying the proper representative of the deceased.   Given this context, the
-defendant’s counsel's suggestion of death, which lacked identification of a proper representative,
-failed to initiate the 90-day countdown. This interpretation aligns with the judicial precedent that
-courts should prioritize the equitable administration of justice over strict procedural formalities.
-Thus, the district court erred in dismissing the plaintiffs' action without granting the requested
-extension, especially considering the circumstances that inhibited timely substitution, such as the
-injury to plaintiffs' counsel and the ongoing legal processes in the probate court.  We, therefore,
-reverse the judgment and remand for further proceedings consistent with this opinion, ensuring that
-the substitution process adheres to the flexible and just principles intended by the amendments to
-the Federal Rules of Civil Procedure.
+F. PLAINTIFFS’ CLAIMS AGAINST THE PARENT CORPORATION, HOME DEPOT, ARE NOT SUPPORTED BY EVIDENCE OF
+CONTROL OVER EMPLOYMENT PRACTICES  In addition to the above findings, a significant point of
+consideration is whether Defendant Home Depot, as the parent company, can be held liable for the
+alleged discriminatory actions of its subsidiary, National Blinds & Wallpaper, Inc., where Plaintiff
+Chris Jenkins was employed. Under well-established precedent, a parent company is typically not
+liable for the discriminatory practices of its wholly-owned subsidiary unless there is evidence of
+pervasive control over the subsidiary’s employment decisions.  In reference case 650 F.2d 990, it
+was held that a parent corporation is not liable for Title VII violations of its wholly owned
+subsidiary in the absence of special circumstances indicating direct involvement or control over the
+subsidiary’s employment practices. Similarly, the ruling in 3 F.3d 1357 affirmed that plaintiffs
+failed to establish a genuine issue of material fact to dispute the presumption that the parent
+company was not the employer of the subsidiary's employees when there was no evidence of
+undercapitalization or ignorance of corporate formalities.  Moreover, as pointed out in 162 F.3d
+1062, significant factors such as the handling of payroll, approval of employment applications, and
+direct control over labor relations can establish such liability. Here, plaintiffs have provided no
+evidence to demonstrate that Home Depot exercised such control over National Blinds & Wallpaper’s
+employment practices. Consequently, the Court finds no basis to hold Home Depot liable under Title
+VII for the actions of its subsidiary.  For these reasons, Plaintiffs’ claims against Defendant Home
+Depot based on the theory of parent-subsidiary liability must be dismissed.  CONCLUSION For all of
+the foregoing reasons, IT IS HEREBY ORDERED that Defendants’ Motion for Summary Judgment is GRANTED
+and Plaintiffs’ Complaint is dismissed in its entirety, with prejudice. Let Judgment be entered
+accordingly.
 
 
 **Label:** 
 
 
 ***Meta-Llama-3-8B-Instruct:***
-  In the context of Rule 25(a) (1) of the Federal Rules of Civil Procedure, the suggestion of death
-is a crucial step in the process of substituting a deceased party with a proper representative.
-However, not all suggestions of death are created equal. In cases where the suggestion of death is
-made by a party's attorney, but fails to identify a successor or representative of the deceased, the
-90-day period for substitution may not be triggered.  As noted in 359 F.2d 292, the Advisory
-Committee on Civil Rules intended to provide a more flexible standard for substitution, allowing for
-extensions of time and dispensing with the rigid two-year period previously in place. However, this
-flexibility is contingent upon the suggestion of death providing sufficient information to permit
-the court to proceed with substitution.  In the present case, the suggestion of death made by the
-defendant's attorney was deficient in that it failed to identify a successor or representative of
-the deceased. This lack of specificity rendered the suggestion ineffective in triggering the 90-day
-period for substitution, as explained in 379 F.2d 94.  Furthermore, the court's discretion to
-enlarge the time period for substitution, as provided by Rule 6(b), is not a blank check. Rather, it
-is intended to be exercised in a judicious and reasonable manner, taking into account the particular
-circumstances of each case.  In light of these principles, we conclude that the district court erred
-in dismissing the action with prejudice. The case should be remanded for further proceedings,
-allowing the parties to properly substitute a representative of the deceased and continue the action
-in a manner consistent with the Federal Rules of Civil Procedure.
+  In considering whether Pizza Hut and A & M should be considered a single employer for the purpose
+of Ms. Lockard's Title VII suit, the court may look to factors such as whether the companies have a
+unified management structure, share employees, and have a common ownership structure. See 650 F.2d
+990. In this case, Ms. Lockard points to evidence that the policies and procedures in effect at the
+Atoka restaurant were those of Pizza Hut, which suggests a level of control and coordination between
+the two companies.  In contrast, the Second Circuit has held that control over labor relations was
+established where the evidence demonstrated that the parent ran its wholly owned subsidiary in a
+direct, hands-on fashion; applications for employment with the subsidiary went through the parent;
+all personnel status reports were approved by the parent; and the subsidiary cleared all major
+employment decisions with the parent. See 3 F.3d 1357.  In this case, Ms. Lockard does not present
+such evidence of direct control and coordination between Pizza Hut and A & M. Therefore, the court
+may not find that the two companies should be considered a single employer for the purpose of Ms.
+Lockard's Title VII suit.  Furthermore, even if the court were to consider the two companies as a
+single employer, Ms. Lockard would still need to demonstrate that she was the victim of
+discrimination. In 162 F.3d 1062, the court held that to establish a prima facie case of
+discrimination under Title VII, a plaintiff must show that she was a member of a protected class,
+that she was qualified for the position, and that she was subjected to an adverse employment action.
 
 
 **Label:** 
 
 
-**citations:** ['379 F.2d 94', '359 F.2d 292']
+**citations:** ['650 F.2d 990', '3 F.3d 1357', '162 F.3d 1062']
 
-***short_citations_0:*** 379 F.2d 94
+***short_citations_0:*** 650 F.2d 990
 
-the proper parties. * * * Unless the motion for substitution is made not later than 90 days after the death is suggested upon the record by service of a statement of the fact of the death as provided herein for the service of the motion, the action shall be dismissed as to the deceased party.” Here not only had the 90-day period not expired when the court entered summary judgment, the appellant by her motion for reconsideration had specifically invoked the discretion of the court. Rule 6(b) provides pertinently that when “by these rules * * * an act is required or allowed to be done at or within a specified time, the court for cause shown may at any time in its discretion (1) with or without motion or notice order the period enlarged if request therefor is made before the expiration of the period originally prescribed * * Originally the Rule had precluded an extension of time for taking action under Rule 25(a) (1), but by purposeful amendment, it was sought to relieve against the hardship of the Court’s holding in Anderson v. Yungkau, 329 U.S. 482, 67 S.Ct. 428, 91 L.Ed. 436 (1947). It was intended that liberal effect be given to the 1963 amendment. Graham v. Pennsylvania Railroad, 119 U.S.App.D.C. 335, 342 F.2d 914 (1964), cert. denied, 381 U.S. 904, 85 S.Ct. 1446, 14 L.Ed.2d 286 (1965). We are constrained to reverse for further proceedings not inconsistent with this opinion. Reversed. The only “party” then
+Gulf and Western Industries, because it was not a proper party to this action. Watson contends that both Paramount and Gulf are responsible for Paramount’s alleged violations. We reject the contention. In the absence of special circumstances, a parent corporation is not liable for the Title VII violations of its wholly owned subsidiary. Hassell v. Harmon Foods, Inc., 336 F.Supp. 432 (W.D.Tenn.1971), aff’d, 454 F.2d 199 (6th Cir. 1972); Lottice v. Intersoll-Rand Co., 14 Fair Empl.Prac.Cas. 708 (N.D.Cal.1977). We find nothing in the present case to vary that rule. There is no indication that the parent-subsidiary relationship is a “sham” or that circumstances exist that would render the parent liable for debts of its subsidiary. See Hassell v. Harmon Foods, Inc., supra. If there was any evidence that Gulf and Western participated in or influenced the employment policies of Paramount, or if Gulf and Western had undercapitalized Paramount in a way that defeated potential recovery by a Title VII plaintiff, then we would be presented with a very different case. There is nothing in the present record to show such participation or influence by Gulf and Western, or to indicate that the parent-subsidiary structure renders total relief unavailable to plaintiff. Gulf and Western was accordingly not a proper party to this action, and the district court was correct in granting summary judgment in its favor. B. Paramount Office Employees Association. The district court dismissed Watson’s claim against the Association without stating any reason. On a motion to dismiss, review is
 
-***short_citations_1:*** 359 F.2d 292
+***short_citations_1:*** 3 F.3d 1357
 
-insertion of a “reasonable time” standard. In 1963, the Advisory Committee suggested the present rule and noted: “Present Rule 25(a) (1), together with present Rule 6(b), results in an inflexible requirement that an action be dismissed as to a deceased party if substitution is not carried out within a fixed period measured from the time of the death. The hardships and inequities of this unyielding requirement plainly appear from the cases. * * * The amended rulé establishes a time limit for the motion to substitute based not upon the time of the death, but rather upon the time information of the death is provided by means of a suggestion of death upon the record, i. e. service of a statement of the fact of the death.” See Notes of Advisory Committee on the Civil Rules, 28 U.S.C. Rule 25 (1964). Rule 6(b) of the Federal Rules of Civil Procedure was also amended in 1963 and the prohibition against extending the time for taking action under Rule 25 was eliminated. The Advisory Committee on the Civil Rules noted: “It is intended that the court shall have discretion to enlarge that period.” The amendments of Rules 6(b) and 25(a) (1) provided needed flexibility. It was assumed that discretionary extensions would be liberally granted. Movants under Rule 25 can ordinarily control when a death is “suggested upon the record” and appellants’ attorney was under no obligation to file his affidavit of Staggers’ death on the date he did. He could have filed
+factors together, see Financial Assurance, 624 F.Supp. at 689, Plaintiffs have failed to establish a genuine issue of material fact to dispute the presumption that Defendant was not Plaintiffs’ employer. See Johnson, 814 F.2d at 980-81 (strong presumption that parent company is not employer of its subsidiary’s employees). Thus, the district court’s grant of summary judgment on the Title VII and ADEA claims is affirmed. B. State Law Claims Under Colorado law, a somewhat different standard is applied to determine whether a parent corporation is liable for the acts of its subsidiary. The inquiry is whether there is “such a close relationship between the two companies that one is, in essence, an instrumentality of the other.” New Sheridan Hotel & Bar, Ltd. v. Commercial Leasing, 645 P.2d 868, 869 (Colo.Ct.App.1982). This inquiry involves ten factors, many of which examine whether the corporations respect the corporate form and operate as separate entities. Id. (citing Fish v. East, 114 F.2d 177 (10th Cir.1940)). Because there is no evidence that Northwestern Bell was undercapitalized, that the corporations commingled assets, or that they ignored corporate formalities, the district court correctly determined that Northwestern Bell was not an instrumentality of Defendant. Thus, the district court’s grant of summary judgment on the state claims is also affirmed. III. Motion to Drop and Add Parties Plaintiffs assert that the district court erred in denying the parties’ stipulated motion to add Northwestern Bell, an Iowa corporation, as a defendant and drop Defendant U.S. West, Inc. The district court
+
+***short_citations_2:*** 162 F.3d 1062
+
+1090. In contrast, the Second Circuit has held that control over labor relations was established where the evidence demonstrated that the parent ran its wholly owned subsidiary in a direct, hands-on fashion; applications for employment with the subsidiary went through the parent; all personnel status reports were approved by the parent; and the subsidiary cleared all major employment decisions with the parent. See Cook, 69 F.3d at 1241. Similarly, the Sixth Circuit has held that a parent company and its wholly owned subsidiary could be considered a single employer for Title VII purposes where the parent by practice and policy authorized all purchases over $200 made by its subsidiary; the parent handled its subsidiary’s payroll and cash accounting, and monitored all sales shipments; and the parent approved all of the subsidiary’s hiring decisions. See Armbruster, 711 F.2d at 1338-39; see also Frank, 3 F.3d at 1363 (listing type of evidence routinely used to show interrelated operations and control over labor relations prongs; e.g., parent kept subsidiary’s books, issued its paychecks, and paid its bills; parent and subsidiary had common employees, shared services, equipment, employees and office space; parent controlled subsidiary’s payroll and benefit program). Ms. Lockard points to the following evidence in the record to support her claim that Pizza Hut and A & M should be considered a single employer for the purpose of her Title VII suit: (1) the policies and procedures in effect at the Atoka restaurant were those of Pizza Hut; (2) Donna Lowrance, a Pizza
 
 **prev_text:**
-LEVENTHAL, Circuit Judge: The District Court held that Rule 25(a) (1) of the Federal Rules of Civil
-Procedure required dismissal of the plaintiffs’ tort action because defendant’s counsel had filed a
-suggestion of death of the defendant yet plaintiff had not made any substitution of parties within
-90 days. We reverse on the ground that the suggestion of death, which was neither filed by nor
-identified a successor or representative of the deceased, such as an executor or administrator, was
-ineffective to trigger the running of the 90-day period provided by the Rule. Mr. and Mrs. John
-Rende filed an action in the District Court individually and on behalf of their infant son who had
-been struck and injured by Alfred S. Kay while driving his car. On August 27, 1967, defendant Kay
-died. On September 1, 1967, the defendant’s attorney, a term used here to identify the lawyer who
-had been retained by deceased to defend the action, and who had duly entered an appearance as
-attorney for defendant, filed a suggestion of death in the District Court, giving notice to
-plaintiffs’ attorney. That same day there was filed in the Orphans Court for Montgomery County,
-Maryland, residence of the deceased, his will naming his widow as executrix, but the will had not
-been probated, nor any legal representative appointed for the estate at the time of the filing of
-this appeal. Plaintiffs’ attorney was injured on October 14, 1967. On returning to practice early in
-1968, he learned that no successor to defendant Kay had yet been appointed, and he moved to certify
-the case to the ready calendar. The defendant’s attorney opposed this on grounds that discovery
-procedures had not been completed. The case was delayed and placed on the ready calendar as of June
-7, 1968. However, in April 1968, the defendant’s attorney moved in his own name to dismiss the
-action on the ground that Rule 25(a) (1) required plaintiffs to move to substitute a proper party
-for the deceased within 90 days of the suggestion of death. Plaintiffs filed an opposition and
-motion for substitution of the proper party, and sought an extension of the time for substitution as
-allowed by Rule 6(b). At argument, plaintiffs’ counsel asserted the “suggestion of death was
-defective in that it did not list the name of the proper party; that is the legal representative of
-the defendant.” The court responded: “That would not be his burden.” The court dismissed the action
-with prejudice. Prior to its amendment in 1963, Rule 25(a) (1) required the court to dismiss a case
-if no motion for substitution was filed within two. years after date of death, and no extensions of
-this period were allowed under Rule 6(b). The rule was rigorously applied, often with harsh results,
-and was called “easily the poorest rule of all the Federal Rules.” In 1955 the Advisory Committee on
-Rules for Civil Procedure recommended that the two-year period be changed to a “reasonable time”
-standard. In 1961 the Advisory Committee on Civil Rules again suggested the Rule be made more
-flexible. In 1963 the Supreme Court made changes in Rule 25(a) (1) and in Rule 6(b) so as to provide
-a 90-day time limit from the filing of a suggestion of death, and to give the court discretion to
-extend that time. The Committee Notes explaining the amendments state: Present Rule 25(a) (1),
-together with present Rule 6(b), results in an inflexible requirement that an action be dismissed as
-to a deceased party if substitution is not carried out within a fixed period measured from the time
-of death. The hardships and inequities of this unyielding requirement plainly appear from the cases.
-* * * The amended rule establishes a time limit for the motion to substitute based not upon the time
-of the death, but rather upon the time information of the death is provided by means of a suggestion
-of death upon the record. * * * A motion to substitute may be made by any party or by the
-representative of the deceased party without awaiting the suggestion of death. Indeed, the motion
-will usually be so made. If a party or the representative of the deceased party desires to limit the
-time within which another may make the motion, he may do so by suggesting the death upon the record.
-(Emphasis added.) Under the amended Rule either a party or “the successors or representatives of the
-deceased party” may avoid delay in effecting substitution for the deceased party either by filing a
-motion for substitution or by suggesting death on the record and thus triggering the 90-day period
-which begins with suggestion of death. The Advisory Committee, in outlining that suggestion of death
-could be made by “the representative of the deceased party” plainly contemplated that the suggestion
-emanating from the side of the deceased would identify a representative of the estate, such as an
-executor or administrator, who could be substituted for the deceased as a party, with the action
-continued in the name of the representative. The addition of “successor” in the Rule would take care
-of the case of, say, the distributee of an estate that had been distributed, but would not make a
-material difference in the aspect under consideration. Form 30, for suggestion of death, which was
-provided in order to expedite and facilitate implementation of the amendment, provides: A.B.
-[described as a party, or as executor, administrator, or other representative or successor of C.D.,
-the deceased party\ suggests upon the record, pursuant to Rule 25(a) (1), the death of C.D.
-[describe as party] during the pendency of this action. Added Jan. 21, 1963, eff. July 1, 1963.
-[Emphasis added.] Although the attorney for the defendant was retained to “represent” the deceased
-as his counsel, he is not a person who could be made a party, and is not a “representative of the
-deceased party” in the sense contemplated by Rule 25(a) d). In our opinion the Rule, as amended,
-cannot fairly be construed, as the de fendant’s attorney argues, to make his suggestion of death
-operative to trigger the 90-day period even though he was neither a successor nor representative of
-the deceased, and gave no indication of what person was available to be named in substitution as a
-representative of the deceased. Counsel’s construction would open the door to a tactical maneuver to
-place upon the plaintiff the burden of locating the representative of the estate within 90 days. We
-can conceive of cases wherein even the lawyer retained to represent a defendant might know the
-defendant had died, yet not readily know where his estate would be administered. In the present
-case, plaintiff’s attorney did know the court of probate, but he did not know whether probate of the
-will might be contested, or who would be appointed representative of the estate. The tactic of the
-defendant’s attorney would place on plaintiff the burden, where no conventional representative was
-appointed for the estate in probate court, of instituting machinery in order to produce some
-representative of the estate ad litem, pending appointment of the representative contemplated by law
-of the domicile of the deceased.
+OPINION AND ORDER GRANTING DEFENDANTS’ MOTION FOR SUMMARY JUDGEMENT ROSEN, District Judge. I.
+INTRODUCTION This race/religious discrimination in employment action is presently before the Court
+on Defendants’ Motion for Summary Judgment. Defendants contend that Plaintiffs’ claims should be
+dismissed (1) due to their failure to exhaust administrative remedies, (2) because the statute of
+limitations has expired, and/or (3) by application of the doctrine of res judicata. Plaintiffs have
+responded to Defendants’ Motion, to which Response Defendants have replied. Having reviewed and
+considered the parties’ Briefs and supporting documents, and having discussed this matter with
+counsel for the parties at the Scheduling Conference held in this case, the Court has determined
+that oral argument is not necessary. Therefore, pursuant to Eastern District of Michigan Local Rule
+7.1(e)(2), this matter will be decided “on the briefs.” This Opinion and Order sets forth the
+Court’s ruling. II. UNDISPUTED FACTS A. THE EMPLOYMENT HISTORY OF THE SIX PLAINTIFFS All six
+Plaintiffs in this action, Frank Branham, Bernice Dancy, Cherise Hubbard, Chris Jenkins, Terry Hill
+Martin and Keith Rutledge are African-Americans who, at one time or another between 1996 and 1999
+either worked for, or applied for work with, Defendant Home Depot, Inc. Defendant Home Depot hired
+Plaintiff Frank Branham on May 25, 1998. His employment was terminated on December 8, 1999. Branham
+did not file a charge of discrimination with the EEOC or the MDCR regarding his termination.
+Plaintiff Bernice Dancy was hired by Home Depot on February 26, 1996. Dan-cy resigned from Home
+Depot for “personal reasons” on April 3, 1997. Dancy did not file a charge of discrimination with
+the EEOC or the MDCR regarding her termination. Plaintiff Cherise Hubbard was never employed by Home
+Depot. She claims that she applied for a job as a “Team Leader” with Home Depot and that Home Depot
+offered her the job, but three days later, on December 3, 1999, the offer of employment was
+rescinded because of her “personal commitment to a religion or religious practice.” (See Complaint,
+¶ 11(d).) Hubbard did not file a charge of discrimination with the EEOC or the MDCR regarding her
+termination. Home Depot also never employed Plaintiff Chris Jenkins; Jenkins was employed by
+National Blinds & Wallpaper, Inc., a wholly-owned subsidiary of Home Depot. National Blinds hired
+Jenkins on January 14, 1999. Jenkins alleges that he was the victim of discrimination when his
+employer failed to promote him Jenkins filed a charge of discrimination against Home Depot with the
+MDCR on February 28, 2000. However, he voluntarily withdrew the charge on July 25, 2000. He never
+filed a charge against National Blinds. Defendant Home Depot hired Plaintiff Terry Hill Martin on
+February 17, 1997. Martin’s employment was terminated on August 11, 1997. Defendants allege that the
+reason for Martin’s termination was job abandonment. Martin did not file a charge of discrimination
+with the EEOC or the MDCR regarding her termination. Plaintiff Keith Rutledge was hired by Home
+Depot on March 25, 1997. Home Depot terminated Rutledge’s employment on August 28, 1997 for a time
+clock violation. Rutledge did not file a charge of discrimination with the EEOC or the MDCR
+regarding his termination. B. PROCEDURAL HISTORY This case was originally filed in this Court on
+December 18, 2000. {See Defendants’ Ex. 1). In their Complaint, Plaintiffs alleged that Home Depot
+and four individual Home Depot managers/supervisors discriminated against them in violation of Title
+VII of the Civil Rights Act of 1964, the Michigan Elliott-Larsen Civil Rights Act, and 42 U.S.C. §
+1981. They also alleged a common law claim of “negligent supervision.” After filing their Complaint,
+however, Plaintiffs took no action whatsoever to prosecute their claims. Therefore, on May 15, 2001,
+the Court issued an Order to Show Cause, ordering Plaintiffs show good cause in writing as to why
+the action should not be dismissed for “lack of prosecution.” {See Defendants’ Ex. 2). Plaintiffs
+failed to respond to the Show Cause Order. As a result, on May 30, 2001, the Court dismissed
+Plaintiffs’ Complaint “without prejudice to the right, upon good cause shown, to reopen the action
+within thirty (30) days”. {See Defendants’ Ex. 3). Plaintiffs did not request to reopen the case
+within the thirty day time period designated by the Court and did not otherwise respond to the
+dismissal order. Instead, three months later, on August 20, 2001, Plaintiffs re-filed the very same
+Complaint that this Court had dismissed in Oakland County Circuit Court. {See Defendants’ Ex. 4).
+Defendants subsequently removed the action to federal court on the basis of federal question
+jurisdiction, and it was assigned to this Court in accordance with Local Rule 83.11. Defendants now
+move for summary judgment arguing that Plaintiffs’ claims are barred for failure to exhaust
+administrative remedies, because of the expiration of the period of limitations, and/or by
+application of the doctrine of res judicata. ll! DISCUSSION A. STANDARDS APPLICABLE TO MOTIONS FOR
+SUMMARY JUDGMENT Summary judgment is proper “ ‘if the pleadings, depositions, answer to
+interrogatories, and admissions on file, together with the affidavits, if any, show that there is no
+genuine issue as to any material fact and that the moving party is entitled to judgment as a matter
+of law.’ ” Fed. R.Civ.P. 56(c). Three 1986 Supreme Court cases—Matsushita Electrical Industrial Co.
+v. Zenith Radio Corp., 475 U.S. 574, 106 S.Ct. 1348, 89 L.Ed.2d 538 (1986); Anderson v. Liberty
+Lobby, Inc., 477 U.S. 242, 106 S.Ct. 2505, 91 L.Ed.2d 202 (1986); and Celotex Corp. v. Catrett, 477
+U.S. 317, 106 S.Ct. 2548, 91 L.Ed.2d 265 (1986)—ushered in a “new era” in the standards of review
+for a summary judgment motion. These cases, in the aggregate, lowered the movant’s burden on a
+summary judgment motion. According to the Celotex Court, In our view, the plain language of Rule
+56(c) mandates the entry of summary judgment, after adequate time for discovery and upon motion,
+against a party who fails to make a showing sufficient to establish the existence of an element
+essential to that party’s case, and on which that party will bear the burden of proof. Celotex, 477
+U.S. at 322,106 S.Ct. 2548. After reviewing the above trilogy, the Sixth Circuit established a
+series of principles to be applied to motions for summary judgment. They are summarized as follows:
+* The movant must meet the initial burden of showing “the absence of a genuine issue of material
+fact” as to an essential element of the non-movant’s case. This burden may be met by pointing out to
+the court that the respondent, having had sufficient opportunity for discovery, has no evidence to
+support an essential element of his or her case. * The respondent cannot rely on the hope that the
+trier of fact will disbelieve the movant’s denial of a disputed fact, but must “present affirmative
+evidence in order to defeat a properly supported motion for summary judgment.” * The trial court no
+longer has the duty to search the entire record to establish that it is bereft of a genuine issue of
+material fact. * The trial court has more discretion than in the “old era” in evaluating the
+respondent’s evidence. The respondent must “do more than simply show that there is some metaphysical
+doubt as to the material facts.” Further, “[w]here the record taken as a whole could not lead a
+rational trier of fact to find” for the respondent, the motion should be granted. The trial court
+has at least some discretion to determine whether the respondent’s claim is plausible. Betkerur v.
+Aultman Hospital Association, 78 F.3d 1079, 1087 (6th Cir.1996). See also, Street v. J.C. Bradford &
+Co., 886 F.2d 1472, 1479-80 (6th Cir.1989). The Court will apply the foregoing standards in deciding
+Defendants’ Motion for Summary Judgment in this case. B. PLAINTIFFS’ TITLE VII CLAIMS AGAINST THE
+INDIVIDUAL DEFENDANTS MUST BE DISMISSED As an initial matter, the Court finds that Plaintiffs’ Title
+VII claims against Defendants Theon, Weathersby, Byrnes, Miller and Pitchard must be dismissed. In
+Wathen v. General Electric Co., 115 F.3d 400 (6th Cir.1997), the Sixth Circuit Court of Appeals held
+that, notwithstanding the language of Title VII, individual supervisors and managers, who do not
+otherwise qualify as “employers” may not be held liable under the Act. Based upon an examination of
+the statutory scheme and remedial provisions of Title VII, the Wathen court concluded that Congress
+did not intend to provide for individual employee/supervisor liability under the federal statute.
+Rather, the court determined that the term “agent” was included in the statutory language merely “to
+incorporate responde-at superior liability into the statute.” 115 F.3d at 406. See also, Hall v.
+State Farm Ins. Co., 18 F.Supp.2d 751, 760-61 (E.D.Mich.1998), aff'd, 1 Fed. Appx. 438, 2001 WL
+45124 (6th Cir.2001) (unpublished decision). The foregoing Sixth Circuit precedent establishes that
+Plaintiffs’ Title VII claims against the individual Defendants are not legally cognizable.
+Therefore, these claims will be dismissed. C. PLAINTIFFS’ TITLE VII CLAIMS AGAINST HOME DEPOT ARE
+BARRED BECAUSE THEY FAILED TO EXHAUST THEIR ADMINISTRATIVE REMEDIES It is well settled that a person
+who claims to have been discriminated against in violation of Title VII may not seek relief in
+federal court unless administrative remedies have first been exhausted. See, United Air Lines v.
+Evans, 431 U.S. 553, 97 S.Ct. 1885, 52 L.Ed.2d 571 (1977); Abeita v. TransAmerica Mailings, Inc.,
+159 F.3d 246, 254 (6th Cir.1998); Ang v. Procter & Gamble Co., 932 F.2d 540, 544-45 (6th Cir.1991);
+Haithcock v. Frank, 958 F.2d 671, 675 (6th Cir.1992); Parsons v. Yellow Freight Systems, Inc., 741
+F.2d 871, 873 (6th Cir.1984). In Parsons, the Sixth Circuit explained the reason for requiring
+exhaustion: The requirement that the plaintiff exhaust administrative remedies prior to instituting
+suit is intended to ensure that the Commission will have been afforded an opportunity to attempt
+conciliation and voluntary settlement, “the preferred means for resolving employment discrimination
+disputes.” Id. at 873 (citation omitted). As provided in Title VII, 42 U.S.C. § 2000e-5(e): A charge
+under this section shall be filed within 180 days after the alleged unlawful employment practice
+occurred and notice of the charge (including the date, place, and circumstances of the alleged
+unlawful employment practice) shall be served upon the person against whom such charge is made
+within ten days thereafter, except that in a case of an unlawful employment practice with respect to
+which the person aggrieved has initially instituted proceedings with a state or local agency.. .such
+charge shall be filed by or on behalf of the person aggrieved within 300 days after the alleged
+unlawful employment practice occurred, or within 30 days after receiving notice that the state or
+local agency has terminated the proceedings under state or local law, whichever is earlier.... Thus,
+Plaintiffs had, at best, 300 days from the date of termination of employment to file a charge of
+harassment or discrimination with the Michigan Department of Civil Rights in order to be entitled to
+proceed with their Title VII claims in this action. It is undisputed that Plaintiffs Branham, Dancy,
+Hubbard, Martin, and Rutledge all failed to file charges of discrimination with the EEOC or the
+MDCR. Thus, their Title VII claims are barred because of their failure to exhaust their
+administrative remedies. With respect to Plaintiff Jenkins, as indicated, Plaintiff Jenkins filed an
+MDCR charge but then withdrew it on July 25, 2000 without any investigation or decision having been
+made by the Commission. (See Defendants’ Ex. 6.) Not having given the Commission the opportunity to
+attempt conciliation or voluntary settlement, Jenkins also has failed to exhaust his administrative
+remedies. As noted, there is no dispute as to the Plaintiffs’ failure to satisfy Title VII’s
+exhaustion requirements. Plaintiffs, in fact, concede in their Response Brief that they have not
+exhausted their administrative remedies and admit that they “chose not to refile their Complaint in
+this Court because Plaintiffs lacked a right-to-sue letter which is a condition precedent to
+bringing a Title VII action.” (See Plaintiffs’ Response Brief, p. 3, citing Rivers v. Barberton Bd.
+of Educ., 143 F.3d 1029 (6th Cir.1998)). Having failed to timely exhaust their administrative
+remedies before filing suit, Plaintiffs’ Title VII claims must be dismissed. D. PLAINTIFFS DANCY,
+MARTIN, AND RUTLEDGES ELLIOTT-LARSEN AND SECTION 1981 CLAIMS OF ARE BARRED BY THE STATUTE OF
+LIMITATIONS. Claims arising under the Michigan Elliot-Larsen Civil Rights Act and under 42 U.S.C. §
+1981 are governed by the three-year statute of limitations for injury to a person or property
+provided in M.C.L. § 600.5805(9). See, Mair v. Consumers Power Co., 419 Mich. 74, 77, 348 N.W.2d 256
+(1984); Sumner v. Goodyear Tire & Rubber Co., 427 Mich. 505, 398 N.W.2d 368 (1986). See also,
+Goodman v. Lukens Steel Co., 482 U.S. 656, 676, 107 S.Ct. 2617, 96 L.Ed.2d 572 (1987) (“[T]he
+applicable statute of limitations for claims based on violations of 42 U.S.C. § 1981 and 42 U.S.C. §
+1983 is the state’s statute of limitations governing personal injury.”) For purposes of claims of
+ongoing discrimination during a plaintiffs term of employment as well as claims of discriminatory
+discharge, the statute of limitations begins to run on the last day worked. Janikowski v. Bendix
+Corp., 823 F.2d 945, 949 (6th Cir.1987). Plaintiff Dancy resigned from Home Depot on April 3, 1997.
+Plaintiff Martin’s employment was terminated on August 11, 1997, and Plaintiff Rutledge’s employment
+was terminated on August 28,1997. Plaintiffs’ Complaint in this action was not filed until August
+20, 2001, i.e., more than three years after Plaintiffs Dancy, Martin, and Rutledge’s last day of
+work. Therefore, the Elliott-Larsen and Section 1981 claims of these Plaintiffs are barred by the
+three- year statute of limitations and, accordingly, they will be dismissed, with prejudice. E.
+APPLICATION OF THE DOCTRINE OF RES JUDICATA MANDATES DISMISSAL OF PLAINTIFFS’ COMPLAINT, IN ITS
+ENTIRETY. The doctrine of res judicata operates to preclude relitigation between the same parties or
+their privies on the same claim. King v. South Central Bell, 790 F.2d 524, 528 (6th Cir.1986).
+Application of the doctrine requires satisfaction of four elements: (1) a final decision on the
+merits in an earlier action by a court of competent jurisdiction; (2) a subsequent action between
+the same parties or their privies; (3) an issue in the subsequent action which was litigated or
+which should have been litigated in the prior action; and (4) an identity of the causes of action.
+Bittinger v. Tecumseh Prods. Co., 123 F.3d 877, 880 (6th Cir.1997); King v. South Central Bell, 790
+F.2d 524, 528 (6th Cir.1986). See also, Gose v. Monroe Auto Equipment Co., 409 Mich. 147, 162, 294
+N.W.2d 165, 168 (1980). Plaintiff does not dispute that three of the four elements of res judicata
+are satisfied here. First, there is no dispute that all of the parties in the original lawsuit are
+identical to the parties in the present action. (See Defendants’ Exhibits 1 and 4). Further,
+Plaintiff does not dispute that the present action raises issues which were, or could have been,
+asserted in the earlier action. Plaintiffs’ first Complaint alleged violations of Title VII (Counts
+I and II), Michigan’s Elliott-Larsen Civil Rights Act (Count III), and 42 U.S.C. § 1981 (Count V),
+as well as a claim for negligent hiring/supervision (Count VI). (See Defendants’ Ex. 1). Plaintiffs’
+second Complaint contains the exact same counts. (See Ex. 4.) To the extent that the Plaintiffs’
+second Complaint also contains an additional general allegation in Paragraph 2 of violation of 42
+U.S.C. §§ 1985 and 1988, these claims could have been brought in the earlier action. See Rivers v.
+Barberton Board of Education, 143 F.3d 1029 (6th Cir.1998). Therefore, the third element of res
+judicata is also satisfied. The fourth requirement is also satisfied here. As the Sixth Circuit
+observed in Harrington v. Vandalia-Butler Bd. of Educ., 649 F.2d 434, 437 (6th Cir.1981), (“[w]hen
+two successive suits seek recovery for the same injury, a judgment on the merits operates as a bar
+to the later suit, even though a different legal theory or recovery is advanced in the second
+suit”). Here, the very same discriminatory acts alleged in the first Complaint are alleged in the
+second Complaint. Thus, Defendants’ have satisfied the fourth element of the res judicata test.
+Plaintiffs, however, argue that the res judicata doctrine is not applicable here because they
+maintain that there was not a “final decision on the merits” in the first action. As indicated
+above, Plaintiffs’ first Complaint was dismissed by this Court for lack of prosecution. Federal Rule
+of Civil Procedure 41(b) provides: (b) Involuntary Dismissal: Effect Thereof. For failure of the
+plaintiff to prosecute or to comply with these rules or any order of court, a defendant may move for
+dismissal of an action or of any claim against the defendant. Unless the court in its order for
+dismissal otherwise specifies, a dismissal under this subdivision and any dismissal not provided for
+in this rule... operates as an adjudication on the merits. Fed.R.Civ.P. 41(b). Consistent with Rule
+41(b), the Sixth Circuit has repeatedly held that a dismissal for lack of prosecution—whether
+entered pursuant to a party’s motion or on the court’s own initiative—operates as a decision on the
+merits for purposes of res judicata. See, e.g., Stelts v. University Emergency Specialists, Inc., 20
+Fed.Appx. 448, 2001 WL 1176350 (6th Cir.2001); Moore v. Martin, 178 F.3d 1295, 1999 WL 107974 (6th
+Cir.1999) (unpublished decision; text available on WESTLAW). Plaintiffs argue, however, that this
+Court specified in its Order of Dismissal of the first suit for lack of prosecution that the
+dismissal was “without prejudice.” Therefore, they contend that cannot be deemed a final decision on
+the merits. Plaintiffs mischaracterize and misapprehend the Court’s Order. The Order of Dismissal
+merely conditionally dismissed Plaintiffs’ Complaint pursuant to “without prejudice to the right,
+upon good cause shown, to reopen the action within thirty (30) days.” The “without prejudice”
+dismissal, thus, was limited both temporally and substantively. A similar case was presented in
+Yourish v. California Amplifier, 191 F.3d 983 (9th Cir.1999). In that case, the Court dismissed the
+plaintiffs’ complaint with 60 days leave to file an amended complaint. The plaintiffs failed to
+amend within the 60-day period. A month after the deadline, the plaintiffs filed a motion requesting
+entry of an order of dismissal without prejudice, indicating that they wanted to pursue their action
+in state court. The defendants countered by requesting entry of an order of dismissal with
+prejudice. The District Court granted the defendants’ motion and entered a order of dismissal with
+prejudice because of the plaintiffs’ failure to comply with the court’s earlier order allowing 60
+days to amend the complaint and the Ninth Circuit affirmed. See also, United States v. Certain Land,
+178 F.Supp.2d 792 (E.D.Mich.2001) (noting that prior dismissal of action without prejudice to right
+of plaintiff to move to vacate order within 30 days would have become a dismissal with prejudice had
+the plaintiff not filed a motion to vacate within 30 days). Plaintiffs here took no action within
+the 30-day time period allowed to show good cause for reopening the case. Plaintiffs’ failure to do
+so converted the dismissal to one with prejudice. Any other interpretation of the Court’s Order
+would render the “upon good cause shown, to reopen the action within thirty (30) days” language of
+the Order superfluous. By application of the foregoing authorities, the Court finds that there has
+been a final decision on the merits and that the first element of the res judicata test has been
+met. There having been a prior adjudication on the merits of Plaintiffs’ earlier action against the
+same Defendants, the Court finds that Plaintiffs’ claims in this action are barred in their entirety
+by application of doctrine of res judicata. CONCLUSION For all of the foregoing reasons, IT IS
+HEREBY ORDERED that Defendants’ Motion for Summary Judgment is GRANTED and Plaintiffs’ Complaint is
+dismissed in its entirety, with prejudice. Let Judgment be entered accordingly. . “Taken together
+the three cases signal to the lower courts that summary judgment can be relied upon more so than in
+the past to weed out frivolous lawsuits and avoid wasteful triais.” 10A Charles A. Wright, Arthur R.
+Miller, Mary Kay Kane, Federal Practice & Procedure, § 2727, at 35 (1996 Supp.). . Title VII
+provides that “it shall be an unlawful employment practice for an employer to discriminate on the
+basis of race, color, religion, sex, or national origin.” 42 U.S.C. § 2000e-2(a). A person aggrieved
+by such discrimination may bring a civil action against the “employer”. 42 U.S.C. § 2000e-5(b).
+“Employer” is defined in the statute as: a person engaged in an industry affecting commerce who has
+fifteen or more employees ... and any agent of such person. 42 U.S.C. § 2000e(b). “Agent” is not
+defined in the Act, but has been interpreted by the courts to mean "an individual who serves in a
+supervisory position and exercises significant control over the plaintiff's hiring, firing or
+conditions of employment.” See, Pierce v. Commonwealth Life Ins. Co., 40 F.3d 796, 803 (6th
+Cir.1994). . In any event, Plaintiff was not an employee of Home Depot; he was an employee of
+National Blinds and Wallpaper, Inc., a wholly-owned subsidiary of Home Depot.
 
 

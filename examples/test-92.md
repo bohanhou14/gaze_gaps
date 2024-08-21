@@ -1,142 +1,115 @@
 **gold_text:**
-The amendment to Rule 25(a) (1) was intended to dispel unwarranted rigidity and allow more
-flexibility in substitution. “It was intended that liberal effect be given to the 1963 amendment.”
-Roscoe v. Roscoe, 126 U.S.App.D.C. 317, 322, 379 F.2d 94, 99 (1967). “[T]he 90 day period was not
-intended to act as a bar to otherwise meritorious actions.” Staggers v. Otto Gerdau Co., 359 F.2d
-292, 296 (2d Cir. 1966).
+The Government cites the Supreme Court cases of Helvering v. Winmill, 305 U.S. 79, 59 S.Ct. 45, 83
+L.Ed. 52, and Spreckles v. C. I. R., 315 U.S. 626, 62 S.Ct. 777, 86 L.Ed. 1073, in which it was held
+that commissions paid on the transfer of stocks were not deductible as ordinary and necessary
+business expenses, but had to be capitalized. But the plaintiff points out that the Supreme Court,
+in its opinion, expressly relies upon a Treasury Regulation of long standing which had survived
+several amendments and reenactments of the income tax law. Here we have no such situation.
 
 **Generations:**
 
 
 ***GPT-4o:***
-This stringent interpretation contrasts sharply with the intent of the 1963 amendments to Rule 25
-and Rule 6(b), which aimed to inject flexibility and fairness into the substitution process. As
-noted in 379 F.2d 94 and 359 F.2d 292, the amendments were designed to eliminate the inequities and
-hardships caused by the rigid two-year limitation originally imposed. The Advisory Committee
-emphasized that the revised rules were to be liberally construed to allow courts discretion in
-extending the substitution period, recognizing the difficulties that could arise in promptly
-identifying and notifying the proper representative of the deceased.   Given this context, the
-defendant’s counsel's suggestion of death, which lacked identification of a proper representative,
-failed to initiate the 90-day countdown. This interpretation aligns with the judicial precedent that
-courts should prioritize the equitable administration of justice over strict procedural formalities.
-Thus, the district court erred in dismissing the plaintiffs' action without granting the requested
-extension, especially considering the circumstances that inhibited timely substitution, such as the
-injury to plaintiffs' counsel and the ongoing legal processes in the probate court.  We, therefore,
-reverse the judgment and remand for further proceedings consistent with this opinion, ensuring that
-the substitution process adheres to the flexible and just principles intended by the amendments to
-the Federal Rules of Civil Procedure.
+The case at hand closely resembles the precedent set in *Helvering v. Winmill*, 305 U.S. 79, where
+the Supreme Court held that commissions paid on purchases of securities could not be deducted as
+business expenses. This interpretation, governed by Treasury regulations, has consistently
+maintained that stock-related costs such as commissions are part of the securities' cost basis
+rather than ordinary expenses. Similarly, *315 U.S. 626* reaffirmed the treatment of commissions and
+costs associated with the sale of securities, designating them as offsets against selling prices
+rather than deductible expenses unless deemed ordinary and necessary business expenses. The
+taxpayer's claim that unamended administrative interpretations lack the force of law contrasts
+sharply with the established judicial and legislative stance supporting the regulations. Therefore,
+the plaintiff's argument against the Bureau's ruling in I. T. 3806 is untenable given that these
+regulatory interpretations have been repeatedly upheld by the courts and tacitly approved by
+Congress without statutory amendment. The decision to capitalize such expenses remains firmly
+embedded in legal precedent.
 
 
 **Label:** 
 
 
 ***Meta-Llama-3-8B-Instruct:***
-  In the context of Rule 25(a) (1) of the Federal Rules of Civil Procedure, the suggestion of death
-is a crucial step in the process of substituting a deceased party with a proper representative.
-However, not all suggestions of death are created equal. In cases where the suggestion of death is
-made by a party's attorney, but fails to identify a successor or representative of the deceased, the
-90-day period for substitution may not be triggered.  As noted in 359 F.2d 292, the Advisory
-Committee on Civil Rules intended to provide a more flexible standard for substitution, allowing for
-extensions of time and dispensing with the rigid two-year period previously in place. However, this
-flexibility is contingent upon the suggestion of death providing sufficient information to permit
-the court to proceed with substitution.  In the present case, the suggestion of death made by the
-defendant's attorney was deficient in that it failed to identify a successor or representative of
-the deceased. This lack of specificity rendered the suggestion ineffective in triggering the 90-day
-period for substitution, as explained in 379 F.2d 94.  Furthermore, the court's discretion to
-enlarge the time period for substitution, as provided by Rule 6(b), is not a blank check. Rather, it
-is intended to be exercised in a judicious and reasonable manner, taking into account the particular
-circumstances of each case.  In light of these principles, we conclude that the district court erred
-in dismissing the action with prejudice. The case should be remanded for further proceedings,
-allowing the parties to properly substitute a representative of the deceased and continue the action
-in a manner consistent with the Federal Rules of Civil Procedure.
+  The plaintiff sues for the recovery of income taxes which, he says, he should not have been
+required to pay. He claims that certain federal excise stamp taxes which he had to pay upon the
+transfer of corporation stocks were deductible by him from his 1947 income, but that he was not
+allowed the deduction, and therefore he was required to pay a larger income tax than he owed.  In
+Helvering v. Winmill, 305 U.S. 79, the Court held that a taxpayer who bought and sold securities
+could not deduct the commissions paid on his purchases as a business expense. Similarly, in this
+case, the stock transfer stamp taxes paid by the plaintiff as a trader in securities should not be
+deducted as ordinary and necessary business expenses. Instead, they should be treated as offsets
+against the selling price, relevant only to the determination of capital losses or gains.
+Furthermore, in Commissioner v. Weiss, 315 U.S. 626, the Court recognized that the specific
+regulation pertaining to securities transactions provides that commissions paid in purchasing
+securities are a part of the cost price of such securities, while commissions paid in selling
+securities, when such commissions are not an ordinary and necessary business expense, are an offset
+against the selling price. Following the same logic, the stock transfer stamp taxes paid by the
+plaintiff should be treated as part of the cost price of the securities, rather than as ordinary and
+necessary business expenses.  In conclusion, the plaintiff's claim that the stock transfer stamp
+taxes were deductible as ordinary and necessary business expenses is not supported by the relevant
+case law and regulations. The taxes should be treated as offsets against the selling price, relevant
+only to the determination of capital losses or gains, rather than as deductible business expenses.
 
 
 **Label:** 
 
 
-**citations:** ['379 F.2d 94', '359 F.2d 292']
+**citations:** ['305 U.S. 79', '315 U.S. 626']
 
-***short_citations_0:*** 379 F.2d 94
+***short_citations_0:*** 305 U.S. 79
 
-the proper parties. * * * Unless the motion for substitution is made not later than 90 days after the death is suggested upon the record by service of a statement of the fact of the death as provided herein for the service of the motion, the action shall be dismissed as to the deceased party.” Here not only had the 90-day period not expired when the court entered summary judgment, the appellant by her motion for reconsideration had specifically invoked the discretion of the court. Rule 6(b) provides pertinently that when “by these rules * * * an act is required or allowed to be done at or within a specified time, the court for cause shown may at any time in its discretion (1) with or without motion or notice order the period enlarged if request therefor is made before the expiration of the period originally prescribed * * Originally the Rule had precluded an extension of time for taking action under Rule 25(a) (1), but by purposeful amendment, it was sought to relieve against the hardship of the Court’s holding in Anderson v. Yungkau, 329 U.S. 482, 67 S.Ct. 428, 91 L.Ed. 436 (1947). It was intended that liberal effect be given to the 1963 amendment. Graham v. Pennsylvania Railroad, 119 U.S.App.D.C. 335, 342 F.2d 914 (1964), cert. denied, 381 U.S. 904, 85 S.Ct. 1446, 14 L.Ed.2d 286 (1965). We are constrained to reverse for further proceedings not inconsistent with this opinion. Reversed. The only “party” then
+the cost of the securities, respondent’s right to deduct is limited by § 23 (r). The Commissioner refused to permit the deductions beyond the extent of stock losses. His action was affirmed by the Board of Tax Appeals. The Court of Appeals held the commissions deductible if respondent was engaged in the business of buying and selling securities, and remanded for a finding as to the nature of his business. Article 282, Treasury Regulation 77, issued under the 1932 Act, provides that “Commissions paid in purchasing securities are a part of the cost price of such securities.” If this regulation governs, the respondent’s contention cannot be sustained. Regulations promulgated under the 1916 income tax law treated commissions in security purchases as a part of the securities’ cost and not as ordinary expense deductions. This interpretation has consistently reappeared in all regulations under succeeding tax statutes. In the period since 1916 statutes have from time to time altered allowable deductions, but it is significant that Congress substantially retained the original taxing provisions on which these regulations have rested. Treasury regulations and interpretations long continued without substantial change, applying to unamended or substantially reenacted statutes, are deemed to have received congressional approval and have the effect of law. There has been tacit, if not express, judicial approval for the administrative treatment of commissions as an element of the cost of securities. In Hutton v. Commissioner, 39 F. 2d 459, 460, the Court of Appeals recognized that “ It has been a settled
 
-***short_citations_1:*** 359 F.2d 292
+***short_citations_1:*** 315 U.S. 626
 
-insertion of a “reasonable time” standard. In 1963, the Advisory Committee suggested the present rule and noted: “Present Rule 25(a) (1), together with present Rule 6(b), results in an inflexible requirement that an action be dismissed as to a deceased party if substitution is not carried out within a fixed period measured from the time of the death. The hardships and inequities of this unyielding requirement plainly appear from the cases. * * * The amended rulé establishes a time limit for the motion to substitute based not upon the time of the death, but rather upon the time information of the death is provided by means of a suggestion of death upon the record, i. e. service of a statement of the fact of the death.” See Notes of Advisory Committee on the Civil Rules, 28 U.S.C. Rule 25 (1964). Rule 6(b) of the Federal Rules of Civil Procedure was also amended in 1963 and the prohibition against extending the time for taking action under Rule 25 was eliminated. The Advisory Committee on the Civil Rules noted: “It is intended that the court shall have discretion to enlarge that period.” The amendments of Rules 6(b) and 25(a) (1) provided needed flexibility. It was assumed that discretionary extensions would be liberally granted. Movants under Rule 25 can ordinarily control when a death is “suggested upon the record” and appellants’ attorney was under no obligation to file his affidavit of Staggers’ death on the date he did. He could have filed
+of the Revenue Act of 1934, or are they to be treated as offsets against selling price, relevant only to the determination of capital losses or gains? In Helvering v. Winmill, 305 U. S. 79, we held that a taxpayer who bought and sold securities could not deduct the commissions paid on his purchases as a business expense. Although the Winmill case arose under the Revenue Act of 1932, the statutory provisions and regulations there relevant are identical with those again in controversy here. And the conclusion we reached there — that a general regulation designating “commissions” as one of a long list of deductible business expenses is not controlling in the face of a specific regulation pertaining to commissions on securities transactions — is equally applicable here. The specific regulation pertaining to securities transactions provides: “Commissions paid in purchasing securities are a part of the cost price of such securities. Commissions paid in selling securities, when such commissions are not an ordinary and necessary business expense, are an offset against the selling price. . . .” If there is any justification for treating sales commissions differently from purchase commissions, it must depend upon the significance of the clause “when such commissions are not an ordinary and necessary business expense.” This clause first appeared in Treasury Regulations 77, accompanying the Revenue Act of 1932. In the income tax regulations prior to that time, it was consistently prescribed that commissions paid on purchases and sales of securities were to be treated
 
 **prev_text:**
-LEVENTHAL, Circuit Judge: The District Court held that Rule 25(a) (1) of the Federal Rules of Civil
-Procedure required dismissal of the plaintiffs’ tort action because defendant’s counsel had filed a
-suggestion of death of the defendant yet plaintiff had not made any substitution of parties within
-90 days. We reverse on the ground that the suggestion of death, which was neither filed by nor
-identified a successor or representative of the deceased, such as an executor or administrator, was
-ineffective to trigger the running of the 90-day period provided by the Rule. Mr. and Mrs. John
-Rende filed an action in the District Court individually and on behalf of their infant son who had
-been struck and injured by Alfred S. Kay while driving his car. On August 27, 1967, defendant Kay
-died. On September 1, 1967, the defendant’s attorney, a term used here to identify the lawyer who
-had been retained by deceased to defend the action, and who had duly entered an appearance as
-attorney for defendant, filed a suggestion of death in the District Court, giving notice to
-plaintiffs’ attorney. That same day there was filed in the Orphans Court for Montgomery County,
-Maryland, residence of the deceased, his will naming his widow as executrix, but the will had not
-been probated, nor any legal representative appointed for the estate at the time of the filing of
-this appeal. Plaintiffs’ attorney was injured on October 14, 1967. On returning to practice early in
-1968, he learned that no successor to defendant Kay had yet been appointed, and he moved to certify
-the case to the ready calendar. The defendant’s attorney opposed this on grounds that discovery
-procedures had not been completed. The case was delayed and placed on the ready calendar as of June
-7, 1968. However, in April 1968, the defendant’s attorney moved in his own name to dismiss the
-action on the ground that Rule 25(a) (1) required plaintiffs to move to substitute a proper party
-for the deceased within 90 days of the suggestion of death. Plaintiffs filed an opposition and
-motion for substitution of the proper party, and sought an extension of the time for substitution as
-allowed by Rule 6(b). At argument, plaintiffs’ counsel asserted the “suggestion of death was
-defective in that it did not list the name of the proper party; that is the legal representative of
-the defendant.” The court responded: “That would not be his burden.” The court dismissed the action
-with prejudice. Prior to its amendment in 1963, Rule 25(a) (1) required the court to dismiss a case
-if no motion for substitution was filed within two. years after date of death, and no extensions of
-this period were allowed under Rule 6(b). The rule was rigorously applied, often with harsh results,
-and was called “easily the poorest rule of all the Federal Rules.” In 1955 the Advisory Committee on
-Rules for Civil Procedure recommended that the two-year period be changed to a “reasonable time”
-standard. In 1961 the Advisory Committee on Civil Rules again suggested the Rule be made more
-flexible. In 1963 the Supreme Court made changes in Rule 25(a) (1) and in Rule 6(b) so as to provide
-a 90-day time limit from the filing of a suggestion of death, and to give the court discretion to
-extend that time. The Committee Notes explaining the amendments state: Present Rule 25(a) (1),
-together with present Rule 6(b), results in an inflexible requirement that an action be dismissed as
-to a deceased party if substitution is not carried out within a fixed period measured from the time
-of death. The hardships and inequities of this unyielding requirement plainly appear from the cases.
-* * * The amended rule establishes a time limit for the motion to substitute based not upon the time
-of the death, but rather upon the time information of the death is provided by means of a suggestion
-of death upon the record. * * * A motion to substitute may be made by any party or by the
-representative of the deceased party without awaiting the suggestion of death. Indeed, the motion
-will usually be so made. If a party or the representative of the deceased party desires to limit the
-time within which another may make the motion, he may do so by suggesting the death upon the record.
-(Emphasis added.) Under the amended Rule either a party or “the successors or representatives of the
-deceased party” may avoid delay in effecting substitution for the deceased party either by filing a
-motion for substitution or by suggesting death on the record and thus triggering the 90-day period
-which begins with suggestion of death. The Advisory Committee, in outlining that suggestion of death
-could be made by “the representative of the deceased party” plainly contemplated that the suggestion
-emanating from the side of the deceased would identify a representative of the estate, such as an
-executor or administrator, who could be substituted for the deceased as a party, with the action
-continued in the name of the representative. The addition of “successor” in the Rule would take care
-of the case of, say, the distributee of an estate that had been distributed, but would not make a
-material difference in the aspect under consideration. Form 30, for suggestion of death, which was
-provided in order to expedite and facilitate implementation of the amendment, provides: A.B.
-[described as a party, or as executor, administrator, or other representative or successor of C.D.,
-the deceased party\ suggests upon the record, pursuant to Rule 25(a) (1), the death of C.D.
-[describe as party] during the pendency of this action. Added Jan. 21, 1963, eff. July 1, 1963.
-[Emphasis added.] Although the attorney for the defendant was retained to “represent” the deceased
-as his counsel, he is not a person who could be made a party, and is not a “representative of the
-deceased party” in the sense contemplated by Rule 25(a) d). In our opinion the Rule, as amended,
-cannot fairly be construed, as the de fendant’s attorney argues, to make his suggestion of death
-operative to trigger the 90-day period even though he was neither a successor nor representative of
-the deceased, and gave no indication of what person was available to be named in substitution as a
-representative of the deceased. Counsel’s construction would open the door to a tactical maneuver to
-place upon the plaintiff the burden of locating the representative of the estate within 90 days. We
-can conceive of cases wherein even the lawyer retained to represent a defendant might know the
-defendant had died, yet not readily know where his estate would be administered. In the present
-case, plaintiff’s attorney did know the court of probate, but he did not know whether probate of the
-will might be contested, or who would be appointed representative of the estate. The tactic of the
-defendant’s attorney would place on plaintiff the burden, where no conventional representative was
-appointed for the estate in probate court, of instituting machinery in order to produce some
-representative of the estate ad litem, pending appointment of the representative contemplated by law
-of the domicile of the deceased.
+MADDEN, Judge. The plaintiff sues for the recovery of income taxes which, he says, he should not
+have been required to pay. He says that certain federal excise stamp taxes which he had to pay upon
+the transfer of corporation stocks were deductible by him from his 1947 income, but that he was not
+allowed the deduction, and therefore he was required to pay a larger income tax than he owed. Until
+the enactment of the Revenue Act of 1943, federal stock transfer taxes, along with many other
+federal excise taxes, were deductible from income. By that Act, sub-paragraph F was added to Section
+23(c) (1) of the Internal Revenue Code, 26 U.S.C.A. § 23(c) (1) (F) so that the section now provides
+that federal excise and stamp taxes are not deductible as taxes, but goes on to say “ * * * but this
+subsection shall not prevent such * * * taxes from being deducted under subsection (a)”. Subsection
+(a) of Section 23 permits the deduction, inter alia, of ordinary and necessary expenses incurred in
+carrying on a trade or business. The plaintiff asserts that the stock transfer stamp taxes here in
+question were incurred by him in carrying on his business of buying and selling stocks as a trader
+on his own account. The plaintiff alleges in his petition that his business was that of a trader in
+securities. If so, he had to pay stamp taxes on each sale of stock. It would seem that these taxes
+were ordinary and necessary expenses, and therefore deductible under the legislation adverted to
+above. The Government says they were not deductible because of a ruling of the Commissioner of
+Internal Revenue, set forth in I. T. 3806, 1946-2 C. B. 41, which said, in part— “(2) Federal stamp
+taxes paid on transfers or conveyances of securities or real estate upon sales thereof as a trader
+or other nondealer are selling costs or offsets against selling prices to be taken into account only
+in determining (net) amounts realized and gains or losses under section 111 of the Code on the
+sales; * * * ” The plaintiff says that I. T. 3806 contradicts the statute and is invalid. It will be
+remembered that, before the Revenue Act of 1943, these taxes were deductible as taxes, hence there
+was then no occasion to decide whether they were or were not ordinary and necessary business
+expenses. After the enactment of the Revenue Act of 1943, it was necessary to determine that
+question. If they were such, they were deductible in full. If not, they would be treated merely as
+an addition to the purchase price, or a deduction from the selling price, in computing taxable
+capital gains or losses. The Bureau determined that they were deductible in full as ordinary and
+necessary business expenses. This interpretation was continued until 1946, when I. T. 3806 was
+issued. It said, as we have seen, that traders, that is, persons who buy and sell stocks for their
+own accounts, may not have the deduction, but must capitalize the expense. In its Section 1 it says
+that dealers, that is, merchants of stock, may still have the deduction. In 1947 the Bureau of
+Internal Revenue published Mim. 6083, 1947-1 C. B. 19, which withdrew the retroactive effect of I.
+T. 3806 by providing that such taxes should still be deductible by traders for the years 1944 and
+1945, years which ended before I. T. 3806 was published. We have, then, a situation in which the
+Bureau itself, for two years after its enactment, interpreted the statute as making these taxes
+deductible as ordinary and necessary business expenses, which, on their face, they seem to be. Then
+without any amendment of the statute, or the publication of any Treasury Regulation, we have the
+Bureau issuing an I. T. which says the opposite. As we understand it, an I. T. is an instruction
+issued to the staff of the Bureau, as to how the law should be administered by the staff. The Bureau
+has no power to make law by such an instruction, even to the extent that the Secretary of the
+Treasury may make law by regulation. The Bureau’s original interpretation of the law was natural and
+logical. If one’s business is that of trading in stocks, and if he must pay a tax whenever he
+trades, the tax would seem to be an ordinary and necessary business expense, and therefore
+deductible under the express terms of the statute. It seems to us that stock transfer taxes are so
+directly connected with the particular capital transactions on which they are imposed, that it would
+be logical to change the law so as to require them to be capitalized. But we think the Bureau of
+Internal Revenue had no authority to so change the law by issuing an instruction to its staff.
 
 

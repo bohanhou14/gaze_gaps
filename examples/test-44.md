@@ -1,142 +1,298 @@
 **gold_text:**
-The amendment to Rule 25(a) (1) was intended to dispel unwarranted rigidity and allow more
-flexibility in substitution. “It was intended that liberal effect be given to the 1963 amendment.”
-Roscoe v. Roscoe, 126 U.S.App.D.C. 317, 322, 379 F.2d 94, 99 (1967). “[T]he 90 day period was not
-intended to act as a bar to otherwise meritorious actions.” Staggers v. Otto Gerdau Co., 359 F.2d
-292, 296 (2d Cir. 1966).
+AutoZone finally argues that there was insufficient evidence in support of the verdict so the
+district court should have granted its motion for judgment as a matter of law. Denial of a motion
+for judgment as a matter of law is reviewed de novo, applying the same standard as the district
+court. Belk v. City of Eldon, 228 F.3d 872, 878 (8th Cir.2000). The standard of review for
+sufficiency of proof in an age discrimination suit is “whether [the plaintiff] produced sufficient
+evidence to allow a jury reasonably to find that [the employer] intentionally discriminated against
+him on the basis of his age.” Denesha v. Farmers Ins. Exchange, 161 F.3d 491, 497 (8th Cir.1998)
+(citation omitted).
 
 **Generations:**
 
 
 ***GPT-4o:***
-This stringent interpretation contrasts sharply with the intent of the 1963 amendments to Rule 25
-and Rule 6(b), which aimed to inject flexibility and fairness into the substitution process. As
-noted in 379 F.2d 94 and 359 F.2d 292, the amendments were designed to eliminate the inequities and
-hardships caused by the rigid two-year limitation originally imposed. The Advisory Committee
-emphasized that the revised rules were to be liberally construed to allow courts discretion in
-extending the substitution period, recognizing the difficulties that could arise in promptly
-identifying and notifying the proper representative of the deceased.   Given this context, the
-defendant’s counsel's suggestion of death, which lacked identification of a proper representative,
-failed to initiate the 90-day countdown. This interpretation aligns with the judicial precedent that
-courts should prioritize the equitable administration of justice over strict procedural formalities.
-Thus, the district court erred in dismissing the plaintiffs' action without granting the requested
-extension, especially considering the circumstances that inhibited timely substitution, such as the
-injury to plaintiffs' counsel and the ongoing legal processes in the probate court.  We, therefore,
-reverse the judgment and remand for further proceedings consistent with this opinion, ensuring that
-the substitution process adheres to the flexible and just principles intended by the amendments to
-the Federal Rules of Civil Procedure.
+AutoZone's contention that the district court erred in excluding Right’s 1998 CAR is akin to the
+situation in **reference case 228 F.3d 872**. There, the court noted that evidence not raised in a
+pre-verdict motion cannot be reconsidered post-trial. Similarly, AutoZone did not present the CAR
+during the pre-termination decision process, rendering it irrelevant.  Moreover, AutoZone's argument
+that the district court erred in not considering the CARs and termination notices of other employees
+is supported by **reference case 161 F.3d 491**. The court in that case emphasized that comparisons
+to other employees require that they be similarly situated in all relevant respects. As with
+Denesha, who produced sufficient evidence to allow a jury to infer intentional discrimination, Right
+provided adequate evidence showing that the younger employees cited by AutoZone were not similarly
+situated due to differing misconduct and decision-makers.  These precedents underscore that the
+district court did not abuse its discretion in excluding the CAR and other termination notices, nor
+did it err in submitting the willfulness instruction to the jury. The evidence supported the jury's
+finding of discriminatory intent, warranting affirmance of the damages and denial of a new trial.
 
 
 **Label:** 
 
 
 ***Meta-Llama-3-8B-Instruct:***
-  In the context of Rule 25(a) (1) of the Federal Rules of Civil Procedure, the suggestion of death
-is a crucial step in the process of substituting a deceased party with a proper representative.
-However, not all suggestions of death are created equal. In cases where the suggestion of death is
-made by a party's attorney, but fails to identify a successor or representative of the deceased, the
-90-day period for substitution may not be triggered.  As noted in 359 F.2d 292, the Advisory
-Committee on Civil Rules intended to provide a more flexible standard for substitution, allowing for
-extensions of time and dispensing with the rigid two-year period previously in place. However, this
-flexibility is contingent upon the suggestion of death providing sufficient information to permit
-the court to proceed with substitution.  In the present case, the suggestion of death made by the
-defendant's attorney was deficient in that it failed to identify a successor or representative of
-the deceased. This lack of specificity rendered the suggestion ineffective in triggering the 90-day
-period for substitution, as explained in 379 F.2d 94.  Furthermore, the court's discretion to
-enlarge the time period for substitution, as provided by Rule 6(b), is not a blank check. Rather, it
-is intended to be exercised in a judicious and reasonable manner, taking into account the particular
-circumstances of each case.  In light of these principles, we conclude that the district court erred
-in dismissing the action with prejudice. The case should be remanded for further proceedings,
-allowing the parties to properly substitute a representative of the deceased and continue the action
-in a manner consistent with the Federal Rules of Civil Procedure.
+  In the present case, the plaintiff, Roger Eight, was terminated by AutoZone, Inc. for alleged
+misconduct. Eight alleged that he was fired due to age discrimination and retaliation for keeping a
+record of his supervisor's age-related comments. The district court denied AutoZone's motion for
+judgment as a matter of law and motion for a new trial, and AutoZone appeals.  In the case of 228
+F.3d 872, the court held that a plaintiff must present sufficient evidence to show that the employer
+intentionally discriminated against them. Similarly, in the case of 161 F.3d 491, the court held
+that an employer may be liable for age discrimination if it knows or shows reckless disregard for
+the matter of whether its conduct is prohibited by the statute.  In the present case, Eight
+presented evidence that his supervisor, Steve Sinor, made age-related comments and launched an
+investigation that led to his termination. Eight also testified that he was not given a written
+disciplinary warning before his termination, despite having received a warning in 1998 for using
+abusive language. The jury found that AutoZone had discriminated against Eight and that its conduct
+was willful, resulting in a verdict for Eight.  AutoZone argues that the district court erred in
+excluding Eight's 1998 CAR and the CARs and termination notices of other employees. However, the
+district court concluded that these documents were not relevant because they were not consulted in
+AutoZone's decision to terminate Eight, and they lacked context. The court also concluded that the
+employees whose CARs and termination notices were excluded were not similarly situated to Eight.  In
+conclusion, the district court's decision to deny AutoZone's motion for judgment as a matter of law
+and motion for a new trial is affirmed. The evidence presented by Eight was sufficient to show that
+AutoZone had discriminated against him due to his age, and the jury's verdict was supported by the
+evidence. The willfulness instruction was also proper, and the district court did not err in
+submitting it to the jury.
 
 
 **Label:** 
 
 
-**citations:** ['379 F.2d 94', '359 F.2d 292']
+**citations:** ['228 F.3d 872', '161 F.3d 491']
 
-***short_citations_0:*** 379 F.2d 94
+***short_citations_0:*** 228 F.3d 872
 
-the proper parties. * * * Unless the motion for substitution is made not later than 90 days after the death is suggested upon the record by service of a statement of the fact of the death as provided herein for the service of the motion, the action shall be dismissed as to the deceased party.” Here not only had the 90-day period not expired when the court entered summary judgment, the appellant by her motion for reconsideration had specifically invoked the discretion of the court. Rule 6(b) provides pertinently that when “by these rules * * * an act is required or allowed to be done at or within a specified time, the court for cause shown may at any time in its discretion (1) with or without motion or notice order the period enlarged if request therefor is made before the expiration of the period originally prescribed * * Originally the Rule had precluded an extension of time for taking action under Rule 25(a) (1), but by purposeful amendment, it was sought to relieve against the hardship of the Court’s holding in Anderson v. Yungkau, 329 U.S. 482, 67 S.Ct. 428, 91 L.Ed. 436 (1947). It was intended that liberal effect be given to the 1963 amendment. Graham v. Pennsylvania Railroad, 119 U.S.App.D.C. 335, 342 F.2d 914 (1964), cert. denied, 381 U.S. 904, 85 S.Ct. 1446, 14 L.Ed.2d 286 (1965). We are constrained to reverse for further proceedings not inconsistent with this opinion. Reversed. The only “party” then
+are alone sufficient to require us to affirm the decision of the district court. We therefore decline to address the additional constitutional issues raised by Belk’s freedom of association claim. . The defendants also argue that the district court should have granted their motion for judgment as a matter of law because there was insufficient evidence that Belk was terminated because of her speech. This contention was not raised in the defendants’ pre-verdict motion, however, and thus we need not reach its merits. See Fed.R.Civ.P. 50(b) cmt. (1991) ("A post-trial motion for judgment can be granted only on grounds advanced in the pre-verdict motion.”).
 
-***short_citations_1:*** 359 F.2d 292
+***short_citations_1:*** 161 F.3d 491
 
-insertion of a “reasonable time” standard. In 1963, the Advisory Committee suggested the present rule and noted: “Present Rule 25(a) (1), together with present Rule 6(b), results in an inflexible requirement that an action be dismissed as to a deceased party if substitution is not carried out within a fixed period measured from the time of the death. The hardships and inequities of this unyielding requirement plainly appear from the cases. * * * The amended rulé establishes a time limit for the motion to substitute based not upon the time of the death, but rather upon the time information of the death is provided by means of a suggestion of death upon the record, i. e. service of a statement of the fact of the death.” See Notes of Advisory Committee on the Civil Rules, 28 U.S.C. Rule 25 (1964). Rule 6(b) of the Federal Rules of Civil Procedure was also amended in 1963 and the prohibition against extending the time for taking action under Rule 25 was eliminated. The Advisory Committee on the Civil Rules noted: “It is intended that the court shall have discretion to enlarge that period.” The amendments of Rules 6(b) and 25(a) (1) provided needed flexibility. It was assumed that discretionary extensions would be liberally granted. Movants under Rule 25 can ordinarily control when a death is “suggested upon the record” and appellants’ attorney was under no obligation to file his affidavit of Staggers’ death on the date he did. He could have filed
+order awarded Denesha $102,614 in back pay with liquidated damages in the same amount, $61,666.67 in front pay, and attorneys fees in the amount of $149,906.97. Both parties appeal. II. DISCUSSION A. Jury Verdict on Denial of Raise and Subsequent Discharge The first issue raised on appeal is whether the district court erred in denying Farmers’ motion for judgment as a matter of law or, in the alternative, for a new trial on the claim that Denesha’s denied raise and subsequent discharge were products of intentional age discrimination. Farmers contends that because Denesha’s poor performance was well documented and because it treated him no differently than similarly situated employees, the district court committed clear error by sustaining the jury’s verdict. Dene-sha, for his part, argues that even where the defendant offers a legitimate, nondiserimina-tory reason in support of its actions, the plaintiff may prevail by presenting sufficient evidence for a jury to infer the ultimate fact of unlawful discrimination. This court reviews de novo the denial of a motion for judgment as a matter of law, applying the same standard as the trial court. See Cross v. Cleaver, 142 F.3d 1059, 1066 (8th Cir.1998); Equal Employment Opportunity Comm’n v. HBE Corp., 135 F.3d 543, 554 (8th Cir.1998). The standard of review for sufficiency of proof in an age discrimination suit embraces the fundamental issue of “whether [the plaintiff] produced sufficient evidence to allow a jury reasonably to find that [the employer] intentionally discriminated against him on the basis of his
 
 **prev_text:**
-LEVENTHAL, Circuit Judge: The District Court held that Rule 25(a) (1) of the Federal Rules of Civil
-Procedure required dismissal of the plaintiffs’ tort action because defendant’s counsel had filed a
-suggestion of death of the defendant yet plaintiff had not made any substitution of parties within
-90 days. We reverse on the ground that the suggestion of death, which was neither filed by nor
-identified a successor or representative of the deceased, such as an executor or administrator, was
-ineffective to trigger the running of the 90-day period provided by the Rule. Mr. and Mrs. John
-Rende filed an action in the District Court individually and on behalf of their infant son who had
-been struck and injured by Alfred S. Kay while driving his car. On August 27, 1967, defendant Kay
-died. On September 1, 1967, the defendant’s attorney, a term used here to identify the lawyer who
-had been retained by deceased to defend the action, and who had duly entered an appearance as
-attorney for defendant, filed a suggestion of death in the District Court, giving notice to
-plaintiffs’ attorney. That same day there was filed in the Orphans Court for Montgomery County,
-Maryland, residence of the deceased, his will naming his widow as executrix, but the will had not
-been probated, nor any legal representative appointed for the estate at the time of the filing of
-this appeal. Plaintiffs’ attorney was injured on October 14, 1967. On returning to practice early in
-1968, he learned that no successor to defendant Kay had yet been appointed, and he moved to certify
-the case to the ready calendar. The defendant’s attorney opposed this on grounds that discovery
-procedures had not been completed. The case was delayed and placed on the ready calendar as of June
-7, 1968. However, in April 1968, the defendant’s attorney moved in his own name to dismiss the
-action on the ground that Rule 25(a) (1) required plaintiffs to move to substitute a proper party
-for the deceased within 90 days of the suggestion of death. Plaintiffs filed an opposition and
-motion for substitution of the proper party, and sought an extension of the time for substitution as
-allowed by Rule 6(b). At argument, plaintiffs’ counsel asserted the “suggestion of death was
-defective in that it did not list the name of the proper party; that is the legal representative of
-the defendant.” The court responded: “That would not be his burden.” The court dismissed the action
-with prejudice. Prior to its amendment in 1963, Rule 25(a) (1) required the court to dismiss a case
-if no motion for substitution was filed within two. years after date of death, and no extensions of
-this period were allowed under Rule 6(b). The rule was rigorously applied, often with harsh results,
-and was called “easily the poorest rule of all the Federal Rules.” In 1955 the Advisory Committee on
-Rules for Civil Procedure recommended that the two-year period be changed to a “reasonable time”
-standard. In 1961 the Advisory Committee on Civil Rules again suggested the Rule be made more
-flexible. In 1963 the Supreme Court made changes in Rule 25(a) (1) and in Rule 6(b) so as to provide
-a 90-day time limit from the filing of a suggestion of death, and to give the court discretion to
-extend that time. The Committee Notes explaining the amendments state: Present Rule 25(a) (1),
-together with present Rule 6(b), results in an inflexible requirement that an action be dismissed as
-to a deceased party if substitution is not carried out within a fixed period measured from the time
-of death. The hardships and inequities of this unyielding requirement plainly appear from the cases.
-* * * The amended rule establishes a time limit for the motion to substitute based not upon the time
-of the death, but rather upon the time information of the death is provided by means of a suggestion
-of death upon the record. * * * A motion to substitute may be made by any party or by the
-representative of the deceased party without awaiting the suggestion of death. Indeed, the motion
-will usually be so made. If a party or the representative of the deceased party desires to limit the
-time within which another may make the motion, he may do so by suggesting the death upon the record.
-(Emphasis added.) Under the amended Rule either a party or “the successors or representatives of the
-deceased party” may avoid delay in effecting substitution for the deceased party either by filing a
-motion for substitution or by suggesting death on the record and thus triggering the 90-day period
-which begins with suggestion of death. The Advisory Committee, in outlining that suggestion of death
-could be made by “the representative of the deceased party” plainly contemplated that the suggestion
-emanating from the side of the deceased would identify a representative of the estate, such as an
-executor or administrator, who could be substituted for the deceased as a party, with the action
-continued in the name of the representative. The addition of “successor” in the Rule would take care
-of the case of, say, the distributee of an estate that had been distributed, but would not make a
-material difference in the aspect under consideration. Form 30, for suggestion of death, which was
-provided in order to expedite and facilitate implementation of the amendment, provides: A.B.
-[described as a party, or as executor, administrator, or other representative or successor of C.D.,
-the deceased party\ suggests upon the record, pursuant to Rule 25(a) (1), the death of C.D.
-[describe as party] during the pendency of this action. Added Jan. 21, 1963, eff. July 1, 1963.
-[Emphasis added.] Although the attorney for the defendant was retained to “represent” the deceased
-as his counsel, he is not a person who could be made a party, and is not a “representative of the
-deceased party” in the sense contemplated by Rule 25(a) d). In our opinion the Rule, as amended,
-cannot fairly be construed, as the de fendant’s attorney argues, to make his suggestion of death
-operative to trigger the 90-day period even though he was neither a successor nor representative of
-the deceased, and gave no indication of what person was available to be named in substitution as a
-representative of the deceased. Counsel’s construction would open the door to a tactical maneuver to
-place upon the plaintiff the burden of locating the representative of the estate within 90 days. We
-can conceive of cases wherein even the lawyer retained to represent a defendant might know the
-defendant had died, yet not readily know where his estate would be administered. In the present
-case, plaintiff’s attorney did know the court of probate, but he did not know whether probate of the
-will might be contested, or who would be appointed representative of the estate. The tactic of the
-defendant’s attorney would place on plaintiff the burden, where no conventional representative was
-appointed for the estate in probate court, of instituting machinery in order to produce some
-representative of the estate ad litem, pending appointment of the representative contemplated by law
-of the domicile of the deceased.
+MURPHY, Circuit Judge. Roger Eight brought this action against AutoZone, Inc., alleging he was fired
+in violation of the Age Discrimination in Employment Act (ADEA), 29 U.S.C. § 621 et seq. A jury
+found AutoZone had discriminated against Eight and that its conduct was willful. The district court
+denied AutoZone’s motion for judgment as a mat ter of law and motion for a new trial, and judgment
+was entered for $221,000 in damages, attorney fees, and costs. AutoZone appeals, and we affirm.
+Roger Eight was hired as a full time salesperson at AutoZone on July 11, 1995. Over the course of
+his employment he was promoted from counter salesman to parts sales manager and later to assistant
+manager. From September 27, 1998 until his termination, he worked as the head of the store’s
+commercial division with the title commercial sales specialist. In that position he reported
+directly to the store manager. He was offered the position of store manager, but declined it because
+he enjoyed working with the commercial clients. In the year preceding his termination on January 2,
+2003, he twice received Auto-Zone’s highest evaluation ranking of “exceeding expectations” during
+employment reviews. That same year gross sales in Eight’s department improved 300% and profits
+increased 44%. He was 51 years old in 2002. Steve Sinor was promoted to store manager in April 2001.
+Sinor made disparaging remarks about the age of his employees nearly every day. Sinor referred to
+Eight as “old man,” “old fart,” and “old fat fart” and told him he was “too old to do his job.” In
+the presence of other employees and customers, Sinor announced over the store’s intercom that it was
+time for the old men over fifty to take a pee break. After Eight’s department won a regional trophy
+for sales, Sinor told him he didn’t want to shake his “old man’s hand” and said, “You’re too old and
+you won’t work under my rule.” Sinor told him he wasn’t going to go anywhere in the company because
+he was too old. He made general comments that he didn’t like working with old people because they
+were sick, inflexible, and stuck in their ways. Eight began keeping a record of Sinor’s age related
+comments in a notebook which he stored on a shelf in the commercial division of the store. Sinor
+found the notebook while Eight was on vacation in December of 2002. Eight received only one written
+disciplinary warning at AutoZone; that was in a corrective action review (CAR). The CAR was issued
+on September 2, 1998, for using abusive language, displaying aggressive and intimidating behavior,
+and for conduct detrimental to AutoZone and its commitment to diversity and respect. The 1998 review
+stated that Eight could be terminated if he engaged in similar conduct in the future. Some time
+after Sinor found the notebook in which Eight had kept track of his comments about age, Eight and
+Edward Powers got into a heated argument, but assistant manager Rocky Reid separated the two before
+the fight could become physical. Sinor then arranged for an investigation into Eight’s conduct by
+human resources manager Grant Bagwell. Bagwell’s investigation reported that coworkers Reid and
+Cecil Hall said Eight belittled people, called them names, and used profanity. Bagwell also
+interviewed Powers and Sinor before he talked with Eight. Sinor gave Bagwell the notebook in which
+Eight had written down Sinor’s age related comments. Tim Harrison, an AutoZone staff attorney, also
+reviewed the notebook’s contents before it was returned to Eight at his interview. Eight told Bag-
+well that Sinor had repeatedly made disparaging remarks about his age and that several employees had
+told him that Sinor had admitted he tried to get Eight fired, but Bagwell responded that it was not
+his job to investigate Sinor. Powers gave Bagwell a written statement listing his complaints about
+Eight, including a description of their recent altercation and a claim that Eight forced him to work
+off the clock. Bagwell communicated his conclusions to staff attorney Harrison and told him that
+Eight had engaged in abusive behavior, made inappropriate comments, and used profanity toward staff
+and customers. Harrison then consulted with the regional manager, Todd Sittig. The two decided to
+terminate Eight on January 2, 2003, for “inappropriate comments, misconduct toward customers,
+unprofessional behavior, conduct unbecoming an AutoZoner, conduct detrimental to AutoZone, loss of
+confidence.” Their decision to terminate Eight was based solely on Bagwell’s investigation; the 1998
+CAR was not considered. Eight initiated this action on May 6, 2004, alleging AutoZone had
+discriminated against him because of his age in violation of the ADEA and retaliated against him for
+keeping the notebook that recorded Sinor’s age related comments. The court granted summary judgment
+on Eight’s retaliation claim which was dismissed on February 23, 2006, but it denied summary
+judgment on his ADEA claim. A jury trial was held from April 3-6, 2006. Eight presented evidence to
+show that his supervisor Steve Sinor discriminated against him because of his age and wrongfully
+initiated and influenced a human resources investigation that eventually led to his termination.
+AutoZone denied discriminating against Eight because of his age. Its theory and evidence was that
+Eight had been terminated for inappropriate behavior with customers and employees, which Eight
+claimed was only pretext. During trial AutoZone sought to enter Eight’s 1998 CAR into evidence. The
+district court excluded it as irrelevant because it had not been used in the decision to terminate
+Eight and its relevance was further diminished because it was remote in time. AutoZone also made an
+offer of proof seeking to introduce the CARs and termination notices for four other employees who
+had been terminated for what it asserted were similar reasons. The district court excluded the
+reviews and termination notices as well as any testimony about them because these employees had not
+been listed as witnesses and the record did not provide any context about their situations. Included
+in Eight’s evidence at trial was his own testimony about his interview with Bagwell. Bagwell had
+told Eight he would not investigate the complaints he raised about Sinor, and Eight’s attempt to
+contact Sinor’s supervisor about his behavior failed because the supervisor cancelled every
+appointment and told him he was too “thin-skinned.” In his testimony Eight admitted that he knew he
+could be terminated for abusive or disruptive behavior. He called both Ed Powers and Cecil Hall as
+witnesses. They had complained about Eight to Bagwell, but testified at trial on his behalf. In the
+interim Powers had filed and lost an age and disability lawsuit against AutoZone and Hall had filed
+four EEOC charges. They reported that Sinor had coerced their previous negative statements about
+Eight and threatened to fire them if they did not comply. Powers testified that the statement he
+signed had been written by Sinor and then given to Bag-well. Hall testified that Bagwell seemed to
+have a preconceived idea about what the written report of their interview should say about Eight’s
+behavior and that he had manipulated the written answers. Eight’s counsel stated in his closing
+statement that “There’s no corrective action reviews anywhere in his file about any of these things
+that they are purporting he was doing at the time” and emphasized that Eight was not told that he
+had acted inappropriately until he was fired. AutoZone called Todd Sittig, Right’s regional manager,
+who testified that he had terminated other employees for conduct similar to Right’s, and that “some
+of them may have been” under the age of 40. Sit-tig and Harrison both testified that they were the
+decisionmakers in terminating Right. When Bagwell took the stand, he was asked why he had not
+investigated any of the claims made about Sinor’s inappropriate behavior and he responded that he
+did not know. Counsel discussed jury instructions with the court in chambers. The district court had
+previously informed them that it did not plan to submit a willfulness instruction, but Right’s
+attorney requested one at the chambers conference. AutoZone’s counsel responded that the court’s
+intention to omit a willfulness instruction was appropriate. The district court subsequently told
+counsel it had decided to give the instruction if the jury returned an initial verdict in favor of
+Right. On the day the case was submitted to the jury, a clerk informed counsel that the court would
+add the following instruction if there were a verdict for Right: Because you found for plaintiff
+under instruction No. 8, then you must decide whether the conduct of defendant was willful. You must
+find that defendant’s conduct is willful if you find by the greater weight of the evidence that when
+defendant discharged plaintiff, defendant knew the discharge was in violation of the federal law
+prohibiting age discrimination or acted with reckless disregard of that law. After the jury returned
+a verdict in Right’s favor on April 6, 2006, awarding $110,500 in compensatory damages, the court
+gave the willfulness instruction and AutoZone did not object. The jury found that AutoZone’s conduct
+was willful which doubled the amount of the damages. AutoZone moved for judgment as a matter of law
+and alternatively for a new trial. The district court denied both motions and upheld the $221,000
+damage award and added attorney fees and costs. AutoZone appeals from this order and argues that its
+motion should have been granted for it was substantially prejudiced by the district court’s
+exclusion of Right’s 1998 CAR and the CARs of the four other employees. AutoZone also argues that
+the court erred in giving the willfulness instruction and that the award of liquidated damages
+should be set aside. In discrimination cases the plaintiff has the burden to present a prima facie
+case. St. Mary’s Honor Center v. Hicks, 509 U.S. 502, 506, 113 S.Ct. 2742, 125 L.Ed.2d 407 (1993);
+Ryther v. KARE 11, 108 F.3d 832, 836 (8th Cir.1997) (en banc). A prima facie case creates a legal
+presumption of unlawful discrimination and shifts the burden to the employer to produce evidence of
+a legitimate, nondiscriminatory reason for the plaintiffs discharge. Id. at 836-37. If the employer
+carries this burden, the plaintiff has an opportunity to demonstrate that its proffered
+nondiscriminatory reason was pretext. Id. AutoZone first argues that the court erred in excluding
+Right’s 1998 CAR because it would have provided support for its nondiscriminatory reason for
+terminating Right. His CAR was relevant it claims, because it involved similar conduct to that for
+which Right was terminated and would have shown that he was on notice that abusive conduct could
+lead to termination. The CAR could have been used to impeach Right’s testimony that he had not
+spoken inappropriately to customers or used profanity toward other employees; it also could impeach
+Hall and Powers. AutoZone argues it was substantially prejudiced by this evidentiary ruling because
+Right testified that he had not been counseled about his behavior before he was terminated. It also
+asserts that Eight’s counsel made a misrepresentation in his closing statement by saying that there
+were no disciplinary records in his file. The district court concluded that Eight’s CAR was not
+relevant because it had been issued four years before his termination and it had not been considered
+by those involved in the decision. Moreover, none of AutoZone’s witnesses were familiar with the
+context of the review for it had been issued by a manager no longer employed with the company. The
+district court has wide discretion in admitting and excluding evidence so long as its exercise of
+discretion does not unfairly prevent a party from proving its case. Wheeling Pittsburgh Steel Corp.
+v. Beelman River Terminals, Inc., 254 F.3d 706, 716 (8th Cir.2001). The district court’s evidentiary
+decision “will not be disturbed unless there is a clear and prejudicial abuse of discretion.”
+Bennett v. Hidden Valley Golf and Ski, Inc., 318 F.3d 868, 878 (8th Cir.2003) (citation omitted). If
+the court erred by excluding the CAR, reversal would only be appropriate if the error affected a
+substantial right of the moving party. Fed.R.Evid.103(a); Fed.R.Civ.P. 61; McPheeters v. Black &
+Veatch Corp., 427 F.3d 1095, 1101 (8th Cir.2005). It is uncontested that the 1998 CAR was not
+consulted in AutoZone’s decision to terminate Eight, and it was not included in Bagwell’s
+investigative file. The 1998 review was four years before Eight’s termination, and the CAR was his
+only disciplinary record. We conclude that the CAR would not have created an inference that Eight
+had a pattern or practice of abusive behavior and that it lacked context. It had been given to Eight
+by a prior manager who was not called to testify, and none of AutoZone’s witnesses were familiar
+with the review or the conduct that led to the issuance of the CAR. Furthermore, its charges were
+broad and without detail (“disruptive behavior” and “conduct detrimental to AutoZone”). The district
+court is uniquely suited to assess the “relevance and probative value of the testimony,” McPheeters,
+427 F.3d at 1102, and AutoZone has failed to demonstrate that the district court exercised its
+discretion in a way that prevented it from proving its case. See Wheeling, 254 F.3d at 716. AutoZone
+had alternate ways to challenge Eight’s testimony because its list of witnesses included several
+recent coworkers who could have testified about his behavior in the store, but they were not called
+to the stand. Although AutoZone argued that it sought to introduce the 1998 CAR to show that Eight
+had notice that he could be terminated for abusive behavior, he himself testified to that fact. We
+conclude that the district court did not abuse its- discretion in excluding the 1998 CAR. AutoZone
+also argues that the district court erred in excluding the CARs and termination notices for four
+other employees. AutoZone contends that these employees were similarly situated to Eight and that
+the documents would have demonstrated that he had been treated the same as younger employees with
+similar behavior problems. Their ' testimony would have supported its argument that the
+nondiscriminatory reasons offered for terminating Eight were not pretextual. The district court
+determined that the CARs of the other employees were not relevant because AutoZone had failed to
+call them as witnesses or to offer any history about their employment situations. In its order
+denying the motion for judg- xnent as a matter of law and a new trial, the district court concluded
+that AutoZone had not been prejudiced by excluding the CARs because regional manager Todd Sit-tig
+had testified that he had terminated younger employees for conduct similar to Eight’s conduct. To be
+able to introduce evidence comparing the plaintiff to other similarly situated employees in a
+discrimination case, the other employees must have been “similarly situated to the plaintiff in all
+relevant respects.” Forrest v. Kraft Foods, Inc., 285 F.3d 688, 691-92 (8th Cir.2002) (citations
+omitted). AutoZone argues that the employees whose reviews and termination notices were excluded are
+similarly situated because they worked for stores in the same region and they had also been
+terminated by Todd Sittig and investigated by Bagwell. AutoZone’s offer of proof did not include
+such facts (except for the fact that Bagwell had investigated the eases), and it has not pointed to
+any evidence in the record that shows these employees were terminated by Sittig. His signature is
+not included on any of the CARs or termination notices, and he did not testify that he had fired any
+of these specific individuals. When employees have been terminated by different decisionmak-ers, it
+would be rare for them to be considered similarly situated because any difference in treatment may
+well be attributable to nondiscriminatory reasons. Tate v. Weyerhaeuser Co., 723 F.2d 598, 606 (8th
+Cir.1983). There is also no evidence establishing that the other employees engaged in behavior
+similar to Eight’s conduct. Employees are not similarly situated if they have engaged in differing
+degrees of misconduct. Forrest, 285 F.3d at 691-92 (plaintiff not similarly situated when plaintiffs
+disciplinary record was more serious than the compared employees), Hiatt v. Rockwell Int’l Corp., 26
+F.3d 761, 770-71 (7th Cir.1994) (plaintiff fired for falsifying documents was not similarly situated
+to employees disciplined for drinking on job). The CARs cite only generalized categories of
+violations without indicating specific acts linked to the employees so there is no way to make a
+precise comparison. Moreover, some of the types of infractions listed in the other CARs are
+different from the reasons given for Eight’s termination. For example, other employees were
+terminated for violating the company’s “employee relations policy” or “threatening physical harm,”
+but Eight’s termination notice cited “inappropriate comments, misconduct toward customers,
+unprofessional behavior, conduct unbecoming an AutoZoner, conduct detrimental to AutoZone and loss
+of confidence.” Without more details about the other employees’ behavior, it would be impossible for
+a fact finder to determine if they were similarly situated to Eight. Finally, there is nothing in
+the record that shows the ages of the four employees. AutoZone argues that Bagwell would have
+testified that they were younger than the protected age level, but the documents in the record do
+not list the ages. The district court excluded these documents because AutoZone had not developed
+the employees’ history or called them as witnesses. AutoZone has not offered any more context about
+the employees’ history on appeal. AutoZone has not shown that the four employees were similarly
+situated to Eight in “all relevant respects,” Forrest, 285 F.3d at 691-92, and we conclude that the
+district court did not abuse its discretion in excluding the documents. AutoZone next argues that
+the court wrongfully submitted the issue of willfulness to the jury and liquidated damages are not
+appropriate. An improperly dismissed employee is entitled to double recovery if he shows that his
+employer willfully violated the ADEA. See 29 U.S.C. § 626(b); Spencer v. Stuart Hall Co., Inc., 173
+F.3d 1124, 1129 (8th Cir.1999). A willful violation occurs if “the employer either knew or showed
+reckless disregard for the matter of whether its conduct was prohibited by the statute.” Hazen Paper
+Co. v. Biggins, 507 U.S. 604, 615, 113 S.Ct. 1701, 123 L.Ed.2d 338 (1993); Spencer, 173 F.3d at
+1129. AutoZone has not preserved this issue because its counsel did not object at the time the
+willfulness instruction was given. Johnson v. Houser, 704 F.2d 1049, 1051 (8th Cir.1983) (per
+curiam). In order for a party to challenge a jury instruction on appeal, it must make an objection
+before the jury retires to deliberate. Fed. R.Civ.P. 51. The objection must be “sufficiently
+specific to bring into focus the precise nature of the alleged error.” Houser, 704 F.2d at 1051.
+AutoZone argues that its counsel’s statement supporting the court’s original decision not to give
+the willfulness instruction was sufficient to preserve its position. That comment was not an
+objection, however, and it did not offer any reason why a willfulness instruction would be improper.
+Counsel was informed of the text of the instruction before the jury was instructed and was notified
+that it would be given if the jury found for the plaintiff. AutoZone had an opportunity to object at
+that point and also when the instruction was given, but it did not. Because AutoZone did not object
+to the jury instruction, we review it for plain error. See U.S. v. Patient Transfer Service, 465
+F.3d 826, 827-28 (8th Cir.2006). Our review is limited to whether the error “seriously affected the
+fairness, integrity, or public reputation of the judicial proceedings,” and we will overturn the
+district court’s decision for plain error only if a miscarriage of justice would otherwise result.
+Slidell, Inc. v. Millennium Inorganic Chemicals, Inc., 460 F.3d 1047, 1054 (8th Cir.2006) (citations
+omitted). Eight offered evidence during trial that Sinor made age based remarks, launched and
+influenced the investigation that led to Eight’s termination, and threatened other employees
+regarding their comments about Eight during the investigation. Eight testified that he told Bagwell
+about Sinor’s age related comments and intent to get him fired, but Bagwell did not investigate his
+complaints. Eight also testified that his attempts to make an official complaint to Sinor’s manager
+about his behavior were rebuffed. Eight presented sufficient evidence upon which thé jury could have
+relied in determining that AutoZone knew or should have known that its conduct could violate the
+ADEA. See Spencer 173 F.3d at 1129. The jury instruction properly stated the legal standard for
+determining whether liquidated damages are warranted, and it was not confusing or misleading. See
+Brown v. Sandals Resorts Intern., 284 F.3d 949, 953 (8th Cir.2002). We conclude that submission of
+the willfulness jury instruction was not plain error. The company asserts that the erroneous
+evidentiary rulings and jury instruction required a new trial. We review the denial of a motion for
+a new trial for an abuse of discretion, with great deference to the district court’s ruling. Butler
+v. French, 83 F.3d 942, 943 (8th Cir.1996). A new trial is appropriate when the verdict was against
+the clear weight of the evidence, was clearly excessive, or was the result of passion or prejudice.
+MacGregor v. Mallinckrodt, Inc., 373 F.3d 923, 930 (8th Cir.2004). Given our conclusion that the
+district court did not err in excluding Eight’s CAR and the other CARs and termination notices or in
+giving the willful ness instruction, a new trial is not warranted.
 
 

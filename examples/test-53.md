@@ -1,142 +1,251 @@
 **gold_text:**
-The amendment to Rule 25(a) (1) was intended to dispel unwarranted rigidity and allow more
-flexibility in substitution. “It was intended that liberal effect be given to the 1963 amendment.”
-Roscoe v. Roscoe, 126 U.S.App.D.C. 317, 322, 379 F.2d 94, 99 (1967). “[T]he 90 day period was not
-intended to act as a bar to otherwise meritorious actions.” Staggers v. Otto Gerdau Co., 359 F.2d
-292, 296 (2d Cir. 1966).
+. The court notes that the Supreme Court has granted certiorari regarding the proper approach for
+determining the applicable rate of interest under the Chapter 13 cramdown provision. See In re Till,
+301 F.3d 583 (7th Cir.2002) (selecting the "coerced loan” approach rather than the "cost of funds”
+approach); accord Koopmans v. Farm Credit Services of Mid-America, ACA (In re Koopmans), 102 F.3d
+874 (7th Cir.1996); but see Household Automotive Finance Corporation v. Burden, Trustee (In re
+Kidd), 315 F.3d 671 (6th Cir.2003).
 
 **Generations:**
 
 
 ***GPT-4o:***
-This stringent interpretation contrasts sharply with the intent of the 1963 amendments to Rule 25
-and Rule 6(b), which aimed to inject flexibility and fairness into the substitution process. As
-noted in 379 F.2d 94 and 359 F.2d 292, the amendments were designed to eliminate the inequities and
-hardships caused by the rigid two-year limitation originally imposed. The Advisory Committee
-emphasized that the revised rules were to be liberally construed to allow courts discretion in
-extending the substitution period, recognizing the difficulties that could arise in promptly
-identifying and notifying the proper representative of the deceased.   Given this context, the
-defendant’s counsel's suggestion of death, which lacked identification of a proper representative,
-failed to initiate the 90-day countdown. This interpretation aligns with the judicial precedent that
-courts should prioritize the equitable administration of justice over strict procedural formalities.
-Thus, the district court erred in dismissing the plaintiffs' action without granting the requested
-extension, especially considering the circumstances that inhibited timely substitution, such as the
-injury to plaintiffs' counsel and the ongoing legal processes in the probate court.  We, therefore,
-reverse the judgment and remand for further proceedings consistent with this opinion, ensuring that
-the substitution process adheres to the flexible and just principles intended by the amendments to
-the Federal Rules of Civil Procedure.
+In assessing the propriety of the interest rates proposed by Debtors, the court is guided by the
+principles set forth in pertinent case law. The determination of market interest rates in cramdown
+scenarios under 11 U.S.C. § 1325(a)(5)(B)(ii) is complex and must consider the individual
+characteristics of each creditor/debtor relationship. Notably, in Koopmans, the court rejected the
+adoption of a rigid formula for interest rates, advocating instead for the bankruptcy court's
+discretion in making such determinations based on factual risk assessments (301 F.3d 583). The
+“coerced loan” method from Koopmans supports creditor entitlement to an interest rate that
+compensates for the risk involved as if they had foreclosed and reinvested (Id.).  Additionally, the
+principles from Memphis Bank & Trust, expounded in 315 F.3d 671, stress that the appropriate rate in
+a Chapter 13 cramdown must reflect the current conventional market rate for similar loans,
+independent of the original contract rate. It underscores an objective valuation to ensure creditors
+receive the present value of their claims.  Considering these precedents, Debtors’ amendments
+proposing a 12% interest rate fail to align with the statutory and judicial guidelines mandating
+individualized risk assessment and appropriate market rate determination. Consequently, Debtors'
+modifications are inconsistent with the legal requirements elucidated in 301 F.3d 583 and 315 F.3d
+671. Accordingly, the proposed modifications are denied for lack of due process and for not
+satisfying the criteria for a proper market rate determination.
 
 
 **Label:** 
 
 
 ***Meta-Llama-3-8B-Instruct:***
-  In the context of Rule 25(a) (1) of the Federal Rules of Civil Procedure, the suggestion of death
-is a crucial step in the process of substituting a deceased party with a proper representative.
-However, not all suggestions of death are created equal. In cases where the suggestion of death is
-made by a party's attorney, but fails to identify a successor or representative of the deceased, the
-90-day period for substitution may not be triggered.  As noted in 359 F.2d 292, the Advisory
-Committee on Civil Rules intended to provide a more flexible standard for substitution, allowing for
-extensions of time and dispensing with the rigid two-year period previously in place. However, this
-flexibility is contingent upon the suggestion of death providing sufficient information to permit
-the court to proceed with substitution.  In the present case, the suggestion of death made by the
-defendant's attorney was deficient in that it failed to identify a successor or representative of
-the deceased. This lack of specificity rendered the suggestion ineffective in triggering the 90-day
-period for substitution, as explained in 379 F.2d 94.  Furthermore, the court's discretion to
-enlarge the time period for substitution, as provided by Rule 6(b), is not a blank check. Rather, it
-is intended to be exercised in a judicious and reasonable manner, taking into account the particular
-circumstances of each case.  In light of these principles, we conclude that the district court erred
-in dismissing the action with prejudice. The case should be remanded for further proceedings,
-allowing the parties to properly substitute a representative of the deceased and continue the action
-in a manner consistent with the Federal Rules of Civil Procedure.
+  In the context of a Chapter 13 cramdown, the court has held that the interest rate to be applied
+is the current conventional market rate used for similar loans in the region, and not necessarily
+the contract rate (315 F.3d 671). In determining the interest rate, the court must consider the
+contingency of nonpayment and the value of the collateral (301 F.3d 583).   In the case at hand,
+Debtors seek to modify their confirmed plan to reduce the interest rate on secured creditors' claims
+to 12%. However, the court finds that the notice provided to secured creditors is inadequate. The
+notice does not clearly state that the rights of secured creditors are being modified, and the
+affected creditors are not given sufficient information to determine how their claims will be
+affected.  Furthermore, the court notes that the proposed modification does not provide notice of
+the date for hearing or opportunity for hearing to approve the plan modification. In order to
+provide meaningful due process notice, the court requires that the notice clearly state the
+modifications being proposed, the impact on each claim, and the date for hearing or opportunity for
+hearing (315 F.3d 671).  In conclusion, the court denies Debtors' motion to modify their confirmed
+Chapter 13 Plan and the rights of secured creditors Tran-south and Wilkes, as the notice provided is
+inadequate to provide meaningful due process notice to the affected creditors. The court finds that
+the confirmed plan and proposed modifications fail to provide sufficient notice, and the rights of
+secured creditors are not being adequately protected.
 
 
 **Label:** 
 
 
-**citations:** ['379 F.2d 94', '359 F.2d 292']
+**citations:** ['301 F.3d 583', '301 F.3d 583', '315 F.3d 671', '315 F.3d 671']
 
-***short_citations_0:*** 379 F.2d 94
+***short_citations_0:*** 301 F.3d 583
 
-the proper parties. * * * Unless the motion for substitution is made not later than 90 days after the death is suggested upon the record by service of a statement of the fact of the death as provided herein for the service of the motion, the action shall be dismissed as to the deceased party.” Here not only had the 90-day period not expired when the court entered summary judgment, the appellant by her motion for reconsideration had specifically invoked the discretion of the court. Rule 6(b) provides pertinently that when “by these rules * * * an act is required or allowed to be done at or within a specified time, the court for cause shown may at any time in its discretion (1) with or without motion or notice order the period enlarged if request therefor is made before the expiration of the period originally prescribed * * Originally the Rule had precluded an extension of time for taking action under Rule 25(a) (1), but by purposeful amendment, it was sought to relieve against the hardship of the Court’s holding in Anderson v. Yungkau, 329 U.S. 482, 67 S.Ct. 428, 91 L.Ed. 436 (1947). It was intended that liberal effect be given to the 1963 amendment. Graham v. Pennsylvania Railroad, 119 U.S.App.D.C. 335, 342 F.2d 914 (1964), cert. denied, 381 U.S. 904, 85 S.Ct. 1446, 14 L.Ed.2d 286 (1965). We are constrained to reverse for further proceedings not inconsistent with this opinion. Reversed. The only “party” then
+ascertaining the appropriate rate which would protect against all of these factors. As this court noted in Koopmans, market participants may choose different methods of calculating the market rate of interest for the new situation precipitated by the debtor’s invocation of the cramdown provision. See Koop mans, 102 F.3d at 875. There are a multitude of possible creditor/debtor relationships subject to the cramdown provision. Each presents its own risks; to adopt a standard interest rate with limited discretion vested in the bankruptcy court only to take into consideration the contingency of nonpayment would not necessarily fulfill the statutory command that the creditor be afforded the full value of his interest at the time the reorganization plan becomes effective. The statutory provision necessarily leaves the particular questions of valuation to the informed discretion of the bankruptcy court. Our adoption of a rigid formula would unduly restrict that discretion. The statute contemplates a more particularized inquiry, and we are bound by Congress’ policy choice in this regard. 3. A third approach, and the one that we adopted in Koo-pmans, has been described as the “coerced loan” or the “forced loan” method. Courts taking this view conceptualize the cramdown provision as forcing creditors to extend a new line of credit to the debtor. Consequently, “the creditor is entitled to the rate of interest it could have obtained had it foreclosed and reinvested the proceeds in loans of equivalent duration and risk.” Koopmans, 102 F.3d at 875. This approach views § 1325(a)(5)(B)(ii) as “seeking]
 
-***short_citations_1:*** 359 F.2d 292
+***short_citations_1:*** 301 F.3d 583
 
-insertion of a “reasonable time” standard. In 1963, the Advisory Committee suggested the present rule and noted: “Present Rule 25(a) (1), together with present Rule 6(b), results in an inflexible requirement that an action be dismissed as to a deceased party if substitution is not carried out within a fixed period measured from the time of the death. The hardships and inequities of this unyielding requirement plainly appear from the cases. * * * The amended rulé establishes a time limit for the motion to substitute based not upon the time of the death, but rather upon the time information of the death is provided by means of a suggestion of death upon the record, i. e. service of a statement of the fact of the death.” See Notes of Advisory Committee on the Civil Rules, 28 U.S.C. Rule 25 (1964). Rule 6(b) of the Federal Rules of Civil Procedure was also amended in 1963 and the prohibition against extending the time for taking action under Rule 25 was eliminated. The Advisory Committee on the Civil Rules noted: “It is intended that the court shall have discretion to enlarge that period.” The amendments of Rules 6(b) and 25(a) (1) provided needed flexibility. It was assumed that discretionary extensions would be liberally granted. Movants under Rule 25 can ordinarily control when a death is “suggested upon the record” and appellants’ attorney was under no obligation to file his affidavit of Staggers’ death on the date he did. He could have filed
+task of ascertaining the appropriate rate which would protect against all of these factors. As this court noted in Koopmans, market participants may choose different methods of calculating the market rate of interest for the new situation precipitated by the debtor’s invocation of the cramdown provision. See Koop mans, 102 F.3d at 875. There are a multitude of possible creditor/debtor relationships subject to the cramdown provision. Each presents its own risks; to adopt a standard interest rate with limited discretion vested in the bankruptcy court only to take into consideration the contingency of nonpayment would not necessarily fulfill the statutory command that the creditor be afforded the full value of his interest at the time the reorganization plan becomes effective. The statutory provision necessarily leaves the particular questions of valuation to the informed discretion of the bankruptcy court. Our adoption of a rigid formula would unduly restrict that discretion. The statute contemplates a more particularized inquiry, and we are bound by Congress’ policy choice in this regard. 3. A third approach, and the one that we adopted in Koopmans, has been described as the “coerced loan” or the “forced loan” method. Courts taking this view conceptualize the cramdown provision as forcing creditors to extend a new line of credit to the debtor. Consequently, “the creditor is entitled to the rate of interest it could have obtained had it foreclosed and reinvested the proceeds in loans of equivalent duration and risk.” Koopmans, 102 F.3d at 875. This approach views § 1325(a)(5)(B)(ii)
+
+***short_citations_2:*** 315 F.3d 671
+
+to the finding that interest rates in the relevant vicinity had recently risen, the bankruptcy judge was not dearly erroneous in setting a 10.3% interest rate as a “current conventional rate” on consumer automobile loans. CONCLUSION The principles of valuation espoused in the case of Memphis Bank & Trust Co. v. Whitman constitute the law of the circuit and are entitled to precedential deference. In order to give effect not only to the plain wording of that decision, but also to the underlying rationale for the ruling and for the applicable provisions of the Bankruptcy Code, we conclude that the proper interest rate to be applied in a Chapter 13 cram down is the current conventional market rate used for similar loans in the region, and not necessarily the contract rate. Such a determination does not entail an analysis of any particular debtor’s credit rating but rather involves a more objective determination of the value of money over time so as to compensate a creditor according to the present value of its secured claim. Moreover, we conclude that the bankruptcy court did not clearly err in arriving at the 10.3% interest rate figure applied to Household’s claim. We therefore AFFIRM the judgment of the district court sustaining the decision of the bankruptcy court. . Similarly, had the Memphis Bank & Trust court desired to mandate use of an interest rate that would approximate the rate for which the lender would contract, it could easily have used the term "contract rate”
+
+***short_citations_3:*** 315 F.3d 671
+
+that interest rates in the relevant vicinity had recently risen, the bankruptcy judge was not clearly erroneous in setting a 10.3% interest rate as a “current conventional rate” on consumer automobile loans. CONCLUSION The principles of valuation espoused in the case of Memphis Bank & Trust Co. v. Whitman constitute the law of the circuit and are entitled to precedential deference. In order to give effect not only to the plain wording of that decision, but also to the underlying rationale for the ruling and for the applicable provisions of the Bankruptcy Code, we conclude that the proper interest rate to be applied in a Chapter 13 cram down is the current conventional market rate used for similar loans in the region, and not necessarily the contract rate. Such a determination does not entail an analysis of any particular debtor’s credit rating but rather involves a more objective determination of the value of money over time so as to compensate a creditor according to the present value of its secured claim. Moreover, we conclude that the bankruptcy court did not clearly err in arriving at the 10.3% interest rate figure applied to Household’s claim. We therefore AFFIRM the judgment of the district court sustaining the decision of the bankruptcy court. . Similarly, had the Memphis Bank & Trust court desired to mandate use of an interest rate that would approximate the rate for which the lender would contract, it could easily have used the term "contract rate” in delineating the
 
 **prev_text:**
-LEVENTHAL, Circuit Judge: The District Court held that Rule 25(a) (1) of the Federal Rules of Civil
-Procedure required dismissal of the plaintiffs’ tort action because defendant’s counsel had filed a
-suggestion of death of the defendant yet plaintiff had not made any substitution of parties within
-90 days. We reverse on the ground that the suggestion of death, which was neither filed by nor
-identified a successor or representative of the deceased, such as an executor or administrator, was
-ineffective to trigger the running of the 90-day period provided by the Rule. Mr. and Mrs. John
-Rende filed an action in the District Court individually and on behalf of their infant son who had
-been struck and injured by Alfred S. Kay while driving his car. On August 27, 1967, defendant Kay
-died. On September 1, 1967, the defendant’s attorney, a term used here to identify the lawyer who
-had been retained by deceased to defend the action, and who had duly entered an appearance as
-attorney for defendant, filed a suggestion of death in the District Court, giving notice to
-plaintiffs’ attorney. That same day there was filed in the Orphans Court for Montgomery County,
-Maryland, residence of the deceased, his will naming his widow as executrix, but the will had not
-been probated, nor any legal representative appointed for the estate at the time of the filing of
-this appeal. Plaintiffs’ attorney was injured on October 14, 1967. On returning to practice early in
-1968, he learned that no successor to defendant Kay had yet been appointed, and he moved to certify
-the case to the ready calendar. The defendant’s attorney opposed this on grounds that discovery
-procedures had not been completed. The case was delayed and placed on the ready calendar as of June
-7, 1968. However, in April 1968, the defendant’s attorney moved in his own name to dismiss the
-action on the ground that Rule 25(a) (1) required plaintiffs to move to substitute a proper party
-for the deceased within 90 days of the suggestion of death. Plaintiffs filed an opposition and
-motion for substitution of the proper party, and sought an extension of the time for substitution as
-allowed by Rule 6(b). At argument, plaintiffs’ counsel asserted the “suggestion of death was
-defective in that it did not list the name of the proper party; that is the legal representative of
-the defendant.” The court responded: “That would not be his burden.” The court dismissed the action
-with prejudice. Prior to its amendment in 1963, Rule 25(a) (1) required the court to dismiss a case
-if no motion for substitution was filed within two. years after date of death, and no extensions of
-this period were allowed under Rule 6(b). The rule was rigorously applied, often with harsh results,
-and was called “easily the poorest rule of all the Federal Rules.” In 1955 the Advisory Committee on
-Rules for Civil Procedure recommended that the two-year period be changed to a “reasonable time”
-standard. In 1961 the Advisory Committee on Civil Rules again suggested the Rule be made more
-flexible. In 1963 the Supreme Court made changes in Rule 25(a) (1) and in Rule 6(b) so as to provide
-a 90-day time limit from the filing of a suggestion of death, and to give the court discretion to
-extend that time. The Committee Notes explaining the amendments state: Present Rule 25(a) (1),
-together with present Rule 6(b), results in an inflexible requirement that an action be dismissed as
-to a deceased party if substitution is not carried out within a fixed period measured from the time
-of death. The hardships and inequities of this unyielding requirement plainly appear from the cases.
-* * * The amended rule establishes a time limit for the motion to substitute based not upon the time
-of the death, but rather upon the time information of the death is provided by means of a suggestion
-of death upon the record. * * * A motion to substitute may be made by any party or by the
-representative of the deceased party without awaiting the suggestion of death. Indeed, the motion
-will usually be so made. If a party or the representative of the deceased party desires to limit the
-time within which another may make the motion, he may do so by suggesting the death upon the record.
-(Emphasis added.) Under the amended Rule either a party or “the successors or representatives of the
-deceased party” may avoid delay in effecting substitution for the deceased party either by filing a
-motion for substitution or by suggesting death on the record and thus triggering the 90-day period
-which begins with suggestion of death. The Advisory Committee, in outlining that suggestion of death
-could be made by “the representative of the deceased party” plainly contemplated that the suggestion
-emanating from the side of the deceased would identify a representative of the estate, such as an
-executor or administrator, who could be substituted for the deceased as a party, with the action
-continued in the name of the representative. The addition of “successor” in the Rule would take care
-of the case of, say, the distributee of an estate that had been distributed, but would not make a
-material difference in the aspect under consideration. Form 30, for suggestion of death, which was
-provided in order to expedite and facilitate implementation of the amendment, provides: A.B.
-[described as a party, or as executor, administrator, or other representative or successor of C.D.,
-the deceased party\ suggests upon the record, pursuant to Rule 25(a) (1), the death of C.D.
-[describe as party] during the pendency of this action. Added Jan. 21, 1963, eff. July 1, 1963.
-[Emphasis added.] Although the attorney for the defendant was retained to “represent” the deceased
-as his counsel, he is not a person who could be made a party, and is not a “representative of the
-deceased party” in the sense contemplated by Rule 25(a) d). In our opinion the Rule, as amended,
-cannot fairly be construed, as the de fendant’s attorney argues, to make his suggestion of death
-operative to trigger the 90-day period even though he was neither a successor nor representative of
-the deceased, and gave no indication of what person was available to be named in substitution as a
-representative of the deceased. Counsel’s construction would open the door to a tactical maneuver to
-place upon the plaintiff the burden of locating the representative of the estate within 90 days. We
-can conceive of cases wherein even the lawyer retained to represent a defendant might know the
-defendant had died, yet not readily know where his estate would be administered. In the present
-case, plaintiff’s attorney did know the court of probate, but he did not know whether probate of the
-will might be contested, or who would be appointed representative of the estate. The tactic of the
-defendant’s attorney would place on plaintiff the burden, where no conventional representative was
-appointed for the estate in probate court, of instituting machinery in order to produce some
-representative of the estate ad litem, pending appointment of the representative contemplated by law
-of the domicile of the deceased.
+ORDER STACEY W. COTTON, Bankruptcy Judge. Before the court is a motion filed by Debtors Edward Pete
+Friday and Patricia Lynn Friday (“Debtors”) to modify their confirmed Chapter 13 Plan and modify
+secured creditors’ rights. It appears that Debtors seek to modify the rate of interest to be paid
+two secured creditors, other than one secured only by Debtors’ principal residence. The question is
+whether the modification and its service are sufficient to provide due process notice to the two
+secured creditors to support approval of the modification of the confirmed plan and of the secured
+creditors’ rights. 11 U.S.C. §§ 1322(b)(2), 1323, 1329. This matter was submitted on the record
+without presentation of evidence by any party. This is a core matter pursuant to 28 U.S.C. §
+157(b)(2)(A),(B),(K), and (L). Upon consideration of the record and argument, the court’s findings
+of fact and conclusions are set forth below. FACTS Debtors filed their joint Chapter 13 Petition,
+Schedules, Statement of Financial Affairs and Chapter 13 Plan on September 18, 2001. Paragraph # 9
+of the plan, entitled “Other Provisions,” provides [a] secured claim, other than a mortgage
+arrearage claim, shall receive interest at the rate of 12% on the value of the collateral securing
+the claim unless the proof of claim provides otherwise and then at the rate provided in the note and
+security instrument. The court clerk served all scheduled creditors with notice of the bankruptcy
+filing, including, among other things, notice of the January 1, 2002 deadline for filing proofs of
+claim and a summary of Debtors’ plan. Transouth Financial Corporation (“Transouth”) and Wilkes
+Finance Corporation (“Wilkes”) were not scheduled as creditors. The plan summary did not provide any
+notice or disclosure of the proposed treatment of claims of secured creditors set forth in
+paragraphs #5, #8, and # 9 of Debtors’ plan. The complete plan was never served on the scheduled
+creditors nor on unscheduled creditors Tran-south and Wilkes. The Debtors’ plan did not identify
+each secured creditor whose claim is to be modified nor state with particularity how it would
+adversely impact each secured creditor’s claim. The court record does not indicate the basis for the
+proposed 12% interest rate. While the Chapter 13 Trustee objected to certain aspects of this plan
+prior to confirmation, the issue of a possible reduction of the interest rate on secured claims to
+12% was not raised. On October 10, 2001, a representative of Transouth filed a request for all
+notices and also a proof of secured claim in the amount of $13,172.40, secured by a vehicle, with an
+interest rate of 20%. No other secured creditor filed a proof of claim prior to confirmation of the
+Debtors’ plan. Debtors did not file a proof of claim for any secured creditor. On November 30, 2001,
+an order was entered confirming Debtors’ plan. On March 14, 2002, over two months past the last date
+for filing claims, Wilkes filed an untimely proof of a secured claim in the amount of $674.83,
+secured by household items of an alleged value of $2,000. While not stated in the proof of claim,
+attached documentation supporting the proof of claim reflects an interest rate of 44.05%. On April
+8, 2002, the Trustee filed and served Debtors with a notice of intent to pay Wilkes’s late filed
+claim, subject to objection. No objection to these claims has been filed. Therefore, both
+Transouth’s and Wilkes’s proofs of claim are deemed allowed pursuant to 11 U.S.C. § 502(a). Eight
+months after confirmation, on July 22, 2002, Debtors filed an amendment to paragraph # 9 of their
+confirmed plan as follows : [a] secured claim, other than a mortgage arrearage claim, shall receive
+interest at the rate of 12% on the value of the collateral securing the claim unless the proof of
+claim provides lower and then at the rate provided in the note and security instrument, (emphasis
+supplied). The only difference in language in the original paragraph # 9 and in this amendment is
+the substitution of the word “lower” for the word “otherwise.” The certif icate of service indicates
+that all creditors, the Chapter 13 Trustee, and Debtors were served with copies of the amendment.
+Transouth and Wilkes were served at the addresses which appear on their proofs of claim and which
+were added to the creditor matrix. On August 12, 2002, Debtors filed another amendment to their
+confirmed plan, to amend paragraph # 9 of their plan as follows: A secured claim, other than a
+mortgage arrearage claim, shall receive interest at the rate of 12% on the value of the collateral
+securing the claim unless the proof of claim provides lower and then at the rate provided for in the
+note and security instrument. Specifically, Debt- or’s [sic] shows creditors Wilkes Financial
+Corporation and Transouth Financial Corporation. Transouth and Wilkes are named in a sentence
+fragment at the end of this amendment which makes no sense. Nothing in the amendment indicates what
+Debtors are attempting to show with regard to the two named creditors. On August 23, 2002, the
+Chapter 13 Trustee objected to Debtors’ modification, including an objection that Debtors’ proposed
+decrease in the rate of interest was without adequate notice to creditors. On October 3, 2002,
+Debtors for the first time filed a properly captioned pleading entitled “MODIFICATION OF CONFIRMED
+CHAPTER 13 PLAN AND MODIFICATION OF SECURED CREDITORS’ RIGHTS,” typed in bold face and all capital
+letters. This pleading appears also to amend paragraph # 9 and uses substantially the same language
+as that used in the August 12, 2002 amendment, but sets out in bold face type both the 12% rate of
+interest and the following phrase: ... “unless the proof of claim provides a lower interest
+rate....” It omits the sentence fragment in the August 12, 2002 amendment which names Transouth and
+Wilkes. Finally, immediately below the above-referenced language, Debtors’ October 3, 2002
+modification also sets out a notice, in bold, as follows: NOTICE IS GIVEN TO CREDITORS WILKES
+FINANCIAL CORPORATION AND TRANSOUTH FINANCIAL CORPORATION: THIS MODIFICATION MAY AFFECT YOUR RIGHTS
+NEGATIVELY AND MAY RESULT IN LESS MONEY BEING PAID ON YOUR CLAIM. YOUR FAULIRE [sic] TO FILE A
+WRITTEN OBJECTION TO THIS MODIFICATION WITHIN 28 (TWENTY-EIGHT) DAYS MAY RESULT IN THE COURT
+APPROVING THIS MODIFICATION WITHOUT FURTHER NOTICE OF HEARING. The certificate of service reflects
+service on Debtors, the Chapter 13 Trustee, all creditors on the creditor matrix, and on Transouth
+and Wilkes at the addresses on their proofs of claim. DISCUSSION Section 1322, which declares the
+necessary contents of a Chapter 13 Plan, provides that a debtor may “modify the rights of holders of
+secured claims, other than a claim secured only by a security interest in real property that is the
+debt- or’s principal residence, or of holders of unsecured claims, or leave unaffected the rights of
+holders of any class of claims ....”§ 1322(b)(2). However, in order to modify the rights of a
+secured claim, it is incumbent upon a debtor to give adequate notice to the secured claimant. In
+Mullane v. Central Hanover Bank & Trust Co. et al., 339 U.S. 306, 70 S.Ct. 652, 94 L.Ed. 865 (1950),
+the Supreme Court set forth such notice requirements: An elementary and fundamental requirement of
+due process in any proceeding which is to be accorded finality is notice reasonably calculated,
+under all the circumstances, to apprise interested parties of the pendency of the action and afford
+them an opportunity to present their objections.... The notice must be of such nature as reasonably
+to convey the required information, and it must afford a reasonable time for those interested to
+make their appearance.... The reasonableness and hence the constitutional validity of any chosen
+method may be defended on the ground that it is in itself reasonably certain to inform those
+affected. Id., at 314, 70 S.Ct. at 657 (citations omitted); Mennonite Board of Missions v. Adams,
+462 U.S. 791, 103 S.Ct. 2706, 77 L.Ed.2d 180 (1983). In Mullane, the Court found that newspaper
+publication was adequate notice for beneficiaries whose interests or whereabouts were unknown as
+well as for those whose interests were merely conjectural. However, such notice did not satisfy due
+process requirements where the beneficiaries and their addresses were known. Under Mullane, in
+seeking to modify secured creditors’ claims pursuant to a Chapter 13 Plan or a modification of a
+confirmed plan, a debtor must provide notice reasonably calculated under the circumstances to
+apprise creditors of the proposal and afford them an opportunity to present their objections. Pope
+v. United Company Lending Corporation (In re Pope), 1997 WL 33344310 (Bankr.D.S.C.1997) (“ ‘the
+notice will be sufficient if it allows the creditor to determine how the plan proposes to maltreat
+its claim; that should alert the creditor to object to confirmation.’ ”) (citations omitted). At a
+minimum, a proposed plan or plan modification should set forth the following: (1) identity of
+debtor; (2) the name of each creditor whose claim or claims is to be modified; (3) the proposed
+modifications of the rights of each secured claim with sufficient particularity to enable each
+creditor to determine how the proposed plan or plan modification will impact each secured creditor’s
+claim; and (4) whether the secured claimant is to retain its lien or its collateral is to be
+surrendered. Each creditor must be served with a copy of the entire plan. Further, each creditor
+must be served with notice of the date by which an objection to plan confirmation or plan
+modification must be filed and notice of the date for hearing or opportunity for hearing on the plan
+confirmation or modification. Additionally, Fed. R. Bankr.P. 2002(b) provides that parties be given
+25 days notice of the time fixed for filing objections to confirmation while Fed. R. Bankr.P.
+2002(a)(5) provides that parties be given 20 days notice of the time fixed to accept or reject a
+proposed modification of a confirmed plan. Service of a copy of the plan or plan modification must
+be made in accordance with Fed. R. Bankr.P. 2002(g)(1) which provides how adequate notice should be
+addressed: [notices] shall be addressed as such entity or an authorized agent has directed in its
+last request filed in the particular ease... (A) a proof of claim ... that designates a mailing
+address constitutes a filed request to mail notices to that address.... (2) If a creditor ... has
+not filed a request designating a mailing address under Rule 2002(g)(1), the notices shall be mailed
+to the address shown on the list of creditors or schedule of liabilities, whichever is filed later.
+Confirmed Plan Debtors’ confirmed plan provides, among other things, that secured creditors’ claims
+be paid interest at 12% unless the proof of claim provides otherwise and then at the contract rate.
+Transouth’s and Wilkes’s secured proofs of claim provide for interest of 20% and 44.05%,
+respectively. Even if the plan provision is construed most favorably to Debtors, the inartfully
+drawn language of Debtors’ confirmed plan requires that secured claims are to be paid at the
+“otherwise provided” interest rates set forth in the proofs of claim filed by these two creditors.
+The court file does not reflect that Debtors scheduled Transouth and Wilkes as creditors. Likewise,
+there is no certificate of service or other evidence that Transouth and Wilkes were served with a
+copy of Debtors’ original plan or plan summary. However, Transouth and Wilkes obviously acquired
+notice of the case as each filed its proof of secured claim. The facts relating to the Debtors’
+secured creditors’ claims or the 12% interest rate were not put in issue or otherwise brought to the
+court’s attention at confirmation. It appearing that the plan complied with the Bankruptcy Code, the
+plan was confirmed. Pursuant to the confirmed plan, these two allowed secured claims are to be paid
+to the extent of the lesser of the value of their collateral or their debt plus contract interest at
+the rate set forth in their respective proofs of claim. Proposed Modifications Beginning eight
+months after confirmation, Debtors filed modifications to their confirmed plan, on July 22nd, August
+12th, and October 3, 2002. This fact evidences an apparent recognition by Debtors that their
+confirmed plan did not reduce the interest rate payable to secured creditors to 12%. The Chapter 13
+Trustee objected to the July 22nd and August 12th proposed modifications, including a lack of
+adequate notice to creditors. Debtors’ October 3, 2002 modification appears to be an effort to
+satisfy the Trustee’s objections. It appears that Debtors’ amendments seek to modify the rights of
+Transouth and Wilkes by reducing the interest rate of their secured claims to the “lower” of 12% or
+the contract rate. This is a change from the provision in their confirmed plan. It provides that
+secured claims should be paid interest at a 12% rate or the contract rate if othervnse set forth in
+the proof of claim, whether higher or lower. The first two amendments do not state Debtors are
+proposing to modify a confirmed plan. Neither amendment names or clearly states that the rights of
+Transouth and Wilkes are modified by reducing the interest rate on their secured claims from 20% and
+44.05%, respectively, to 12%. Although the August 12, 2002 amendment contains the names of Transouth
+and Wilkes, it does so in a sentence fragment that makes no sense. Likewise, the October
+modification does not name Transouth and Wilkes in the text of the amendment or state that the
+rights of Transouth and Wilkes are being modified. While the notice contained in this amendment
+names and is directed to Tran-south and Wilkes, it merely states that the modification may affect
+the creditors’ rights negatively and may result in the payment of less money on their claims.
+Debtors have the burden of stating modifications with particularity. A statement of a possibility
+that secured claims may be affected is inadequate when modification of their rights and allowed
+secured claims is the clear object. Affected creditors should not be left to guess whether or in
+what particulars their rights are to be modified and the effect on their claims. This is
+particularly so, where as here, these secured creditors have allowed claims which set forth their
+interest rates. Debtors’ pleadings appear to have been drawn without any acknowledgment or reference
+to these allowed claims. Finally, while the October 3rd modification contains a notice of an
+opportunity to object, those filed on July 22nd and August 12th do not. None provide notice of the
+date for hearing or opportunity for hearing to approve the plan modification. 11 U.S.C. § 102(1).
+Upon consideration of the entire record, the court finds that the provisions of Debtors’ confirmed
+plan and proposed modifications are insufficient to properly apprise each secured creditor how its
+rights are modified and the impact on each claim. Neither the confirmed plan nor plan summary has
+been served on Transouth or Wilkes. Without the confirmed plan, Transouth and Wilkes would be unable
+to determine what was being modified or exactly how their claims are to be treated. This is
+particularly true since secured creditor claims’ treatment is set forth in paragraphs #5, #8, and #
+9 of Debtors’ confirmed plan. Paragraph # 5(b) purports to also modify secured creditor claims which
+appears to conflict with paragraph # 9 and the postconfirmation amendments of paragraph # 9.
+Finally, neither of these paragraphs refer to the other. Common sense suggests that such provisions
+should be combined in the same part of a plan. Therefore, the court concludes that Debtors’
+confirmed plan fails to provide meaningful due process notice to these two secured creditors. Since
+Transouth and Wilkes have not objected and have been accepting payments pursuant to Debtors’
+confirmed plan which will pay them in full, the court will not set aside or vacate the order of
+confirmation. However, if the higher interest rates result in the plan term being extended beyond 60
+months which cannot be cured, dismissal may be required. Likewise, the court concludes that each of
+Debtors’ proposed plan modifications fails to provide meaningful due process notice to these two
+secured creditors. For these reasons, Debtors’ proposed modification of their confirmed plan must be
+denied. Accordingly, it is ORDERED that Debtors’ motion to modify their confirmed Chapter 13 Plan
+and the rights of secured creditors Tran-south and Wilkes is denied. The clerk is directed to serve
+a copy of this order upon Debtors, Debtors’ counsel, creditors, the Chapter 13 Trustee, and the
+United States Trustee. IT IS SO ORDERED.
 
 

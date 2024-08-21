@@ -1,142 +1,236 @@
 **gold_text:**
-The amendment to Rule 25(a) (1) was intended to dispel unwarranted rigidity and allow more
-flexibility in substitution. “It was intended that liberal effect be given to the 1963 amendment.”
-Roscoe v. Roscoe, 126 U.S.App.D.C. 317, 322, 379 F.2d 94, 99 (1967). “[T]he 90 day period was not
-intended to act as a bar to otherwise meritorious actions.” Staggers v. Otto Gerdau Co., 359 F.2d
-292, 296 (2d Cir. 1966).
+The parties are hereby advised that under the provisions of Rule 3(b) of the Rules for United States
+Magistrates in the United States District Court for the District of Massachusetts, any party who
+objects to this report and these recommendations must file a written objection thereto with the
+Clerk of this Court within 10 days of the party’s receipt of this Report and Recommendation. The
+written objections must specifically identify the portion of the recommendations, or report to which
+objection is made and the basis for such objections. The parties are further advised that the United
+States Court of Appeals for this Circuit has indicated that failure to comply with this rule shall
+preclude further appellate review. See Park Motor Mart, Inc. v. Ford Motor Co., 616 F.2d 603 (1
+Cir., 1980); United States v. Vega, 678 F.2d 376, 378-79 (1 Cir., 1982); Scott v. Schweiker, 702
+F.2d 13, 14 (1 Cir., 1983). See also, Thomas v. Arn, 474 U.S. 140, 106 S.Ct. 466, 88 L.Ed.2d 435
+(1985).
 
 **Generations:**
 
 
 ***GPT-4o:***
-This stringent interpretation contrasts sharply with the intent of the 1963 amendments to Rule 25
-and Rule 6(b), which aimed to inject flexibility and fairness into the substitution process. As
-noted in 379 F.2d 94 and 359 F.2d 292, the amendments were designed to eliminate the inequities and
-hardships caused by the rigid two-year limitation originally imposed. The Advisory Committee
-emphasized that the revised rules were to be liberally construed to allow courts discretion in
-extending the substitution period, recognizing the difficulties that could arise in promptly
-identifying and notifying the proper representative of the deceased.   Given this context, the
-defendant’s counsel's suggestion of death, which lacked identification of a proper representative,
-failed to initiate the 90-day countdown. This interpretation aligns with the judicial precedent that
-courts should prioritize the equitable administration of justice over strict procedural formalities.
-Thus, the district court erred in dismissing the plaintiffs' action without granting the requested
-extension, especially considering the circumstances that inhibited timely substitution, such as the
-injury to plaintiffs' counsel and the ongoing legal processes in the probate court.  We, therefore,
-reverse the judgment and remand for further proceedings consistent with this opinion, ensuring that
-the substitution process adheres to the flexible and just principles intended by the amendments to
-the Federal Rules of Civil Procedure.
+In considering the objections to the magistrate's report, it is crucial to reference the Federal
+Magistrate’s Act, 28 U.S.C. § 636(b)(1), which has been extensively interpreted in several cases. As
+highlighted in 616 F.2d 603 and 678 F.2d 376, any party may serve and file written objections to the
+magistrate's proposed findings and recommendations within ten days, allowing a judge to make a de
+novo determination of contested portions.  In the case at hand, the magistrate directed that
+objections should be filed within ten days, paralleling the procedure noted in 474 U.S. 140, where
+failure to file timely objections can result in waiver of the right to appeal. Despite the potential
+for review sua sponte by the district judge, as occurred in 474 U.S. 140, such a provision
+underscores the importance of adhering to procedural rules.  Therefore, in alignment with judicial
+precedents (616 F.2d 603, 678 F.2d 376, 474 U.S. 140), this court adopts the magistrate’s report and
+recommendations. Consequently, the claims in Count I are adequately detailed under Fed.R.Civ.P.
+9(b), and further discovery will entail a comprehensive review post-pretrial, ensuring due process
+and judicial economy.  Report and recommendation of the magistrate is adopted.
 
 
 **Label:** 
 
 
 ***Meta-Llama-3-8B-Instruct:***
-  In the context of Rule 25(a) (1) of the Federal Rules of Civil Procedure, the suggestion of death
-is a crucial step in the process of substituting a deceased party with a proper representative.
-However, not all suggestions of death are created equal. In cases where the suggestion of death is
-made by a party's attorney, but fails to identify a successor or representative of the deceased, the
-90-day period for substitution may not be triggered.  As noted in 359 F.2d 292, the Advisory
-Committee on Civil Rules intended to provide a more flexible standard for substitution, allowing for
-extensions of time and dispensing with the rigid two-year period previously in place. However, this
-flexibility is contingent upon the suggestion of death providing sufficient information to permit
-the court to proceed with substitution.  In the present case, the suggestion of death made by the
-defendant's attorney was deficient in that it failed to identify a successor or representative of
-the deceased. This lack of specificity rendered the suggestion ineffective in triggering the 90-day
-period for substitution, as explained in 379 F.2d 94.  Furthermore, the court's discretion to
-enlarge the time period for substitution, as provided by Rule 6(b), is not a blank check. Rather, it
-is intended to be exercised in a judicious and reasonable manner, taking into account the particular
-circumstances of each case.  In light of these principles, we conclude that the district court erred
-in dismissing the action with prejudice. The case should be remanded for further proceedings,
-allowing the parties to properly substitute a representative of the deceased and continue the action
-in a manner consistent with the Federal Rules of Civil Procedure.
+ <answer> I am happy to help you with your query. Based on the reference cases you provided,
+specifically 616 F.2d 603, 678 F.2d 376, and 474 U.S. 140, I can assist you in analyzing the legal
+issues related to the Federal Magistrates Act and Rule 9(b) of the Federal Rules of Civil Procedure.
+In the reference case 616 F.2d 603, the court held that a party may choose not to file objections to
+a magistrate's report and recommendation, but if they do file objections, the objections must be
+served and filed within the specified time period. This is in line with the statutory language and
+purpose of the Federal Magistrates Act.  In the reference case 678 F.2d 376, the court emphasized
+the importance of specificity in pleading fraud and misrepresentation claims. The court held that
+allegations based on "information and belief" do not satisfy the particularity requirement unless
+the complaint sets forth the facts on which the belief is founded.  In the reference case 474 U.S.
+140, the court reiterated the importance of specificity in pleading fraud and misrepresentation
+claims. The court held that Rule 9(b) requires specification of time, place, and content of an
+alleged false representation, and that allegations based on "information and belief" do not satisfy
+the particularity requirement.  Based on these reference cases, it is clear that the Federal
+Magistrates Act and Rule 9(b) of the Federal Rules of Civil Procedure require specificity and
+particularity in pleading fraud and misrepresentation claims. The courts have emphasized the
+importance of providing adequate notice to defendants of the alleged fraudulent conduct and the need
+to specify the time, place, and content of the alleged misrepresentations.  In the context of the
+instant case, it appears that the Second Amended Complaint complies with the requirements of Rule
+9(b) and the Federal Magistrates Act. The complaint provides sufficient specificity and
+particularity in pleading the alleged misrepresentations and provides adequate notice to the
+defendants of the alleged fraudulent conduct.  In conclusion, based on the reference cases and the
+analysis provided, it is clear that the Federal Magistrates Act and Rule 9(b) of the Federal Rules
+of Civil Procedure require specificity and particularity in pleading fraud and misrepresentation
+claims. The courts have emphasized the importance of providing adequate notice to defendants of the
+alleged fraudulent conduct and the need to specify the time, place, and content of the alleged
+misrepresent
 
 
 **Label:** 
 
 
-**citations:** ['379 F.2d 94', '359 F.2d 292']
+**citations:** ['616 F.2d 603', '678 F.2d 376', '474 U.S. 140']
 
-***short_citations_0:*** 379 F.2d 94
+***short_citations_0:*** 616 F.2d 603
 
-the proper parties. * * * Unless the motion for substitution is made not later than 90 days after the death is suggested upon the record by service of a statement of the fact of the death as provided herein for the service of the motion, the action shall be dismissed as to the deceased party.” Here not only had the 90-day period not expired when the court entered summary judgment, the appellant by her motion for reconsideration had specifically invoked the discretion of the court. Rule 6(b) provides pertinently that when “by these rules * * * an act is required or allowed to be done at or within a specified time, the court for cause shown may at any time in its discretion (1) with or without motion or notice order the period enlarged if request therefor is made before the expiration of the period originally prescribed * * Originally the Rule had precluded an extension of time for taking action under Rule 25(a) (1), but by purposeful amendment, it was sought to relieve against the hardship of the Court’s holding in Anderson v. Yungkau, 329 U.S. 482, 67 S.Ct. 428, 91 L.Ed. 436 (1947). It was intended that liberal effect be given to the 1963 amendment. Graham v. Pennsylvania Railroad, 119 U.S.App.D.C. 335, 342 F.2d 914 (1964), cert. denied, 381 U.S. 904, 85 S.Ct. 1446, 14 L.Ed.2d 286 (1965). We are constrained to reverse for further proceedings not inconsistent with this opinion. Reversed. The only “party” then
+for the disposition, by a judge . . .” The Act further provides, (C) [T]he magistrate shall file his proposed findings and recommendations under subparagraph (B) with the court and a copy shall forthwith be mailed to all parties. Within ten days after being served with a copy, any party may serve and file written objections to such proposed findings and recommendations as provided by rules of court. A judge of the court shall make a de novo determination of those portions of the report or specified proposed findings or recommendations to which objection is made. A judge of the court may accept, reject, or modify, in whole or in part, the findings or recommendations made by the magistrate. (Emphasis suppl.) Basically, the dispute between the parties centers upon the effect of the phrase “may serve and file written objections.” Defendants assert that a party may decide not to file, but that filing is obligatory if he is dissatisfied. Plaintiffs’ position is that the district court has a duty to review the magistrate’s recommendations in any event, and that the losing party need file objections only if he wishes a hearing. Although the court cited its Local Rule 7(c), this rule is of no assistance. Other than referring to the statute itself, it is limited to “appeal[s]” from orders under subsection (b)(1)(A). We turn, accordingly, to the statute. There are three possible areas of consideration: the statutory language, the statutory purpose, and the legislative history. First, plaintiffs point to the
 
-***short_citations_1:*** 359 F.2d 292
+***short_citations_1:*** 678 F.2d 376
 
-insertion of a “reasonable time” standard. In 1963, the Advisory Committee suggested the present rule and noted: “Present Rule 25(a) (1), together with present Rule 6(b), results in an inflexible requirement that an action be dismissed as to a deceased party if substitution is not carried out within a fixed period measured from the time of the death. The hardships and inequities of this unyielding requirement plainly appear from the cases. * * * The amended rulé establishes a time limit for the motion to substitute based not upon the time of the death, but rather upon the time information of the death is provided by means of a suggestion of death upon the record, i. e. service of a statement of the fact of the death.” See Notes of Advisory Committee on the Civil Rules, 28 U.S.C. Rule 25 (1964). Rule 6(b) of the Federal Rules of Civil Procedure was also amended in 1963 and the prohibition against extending the time for taking action under Rule 25 was eliminated. The Advisory Committee on the Civil Rules noted: “It is intended that the court shall have discretion to enlarge that period.” The amendments of Rules 6(b) and 25(a) (1) provided needed flexibility. It was assumed that discretionary extensions would be liberally granted. Movants under Rule 25 can ordinarily control when a death is “suggested upon the record” and appellants’ attorney was under no obligation to file his affidavit of Staggers’ death on the date he did. He could have filed
+the Magistrate’s Report and Recommendation dated May 14, 1981.” Appellant’s brief does not discuss at all the question of appealability; it assumes that, because the court adopted the magistrate’s report and recommendation, it can challenge the motion to suppress. This was an incorrect assumption. The Federal Magistrate’s Act, 28 U.S.C. § 631 et seq. reads in pertinent part: parties. Within ten days after being served with a copy, any party may serve and file written objections to such proposed findings and recommendations as provided by rules of court. A judge of the court shall make a de novo determination of those portions of the report or specified proposed findings or recommendations to which objection is made. A judge of the court may accept, reject, or modify, in whole or in part, the findings or recommendations made by the magistrate. The judge may also receive further evidence or recommit the matter to the magistrate with instructions. (B) a judge may also designate a magistrate to conduct hearings, including evi-dentiary hearings, and to submit to a judge of the court proposed findings of fact and recommendations for the disposition, by a judge of the court, of any motion excepted in subparagraph (A), of applications for posttrial relief made by individuals convicted of criminal offenses and of prisoner petitions challenging conditions of confinement. (C) the magistrate shall file his proposed findings and recommendations under subparagraph (B) with the court and a copy shall forthwith be mailed to all Id. § 636(b)(1)(B), (C). Park
+
+***short_citations_2:*** 474 U.S. 140
+
+admit the proffered testimony had not impaired the fundamental fairness of the trial, and therefore was not an adequate ground for habeas corpus relief. The last page of the Magistrate’s report contained the prominent legend: “ANY OBJECTIONS to this Report and Recommendation must be filed with the Clerk of Courts within ten (10) days of receipt of this notice. Failure to file objections within the specified time waives the right to appeal the District Court’s order. See: United States v. Walters, 638 F. 2d 947 (6th Cir. 1981).” Despite this clear notice, petitioner failed to file objections at any time. She sought and received an extension of time to file objections through June 15, 1982, on the grounds that “this case entails many substantive issues and counsel needs more time to write his brief.” However, petitioner made no further submissions on the merits to the District Court. Notwithstanding petitioner’s failure to file objections, the District Judge sua sponte “review[ed] . . . the entire record de novo,” App. 59, and dismissed the petition on the merits. Petitioner sought and was granted leave to appeal. Petitioner’s brief on appeal raised only the issue of the Battered Wife Syndrome testimony. The brief provided no explanation for petitioner’s failure to object to the Magistrate’s report. Counsel for petitioner waived oral argument, and the case was decided on the briefs. The Court of Appeals for the Sixth Circuit affirmed. 728 F. 2d 813 (1984). Without reaching the merits, it held that petitioner had waived
 
 **prev_text:**
-LEVENTHAL, Circuit Judge: The District Court held that Rule 25(a) (1) of the Federal Rules of Civil
-Procedure required dismissal of the plaintiffs’ tort action because defendant’s counsel had filed a
-suggestion of death of the defendant yet plaintiff had not made any substitution of parties within
-90 days. We reverse on the ground that the suggestion of death, which was neither filed by nor
-identified a successor or representative of the deceased, such as an executor or administrator, was
-ineffective to trigger the running of the 90-day period provided by the Rule. Mr. and Mrs. John
-Rende filed an action in the District Court individually and on behalf of their infant son who had
-been struck and injured by Alfred S. Kay while driving his car. On August 27, 1967, defendant Kay
-died. On September 1, 1967, the defendant’s attorney, a term used here to identify the lawyer who
-had been retained by deceased to defend the action, and who had duly entered an appearance as
-attorney for defendant, filed a suggestion of death in the District Court, giving notice to
-plaintiffs’ attorney. That same day there was filed in the Orphans Court for Montgomery County,
-Maryland, residence of the deceased, his will naming his widow as executrix, but the will had not
-been probated, nor any legal representative appointed for the estate at the time of the filing of
-this appeal. Plaintiffs’ attorney was injured on October 14, 1967. On returning to practice early in
-1968, he learned that no successor to defendant Kay had yet been appointed, and he moved to certify
-the case to the ready calendar. The defendant’s attorney opposed this on grounds that discovery
-procedures had not been completed. The case was delayed and placed on the ready calendar as of June
-7, 1968. However, in April 1968, the defendant’s attorney moved in his own name to dismiss the
-action on the ground that Rule 25(a) (1) required plaintiffs to move to substitute a proper party
-for the deceased within 90 days of the suggestion of death. Plaintiffs filed an opposition and
-motion for substitution of the proper party, and sought an extension of the time for substitution as
-allowed by Rule 6(b). At argument, plaintiffs’ counsel asserted the “suggestion of death was
-defective in that it did not list the name of the proper party; that is the legal representative of
-the defendant.” The court responded: “That would not be his burden.” The court dismissed the action
-with prejudice. Prior to its amendment in 1963, Rule 25(a) (1) required the court to dismiss a case
-if no motion for substitution was filed within two. years after date of death, and no extensions of
-this period were allowed under Rule 6(b). The rule was rigorously applied, often with harsh results,
-and was called “easily the poorest rule of all the Federal Rules.” In 1955 the Advisory Committee on
-Rules for Civil Procedure recommended that the two-year period be changed to a “reasonable time”
-standard. In 1961 the Advisory Committee on Civil Rules again suggested the Rule be made more
-flexible. In 1963 the Supreme Court made changes in Rule 25(a) (1) and in Rule 6(b) so as to provide
-a 90-day time limit from the filing of a suggestion of death, and to give the court discretion to
-extend that time. The Committee Notes explaining the amendments state: Present Rule 25(a) (1),
-together with present Rule 6(b), results in an inflexible requirement that an action be dismissed as
-to a deceased party if substitution is not carried out within a fixed period measured from the time
-of death. The hardships and inequities of this unyielding requirement plainly appear from the cases.
-* * * The amended rule establishes a time limit for the motion to substitute based not upon the time
-of the death, but rather upon the time information of the death is provided by means of a suggestion
-of death upon the record. * * * A motion to substitute may be made by any party or by the
-representative of the deceased party without awaiting the suggestion of death. Indeed, the motion
-will usually be so made. If a party or the representative of the deceased party desires to limit the
-time within which another may make the motion, he may do so by suggesting the death upon the record.
-(Emphasis added.) Under the amended Rule either a party or “the successors or representatives of the
-deceased party” may avoid delay in effecting substitution for the deceased party either by filing a
-motion for substitution or by suggesting death on the record and thus triggering the 90-day period
-which begins with suggestion of death. The Advisory Committee, in outlining that suggestion of death
-could be made by “the representative of the deceased party” plainly contemplated that the suggestion
-emanating from the side of the deceased would identify a representative of the estate, such as an
-executor or administrator, who could be substituted for the deceased as a party, with the action
-continued in the name of the representative. The addition of “successor” in the Rule would take care
-of the case of, say, the distributee of an estate that had been distributed, but would not make a
-material difference in the aspect under consideration. Form 30, for suggestion of death, which was
-provided in order to expedite and facilitate implementation of the amendment, provides: A.B.
-[described as a party, or as executor, administrator, or other representative or successor of C.D.,
-the deceased party\ suggests upon the record, pursuant to Rule 25(a) (1), the death of C.D.
-[describe as party] during the pendency of this action. Added Jan. 21, 1963, eff. July 1, 1963.
-[Emphasis added.] Although the attorney for the defendant was retained to “represent” the deceased
-as his counsel, he is not a person who could be made a party, and is not a “representative of the
-deceased party” in the sense contemplated by Rule 25(a) d). In our opinion the Rule, as amended,
-cannot fairly be construed, as the de fendant’s attorney argues, to make his suggestion of death
-operative to trigger the 90-day period even though he was neither a successor nor representative of
-the deceased, and gave no indication of what person was available to be named in substitution as a
-representative of the deceased. Counsel’s construction would open the door to a tactical maneuver to
-place upon the plaintiff the burden of locating the representative of the estate within 90 days. We
-can conceive of cases wherein even the lawyer retained to represent a defendant might know the
-defendant had died, yet not readily know where his estate would be administered. In the present
-case, plaintiff’s attorney did know the court of probate, but he did not know whether probate of the
-will might be contested, or who would be appointed representative of the estate. The tactic of the
-defendant’s attorney would place on plaintiff the burden, where no conventional representative was
-appointed for the estate in probate court, of instituting machinery in order to produce some
-representative of the estate ad litem, pending appointment of the representative contemplated by law
-of the domicile of the deceased.
+ORDER HARRINGTON, District Judge. Report and recommendation of the magistrate is adopted by this
+court. REPORT AND RECOMMENDATION ON MOTION TO DISMISS THE AMENDED COMPLAINT (# 29) Feb. 27, 1989.
+ROBERT B. COLLINGS, United States Magistrate. Terry Howard, Byron Roseman and Frederick Wikander are
+three Massachusetts physicians who were trustees of Medical Associates, a Massachusetts business
+trust. Chelmsford Medical Associates, Inc., a professional corporation, is alleged to be the
+successor-in-interest of Medical Associates. The instant case arises out of agreements reached
+whereby the defendant would sell and grant certain licenses respecting a computer system for use by
+the business trust. The Second Amended Complaint contains claims for intentional or negligent
+misrepresentation (Count I), breach of contract (Count II), breach of warranties (Count III),
+negligence/computer malpractice (Count IV) and unfair or deceptive acts and practices (Count V).
+Jurisdiction is based on diversity of citizenship. I RECOMMEND that all but one of the grounds
+listed in the Defendant’s Motion To Dismiss The Amended Complaint (# 29) be DEFERRED for resolution
+at the PreTrial Conference when discovery has been completed. See Rule 12(d), Fed.R.Civ.P. The
+reason for this recommendation is that the defendant does not assert that all of the claims in the
+Second Amended Complaint (as opposed to the Amended Complaint) are subject to dismissal. Specifical
+ly, to the extent that Count II of the Second Amended Complaint contains a claim by plaintiffs
+Howard, Roseman and Wikander for breach of contract, defendant does not contend that Count II is
+subject to dismissal. Since the case will go forward on that claim regardless of whether the other
+claims are dismissed and since the scope of discovery would be approximately the same regardless of
+whether or not the other claims are dismissed at this time, it seems to me in the interests of
+judicial economy to defer the motion to dismiss the other claims until after the issues respecting
+those claims have been sharpened by the discovery process. The one exception is the claim that the
+counts sounding in fraud and misrepresentation are not pleaded with the particularity required by
+Rule 9(b), Fed.R.Civ.P. This type of issue should not be deferred. This is not the first time I have
+reviewed plaintiffs’ pleadings to determine if the allegations of fraud have complied with Rule
+9(b), Fed.R.Civ.P. On February 12, 1988,1 issued a Memorandum (# 20) indicating that although the
+content of the misrepresentations was adequately pleaded, the pleadings were defective because of
+the failure to state the time and place of the alleged misrepresentations. In the Amended Complaint
+(# 26) and in the Second Amended Complaint (# 62), plaintiffs have sought to rectify this
+deficiency. They claim they have done so; defendant disagrees. Count I of the Second Amended
+Complaint alleging misrepresentation is divided into two parts. The first deals with
+misrepresentations allegedly made before the parties entered into a written contract; the second
+deals with misrepresentations made after the written contract was signed. Paragraph 34 concerns
+misrepresentations made before the contract was signed and reads as follows: 34. To induce
+Chelmsford Medical Associates to enter into the Systems Purchase Agreement, Cycare falsely
+represented the features, performance and quality of the system and the nature and quality of
+Cycare’s support services, and falsely represented the benefits to Chelmsford Medical Associates of
+using the system. Specifically, and without limitation, Cycare made the representations as described
+in paragraph 11, above. Paragraph 11 contains twelve subparts (a through 1) which list
+“representations” allegedly made. After each of the subparts, a “specification” of time and place is
+set forth in parentheses. The “specifications” are similar. Examples are: a. (This representation
+was made during the one-site demonstration and in documentation.)” c. “... (This representation was
+made in the on-site and off-site demonstrations, during the on-site visits and during telephone
+discussions between the parties.)” g. “... (These representations were made during the on-site and
+off-site demonstrations, during the on-site visits and in the Written Proposal and in the
+documentation.)” Paragraph 8 contains dates and places of a number of these events. The on-site
+demonstration occurred at the plaintiffs’ offices on May 23-24, 1985. The “Written Proposal” was
+made on or about June 24, 1985. The “off-site” demonstration occurred on June 26-27, 1985 at
+Memphis, Tennessee. It is further alleged that “additional on-site visits by Cycare to Chelmsford
+[occurred] during the period July-September, 1985.” Lastly, it is alleged that the telephone
+conversations occurred between May, 1985 and the date of the execution of the written contract,
+i.e., September 30, 1985. The second group of alleged misrepresentations is alleged to have occurred
+after September 30,1985. Paragraphs 35 and 36 of the Second Amended Complaint read as follows: 35.
+To induce Chelmsford Medical Associates to continue to use a defective system, CyCare falsely
+represented that it could and would remedy the malfunctions and problems with the computer system.
+These representations were made beginning in approximately March, 1986 when the first computer run
+was made on the CyCare system, and continued to be made up to and including June, 1987. These
+representations were made by CyCare while present at Chelmsford Medical Associates’ site, including
+but not limited to meetings in March 1986, April 1986, July 1986, October 1986 and March 1987 and in
+telephone conversations throughout the period, including but not limited to the following
+correspondence: a. letter dated August 6, 1986 from James R. Eley to Byron Roseman, M.D.; b. letter
+dated August 21, 1986 from David Bennett to Alan Carr-Locke; c. letter dated September 24, 1986 from
+David Bennett to Alan Carr-Locke; d. letter dated October 13, 1986 from James R. Eley to Byron
+Roseman, M.D.; e. letter dated October 25, 1986 from Lorraine Hess to Alan Carr-Locke; f. letter
+dated March 30, 1987 from Lorraine Hess to Dick Farrar; g. letter dated April 6, 1987 from Daniel A.
+Wolfe to Diane Richards; h. letter dated April 22, 1987 from James R. Eley to Byron Roseman, M.D.;
+i. letter dated May 22, 1987 from Daniel A. Wolfe to Byron Roseman, M.D. The resolution of whether
+plaintiffs have now complied with Rule 9(b), Fed.R.Civ. P., is governed by the five most recent
+First Circuit cases construing Rule 9(b), Fed.R. Civ.P., i.e. McGinty v. Beranger Volkswagen, Inc.,
+633 F.2d 226, 228 (1 Cir.,1980); Wayne v. Gulf Oil Corp., 739 F.2d 11 (1 Cir.,1984); Simcox v. San
+Juan Shipyard, Inc., 754 F.2d 430 (1 Cir.,1985); Hayduk v. Lanna, 775 F.2d 441 (1 Cir.,1985) and New
+England Data Services, Inc. v. Becher, 829 F.2d 286 (1 Cir.,1987). In McGinty v. Beranger
+Volkswagen, Inc., the Court wrote: The clear weight of authority is that Rule 9 requires
+specification of time, place and content of an alleged false representation but not the
+circumstances or evidence from which fraudulent intent could be inferred, [citations omitted] This
+interpretation of Rule 9 comports with its language, harmonizes the rule with Rule 8, which requires
+that averments in pleadings be concise and direct, and at the same time fulfills a major purpose of
+Rule 9: to give adequate notice of the plaintiff’s claim of fraud or mistake, [citations omitted]
+Id., 633 F.2d at 228-29. In Wayne v. Gulf Oil Corp., the Court added “... that allegations based on
+‘information and belief' do not satisfy the particularity requirement unless the complaint sets
+forth the facts on which the belief is founded ... and that the requirement that supporting facts be
+pleaded applies even when the fraud relates to matters within the knowledge of the opposing party.”
+Id., 739 F.2d at 13-14. In Simcox v. San Juan Shipyard, Inc., the Court noted that the “purpose of
+the rule [9(b) ] is to protect the defendant from unfair surprise and to discourage ‘strike suits.’
+” Id., 754 F.2d at 439. In addition, the Court wrote: Federal Rule of Civil Procedure 8(f) provides
+that “all pleadings shall be construed so as to do substantial justice.” Considered as a whole, we
+find that the facts and circumstances pleaded in the complaint were sufficient to give notice to
+[the defendant] of the nature of the claims against it and find no error in the district court’s
+consideration of fraud, [citation omitted] Id. at 440. In Hayduk v. Lanna, the Court wrote: One of
+the main purposes of [Rule 9(b) ] is to apprise the defendant of fraudulent claims and of the acts
+which form the basis of the claim, [citations omitted] In other words, ‘[i]n cases in which fraud
+lies at the core of the action, the rule does not permit a complainant to file suit first, and
+subsequently to search for a cause of action.’ Lopez v. Bulova Watch Co., Inc., 582 F.Supp. 755, 766
+(D.R.I.1984) (citing Deyhle v. Barclay Investments, Inc., No. 82-0662, slip op. at 4 (D.R.I. Oct.
+13, 1983)) (emphasis added). Id., 775 F.2d at 443. Lastly, in New England Data Services, Inc. v.
+Becher, the Court considered the applicability of Rule 9(b) to predicate acts of mail and wire fraud
+which were pleaded in a RICO claim. The Court held that “Rule 9(b) requires specificity in the
+pleading of RICO mail and wire fraud [and] [t]his degree of specificity is no more nor less than we
+have required in fraud and securities fraud cases.” Id., 829 F.2d at 290 (citations omitted). In so
+holding, the Court wrote that: Generally, there are three purposes behind Rule 9(b)’s particularity
+requirement: (1) to place the defendants on notice and enable them to prepare meaningful responses;
+(2) to preclude the use of a groundless fraud claim as a pretext to discovering a wrong or as a
+“strike suit”; and (3) to safeguard defendants from frivolous charges which might damage their
+reputations, [citations omitted] Id., 829 F.2d at 289. The Court specifically noted that in
+determining whether Rule 9(b) is satisfied, a Court must “keep in mind” these three major purposes
+of Rule 9(b). Applying these principles to the case at bar, it becomes apparent that the Second
+Amended Complaint complies with the provisions of Rule 9(b), Fed.R.Civ.P. Therefore, I RECOMMEND
+that Defendant’s Motion To Dismiss The Amended Complaint (# 29) be deemed to seek dismissal of the
+Second Amended Complaint and that to the extent that the motion seeks dismissal of the Second
+Amended Complaint on the ground that it fails to plead fraud and misrepresentation with the
+requisite degree of particularity, the motion be DENIED. First, all but two of the
+misrepresentations alleged in paragraph 11 (made before the written contract was executed) are
+alleged to have been made at either the “on-site demonstration” or the “off-site demonstration” or
+both. The dates and places of both the “on-site demonstration” and the “off-site demonstration” are
+stated with particularity in paragraph 8. The other two misrepresentations are alleged to have been
+made at “on-site visits.” Since “on-site” refers to the plaintiffs’ business premises, the place of
+the misrepresentations is pleaded with particularity. The time is specified in paragraph 8 as being
+within the three months period from July through September, 1985. In the circumstances, I view this
+as sufficient particularity. Second, each of the alleged misrepresentations made after the written
+contract was signed are alleged to have been made in nine pieces of correspondence which are listed
+by date, sender, and recipient in paragraph 35 of the Second Amended Complaint. This is sufficient
+particularity as to time and place for the purposes of Rule 9(b), Fed.R.Civ.P. Third, I view the
+allegations respecting misrepresentations made both before and after the written contract was
+executed as being sufficient when considering the purposes of Rule 9(b). The allegations give
+sufficient notice of the basis of the allegations of fraud to enable the defendant to prepare a
+meaningful response. In view of the sufficiency of the breach of contract claim which arises out of
+the same set of circumstances, it can hardly be said that the fraud claim is a pretext to
+discovering a wrong or that the fraud claim is being used as a “strike suit.” Roberts v. Smith
+Barney, Harris Upham Co., Inc., 653 F.Supp. 406, 415-16 (D.Mass., 1986). Lastly, the fraud claim
+cannot be labelled as frivolous. Fourth, in view of what I have indicated regarding the sufficiency
+as to time and place of misrepresentations made at on-site and off-site demonstrations and at on-
+site visits and in correspondence, I do not find a violation of Rule 9(b) in the allegations that
+the same misrepresentations were also made in unspecified telephone calls between agents of the
+parties during the specified time periods. Rule 9(b), Fed.R.Civ.P., is to be harmonized with Rule
+8(a)(2), Fed.R.Civ.P., which provides for a “short and plain statement of the claim.” There would be
+no harmony between the two rules if a plaintiff, in order to comply with Rule 9(b), had to list
+every time and place at which a specific misrepresentation was repeated. Lastly, I do not see a
+violation of Rule 9(b) in the failure of the plaintiff to identify the specific agent of the
+defendant who made each misrepresentation. Although other courts have construed Rule 9(b) as
+requiring an identification of the maker of the misrepresentation, none of the First Circuit cases
+indicate that such identification is a prerequisite to compliance with Rule 9(b); all that is
+required is a specification of time, place and content. To be sure, I can envisage some
+circumstances in which an identification might well be required. For example, if a complaint alleged
+only a single misrepresentation by an agent of a defendant and specified the time, place and content
+but not the identity of the agent, it could well be argued that the defendant-corporation would need
+further specification in order to make a meaningful response to the claim. But the circumstances of
+the instant case are different. There appears to have been an extended period of dealings between
+the parties culminating in a written contract which both sides acknowledge as having executed. I
+cannot see how a specification of the identity of the defendant’s agents who allegedly made the
+misrepresentations is necessary in order for the defendant to understand the basis of the fraud
+claim and to be able to respond to it.
 
 

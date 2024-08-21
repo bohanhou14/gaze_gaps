@@ -1,142 +1,273 @@
 **gold_text:**
-The amendment to Rule 25(a) (1) was intended to dispel unwarranted rigidity and allow more
-flexibility in substitution. “It was intended that liberal effect be given to the 1963 amendment.”
-Roscoe v. Roscoe, 126 U.S.App.D.C. 317, 322, 379 F.2d 94, 99 (1967). “[T]he 90 day period was not
-intended to act as a bar to otherwise meritorious actions.” Staggers v. Otto Gerdau Co., 359 F.2d
-292, 296 (2d Cir. 1966).
+The Administrative Procedure Act does not waive sovereign immunity in an action involving the
+Secretary of Interior. Twin Cities Chippewa Tribal Council v. Minnesota Chippewa Tribe, 370 F.2d
+529, 532 (8th Cir. 1967). See also: State of Washington v. Udall, 417 F.2d 1310, 1320 (9th Cir.
+1969); Motah v. United States, 402 F.2d 1 (10th Cir. 1968); Cotter Corp. v. Seaborg, 370 F.2d 686
+(10th Cir. 1966); Chournos v. United States, 335 F.2d 918 (10th Cir. 1964); Cyrus v. United States,
+226 F.2d 416 (1st Cir. 1955); Coalition for United Community Action v. Romney, 316 F.Supp. 742
+(N.D.Ill.1970).
 
 **Generations:**
 
 
 ***GPT-4o:***
-This stringent interpretation contrasts sharply with the intent of the 1963 amendments to Rule 25
-and Rule 6(b), which aimed to inject flexibility and fairness into the substitution process. As
-noted in 379 F.2d 94 and 359 F.2d 292, the amendments were designed to eliminate the inequities and
-hardships caused by the rigid two-year limitation originally imposed. The Advisory Committee
-emphasized that the revised rules were to be liberally construed to allow courts discretion in
-extending the substitution period, recognizing the difficulties that could arise in promptly
-identifying and notifying the proper representative of the deceased.   Given this context, the
-defendant’s counsel's suggestion of death, which lacked identification of a proper representative,
-failed to initiate the 90-day countdown. This interpretation aligns with the judicial precedent that
-courts should prioritize the equitable administration of justice over strict procedural formalities.
-Thus, the district court erred in dismissing the plaintiffs' action without granting the requested
-extension, especially considering the circumstances that inhibited timely substitution, such as the
-injury to plaintiffs' counsel and the ongoing legal processes in the probate court.  We, therefore,
-reverse the judgment and remand for further proceedings consistent with this opinion, ensuring that
-the substitution process adheres to the flexible and just principles intended by the amendments to
-the Federal Rules of Civil Procedure.
+Based on the foregoing, it is clear that the plaintiffs' claims against the Secretary of the
+Interior and the involved utilities are barred by the doctrine of sovereign immunity. The precedent
+cases reinforce this position. For instance, Larson v. Domestic & Foreign Commerce Corp.
+unequivocally holds that the relief sought when addressing the sovereign is fundamentally relief
+against the sovereign itself (Larson, 337 U.S. at 689). Furthermore, the Administrative Procedure
+Act does not confer jurisdiction where agency actions are discretionary (370 F.2d 529), and actions
+committed to agency discretion by law are not subject to judicial review (417 F.2d 1310). The
+inconsistency of attempting to litigate exchanges made by the Secretary of the Interior without
+Congress's consent is further supported by Chournos v. United States (335 F.2d 918) and Ove
+Gustavsson Contr. Co. v. Floete (278 F.2d 912), which both reject using the APA to overcome
+sovereign immunity.  Thus, the motions to dismiss by the Secretary and the utility companies were
+appropriately granted based on sovereign immunity and the non-reviewability of the Secretary's
+discretionary actions under the APA. The District Court's decision is hereby affirmed, aligning with
+the established legal precedents as aforementioned.  We affirm the District Court's dismissal of the
+amended complaint.
 
 
 **Label:** 
 
 
 ***Meta-Llama-3-8B-Instruct:***
-  In the context of Rule 25(a) (1) of the Federal Rules of Civil Procedure, the suggestion of death
-is a crucial step in the process of substituting a deceased party with a proper representative.
-However, not all suggestions of death are created equal. In cases where the suggestion of death is
-made by a party's attorney, but fails to identify a successor or representative of the deceased, the
-90-day period for substitution may not be triggered.  As noted in 359 F.2d 292, the Advisory
-Committee on Civil Rules intended to provide a more flexible standard for substitution, allowing for
-extensions of time and dispensing with the rigid two-year period previously in place. However, this
-flexibility is contingent upon the suggestion of death providing sufficient information to permit
-the court to proceed with substitution.  In the present case, the suggestion of death made by the
-defendant's attorney was deficient in that it failed to identify a successor or representative of
-the deceased. This lack of specificity rendered the suggestion ineffective in triggering the 90-day
-period for substitution, as explained in 379 F.2d 94.  Furthermore, the court's discretion to
-enlarge the time period for substitution, as provided by Rule 6(b), is not a blank check. Rather, it
-is intended to be exercised in a judicious and reasonable manner, taking into account the particular
-circumstances of each case.  In light of these principles, we conclude that the district court erred
-in dismissing the action with prejudice. The case should be remanded for further proceedings,
-allowing the parties to properly substitute a representative of the deceased and continue the action
-in a manner consistent with the Federal Rules of Civil Procedure.
+  The case at hand, Sierra Club and Citizens for Clean Air and Water v. United States, et al.,
+concerns the validity of a land exchange between the United States and two public utility companies,
+Toledo Edison Company and Cleveland Electric Illuminating Co. The plaintiffs argue that the exchange
+was improper and unauthorized, and seek a declaration that it is void and must be set aside as a
+nullity.  The defendants, including the Secretary of the Interior, move to dismiss the complaint on
+the grounds of sovereign immunity and lack of jurisdiction. The court agrees with the defendants,
+citing Larson v. Domestic & Foreign Commerce Corp., 337 U.S. 682 (1949), which holds that a court
+lacks jurisdiction to declare the validity of a transaction involving the sovereign.  The court also
+notes that the Administrative Procedure Act (APA) does not apply to this case, as the exchange was
+committed to the discretion of the Secretary of the Interior by law. Furthermore, the court rejects
+the plaintiffs' argument that the Secretary's decision was arbitrary and capricious, citing the
+principle that an officer's decision is not invalid merely because it is incorrect, as long as it is
+within the scope of their statutory authority. See Ogletree v. McNamara, 449 F.2d 93 (6th Cir.
+1971).  The court also references other cases, such as Hawaii v. Gordon, 373 U.S. 57 (1963), and
+Dugan v. Rank, 372 U.S. 609 (1956), which support the principle of sovereign immunity. Additionally,
+the court notes that the relief requested by the plaintiffs cannot be granted by merely ordering the
+cessation of the conduct complained of, but will require affirmative action by the sovereign or the
+disposition of unquestionably sovereign property, citing Larson v. Domestic & Foreign Commerce
+Corp., supra.  In conclusion, the court dismisses the complaint, holding that it lacks jurisdiction
+to declare the validity of the land exchange and that the relief requested by the plaintiffs cannot
+be granted. The court's decision is supported by the principles of sovereign immunity and the
+Administrative Procedure Act. See also 370 F.2d 529, 417 F.2d 1310, 370 F.2d 686, 226 F.2d 416.
 
 
 **Label:** 
 
 
-**citations:** ['379 F.2d 94', '359 F.2d 292']
+**citations:** ['370 F.2d 529', '417 F.2d 1310', '370 F.2d 686', '226 F.2d 416']
 
-***short_citations_0:*** 379 F.2d 94
+***short_citations_0:*** 370 F.2d 529
 
-the proper parties. * * * Unless the motion for substitution is made not later than 90 days after the death is suggested upon the record by service of a statement of the fact of the death as provided herein for the service of the motion, the action shall be dismissed as to the deceased party.” Here not only had the 90-day period not expired when the court entered summary judgment, the appellant by her motion for reconsideration had specifically invoked the discretion of the court. Rule 6(b) provides pertinently that when “by these rules * * * an act is required or allowed to be done at or within a specified time, the court for cause shown may at any time in its discretion (1) with or without motion or notice order the period enlarged if request therefor is made before the expiration of the period originally prescribed * * Originally the Rule had precluded an extension of time for taking action under Rule 25(a) (1), but by purposeful amendment, it was sought to relieve against the hardship of the Court’s holding in Anderson v. Yungkau, 329 U.S. 482, 67 S.Ct. 428, 91 L.Ed. 436 (1947). It was intended that liberal effect be given to the 1963 amendment. Graham v. Pennsylvania Railroad, 119 U.S.App.D.C. 335, 342 F.2d 914 (1964), cert. denied, 381 U.S. 904, 85 S.Ct. 1446, 14 L.Ed.2d 286 (1965). We are constrained to reverse for further proceedings not inconsistent with this opinion. Reversed. The only “party” then
+assertedly found in 25 U.S.C.A. § 476, 25 F.C.A. § 476, which provides in part as follows: “Amendments to the constitution and bylaws may be ratified and approved by the Secretary * * (Emphasis supplied.) This reliance on § 10 of the Administrative Procedure Act to establish jurisdiction below is misplaced. Section 10 of the Act does not confer jurisdiction upon the federal courts. Its purpose is to define the procedures and manner of judicial review of agency action rather than confer jurisdiction. Ove Gustavsson Contr. Co. v. Floete, 278 F.2d 912, 914 (2nd Cir. 1960); Barnes v. United States, supra. Additionally, § 10 does not in itself amount to congressional consent to a suit against defendants, whose right to assert the defense of sovereign immunity is discussed above. Chournos v. United States, 335 F.2d 918 (10th Cir. 1964). Also, the “agency action” complained of here is discretionary, thus expressly beyond the purview of § 10 of the Act. The Secretary may (as opposed to shall or must) ratify and approve amendments to the tribal constitution and bylaws. Such discretionary action is not subject to review. See Hamel v. Nelson, 226 F.Supp. 96 (N.D.Cal.1963) and cases cited therein. Lastly, plaintiffs assert that defendants’ actions have deprived plaintiffs of rights guaranteed by the Due Process Clause of the Fourteenth Amendment to the Constitution of the United States. This argument ignores one of the most basic tenets of American constitutional law. The guarantees of the Due Process Clause relate solely to action
 
-***short_citations_1:*** 359 F.2d 292
+***short_citations_1:*** 417 F.2d 1310
 
-insertion of a “reasonable time” standard. In 1963, the Advisory Committee suggested the present rule and noted: “Present Rule 25(a) (1), together with present Rule 6(b), results in an inflexible requirement that an action be dismissed as to a deceased party if substitution is not carried out within a fixed period measured from the time of the death. The hardships and inequities of this unyielding requirement plainly appear from the cases. * * * The amended rulé establishes a time limit for the motion to substitute based not upon the time of the death, but rather upon the time information of the death is provided by means of a suggestion of death upon the record, i. e. service of a statement of the fact of the death.” See Notes of Advisory Committee on the Civil Rules, 28 U.S.C. Rule 25 (1964). Rule 6(b) of the Federal Rules of Civil Procedure was also amended in 1963 and the prohibition against extending the time for taking action under Rule 25 was eliminated. The Advisory Committee on the Civil Rules noted: “It is intended that the court shall have discretion to enlarge that period.” The amendments of Rules 6(b) and 25(a) (1) provided needed flexibility. It was assumed that discretionary extensions would be liberally granted. Movants under Rule 25 can ordinarily control when a death is “suggested upon the record” and appellants’ attorney was under no obligation to file his affidavit of Staggers’ death on the date he did. He could have filed
+action from review “to the extent that — (1) statutes preclude judicial review; or (2) agency action is committed to agency discretion by law.” We have found no statute purporting to prohibit judicial review of the actions of the Secretary of the Interior in a case such as this. Furthermore, since the immunity doctrine does not preclude this suit, agency action is not committed to agency discretion “by law.” We therefore conclude that the District Court had the power of review prescribed by Congress in §§ 702-706. While we hold that the Secretary’s challenged action in this case is subject to judicial review under the Administrative Procedure Act, we strongly emphasize our opinion that such review is not available on the theory that the Act constitutes a consent of the United States to all suits of whatever nature and, as such, a blanket waiver of sovereign immunity. In any case wherein the immunity doctrine is so transcending as to require dismissal of the suit, the Act does not provide for Administrative Review. The Supreme Court has not found jurisdiction under the Administrative Procedure Act in cases wherein the actions of the Secretary of the Interior have been held to be shielded from judicial review by sovereign immunity. See City of Fresno v. California, supra, 372 U.S. 627, 83 S.Ct. 99, 6, 10 L.Ed.2d 28; Dugan v. Rank, supra, 372 U.S. 609, 83 S.Ct. 999, 10 L.Ed.2d 15. See also Blackmar v. Guerre, 342 U.S. 512, 515-516, 72 S.Ct. 410, 412,
+
+***short_citations_2:*** 370 F.2d 686
+
+Lockers, Inc., 10 Cir., 346 F.2d 168; Chournos, et al. v. United States, et al., 10 Cir., 335 F.2d 918; State of New Mexico, et al. v. Backer, et al., 10 Cir., 199 F.2d 426. . Appellants have relied upon 28 U.S.C. § 1331 as giving the court jurisdiction to hear this suit but that statute does not waive the sovereign’s immunity. See Anderson v. United States, 5 Cir., 229 F. 2d 675. And since the court has no jurisdiction to hear this unconsented suit, the Administrative Procedure Act, relied upon by appellants to give them standing, does not improve their position. See Chournos, et al. v. United States, et al., 10 Cir., 335 F.2d 918.
+
+***short_citations_3:*** 226 F.2d 416
+
+be sued in this manner. Cf. Hospoder v. United States, 3 Cir., 1953, 209 F.2d 427. The Administrative Procedure Act, 60 Stat. 237, 5 U.S.C.A. § 1001 et seq., has nothing to do with this case. It contains no provisions purporting to deal with the subject of governmental immunity. The general language in § 10 of that Act cannot be deemed to be “an implied waiver of all governmental immunity from suit.” Blackmar v. Guerre, 1952, 342 U.S. 512, 516, 72 S.Ct. 410, 412, 96 L.Ed. 534. For an understanding of the scheme laid down by Congress for the processing of claims for indemnity under the various acts providing for governmental life insurance to members of the Armed Forces and veterans, it is sufficient to begin with the World War Veterans’ Act of 1924, 43 Stat. 607, which was an act to consolidate and revise the laws affecting the establishment of the United States Veterans’ Bureau, the administration of the War Risk Insurance Act, as amended, enacted during World War I, and the Vocational Rehabilitation Act, as amended. Section 19 of this World War Veterans’ Act provided, 43 Stat. 612: “that in the event of disagreement as to claim under a contract of insurance between the bureau [i. e., the United States Veterans’ Bureau, now the Veterans’ Administration] and any beneficiary or beneficiaries thereunder an action on the claim may be brought against the United States either in the Supreme Court of the District of Columbia or in the district
 
 **prev_text:**
-LEVENTHAL, Circuit Judge: The District Court held that Rule 25(a) (1) of the Federal Rules of Civil
-Procedure required dismissal of the plaintiffs’ tort action because defendant’s counsel had filed a
-suggestion of death of the defendant yet plaintiff had not made any substitution of parties within
-90 days. We reverse on the ground that the suggestion of death, which was neither filed by nor
-identified a successor or representative of the deceased, such as an executor or administrator, was
-ineffective to trigger the running of the 90-day period provided by the Rule. Mr. and Mrs. John
-Rende filed an action in the District Court individually and on behalf of their infant son who had
-been struck and injured by Alfred S. Kay while driving his car. On August 27, 1967, defendant Kay
-died. On September 1, 1967, the defendant’s attorney, a term used here to identify the lawyer who
-had been retained by deceased to defend the action, and who had duly entered an appearance as
-attorney for defendant, filed a suggestion of death in the District Court, giving notice to
-plaintiffs’ attorney. That same day there was filed in the Orphans Court for Montgomery County,
-Maryland, residence of the deceased, his will naming his widow as executrix, but the will had not
-been probated, nor any legal representative appointed for the estate at the time of the filing of
-this appeal. Plaintiffs’ attorney was injured on October 14, 1967. On returning to practice early in
-1968, he learned that no successor to defendant Kay had yet been appointed, and he moved to certify
-the case to the ready calendar. The defendant’s attorney opposed this on grounds that discovery
-procedures had not been completed. The case was delayed and placed on the ready calendar as of June
-7, 1968. However, in April 1968, the defendant’s attorney moved in his own name to dismiss the
-action on the ground that Rule 25(a) (1) required plaintiffs to move to substitute a proper party
-for the deceased within 90 days of the suggestion of death. Plaintiffs filed an opposition and
-motion for substitution of the proper party, and sought an extension of the time for substitution as
-allowed by Rule 6(b). At argument, plaintiffs’ counsel asserted the “suggestion of death was
-defective in that it did not list the name of the proper party; that is the legal representative of
-the defendant.” The court responded: “That would not be his burden.” The court dismissed the action
-with prejudice. Prior to its amendment in 1963, Rule 25(a) (1) required the court to dismiss a case
-if no motion for substitution was filed within two. years after date of death, and no extensions of
-this period were allowed under Rule 6(b). The rule was rigorously applied, often with harsh results,
-and was called “easily the poorest rule of all the Federal Rules.” In 1955 the Advisory Committee on
-Rules for Civil Procedure recommended that the two-year period be changed to a “reasonable time”
-standard. In 1961 the Advisory Committee on Civil Rules again suggested the Rule be made more
-flexible. In 1963 the Supreme Court made changes in Rule 25(a) (1) and in Rule 6(b) so as to provide
-a 90-day time limit from the filing of a suggestion of death, and to give the court discretion to
-extend that time. The Committee Notes explaining the amendments state: Present Rule 25(a) (1),
-together with present Rule 6(b), results in an inflexible requirement that an action be dismissed as
-to a deceased party if substitution is not carried out within a fixed period measured from the time
-of death. The hardships and inequities of this unyielding requirement plainly appear from the cases.
-* * * The amended rule establishes a time limit for the motion to substitute based not upon the time
-of the death, but rather upon the time information of the death is provided by means of a suggestion
-of death upon the record. * * * A motion to substitute may be made by any party or by the
-representative of the deceased party without awaiting the suggestion of death. Indeed, the motion
-will usually be so made. If a party or the representative of the deceased party desires to limit the
-time within which another may make the motion, he may do so by suggesting the death upon the record.
-(Emphasis added.) Under the amended Rule either a party or “the successors or representatives of the
-deceased party” may avoid delay in effecting substitution for the deceased party either by filing a
-motion for substitution or by suggesting death on the record and thus triggering the 90-day period
-which begins with suggestion of death. The Advisory Committee, in outlining that suggestion of death
-could be made by “the representative of the deceased party” plainly contemplated that the suggestion
-emanating from the side of the deceased would identify a representative of the estate, such as an
-executor or administrator, who could be substituted for the deceased as a party, with the action
-continued in the name of the representative. The addition of “successor” in the Rule would take care
-of the case of, say, the distributee of an estate that had been distributed, but would not make a
-material difference in the aspect under consideration. Form 30, for suggestion of death, which was
-provided in order to expedite and facilitate implementation of the amendment, provides: A.B.
-[described as a party, or as executor, administrator, or other representative or successor of C.D.,
-the deceased party\ suggests upon the record, pursuant to Rule 25(a) (1), the death of C.D.
-[describe as party] during the pendency of this action. Added Jan. 21, 1963, eff. July 1, 1963.
-[Emphasis added.] Although the attorney for the defendant was retained to “represent” the deceased
-as his counsel, he is not a person who could be made a party, and is not a “representative of the
-deceased party” in the sense contemplated by Rule 25(a) d). In our opinion the Rule, as amended,
-cannot fairly be construed, as the de fendant’s attorney argues, to make his suggestion of death
-operative to trigger the 90-day period even though he was neither a successor nor representative of
-the deceased, and gave no indication of what person was available to be named in substitution as a
-representative of the deceased. Counsel’s construction would open the door to a tactical maneuver to
-place upon the plaintiff the burden of locating the representative of the estate within 90 days. We
-can conceive of cases wherein even the lawyer retained to represent a defendant might know the
-defendant had died, yet not readily know where his estate would be administered. In the present
-case, plaintiff’s attorney did know the court of probate, but he did not know whether probate of the
-will might be contested, or who would be appointed representative of the estate. The tactic of the
-defendant’s attorney would place on plaintiff the burden, where no conventional representative was
-appointed for the estate in probate court, of instituting machinery in order to produce some
-representative of the estate ad litem, pending appointment of the representative contemplated by law
-of the domicile of the deceased.
+WEICK, Circuit Judge. Sierra Club and Citizens for Clean Air and Water filed their complaint in the
+District Court for declaratory judgment, restraining order and equitable relief in which they sought
+to nullify a completed exchange of lands between the Secretary of Interior and two public utility
+companies (Toledo Edison Company and Cleveland Electric Illuminating Co., C.E.I.), made two years
+previously, claiming that the exchange agreement was improper and unauthorized and in derogation of
+the Secretary’s statutory duties and void. They further sought to enjoin the Director of the Atomic
+Energy Commission and the Commission from holding hearings for the issuance of a construction permit
+and to revoke the previous construction exemption granted by the Commission. They further sought a
+declaration that the exchange of lands violated a treaty with Mexico known as the “Convention
+Between the United States of America and Mexico for the Protection of Migratory Birds and Game
+Mammals” and a declaration that 16 U.S.C. § 668dd, under which statute the exchange was made, was
+unconstitutional. Motions to dismiss were filed by the Secretary and the two utility companies and
+were submitted to District Judge Green. In a memorandum opinion and order, Judge Green held that
+plaintiffs had standing to sue but granted the motions to dismiss on the grounds of sovereign
+immunity and that agency action, committed by law to agency discretion, was not reviewable by the
+courts. Plaintiffs then filed an amended complaint which was a radical departure from their original
+complaint. The amended complaint contained only one cause of action whereas the original complaint
+had set forth four. This amended complaint sought only to declare that the transfer of title from
+the United States to the two public utilities “was and is an arbitrary and capricious act and
+constitutes an abuse of discretion. Plaintiffs pray that this Court implement said declaration by
+issuing an order directing defendants Toledo Edison and C.E.I. to return title to the Navarre Marsh
+to the United States.” It is significant that plaintiffs did not ask that the United States be
+ordered to return to the utilities the title to the land which the Government received from them in
+the exchange. This omission, obviously, was not an oversight on the part of the plaintiffs but a
+clear recognition on their part of the salutary rule that no court has jurisdiction to divest title
+of the United States to sovereign property. Larson v. Domestic & Foreign Commerce Corp., 337 U.S.
+682, 69 S.Ct. 1457, 93 L.Ed. 1628 (1949), rehearing denied, 338 U.S. 840, 70 S.Ct. 31, 94 L.Ed. 514
+(1949). The position of the plaintiffs, if adopted by the Court, would leave the two utilities in a
+very precarious position, losing the land which they acquired by exchange and also the Darby Marsh
+which they conveyed to the Government. Plaintiffs, however, in their brief suggest that the
+utilities may not be entirely without any remedy as they might sue the United States in the Court of
+Claims for damages for confiscating their property. This is a hollow remedy as the utilities should
+be entitled to the return of their property as a matter of right if the exchange is rescinded. The
+Secretary and the utilities filed a motion to dismiss the amended complaint which was submitted to
+District Judge William K. Thomas under the individual calendar system. Judge Thomas considered the
+matter and in a Memorandum Opinion and Order granted the motions to dismiss on the same grounds as
+were relied on by District Judge Green. The plaintiffs have appealed. The defendants cross-appealed
+raising the issue of standing. We affirm. I The Exchange of Lands The two utilities which serve
+northern Ohio with electric power are co-developers of the Davis-Besse Nuclear Power Station.
+Initially, and prior to 1968, they had secured an option on and later acquired the legal title to a
+480-acre tract of land in Ottawa County, Ohio, abutting on Lake Erie, and known as Darby Marsh. The
+United States owned a tract of land in the same county bordering on the lake and consisting of about
+455 acres of marshland and 77 acres in a corner most of,which was upland. It was known as the
+Navarre Marsh and is located farther away from Port Clinton, Ohio, than Darby Marsh. The United
+States, acting through its Department of Interior, Fish' and Wildlife Service, Bureau of Sport
+Fisheries and Wildlife, entered into a written agreement with the utilities to exchange the Navarre
+Marsh for the Darby Marsh. As part of the consideration, the utilities agreed to lease back to the
+United States, rent free for fifty years, about 455 acres (except strips for water canals) and
+another similar lease for twenty-five years of adjacent lands for a wildlife refuge subject to
+certain reserved rights. The utilities further agreed to spend up to $175,000 to rebuild 3200 feet
+of dikes on the Darby Marsh; maintain dikes on the north and south sides of the Navarre Marsh, and
+install three electric pumps on the Navarre Marsh to maintain proper water levels. The exchange was
+completed on October 3, 1968, when the utilities conveyed the Darby Marsh to the United States and
+the Government conveyed Navarre Marsh to the utilities. Upon completion of the exchange, the United
+States had a wildlife refuge of twice the number of acres it originally had (less the strips for
+canals and reserved rights) and, in addition, the improvements and benefits above related. II The
+Authority of the Secretary of Interior In making the exchange, the Secretary acted under the
+authority of 16 U.S.C. § 668dd(b) (3) which provides as follows: “(b) In administering the System,
+the Secretary is authorized— (3) to acquire lands or interests therein by exchange (a) for acquired
+lands or public lands under his juris diction which he finds suitable for disposition, or (b) for
+the right to remove, in accordance with such terms and conditions as the Secretary may prescribe,
+products from the acquired or public lands within the System. The values of the properties so
+exchanged either shall be approximately equal, or if they are not approximately equal the values
+shall be equalized by the payment of cash to the grantor or to the Secretary as the circumstances
+require.” It will be noted, as plaintiffs agree, that the statute confers broad discretion on the
+Secretary in the exchange of lands. No conditions relating to the environment were imposed in the
+statute. This is made clear by § 668dd(a) which provides: “(a) . . . No acquired lands which are or
+become a part of the System may be transferred or otherwise disposed of under any provision of law
+(except by exchange pursuant to subsection (b)(3) of this section) unless (1) the Secretary of the
+Interior determines after consultation with the Migratory Bird Conservation Commission that such
+lands are no longer needed for the purposes for which the System was established, and (2) such lands
+are transferred or otherwise disposed of for an amount not less than (A) the acquisition costs of
+such lands, in the case of lands of the System which were purchased by the United States with funds
+from the migratory bird conservation fund, or (B) the fair market value of such lands (as determined
+by the Secretary of the date of the transfer or disposal), in the case of lands of the System which
+were donated to the System. The Secretary shall pay into the migratory bird conservation fund the
+aggregate amount of the proceeds of any transfer or disposal referred to in the preceding sentence.”
+(Italics added) Plaintiffs contend that the Secretary violated 16 U.S.C. §§ 701, 715a, 715i,
+742a(3), 742b(c). Sections 715 and 715i apply only to lands for purchase or rent under §§ 715-715d,
+715e, 715f-715k and 715Z-715r. The remaining sections, namely, 16 U.S.C. §§ 701, 742a(3) and 742b
+set forth the goals of the Department of Interior under the Migratory Game and Insectivorous Bird
+Chapter of Title 16. They contain no limitation on the Secretaries’ authority in the exchange of
+lands. The Administrative Procedure Act (APA) 5 U.S.C. § 701 et seq., relied on by plaintiffs,
+expressly excepts its application to the extent that “agency action is committed to agency
+discretion by law” 5 U.S.C. § 701(a)(2). Since, as we have pointed out, the Secretary had discretion
+to determine whether he should enter into the agreement for the exchange of the lands, his action in
+so doing is not reviewable by the courts. Panama Canal Co. v. Grace Line, Inc., 356 U.S. 309, 78
+S.Ct. 752, 2 L.Ed.2d 788 (1958); United States v. Walker, 409 F.2d 477 (9th Cir. 1969); Knight
+Newspapers, Inc. v. United States, 395 F.2d 353 (6th Cir. 1968); Ferry v. Udall, 336 F.2d 706 (9th
+Cir. 1964), cert. denied, 381 U.S. 904, 85 S.Ct. 1449, 14 L.Ed.2d 286 (1965.) Ill Sovereign Immunity
+The Supreme Court made it clear that in a case of this type the crucial question “is whether the
+relief sought in a suit nominally addressed to the officer is relief against the sovereign.” Larson
+v. Domestic & Foreign Commerce Corp., supra. This is very easy to determine in the present case
+where the plaintiffs are attacking the validity of a completed exchange of lands between the
+sovereign and private persons. Their claim that, since filing their amended complaint, they are not
+now asking for any relief against United States property is transparent. District Judge Thomas in
+his Memorandum properly characterized it as follows: “Thus plaintiffs seek to circumvent Judge
+Green’s conclusion, in dismissing the original complaint, that The relief sought is a declaration
+that the land exchange is void and must be set aside as a nullity. The effect of such a decree would
+be to restore title to the lands involved to where they stood prior to the exchange. Plaintiffs
+argue that Whatever claim the utilities might have as the result of the granting of the relief which
+plaintiffs have requested, could certainly be protected either by a cross-claim or a later action in
+the Court of Claims. Manifestly, if the doctrine of sovereign immunity denies the jurisdiction of
+this court to declare the exchange agreement a nullity then this court also lacks jurisdiction to
+entertain a cross claim by the utilities seeking restoration of Darby Marsh from the Government, a
+disposition of ‘unquestionably sovereign property,’ Larson, supra at 619 [691] n. 11 [69 S.Ct. at
+1462]. Invoking the equitable powers of this court plaintiffs ask for an order ‘directing defendants
+Toledo Edison and CEI to return title of Navarre Marsh to the United States.’ This court would not
+grant this request for equitable relief without simultaneously ordering the Government to return
+Darby Marsh to the utilities. A decree in equity ‘should completely determine the controversy before
+the court,’ Stonega Coke & Coal Co. v. Price, 116 F.2d 618, 621 (4th Cir. 1940). Partial or
+incomplete decrees should not be entered, 27 Am.Jur.2d Equity § 108 (1966). In more graphic
+language, ‘equity delights to do justice, and that not by halves,’ 30 C.J.S. Equity § 104 (1965).
+Thus the equitable relief now sought, as before, involves ‘the disposition of unquestionably
+sovereign property’ and is barred by the doctrine of sovereign immunity as set forth in Larson,
+supra at 691 n. 11 [69 S.Ct. at 1462].” Certainly if the United States were seeking to rescind the
+exchange of lands (which it is not) a court of equity, in granting such relief, would restore the
+parties to status quo. The Court would not require the filing of a cross-claim or a suit for damages
+in the Court of Claims in order to do equity and justice to the parties. The Government has not
+appropriated or confiscated property of the utilities and they would have no basis for filing either
+a cross-claim in this action or a damage suit in the Court of Claims. Here both the United States
+and the utilities are adhering to their contract. Since the United States could not rescind the
+exchange without restoring the utilities to status quo, it hardly seems necessary to point out that
+a stranger to the transaction stands in no better position. We assume that plaintiffs made the
+Secretary of the Interior a party defendant to this action for a definite purpose, namely, to bind
+him as well as the United States by any decree of the Court. The plaintiffs are asking the Court to
+declare “that the transfer of title to Navarre Marsh was and is an arbitrary and capricious act and
+constitutes an abuse of discretion. Plaintiffs further pray that this Court implement said
+declaration by issuing an order directing defendants Toledo Edison and CEI to return title of
+Navarre Marsh to the United States.” As District Judge Thomas so aptly pointed out, the Court would
+hot issue such an order without restoring title to Darby Marsh in the utilities. Stevens v. McCoy,
+60 Ohio St. 540, 54 N.E. 517 (1899); 21 O.Jur.2d, Exchange of Property, § 8; 30 Am.Jur.2nd, Exchange
+of Property § 41. Equitable principles apply to the Government as well as to private individuals
+except when limited by statutory provisions. United States v. Detroit Timber & Lumber Co., 200 U.S.
+321, 26 S.Ct. 282, 50 L.Ed. 499 (1906); Jacobs v. United States, 239 F.2d 459 (4th Cir. 1956), cert.
+denied, 353 U.S. 904, 77 S.Ct. 666, 1 L.Ed.2d 666 (1957). In Larson v. Domestic & Foreign Commerce
+Corp., supra, the Court said: “The request for an adjudication of the validity of the sale was thus,
+even in form, a request for an adjudication against the sovereign. Such a declaration of the rights
+of the respondent vis-á-vis the United States would clearly have been beyond the court’s
+jurisdiction.” Id. p. 689 fn. 9, 69 S.Ct. p. 1461. It was argued that the action of the Secretary is
+invalid because it was based on an incorrect decision as to both law and fact. This argument was
+effectively answered in Larson, where the Court said: “It is argued that an officer given the power
+to make decisions is only given the power to make correct decisions. If his decisions are not
+correct, then his action based on those decisions is beyond his authority and not the action of the
+sovereign. There is no warrant for such a contention in cases in which the decision made by the
+officer does not relate to the terms of his statutory authority. Certainly the jurisdiction of a
+court to decide a case does not disappear if its decision on the merits is wrong. And we have
+heretofore rejected the argument that official action is invalid if based on an incorrect decision
+as to law or fact, if the officer making the decision was empowered to do so. Adams v. Nagle, 1938,
+303 U.S. 532, 542, 58 S.Ct. 687, 692, 82 L.Ed. 999. We therefore reject the contention here. We hold
+that if the actions of an officer do not conflict with the terms of his valid statutory authority,
+then they are the actions of the sovereign, whether or not they are tortious under general law, if
+they would be regarded as the actions of a private principal under the normal rules of agency. A
+Government officer is not thereby necessarily immunized from liability, if his action is such that a
+liability would be imposed by the general law of torts. But the action itself cannot be enjoined or
+directed, since it is also the action of the sovereign.” (Italics ours) The Court further stated (at
+page 704, 69 S.Ct. at page 1468): “As was early recognized, ‘the interference of the Courts with the
+performance of the ordinary duties of the executive departments of the government, would be
+productive of nothing but mischief. . . . ’” Other cases following and applying the rule in Larson
+v. Domestic & Foreign Commerce Corp., supra, are: Hawaii v. Gordon, 373 U.S. 57, 83 S.Ct. 1052, 10
+L.Ed.2d 191 (1963); Dugan v. Rank, 372 U.S. 609, 83 S.Ct. 999, 10 L.Ed.2d 15 (1956); Malone v.
+Bowdoin, 369 U.S. 643, 82 S.Ct. 980, 8 L.Ed.2d 168 (1962); See also Adams v. Nagle, 303 U.S. 532,
+542, 58 S.Ct. 687, 82 L.Ed. 999 (1938). In Ogletree v. McNamara, 449 F.2d 93 (6th Cir. 1971), in
+referring to sovereign immunity, we said: “Perhaps the minimum statement of that doctrine is that
+litigation must not be allowed to stop government in its tracks. Larson v. Domestic & Foreign
+Commerce Corp., 337 U.S. 682, 704, 69 S.Ct. 1457, 93 L.Ed. 1628 (1949). In this regard the effect of
+the action upon the sovereign rather than its form is controlling. The fact that the defendants are
+all named as individuals does not change the result.” (Citing authority.) One thing is certain and
+that is that if a third person is allowed to litigate the validity of exchanges of land made by the
+Secretary of Interior, whenever he believes that the Secretary acted improperly, there will be no
+more exchanges and the action of Congress providing for them will be frustrated. In Sergeant v.
+Fudge, 238 F.2d 916 (6th Cir. 1956), we held that a litigant could not enjoin a decision by the
+Postmaster General to discontinue a post of fice. Similarly, in Manhattan-Bronx Postal Union v.
+Gronouski, 121 U.S.App.D.C. 321, 350 F.2d 451, 455 (1965), cert. den. 382 U.S. 978, 86 S.Ct. 548, 15
+L.Ed.2d 469, the Postmaster General’s refusal to recognize the Postal Union was held not to be
+reviewable by the courts notwithstanding the claim that the decision was “unlawful, arbitrary and
+capricious” and “ ‘in violation of’ Executive Order No. 10988.” The Court said: “The short of
+appellants’ case is that appellee has misconstrued the President’s instructions, and the law is
+clear that an officer of the United States does not act outside his authority whenever he acts upon
+an erroneous decision of law or fact, if he is empowered to make the decision. See Larson v.
+Domestic and Foreign Commerce Corp., supra, 337 U.S. at 695, 703, 69 S.Ct. 1457; Arizona ex rel.
+Arizona State Bd. of Public Welfare v. Hobby, 94 U.S.App.D.C. 170, 221 F.2d 498 (1954); Seiden v.
+Larson, supra, 88 U.S.App.D.C. [258] at 263, 188 F.2d [661] at 666.” There is no question but that
+the Secretary of Interior was empowered by § 668dd(b)(3) to make the exchange. Furthermore, it
+should be pointed out that “the relief requested cannot be granted by merely ordering the cessation
+of the conduct complained of but will require affirmative action by the sovereign or the disposition
+of unquestionably sovereign property.” Larson v. Domestic & Foreign Commerce Corp., supra, fn. 11 at
+691 of 337 U.S., at 1462 of 69 S.Ct. Here the United States and the two utilities have owned,
+possessed and used for more than two years the lands which they respectively acquired by deeds of
+conveyance in the exchange. The District Court has no jurisdiction to undo and unravel the
+transaction.
 
 

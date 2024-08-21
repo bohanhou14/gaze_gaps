@@ -1,142 +1,201 @@
 **gold_text:**
-The amendment to Rule 25(a) (1) was intended to dispel unwarranted rigidity and allow more
-flexibility in substitution. “It was intended that liberal effect be given to the 1963 amendment.”
-Roscoe v. Roscoe, 126 U.S.App.D.C. 317, 322, 379 F.2d 94, 99 (1967). “[T]he 90 day period was not
-intended to act as a bar to otherwise meritorious actions.” Staggers v. Otto Gerdau Co., 359 F.2d
-292, 296 (2d Cir. 1966).
+We say “slightly” better because the tort principles applied to maritime accidents that as in this
+case mirror terrestrial accidents are similar. But this is not to deny the significance of different
+limitations periods and a different factfinder (judge versus jury). And while these differences are
+to an extent offsetting — the longer statutory period favors the plaintiff but the denial of jury
+trial favors the defendant — others may not be. We summa rize them briefly: (1) Nonpeeuniary damages
+are generally disallowed in personal-injury suits under admiralty law. Robert Force, “Tort Reform by
+the Judiciary: Developments in the Law of Maritime Personal Injury and Death Damages,” 23 Tulane
+Maritime L.J. 351, 361 (1999); see, e.g., In re Amtrack “Sunset Limited” Train Crash, 121 F.3d 1421,
+1429 (11th Cir.1997). (2) A shipowner owes a uniform duty of care to everyone lawfully on board his
+ship, whereas some states still impose different standards of care on landowners with respect to
+different classes of visitors, such as business invitees and licensees. Kermarec v. Compagnie
+Generate Transatlantique, supra, 358 U.S. at 630, 79 S.Ct. 406; Everett v. Carnival Cruise Lines,
+912 F.2d 1355, 1358 (11th Cir.1990). (3) Admiralty tort plaintiffs can sue the vessel itself even
+when the owner has no liability. 2 Thomas J. Schoenbaum, Admiralty and Maritime Law § 21-3 (4th
+ed.2004); see, e.g., United States v. Republic Marine, Inc., 829 F.2d 1399, 1400-01 (7th Cir.1987).
+(4) The Limitation of Shipowners’ Liability Act, 46 U.S.CApp. § 181, generally limits a shipowner’s
+liability to the value of his investment in the vessel and freight, other than in personal-injury or
+wrongful-death actions.
 
 **Generations:**
 
 
 ***GPT-4o:***
-This stringent interpretation contrasts sharply with the intent of the 1963 amendments to Rule 25
-and Rule 6(b), which aimed to inject flexibility and fairness into the substitution process. As
-noted in 379 F.2d 94 and 359 F.2d 292, the amendments were designed to eliminate the inequities and
-hardships caused by the rigid two-year limitation originally imposed. The Advisory Committee
-emphasized that the revised rules were to be liberally construed to allow courts discretion in
-extending the substitution period, recognizing the difficulties that could arise in promptly
-identifying and notifying the proper representative of the deceased.   Given this context, the
-defendant’s counsel's suggestion of death, which lacked identification of a proper representative,
-failed to initiate the 90-day countdown. This interpretation aligns with the judicial precedent that
-courts should prioritize the equitable administration of justice over strict procedural formalities.
-Thus, the district court erred in dismissing the plaintiffs' action without granting the requested
-extension, especially considering the circumstances that inhibited timely substitution, such as the
-injury to plaintiffs' counsel and the ongoing legal processes in the probate court.  We, therefore,
-reverse the judgment and remand for further proceedings consistent with this opinion, ensuring that
-the substitution process adheres to the flexible and just principles intended by the amendments to
-the Federal Rules of Civil Procedure.
+In light of the foregoing, it is evident that the injury to the plaintiff, while aboard a moored
+riverboat casino on navigable waters, falls under the admiralty jurisdiction as delineated by
+federal statutes and precedent cases. The facts of this case, involving an accident on a commercial
+vessel, draw a clear parallel to cases like *Reference Case 121 F.3d 1421*, where federal maritime
+law has been ruled as applicable due to the substantial connection with maritime activity and
+disruption to maritime commerce.  Moreover, the principles elucidated in *Reference Case 912 F.2d
+1355* show that ownership and responsibility for maintenance of the vessel (or its components) can
+impute liability, as demonstrated by Carnival’s case. Here, the defendant’s maintenance of the slot
+machine stool aligns with the imputed duty of care in *912 F.2d 1355*.  Finally, addressing
+jurisdiction issues as seen in *Reference Case 829 F.2d 1399*, which dealt with implicit appearances
+and claims, further buttresses the argument that traditional maritime activity implicates federal
+jurisdiction regardless of procedural nuances. Therefore, given the riverboat's status and the
+nature of the plaintiff's injury — on navigable waters and linked to an appurtenance of the vessel —
+the admiralty jurisdiction is indeed applicable in this case, overruling the district court's
+dismissal.
 
 
 **Label:** 
 
 
 ***Meta-Llama-3-8B-Instruct:***
-  In the context of Rule 25(a) (1) of the Federal Rules of Civil Procedure, the suggestion of death
-is a crucial step in the process of substituting a deceased party with a proper representative.
-However, not all suggestions of death are created equal. In cases where the suggestion of death is
-made by a party's attorney, but fails to identify a successor or representative of the deceased, the
-90-day period for substitution may not be triggered.  As noted in 359 F.2d 292, the Advisory
-Committee on Civil Rules intended to provide a more flexible standard for substitution, allowing for
-extensions of time and dispensing with the rigid two-year period previously in place. However, this
-flexibility is contingent upon the suggestion of death providing sufficient information to permit
-the court to proceed with substitution.  In the present case, the suggestion of death made by the
-defendant's attorney was deficient in that it failed to identify a successor or representative of
-the deceased. This lack of specificity rendered the suggestion ineffective in triggering the 90-day
-period for substitution, as explained in 379 F.2d 94.  Furthermore, the court's discretion to
-enlarge the time period for substitution, as provided by Rule 6(b), is not a blank check. Rather, it
-is intended to be exercised in a judicious and reasonable manner, taking into account the particular
-circumstances of each case.  In light of these principles, we conclude that the district court erred
-in dismissing the action with prejudice. The case should be remanded for further proceedings,
-allowing the parties to properly substitute a representative of the deceased and continue the action
-in a manner consistent with the Federal Rules of Civil Procedure.
+  As we analyze the cases, we can see that the admiralty jurisdiction is a complex and multifaceted
+concept. In Yamaha Motor Corp., U.S.A. v. Calhoun (121 F.3d 1421), the court ruled that the
+substantive admiralty principles are not to be supplemented by state law, especially when the case
+involves traditional maritime activity. Similarly, in Pogue v. Carnival Cruise Lines (912 F.2d
+1355), the court emphasized the importance of notice and the imputation of notice to the shipowner.
+In the case at hand, we are dealing with a riverboat casino that was moored to a pier on a navigable
+portion of the Des Plaines River. The plaintiff was injured when the stool she was leaning against
+collapsed, and she brought suit in federal district court under the admiralty law. The defendant
+moved to dismiss the suit, arguing that it was not within the admiralty jurisdiction.  In this case,
+we can see that the court's ruling is supported by the reasoning in Yamaha and Pogue. The accident
+occurred on a vessel afloat on navigable waters, and the injury was caused by the vessel or an
+object in or attached to it. This meets the requirements of the Extension of Admiralty Jurisdiction
+Act (46 U.S.C.App. § 740).  Furthermore, the court's decision is consistent with the principles
+enunciated in St. Hilaire Moye v. Henderson (496 F.2d 973), which held that the admiralty
+jurisdiction is not limited to cases involving traditional maritime activity. The court's analysis
+also draws on the legislative history of the Extension of Admiralty Jurisdiction Act, which shows
+that the Act's purpose was to clarify that accidents caused by boats on navigable waters are within
+the admiralty jurisdiction.  In conclusion, the court's decision is supported by the relevant case
+law and statutory provisions. The admiralty jurisdiction is a complex and multifaceted concept, and
+the court's analysis demonstrates a thorough understanding of the relevant principles and
+authorities. The decision is consistent with the reasoning in Yamaha and Pogue, and it applies the
+Extension of Admiralty Jurisdiction Act in a sensible and coherent manner.
 
 
 **Label:** 
 
 
-**citations:** ['379 F.2d 94', '359 F.2d 292']
+**citations:** ['121 F.3d 1421', '912 F.2d 1355', '829 F.2d 1399']
 
-***short_citations_0:*** 379 F.2d 94
+***short_citations_0:*** 121 F.3d 1421
 
-the proper parties. * * * Unless the motion for substitution is made not later than 90 days after the death is suggested upon the record by service of a statement of the fact of the death as provided herein for the service of the motion, the action shall be dismissed as to the deceased party.” Here not only had the 90-day period not expired when the court entered summary judgment, the appellant by her motion for reconsideration had specifically invoked the discretion of the court. Rule 6(b) provides pertinently that when “by these rules * * * an act is required or allowed to be done at or within a specified time, the court for cause shown may at any time in its discretion (1) with or without motion or notice order the period enlarged if request therefor is made before the expiration of the period originally prescribed * * Originally the Rule had precluded an extension of time for taking action under Rule 25(a) (1), but by purposeful amendment, it was sought to relieve against the hardship of the Court’s holding in Anderson v. Yungkau, 329 U.S. 482, 67 S.Ct. 428, 91 L.Ed. 436 (1947). It was intended that liberal effect be given to the 1963 amendment. Graham v. Pennsylvania Railroad, 119 U.S.App.D.C. 335, 342 F.2d 914 (1964), cert. denied, 381 U.S. 904, 85 S.Ct. 1446, 14 L.Ed.2d 286 (1965). We are constrained to reverse for further proceedings not inconsistent with this opinion. Reversed. The only “party” then
+a ease- like the present, where substantive admiralty principles are placed at risk by the potential application of state law, there is “no leeway for variation or supplementation by state law,” Yamaha, — U.S. at-, 116 S.Ct. at 626 (citing some above cases), insofar as the claims for wrongful death under the Aabama Wrongful Death Act are based upon simple negligence. Additionally, the facts of this case are so closely related to activity traditionally subject to admiralty law that the reasons for applying federal maritime law in this case are undeniably present. In sharp contrast to Yamaha, which was a products liability action arising from a recreational jet ski accident, the present action bears a substantial connection with traditional maritime activity. Here, we do not have a case involving a pleasure craft, or an airplane falling into navigable waters, but a case involving an allision of a commercial tug and tow with a railroad bridge, that took place in the ordinary course of maritime business, on a waterway subject to heavy commercial traffic. Moreover, in contrast to the jet ski collision in Yamaha, the allision in our case substantially disrupted the flow of maritime commerce. Thus, the facts of this case, unlike those in Yamaha, give rise to federal maritime interests that are decidedly commercial in nature. Accordingly, the actors in this case are entitled to the application of a body of laws — maritime laws — that have been fit ted over the years for just these types of
 
-***short_citations_1:*** 359 F.2d 292
+***short_citations_1:*** 912 F.2d 1355
 
-insertion of a “reasonable time” standard. In 1963, the Advisory Committee suggested the present rule and noted: “Present Rule 25(a) (1), together with present Rule 6(b), results in an inflexible requirement that an action be dismissed as to a deceased party if substitution is not carried out within a fixed period measured from the time of the death. The hardships and inequities of this unyielding requirement plainly appear from the cases. * * * The amended rulé establishes a time limit for the motion to substitute based not upon the time of the death, but rather upon the time information of the death is provided by means of a suggestion of death upon the record, i. e. service of a statement of the fact of the death.” See Notes of Advisory Committee on the Civil Rules, 28 U.S.C. Rule 25 (1964). Rule 6(b) of the Federal Rules of Civil Procedure was also amended in 1963 and the prohibition against extending the time for taking action under Rule 25 was eliminated. The Advisory Committee on the Civil Rules noted: “It is intended that the court shall have discretion to enlarge that period.” The amendments of Rules 6(b) and 25(a) (1) provided needed flexibility. It was assumed that discretionary extensions would be liberally granted. Movants under Rule 25 can ordinarily control when a death is “suggested upon the record” and appellants’ attorney was under no obligation to file his affidavit of Staggers’ death on the date he did. He could have filed
+in its reliance on Pogue that notice of the defect can be imputed to Carnival inasmuch as it created the threshold and maintained it. In other words, Carnival should have known that there was a danger of passenger injury because it was the owner and operator of the ship. Therefore, the Ever-etts argue, the jury instruction could not have misled the jurors because it can be assumed that Carnival had notice. The reasoning is circular and defeats the limitation on the shipowner’s liability imposed by Keefe. The Everetts also argue that the instruction was harmless because evidence of Carnival’s knowledge that the threshold was defective was presented at trial. There was thus the possibility or even probability that the jury predicated liability on this evidence of notice. But this fact does not eliminate the possibility that the jury may have found Carnival liable on the basis of the third instruction — mere creation or maintenance of a defect — inasmuch as the instructions are disjunctive. Because there remains uncertainty as to whether the jury was misled, the error cannot be deemed harmless. Miller v. Universal City Studios, Inc., 650 F.2d 1365, 1372 (5th Cir.1981). Carnival is therefore due a new trial. III. CONCLUSION We REVERSE the district court’s denial of Carnival’s motion for a new trial on the ground that its jury instruction was erroneous. We REMAND the case to the district court for a new trial. . The International Convention for the Safety of Life at Sea ("SOLAS”) requires
+
+***short_citations_2:*** 829 F.2d 1399
+
+formal claim to the vessel, appeared on the vessel’s behalf and had then waived any claim of lack of in rem jurisdiction. Id. at 1110. In Cactus Pipe, as in the case before us, the complaint expressly characterized the action as one both in rem and in personam, and also included the traditional prayer for issuance of process in rem against the vessel. In both Cactus Pipe and the case before us process never did issue. The Cactus Pipe court nevertheless concluded that the filing of a claim of owner operated as an appearance and the failure to then raise a claim of lack of jurisdiction over the party waived any such defense. Id. at 1107-11. The only difference in this case is that instead of filing a claim of owner with the court Conticarriers identified itself as the claimant to the vessel in an answer to a cross-claim. While we recognize that the lack of an express procedural provision allowing voluntary appearances of vessels may have been relied upon by Conticarriers, such inadvertence and such ill-advised reliance may well have led the other parties to the action and the court reasonably to conclude that Barge CCT-124 had entered the action, thus making unnecessary any resort to the supplemental rules regarding attachment. Conticarriers’s counsel in the case also expressly and voluntarily cast their role in the answer to the cross-claim as claimant to the barge, without any indication that the statement was only an announcement that if the barge was
 
 **prev_text:**
-LEVENTHAL, Circuit Judge: The District Court held that Rule 25(a) (1) of the Federal Rules of Civil
-Procedure required dismissal of the plaintiffs’ tort action because defendant’s counsel had filed a
-suggestion of death of the defendant yet plaintiff had not made any substitution of parties within
-90 days. We reverse on the ground that the suggestion of death, which was neither filed by nor
-identified a successor or representative of the deceased, such as an executor or administrator, was
-ineffective to trigger the running of the 90-day period provided by the Rule. Mr. and Mrs. John
-Rende filed an action in the District Court individually and on behalf of their infant son who had
-been struck and injured by Alfred S. Kay while driving his car. On August 27, 1967, defendant Kay
-died. On September 1, 1967, the defendant’s attorney, a term used here to identify the lawyer who
-had been retained by deceased to defend the action, and who had duly entered an appearance as
-attorney for defendant, filed a suggestion of death in the District Court, giving notice to
-plaintiffs’ attorney. That same day there was filed in the Orphans Court for Montgomery County,
-Maryland, residence of the deceased, his will naming his widow as executrix, but the will had not
-been probated, nor any legal representative appointed for the estate at the time of the filing of
-this appeal. Plaintiffs’ attorney was injured on October 14, 1967. On returning to practice early in
-1968, he learned that no successor to defendant Kay had yet been appointed, and he moved to certify
-the case to the ready calendar. The defendant’s attorney opposed this on grounds that discovery
-procedures had not been completed. The case was delayed and placed on the ready calendar as of June
-7, 1968. However, in April 1968, the defendant’s attorney moved in his own name to dismiss the
-action on the ground that Rule 25(a) (1) required plaintiffs to move to substitute a proper party
-for the deceased within 90 days of the suggestion of death. Plaintiffs filed an opposition and
-motion for substitution of the proper party, and sought an extension of the time for substitution as
-allowed by Rule 6(b). At argument, plaintiffs’ counsel asserted the “suggestion of death was
-defective in that it did not list the name of the proper party; that is the legal representative of
-the defendant.” The court responded: “That would not be his burden.” The court dismissed the action
-with prejudice. Prior to its amendment in 1963, Rule 25(a) (1) required the court to dismiss a case
-if no motion for substitution was filed within two. years after date of death, and no extensions of
-this period were allowed under Rule 6(b). The rule was rigorously applied, often with harsh results,
-and was called “easily the poorest rule of all the Federal Rules.” In 1955 the Advisory Committee on
-Rules for Civil Procedure recommended that the two-year period be changed to a “reasonable time”
-standard. In 1961 the Advisory Committee on Civil Rules again suggested the Rule be made more
-flexible. In 1963 the Supreme Court made changes in Rule 25(a) (1) and in Rule 6(b) so as to provide
-a 90-day time limit from the filing of a suggestion of death, and to give the court discretion to
-extend that time. The Committee Notes explaining the amendments state: Present Rule 25(a) (1),
-together with present Rule 6(b), results in an inflexible requirement that an action be dismissed as
-to a deceased party if substitution is not carried out within a fixed period measured from the time
-of death. The hardships and inequities of this unyielding requirement plainly appear from the cases.
-* * * The amended rule establishes a time limit for the motion to substitute based not upon the time
-of the death, but rather upon the time information of the death is provided by means of a suggestion
-of death upon the record. * * * A motion to substitute may be made by any party or by the
-representative of the deceased party without awaiting the suggestion of death. Indeed, the motion
-will usually be so made. If a party or the representative of the deceased party desires to limit the
-time within which another may make the motion, he may do so by suggesting the death upon the record.
-(Emphasis added.) Under the amended Rule either a party or “the successors or representatives of the
-deceased party” may avoid delay in effecting substitution for the deceased party either by filing a
-motion for substitution or by suggesting death on the record and thus triggering the 90-day period
-which begins with suggestion of death. The Advisory Committee, in outlining that suggestion of death
-could be made by “the representative of the deceased party” plainly contemplated that the suggestion
-emanating from the side of the deceased would identify a representative of the estate, such as an
-executor or administrator, who could be substituted for the deceased as a party, with the action
-continued in the name of the representative. The addition of “successor” in the Rule would take care
-of the case of, say, the distributee of an estate that had been distributed, but would not make a
-material difference in the aspect under consideration. Form 30, for suggestion of death, which was
-provided in order to expedite and facilitate implementation of the amendment, provides: A.B.
-[described as a party, or as executor, administrator, or other representative or successor of C.D.,
-the deceased party\ suggests upon the record, pursuant to Rule 25(a) (1), the death of C.D.
-[describe as party] during the pendency of this action. Added Jan. 21, 1963, eff. July 1, 1963.
-[Emphasis added.] Although the attorney for the defendant was retained to “represent” the deceased
-as his counsel, he is not a person who could be made a party, and is not a “representative of the
-deceased party” in the sense contemplated by Rule 25(a) d). In our opinion the Rule, as amended,
-cannot fairly be construed, as the de fendant’s attorney argues, to make his suggestion of death
-operative to trigger the 90-day period even though he was neither a successor nor representative of
-the deceased, and gave no indication of what person was available to be named in substitution as a
-representative of the deceased. Counsel’s construction would open the door to a tactical maneuver to
-place upon the plaintiff the burden of locating the representative of the estate within 90 days. We
-can conceive of cases wherein even the lawyer retained to represent a defendant might know the
-defendant had died, yet not readily know where his estate would be administered. In the present
-case, plaintiff’s attorney did know the court of probate, but he did not know whether probate of the
-will might be contested, or who would be appointed representative of the estate. The tactic of the
-defendant’s attorney would place on plaintiff the burden, where no conventional representative was
-appointed for the estate in probate court, of instituting machinery in order to produce some
-representative of the estate ad litem, pending appointment of the representative contemplated by law
-of the domicile of the deceased.
+POSNER, Circuit Judge. The defendant owns and operates a riverboat casino that at the time of the
+plaintiffs accident had for the previous two years been moored to a pier on a navigable portion of
+the Des Plaines River in Illinois; Illinois law permits a casino boat to be moored indefinitely. The
+plaintiff was playing a slot machine when the stool she was leaning against collapsed and she fell,
+injuring herself. The boat was stationary when the accident occurred rather than rocking back and
+forth in the wash of a passing boat. Nevertheless the plaintiff filed suit in federal district court
+under the admiralty law. The defendant moved to dismiss the suit on the ground that it was not
+within the admiralty jurisdiction. The district court granted the motion. Had the casino been
+located on the pier rather than in a boat moored to it, there would be no argument that the
+plaintiffs claim was an admiralty claim. Since the boat was moored indefinitely, it could be thought
+the equivalent of landfill, and an accident occurring on landfill adjacent to navigable waters is
+not within the admiralty jurisdiction unless (as we’ll see) the accident involved the boat’s
+colliding with or otherwise damaging something on the land. The accident in our case had nothing to
+do with the fact that the casino was on a boat afloat on a navigable stream rather than sitting on
+dry land. And so whatever distinctive rules of liability admiralty courts have developed would be no
+better suited, and perhaps would be worse suited, to the resolution of this accident case than
+ordinary state tort law would be. There is, therefore, commonsense appeal to the district court’s
+ruling that the suit is not within the admiralty jurisdiction. But the most important requirement of
+a jurisdictional rule is not that it appeal to common sense but that it be clear. Budinich v. Becton
+Dickinson & Co., 486 U.S. 196, 202, 108 S.Ct. 1717, 100 L.Ed.2d 178 (1988); Hoagland v. Sandberg,
+Phoenix & Von Gantard, P.C., 385 F.3d 737, 739-40 (7th Cir.2004); In re Kilgus, 811 F.2d 1112, 1117
+(7th Cir.1987); Cohen v. Empire Blue Cross & Blue Shield, 176 F.3d 35, 42 (2d Cir.1999); Long v.
+Sasser, 91 F.3d 645, 647 (4th Cir.1996). It is very unfortunate when parties are not sure which
+court they should be litigating their dispute in, as the case at hand illustrates. The plaintiff
+brought suit within the three-year statute of limitations applicable to admiralty tort suits, 46
+U.S.C.App. § 763a; Alderman v. Pacific Northern Victor, Inc., 95 F.3d 1061, 1065-66 (11th Cir.1996);
+Usher v. M/V Ocean Wave, 27 F.3d 370, 371 (9th Cir.1994) (per curiam), but the statute of
+limitations applicable to personal-injury suits under Illinois law is only two years, 735 ILCS
+5/13-202, so that if the ruling stands the plaintiff is barred from any judicial relief because she
+sued more than two years after the accident. Congress has extended the admiralty jurisdiction to
+“all cases of damage or injury, to person or property, caused by a vessel on navigable water.”
+Extension of Admiralty Jurisdiction Act, 46 U.S.C.App. § 740. Since “vessel” has been interpreted to
+include the vessel’s fixtures, furniture, and other “appurtenances,” Jerome B. Grubart, Inc. v.
+Great Lakes Dredge & Dock Co., 513 U.S. 527, 535, 115 S.Ct. 1043, 130 L.Ed.2d 1024 (1995); Scott v.
+Trump Indiana, Inc., 337 F.3d 939, 943 (7th Cir.2003); Anderson v. United States, 317 F.3d 1235,
+1237-38 (11th Cir.2003), the injury resulting from the defective stool in this case was an injury
+caused by a vessel. Kermarec v. Compagnie Generale Transatlantique, 358 U.S. 625, 626-28, 79 S.Ct.
+406, 3 L.Ed.2d 550 (1959); Palmer v. Fayard Moving & Transportation Corp., 930 F.2d 437, 441 (5th
+Cir.1991), and cases cited there. The vessel was on navigable waters, moreover, and while the
+Supreme Court has now held that a boat that “has been permanently moored or otherwise rendered
+practically incapable of transportation or movement” is not a “vessel” for purposes of admiralty
+jurisdiction, Stewart v. Dutra Construction Co., 543 U.S. 481, 494, 125 S.Ct. 1118, 160 L.Ed.2d 932
+(2005), there has been no showing that the boat in our case, though stationary for the past two
+years, is permanently moored in the Court’s sense (disabled from sailing) and is thus the equivalent
+of landfill. To subject to the admiralty jurisdiction an accident that occurs on a vessel afloat on
+a navigable body of water, and that is caused by the vessel or by some object in or attached to it,
+is a natural application of the Extension of Admiralty Jurisdiction Act. St. Hilaire Moye v.
+Henderson, 496 F.2d 973, 979 (8th Cir.1974); 1 Robert Force & Martin J. Norris, The Law of Maritime
+Personal Injuries § 1:17 (5th ed.2005); David W. Robertson & Michael F. Sturley, “The Admiralty
+Extension Act Solution,” 34 J. Maritime L. & Commerce 209, 239-43, 269-73, 297 (2003); Russell J.
+Smith, Note, “Congress Giveth and the Fifth Circuit Taketh Away: Post Executive Jet Viability of the
+Admiralty Extension Act,” 6 U. San Francisco Maritime L.J. 609 (1994). But this is on the assumption
+that the Act is indeed, as its title and language suggest, an independent basis of federal
+jurisdiction — independent, that is, of the basic grant of admiralty jurisdiction in 28 U.S.C. §
+1333(1). And so the Eighth Circuit held in the St. Hilaire case, cited above, though the Supreme
+Court left the question open in Jerome B. Grubart, Inc. v. Great Lakes Dredge & Dock Co., supra, 513
+U.S. at 543 n. 5, 115 S.Ct. 1043, 130 L.Ed.2d 1024, as it had earlier done in Sisson v. Ruby, 497
+U.S. 358, 359 n. 1, 110 S.Ct. 2892, 111 L.Ed.2d 292 (1990). But the Fifth and Eleventh Circuits have
+rejected (though without citing) St. Hilaire. Sohyde Drilling & Marine Co. v. Coastal States Gas
+Producing Co., 644 F.2d 1132, 1135-36 (5th Cir.1981); Crotwell v. Hockman-Lewis, Ltd., 734 F.2d 767,
+768 (11th Cir.1984). They have done this on the basis of legislative history. That history indicates
+that the Act’s purpose was merely to make clear that accidents caused by boats on navigable waters
+are within the admiralty jurisdiction even if the damage caused by the accident was to something on
+the land. H.R.Rep. No. 1523, 80th Cong., 2d Sess. (1948); S.Rep. No. 1593, 80th Cong., 2d Sess.
+(1948). We do not think that the legislative history should override the broad statutory language,
+which provides a clear and simple jurisdictional test for cases like this, in contrast to the vague
+“maritime nexus” (or “connection”) test (“the party seeking to invoke maritime jurisdiction must
+show a substantial relationship between the activity giving rise to the incident and traditional
+maritime activity,” Sisson v. Ruby, supra, 497 U.S. at 364, 110 S.Ct. 2892, 111 L.Ed.2d 292) that is
+used to determine jurisdiction under section 1333(1), which confers but does not define admiralty
+jurisdiction. But our case would pass that test as well; vagueness has it uses. The main practical
+use of the “connection” test has been to expel from the admiralty jurisdiction freak cases. Thus, in
+describing the application of the test the Supreme Court in Grubart cited a case involving a plane
+crash in which a portion of the wreckage slid into navigable waters, Executive Jet Aviation, Inc. v.
+City of Cleveland, 409 U.S. 249, 93 S.Ct. 493, 34 L.Ed.2d 454 (1972), the case of a swimmer diving
+off a pier into navigable waters, Chapman v. City of Grosse Pointe Farms, 385 F.2d 962 (6th
+Cir.1967), and the case of a motorist rear-ended while waiting for a ferry on the ferry’s landing,
+which happened to be a floating pontoon. Peytavin v. Government Employees Ins. Co., 453 F.2d 1121
+(5th Cir.1972). Grubart itself involved the flooding of tunnels and basements in Chicago caused by
+the fact that months earlier a crane sitting on a barge had driven piles too far into a riverbed
+above a tunnel. Yet unusual as were the facts in Grubart, the case was about an appurtenance (the
+crane) of a boat (a barge) afloat on navigable waters and an accident, albeit on land, caused by the
+handling of the appurtenance. A passage in the Court’s opinion suggests that the Court thought the
+case rather simple: “This Court has not proposed any radical alteration of the traditional criteria
+for invoking admiralty jurisdiction in tort cases, but has simply followed the lead of the lower
+federal courts in rejecting a location rule so rigid as to extend admiralty to a case involving an
+airplane, not a vessel, engaged in activity far removed from anything traditionally maritime.” 513
+U.S. at 542, 115 S.Ct. 1043. The “location” rule at its broadest was that any accident that occurs
+on navigable waters is within the admiralty jurisdiction. The Plymouth, 70 U.S. (3 Wall.) 20, 36, 18
+L.Ed. 125 (1865). That would have encompassed the airplane, swimmer, and motorist cases, and the
+Court made clear in Grubart that it wouldn’t go that far. When a boat is involved, however, the
+location rule is not only thoroughly compatible with the language of the Extension of Admiralty
+Jurisdiction Act, but appears to have survived Grubart and thus to be the test under the general
+admiralty jurisdiction conferred by 28 U.S.C. § 1333(1), as well. Weaver v. Hollywood Casino-Aurora,
+Inc., 255 F.3d 379, 386-87 (7th Cir.2001), found even the “connection” test of GrubaH and Sisson
+satisfied in a case like the present one, the main difference being that the injury was to a
+crewmember of the gambling boat rather than to a passenger. An injury to a crewmember is somewhat
+more likely to affect maritime commerce than an injury to a passenger, because the crewmember might
+be vital to the operation of the boat and difficult to replace immediately. Yet even an injury to a
+passenger could have a disruptive effect, if the boat had to make an unscheduled stop to get him to
+a hospital (not that that could have happened here, since the boat was moored), or if the injury
+revealed a dangerous condition that required time-consuming repairs. We do not think it necessary to
+split these hairs — especially since effect on maritime commerce is not necessary to admiralty
+jurisdiction. We acknowledge that the distinctive substantive and procedural features of admiralty
+law, such as the longer statute of limitations and the absence of a right to a jury trial, were not
+designed for the kind of accident that occurred here, an accident that owed nothing to its maritime
+setting. So our suggested rule encroaches on a regulatory domain that might well be thought to
+belong more properly to state courts and legislatures than to federal admiralty courts. But to
+decide in each case whether admiralty law or state law would make a better fit with the particular
+circumstances of the accident that had given rise to the suit would make the determination of
+jurisdiction hopelessly uncertain. It is not a price worth paying for the slightly better match of
+law to fact that would result.
 
 

@@ -1,142 +1,255 @@
 **gold_text:**
-The amendment to Rule 25(a) (1) was intended to dispel unwarranted rigidity and allow more
-flexibility in substitution. “It was intended that liberal effect be given to the 1963 amendment.”
-Roscoe v. Roscoe, 126 U.S.App.D.C. 317, 322, 379 F.2d 94, 99 (1967). “[T]he 90 day period was not
-intended to act as a bar to otherwise meritorious actions.” Staggers v. Otto Gerdau Co., 359 F.2d
-292, 296 (2d Cir. 1966).
+A district court may certainly deny a one-level decrease to “a defendant who withholds a guilty plea
+until he stands poised on the brink of trial.” Morillo, 8 F.3d at 872; see also United States v.
+Kimple, 27 F.3d 1409, 1413 (9th Cir.1994); United States v. Donovan, 996 F.2d 1343, 1345 (1st
+Cir.1993). We do not face that situation here. Marroquin gave notice of his intention to plead
+guilty on April 4. The court set a calendar call for April 13, on which date it apparently planned
+to set a specific trial date.
 
 **Generations:**
 
 
 ***GPT-4o:***
-This stringent interpretation contrasts sharply with the intent of the 1963 amendments to Rule 25
-and Rule 6(b), which aimed to inject flexibility and fairness into the substitution process. As
-noted in 379 F.2d 94 and 359 F.2d 292, the amendments were designed to eliminate the inequities and
-hardships caused by the rigid two-year limitation originally imposed. The Advisory Committee
-emphasized that the revised rules were to be liberally construed to allow courts discretion in
-extending the substitution period, recognizing the difficulties that could arise in promptly
-identifying and notifying the proper representative of the deceased.   Given this context, the
-defendant’s counsel's suggestion of death, which lacked identification of a proper representative,
-failed to initiate the 90-day countdown. This interpretation aligns with the judicial precedent that
-courts should prioritize the equitable administration of justice over strict procedural formalities.
-Thus, the district court erred in dismissing the plaintiffs' action without granting the requested
-extension, especially considering the circumstances that inhibited timely substitution, such as the
-injury to plaintiffs' counsel and the ongoing legal processes in the probate court.  We, therefore,
-reverse the judgment and remand for further proceedings consistent with this opinion, ensuring that
-the substitution process adheres to the flexible and just principles intended by the amendments to
-the Federal Rules of Civil Procedure.
+In addition to considering the government's trial preparation, it is essential to evaluate whether
+Marroquin's timely plea facilitated the efficient allocation of judicial resources. The purpose of
+U.S.S.G. § 3E1.1(b)(2) is to incentivize defendants to plead guilty early enough to allow the court
+to manage its resources effectively and avoid unnecessary expenditures (United States v. Schau, 1
+F.3d 729, 731 (8th Cir.1993); United States v. Donovan, 996 F.2d 1343, 1345 (1st Cir.1993)).   The
+district court noted that trial calendar notices had already been issued prior to Marroquin’s plea,
+suggesting inefficiency. However, Marroquin's plea, entered promptly after substantial plea
+negotiations, spared the court from conducting a potentially lengthy and complex trial. The First
+Circuit has affirmed that pleas on the eve of trial do not necessarily help avoid judicial resource
+expenditure (United States v. Morillo, 8 F.3d 864, 872 (1st Cir.1993)).  Moreover, Marroquin filed
+his pre-trial motions within a reasonable timeframe, contributing to the court’s understanding and
+management of the case early on. The efficient handling of judicial resources also reflects that
+substantial trial preparations were not undertaken by either party before Marroquin's plea. This
+context diverges from cases where belated pleas did not merit reductions due to already-completed
+significant trial preparations (case reference 27 F.3d 1409). Hence, the district court's denial of
+the one-level decrease appears misaligned with the overarching aims of § 3E1.1(b)(2).  In summary,
+given the timely nature of Marroquin’s plea and the limited trial preparations, denying the decrease
+under U.S.S.G. § 3E1.1(b)(2) constitutes an error. We reverse the district court’s decision and
+remand for resentencing in alignment with these findings.
 
 
 **Label:** 
 
 
 ***Meta-Llama-3-8B-Instruct:***
-  In the context of Rule 25(a) (1) of the Federal Rules of Civil Procedure, the suggestion of death
-is a crucial step in the process of substituting a deceased party with a proper representative.
-However, not all suggestions of death are created equal. In cases where the suggestion of death is
-made by a party's attorney, but fails to identify a successor or representative of the deceased, the
-90-day period for substitution may not be triggered.  As noted in 359 F.2d 292, the Advisory
-Committee on Civil Rules intended to provide a more flexible standard for substitution, allowing for
-extensions of time and dispensing with the rigid two-year period previously in place. However, this
-flexibility is contingent upon the suggestion of death providing sufficient information to permit
-the court to proceed with substitution.  In the present case, the suggestion of death made by the
-defendant's attorney was deficient in that it failed to identify a successor or representative of
-the deceased. This lack of specificity rendered the suggestion ineffective in triggering the 90-day
-period for substitution, as explained in 379 F.2d 94.  Furthermore, the court's discretion to
-enlarge the time period for substitution, as provided by Rule 6(b), is not a blank check. Rather, it
-is intended to be exercised in a judicious and reasonable manner, taking into account the particular
-circumstances of each case.  In light of these principles, we conclude that the district court erred
-in dismissing the action with prejudice. The case should be remanded for further proceedings,
-allowing the parties to properly substitute a representative of the deceased and continue the action
-in a manner consistent with the Federal Rules of Civil Procedure.
+  In this case, the district court denied the defendant's request for a one-level decrease under
+U.S.S.G. § 3E1.1(b)(2) because it found that the government's responses to the defendant's pre-trial
+motions and the chemical analysis performed by the government constituted trial preparation.
+However, the court's finding is contrary to the principles established in United States v. Morillo,
+8 F.3d 864, 872 (1st Cir.1993), which states that a defendant who "stands poised on the brink of
+trial has no entitlement to the [b)(2) reduction."  The government's responses to the defendant's
+pre-trial motions were not related to trial preparation, as noted in United States v. Donovan, 996
+F.2d 1343, 1345 (1st Cir.1993), which states that a defendant who "negotiates a guilty plea well in
+advance of any trial date, such that the government is spared the task of preparing for trial, the
+purposes of this provision would appear fully satisfied." The chemical analysis and the DEA Agent's
+affidavit were standard procedures that did not indicate trial preparation.  The court's conclusion
+that the government had engaged in trial preparation substantial enough to deny the defendant a one-
+level decrease under § 3E1.1(b)(2) was an abuse of discretion, as noted in United States v. Camp-
+bell, 27 F.3d 1409, 1411 (1st Cir.1994), which states that a district court commits an abuse of
+discretion by making an error of law. The defendant's plea was timely, and the government's
+concession that it did not prepare for trial supports the conclusion that the defendant is entitled
+to the one-level decrease.
 
 
 **Label:** 
 
 
-**citations:** ['379 F.2d 94', '359 F.2d 292']
+**citations:** ['27 F.3d 1409', '996 F.2d 1343']
 
-***short_citations_0:*** 379 F.2d 94
+***short_citations_0:*** 27 F.3d 1409
 
-the proper parties. * * * Unless the motion for substitution is made not later than 90 days after the death is suggested upon the record by service of a statement of the fact of the death as provided herein for the service of the motion, the action shall be dismissed as to the deceased party.” Here not only had the 90-day period not expired when the court entered summary judgment, the appellant by her motion for reconsideration had specifically invoked the discretion of the court. Rule 6(b) provides pertinently that when “by these rules * * * an act is required or allowed to be done at or within a specified time, the court for cause shown may at any time in its discretion (1) with or without motion or notice order the period enlarged if request therefor is made before the expiration of the period originally prescribed * * Originally the Rule had precluded an extension of time for taking action under Rule 25(a) (1), but by purposeful amendment, it was sought to relieve against the hardship of the Court’s holding in Anderson v. Yungkau, 329 U.S. 482, 67 S.Ct. 428, 91 L.Ed. 436 (1947). It was intended that liberal effect be given to the 1963 amendment. Graham v. Pennsylvania Railroad, 119 U.S.App.D.C. 335, 342 F.2d 914 (1964), cert. denied, 381 U.S. 904, 85 S.Ct. 1446, 14 L.Ed.2d 286 (1965). We are constrained to reverse for further proceedings not inconsistent with this opinion. Reversed. The only “party” then
+F.3d 1200, 1203 (7th Cir.1994) (guilty plea four days before trial not timely acceptance); United States v. Schau, 1 F.3d 729, 731 (8th Cir.1993) (defendant not entitled to timely acceptance reduction where Government had already prepared for trial before defendant confessed and pled guilty); United States v. Donovan, 996 F.2d 1343, 1345 (1st Cir.1993) (defendant not entitled to timely acceptance reduction where defendant’s plea agreement was reached on the eve of a second trial date). As the First Circuit states, a defendant who “stands poised on the brink of trial has no entitlement to the [ (b)(2) reduction].” United States v. Morillo, 8 F.3d 864, 872 (1st Cir.1993). Eve of trial pleas defeat the purpose of subsection (b)(2) and do not necessarily serve to vindicate the defendant’s constitutional rights. The defendant’s guilty plea must come early enough in the proceedings to preclude the Government from preparing for trial and to enable the court to avoid unnecessarily expending judicial resources. With the foregoing principles in mind, we turn to the case at hand. The district court denied the additional (b)(2) reduction, reasoning as follows: I would have to say that here there was some delay in making the decision to plead guilty. There were two motions. They were voluminous. They required considerable effort on the part of the Government and on the part of the Court. I think in this context, the additional point off is not justifiable, so I don’t accept the objection. In its written order denying the reduction,
 
-***short_citations_1:*** 359 F.2d 292
+***short_citations_1:*** 996 F.2d 1343
 
-insertion of a “reasonable time” standard. In 1963, the Advisory Committee suggested the present rule and noted: “Present Rule 25(a) (1), together with present Rule 6(b), results in an inflexible requirement that an action be dismissed as to a deceased party if substitution is not carried out within a fixed period measured from the time of the death. The hardships and inequities of this unyielding requirement plainly appear from the cases. * * * The amended rulé establishes a time limit for the motion to substitute based not upon the time of the death, but rather upon the time information of the death is provided by means of a suggestion of death upon the record, i. e. service of a statement of the fact of the death.” See Notes of Advisory Committee on the Civil Rules, 28 U.S.C. Rule 25 (1964). Rule 6(b) of the Federal Rules of Civil Procedure was also amended in 1963 and the prohibition against extending the time for taking action under Rule 25 was eliminated. The Advisory Committee on the Civil Rules noted: “It is intended that the court shall have discretion to enlarge that period.” The amendments of Rules 6(b) and 25(a) (1) provided needed flexibility. It was assumed that discretionary extensions would be liberally granted. Movants under Rule 25 can ordinarily control when a death is “suggested upon the record” and appellants’ attorney was under no obligation to file his affidavit of Staggers’ death on the date he did. He could have filed
+in each instance), and the plea agreement was reached only on the eve of the second trial date. The parties have offered varying explanations for this delay — -a dispute which the district court failed to resolve. Yet resolution thereof was unnecessary, as subsection (b)(2) could properly have been found not to apply even under defendant’s version of events. The court below suggested that subsection (b)(2) would apply only where a defendant expresses a readiness to plead guilty without condition, forgoing any attempt to bargain with the government. Defendant contends that such a view is overly restrictive, and that a defendant should not be required to relinquish his right to negotiate the most favorable possible “deal” in order to qualify for a subsection (b)(2) reduction. This argument is not without considerable force. Where such negotiations result in a guilty plea well in advance of any trial date, such that the government is spared the task of preparing for trial, the purposes of this provision would appear fully satisfied. Yet we need not decide this issue here, inasmuch as the circumstances at hand are quite different. As mentioned, the parties reached a plea agreement on the eve of the second trial date, after the government had fully prepared for trial. And whatever the reasons for the delay in reaching that agreement, there is no suggestion that the government unreasonably prolonged the negotiations in order to deprive defendant of the additional reduction. Defendant contends only that the government initially adopted a hard-line
 
 **prev_text:**
-LEVENTHAL, Circuit Judge: The District Court held that Rule 25(a) (1) of the Federal Rules of Civil
-Procedure required dismissal of the plaintiffs’ tort action because defendant’s counsel had filed a
-suggestion of death of the defendant yet plaintiff had not made any substitution of parties within
-90 days. We reverse on the ground that the suggestion of death, which was neither filed by nor
-identified a successor or representative of the deceased, such as an executor or administrator, was
-ineffective to trigger the running of the 90-day period provided by the Rule. Mr. and Mrs. John
-Rende filed an action in the District Court individually and on behalf of their infant son who had
-been struck and injured by Alfred S. Kay while driving his car. On August 27, 1967, defendant Kay
-died. On September 1, 1967, the defendant’s attorney, a term used here to identify the lawyer who
-had been retained by deceased to defend the action, and who had duly entered an appearance as
-attorney for defendant, filed a suggestion of death in the District Court, giving notice to
-plaintiffs’ attorney. That same day there was filed in the Orphans Court for Montgomery County,
-Maryland, residence of the deceased, his will naming his widow as executrix, but the will had not
-been probated, nor any legal representative appointed for the estate at the time of the filing of
-this appeal. Plaintiffs’ attorney was injured on October 14, 1967. On returning to practice early in
-1968, he learned that no successor to defendant Kay had yet been appointed, and he moved to certify
-the case to the ready calendar. The defendant’s attorney opposed this on grounds that discovery
-procedures had not been completed. The case was delayed and placed on the ready calendar as of June
-7, 1968. However, in April 1968, the defendant’s attorney moved in his own name to dismiss the
-action on the ground that Rule 25(a) (1) required plaintiffs to move to substitute a proper party
-for the deceased within 90 days of the suggestion of death. Plaintiffs filed an opposition and
-motion for substitution of the proper party, and sought an extension of the time for substitution as
-allowed by Rule 6(b). At argument, plaintiffs’ counsel asserted the “suggestion of death was
-defective in that it did not list the name of the proper party; that is the legal representative of
-the defendant.” The court responded: “That would not be his burden.” The court dismissed the action
-with prejudice. Prior to its amendment in 1963, Rule 25(a) (1) required the court to dismiss a case
-if no motion for substitution was filed within two. years after date of death, and no extensions of
-this period were allowed under Rule 6(b). The rule was rigorously applied, often with harsh results,
-and was called “easily the poorest rule of all the Federal Rules.” In 1955 the Advisory Committee on
-Rules for Civil Procedure recommended that the two-year period be changed to a “reasonable time”
-standard. In 1961 the Advisory Committee on Civil Rules again suggested the Rule be made more
-flexible. In 1963 the Supreme Court made changes in Rule 25(a) (1) and in Rule 6(b) so as to provide
-a 90-day time limit from the filing of a suggestion of death, and to give the court discretion to
-extend that time. The Committee Notes explaining the amendments state: Present Rule 25(a) (1),
-together with present Rule 6(b), results in an inflexible requirement that an action be dismissed as
-to a deceased party if substitution is not carried out within a fixed period measured from the time
-of death. The hardships and inequities of this unyielding requirement plainly appear from the cases.
-* * * The amended rule establishes a time limit for the motion to substitute based not upon the time
-of the death, but rather upon the time information of the death is provided by means of a suggestion
-of death upon the record. * * * A motion to substitute may be made by any party or by the
-representative of the deceased party without awaiting the suggestion of death. Indeed, the motion
-will usually be so made. If a party or the representative of the deceased party desires to limit the
-time within which another may make the motion, he may do so by suggesting the death upon the record.
-(Emphasis added.) Under the amended Rule either a party or “the successors or representatives of the
-deceased party” may avoid delay in effecting substitution for the deceased party either by filing a
-motion for substitution or by suggesting death on the record and thus triggering the 90-day period
-which begins with suggestion of death. The Advisory Committee, in outlining that suggestion of death
-could be made by “the representative of the deceased party” plainly contemplated that the suggestion
-emanating from the side of the deceased would identify a representative of the estate, such as an
-executor or administrator, who could be substituted for the deceased as a party, with the action
-continued in the name of the representative. The addition of “successor” in the Rule would take care
-of the case of, say, the distributee of an estate that had been distributed, but would not make a
-material difference in the aspect under consideration. Form 30, for suggestion of death, which was
-provided in order to expedite and facilitate implementation of the amendment, provides: A.B.
-[described as a party, or as executor, administrator, or other representative or successor of C.D.,
-the deceased party\ suggests upon the record, pursuant to Rule 25(a) (1), the death of C.D.
-[describe as party] during the pendency of this action. Added Jan. 21, 1963, eff. July 1, 1963.
-[Emphasis added.] Although the attorney for the defendant was retained to “represent” the deceased
-as his counsel, he is not a person who could be made a party, and is not a “representative of the
-deceased party” in the sense contemplated by Rule 25(a) d). In our opinion the Rule, as amended,
-cannot fairly be construed, as the de fendant’s attorney argues, to make his suggestion of death
-operative to trigger the 90-day period even though he was neither a successor nor representative of
-the deceased, and gave no indication of what person was available to be named in substitution as a
-representative of the deceased. Counsel’s construction would open the door to a tactical maneuver to
-place upon the plaintiff the burden of locating the representative of the estate within 90 days. We
-can conceive of cases wherein even the lawyer retained to represent a defendant might know the
-defendant had died, yet not readily know where his estate would be administered. In the present
-case, plaintiff’s attorney did know the court of probate, but he did not know whether probate of the
-will might be contested, or who would be appointed representative of the estate. The tactic of the
-defendant’s attorney would place on plaintiff the burden, where no conventional representative was
-appointed for the estate in probate court, of instituting machinery in order to produce some
-representative of the estate ad litem, pending appointment of the representative contemplated by law
-of the domicile of the deceased.
+CAMPBELL, Senior Circuit Judge. This appeal is from the district court’s confirmation of defendant’s
+sentence following this court’s previous remand directing it to reconsider that sentence. Defendant-
+appellant Willy Marroquin insists that the district court continues to err .by denying him a one-
+level decrease pursuant to United States Sentencing Commission Guidelines Manual (“U.S.S.G.”) §
+3E1.1(b)(2). The question before us is whether the district court exceeded its authority under the
+Guidelines in determining that the defendant failed to provide “timely notification to] authorities
+of his intention to enter a plea of guilty, thereby permitting the government to avoid preparing for
+trial and permitting the court to allocate its, resources efficiently.” U.S.S.G. § 3E1.1(b)(2). . As
+we conclude the ruling was an abuse of discretion, we reverse. I. BACKGROUND On February 1, 1995, a
+Rhode Island grand jury returned an eighteen-count indictment charging Marroquin and four other
+defendants with drug trafficking offenses. Marroquin was arraigned on February 3, 1995. On February
+10, 1995 and March 5, 1995, Marroquin filed various pre-trial motions, including motions: (1) to
+retain rough notes; (2) for discovery and inspection; (3) to identify confidential informant; (4)
+for a bill of particulars; (5) to revoke his detention order; (6) to suppress contraband; (7) to
+sever defendants; and (8) to enlarge time to file pre-trial memoranda until April 30. On March 22,
+1995, the district court issued a Notice of Jury Calendar Call for Marroquin’s case. This case,
+along with other pending cases, was set down to be called for trial on April 13,1995. On March 24,
+March 30, and April 3, 1995, the government responded to seven of Mar-roquin’s pre-trial motions. On
+April 4, a day after the government’s last response, the government entered into a plea agreement
+with Marroquin. This agreement included the following: The government agrees that if the Court is
+satisfied that the defendant has accepted responsibility at the time of sentencing, the defendant
+should be entitled to a three-level reduction in offense level pursuant to U.S.S.G. § 3El.l(b)(2).
+The same day, Marroquin pleaded guilty to four counts of distributing heroin and one count of
+distributing cocaine. The Presentence Investigation Report did not include any recommended
+adjustment for acceptance of responsibility, but the probation officer indicated that if the
+district court found that Marroquin had accepted responsibility, Marroquin should receive a three-
+level reduction under U.S.S.G. § 3E1.1, including a one-level reduction under U.S.S.G. § 3E1.1(b)(2)
+for entering a timely plea. On September 26, 1995, the district court held a sentencing hearing, at
+which it heard argument on acceptance of responsibility. Consistent with its plea agreement, the
+government did not oppose the application of a three-level reduction, nor did it argue that
+Marroquin had failed to plead in a timely manner. However, without mentioning the specific U.S.S.G.
+§ 3El.l(b) criteria, the court stated that it was “prepared to allow the two-point reduction, not a
+three-point reduction under these circumstances.” Marroquin appealed to this court, alleging the
+district court had erred in denying him an additional one-level decrease under U.S.S.G. §
+3E1.1(b)(2) without making any findings that he had faded to meet the relevant criteria. The
+government agreed with Marroquin that the district court had not properly applied U.S.S.G. §
+3E1.1(b) and moved for summary disposition in Marroquin’s favor. The government contended that
+Marroquin was entitled to the extra reduction because of his early plea and because the “record
+suggest[ed] no obvious basis for denying [the additional decrease].” On December 27, 1996, in an
+unpublished, per curiam opinion, we vacated Marroquin’s sentence and remanded “to the district court
+for resentencing after consideration of the § 3El.l(b) criteria.” On April 2, 1997, the district
+court held a resentencing hearing to determine whether Marroquin was eligible for a one-level
+decrease. Marroquin argued that he was entitled to the decrease because he had satisfied the
+criteria in the Sentencing Guidelines. The government attorney who had reached the initial plea
+agreement had died by the time of the resentencing hearing, but the new government lawyer declared
+that' the files did not reflect any trial preparation on the government’s part. The government
+explained that it had done a chemical analysis of the drugs and had responded to Marroquin’s pre-
+trial motions, but the case file did not contain notes for examining witnesses, draft jury
+instructions, or other such material. The district court judge then examined the government’s
+responses to Marroquin’s motions. Following the sentencing hearing, the district court again denied
+Marroquin’s request for a one-level decrease. Despite the government’s statements to the contrary,
+the court ruled that Marroquin had announced his intention to plead guilty too late to relieve the
+government of the burden of preparing for trial. The court observed that the case against Marroquin
+would not require “hours and hours of preparation,” and that the government’s main -witness, an
+undercover DEA Agent, was familiar with the courtroom and had already prepared affidavits. Further,
+the court noted that the government had performed a chemical analysis on the controlled substances
+and had done “a great deal of work in responding to [Marroquinj’s motions, even up to the date
+before the plea agreement.” Based on these observations, the court concluded that the government had
+engaged in significant trial preparation. The court also mentioned in passing that it had “give[n]
+notice of the trial calendar prior to the time that the authorities were notified of intention* to
+enter a plea of guilty.” Accordingly, the district court denied Marroquin’s request for a one-level
+decrease under § 3E1.1(b)(2). Marroquin took this appeal. II. STANDARD OF REVIEW A sentencing
+court’s evaluation of a defendant’s acceptance of responsibility “is entitled to great deference on
+review,” U.S.S.G. § 3E1.1, comment (n.5). Here, however, Marroquin has already been found to have
+accepted responsibility under § 3E1.1(a)." This leaves open only the narrower question whether he
+has complied with the elements specified in § 3E1.1(b)(2) as preconditions to the additional one-
+level decrease. While we review Guidelines rulings of the district court under ah abuse of
+discretion standard, the Supreme Court has said that a district court commits an abuse of discretion
+by - definition when it makes an error of law. Koon v. United States, 518 U.S. 81, 94-102, 116 S.Ct.
+2035, 2045-48, 135 L.Ed.2d 392 (1996). Hence to the extent it becomes a question of law whether
+there has been compliance with mandatory Guideline criteria such as those in § 3E1.1(b)(2), we do
+not defer to the district court. See United States v. Talladino, 38 F.3d 1255, 1264-65 (1st
+Cir.1994) (a district court lacks the discretion to- deny the one-level adjustment when a defendant
+satisfies the relevant Guideline criteria). We will, of course, defer, in all such matters, to the
+district court’s resolution of underlying facts and inferences, and pay careful attention to its
+reasoning. But if all Guideline criteria are met, and no basis to refuse the one-level decrease can
+be discerned, we cannot defer to the district court’s refusal to grant the decrease. III. DISCUSSION
+Marroquin contends that he met his burden of demonstrating that he is entitled to a one-level
+decrease as a result of a timely plea, cf. United States v. Morillo, 8 F.3d 864, 871 (1st Cir.1993),
+and that the court committed clear error when it found that he had not entered a timely plea of
+guilty for purposes of § 3E1.1(b)(2). Section 3E 1.1(b)(2) requires “timely notif[ication to]
+authorities of [a defendant’s] intention to enter a plea” and lists two elements for determining if
+that happened: first, the plea must have been timely enough to have “permit[ted] the government to
+avoid preparing for trial”; second, its timeliness must be such as to have “permitt[ed] the court to
+allocate its resources efficiently.” U.S.S.G. § 3E1.1(b)(2). We analyze these factors in turn,
+bearing in mind that the timeliness of defendant’s acceptance of-responsibility is “context-
+specific.” United States v. Munoz, 83 F.3d 7, 8-9 n. 1 (1st Cir.1996) (citing U.S.S.G. § 3E1.1
+comment (n.6)). A. Trial Preparation by the Government The district court denied Marroquin’s request
+for an additional decrease primarily because it found -that the government’s responses to
+Marroquin’s pre-trial motions and the chemical analysis performed by the government constituted
+trial preparation, especially given the relative simplicity of the case against Marroquin. We have
+said in dicta that work by prosecutors in responding to pre-trial motions can constitute “preparing
+for trial” within the purview of § 3E1.1(b)(2). See id. However, it is obvious that not every motion
+will force responses that should be characterized as trial preparation. Diligent defense attorneys
+regularly file motions after arraignment seeking information to enable them better to understand
+their client’s case and help their client choose whether to plead or go to trial. They may also
+prudently file motions so as to lay ground work for future tactical choices or to deal with current
+client concerns such as bail and detention. In determining whether motions and the responses thereto
+are bars to the one-level decrease, a key question is whether their primary effect has been to force
+the government to engage in work preparatory for trial, or instead to provide information or relief
+serving legitimate ends other than trial preparation. Having said this, we also recognize that
+motion practice may at times be carried on so aggressively or extensively as to impose heavy burdens
+upon the government. Even if motions do not force the government to prepare for trial, they may
+impose unreasonable burdens at odds with the purpose of § 3E1.1(b) to reward early-stage assistance
+to “authorities in the investigation or prosecution of [defendant’s] own misconduct.” We have stated
+that “defendants who put the prosecutors through their paces by loosing a heavy barrage of pretrial
+motions ... usually cannot expect to receive the bonus discount.” United States v. Dethlefs, 123
+F.3d 39, 43 (1st Cir.1997) (citation omitted). The aim of U.S.S.G. § 3E1.1(b)(2), after all, is to
+reward a defendant who enters his plea “particularly early in the case” and thereby relieves the
+government and court of significant burdens. U.S.S.G. § 3E1.1, comment (n.6) (emphasis added). A
+defendant who files a bevy of motions in order to put prosecutors “through their paces” .should be
+denied a reward of this type. Put another way, a defendant does not lose his right to the one-level
+decrease simply because his attorney has filed pre-trial motions to which the government responds —
+but he may be denied the decrease if the effect of the motions was to force the government to
+prepare for trial or if the motions placed unreasonable or unusually heavy burdens upon the
+government inconsistent with the purpose of the one-level decrease. Marroquin filed eight pre-trial
+motions, seven of which elicited responses from the government prior to Marroquin’s notification of
+his intent to plead guilty. Although the district court found that responding to Marroquin’s motions
+had required a “great deal of work,” it did not make any findings relating the government’s
+responses to the preparation that the government would have had to make for trial, nor did it
+suggest that the motions were a “barrage,” in the sense of being more numerous or more burdensome
+than reasonably justified at that stage. The court did, however, criticize Marro-quin for not
+pleading sooner so as to spare the government from the effort' that went into answering all of the
+motions. We have studied the government’s responses to Marroquin’s motions. We do not find that the
+responses, by themselves or collectively, fall into the trial preparation category. Marroquin’s
+motions undoubtedly forced the government to identify evidence for inspection and to do legal
+research— exercises that could later have proved useful if a trial had taken place. But this sort of
+contingent utility is not a barrier to relief under § 3E1.1.(b), provided the responses also served
+more immediate purposes distinct from trial preparation, and provided the motions were not excessive
+or unduly burdensome. The Guidelines do not force a defendant to forgo the filing of routine
+pretrial motions as the price of receiving a one-step decrease. The motions here were all of a kind
+appropriate at this pre-trial stage. Defendant moved for the government to retain rough notes; for
+discovery and inspection; for the government to reveal the identify of a confidential informant; and
+for a bill of particulars. Marroquin also moved to have his detention order revoked, to
+suppress,'and for severance. No hearings were held. The government prepared written responses, the
+longest addressing the motion to sever. The most troubling finding by the district court was that
+defendant delayed unduly by not pleading guilty earlier, before the government went to the extra
+trouble of responding to the motions. Marroquin responds that he pleaded just as soon as the
+government agreed to drop other charges against him, which he feared would have made him vulnerable
+to a higher sentence. We do not find Marroquin’s delay excessive in all the circumstances. Had
+Marroquin pleaded earlier, the government’s bargain would plainly have been less favorable. There is
+no finding of intransigence, foot dragging, or unreasonableness on Marroquin’s part relative to the
+plea bargaining. Marroquin pleaded guilty only two months after arraignment. Section 3E1.1(b)(2)
+speaks of timely notifying authorities of an intention to plead so as to permit the government to
+avoid preparing for trial. We do not think Marroquin’s attorney had to give up a reasonable
+negotiation for a plea bargain, accomplished within this relatively brief time frame, in order to
+qualify his client for the one-level adjustment. In saying this, we add into our equation the
+additional factors discussed below, namely the government’s insistence that it did not, in fact,
+prepare for trial, the absence of other evidence of trial preparation, and the government’s own
+recommendation that Marroquin receive the one-level decrease. We do not suggest that Marroquin would
+be entitled to the adjustment without these important other factors. 2. The Other Evidence. As just
+noted, another key factor is the government’s concession that Marroquin entered into a timely plea.
+During the course of Marroquin’s first appeal to this court, the government declared that “[t]he
+record suggests no obvious basis for denying the one-level reduction.” On remand, the government’s
+attorney indicated clearly that the government had not prepared for trial: [ATTORNEY]: Since there’s
+been no preparation to [go to] trial. I would have to sit down ... THE COURT: What I’m trying tó do
+is, what would you have to do to prepare for trial? [ATTORNEY]: You would have to ... THE COURT:
+You’re telling me there was no preparation. [ATTORNEY]: That’s right. THE COURT: Maybe the
+preparation was already done. [ATTORNEY]: Well, if it was, then [the government’s first attorney]
+kept it exceedingly well hidden. I have used other cases of his and gone through, and when he’s
+prepared for trial, he at least has a file per witness that had some indication what he intends to
+ask that witness on the stand. I do not find that here, Your Honor. The government explained that
+its case file did not contain any “indication that [the government] had begun preparing for
+trial____ [T]here is no, for example, no draft of a jury instruction[ ], there are no notes that I
+have been able to find that indicate he had begun to prepare witnesses for trial.” The government’s
+statements reinforce our conclusion that its responses to Marroquin’s pre-trial motions were not
+related to trial preparation. Nor do the government’s chemical analysis and the DEA Agent’s
+affidavit demonstrate preparation for trial. At oral argument, the government explained that a
+chemical analysis is a standard procedure that is often performed as part of obtaining an
+indictment. Similarly, in response to a question from the district court, the government stated that
+the DEA Agent’s affidavit “was part of the criminal complaint. I mean, it is the affidavit that
+sought the' criminal complaint against a number of defendants, including [Marroquin].” In denying
+the one-level adjustment, the court referred to the relative simplicity of the case against
+Marroquin, noting that “the Government had available to it the witness [the DEA Agent], who is no
+stranger to the courtroom.” The government informed the district court, however, that it had not yet
+decided how many or which witnesses it would call. THE COURT: Who would the witnesses have been in
+this case, do you know? [ATTORNEY]: Other than [the DEA Agent], I cannot give ' the court a good
+recitation of who the witnesses would have been because I have not prepared to go to trial on this
+case. The court’s apparent conclusion that the government would call only one witness was
+contradicted by the government’s statement that it could well call a number of witnesses. On this
+record, we come to the conclusion that the district court abused its discretion in-concluding that
+the government had engaged in trial preparation substantial enough to deny Marroquin a oné-level
+decrease under § 3El.l(b)(2). B. Efficient Allocation of Judicial Resources.
 
 

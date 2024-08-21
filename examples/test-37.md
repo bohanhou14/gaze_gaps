@@ -1,142 +1,272 @@
 **gold_text:**
-The amendment to Rule 25(a) (1) was intended to dispel unwarranted rigidity and allow more
-flexibility in substitution. “It was intended that liberal effect be given to the 1963 amendment.”
-Roscoe v. Roscoe, 126 U.S.App.D.C. 317, 322, 379 F.2d 94, 99 (1967). “[T]he 90 day period was not
-intended to act as a bar to otherwise meritorious actions.” Staggers v. Otto Gerdau Co., 359 F.2d
-292, 296 (2d Cir. 1966).
+“[Sjtandard principles of statutory construction do not have their usual force in cases involving
+Indian law.” Montana v. Blackfeet Tribe of Indians, 471 U.S. 759, 766, 105 S.Ct. 2399, 2403, 85
+L.Ed.2d 753 (1985). The canons of construction applicable are “rooted in the unique trust
+relationship between the United States and the Indians.” Oneida County v. Oneida Indian Nation, 470
+U.S. 226, 247, 105 S.Ct. 1245, 1258, 84 L.Ed.2d 169 (1985). The Court must construe section
+1631(b)(1) liberally in favor of the tribe and interpret ambiguous provisions to the tribe’s
+benefit. See Hagen v. Utah, -U.S.-,-, 114 S.Ct. 958, 965, 127 L.Ed.2d 252 (1994); South Dakota v.
+Bourland, — U.S. -, -, 113 S.Ct. 2309, 2316, 124 L.Ed.2d 606 (1993); Sisseton-Wahpeton Sioux Tribe
+v. United States, 16 F.3d 261, 264 (8th Cir.1994).
 
 **Generations:**
 
 
 ***GPT-4o:***
-This stringent interpretation contrasts sharply with the intent of the 1963 amendments to Rule 25
-and Rule 6(b), which aimed to inject flexibility and fairness into the substitution process. As
-noted in 379 F.2d 94 and 359 F.2d 292, the amendments were designed to eliminate the inequities and
-hardships caused by the rigid two-year limitation originally imposed. The Advisory Committee
-emphasized that the revised rules were to be liberally construed to allow courts discretion in
-extending the substitution period, recognizing the difficulties that could arise in promptly
-identifying and notifying the proper representative of the deceased.   Given this context, the
-defendant’s counsel's suggestion of death, which lacked identification of a proper representative,
-failed to initiate the 90-day countdown. This interpretation aligns with the judicial precedent that
-courts should prioritize the equitable administration of justice over strict procedural formalities.
-Thus, the district court erred in dismissing the plaintiffs' action without granting the requested
-extension, especially considering the circumstances that inhibited timely substitution, such as the
-injury to plaintiffs' counsel and the ongoing legal processes in the probate court.  We, therefore,
-reverse the judgment and remand for further proceedings consistent with this opinion, ensuring that
-the substitution process adheres to the flexible and just principles intended by the amendments to
-the Federal Rules of Civil Procedure.
+Statutory Construction of 25 U.S.C. § 1631(b)(1)  In determining whether the IHS's action complies
+with the statutory conditions imposed by 25 U.S.C. § 1631(b)(1), we must consider the principles of
+statutory interpretation, particularly those applicable to Indian law. It is a well-established
+canon that statutes concerning Indian tribes are to be construed liberally in favor of the Indians,
+and ambiguous provisions are to be interpreted to their benefit (Reference case 411 U.S. 164, 174).
+Furthermore, the unique trust relationship between the United States and Indian tribes mandates this
+approach (Reference case 470 U.S. 226, 247).  Applying these principles, the discontinuation of
+inpatient services without proper consultation with the tribe and failure to meet the contingencies
+set forth in the PJD, such as ensuring the Wagner Community Memorial Hospital’s JCAHO accreditation
+and Indian representation on its board, violates the statutory requirements. The Wagner facility's
+services were reduced without satisfying the necessary procedural safeguards, contradicting the
+intended statutory protection.  As noted in Reference case 471 U.S. 759, the consent of the affected
+tribe is paramount and must be clearly manifested before any action adversely affecting the tribe's
+interests is taken. The absence of individual notice and hearings further underscores the non-
+compliance with § 1631(b)(1) and the related statutory and regulatory obligations.  Thus, given the
+statutory and judicial precedents, the actions of the IHS in phasing out inpatient and emergency
+services at the Wagner IHS Health Care Facility, without adhering to mandated consultative
+procedures and tribal protections, cannot stand.
 
 
 **Label:** 
 
 
 ***Meta-Llama-3-8B-Instruct:***
-  In the context of Rule 25(a) (1) of the Federal Rules of Civil Procedure, the suggestion of death
-is a crucial step in the process of substituting a deceased party with a proper representative.
-However, not all suggestions of death are created equal. In cases where the suggestion of death is
-made by a party's attorney, but fails to identify a successor or representative of the deceased, the
-90-day period for substitution may not be triggered.  As noted in 359 F.2d 292, the Advisory
-Committee on Civil Rules intended to provide a more flexible standard for substitution, allowing for
-extensions of time and dispensing with the rigid two-year period previously in place. However, this
-flexibility is contingent upon the suggestion of death providing sufficient information to permit
-the court to proceed with substitution.  In the present case, the suggestion of death made by the
-defendant's attorney was deficient in that it failed to identify a successor or representative of
-the deceased. This lack of specificity rendered the suggestion ineffective in triggering the 90-day
-period for substitution, as explained in 379 F.2d 94.  Furthermore, the court's discretion to
-enlarge the time period for substitution, as provided by Rule 6(b), is not a blank check. Rather, it
-is intended to be exercised in a judicious and reasonable manner, taking into account the particular
-circumstances of each case.  In light of these principles, we conclude that the district court erred
-in dismissing the action with prejudice. The case should be remanded for further proceedings,
-allowing the parties to properly substitute a representative of the deceased and continue the action
-in a manner consistent with the Federal Rules of Civil Procedure.
+ Under the principles of statutory construction applicable in Indian law, Canons of Construction,
+the Court must construe liberally in favor of the Indians, with ambiguous provisions interpreted to
+their benefit. In the case, the Court must consider the Oneida County v. Oneida Indian Nation, 470
+U.S. 226, 247 (1985), and Oneida County v. Oneida Indian Nation, 471 U.S. 759 (1985), which
+emphasized the importance of considering the unique trust relationship between the United States and
+the Indians.  In this case, the Court finds that the statutory condition, 25 U.S.C. § 1631(b)(1), is
+ambiguous and requires interpretation. The Court must also consider the Indian Health Care
+Improvement Act of 1976, 25 U.S.C. §§ 1601-1682, which authorized the construction and renovation of
+health care facilities, including the Wagner IHS Health Care Facility. The Court notes that the
+statute required the Secretary to consult with Indian tribes and to assure that the facility, not
+later than one year after its construction or renovation, shall meet the standards of the Joint
+Committee on Accreditation of Hospitals.  Therefore, the Court holds that the IHS decision to
+renovate the Wagner IHS Health Care Facility, resulting in the elimination of inpatient medical
+services and threatened termination of 24-hour emergency room services, is subject to judicial
+review. The Court relies on the principles of statutory construction and the unique trust
+relationship between the United States and the Indians to construe the statute in favor of the
+Indians.  In conclusion, the Court finds that the IHS decision to renovate the Wagner IHS Health
+Care Facility is subject to judicial review under the APA, 5 U.S.C. § 702. The Court also finds that
+the statutory condition, 25 U.S.C. § 1631(b)(1), is ambiguous and requires interpretation in favor
+of the Indians. The Court relies on the principles of statutory construction and the unique trust
+relationship between the United States and the Indians to construe the statute in favor of the
+Indians.
 
 
 **Label:** 
 
 
-**citations:** ['379 F.2d 94', '359 F.2d 292']
+**citations:** ['471 U.S. 759', '470 U.S. 226', '16 F.3d 261']
 
-***short_citations_0:*** 379 F.2d 94
+***short_citations_0:*** 471 U.S. 759
 
-the proper parties. * * * Unless the motion for substitution is made not later than 90 days after the death is suggested upon the record by service of a statement of the fact of the death as provided herein for the service of the motion, the action shall be dismissed as to the deceased party.” Here not only had the 90-day period not expired when the court entered summary judgment, the appellant by her motion for reconsideration had specifically invoked the discretion of the court. Rule 6(b) provides pertinently that when “by these rules * * * an act is required or allowed to be done at or within a specified time, the court for cause shown may at any time in its discretion (1) with or without motion or notice order the period enlarged if request therefor is made before the expiration of the period originally prescribed * * Originally the Rule had precluded an extension of time for taking action under Rule 25(a) (1), but by purposeful amendment, it was sought to relieve against the hardship of the Court’s holding in Anderson v. Yungkau, 329 U.S. 482, 67 S.Ct. 428, 91 L.Ed. 436 (1947). It was intended that liberal effect be given to the 1963 amendment. Graham v. Pennsylvania Railroad, 119 U.S.App.D.C. 335, 342 F.2d 914 (1964), cert. denied, 381 U.S. 904, 85 S.Ct. 1446, 14 L.Ed.2d 286 (1965). We are constrained to reverse for further proceedings not inconsistent with this opinion. Reversed. The only “party” then
+appreciate, however, that the standard principles of statutory construction do not have their usual force in cases involving Indian law. As we said earlier this Term, “[t]he canons of construction applicable in Indian law are rooted in the unique trust relationship between the United States and the Indians.” Oneida County v. Oneida Indian Nation, 470 U. S. 226, 247 (1985). Two such canons are directly applicable in this case: first, the States may tax Indians only when Congress has manifested clearly its consent to such taxation, e. g., Bryan v. Itasca County, supra, at 393; second, statutes are to be construed liberally in favor of the Indians, with ambiguous provisions interpreted to their benefit, e. g., McClanahan v. Arizona State Tax Comm’n, 411 U. S. 164, 174 (1973); Choate v. Trapp, 224 U. S. 665, 675 (1912). When the 1924 and 1938 Acts are considered in light of these principles, it is clear that the 1924 Act does not authorize Montana to enforce its tax statutes with respect to leases issued under the 1938 Act. I — I <1 Nothing in either the text or legislative history of the 1938 Act suggests that Congress intended to permit States to tax tribal royalty income generated by leases issued pursuant to that Act. The statute contains no explicit consent to state taxation. Nor is there any indication that Congress intended to incorporate implicitly in the 1938 Act the taxing authority of the 1924 Act. Contrary to the State’s suggestion, under the applicable
 
-***short_citations_1:*** 359 F.2d 292
+***short_citations_1:*** 470 U.S. 226
 
-insertion of a “reasonable time” standard. In 1963, the Advisory Committee suggested the present rule and noted: “Present Rule 25(a) (1), together with present Rule 6(b), results in an inflexible requirement that an action be dismissed as to a deceased party if substitution is not carried out within a fixed period measured from the time of the death. The hardships and inequities of this unyielding requirement plainly appear from the cases. * * * The amended rulé establishes a time limit for the motion to substitute based not upon the time of the death, but rather upon the time information of the death is provided by means of a suggestion of death upon the record, i. e. service of a statement of the fact of the death.” See Notes of Advisory Committee on the Civil Rules, 28 U.S.C. Rule 25 (1964). Rule 6(b) of the Federal Rules of Civil Procedure was also amended in 1963 and the prohibition against extending the time for taking action under Rule 25 was eliminated. The Advisory Committee on the Civil Rules noted: “It is intended that the court shall have discretion to enlarge that period.” The amendments of Rules 6(b) and 25(a) (1) provided needed flexibility. It was assumed that discretionary extensions would be liberally granted. Movants under Rule 25 can ordinarily control when a death is “suggested upon the record” and appellants’ attorney was under no obligation to file his affidavit of Staggers’ death on the date he did. He could have filed
+unpersuaded by petitioners’ contention that the United States has ratified the unlawful 1795 conveyances. Petitioners base this argument on federally approved treaties in 1798 and 1802 in which the Oneidas ceded additional land to the State of New York. There is a question whether the 1802 treaty ever became effective. Assuming it did, neither the 1798 nor the 1802 treaty qualifies as federal ratification of the 1795 conveyance. The canons of construction applicable in Indian law are rooted in the unique trust relationship between the United States and the Indians. Thus, it is well established that treaties should be construed liberally in favor of the Indians, Choctaw Nation v. United States, 318 U. S. 423, 431-432 (1943); Choate v. Trapp, 224 U. S. 665, 675 (1912), with ambiguous provisions interpreted to their benefit, McClanahan v. Arizona State Tax Comm’n, 411 U. S. 164, 174 (1973); Carpenter v. Shaw, 280 U. S. 363, 367 (1930); Winters v. United States, 207 U. S. 564, 576-577 (1908). “Absent explicit statutory language,” Washington v. Washington State Commercial Passenger Fishing Vessel Assn., 443 U. S. 658, 690 (1979), this Court accordingly has refused to find that Congress has abrogated Indian treaty rights. Menominee Tribe v. United States, 391 U. S. 404 (1968). See generally F. Cohen, Handbook of Federal Indian Law 221-225 (1982 ed.) (hereinafter F. Cohen). The Court has applied similar canons of construction in nontreaty matters. Most importantly, the Court has held that congressional intent to extinguish Indian title must be “plain and
+
+***short_citations_2:*** 16 F.3d 261
+
+ambiguous statutory provision. Good Samaritan Hosp. v. Shalala, — U.S. -, -, 113 S.Ct. 2151, 2159, 124 L.Ed.2d 368 (1993). The Commission classified keno as class III gaming because keno is a house banking game. The Tribes contend that in light of the avowed purpose of the statute to increase Tribal economic development and Tribal self-sufficiency, this classification is arbitrary and capricious. The Tribes point out that it is a tenet of statutory construction that “statutes are to be construed liberally in favor of the Indians, with ambiguous provisions interpreted to their benefit.” South Dakota v. Bour land, — U.S. -, -, 113 S.Ct. 2309, 2316, 124 L.Ed.2d 606 (1993) (citations omitted). In making this argument, the Tribes ignore the dual purpose behind IGRA. IGRA has as its avowed purposes: (1) to provide a statutory basis for the operation of gaming by Indian tribes as a means of promoting tribal economic development, self-sufficiency, and strong tribal governments; (2) to provide a statutory basis for the regulation of gaming by an Indian tribe adequate to shield it from organized crime and other corrupting influences, to ensure that the Indian tribe is the primary beneficiary of the gaming operation, and to assure that gaming is conducted fairly and honestly by both the operator and players. 25 U.S.C. § 2702. In an attempt to effectuate the second purpose of the statute, and to shield Indian gaming from corruption, the Commission drew a bright line between house banking games and other types of gaming.
 
 **prev_text:**
-LEVENTHAL, Circuit Judge: The District Court held that Rule 25(a) (1) of the Federal Rules of Civil
-Procedure required dismissal of the plaintiffs’ tort action because defendant’s counsel had filed a
-suggestion of death of the defendant yet plaintiff had not made any substitution of parties within
-90 days. We reverse on the ground that the suggestion of death, which was neither filed by nor
-identified a successor or representative of the deceased, such as an executor or administrator, was
-ineffective to trigger the running of the 90-day period provided by the Rule. Mr. and Mrs. John
-Rende filed an action in the District Court individually and on behalf of their infant son who had
-been struck and injured by Alfred S. Kay while driving his car. On August 27, 1967, defendant Kay
-died. On September 1, 1967, the defendant’s attorney, a term used here to identify the lawyer who
-had been retained by deceased to defend the action, and who had duly entered an appearance as
-attorney for defendant, filed a suggestion of death in the District Court, giving notice to
-plaintiffs’ attorney. That same day there was filed in the Orphans Court for Montgomery County,
-Maryland, residence of the deceased, his will naming his widow as executrix, but the will had not
-been probated, nor any legal representative appointed for the estate at the time of the filing of
-this appeal. Plaintiffs’ attorney was injured on October 14, 1967. On returning to practice early in
-1968, he learned that no successor to defendant Kay had yet been appointed, and he moved to certify
-the case to the ready calendar. The defendant’s attorney opposed this on grounds that discovery
-procedures had not been completed. The case was delayed and placed on the ready calendar as of June
-7, 1968. However, in April 1968, the defendant’s attorney moved in his own name to dismiss the
-action on the ground that Rule 25(a) (1) required plaintiffs to move to substitute a proper party
-for the deceased within 90 days of the suggestion of death. Plaintiffs filed an opposition and
-motion for substitution of the proper party, and sought an extension of the time for substitution as
-allowed by Rule 6(b). At argument, plaintiffs’ counsel asserted the “suggestion of death was
-defective in that it did not list the name of the proper party; that is the legal representative of
-the defendant.” The court responded: “That would not be his burden.” The court dismissed the action
-with prejudice. Prior to its amendment in 1963, Rule 25(a) (1) required the court to dismiss a case
-if no motion for substitution was filed within two. years after date of death, and no extensions of
-this period were allowed under Rule 6(b). The rule was rigorously applied, often with harsh results,
-and was called “easily the poorest rule of all the Federal Rules.” In 1955 the Advisory Committee on
-Rules for Civil Procedure recommended that the two-year period be changed to a “reasonable time”
-standard. In 1961 the Advisory Committee on Civil Rules again suggested the Rule be made more
-flexible. In 1963 the Supreme Court made changes in Rule 25(a) (1) and in Rule 6(b) so as to provide
-a 90-day time limit from the filing of a suggestion of death, and to give the court discretion to
-extend that time. The Committee Notes explaining the amendments state: Present Rule 25(a) (1),
-together with present Rule 6(b), results in an inflexible requirement that an action be dismissed as
-to a deceased party if substitution is not carried out within a fixed period measured from the time
-of death. The hardships and inequities of this unyielding requirement plainly appear from the cases.
-* * * The amended rule establishes a time limit for the motion to substitute based not upon the time
-of the death, but rather upon the time information of the death is provided by means of a suggestion
-of death upon the record. * * * A motion to substitute may be made by any party or by the
-representative of the deceased party without awaiting the suggestion of death. Indeed, the motion
-will usually be so made. If a party or the representative of the deceased party desires to limit the
-time within which another may make the motion, he may do so by suggesting the death upon the record.
-(Emphasis added.) Under the amended Rule either a party or “the successors or representatives of the
-deceased party” may avoid delay in effecting substitution for the deceased party either by filing a
-motion for substitution or by suggesting death on the record and thus triggering the 90-day period
-which begins with suggestion of death. The Advisory Committee, in outlining that suggestion of death
-could be made by “the representative of the deceased party” plainly contemplated that the suggestion
-emanating from the side of the deceased would identify a representative of the estate, such as an
-executor or administrator, who could be substituted for the deceased as a party, with the action
-continued in the name of the representative. The addition of “successor” in the Rule would take care
-of the case of, say, the distributee of an estate that had been distributed, but would not make a
-material difference in the aspect under consideration. Form 30, for suggestion of death, which was
-provided in order to expedite and facilitate implementation of the amendment, provides: A.B.
-[described as a party, or as executor, administrator, or other representative or successor of C.D.,
-the deceased party\ suggests upon the record, pursuant to Rule 25(a) (1), the death of C.D.
-[describe as party] during the pendency of this action. Added Jan. 21, 1963, eff. July 1, 1963.
-[Emphasis added.] Although the attorney for the defendant was retained to “represent” the deceased
-as his counsel, he is not a person who could be made a party, and is not a “representative of the
-deceased party” in the sense contemplated by Rule 25(a) d). In our opinion the Rule, as amended,
-cannot fairly be construed, as the de fendant’s attorney argues, to make his suggestion of death
-operative to trigger the 90-day period even though he was neither a successor nor representative of
-the deceased, and gave no indication of what person was available to be named in substitution as a
-representative of the deceased. Counsel’s construction would open the door to a tactical maneuver to
-place upon the plaintiff the burden of locating the representative of the estate within 90 days. We
-can conceive of cases wherein even the lawyer retained to represent a defendant might know the
-defendant had died, yet not readily know where his estate would be administered. In the present
-case, plaintiff’s attorney did know the court of probate, but he did not know whether probate of the
-will might be contested, or who would be appointed representative of the estate. The tactic of the
-defendant’s attorney would place on plaintiff the burden, where no conventional representative was
-appointed for the estate in probate court, of instituting machinery in order to produce some
-representative of the estate ad litem, pending appointment of the representative contemplated by law
-of the domicile of the deceased.
+MEMORANDUM OPINION AND ORDER PIERSOL, District Judge. Plaintiffs challenge decisions of the Indian
+Health Service (IHS) to discontinue inpatient and emergency medical services for members of the
+Yankton Sioux Tribe at the Wagner IHS Health Care Facility. Plaintiffs seek judicial review of these
+agency decisions under the Administrative Procedures Act (APA), 5 U.S.C. § 702. They also assert
+Fifth Amendment due process and equal protection claims. On April 1, the Court issued a temporary
+restraining order enjoining Defendants from reducing 24-hour emergency room service and terminating
+the employment of sixteen medical staff employees at the Wagner IHS Health Care Facility. The Court
+expedited this matter on its calendar and held a bench trial on Thursday and Friday, April 28 & 29,
+1994. The Court received and considered the brief amici curiae of the Rosebud Sioux Tribe and the
+Santee Sioux Tribe of Nebraska. At the close of the evidence and after hearing arguments of counsel,
+the Court ruled from the bench and will now more fully explain its oral rulings. Findings of Fact
+The Snyder Act of 1921, 25 U.S.C. § 13, and the Indian Health Care Improvement Act of 1976, 25
+U.S.C. §§ 1601-1682, comprise the legislative authority for health care programs and facilities that
+are administered by the Indian Health Service (IHS), an agency of the Public Health Service within
+the Department of Health and Human Services. The Wagner IHS Hospital was built in 1937 and by 1981
+was listed as number four on the IHS Health Facilities Construction Priority List. In 1982, the
+General Accounting Office (GAO) issued a report suggesting that IHS should re-evaluate inpatient
+services at nine locations. As a result of the report, IHS developed a guideline limiting
+replacement inpatient facilities to those expected to have an average daily patient load (ADPL) of
+fifteen. IHS did not officially adopt this guideline until 1988 or 1989. At the Wagner IHS facility,
+however, ADPL was around six, and thus, IHS determined in 1983 that the projected workload did not
+justify building a replacement facility providing inpatient services. In fiscal year 1984, Congress
+appropriated, pursuant to the Indian Health Care Improvement Act, 25 U.S.C. §§ 1601-1682, a lump-sum
+amount of more than $53 million for IHS construction and renovation projects. (Gov’t, ex. B at 4.)
+According to the testimony, this figure included $360,000 for planning and design of an ambulatory
+care facility at Wagner, which would provide outpatient and preventative health services. Witnesses
+testified, and defendants did not dispute, that IHS is obligated to consult with Indian tribes
+before constructing or renovating health care facilities. During the fiscal year 1985 hearing before
+the Subcommittee of the Committee on Appropriations of the House of Representatives, Dr. Everett R.
+Rhoades, Assistant Surgeon General, Director, Indian Health Service, reported that the tribe was not
+convinced of the value of an outpatient facility and that negotiations toward reaching consensus
+were ongoing. (Gov’t, ex. A, at 2-3.) Upon questioning by the Chairman of the Subcommittee, Mr.
+Sidney R. Yates, Dr. Rhoades acknowledged that the tribe wanted a hospital, but that IHS believed
+inpatient care could be purchased on contract at Wagner Community Memorial Hospital. In July 1986,
+the Wagner Health Care Facility Program Justification Document (PJD) was approved by Dr. Rhoades;
+John H. Kelso, Acting Administrator, Health Resources and Services Administration; and Robert E.
+Windom, M.D., Assistant Secretary for Health. (PL ex. 1.) It authorized construction of a new
+ambulatory care facili ty, and provided that inpatient services would be phased out by January 1,
+1990, because of the availability of alternative inpatient facilities at the nearby Wagner Community
+Memorial Hospital and at other regional hospitals, including Sacred Heart Hospital in Yankton, South
+Dakota. Dr. Richard Olson, Director of Patient Care Professional Affairs in the Office of Health
+Programs at IHS headquarters, testified that 24-hour emergency room services were to be phased out
+at the Wagner IHS facility, along with the inpatient services. The PJD also provided for certain
+contingencies: The IHS Aberdeen Area Office will assure during contract negotiations for inpatient
+care that the contracting hospital is JCA-HO [Joint Commission on Accreditation of Health Care
+Organizations] accredited and will provide care at least comparable to IHS facilities; grants IHS
+medical personnel staff privileges; will allow patient care surveillance; and that Indians be
+appointed to the Board of Directors. (PL ex. 1 at 4.) Dr. Terry Sloan, former Aberdeen Area Director
+from November 1984 to March 1992, testified that preparation of a PJD is a complicated process that
+involves direct negotiation with the tribe. He testified that, by signing the PJD, high-level
+officials approved of the plan, including the PJD’s provision that inpatient services at the Wagner
+IHS facility would be phased out by January 1, 1990. He further testified it was his understanding
+that the Wagner IHS inpatient facility could not be closed until the above-quoted contingencies
+included in the PJD were met. Dr. Olson testified, however, that the contingencies were required to
+be met during the process of contracting for inpatient services, not before closing the Wagner IHS
+inpatient facility. In any event, witnesses testified, and the Court finds, that the contingencies
+have not been met to date. Officials of the Wagner Community Memorial Hospital have not signed a
+contract to provide inpatient services for tribal patients, although that hospital is providing
+contract care for tribal members. Inpatient services at the Wagner IHS facility ended on November
+16, 1992. Dr. Sloan testified that the Wagner Community Memorial Hospital is not JCAHO accredited,
+while the Wagner IHS facility was among the top ten hospitals accredited by JCAHO. No Indians have
+been appointed to the Wagner Community Memorial Hospital Board of Directors, and patient care
+surveillance is not permitted. Although Wagner Community Memorial Hospital granted IHS physicians
+staff privileges, the IHS physicians resigned those privileges in protest of Wagner Community’s
+policy that it will not treat tribal members who are suffering from alcohol-related conditions. Vern
+Donnell, Service Unit Director, testified that forty percent of patients treated by Wagner IHS have
+a history of alcoholism. The evidence indicates that in 1983 the IHS Aberdeen Area Office notified
+Mr. Leonard Hare, Jr., Chairman of the Health Board of the Yankton Sioux Tribe, that IHS intended to
+build an ambulatory care facility and phase out the existing inpatient services at the Wagner IHS
+hospital. Dr. Sloan, Dr. Olson, and Vern Donnell all testified that IHS administrators participated
+in meetings with officials of the tribe and the Wagner Community Memorial Hospital regarding
+discontinuation of inpatient services at the Wagner IHS facility. Dr. Sloan testified, however, that
+he did not give the tribe official notice, nor did he receive an order from his superiors to give
+the tribe official notice, of closure of the Wagner IHS in-patient facility. He testified that the
+tribe was aware closure might happen and that the tribe had expressed an interest in exercising
+self-determination to operate the inpatient facility if IHS planned to close it. Jolene Arrow,
+Secretary of the Tribal Council, testified that the tribe did not receive notice of the
+discontinuance of inpatient services and that, based upon information from Vern Donnell, Service
+Unit Director, the tribe thought the closure was temporary because of heating and ventilation
+concerns. Darlene Williamson testified that she received notice the same day the inpatient facility
+closed. The parties stipulated at trial that IHS did not provide Yankton Sioux tribal members with
+individual notice that inpatient services and 24-hour emergency room services would be discontinued
+at the Wagner IHS facility. The parties also stipulated that IHS did not provide Yankton Sioux
+tribal members with individual hearings relating to the discontinuance of these services. In
+September 1988, for fiscal year 1989, Congress appropriated, again pursuant to the Indian Health
+Care Improvement Act, 25 U.S.C. §§ 1601-1682, over $61 million dollars for IHS construction
+projects, $4,227,000 of which was earmarked for the Wagner IHS Health Care Facility. (Gov’t, exs.
+D-F.) Construction of the new portion of the facility began in August 1991. Inpatient services
+ceased as of November 16, 1992, and the facility has operated since that date as an ambulatory care
+and emergency facility. The facility as it now exists cannot support inpatient services. (Gov’t, ex.
+I.) Dr. Olson testified that the IHS administers 49 hospitals, 150 health centers, and 350 other
+part-time or intermittent health centers, but IHS does not provide each tribe with similar services.
+He testified that the level of services provided depends upon workload, including a consideration of
+ADPL, the location and accessibility of alternative medical services, and the ability to recruit and
+retain quality professionals. Effective November 23,1988, Congress enacted Public Law 100-713,
+Indian Health Care Amendments of 1988, which substantially altered and added to the provisions of 25
+U.S.C. § 1631. In addition to its previous direction to consult with Indian tribes regarding planned
+construction or renovation of health care facilities, Congress added the following: (b) Closure;
+report on proposed closure (1) Notwithstanding any provision of law other than this subsection, no
+Service hospital or outpatient health care facility of the Service, or any portion of such a
+hospital or facility, may be closed if the Secretary has not submitted to the Congress at least 1
+year prior to the date such hospital or facility (or portion thereof) is proposed to be closed an
+evaluation of the impact of such proposed closure which specifies, in addition to other
+considerations— (A) the accessibility of alternative health care resources for the population served
+by such hospital or facility; (B) the cost effectiveness of such closure; (C) the quality of health
+care to be provided to the population served by such hospital or facility after such closure; (D)
+the availability of contract health care funds to maintain existing levels of service; (E) the views
+of the Indian tribes served by such hospital or facility concerning such closure. (2) Paragraph (1)
+shall not apply to any temporary closure of a facility or of any portion of a facility if such
+closure is necessary for medical, environmental, or safety reasons. Dr. Olson testified that,
+because he thought amended section 1631(b)(1) applied to the Wagner IHS facility, he directed Reba
+Walker, Aberdeen Area Associate Director since March 1992, to prepare a Draft Impact Study pursuant
+to the statute. Ms. Walker testified that it was usual practice to prepare for any eventuality that
+might occur, and she directed a member of her staff, Sandy Coulter, to prepare the Draft Impact
+Study. Ms. Coulter testified that the draft concluded it would be more cost-effective to provide
+inpatient services directly to tribal members, assuming that the tribe built the facility, rather
+than to obtain such services through contract care. The draft study did not include the costs of new
+inpatient construction or staffing. According to Ms. Walker, the draft never became a finalized,
+signed document adopted by the agency. Both she and Dr. Olson testified that the efforts to produce
+the document ended when, in September 1993, then Director of the Indian Health Service, Michael
+Lincoln, stated in a letter to Plaintiffs’ counsel that section 1631(b)(1) does not apply to the
+Wagner IHS facility because that facility’s PJD became final in 1986, before passage of the
+statutory amendment. Mr. Jerome DeWolf, a staff member of the Aberdeen Area Office for four years,
+testified that, in the summer of 1991, he received a directive from IHS Headquarters to analyze the
+cost-effectiveness of six hospitals in the Aberdeen Area, using fiscal year 1990 data. He testified
+that he was directed to replicate a 1982 New Mexico study, but the methodology used in the Aberdeen
+study ultimately differed because pass-through costs were added. The study concluded that it would
+be more cost-effective to operate all six hospitals rather than to contract for service. He also
+testified that the ADPL policy had its origins in the early 1980’s, but the policy was not given
+full effect until 1988-89. There was concern as to how the low-ADPL policy would affect the Aberdeen
+area; testimony reveals that low-ADPL hospitals at Rosebud and at Winnebago, Nebraska, were not
+closed, while the Wagner inpatient facility was closed. Dr. Olson testified, however, that the
+Rosebud facility was not closed because of its remote location as it lies 170 miles from Pierre or
+Rapid City. Although IHS officials planned to phase out 24-hour emergency room services along with
+inpatient services, evidence reveals that the Wagner IHS Health Care Facility has continued to
+provide emergency room services as it had for many years. Darlene Williamson testified that the loss
+of inpatient services resulted in a corresponding loss of Medicare and Medicaid funding so that the
+Wagner facility is currently running at a minimum $400,000 deficit. She testified that, as a result
+of this deficit, IHS officials planned to eliminate 24-hour emergency room services and terminate
+the positions of sixteen medical, staff personnel. Additionally, she testified that, on a monthly
+average, the IHS facility handles 500 emergency room visits, while the Wagner Community Memorial
+Hospital handles two emergency room visits, and thus, the local hospital cannot accommodate tribal
+needs. She also testified that the loss of health services at the Wagner IHS facility has caused
+hardship on tribal members who lack transportation and exacerbates problems rooted in cultural
+differences. Mr. Darryl Drapeau, Yankton Sioux Tribal Chairman, testified that he has received
+reports by tribal members of racial mistreatment at the Wagner Community Memorial Hospital, but he
+did not discuss these reports with hospital officials or report them to the State Medical Board. Mr.
+Vern Donnell testified, however, that IHS pays for Category I (life threatening) emergency room care
+provided to tribal members at Wagner Community Memorial Hospital and other regional hospitals.
+Judicial Review The APA provides that “[a] person suffering legal wrong because of agency action, or
+adversely affected or aggrieved by agency action within the meaning of a relevant statute, is
+entitled to judicial review thereof.” 5 U.S.C. § 702. The Supreme Court has read the APA as
+embodying a “basic presumption of judicial review.” Abbott Laboratories v. Gardner, 387 U.S. 136,
+140, 87 S.Ct. 1507, 1511, 18 L.Ed.2d 681 (1967). However, the Supreme Court has again recently made
+clear that, under 5 U.S.C. § 701(a)(2), agency action is not subject to judicial review “ ‘to the
+extent that’ ” such action “ ‘is committed to agency discretion by law.’ ” Lincoln v. Vigil, — U.S.
+-, -, -, 113 S.Ct. 2024, 2027, 2030, 124 L.Ed.2d 101 (1993). Thus, the Court must determine whether
+the decisions of the IHS at issue here are judicially reviewable. In Lincoln, the Supreme Court held
+that the decision by the IHS to discontinue the Indian Children’s Program for handicapped children
+in the Southwest was not subject to judicial review under the APA because the decision was committed
+to agency discretion by law. Id. at-, 113 S.Ct. at 2027. Although the IHS repeatedly apprised
+Congress of the continuing operation of the program, IHS supported the program with funds from its
+annual lump-sum appropriation; Congress never expressly appropriated funds for the program. Id. at--
+-, 113 S.Ct. at 2028-29. The Supreme Court reasoned that the allocation of funds from a lump-sum
+appropriation is an “administrative decision traditionally regarded as committed to agency
+discretion,” id. at-, 113 S.Ct. at 2031, and so long as the agency allocates funds from a lump-sum
+appropriation to meet permissible statutory objectives, the APA gives the courts “no leave to
+intrude.” Id. at -, 113 S.Ct. at 2032. Where Congress appropriates lump-sum amounts without
+restricting statutorily what can be done with the funds, a clear inference arises that Congress does
+not intend to impose legally binding restrictions. Id. at-, 113 S.Ct. at 2031. The Court finds that
+Lincoln is distinguishable from the case at bar. Contrary to Lincoln, Congress specifically
+appropriated funds for construction and renovation of the Wagner IHS Health Care Facility. More
+importantly, Congress placed statutory conditions upon the expenditure of the construction funds by
+IHS. The Indian Health Care Improvement Act of 1976 included a provision codified at 25 U.S.C. §
+1631, which provided: (c) Consultation with Indian tribes; standards Prior to the expenditure of, or
+the making of any firm commitment to expend, any funds authorized in subsection (a) of this section,
+the Secretary, acting through the Service shall— (1) consult with any Indian tribe to be
+significantly affected by any such expenditure for the purpose of determining and, wherever
+practicable, honoring tribal preferences concerning the size, location, type, and other
+characteristics of any facility on which such expenditure is to be made; and (2) be assured that,
+wherever practicable, such facility, not later than one year after its construction or renovation,
+shall meet the standards of the Joint Committee on Accreditation of Hospitals. Because Congress
+imposed these statutory conditions on the expenditure of funds, the Court concludes that Lincoln v.
+Vigil is distinguishable. The Court finds that it may judicially review the IHS decision to renovate
+the Wagner IHS Health Care Facility, which resulted in the elimination of inpatient medical services
+and the threatened termination of 24-hour emergency room services and a reduction in medical staff.
+See Mount Evans Co. v. Madigan, 14 F.3d 1444, 1449 (10th Cir.1994) (distinguishing Lincoln v. Vigil
+on the ground that Congress statutorily limited the discretion of the Forest Service in expending
+funds). , Statutory Construction of 25 U.S.C. § 1631(b)(1)
 
 

@@ -1,142 +1,185 @@
 **gold_text:**
-The amendment to Rule 25(a) (1) was intended to dispel unwarranted rigidity and allow more
-flexibility in substitution. “It was intended that liberal effect be given to the 1963 amendment.”
-Roscoe v. Roscoe, 126 U.S.App.D.C. 317, 322, 379 F.2d 94, 99 (1967). “[T]he 90 day period was not
-intended to act as a bar to otherwise meritorious actions.” Staggers v. Otto Gerdau Co., 359 F.2d
-292, 296 (2d Cir. 1966).
+Westinghouse contends that even if formal proof of its claim was not filed within the statutory
+period for filing claims, nevertheless the correspondence hereinbefore quoted, and the action of its
+attorney within such period, constituted an informal proof of its claim and a sufficient basis for
+granting it leave to amend and file a formal proof of claim after the expiration of the statutory
+period. The rule that certain acts of a creditor in the course of a bankruptcy proceeding and during
+the statutory period for filing proof of claim, may give rise to something equivalent to a proof of
+claim .and afford a sufficient basis for allowing an .amendment after the statutory period for
+filing, was recognized and applied in many cases decided before the 1938 amendment of the Bankruptcy
+Act. See In re Atlantic Gulf & Pacific S. S. Corporation, D.C., 26 F.2d 751; In re Fant, D.C., 21
+F.2d 182; Globe Indemnity Co. of Newark, N. J., v. Keeble, 4 Cir., 20 F.2d 84; In re Coleman & Titus
+Corporation, D.C., 286 F. 303; In re Roeber, 2 Cir., 127 F. 122.
 
 **Generations:**
 
 
 ***GPT-4o:***
-This stringent interpretation contrasts sharply with the intent of the 1963 amendments to Rule 25
-and Rule 6(b), which aimed to inject flexibility and fairness into the substitution process. As
-noted in 379 F.2d 94 and 359 F.2d 292, the amendments were designed to eliminate the inequities and
-hardships caused by the rigid two-year limitation originally imposed. The Advisory Committee
-emphasized that the revised rules were to be liberally construed to allow courts discretion in
-extending the substitution period, recognizing the difficulties that could arise in promptly
-identifying and notifying the proper representative of the deceased.   Given this context, the
-defendant’s counsel's suggestion of death, which lacked identification of a proper representative,
-failed to initiate the 90-day countdown. This interpretation aligns with the judicial precedent that
-courts should prioritize the equitable administration of justice over strict procedural formalities.
-Thus, the district court erred in dismissing the plaintiffs' action without granting the requested
-extension, especially considering the circumstances that inhibited timely substitution, such as the
-injury to plaintiffs' counsel and the ongoing legal processes in the probate court.  We, therefore,
-reverse the judgment and remand for further proceedings consistent with this opinion, ensuring that
-the substitution process adheres to the flexible and just principles intended by the amendments to
-the Federal Rules of Civil Procedure.
+The Westinghouse Company's reliance on an informal proof of its claim is unsupported by the
+established legal standards. In 21 F.2d 182, it is emphasized that a valid amendment requires an
+original claim to have been filed within the statutory period. Without such a filing, amendment
+privileges do not apply, as the statute aims to prevent dilatory creditors from filing claims after
+the deadline. Similarly, 20 F.2d 84 reinforces that informal documentation, which substantially
+mirrors a formal claim, may support an amendment only if an original proof had been timely
+submitted.  Furthermore, the precedent set in Hutchinson v. Otis & Co., mentioned in 20 F.2d 84,
+reflects that bankruptcy courts exhibit liberal discretion in permitting amendments when there is an
+existing formal or informal basis filed initially. This flexibility, however, does not extend to
+situations where no foundational claim exists within the statutory period, as addressed in the case
+In re Schaffner, also cited in 20 F.2d 84.  In this case, since the referee did not receive the
+mailed proof of claim, its non-receipt fails to constitute the necessary filing requirement, per the
+ruling in In re R. B. Rose Co., Inc. cited in 43 F.2d 446. Therefore, despite the Westinghouse
+Company's arguments, the absence of a filed claim within the statutory timeframe precludes the
+possibility of amendment under established bankruptcy laws and supporting precedents.
 
 
 **Label:** 
 
 
 ***Meta-Llama-3-8B-Instruct:***
-  In the context of Rule 25(a) (1) of the Federal Rules of Civil Procedure, the suggestion of death
-is a crucial step in the process of substituting a deceased party with a proper representative.
-However, not all suggestions of death are created equal. In cases where the suggestion of death is
-made by a party's attorney, but fails to identify a successor or representative of the deceased, the
-90-day period for substitution may not be triggered.  As noted in 359 F.2d 292, the Advisory
-Committee on Civil Rules intended to provide a more flexible standard for substitution, allowing for
-extensions of time and dispensing with the rigid two-year period previously in place. However, this
-flexibility is contingent upon the suggestion of death providing sufficient information to permit
-the court to proceed with substitution.  In the present case, the suggestion of death made by the
-defendant's attorney was deficient in that it failed to identify a successor or representative of
-the deceased. This lack of specificity rendered the suggestion ineffective in triggering the 90-day
-period for substitution, as explained in 379 F.2d 94.  Furthermore, the court's discretion to
-enlarge the time period for substitution, as provided by Rule 6(b), is not a blank check. Rather, it
-is intended to be exercised in a judicious and reasonable manner, taking into account the particular
-circumstances of each case.  In light of these principles, we conclude that the district court erred
-in dismissing the action with prejudice. The case should be remanded for further proceedings,
-allowing the parties to properly substitute a representative of the deceased and continue the action
-in a manner consistent with the Federal Rules of Civil Procedure.
+  In the case of Westinghouse Electric Supply Company vs. Beattie, the company filed a petition to
+amend its alleged proof of claim by filing a formal proof of claim after the expiration of the six-
+months' period allowed for filing claims. The court has to decide whether the company can amend its
+claim after the expiration of the statutory period.  According to the reference case 21 F.2d 182, an
+amendment must be based upon an original claim, filed. The power of permitting amendment must not be
+perverted to let in dilatory creditors who have failed to file any proof of claim within the
+statutory year limited for filing claims. The court also stated that the allowance of the amendment
+addresses itself largely to the discretion of the court, provided there is a sufficient basis for
+the amendment.  In this case, the Westinghouse Company claimed that it had mailed a proof of claim
+to the referee on February 2, 1949, but it was never received by the referee. However, the referee
+found that no formal claim was filed by the Westinghouse Company within the statutory six-months'
+period and that no informal proof of claim had been established upon which an amendment might be
+predicated.  The reference case 20 F.2d 84 states that "where a paper presented for filing, although
+informal, contains the substance of a formal claim, it is sufficient as the basis of an amended
+claim filed after expiration of the year allowed by Bankruptcy Act, § 57n." However, in this case,
+the Westinghouse Company failed to file a formal claim within the statutory period and did not
+establish an informal proof of claim.  In conclusion, the court ruled that the Westinghouse Company
+cannot amend its claim after the expiration of the statutory period. The company failed to file a
+formal claim within the statutory period and did not establish an informal proof of claim. The
+court's decision is in line with the reference cases 21 F.2d 182 and 20 F.2d 84.
 
 
 **Label:** 
 
 
-**citations:** ['379 F.2d 94', '359 F.2d 292']
+**citations:** ['21 F.2d 182', '20 F.2d 84']
 
-***short_citations_0:*** 379 F.2d 94
+***short_citations_0:*** 21 F.2d 182
 
-the proper parties. * * * Unless the motion for substitution is made not later than 90 days after the death is suggested upon the record by service of a statement of the fact of the death as provided herein for the service of the motion, the action shall be dismissed as to the deceased party.” Here not only had the 90-day period not expired when the court entered summary judgment, the appellant by her motion for reconsideration had specifically invoked the discretion of the court. Rule 6(b) provides pertinently that when “by these rules * * * an act is required or allowed to be done at or within a specified time, the court for cause shown may at any time in its discretion (1) with or without motion or notice order the period enlarged if request therefor is made before the expiration of the period originally prescribed * * Originally the Rule had precluded an extension of time for taking action under Rule 25(a) (1), but by purposeful amendment, it was sought to relieve against the hardship of the Court’s holding in Anderson v. Yungkau, 329 U.S. 482, 67 S.Ct. 428, 91 L.Ed. 436 (1947). It was intended that liberal effect be given to the 1963 amendment. Graham v. Pennsylvania Railroad, 119 U.S.App.D.C. 335, 342 F.2d 914 (1964), cert. denied, 381 U.S. 904, 85 S.Ct. 1446, 14 L.Ed.2d 286 (1965). We are constrained to reverse for further proceedings not inconsistent with this opinion. Reversed. The only “party” then
+ease itself, within the year fixed by the statute, to support an amendment after the expiration of the year. In Remington on Bankruptcy, vol. 2, § 747, it is said: “An amendment must be based upon an original claim, filed. And the power of permitting amendment must not be perverted to let in dilatory creditors who have failed to file any proof of claim within the statutory year limited for filing claims. # * * » Again in the same section it is said: “But, at any rate, the original proof need not be formal in order to support an amendment. Thus an agreement to accept a settlement, signed by the creditor and setting forth the amount and nature of his claim, will be sufficient to support an amendment. Again, a mere letter mentioning the claim, received by receiver and acknowledged by him to the creditor, has been held a sufficient basis.” It would seem from this authority and cases cited in the notes to section 747 that the allowance of the amendment addresses itself largely to the discretion of the court, provided there is a sufficient basis for the amendment. Again in the same authority (section 889), we find: “Of course, there must have been an original proof duly filed within the year; otherwise there would be nothing by whieh to amend; and the power of amendment is not to be distorted to let in dilatory creditors who have filed no proof within the limited year. But the original
 
-***short_citations_1:*** 359 F.2d 292
+***short_citations_1:*** 20 F.2d 84
 
-insertion of a “reasonable time” standard. In 1963, the Advisory Committee suggested the present rule and noted: “Present Rule 25(a) (1), together with present Rule 6(b), results in an inflexible requirement that an action be dismissed as to a deceased party if substitution is not carried out within a fixed period measured from the time of the death. The hardships and inequities of this unyielding requirement plainly appear from the cases. * * * The amended rulé establishes a time limit for the motion to substitute based not upon the time of the death, but rather upon the time information of the death is provided by means of a suggestion of death upon the record, i. e. service of a statement of the fact of the death.” See Notes of Advisory Committee on the Civil Rules, 28 U.S.C. Rule 25 (1964). Rule 6(b) of the Federal Rules of Civil Procedure was also amended in 1963 and the prohibition against extending the time for taking action under Rule 25 was eliminated. The Advisory Committee on the Civil Rules noted: “It is intended that the court shall have discretion to enlarge that period.” The amendments of Rules 6(b) and 25(a) (1) provided needed flexibility. It was assumed that discretionary extensions would be liberally granted. Movants under Rule 25 can ordinarily control when a death is “suggested upon the record” and appellants’ attorney was under no obligation to file his affidavit of Staggers’ death on the date he did. He could have filed
+re Mercur (D. C.) 116 F. 655; In re Roeber (C. C. A.) 127 F. 122; In re Fairlamb (D. C.) 199 F. 278; In re McCarthy P. E. Co. (D. C.) 205 F. 986; Hutchinson v. Otis & Co., 190 U. S. 552, 23 S. Ct. 778, 47 L. Ed. 1179; In re Schaffner (C. C. A.) 267 F. 977. “Where a paper presented for filing, although informal, contains the substance of a formal claim, it is sufficient as the basis of an amended claim filed after expiration of the year allowed by Bankruptcy Act, § 57n.”“ In re Drexel Hill Motor Co. (D. C.) 270 F. 673. In Re Kessler (C. C. A.) 184 F. 51, theeourt said: “ * * * It has been repeatedly held that ‘a proof of claim’ which is defective in some ■ substantial particular may. be amended, and that such amendment may be made subsequent to the expiration of one year .after adjudication, although the effect of such amendment may be that ‘proof of claim’ is thereby effectively made only after the year. * * *” The court also quotes with approval the following language from Hutchinson v. Otis, 115 F. 937, 941, afterwards affirmed in Hutchinson v. Otis, 190 U. S. 552, 23 S. Ct. 778, 47 L. Ed. 1179: “Courts of bankruptcy, like courts of admiralty, permit amendments with a most liberal hand, and as there was enough in the original proof by which to. amend, and as the District
 
 **prev_text:**
-LEVENTHAL, Circuit Judge: The District Court held that Rule 25(a) (1) of the Federal Rules of Civil
-Procedure required dismissal of the plaintiffs’ tort action because defendant’s counsel had filed a
-suggestion of death of the defendant yet plaintiff had not made any substitution of parties within
-90 days. We reverse on the ground that the suggestion of death, which was neither filed by nor
-identified a successor or representative of the deceased, such as an executor or administrator, was
-ineffective to trigger the running of the 90-day period provided by the Rule. Mr. and Mrs. John
-Rende filed an action in the District Court individually and on behalf of their infant son who had
-been struck and injured by Alfred S. Kay while driving his car. On August 27, 1967, defendant Kay
-died. On September 1, 1967, the defendant’s attorney, a term used here to identify the lawyer who
-had been retained by deceased to defend the action, and who had duly entered an appearance as
-attorney for defendant, filed a suggestion of death in the District Court, giving notice to
-plaintiffs’ attorney. That same day there was filed in the Orphans Court for Montgomery County,
-Maryland, residence of the deceased, his will naming his widow as executrix, but the will had not
-been probated, nor any legal representative appointed for the estate at the time of the filing of
-this appeal. Plaintiffs’ attorney was injured on October 14, 1967. On returning to practice early in
-1968, he learned that no successor to defendant Kay had yet been appointed, and he moved to certify
-the case to the ready calendar. The defendant’s attorney opposed this on grounds that discovery
-procedures had not been completed. The case was delayed and placed on the ready calendar as of June
-7, 1968. However, in April 1968, the defendant’s attorney moved in his own name to dismiss the
-action on the ground that Rule 25(a) (1) required plaintiffs to move to substitute a proper party
-for the deceased within 90 days of the suggestion of death. Plaintiffs filed an opposition and
-motion for substitution of the proper party, and sought an extension of the time for substitution as
-allowed by Rule 6(b). At argument, plaintiffs’ counsel asserted the “suggestion of death was
-defective in that it did not list the name of the proper party; that is the legal representative of
-the defendant.” The court responded: “That would not be his burden.” The court dismissed the action
-with prejudice. Prior to its amendment in 1963, Rule 25(a) (1) required the court to dismiss a case
-if no motion for substitution was filed within two. years after date of death, and no extensions of
-this period were allowed under Rule 6(b). The rule was rigorously applied, often with harsh results,
-and was called “easily the poorest rule of all the Federal Rules.” In 1955 the Advisory Committee on
-Rules for Civil Procedure recommended that the two-year period be changed to a “reasonable time”
-standard. In 1961 the Advisory Committee on Civil Rules again suggested the Rule be made more
-flexible. In 1963 the Supreme Court made changes in Rule 25(a) (1) and in Rule 6(b) so as to provide
-a 90-day time limit from the filing of a suggestion of death, and to give the court discretion to
-extend that time. The Committee Notes explaining the amendments state: Present Rule 25(a) (1),
-together with present Rule 6(b), results in an inflexible requirement that an action be dismissed as
-to a deceased party if substitution is not carried out within a fixed period measured from the time
-of death. The hardships and inequities of this unyielding requirement plainly appear from the cases.
-* * * The amended rule establishes a time limit for the motion to substitute based not upon the time
-of the death, but rather upon the time information of the death is provided by means of a suggestion
-of death upon the record. * * * A motion to substitute may be made by any party or by the
-representative of the deceased party without awaiting the suggestion of death. Indeed, the motion
-will usually be so made. If a party or the representative of the deceased party desires to limit the
-time within which another may make the motion, he may do so by suggesting the death upon the record.
-(Emphasis added.) Under the amended Rule either a party or “the successors or representatives of the
-deceased party” may avoid delay in effecting substitution for the deceased party either by filing a
-motion for substitution or by suggesting death on the record and thus triggering the 90-day period
-which begins with suggestion of death. The Advisory Committee, in outlining that suggestion of death
-could be made by “the representative of the deceased party” plainly contemplated that the suggestion
-emanating from the side of the deceased would identify a representative of the estate, such as an
-executor or administrator, who could be substituted for the deceased as a party, with the action
-continued in the name of the representative. The addition of “successor” in the Rule would take care
-of the case of, say, the distributee of an estate that had been distributed, but would not make a
-material difference in the aspect under consideration. Form 30, for suggestion of death, which was
-provided in order to expedite and facilitate implementation of the amendment, provides: A.B.
-[described as a party, or as executor, administrator, or other representative or successor of C.D.,
-the deceased party\ suggests upon the record, pursuant to Rule 25(a) (1), the death of C.D.
-[describe as party] during the pendency of this action. Added Jan. 21, 1963, eff. July 1, 1963.
-[Emphasis added.] Although the attorney for the defendant was retained to “represent” the deceased
-as his counsel, he is not a person who could be made a party, and is not a “representative of the
-deceased party” in the sense contemplated by Rule 25(a) d). In our opinion the Rule, as amended,
-cannot fairly be construed, as the de fendant’s attorney argues, to make his suggestion of death
-operative to trigger the 90-day period even though he was neither a successor nor representative of
-the deceased, and gave no indication of what person was available to be named in substitution as a
-representative of the deceased. Counsel’s construction would open the door to a tactical maneuver to
-place upon the plaintiff the burden of locating the representative of the estate within 90 days. We
-can conceive of cases wherein even the lawyer retained to represent a defendant might know the
-defendant had died, yet not readily know where his estate would be administered. In the present
-case, plaintiff’s attorney did know the court of probate, but he did not know whether probate of the
-will might be contested, or who would be appointed representative of the estate. The tactic of the
-defendant’s attorney would place on plaintiff the burden, where no conventional representative was
-appointed for the estate in probate court, of instituting machinery in order to produce some
-representative of the estate ad litem, pending appointment of the representative contemplated by law
-of the domicile of the deceased.
+STARR, District Judge. On September 17, 1951, the Westinghouse Electric Supply Company filed
+petition for review of an order of the referee in' bankruptcy entered September 7, 1951. The order
+appealed from denied the petition of the Westinghouse Company filed May 22, 1951, for leave to amend
+an alleged informal proof of its claim against the bankrupt by the filing of a formal proof, after
+the expiration of the six-months’ period allowed for filing claims. On his voluntary petition
+Clarence R. Beattie was adjudged a bankrupt January 14, 1949, and George H. Cross was appointed and
+qualified as trustee of the bankrupt’s estate. The schedules listed the Westinghouse Company as an
+unsecured judgment creditor in the amount of $1-579.41. On February 2, 1949, attorney Harold H.
+Smedley of Muskegon, Michigan, who represented the Westinghouse Company, wrote the referee as
+follows: “Re : Clarence R. Beattie, bankrupt. Will you please advise the date of the first meeting
+of creditors in the above bankrupt matter?” At a hearing before the referee Smedley testified that
+with this letter he enclosed a proof of the claim of the Westinghouse Company. However, it appears
+that this proof of claim was never received by the referee. The next day, February 3d, the referee
+sent the usual form of notice to all creditors, including the Westinghouse Company and attorney
+Smedley, informing them that the first meeting of the bankrupt’s creditors would be held February
+16th. This notice was never received by the Westinghouse Company, but Smedley testified that he
+received notice of such first meeting. However, it appears that Smedley was not present and that the
+Westinghouse Company was not represented at the creditors’ meeting on the 16th. On April 14, 1949,
+the attorney for the trustee wrote Smedley as follows: “I understand that you are local attorney for
+Westinghouse Electric Supply Company. I represent George FI. Cross, trustee of the above bankrupt
+(Clarence R. Beat-tie). “The trustee is informed that on December 15, 1948, the bankrupt made a bulk
+sale of merchandise to Westinghouse without complying with the Bulk Sales Law. The amount involved
+was $242.30. The adjudication took place January 14, 1949. “Will your client voluntarily pay the
+trustee $242.30 ? Are we misinformed about the transaction?” On April 15th Smedley replied: “In
+reference to your letter of April 14, concerning the Westinghouse Electric Supply Company, I
+represented them in obtaining a judgment against Beattie on January 3, 1949, after having been
+endeavoring to collect $1,579.41 from them since October 22, 1948. T know of no bulk sales by
+Beattie to Westinghouse during that period of time. As far as I know and as far as my records
+disclose -you have been misinformed.” On May 5th Smedley again wrote the attorney for the trustee:
+“In furtherance of your letter of April 14th concerning an alleged bulk sale to Westinghouse, there
+you have been misinformed. There was no such transaction. At one time, Beattie offered to return
+some merchandise for credit but it was refused. I have verified this with the Detroit attorneys for
+the Westinghouse Company.” On September 23, 1949, Smedley wrote the trustee: “I think a further
+examination should be made as to where all the money went in this bankruptcy. Here is a signed
+statement Beattie made on January 5, 1948, in which he lists current assets at $53,150, with no
+liabilities. It was on this statement that the Westinghouse Electric Company sold the merchandise to
+this man. Will the trustee in bankruptcy do something about it?” In reply to this last letter, the
+trustee wrote Smedley on September 24th as follows : “I am in receipt of your letter of Sept. 23,
+enclosing statement furnished by the bankrupt to Westinghouse Electric Supply Co. under date of
+1-5-48. “A somewhat similar statement was furnished by the bankrupt to the B. F. Goodrich Company,
+and the matter was gone into quite fully before the referee in a hearing on the petition of the B.
+F. Goodrich Co. to reclaim certain merchandise alleged to have been sold in reliance upon such
+statement. The checks and bank deposit book of the bankrupt disclose that he did actually have on
+hand approximately $9,000 in cash or in the bank. The real estate which is valued in the statement
+at $22,500 was his home on Peck Street, the title to which stood in the joint names of himself and
+wife. “If you think a further investigation should be made, I would suggest that you file a petition
+under the provisions of Sect. 21-a of the Bankruptcy Law. “I am returning the statement which you
+enclosed.” On July 20, 1950, Smedley wrote the referee in bankruptcy concerning the Beattie
+bankruptcy proceeding: “What is the present situation in the above named bankruptcy matter which
+occurred about a year ago? We filed a claim and never heard anything of it since. Was it closed? Was
+there any dividend?” The statutory period for filing claims in the Beattie bankruptcy proceeding
+expired August 16, 1949. Section 57, sub. n of the Bankruptcy Act as amended, 11 U.S.C. § 93, sub.
+n, provides: “Except as otherwise provided in this Act, all claims provable under this Act, * * *
+shall be proved and filed in the manner provided in this section. Claims which are not filed within
+six months after the first date set for the first meeting of creditors shall not be allowed”. On May
+22, 1951, nearly two years after the expiration of the six-months’ period allowed for filing claims,
+the Westinghouse Company filed the following petition for leave to amend its alleged proof of claim
+by the filing of formal proof of claim: “The petitioner Westinghouse Electric Supply Company, a
+Michigan corporation, by its attorney Harold H. Smedley, respectfully represents: “1. That the
+Westinghouse Electric Supply Company is a judgment creditor of the above named bankrupt on a
+judgment rendered January 3, 1949 in the circuit court of the county of Muskegon in the amount of
+$1,579.41, with costs of $24.70. “2. That a proof of claim of the above named creditor was on
+February 2, 1949 mailed to the above named referee in bankruptcy for the amount of $1,503.20, which
+was the amount remaining unpaid on said judgment. “3. That said proof of claim was never filed in
+the bankruptcy court and hence said claim has not been allowed, although the claim does appear on
+the schedules filed with the bankruptcy court by the bankrupt. “4. That your petitioner has at
+various times discussed this claim with the trustee and his attorney and that they have both
+acknowledged the validity and existence of this claim against the bankrupt estate. “5. That the time
+for the filing of any new claims has expired the last date of filing being August 16, 1949, and that
+the claim of your petitioner as a new claim cannot now be duly filed. “6. That your petitioner prays
+that an order be entered granting this petitioner the right to amend its claim so that its claim can
+be properly filed and allowed.” This petition by Westinghouse to amend its claim appears to be based
+on the theory that even though it had not filed and proved its claim within the six-months’ period,
+the correspondence between its attorney and the trustee and his attorney and the referee constituted
+an informal proof of claim and a sufficient ground for granting leave to amend after the period for
+filing had expired. In pursuance of its petition to amend, the Westinghouse Company about July S,
+1951, tendered to the referee a formal proof of its claim against the bankrupt. Objections to the
+petition to amend and to the proposed formal claim were filed by the B. F. Goodrich Company, a
+creditor of the bankrupt. It appears that prior to the filing of the Westinghouse petition to amend,
+the trustee in bankruptcy had instituted suit in the circuit court of Muskegon county against the
+Goodrich Company to set aside certain transfers of property by the bankrupt, on the ground that the
+transfers were in violation of the so-called bulk sales law. As the amount of the trustee’s recovery
+in this suit against Goodrich would be limited to a total of the liabilities of the bankrupt,
+Goodrich as defendant in that suit had a vital interest in the Westinghouse claim, because if it
+were allowed, the contingent liability of Goodrich to the trustee would be increased by the amount
+of the claim. In support of its petition to amend, the Westinghouse Company alleged that a formal
+proof of its claim was mailed by its attorney to the referee on February 2, 1949.. However, it
+appears from the record that this proof of claim was never received by the referee. The referee
+found that no formal claim was filed by the Westinghouse-Company within the statutory six-months’
+period and that no informal proof of claim had been established upon which an amendment might be
+predicated. In its petition for review the Westinghouse Company contends that the referee erred in
+finding that it had not filed proof of its claim on February 2, 1949, and also erred in finding that
+it had not made such informal proof of claim as would entitle it to amend by filing formal proof
+after the expiration of the-six-months’ period. There appears to be some dispute as to-whether, at
+the hearing before the referee, attorney Smedley testified that he mailed proof of the Westinghouse
+claim to the referee on February 2, or November 2,. 1949. However, this would seem to be immaterial,
+and in this opinion the court will assume that he mailed proof of claim to the referee on February
+2, 1949, but that such proof was not received by the referee. Assuming that proof of its claim was
+mailed to the referee within the statutory period for filing claims, that fact cannot aid the
+petitioner. The law is well established that the proof of claim must be- - filed within the
+statutory period and that merely placing a proof of claim in the mail properly addressed to the
+referee does not satisfy the filing requirement of section 57,. sub. n of the Bankruptcy Act. In the
+case of In re R. B. Rose Co., Inc., D.C., 43 F.2d 446, 447, the court said: “Section 57, sub. n * *
+* provides that ‘claims shall not be proved against a bankrupt estate subsequent to six months after
+the adjudication * * *.’ There is no statute authorizing the mailing the proof of claim or providing
+that mailing is sufficient. The creditor who selects-the mail as a vehicle for filing his proof of
+claim assumes the risk of loss or miscarriage. This is a well-known rule, and the fact that the lost
+paper is a proof of claim for filing with a referee in bankruptcy creates no exception.” See also In
+re Harris Bros., D.C., 5 F.Supp. 191.
 
 

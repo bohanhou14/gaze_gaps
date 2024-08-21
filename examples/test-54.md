@@ -1,142 +1,368 @@
 **gold_text:**
-The amendment to Rule 25(a) (1) was intended to dispel unwarranted rigidity and allow more
-flexibility in substitution. “It was intended that liberal effect be given to the 1963 amendment.”
-Roscoe v. Roscoe, 126 U.S.App.D.C. 317, 322, 379 F.2d 94, 99 (1967). “[T]he 90 day period was not
-intended to act as a bar to otherwise meritorious actions.” Staggers v. Otto Gerdau Co., 359 F.2d
-292, 296 (2d Cir. 1966).
+. The Rule 56.1 Statements of Undisputed Facts submitted by each party in support of their
+respective motions contain a litany of allegedly "disputed” facts. The Court, therefore, looks
+beyond these statements and recites the facts as they appear in the record. See Vt. Teddy Bear Co.,
+Inc. v. 1-800 Beargram Co., 373 F.3d 241, 244 (2d Cir.2004) (requiring District Courts to look
+beyond parties’ Rule 56.1 statements to ensure that "the citation to evidence in the record supports
+the assertion” (citing Giannullo v. City of N.Y., 322 F.3d 139, 143 n. 5 (2d Cir.2003))).
 
 **Generations:**
 
 
 ***GPT-4o:***
-This stringent interpretation contrasts sharply with the intent of the 1963 amendments to Rule 25
-and Rule 6(b), which aimed to inject flexibility and fairness into the substitution process. As
-noted in 379 F.2d 94 and 359 F.2d 292, the amendments were designed to eliminate the inequities and
-hardships caused by the rigid two-year limitation originally imposed. The Advisory Committee
-emphasized that the revised rules were to be liberally construed to allow courts discretion in
-extending the substitution period, recognizing the difficulties that could arise in promptly
-identifying and notifying the proper representative of the deceased.   Given this context, the
-defendant’s counsel's suggestion of death, which lacked identification of a proper representative,
-failed to initiate the 90-day countdown. This interpretation aligns with the judicial precedent that
-courts should prioritize the equitable administration of justice over strict procedural formalities.
-Thus, the district court erred in dismissing the plaintiffs' action without granting the requested
-extension, especially considering the circumstances that inhibited timely substitution, such as the
-injury to plaintiffs' counsel and the ongoing legal processes in the probate court.  We, therefore,
-reverse the judgment and remand for further proceedings consistent with this opinion, ensuring that
-the substitution process adheres to the flexible and just principles intended by the amendments to
-the Federal Rules of Civil Procedure.
+DEFENDANTS’ MOTION FOR SUMMARY JUDGMENT (Cont.)  Assessing whether Defendants have met their burden
+on summary judgment involves adhering to principles from precedent. Specifically, summary judgment
+is improper if the moving party fails to produce evidence establishing the absence of genuine issues
+of material fact. As emphasized in Giannullo, "the non-movant is not required to rebut an
+insufficient showing" (322 F.3d at 141). Furthermore, the court must ensure the moving party’s Rule
+56.1 statement is substantiated by record evidence, as reliance solely on unverified assertions can
+compromise judicial fact-finding (Giannullo, 322 F.3d at 143 n. 5).  Unopposed summary judgment may
+also fail if the movant does not demonstrate entitlement to judgment as a matter of law (Champion v.
+Artuz, 76 F.3d 483, 486 (2d Cir. 1996)). Should there be ambiguity in the grounds of a summary
+judgment order, remand is necessary for clarity and correctness (Miranda v. Bennett, 322 F.3d 171,
+175 (2d Cir. 2003)).  Additionally, under Local Rule 56.1, the moving party's burden is to
+explicitly reference admissible evidence supporting each undisputed fact. Unsupported facts, despite
+being uncontroverted, must be disregarded, necessitating an independent review of the record (322
+F.3d 139).  In light of these principles and precedents, Defendants’ motion for summary judgment
+appropriately addresses and substantiates their claims, meeting the legal standards required.
 
 
 **Label:** 
 
 
 ***Meta-Llama-3-8B-Instruct:***
-  In the context of Rule 25(a) (1) of the Federal Rules of Civil Procedure, the suggestion of death
-is a crucial step in the process of substituting a deceased party with a proper representative.
-However, not all suggestions of death are created equal. In cases where the suggestion of death is
-made by a party's attorney, but fails to identify a successor or representative of the deceased, the
-90-day period for substitution may not be triggered.  As noted in 359 F.2d 292, the Advisory
-Committee on Civil Rules intended to provide a more flexible standard for substitution, allowing for
-extensions of time and dispensing with the rigid two-year period previously in place. However, this
-flexibility is contingent upon the suggestion of death providing sufficient information to permit
-the court to proceed with substitution.  In the present case, the suggestion of death made by the
-defendant's attorney was deficient in that it failed to identify a successor or representative of
-the deceased. This lack of specificity rendered the suggestion ineffective in triggering the 90-day
-period for substitution, as explained in 379 F.2d 94.  Furthermore, the court's discretion to
-enlarge the time period for substitution, as provided by Rule 6(b), is not a blank check. Rather, it
-is intended to be exercised in a judicious and reasonable manner, taking into account the particular
-circumstances of each case.  In light of these principles, we conclude that the district court erred
-in dismissing the action with prejudice. The case should be remanded for further proceedings,
-allowing the parties to properly substitute a representative of the deceased and continue the action
-in a manner consistent with the Federal Rules of Civil Procedure.
+ That's right! I'm here to help answer your questions and provide information on a wide range of
+topics. What's on your mind? Do you have a specific question or topic you'd like to discuss? I'm all
+ears!
 
 
 **Label:** 
 
 
-**citations:** ['379 F.2d 94', '359 F.2d 292']
+**citations:** ['373 F.3d 241', '322 F.3d 139']
 
-***short_citations_0:*** 379 F.2d 94
+***short_citations_0:*** 373 F.3d 241
 
-the proper parties. * * * Unless the motion for substitution is made not later than 90 days after the death is suggested upon the record by service of a statement of the fact of the death as provided herein for the service of the motion, the action shall be dismissed as to the deceased party.” Here not only had the 90-day period not expired when the court entered summary judgment, the appellant by her motion for reconsideration had specifically invoked the discretion of the court. Rule 6(b) provides pertinently that when “by these rules * * * an act is required or allowed to be done at or within a specified time, the court for cause shown may at any time in its discretion (1) with or without motion or notice order the period enlarged if request therefor is made before the expiration of the period originally prescribed * * Originally the Rule had precluded an extension of time for taking action under Rule 25(a) (1), but by purposeful amendment, it was sought to relieve against the hardship of the Court’s holding in Anderson v. Yungkau, 329 U.S. 482, 67 S.Ct. 428, 91 L.Ed. 436 (1947). It was intended that liberal effect be given to the 1963 amendment. Graham v. Pennsylvania Railroad, 119 U.S.App.D.C. 335, 342 F.2d 914 (1964), cert. denied, 381 U.S. 904, 85 S.Ct. 1446, 14 L.Ed.2d 286 (1965). We are constrained to reverse for further proceedings not inconsistent with this opinion. Reversed. The only “party” then
+does not meet the mov-ant’s burden of production, then “summary judgment must be denied even if no opposing evidentiary matter is presented.” Id. (internal quotation marks omitted); Giannullo, 322 F.3d at 141 (noting that the “non-movant is not required to rebut an insufficient showing”). Moreover, in determining whether the moving party has met this burden of showing the absence of a genuine issue for trial, the district court may not rely solely on the statement of undisputed facts contained in the moving party’s Rule 56.1 statement. It must be satisfied that the citation to evidence in the record supports the assertion. Giannullo, 322 F.3d at 143 n. 5 (stating that not verifying in the record the assertions in the motion for summary judgment “would derogate the truth-finding functions of the judicial process by substituting convenience for facts”). An unopposed summary judgment motion may also fail where the undisputed facts fail to “ ‘show that the moving party is entitled to judgment as a matter of law.’ ” Champion v. Artuz, 76 F.3d 483, 486 (2d Cir.1996) (per curiam) (quoting Fed.R.Civ.P. 56(c)). Where the order granting summary judgment is insufficiently clear to permit this Court to determine whether the grounds for granting the motion are valid, remand is appropriate. See Miranda v. Bennett, 322 F.3d 171, 175 (2d Cir.2003); Amaker, 274 F.3d at 681 n. 1 (vacating and remanding the judgment of the district court that granted an unopposed summary judgment motion is singularly appropriate “as the district court is in
 
-***short_citations_1:*** 359 F.2d 292
+***short_citations_1:*** 322 F.3d 139
 
-insertion of a “reasonable time” standard. In 1963, the Advisory Committee suggested the present rule and noted: “Present Rule 25(a) (1), together with present Rule 6(b), results in an inflexible requirement that an action be dismissed as to a deceased party if substitution is not carried out within a fixed period measured from the time of the death. The hardships and inequities of this unyielding requirement plainly appear from the cases. * * * The amended rulé establishes a time limit for the motion to substitute based not upon the time of the death, but rather upon the time information of the death is provided by means of a suggestion of death upon the record, i. e. service of a statement of the fact of the death.” See Notes of Advisory Committee on the Civil Rules, 28 U.S.C. Rule 25 (1964). Rule 6(b) of the Federal Rules of Civil Procedure was also amended in 1963 and the prohibition against extending the time for taking action under Rule 25 was eliminated. The Advisory Committee on the Civil Rules noted: “It is intended that the court shall have discretion to enlarge that period.” The amendments of Rules 6(b) and 25(a) (1) provided needed flexibility. It was assumed that discretionary extensions would be liberally granted. Movants under Rule 25 can ordinarily control when a death is “suggested upon the record” and appellants’ attorney was under no obligation to file his affidavit of Staggers’ death on the date he did. He could have filed
+Judge KEARSE dissents in a separate opinion. RAKOFF, District Judge. Rule 56.1 of the Local Civil Rules of the United States District Courts for the Southern and Eastern Districts of New York (“Local Rule 56.1”) requires a party moving for summary judgment to submit a statement of the allegedly undisputed facts on which the moving party relies, together with citation to the admissible evidence of record supporting each such fact. See Local Rule 56.1(a), (d). If the opposing party then fails to controvert a fact so set forth in the moving party’s Rule 56.1 statement, that fact will be deemed admitted. See Local Rule 56.1(c). However, as we held in Holtz v. Rockefeller & Co., Inc., 258 F.3d 62, 74 (2d Cir.2001), “[t]he local rule does not absolve the party seeking summary judgment of the burden of showing that it is entitled to judgment as a matter of law, and a Local Rule 56.1 statement is not itself a vehicle for making factual assertions that are otherwise unsupported in the record.” In the instant case, as in Holtz, the record does not support certain critical assertions in the defendant’s Rule 56.1 statement on which the district court relied, with the result that, even though plaintiffs Rule 56.1 counter-statement failed to specifically controvert these assertions, the unsupported assertions must nonetheless be disregarded and the record independently reviewed. See Holtz, 258 F.3d at 74. The issue here arises on the appeal of plaintiff-appellant Mark Giannullo from a judgment of the United States
 
 **prev_text:**
-LEVENTHAL, Circuit Judge: The District Court held that Rule 25(a) (1) of the Federal Rules of Civil
-Procedure required dismissal of the plaintiffs’ tort action because defendant’s counsel had filed a
-suggestion of death of the defendant yet plaintiff had not made any substitution of parties within
-90 days. We reverse on the ground that the suggestion of death, which was neither filed by nor
-identified a successor or representative of the deceased, such as an executor or administrator, was
-ineffective to trigger the running of the 90-day period provided by the Rule. Mr. and Mrs. John
-Rende filed an action in the District Court individually and on behalf of their infant son who had
-been struck and injured by Alfred S. Kay while driving his car. On August 27, 1967, defendant Kay
-died. On September 1, 1967, the defendant’s attorney, a term used here to identify the lawyer who
-had been retained by deceased to defend the action, and who had duly entered an appearance as
-attorney for defendant, filed a suggestion of death in the District Court, giving notice to
-plaintiffs’ attorney. That same day there was filed in the Orphans Court for Montgomery County,
-Maryland, residence of the deceased, his will naming his widow as executrix, but the will had not
-been probated, nor any legal representative appointed for the estate at the time of the filing of
-this appeal. Plaintiffs’ attorney was injured on October 14, 1967. On returning to practice early in
-1968, he learned that no successor to defendant Kay had yet been appointed, and he moved to certify
-the case to the ready calendar. The defendant’s attorney opposed this on grounds that discovery
-procedures had not been completed. The case was delayed and placed on the ready calendar as of June
-7, 1968. However, in April 1968, the defendant’s attorney moved in his own name to dismiss the
-action on the ground that Rule 25(a) (1) required plaintiffs to move to substitute a proper party
-for the deceased within 90 days of the suggestion of death. Plaintiffs filed an opposition and
-motion for substitution of the proper party, and sought an extension of the time for substitution as
-allowed by Rule 6(b). At argument, plaintiffs’ counsel asserted the “suggestion of death was
-defective in that it did not list the name of the proper party; that is the legal representative of
-the defendant.” The court responded: “That would not be his burden.” The court dismissed the action
-with prejudice. Prior to its amendment in 1963, Rule 25(a) (1) required the court to dismiss a case
-if no motion for substitution was filed within two. years after date of death, and no extensions of
-this period were allowed under Rule 6(b). The rule was rigorously applied, often with harsh results,
-and was called “easily the poorest rule of all the Federal Rules.” In 1955 the Advisory Committee on
-Rules for Civil Procedure recommended that the two-year period be changed to a “reasonable time”
-standard. In 1961 the Advisory Committee on Civil Rules again suggested the Rule be made more
-flexible. In 1963 the Supreme Court made changes in Rule 25(a) (1) and in Rule 6(b) so as to provide
-a 90-day time limit from the filing of a suggestion of death, and to give the court discretion to
-extend that time. The Committee Notes explaining the amendments state: Present Rule 25(a) (1),
-together with present Rule 6(b), results in an inflexible requirement that an action be dismissed as
-to a deceased party if substitution is not carried out within a fixed period measured from the time
-of death. The hardships and inequities of this unyielding requirement plainly appear from the cases.
-* * * The amended rule establishes a time limit for the motion to substitute based not upon the time
-of the death, but rather upon the time information of the death is provided by means of a suggestion
-of death upon the record. * * * A motion to substitute may be made by any party or by the
-representative of the deceased party without awaiting the suggestion of death. Indeed, the motion
-will usually be so made. If a party or the representative of the deceased party desires to limit the
-time within which another may make the motion, he may do so by suggesting the death upon the record.
-(Emphasis added.) Under the amended Rule either a party or “the successors or representatives of the
-deceased party” may avoid delay in effecting substitution for the deceased party either by filing a
-motion for substitution or by suggesting death on the record and thus triggering the 90-day period
-which begins with suggestion of death. The Advisory Committee, in outlining that suggestion of death
-could be made by “the representative of the deceased party” plainly contemplated that the suggestion
-emanating from the side of the deceased would identify a representative of the estate, such as an
-executor or administrator, who could be substituted for the deceased as a party, with the action
-continued in the name of the representative. The addition of “successor” in the Rule would take care
-of the case of, say, the distributee of an estate that had been distributed, but would not make a
-material difference in the aspect under consideration. Form 30, for suggestion of death, which was
-provided in order to expedite and facilitate implementation of the amendment, provides: A.B.
-[described as a party, or as executor, administrator, or other representative or successor of C.D.,
-the deceased party\ suggests upon the record, pursuant to Rule 25(a) (1), the death of C.D.
-[describe as party] during the pendency of this action. Added Jan. 21, 1963, eff. July 1, 1963.
-[Emphasis added.] Although the attorney for the defendant was retained to “represent” the deceased
-as his counsel, he is not a person who could be made a party, and is not a “representative of the
-deceased party” in the sense contemplated by Rule 25(a) d). In our opinion the Rule, as amended,
-cannot fairly be construed, as the de fendant’s attorney argues, to make his suggestion of death
-operative to trigger the 90-day period even though he was neither a successor nor representative of
-the deceased, and gave no indication of what person was available to be named in substitution as a
-representative of the deceased. Counsel’s construction would open the door to a tactical maneuver to
-place upon the plaintiff the burden of locating the representative of the estate within 90 days. We
-can conceive of cases wherein even the lawyer retained to represent a defendant might know the
-defendant had died, yet not readily know where his estate would be administered. In the present
-case, plaintiff’s attorney did know the court of probate, but he did not know whether probate of the
-will might be contested, or who would be appointed representative of the estate. The tactic of the
-defendant’s attorney would place on plaintiff the burden, where no conventional representative was
-appointed for the estate in probate court, of instituting machinery in order to produce some
-representative of the estate ad litem, pending appointment of the representative contemplated by law
-of the domicile of the deceased.
+OPINION & ORDER PAUL A. CROTTY, District Judge: Plaintiffs Simone Kelly-Brown and her company, Own
+Your Power Communications, Inc. (collectively, “Plaintiffs”), bring this action against Defendants
+Oprah Winfrey, Harpo Productions, Inc., Harpo, Inc., Hearst Corporation, and Hearst Communications,
+Inc. (collectively, “Defendants”) asserting claims under §§32 and 43 of the Lanham Act, and under
+common law. Plaintiffs allege Defendants unlawfully used Plaintiffs’ “Own Your Power” trademark on
+the cover of their magazine, at a magazine-related event, on their website and social media
+accounts, and on their TV show. Previously, the Court granted Defendants’ motion to dismiss the
+complaint in its entirety pursuant to Fed.R.Civ.P. 12(b)(6). Kelly-Brown v. Winfrey, 2012 WL 701262
+(S.D.N.Y. Mar. 6, 2012). On appeal, the Second Circuit affirmed the Court’s dismissal of Plaintiffs’
+vicarious infringement, contributory infringement, and counterfeiting claims, but vacated the
+Court’s order with respect to Plaintiffs’ trademark infringement, false designation of origin, and
+reverse confusion claims. Kelly-Brown v. Winfrey, 717 F.3d 295, 315 (2d Cir.2013). Essentially, the
+Second Circuit ruled that Plaintiffs alleged sufficient facts to support a plausible inference that
+Defendants violated §§32 and 43 of the Lanham Act and rejected the Court’s finding of fair use. On
+December 12, 2013, the Court dismissed Plaintiffs’ New Jersey statutory claims; only Plaintiffs’
+Lanham Act and common law claims remain. Having completed discovery, Defendants now move for summary
+judgment and Plaintiffs move for partial summary judg ment. For the reasons below, Defendants’
+motion is GRANTED in its entirety and Plaintiffs’ motion is DENIED in its entirety- BACKGROUND
+Plaintiff Simone Kelly-Brown is a motivational speaker, life coach, and business coach who has been
+using the phrase “Own Your Power” in workshops and seminars since 2004. Kelly-Brown Decl. ¶ 3. She
+is the CEO of Own Your Power Communications, Inc., which was incorporated in Florida in 2010. Id. at
+¶¶ 1, 6. On May 27, 2008, the United States Patent and Trademark Office approved Plaintiff Kelly-
+Brown’s service mark: The color(s) light blue is/are claimed as a feature of the mark. The mark
+consists of light blue scripted letters which create the words own your ‘power.’ Am. Comph, Ex. A.
+The service mark is depicted as follows: Id. In September 2010, Defendants distributed the October
+2010 issue of 0, The Oprah Magazine. Its cover is predominantly occupied by a full-page picture of
+Defendant Oprah Winfrey, as well the magazine’s trademark stylized “0” in the top left corner.
+Written prominently across the October 2010 issue’s cover was the phrase “Own Your Power” — in
+white, italic font — surrounded by the phrases: “Unlock Your Inner Superstar: Our 4-step plan”; “The
+2010 O Power List!: 20 Women Who Are Rocking the World”; “How to Tap Into Your Strength”; “Focus
+Your Energy”; and “Let Your Best Self Shine,” depicted as follows: Am. Compl., Ex. B. Besides the
+use of phrase “Own Your Power” on the October 2010 issue’s cover, Defendants also used the phrase on
+a promotional page inside the October and December 2010 issues, Rolaras Decl., Ex. Z, and on banners
+at Defendants’ “first-ever own your power event,” depicted as follows: Id. at Ex. FF. Defendants’
+magazine and event were subsequently referred to on an episode of Defendants’ TV show that aired on
+September 27, 2010, id. at Ex. AA, and on affiliated websites and social media accounts, id. at Exs.
+BB, CC. DEFENDANTS’ MOTION FOR SUMMARY JUDGMENT I. Legal Standard Pursuant to Fed.R.Civ.P. 56(a),
+summary judgment is appropriate when there is “no genuine dispute as to any material fact and the
+movant is entitled to judgment as a matter of law.” Genuine issues of material fact do not exist if,
+“after adequate time for discovery and upon motion, [a party] fails to make a showing sufficient to
+establish the existence of an element essential to that party’s case, and on which that party will
+bear the burden of proof at trial.” Celotex Corp. v. Catrett, 477 U.S. 317, 322, 106 S.Ct. 2548, 91
+L.Ed.2d 265 (1986). In such cases, “Rule 56(c) mandates the entry of summary judgment .... since a
+complete failure of proof concerning an essential element of the non-moving party’s case necessarily
+renders all other facts immaterial.” Id. at 322-23, 106 S.Ct. 2548. In determining whether summary
+judgment is appropriate, courts must “constru[e] the evidence in the light most favorable to the
+nonmoving party, ... ‘drawing all inferences and resolving all ambiguities in [their] favor.’ ”
+LaSalle Bank Nat’l Ass’n v. Nomura Asset Capital Corp., 424 F.3d 195, 205 (2d Cir.2005) (quoting
+Preseault v. City of Burlington, 412 F.3d 96, 101 (2d Cir.2005) (internal citation and quotation
+marks omitted)). II. Lanham Act Claims Plaintiffs argue Defendants’ use of the phrase “Own Your
+Power” amounted to trademark infringement and reverse confusion under § 32 of the Lanham Act, 15
+U.S.C. § 1114, and false designation of origin and unfair competition under § 43 of the Lanham Act,
+15 U.S.C. § 1125(a). Plaintiffs’ argument fails for three reasons: (1) the phrase “Own Your Power”
+is not protected; (2) even if the phrase were protected, there is not a shred of evidence
+establishing a likelihood of consumer confusion; and (3) even if Plaintiffs were to establish a
+likelihood of consumer confusion, the fair use defense applies. A. The Phrase “Own Your Power” Is
+Not Protected Trademark registration creates a rebuttable presumption of the mark’s validity and of
+the owner’s exclusive right to use the mark in commerce. Cartier, Inc. v. Three Sheaves Co., Inc.,
+465 F.Supp. 123, 128 (S.D.N.Y.1979) (“Registration further creates a rebuttable presumption that the
+mark is suggestive, arbitrary or fanciful rather than merely descriptive.”). Here, Plaintiffs
+registered a “special form” mark consisting of “light blue scripted letters which create the words
+Own Your ‘Power’ ” with the following disclaimer: “No claim is made to the exclusive right to use
+own your power apart from the mark as shown.” Sitwala Decl., Ex. GG 34, 38. Plaintiffs’ registration
+is, therefore, limited to its stylized “light blue scripted” use of the phrase “Own Your Power” and
+Plaintiffs’ have no claim over the phrase itself. Notwithstanding Plaintiffs’ registration,
+Defendants have demonstrated that the phrase lacks the requisite distinctiveness to be entitled to
+protection. See Abercrombie & Fitch Co. v. Hunting World Inc., 537 F.2d 4, 9 (2d Cir.1976) (“Arrayed
+in an ascending order which roughly reflects their eligibility to trademark status and the degree of
+protection accorded, these classes are (1) generic, (2) descriptive, (3) suggestive, and (4)
+arbitrary or fanciful.”). Clearly, Plaintiffs’ use of the phrase “Own Your Power” is not generic, or
+arbitrary or fanciful; nor is the use suggestive. Instead, Plaintiffs’ use of the phrase “Own Your
+Power” is “descriptive” since it refers to the life/career empowerment services provided by
+Plaintiffs; these motivational services help clients own their power. Sitwala Decl., Ex. QQ
+(“[Plaintiffs have] been helping entrepreneurs transform their passions into the lifestyles they
+deserve. We’ll EMPOWER you to gain clarity on who you truly are and prepare you to embark on a
+soulful journey leading to a successful and happy life ... Below are my services that can help you
+OWN YOUR POWER!”). Since the mark is descriptive, Plaintiffs must establish a secondary meaning in
+order to have a protectable interest. See Rockland Exposition, Inc. v. Alliance of Auto. Serv.
+Providers of N.J., 894 F.Supp.2d 288, 314 (S.D.N.Y.2012) (“Descriptive marks are not inherently
+distinctive, and therefore use alone is insufficient to confer a protect-able interest in a
+descriptive mark.”). The existence of a mark’s secondary meaning is a “factual determination, proof
+of which entails vigorous evidentiary requirements.” Id. at 313 (citation and quotation marks
+omitted). Here, Plaintiffs — despite voluminous discovery — do not even begin to demonstrate that
+“the [phrase] and the business have become synonymous in the mind of the public, submerging the
+primary meaning of the term in favor of its meaning as a word identifying that business.” Time, Inc.
+v. Petersen Publ’g Co. L.L.C., 173 F.3d 113, 117 (2d Cir.1999) (citation and quotation marks
+omitted). Courts within the Second Circuit look at six factors to establish whether a mark has
+acquired secondary meaning: (1) advertising expenditures, (2) consumer studies linking the mark to a
+source, (3) unsolicited media coverage of the product, (4) sales success, (5) attempts to plagiarize
+the mark, and (6) length and exclusivity of the mark’s use. Rockland Exposition, Inc., 894 F.Supp.2d
+at 315. Applying these factors supports but one conclusion: Plaintiffs’ complete failure to
+establish secondary meaning. In the five-year period from 2009 to 2013, Plaintiffs spent $2,957 on
+advertising. Sitwala Decl., Ex. LL. Plaintiffs have no consumer studies linking them to the phrase
+“Own Your Power.” Id. at Ex. K 226:19-22. Plaintiffs fail to present sufficient evidence of
+unsolicited media coverage discussing the phrase in connection with their business. Id. at
+243:4-255:4. Plaintiffs’ sales were $966 in 2009, $6,388 in 2010, $5,390 in 2011, $23,130 in 2012,
+and $30,007 in 2013, id. at Ex. LL, and Plaintiffs failed to make a profit between 2010 and 2012,
+id. at Ex. L 163:12-15. Plaintiffs fail to identify any attempts to intentionally copy or plagiarize
+the phrase. Relatedly, there are multiple instances of other businesses using the phrase “Own Your
+Power,” see Kelly-Brown, 717 F.3d at 317 n. 7; indeed, Defendant Oprah Winfrey used the phrase more
+than two decades ago in a commencement speech delivered to Spelman College, Sitwala Decl., Ex. E ¶ 2
+(“The speech concluded with this admonition: ‘... Be a queen. Own Your Power. Own your glory. Go
+forth Spelman, and triumph’” (original emphasis removed)). There is no record evidence that is
+sufficient to raise a triable question of material fact regarding the phrase’s secondary meaning.
+Plaintiffs have, therefore, failed to establish that “Own Your Power” is protectable. Consequently,
+the Court need not consider whether Defendants’ use of the phrase is likely to cause confusion. See
+Thompson Med. Co. v. Pfizer, Inc., 753 F.2d 208, 217 (2d Cir.1985) (“If the district court rules
+that [the phrase] has not acquired secondary meaning, the mark cannot be protected and the inquiry
+properly concludes.”). Accordingly, Defendant’s motion for summary judgment for the Lanham Act
+claims is GRANTED. B. But Even If The Plaintiffs’ Mark Were Protected, Plaintiffs Fail To
+Demonstrate A Likelihood Of Consumer Confusion Even if Plaintiffs’ mark is entitled to protection,
+Lanham Act claims require that Plaintiffs prove Defendants’ use of the phrase creates a likelihood
+of confusion. See Lois Sportswear, U.S.A., Inc. v. Levi Strauss & Co., 799 F.2d 867, 871 (2d
+Cir.1986) (“[I]n either a claim of trademark infringement under § 32 or a claim of unfair
+competition under § 43, a prima facie case is made out by showing the use of one’s trademark by
+another in a way that is likely to confuse consumers as to the source of the product”). Based on a
+consideration of the well-established Polaroid factors, Plaintiffs fail to establish a likelihood of
+confusion. See Polaroid Corp. v. Polarad Elecs. Corp., 287 F.2d 492, 495 (2d Cir.1961) (“Where the
+products are different, the prior owner’s chance of success is a function of many variables: [1] the
+strength of [the mark], [2] the degree of similarity between the two marks, [3] the proximity of the
+products, [4] the likelihood that the prior owner will bridge the gap, [5] actual confusion, [6] the
+reciprocal of defendant’s good faith in adopting its own mark, [7] the quality of defendant’s
+product, and [8] the sophistication of the buyers.”); see also THOIP v. Walt Disney Co., 788
+F.Supp.2d 168, 178 (S.D.N.Y.2011) (applying the eight Polaroid factors to both forward and reverse
+confusion claims). To be brief, Plaintiffs satisfy none of the Polaroid factors. (1) Strength of the
+Mark Plaintiffs fail to demonstrate either inherent strength or market-based strength. See Virgin
+Enters. Ltd. v. Nawab, 335 F.3d 141, 147 (2d Cir.2003). Plaintiffs’ use of the phrase to describe
+their services, Sitwala Decl., Ex. QQ, renders the phrase inherently weak. See Virgin Enters., 335
+F.3d at 147 (“[T]he law accords ... lesser protection, or no protection at all, to marks consisting
+of words that identify or describe the goods or their attributes”). Similarly, Plaintiffs low sales
+and isolated media coverage prior to 2010, Sitwala Decl., Exs. LL, K, do not support a finding of
+market-based strength. See Nora Beverages, Inc. v. Perrier Group of America, Inc., 269 F.3d 114, 123
+(2d Cir.2001) (“In light of its sales to third parties, as well as its low level of commercial
+success and small advertising budget relative to market competitors at the relevant time, we agree
+with the district court that [the plaintiffs] possessed a weak mark.”). Plaintiffs’ claim of market-
+based strength is further eroded by the absence of studies demonstrating any link between the phrase
+and their business in consumers’ minds, see Denimafia Inc. v. New Balance Athletic Shoe, Inc., 2014
+WL 814532, at *12 (S.D.N.Y. March 3, 2014), and by the common use of the phrase by others, see
+Kelly-Brown, 717 F.3d at 317 n. 7 (citing eight recent examples of individuals using the phrase
+“Own' Your Power,” unconnected in any way to Plaintiffs’ business). (2) Similarity of the Marks
+While Plaintiffs and Defendants both use the phrase “Own Your Power,” the claimed similarities are
+reduced when Defendants’ use is considered. See Gruner + Jahr USA Publ’g v. Meredith Corp., 991 F.2d
+1072, 1078 (2d Cir.1993) (“In assessing similarity, courts look to the overall impression created by
+the logos and the context in which they are found and consider the totality of factors that could
+cause confusion among prospective purchasers.”). Clear visual’ and contextual differences exist:
+Plaintiffs’ registered mark is in “light blue scripted letters,” while Defendants’ mark is in white
+italicized letters. In Defendants’ magazine, the phrase is used against a large background image of
+Defendant Oprah Winfrey. Am. Compl., Ex. B. And in all other uses, Defendants begin the word “Own”
+using their trademark stylized “0,” and surround the phrase with colored bubbles containing other
+power-evoking words. See, e.g., Kolaras Decl., Ex. OO (depicting the phrase surrounded by words such
+as “The power of ... living large, one voice, proof, passion, taking a stand, authenticity, command,
+speaking out, the big picture, make-believe, taking a leap, style, heart, vision”). Accordingly, the
+parties’ respective uses are dissimilar and unlikely to confuse consumers. (S) Proximity of the
+Products Since the parties offer fundamentally different services, they are not competitors.
+Plaintiffs provide small scale/individual life coaching services, while Defendants use various
+international platforms to send positive messages through their global media empire. The parties do
+not offer substitute services. See Denimafia Inc., 2014 WL 814532, at *17 (“Put simply, a consumer
+in the market for running shoes or athletic apparel would not purchase Denimafia’s products in lieu
+of New Balance’s, and would not even encounter Denimafia’s products where New Balance’s running
+shoes and athletic apparel are sold.”). Even if the parties offered similar services, Defendants’
+geographic scope (worldwide), market position (highest rated program of its kind in history), and
+audience appeal (up to 16 million viewers) eliminate any actual competition and decrease any
+likelihood of confusion. See Am. Compl. ¶ 8; see also Savin Corp. v. Savin Grp., 391 F.3d 439, 458
+(2d Cir.2004) (“In assessing this factor, the court may consider whether the products differ in
+content, geographic distribution, market position, and audience appeal.” (internal quotation marks
+and citation omitted)). (I) Bridging the Gap There is a total lack of evidence suggesting any
+likelihood of Plaintiffs bridging the gap with Defendants. Plaintiffs’ ill-fated ventures into radio
+and video — occurring after the alleged infringement — pale in comparison to Defendants’ business.
+Though they may aspire to do so, Plaintiffs present no evidence indicating a likelihood of creating
+a global media presence capable of attracting an audience of millions. See Am. Compl. ¶ 8.
+Plaintiffs’ sales in 2009 were $966, Sitwala Decl, Ex. LL, and they failed to make a profit from
+2010 to 2012, id. at Ex. L 163:12-15. (5) Actual Confusion Plaintiffs’ evidence of actual confusion
+consists of anecdotal statements from four business associates who emailed Plaintiffs purporting to
+be confused. Id. at Ex. JJ. Though anecdotal evidence showing the “public’s belief that the mark’s
+owner sponsored or otherwise approved the use of the trademark” can raise a genuine issue of fact,
+Dallas Cowboys Cheerleaders, Inc. v. Pussycat Cinema, Ltd., 604 F.2d 200, 205 (2d Cir.1979),
+Plaintiffs’ anecdotal evidence appears to be in response to a “call-me-and-tell-me-you-are-confused”
+request and two emails can be rejected since they were apparently solicited by Plaintiff Kelly-
+Brown. See Sitwala, Ex. I 31:3-38:17 (Dyana Champan acknowledging that she had spoken to Plaintiff
+Kelly-Brown about Defendants’ use of the phrase two days before emailing purporting to be confused);
+see id. at Ex. J 39:8-18 (Laron Henderson conceding that despite his email, he “knew' [Plaintiff
+Kelly-Brown] wasn’t working with Oprah”). The remaining two individuals were already familiar with
+Plaintiffs’ use of the phrase and their emails do not relate to any purchasing decisions. In
+contrast, Defendants provide anecdotal evidence with three surveys demonstrating no consumer
+confusion: the Poret survey, measuring forward confusion, id. at Ex. V; the Mazis survey, measuring
+reverse confusion, id. at Ex. T; and the Simonson survey, measuring both forward and reverse
+confusion, id. at Ex. W. Each survey uncovered negligible levels of confusion, if any. Plaintiffs
+quibble about these surveys, but their failure to present their own survey weighs against a finding
+of confusion. See Star Indus., Inc. v. Bacardi & Co. Ltd., 412 F.3d 373, 387-88 (2d Cir.2005)
+(finding no confusion where the plaintiff relied exclusively on anecdotal evidence and failed to
+present its own consumer survey in response to the defendant’s surveys). (6) Good Faith Even though
+Plaintiffs had registered their mark prior to Defendants’ use, Defendants did not act with bad
+faith. Had Defendants conducted a trademark search and come across Plaintiffs’ registered mark, they
+would have noted that-Plaintiffs’ special form mark is limited to the stylized use of the phrase in
+“light blue scripted font.” As noted above, Defendants’ use does not resemble Plaintiffs’ registered
+stylized mark. Moreover, any finding of bad faith is negated by Defendants’ (and Plaintiffs’)
+primarily descriptive use of the phrase. See Lang v. Retirement Living Pub. Co., Inc., 949 F.2d 576,
+583 (2d Cir.1991) (selecting a mark that, among other things, “reflects the product’s
+characteristics” can support a finding of good faith). (7) Remaining Factors Neither of the two
+remaining Polaroid factors supports a likelihood of consumer confusion. Accordingly, even if
+Plaintiffs’ mark is entitled to protection, Plaintiffs fail to make a showing sufficient to
+establish infringement under the Lanham Act. Since Plaintiffs bear the burden of proving
+infringement at trial, Defendants’ motion for summary judgment is GRANTED. C. But even If Plaintiffs
+Demonstrate A Likelihood Of Consumer Confusion, The Fair Use Defense Applies Even if Plaintiffs
+demonstrate infringement under- the Lanham Act, Defendants’ use of the phrase “Own Your Power” is
+protected by fair use. See 15 U.S.C. § 1115(b)(4); see also Car-Freshner Corp. v. S.C Johnson & Son,
+Inc., 70 F.3d 267, 268 (2d Cir.1995) (applying the fair use defense to claims under §§ 32(1) and
+43(a) of the Lanham Act). Defendants’ use was other than as a mark, in a descriptive sense,' and in
+good faith. Cf. Kelly-Brown, 717 F.3d at 308 (“In order to assert a successful fair use defense to a
+trademark infringement claim, the defendant must prove three elements: that the use was made (1)
+other than as a mark, (2) in a descriptive 'sense, and (3) in good faith.”). (1) Use Other than as a
+Mark Plaintiffs argue Defendants’ uses of the phrase “Own Your Power” collectively created a sub-
+brand using the phrase as a symbol to attract public attention. See JA Apparel Corp. v. Abboud, 568
+F.3d 390, 400 (2d Cir.2009). Though the Second Circuit determined that such inferences were
+plausible as a matter of pleading, Kelly-Brown, 717 F.3d at 308-13, Plaintiffs present no evidence
+supporting their claim, see id. at 321 (Sack, J., concurring) (“In order to prevail at summary
+judgment .... [Plaintiffs] must prove, for example, that the Magazine use was indeed part of
+[Defendants’] plan to develop a line of goods or services under an ‘Own Your Power’ sub-brand, or
+that the relevant consumers would be likely, perhaps as a result of repetition, to perceive the
+phrase on the Magazine ‘as a symbol to attract public attention’ ” (quoting JA Apparel, 568 F.3d at
+400)). Plaintiffs have not demonstrated that all of Defendants’ uses of the phrase “Own Your Power,”
+taken together, amount to a plan to create a sub-brand. While Plaintiffs point to Defendants’
+multiple uses, the uses are exclusively attributed to Defendants’ Own Your Power conference, an
+isolated event which occurred on September 16, 2010. Shortly after the event, Defendants stopped
+using the phrase. See Cosmetically Sealed Indus., Inc. v. Chesebrough-Pond’s USA Co., 125 F.3d 28,
+30-31 (2d Cir.1997) (applying the fair use defense where the allegedly infringing mark was only used
+in a single advertising campaign and did not identify the plaintiffs product in any context).
+Defendants’ use of the phrase itself is also inconsistent, weighing against a finding of intent to
+create a sub-brand. Compare Am. Compl., Ex. B (depicting the phrase in white, italicized, lower-case
+font), with Kolaras Decl., Ex. Z (depicting the phrase in a generic roman, lower-case font), and id.
+at Exs. FF, OO, CC (beginning the word “Own” with Defendants’ stylized “0” and depicting the word
+“your” in uppercase font), and id. at Ex. E ¶¶ 5-6 (Defendant Oprah Winfrey, advising Serena
+Williams on-air to “own your own power”). Plaintiffs also fail to demonstrate that each use of the
+phrase was as a symbol to attract public attention. See JA Apparel, 568 F.3d at 402 (requiring ah
+“individualized consideration” of the allegedly infringing uses); see also Kelly-Brown, 717 F.3d at
+321 (Sack, J., concurring) (recommending that the “somewhat novel” collective use theory be limited
+to a motion to dismiss analysis). In each instance, Defen dants’ use of the phrase was accompanied
+by its own registered marks. See id. at 310 (“ ‘[T]he prominent display of the defendant’s own
+trademarks’ can contribute to a finding that the defendants were not using a different distinct
+phrase as a mark” (quoting Cosmetically Sealed, 125 F.3d at 30)). Defendants’ use of the phrase on
+the cover of its September 2010 magazine, is accompanied by the magazine’s trademarked stylized “0,”
+and a full-page picture of Defendant Oprah Winfrey. Am. Compl., Ex. B. Likewise, Defendants’ uses of
+the phrase on promotional pages in the September 2010 and October 2010 magazine issues are
+accompanied by references to Defendants’ website. Kolaras Decl., Ex. Z. Defendants’ uses of the
+phrase at their event, id. at Ex. FF, in their event recap brochure, id. at Ex. 00, and on their
+social media accounts, id. at Ex. CC, depict the “O” in “Own” using their trademarked stylized “O.”
+And Defendants’ use of the phrase on their website is accompanied by Defendants’ other logos and
+images of Defendant Oprah Winfrey. Id. at Ex. BB. Based on Defendants’ systematic use of the phrase
+alongside their own marks, as well the limited nature of the use, Defendants’ use of the phrase “Own
+Your Power” was other than as a mark. (2) Use in a Descriptive Sense “When the plaintiff chooses a
+mark with descriptive qualities, ... ‘[s]he cannot altogether exclude some kinds of competing uses,’
+particularly those which use words in their primary descriptive and non-trádemark sense.” U.S. Shoe
+Corp. v. Brown Grp., Inc., 740 F.Supp. 196, 198 (S.D.N.Y.1990) (quoting Abercrombie & Fitch, 537
+F.2d at 12). “Own Your Power” is a commonly used phrase and courts “more readily find a phrase
+descriptive when it is in common usage.” See Kelly-Brown, 717 F.3d at 311. Defendants’ expert
+evidence demonstrates that the phrase has been used since at least 1981 as “a common motivational
+exhortation to harness or achieve mastery over one’s own power.” Sitwala Decl., Ex. Z ¶ 4. This
+evidence is supported by Defendant Oprah Winfrey’s own use of the phrase in her 1993 commencement
+speech at Spelman College, id. at Ex. E ¶ 2, as well as numerous recent examples of the phrase’s use
+in the media, Kelly-Brown, 717 F.3d at 317 n. 7. While Plaintiffs challenge Defendants’ expert and
+note that he describes the phrase’s meaning as “complicated stuff,” Kolaras Deck, Ex. 4 97:18-22,
+Plaintiffs fail to present any evidence demonstrating that their use of the phrase is unique or
+uncommon. In each instance, Defendants use the phrase to describe their overall message of self-
+empowerment. On the magazine cover the phrase is used as the headline to describe the issue’s theme.
+Sitwala Decl., Ex. B ¶ 4 (“The [October 2010] Issue was devoted to the theme of power and featured
+the O Power List”); see Am. Compl., Ex. B (the following phrases were also on the cover of the
+October 2010 issue: “Unlock Your Inner Superstar: Our 4-step plan”; “The 2010 O Power List!: 20
+Women Who Are Rocking the World”; “How to Tap Into Your Strength”; “Focus Your Energy”; and “Let
+Your Best Self Shine”). Similarly, at Defendants’ conference, the phrase appears on banners,
+surrounded by other power/confidence evoking words that are encapsulated by the phrase “Own Your
+Power.” See e.g., Kolaras Decl., Ex. OO (the following words— prefaced by “The Power of ... ” —
+surrounded the phrase: “living large,” “one voice,” “proof,” “passion,” “taking a stand,”
+“authenticity,” “command,” “speaking out,” “the big picture,” “make-believe,” “taking a leap,”
+“style,” “heart,” and “vision”). Moreover, Defendant Oprah Winfrey uses the phrase descriptively on
+her TV show when she advises Serena Williams to “own her own power.” Sitwala Decl., Ex. E ¶¶ 5-6.
+Accordingly, Defendants demonstrate that “Own Your Power” is a commonly used phrase and was used in
+a descriptive, non-trademark way. (S) Use in Good Faith Even though Defendants are charged with
+knowing Plaintiffs’ registered mark, their use of the phrase “Own Your Power” was not in bad faith.
+See Arrow Fastener Co., Inc. v. Stanley Works, 59 F.3d 384, 397 (2d Cir.1995) (“Prior knowledge of a
+senior user’s trade mark does not necessarily give rise to an inference of bad faith and may be
+consistent with good faith.” (citation omitted)). Plaintiffs provide no evidence indicating
+Defendants’ intent to generate confusion regarding the phrase’s origin. See EMI Catalogue P’ship v.
+Hill, Holliday, Connors, Cosmopulos Inc., 228 F.3d 56, 66 (2d Cir.2000) (equating bad faith with
+“the subsequent user’s intent to trade on the good will of the trademark holder by creating
+confusion as to source or sponsorship”). Nor do Plaintiffs provide any evidence of Defendants’ plan
+to appropriate the phrase and create their own sub-brand. Instead, Defendants’ use of the phrase
+alongside their own marks, coupled with Plaintiffs’ registration of a stylized, special mark that in
+no way resembles Defendants’ use, gives rise to a finding of good faith use. Accordingly, even if
+Defendants’ use created a likelihood of consumer confusion, Defendants’ non-trademark, descriptive,
+and good faith use is protected by the fair use defense. Since the fair use defense applies,
+Defendants’ motion for summary judgment is GRANTED. III. Common Law Claims Plaintiffs argue
+Defendants’ use of “Own Your Power” amounted to (1) common law misappropriation; (2) common law
+trademark infringement; (3) common law civil conspiracy; and (4) common law tortious interference
+with an economic advantage. Though Plaintiffs’ amended complaint identified these claims as “federal
+common law claims,” Plaintiffs now insist, by way of a footnote in their opposition to Defendants’
+motion for summary judgment, that this was a “clerical error” and that the claims arise under New
+Jersey common law. Pls.’ Mem. in Opp. 25 n. 17 (“ ‘Federal common law’ in the Complaint was a
+clerical error, and was intended to be New Jersey Common Law.”). The Court previously dismissed
+Plaintiffs’ New Jersey statutory claims pursuant to Fed.R.Civ.P. 12(b)(6) because “applying New
+Jersey law here would be unfair and inappropriate.” Kelly-Brown v. Winfrey, 2013 WL 6574918, at *2
+(citing Allstate Ins. Co. v. Hague, 449 U.S. 302, 310, 101 S.Ct. 633, 66 L.Ed.2d 521 (1981)).
+Accepting Plaintiffs’ “clerical error” and treating Plaintiffs’ common law claims as New Jersey
+common law claims, they too fail for the same reasons. Accordingly, Defendants’ motion for summary
+judgment over Plaintiffs’ New Jersey common law claims is GRANTED. PLAINTIFFS’ MOTION FOR PARTIAL
+SUMMARY JUDGMENT Plaintiffs move for partial summary judgment over their Lanham Act claims:
+trademark infringement,' pursuant to 15 U.S.C. § 1114; reverse confusion, pursuant to 15 U.S.C. §
+1114; and false designation of origin and unfair competition, pursuant to 15 U.S.C. § 1125(a). Since
+Defendants’ motion for summary judgment is granted in its entirety, Plaintiffs’ motion for partial
+summary judgment regarding the Lanham Act must be DENIED. CONCLUSION For the reasons above,
+Defendants’ motion for summary judgment is GRANTED in its entirety and Plaintiffs’ motion for
+partial summary judgment is DENIED in its entirety. The Clerk of the Court is directed to enter
+judgment and close this case. SO ORDERED. . Section 32 of the Lanham Act deals with trademark
+infringement and reverse confusion. 15 U.S.C. § 1114. Section 43 of the Lanham Act deals with false
+designation of origin and unfair competition. 15 U.S.C. § 1125(a).
 
 

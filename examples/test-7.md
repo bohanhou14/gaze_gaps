@@ -1,142 +1,269 @@
 **gold_text:**
-The amendment to Rule 25(a) (1) was intended to dispel unwarranted rigidity and allow more
-flexibility in substitution. “It was intended that liberal effect be given to the 1963 amendment.”
-Roscoe v. Roscoe, 126 U.S.App.D.C. 317, 322, 379 F.2d 94, 99 (1967). “[T]he 90 day period was not
-intended to act as a bar to otherwise meritorious actions.” Staggers v. Otto Gerdau Co., 359 F.2d
-292, 296 (2d Cir. 1966).
+After the steps above outlined are taken and the assessment is made, the receiver may then bring
+actions at law against the various subscribers for the stock; and such is the proper course. Tardy’s
+Smith on Receivers, p. 903; 14a C. J., § 3245; Kennedy v. Gibson, 8 Wall. 498,19 L. Ed. 476; Sanger
+v. Upton, 91 U. S. 56, 23 L. Ed. 220; Glenn v. Sumner, 132 U. S. 152, 10 S. Ct. 41, 33 L. Ed. 301;
+Kelley v. Gill, 245 U. S. 116, 38 S. Ct. 38, 62 L. Ed. 185; Fidelity Tr. & Safe Dep. Co. v. Archer,
+179 F. 32, 103 C. C. A. 16; Rosoff v. Gilbert Transp. Co., supra; Clinton. Mining & Mineral Co. v.
+Cochran, 247 F. 449, 159 C. C A. 503; Barkalow v. Totten, 53 N. J. Eq. 573, 32 A. 2; Hood v.
+McNaughton, 54 N. J. Law, 425, 24 A. 497; McDermott v. Woodhouse, 87 N. J. Eq. 615, 101 A. 375;
+Smith, Recr., v. Johnson, 57 Ohio St. 486, 49 N. E. 693.
 
 **Generations:**
 
 
 ***GPT-4o:***
-This stringent interpretation contrasts sharply with the intent of the 1963 amendments to Rule 25
-and Rule 6(b), which aimed to inject flexibility and fairness into the substitution process. As
-noted in 379 F.2d 94 and 359 F.2d 292, the amendments were designed to eliminate the inequities and
-hardships caused by the rigid two-year limitation originally imposed. The Advisory Committee
-emphasized that the revised rules were to be liberally construed to allow courts discretion in
-extending the substitution period, recognizing the difficulties that could arise in promptly
-identifying and notifying the proper representative of the deceased.   Given this context, the
-defendant’s counsel's suggestion of death, which lacked identification of a proper representative,
-failed to initiate the 90-day countdown. This interpretation aligns with the judicial precedent that
-courts should prioritize the equitable administration of justice over strict procedural formalities.
-Thus, the district court erred in dismissing the plaintiffs' action without granting the requested
-extension, especially considering the circumstances that inhibited timely substitution, such as the
-injury to plaintiffs' counsel and the ongoing legal processes in the probate court.  We, therefore,
-reverse the judgment and remand for further proceedings consistent with this opinion, ensuring that
-the substitution process adheres to the flexible and just principles intended by the amendments to
-the Federal Rules of Civil Procedure.
+Looking at the present bill, it appears that the receiver is attempting to circumvent the
+established legal framework which explicitly requires actions to be brought in a certain manner.
+According to the reference cases 8 Wall. 498 and 19 L. Ed. 476, the receiver, as the statutory
+assignee, holds the proper authority to institute suits both at law and in equity, representing the
+association and creditors alike without needing to make either a party to the suit.  Furthermore, as
+highlighted in 38 S. Ct. 38 and 62 L. Ed. 185, the liability of each stockholder constitutes a
+separate controversy, reducing the necessity for equity jurisdiction. The courts have consistently
+held, as noted in 8 Wall. 505 and 179 F. 32, that the receiver must proceed through appropriate
+legal channels rather than seeking to enforce stock subscriptions in this manner.  Notably, in 23 L.
+Ed. 220, similar principles were applied, emphasizing the requirement of proceeding through
+statutory methods rather than ancillary suits. The court has repeatedly insisted on adherence to
+legal forms and prescribed remedies, making the dismissal of the current bill consistent with
+established precedents.  In summation, the dismissal aligns with the necessity to respect the
+statutory roles and jurisdictional boundaries, reinforcing that the proper course for the receiver
+is to petition within the existing receivership suit. This method ensures procedural compliance and
+equitable resolution without overstepping the bounds of legal practice.
 
 
 **Label:** 
 
 
 ***Meta-Llama-3-8B-Instruct:***
-  In the context of Rule 25(a) (1) of the Federal Rules of Civil Procedure, the suggestion of death
-is a crucial step in the process of substituting a deceased party with a proper representative.
-However, not all suggestions of death are created equal. In cases where the suggestion of death is
-made by a party's attorney, but fails to identify a successor or representative of the deceased, the
-90-day period for substitution may not be triggered.  As noted in 359 F.2d 292, the Advisory
-Committee on Civil Rules intended to provide a more flexible standard for substitution, allowing for
-extensions of time and dispensing with the rigid two-year period previously in place. However, this
-flexibility is contingent upon the suggestion of death providing sufficient information to permit
-the court to proceed with substitution.  In the present case, the suggestion of death made by the
-defendant's attorney was deficient in that it failed to identify a successor or representative of
-the deceased. This lack of specificity rendered the suggestion ineffective in triggering the 90-day
-period for substitution, as explained in 379 F.2d 94.  Furthermore, the court's discretion to
-enlarge the time period for substitution, as provided by Rule 6(b), is not a blank check. Rather, it
-is intended to be exercised in a judicious and reasonable manner, taking into account the particular
-circumstances of each case.  In light of these principles, we conclude that the district court erred
-in dismissing the action with prejudice. The case should be remanded for further proceedings,
-allowing the parties to properly substitute a representative of the deceased and continue the action
-in a manner consistent with the Federal Rules of Civil Procedure.
+  The case at hand involves a receiver's attempt to enforce the personal liability of stockholders
+in a insolvent corporation. The receiver brought a bill in equity against the stockholders, seeking
+to establish the amount due on their unpaid stock subscriptions and to require each stockholder to
+pay a proportional part of the unpaid balance. The court dismissed the bill, citing the decision in
+Carey v. McMillan (C. C. A.) 289 F. 380, which held that the receiver's suit was premature and that
+the stockholders should be required to bring separate actions at law to enforce their claims.  In
+considering the present suit, the court noted that there were significant differences between the
+allegations in the bill and those in the McMillan suit. For example, the present bill omitted
+allegations about the notes given by stock subscribers to the corporation, and it did not state the
+amount of uncollectable notes or uncollectable stock subscriptions. The court also noted that the
+present bill did not explain the differences in the statements of facts in the two bills.  Despite
+these differences, the court held that the decision in the McMillan suit controlled the present
+case. The court found that the receiver's suit was premature and that the stockholders should be
+required to bring separate actions at law to enforce their claims. The court also noted that the
+stockholders were not necessary formal parties to the receivership suit, and that they were
+represented by the corporation itself.  In reaching its decision, the court relied on several
+precedents, including Kennedy v. Gibson, 8 Wall. 498, 19 L. Ed. 476, which held that the liability
+of stockholders is several and not joint, and that the limit of their liability is the par value of
+the stock held by each one. The court also cited Hall v. U. S. Ins. Co., 5 Gill, 484, which held
+that a receiver appointed by the comptroller of the currency has the power to institute proceedings
+against the stockholders of an insolvent bank.  In conclusion, the court's decision in the present
+case is consistent with the decision in Carey v. McMillan, and it is also supported by the
+precedents cited above. The court's holding that the receiver's suit is premature and that the
+stockholders should be required to bring separate actions at law to enforce their claims is
+reasonable and consistent with the principles of equity and fairness.
 
 
 **Label:** 
 
 
-**citations:** ['379 F.2d 94', '359 F.2d 292']
+**citations:** ['8 Wall. 498', '19 L. Ed. 476', '23 L. Ed. 220', '38 S. Ct. 38', '62 L. Ed. 185', '179 F. 32']
 
-***short_citations_0:*** 379 F.2d 94
+***short_citations_0:*** 8 Wall. 498
 
-the proper parties. * * * Unless the motion for substitution is made not later than 90 days after the death is suggested upon the record by service of a statement of the fact of the death as provided herein for the service of the motion, the action shall be dismissed as to the deceased party.” Here not only had the 90-day period not expired when the court entered summary judgment, the appellant by her motion for reconsideration had specifically invoked the discretion of the court. Rule 6(b) provides pertinently that when “by these rules * * * an act is required or allowed to be done at or within a specified time, the court for cause shown may at any time in its discretion (1) with or without motion or notice order the period enlarged if request therefor is made before the expiration of the period originally prescribed * * Originally the Rule had precluded an extension of time for taking action under Rule 25(a) (1), but by purposeful amendment, it was sought to relieve against the hardship of the Court’s holding in Anderson v. Yungkau, 329 U.S. 482, 67 S.Ct. 428, 91 L.Ed. 436 (1947). It was intended that liberal effect be given to the 1963 amendment. Graham v. Pennsylvania Railroad, 119 U.S.App.D.C. 335, 342 F.2d 914 (1964), cert. denied, 381 U.S. 904, 85 S.Ct. 1446, 14 L.Ed.2d 286 (1965). We are constrained to reverse for further proceedings not inconsistent with this opinion. Reversed. The only “party” then
+seek their remedy through the comptroller in the mode prescribed by the statute; they cannot proceed directly in their own names against the stockholders or debtors of the bank. The receiver is the statutory assignee of the association, and is the proper party to institute all suits; they may be brought both at law and in equity, in his name, or in the name of the association for his use. He represents both the creditors and the association, and when he sues in his own name it is not necessary to make either a party to the suit. The 59th section of the act of February 25th, 1863, provides that all suits by or against such associations may be brought in the proper courts of the United States or of the State. The 57th section of the act of 1864, relates to .the same subject, and revises and enlarges the provisions of the 59th section of the preceding act. In the latter, the word “by” in respect to such suits is dropped. The omission was doubtless accidental. It is not to be supposed that Congress intended to exclude the. associations from suing in the courts where they can be sued. The difference in the language of the two sections is not such as to warrant-the conclusion that it was.intended to change the rule prescribed by the act of. 1864. Such suits may still be brought by the associations in the courts of the United States. If this be not the
 
-***short_citations_1:*** 359 F.2d 292
+***short_citations_1:*** 19 L. Ed. 476
 
-insertion of a “reasonable time” standard. In 1963, the Advisory Committee suggested the present rule and noted: “Present Rule 25(a) (1), together with present Rule 6(b), results in an inflexible requirement that an action be dismissed as to a deceased party if substitution is not carried out within a fixed period measured from the time of the death. The hardships and inequities of this unyielding requirement plainly appear from the cases. * * * The amended rulé establishes a time limit for the motion to substitute based not upon the time of the death, but rather upon the time information of the death is provided by means of a suggestion of death upon the record, i. e. service of a statement of the fact of the death.” See Notes of Advisory Committee on the Civil Rules, 28 U.S.C. Rule 25 (1964). Rule 6(b) of the Federal Rules of Civil Procedure was also amended in 1963 and the prohibition against extending the time for taking action under Rule 25 was eliminated. The Advisory Committee on the Civil Rules noted: “It is intended that the court shall have discretion to enlarge that period.” The amendments of Rules 6(b) and 25(a) (1) provided needed flexibility. It was assumed that discretionary extensions would be liberally granted. Movants under Rule 25 can ordinarily control when a death is “suggested upon the record” and appellants’ attorney was under no obligation to file his affidavit of Staggers’ death on the date he did. He could have filed
+seek their remedy through the comptroller in the mode prescribed by the statute; they cannot proceed directly in their own names against the stockholders or debtors of the bank. The receiver is the statutory assignee of the association, and is the proper party to institute all suits; they may be brought both at law and in equity, in his name, or in the name of the association for his use. He represents both the creditors and the association, and when he sues in his own name it is not necessary to make either a party to the suit. The 59th section of the act of February 25th, 1863, provides that all suits by or against such associations may be brought in the proper courts of the United States or of the State. The 57th section of the act of 1864, relates to .the same subject, and revises and enlarges the provisions of the 59th section of the preceding act. In the latter, the word “by” in respect to such suits is dropped. The omission was doubtless accidental. It is not to be supposed that Congress intended to exclude the. associations from suing in the courts where they can be sued. The difference in the language of the two sections is not such as to warrant-the conclusion that it was.intended to change the rule prescribed by the act of. 1864. Such suits may still be brought by the associations in the courts of the United States. If this be not the
+
+***short_citations_2:*** 23 L. Ed. 220
+
+If they choose to rest supine until cases against them like this are on trial, they must take the consequences. Not having spoken before, they cannot be permitted to speak then, especially to make an objection which looks rather to the embarrassment and delay than to the right and justice of the case. A different rule would be pregnant with mischief and confusion. Hall v. U. S. Ins. Co., 5. Gill, 484; Sagory v. Dubois, 3 Sandf. Ch. 510. This court has applied the same rule to an order made by the comptroller of the currency, under the fiftieth section of the National Bank Act, appointing a receiver, and directing him to proceed to make collections from the stockholders of an insolvent bank. Kennedy v. Gibson and Others, 8 Wall. 505. In that case it was said, “It is .for the comptroller, to decide when it is necessary to institute proceedings against the stockholders to enforce their persons,1 liability, and whether the whole or any part, and, if a part, how much, should be collected. These questions are referred to his judgment and discretion, and his determination is conclusive. The stockholders cannot controvert it. Its validity is not to be questioned in the litigation that may ensue. He may make it at such time as he may deem proper, and upon such data as shall be satisfactory to him.” This principle was applied also in Cadle, Receiver, v. Baker & Co., 20 Wall. 650. It was competent for the court
+
+***short_citations_3:*** 38 S. Ct. 38
+
+these stockholders, although a very large number of actions at law would be required to make collection of the balances unpaid on the stock. There was no common issue between these alleged stockholders and the corporation; and the liability of each would have presented a separate controversy unconnected with that of any other. Thus elements essential to jurisdiction in equity to avoid multiplicity of actions at law by the corporations were lacking. St. Louis, Iron Mountain & Southern Ry. Co. v. McKnight, 244 U. S. 368, 375. That lack is not supplied by the assignment to the trustee. No other property has become involved. No new issues have been raised. The order of the court of bankruptcy that subscriptions be paid up was not a condition precedent to the existence of the causes of action against the several stockholders; and it added nothing to the rights which had already passed to the trustee. For him., also, the appropriate remedy was a separate action at law against each stockholder. The amendment of 1910 to § 47 of the Bankruptcy Act did not confer new means of collecting ordinary claims due the bankrupt; and the order directing the trustee “to institute a suit in equity” was impotent to confer equity jurisdiction. But even if there had been equity jurisdiction, the suit could not have been brought in the federal court. The cause of action sued on would still have been the broken promise of the individual stockholder to pay the balance on
+
+***short_citations_4:*** 62 L. Ed. 185
+
+these stockholders, although a very large number of actions at law would be required to make collection of the balances unpaid on the stock. There was no common issue between these alleged stockholders and the corporation; and the liability of each would have presented a separate controversy unconnected with that of any other. Thus elements essential to jurisdiction in equity to avoid multiplicity of actions at law by the corporations were lacking. St. Louis, Iron Mountain & Southern Ry. Co. v. McKnight, 244 U. S. 368, 375. That lack is not supplied by the assignment to the trustee. No other property has become involved. No new issues have been raised. The order of the court of bankruptcy that subscriptions be paid up was not a condition precedent to the existence of the causes of action against the several stockholders; and it added nothing to the rights which had already passed to the trustee. For him., also, the appropriate remedy was a separate action at law against each stockholder. The amendment of 1910 to § 47 of the Bankruptcy Act did not confer new means of collecting ordinary claims due the bankrupt; and the order directing the trustee “to institute a suit in equity” was impotent to confer equity jurisdiction. But even if there had been equity jurisdiction, the suit could not have been brought in the federal court. The cause of action sued on would still have been the broken promise of the individual stockholder to pay the balance on
+
+***short_citations_5:*** 179 F. 32
+
+stock and the enforcement of an assessment less than his total liability, such as is disclosed in the present case. It is true that in Kennedy v. Gibson, 8 Wall. 498, 19 L. Ed. 476, which was a suit by a receiver of an insolvent national bank, appointed under the national banking act of June 3, 1864, c. 106, 13 Stat. 99, to enforce the personal liability of some of the stockholders, the court said: “The liability of the stockholders is several and not joint. The limit of their liability is the par of the stock held by each one. Where the whole amount is sought to be recovered the proceeding must be at law. Where less is required the proceeding may be in equity, and in such case an interlocutory decree may be taken for contribution, and the case may stand over for the further action of the court — if such action should subsequently prove to be necessary — until the full amount of the liability is exhausted.” This statement was unnecessary to the determination of the question before the court, as the bill sought to enforce the full statutory liability, and the case was decided on the ground that it did not appear that the comptroller of the currency had taken any action touching the enforcement of the personal liability of the stockholders. -Further, the pasáage must be read in the light of the law and facts there involved, and when so read is inapplicable to the
 
 **prev_text:**
-LEVENTHAL, Circuit Judge: The District Court held that Rule 25(a) (1) of the Federal Rules of Civil
-Procedure required dismissal of the plaintiffs’ tort action because defendant’s counsel had filed a
-suggestion of death of the defendant yet plaintiff had not made any substitution of parties within
-90 days. We reverse on the ground that the suggestion of death, which was neither filed by nor
-identified a successor or representative of the deceased, such as an executor or administrator, was
-ineffective to trigger the running of the 90-day period provided by the Rule. Mr. and Mrs. John
-Rende filed an action in the District Court individually and on behalf of their infant son who had
-been struck and injured by Alfred S. Kay while driving his car. On August 27, 1967, defendant Kay
-died. On September 1, 1967, the defendant’s attorney, a term used here to identify the lawyer who
-had been retained by deceased to defend the action, and who had duly entered an appearance as
-attorney for defendant, filed a suggestion of death in the District Court, giving notice to
-plaintiffs’ attorney. That same day there was filed in the Orphans Court for Montgomery County,
-Maryland, residence of the deceased, his will naming his widow as executrix, but the will had not
-been probated, nor any legal representative appointed for the estate at the time of the filing of
-this appeal. Plaintiffs’ attorney was injured on October 14, 1967. On returning to practice early in
-1968, he learned that no successor to defendant Kay had yet been appointed, and he moved to certify
-the case to the ready calendar. The defendant’s attorney opposed this on grounds that discovery
-procedures had not been completed. The case was delayed and placed on the ready calendar as of June
-7, 1968. However, in April 1968, the defendant’s attorney moved in his own name to dismiss the
-action on the ground that Rule 25(a) (1) required plaintiffs to move to substitute a proper party
-for the deceased within 90 days of the suggestion of death. Plaintiffs filed an opposition and
-motion for substitution of the proper party, and sought an extension of the time for substitution as
-allowed by Rule 6(b). At argument, plaintiffs’ counsel asserted the “suggestion of death was
-defective in that it did not list the name of the proper party; that is the legal representative of
-the defendant.” The court responded: “That would not be his burden.” The court dismissed the action
-with prejudice. Prior to its amendment in 1963, Rule 25(a) (1) required the court to dismiss a case
-if no motion for substitution was filed within two. years after date of death, and no extensions of
-this period were allowed under Rule 6(b). The rule was rigorously applied, often with harsh results,
-and was called “easily the poorest rule of all the Federal Rules.” In 1955 the Advisory Committee on
-Rules for Civil Procedure recommended that the two-year period be changed to a “reasonable time”
-standard. In 1961 the Advisory Committee on Civil Rules again suggested the Rule be made more
-flexible. In 1963 the Supreme Court made changes in Rule 25(a) (1) and in Rule 6(b) so as to provide
-a 90-day time limit from the filing of a suggestion of death, and to give the court discretion to
-extend that time. The Committee Notes explaining the amendments state: Present Rule 25(a) (1),
-together with present Rule 6(b), results in an inflexible requirement that an action be dismissed as
-to a deceased party if substitution is not carried out within a fixed period measured from the time
-of death. The hardships and inequities of this unyielding requirement plainly appear from the cases.
-* * * The amended rule establishes a time limit for the motion to substitute based not upon the time
-of the death, but rather upon the time information of the death is provided by means of a suggestion
-of death upon the record. * * * A motion to substitute may be made by any party or by the
-representative of the deceased party without awaiting the suggestion of death. Indeed, the motion
-will usually be so made. If a party or the representative of the deceased party desires to limit the
-time within which another may make the motion, he may do so by suggesting the death upon the record.
-(Emphasis added.) Under the amended Rule either a party or “the successors or representatives of the
-deceased party” may avoid delay in effecting substitution for the deceased party either by filing a
-motion for substitution or by suggesting death on the record and thus triggering the 90-day period
-which begins with suggestion of death. The Advisory Committee, in outlining that suggestion of death
-could be made by “the representative of the deceased party” plainly contemplated that the suggestion
-emanating from the side of the deceased would identify a representative of the estate, such as an
-executor or administrator, who could be substituted for the deceased as a party, with the action
-continued in the name of the representative. The addition of “successor” in the Rule would take care
-of the case of, say, the distributee of an estate that had been distributed, but would not make a
-material difference in the aspect under consideration. Form 30, for suggestion of death, which was
-provided in order to expedite and facilitate implementation of the amendment, provides: A.B.
-[described as a party, or as executor, administrator, or other representative or successor of C.D.,
-the deceased party\ suggests upon the record, pursuant to Rule 25(a) (1), the death of C.D.
-[describe as party] during the pendency of this action. Added Jan. 21, 1963, eff. July 1, 1963.
-[Emphasis added.] Although the attorney for the defendant was retained to “represent” the deceased
-as his counsel, he is not a person who could be made a party, and is not a “representative of the
-deceased party” in the sense contemplated by Rule 25(a) d). In our opinion the Rule, as amended,
-cannot fairly be construed, as the de fendant’s attorney argues, to make his suggestion of death
-operative to trigger the 90-day period even though he was neither a successor nor representative of
-the deceased, and gave no indication of what person was available to be named in substitution as a
-representative of the deceased. Counsel’s construction would open the door to a tactical maneuver to
-place upon the plaintiff the burden of locating the representative of the estate within 90 days. We
-can conceive of cases wherein even the lawyer retained to represent a defendant might know the
-defendant had died, yet not readily know where his estate would be administered. In the present
-case, plaintiff’s attorney did know the court of probate, but he did not know whether probate of the
-will might be contested, or who would be appointed representative of the estate. The tactic of the
-defendant’s attorney would place on plaintiff the burden, where no conventional representative was
-appointed for the estate in probate court, of instituting machinery in order to produce some
-representative of the estate ad litem, pending appointment of the representative contemplated by law
-of the domicile of the deceased.
+BOOTH, Circuit Judge. This is an ap- . peal from a decree dismissing a bill, called an ancillary
+bill, brought by the receiver of the Midland Packing Company against a large number of defendants,
+to enforce collection from them on their alleged unpaid stock subscriptions in said company. A brief
+outline of the facts leading up to the present bill is as follows: The Midland Packing Company was
+organized under the laws of the state of Iowa in 1918 to carry on a general meat-packing business.
+The original authorized capital stock was $3,500,000. By an amendment to its articles, this was
+increased to $8,000,000. About $3,000,00 of the stock was purchased and paid for; $5,000,000 more
+was subscribed for, on which about $2,000,000 was paid, leaving approximately $3,000,000 unpaid on
+the stock subscriptions. In connection with these subscriptions for stock," cash payments were
+generally made for part of the purchase price, and promissory notes were given for the balance.
+These-notes to an amount of more than $1,000,000 were negotiated by the Midland Packing Company,
+either by way of sale or by way-of pledge, and to a very large amount they are still outstanding.
+The company built a. packing plant at Sioux City, Iowa, at a cost of over $3,000,000. In April,
+1920, Peter Hegnes, a citizen of South Dakota, brought a suit in equity in the federal court for the
+Northern District of Iowa against the Midland Packing Company, alleging that he was a stockholder in
+the company; that the company had. by fraud secured promissory notes from. him and from many others
+for the purchase of stock in the company; that the company was insolvent or in imminent danger of
+insolvency; that it had no funds on hand for a working capital. He prayed for a rescission of the
+contract of purchase of the stock, for an injunction against the sale of the promissory notes given
+by him, for a receiver for the company, and for general relief. A general receiver was appointed' by
+the court, and possession was taken by him of all the assets of the company for the purpose of
+winding up its affairs as an insolvent corporation. The receivership thus inaugurated still
+continues, the assets of the company have been largely collected, claims have been filed and
+allowed, and the affairs of the company generally administered. In 1922, the receiver, McMillan,
+commenced a suit in the court of his appointment, called an ancillary suit, against a large number
+of defendants, divided by the bill into two classes, stockholder defendants and creditor defendants.
+The bill alleged that the stockholder defendants had each entered into a contract for the purchase
+of stock in the Midland Packing Company; “that at the time of entering into said eon-tracts each of
+the said stockholder defendants executed and delivered to the Midland Packing Company his promissory
+note or notes for the unpaid balance of the stock so subscribed for by him, and that a large part of
+the notes so executed and received by the said company were indorsed by it, and sold and
+transferred, in the due course of business, to the creditor defendants, * * * who are now the owners
+and holders thereof in due course.” The hill further alleged that part of the notes were held by the
+creditor defendants as collateral security for money loaned to the Midland Packing Company; that
+claims aggregating $2,173,-477 had been filed against the company in the receivership proceedings
+and had been approved; that the total claims filed amounted approximately to $3,400,270; that the
+total amount of unpaid notes on the subscriptions to. the stock of the company was $3,062,650, of
+which amount about 50 per cent, was uncollectable; that the plant of the company could not be sold
+for more than 50 per cent, of its actual appraised value, $2,522,931. The prayer was “that the
+amount due and owing from each of the said stockholder defendants, on their several contracts,
+referred to in this bill of complaint, be ascertained and established by the court, for the several
+amounts, as shown by Schedule A, or for, such amounts as the court shall find to be due from them,
+and that the judgment and decree of this court be rendered against e'ach of said defendants for the
+amount so found to be due from them, and that the assets be marshaled and equitably distributed, so
+as to equalize the loss among the' stockholders, and for such further decree in that hehalf as shall
+preserve the rights of all the parties interested therein,- * * * and that each and all of the said
+creditor defendants be required to bring into court and surrender to the receiver each and all of
+the notes so held by them, or either or any of them, to the end that the notes may be fully
+accounted for and b& surrendered to the stockholder defendants upon payment thereof, or surrendered
+for cancellation in connection with any judgment or decree that may be entered herein against them,
+and the plaintiff prays such other and further relief as the court may deem just and equitable in
+the premises.” It was held by this court (Carey v. McMillan, 289 F. 380) that thei hill should be
+dismissed. The court in its opinion said: “To sum np: The demand made against each defendant
+being/purely legal, each demand being independent of every other, the amount demanded against each
+being the full amount unpaid on the stock, no accounting being necessary, no contribution being
+necessary, community of interest of the defendants in all the important questions of law and fact
+involved not being shown and being highly improbable, we are of opinion that the bare multiplicity
+of suits is not sufficient to give the court jurisdiction to entertain the present bill in equity.
+The plain and adequate remedy at law open to the receiver is to bring ancillary actions at law in
+the federal court against the several defendants whose notes he holds. When the pleadings are made
+up, if it is found feasible and desirable to consolidate the suits into one or several groups for
+trial, the power of the court is ample for that purpose. The convenience of the parties can thus he
+served, the cost of the litigation need not by appreciably greater, and the right of trial by jury
+will be preserved.” In 1923 a suit in equity was brought in the same court by John A. Reagan, as
+trustee, against the same defendants (stock subscribers) as in the McMillan hill. Reagan alleged in
+his bill that he was a judgment creditor, having obtained a judgment in the state court of Iowa upon
+the indorsement of certain promissory notes by the Midland Packing Company which were made to it by
+subscribers to its stock; that execution had been returned unsatisfied; that the company was
+insolvent; that claims existed against the company, of th& same class as plaintiff’s claim,
+amounting to more than $1,750,000; that there were other claims, of a class inferior, amounting to
+more than $2,000,000; that the receiver had sold the plant and other assets, and had collected
+sufficient proceeds to pay 15 per cent, to 20 per cent, to creditors of the same class as plaintiff.
+■ The prayer of the bill was “for an accounting to fix and determine the assets and liabilities of
+the Midland Packing Company and the amount of its unpaid stock subscriptions, and that the court
+shall fix and determine the percentage of his unpaid stock subscriptions which each defendant
+stockholder, shall pay, and the amount of the fair and equitable contribution of each defendant
+herein for the payment of the debts of said corporation, and that by said decree judgment shall be
+rendered and entered against each defendant for a sufficient amount of his unpaid stock
+subscriptions to in the aggregate pay the claim of this plaintiff against the Midland Packing
+Company, and those of all other creditors similarly situated, together with interest and its costs
+and disbursement^ in this action, and that it may have decree for such other and further relief as
+shall seem just and equitable in the premises.” The court below dismissed the bill, on the ground
+that, since there was a receiver already in possession of the assets of the company and
+administering the same, the suit by Reagan would be an interference with the possession ■ of the
+court, and therefore could not be maintained. 298 F. 500. This judgment of dismissal was affirmed by
+this court in Reagan v. Midland Packing Co., 8 F. (2d) 954, decision filed September 30, 1925. In
+1924 after the dismissal of the Reagan suit in the lower court, the present suit was brought by the
+receiver against the same defendants (stock subscribers) as in the McMillan and Reagan bills. The
+bill alleges the history'of the company and the issue of its stock as above set forth, the
+insolvency of the company, the appointment of the receiver, and the administration by him of the
+assets of the company, the collection of proceeds sufficient to pay 15 per cent, to 20 per cent, to
+general creditors, whose claims have been allowed, and the existence of the unpaid stock
+subscriptions. The prayer is substantially the same as in the Reagan bill above quoted. The present
+bill was dismissed by the trial court. It is claimed by the appellees that the decision in Carey v.
+McMillan (C. C. A.) 289 F. 380, is decisive of the present suit,, and that the question of the
+inability of the receiver to maintain the present suit is res ad judicata. Appellant claims that
+there are radical differences between the allegations of the bill in the McMillan suit and those in
+the present bill, and that the decision in the former suit is in no way opposed to the maintenance
+of the present one. There are, it is true, numerous differences between, the bill in the McMillan
+suit and the present bill. Some of them consist of different allegations in reference to the same
+subject-matter; some of them consist in omitting altogether from the present bill' allegations found
+in the McMillan bill. The parties defendant are not strictly tlie same. In the McMillan suit not
+only the subscribers to stock were made defendants, but also-the holders of notes given by such
+subscribers to the Midland Packing Company for the purchase of stock, and which notes had been
+negotiated by the Midland Packing Company, either by a sale outright or by being pledged as
+collateral to debts of the Midland Packing Company. In the present suit these creditor defendants
+have been omitted. In the present suit there is an additional defendant, the Midland Packing
+Company. In the McMillan suit it was alleged that claims had been filed in “the amount of
+$3,-400,270, and that claims had been approved to the amount of $2,173,477. In the present bill, the
+claims approved are stated to-amount to $1,760,000, a difference of $413,r 000. No explanation is
+given in the bill' of this difference in. amount of approved claims. In the McMillan bill it is
+stated that notes had been given in part payment for the stock subscribed by the defendant
+stockholders. No such allegation is found in the present bill. The present suit is based, in theory
+at least, not upon the notes,, but upon the stock subscriptions. In the McMillan 'bill it was
+alleged that of the notes outstanding, given by stock subscribers in Iowa, $247,876 were held and
+owned by the receiver, whieh left upwards of $1,000,000 either owned or held as collateral by third
+parties. In the present bill it is stated that the stock subscriptions are in the possession of the
+receiver, but it is not stated whether any of the notes given in connection with stock subscriptions
+are in the possession or under the control of said receiver. In the McMillan hill it is stated that
+probably less than 50 per cent, of the notes given in connection with stock subscriptions were
+collectable. In tbe present bill nothing is said as to tbe amount of uncollectable notes or
+uneollectable stock subscriptions. Nowhere in the present bill is it stated directly that less than
+the full amount owing on the stock subscriptions wiE be necessary in order to pay the debts and the
+administration expenses. It is sought, however, to have the inference drawn from the allegations in
+reference to the necessity for assessments that the total amount due on the subscriptions will not
+be neeessary. In the MeMillan bill, it is stated unequivocally that the fuE .amount due on the notes
+given in connection with stock subscriptions will be necessary in orders to meet tbe debts and
+administration expenses. No explanation is found in the present bill of these vital differences in
+the statement of facts in the two bills. No reason is given in tbe present bill for tbe omission to
+state important facts which appear in the MeMillan bill, and which have a bearing on the propriety
+of maintaining the present suit. Both the MeMiEan bill and the present bill are verified. The court
+below, in determining tbe motion to dismiss, doubtless considered tbe allegations of the McMillan
+biE, so- far as they supplemented $he allegations of the present bill, and so far as they were
+relevant to the question of tbe propriety of maintaining tbe present suit. Both bills are of record
+in this court, and we are at liberty to consider them both in passing upon the action of the court
+below. When the present bill is considered in tbe light of the unexplained and unchallenged
+allegations of fact in the MeMiEan bill, we think there is much basis for the contention that the
+question of the maintenance of the present suit is governed by the decision in the McMillan suit.
+See Sapulpa Petroleum Co. v. McCray (C. C. A.) 4 F.(2d) 645. But it is contended that the
+allegations of the present bill only should be considered, in determining the propriety of the
+present suit, and that, when the present hill is considered independently, several important facts
+show the necessity for the present suit: (1) That the liability on the stock subscriptions, and hot
+on the promissory notes given in connection therewith, is sought to be enforced; (2) that the whole
+amount of liability is not sought to be enforced, but only sucb proportional part as tbe court shall
+determine is neeessary; (3) that an accounting is necessary to determine the assets and liabilities
+of tbe company, tbe creditors» who are entitled to share in the fund to be created by tbe collection
+of the unpaid subscriptions, and the percentage neeessary to be paid by each subscriber on the
+unpaid balance on his subscription in order to meet the claims of creditors; and (4) that such an
+accounting can he had only in a court of equity. We do not think that any or aE of these contentions
+justify the maintenance of the present suit. We do not, however, find it necessary to decide whether
+the question of such maintenance is res adjudicata by reason of the decision in Carey v. McMillan
+(C. C. A.) 289 F. 380, nor do we find it necessary to determine whether the Eahility of the stock
+subscribers should be determined in suits on the promissory notes given by them or on the stock
+subscription contracts. The demand in either instance is a legal one, and the character of the
+demand is not changed by reason of the fact that the liability of the defendants may not have to be
+enforced to the full extent. The real question is whether, in view-of all the facts, the bringing of
+the present bill by the receiver is in accordance with proper practice. It may he conceded that
+findings are necessary' as to the amount of assets and of liabilities of the Midland Packing
+Company, and the amount of total unpaid stock subscriptions,' as also a determination of the
+proportional amount to he enforced against each stock subscriber, and it may be further conceded-
+that such findings ought properly to he made by a court of equity. But a suit in equity is already
+pending in the same court in which the present bill is brought. The Midland Packing Company is a
+party to that suit. All of the above steps can be taken in that existing receivership suit on a
+petition by the receiver. The stockholders are not necessary formal parties to such proceedings.
+They are represented by the corporation itself, which is a party to the suit. 6 Fletcher Cyc. Corp.
+§ 4120; Hawkins v. Glenn, 131 U. S. 319, 9 S. Ct. 739, 33 L. Ed. 184; Glenn v. Liggett, 135 U. S.
+533, 10 S. Ct. 867, 34 L. Ed. 262; Great Western Telegraph Co. v. Purdy, 162 U. S. 329, 16 S. Ct.
+810, 40 L. Ed. 986; Bernheimer v. Converse, 206 U. S. 516, 27 S. Ct. 755, 51 L. Ed. 1163; Converse
+v. Hamilton, 224 U. S. 243, 256, 32 S. Ct. 415, 56 L. Ed. 749, Ann. Cas. 1913D, 1292; Selig v.
+Hamilton, 234 U. S. 652, 34 S. Ct. 926, 58 L. Ed. 1518, Ann. Cas. 1917A, 104; Hale v. Hardon, 95 F.
+747, 37 C. C. A. 240; Spargo v. Converse, 191 F. 823, 112 C. C. A. 337; In re M. Stipp Const. Co.,
+221 F. 372, 137 C. C. A. 180; Rosoff v. Gilbert Transp. Co. (D. C.) 221 F. 972, 979; Howarth v.
+Lombard, 175 Mass. 570, 56 N. E. 888, 49 L. R. A. 301.
 
 

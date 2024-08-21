@@ -1,142 +1,310 @@
 **gold_text:**
-The amendment to Rule 25(a) (1) was intended to dispel unwarranted rigidity and allow more
-flexibility in substitution. “It was intended that liberal effect be given to the 1963 amendment.”
-Roscoe v. Roscoe, 126 U.S.App.D.C. 317, 322, 379 F.2d 94, 99 (1967). “[T]he 90 day period was not
-intended to act as a bar to otherwise meritorious actions.” Staggers v. Otto Gerdau Co., 359 F.2d
-292, 296 (2d Cir. 1966).
+. Lufthansa also complains that plaintiffs requests are overly broad and burdensome and that they
+seek irrelevant information. These boilerplate objections entirely lack merit. See generally,
+Hickman v. Taylor, 329 U.S. 495, 507, 67 S.Ct. 385, 391, 91 L.Ed. 451 (1947); Oppenheimer Fund, Inc.
+v. Sanders, 437 U.S. 340, 351, 98 S.Ct. 2380, 2389, 57 L.Ed.2d 253 (1978); 4A Moore’s Federal
+Practice ¶ 33.27, pp. 33-164 et seq. There is likewise no merit to specific objections made
+regarding the depositions of Reinhardt Abraham, Lufthansa’s vice chairman, and Herbert Culman, its
+former chairman.
 
 **Generations:**
 
 
 ***GPT-4o:***
-This stringent interpretation contrasts sharply with the intent of the 1963 amendments to Rule 25
-and Rule 6(b), which aimed to inject flexibility and fairness into the substitution process. As
-noted in 379 F.2d 94 and 359 F.2d 292, the amendments were designed to eliminate the inequities and
-hardships caused by the rigid two-year limitation originally imposed. The Advisory Committee
-emphasized that the revised rules were to be liberally construed to allow courts discretion in
-extending the substitution period, recognizing the difficulties that could arise in promptly
-identifying and notifying the proper representative of the deceased.   Given this context, the
-defendant’s counsel's suggestion of death, which lacked identification of a proper representative,
-failed to initiate the 90-day countdown. This interpretation aligns with the judicial precedent that
-courts should prioritize the equitable administration of justice over strict procedural formalities.
-Thus, the district court erred in dismissing the plaintiffs' action without granting the requested
-extension, especially considering the circumstances that inhibited timely substitution, such as the
-injury to plaintiffs' counsel and the ongoing legal processes in the probate court.  We, therefore,
-reverse the judgment and remand for further proceedings consistent with this opinion, ensuring that
-the substitution process adheres to the flexible and just principles intended by the amendments to
-the Federal Rules of Civil Procedure.
+V  Moreover, Lufthansa's reliance on procedural hurdles to delay discovery cannot stand. The U.S.
+Supreme Court has long discarded the notion that mere objections or procedural technicalities can
+preclude rightful discovery, as seen in 329 U.S. 495, which firmly established the principle that
+discovery is a mutual process and not a one-way proposition. The Court there emphasized the
+necessity for mutual knowledge of relevant facts amongst parties to ensure fair adjudication.
+Similarly, the principles outlined in 437 U.S. 340 underscore that discovery obligations should be
+performed by the party to whom the task is more efficiently suited, and that the burden of discovery
+should align with the potential benefitee of the information. Here, Lufthansa's attempt to shift the
+onus and costs of discovery documentation onto Laker is unfounded, as the task could be more
+efficiently performed by Lufthansa itself.  In light of these precedents and Lufthansa's ongoing
+failure to comply with reasonable discovery requests, the Court expects prompt action. Lufthansa
+must proceed with necessary applications to the German Ministry and undertake all reasonable
+measures to facilitate compliance, as any further resistance may result in sanctions per Rule 37 of
+the Federal Rules of Civil Procedure.  VI  In view of the procedural posture and to promote judicial
+efficiency, the Court will permit the extension requested by the plaintiff. Lufthansa's attempts to
+invoke protections under international conventions and procedural technicalities do not outweigh the
+need for full and fair discovery in accordance with U.S. legal standards and precedents,
+specifically noted in the aforementioned cases.
 
 
 **Label:** 
 
 
 ***Meta-Llama-3-8B-Instruct:***
-  In the context of Rule 25(a) (1) of the Federal Rules of Civil Procedure, the suggestion of death
-is a crucial step in the process of substituting a deceased party with a proper representative.
-However, not all suggestions of death are created equal. In cases where the suggestion of death is
-made by a party's attorney, but fails to identify a successor or representative of the deceased, the
-90-day period for substitution may not be triggered.  As noted in 359 F.2d 292, the Advisory
-Committee on Civil Rules intended to provide a more flexible standard for substitution, allowing for
-extensions of time and dispensing with the rigid two-year period previously in place. However, this
-flexibility is contingent upon the suggestion of death providing sufficient information to permit
-the court to proceed with substitution.  In the present case, the suggestion of death made by the
-defendant's attorney was deficient in that it failed to identify a successor or representative of
-the deceased. This lack of specificity rendered the suggestion ineffective in triggering the 90-day
-period for substitution, as explained in 379 F.2d 94.  Furthermore, the court's discretion to
-enlarge the time period for substitution, as provided by Rule 6(b), is not a blank check. Rather, it
-is intended to be exercised in a judicious and reasonable manner, taking into account the particular
-circumstances of each case.  In light of these principles, we conclude that the district court erred
-in dismissing the action with prejudice. The case should be remanded for further proceedings,
-allowing the parties to properly substitute a representative of the deceased and continue the action
-in a manner consistent with the Federal Rules of Civil Procedure.
+ OPINION The case at hand involves a discovery dispute between plaintiff and defendant Lufthansa.
+Lufthansa claims that it is prohibited from producing documents and information from its German
+offices without the prior approval of the German Ministry of Transport. The court has framed the
+problem in terms of assisting individual plaintiffs in their suits against corporate defendants,
+noting that discovery is not a one-way proposition (329 U.S. 495).  The court has rejected
+Lufthansa's arguments that it should not be required to produce documents prior to a resolution of
+jurisdiction and the issue of what, if any, aspects of the complaint state a claim upon which relief
+may be granted. The court has also rejected Lufthansa's claims of de facto immunity and its argument
+that the German Ministry's refusal to permit discovery is a defense to a discovery request.  The
+court has noted that the government of the Federal Republic of Germany has rendered the Hague
+Convention ineffective in the context of this proceeding. The court has concluded that the Hague
+Convention does not constitute the exclusive means by which plaintiff may secure discovery from
+Lufthansa, and that the Federal Rules of Civil Procedure may be applied (437 U.S. 340).  The court
+has ordered Lufthansa to make applications to the German Ministry of Transport as required by its
+German permit to comply with all of plaintiff's discovery requests. The court has also deferred
+entry of an order on plaintiff's motion to compel for an additional thirty days to allow the German
+authorities to decide whether they wish to provide cooperation within the spirit of the Hague
+Convention and of comity between nations.  In conclusion, the court has held that Lufthansa is
+required to comply with plaintiff's discovery requests and has rejected Lufthansa's claims of de
+facto immunity and its argument that the German Ministry's refusal to permit discovery is a defense
+to a discovery request. The court has also deferred entry of an order on plaintiff's motion to
+compel for an additional thirty days to allow the German authorities to decide whether they wish to
+provide cooperation within the spirit of the Hague Convention and of comity between nations.
 
 
 **Label:** 
 
 
-**citations:** ['379 F.2d 94', '359 F.2d 292']
+**citations:** ['329 U.S. 495', '437 U.S. 340']
 
-***short_citations_0:*** 379 F.2d 94
+***short_citations_0:*** 329 U.S. 495
 
-the proper parties. * * * Unless the motion for substitution is made not later than 90 days after the death is suggested upon the record by service of a statement of the fact of the death as provided herein for the service of the motion, the action shall be dismissed as to the deceased party.” Here not only had the 90-day period not expired when the court entered summary judgment, the appellant by her motion for reconsideration had specifically invoked the discretion of the court. Rule 6(b) provides pertinently that when “by these rules * * * an act is required or allowed to be done at or within a specified time, the court for cause shown may at any time in its discretion (1) with or without motion or notice order the period enlarged if request therefor is made before the expiration of the period originally prescribed * * Originally the Rule had precluded an extension of time for taking action under Rule 25(a) (1), but by purposeful amendment, it was sought to relieve against the hardship of the Court’s holding in Anderson v. Yungkau, 329 U.S. 482, 67 S.Ct. 428, 91 L.Ed. 436 (1947). It was intended that liberal effect be given to the 1963 amendment. Graham v. Pennsylvania Railroad, 119 U.S.App.D.C. 335, 342 F.2d 914 (1964), cert. denied, 381 U.S. 904, 85 S.Ct. 1446, 14 L.Ed.2d 286 (1965). We are constrained to reverse for further proceedings not inconsistent with this opinion. Reversed. The only “party” then
+merely on the assertion that such facts were gathered by its large staff of attorneys and claim agents. At the same time, the individual plaintiff, who often has direct knowledge of the matter in issue and has’no counsel until some time after his claim arises could be compelled to disclose all the intimate details of his case. By endowing with immunity from disclosure all that á lawyer discovers in the course of his duties, it is said, the rights of individual litigants in such cases are drained of vitality and the lawsuit becomes more of a battle of deception than a search for truth. But framing the problem in terms of assisting individual plaintiffs in their suits against corporate defendants is unsatisfactory. Discovery concededly may work to the disadvantage as well as to the advantage of individual plaintiffs. Discovery, in other words, is not a one-way proposition. It is available in all types of cases at the behest of any party, individual or corporate, plaintiff or defendant. The problem thus far transcends the situation confronting- this petitioner. And we must view that problem in light of the limitless situations where the particular kind of discovery sought by petitioner might be used. We agree, of course, that the deposition-discovery rules are to be accorded a broad and liberal treatment. No longer can the time-honored cry of “fishing expedition” serve to preclude a party from inquiring into the facts underlying his opponent’s case. Mutual knowledge of all the relevant facts gathered by
 
-***short_citations_1:*** 359 F.2d 292
+***short_citations_1:*** 437 U.S. 340
 
-insertion of a “reasonable time” standard. In 1963, the Advisory Committee suggested the present rule and noted: “Present Rule 25(a) (1), together with present Rule 6(b), results in an inflexible requirement that an action be dismissed as to a deceased party if substitution is not carried out within a fixed period measured from the time of the death. The hardships and inequities of this unyielding requirement plainly appear from the cases. * * * The amended rulé establishes a time limit for the motion to substitute based not upon the time of the death, but rather upon the time information of the death is provided by means of a suggestion of death upon the record, i. e. service of a statement of the fact of the death.” See Notes of Advisory Committee on the Civil Rules, 28 U.S.C. Rule 25 (1964). Rule 6(b) of the Federal Rules of Civil Procedure was also amended in 1963 and the prohibition against extending the time for taking action under Rule 25 was eliminated. The Advisory Committee on the Civil Rules noted: “It is intended that the court shall have discretion to enlarge that period.” The amendments of Rules 6(b) and 25(a) (1) provided needed flexibility. It was assumed that discretionary extensions would be liberally granted. Movants under Rule 25 can ordinarily control when a death is “suggested upon the record” and appellants’ attorney was under no obligation to file his affidavit of Staggers’ death on the date he did. He could have filed
+is a sufficient answer to such interrogatory to specify the records from which the answer may be derived or ascertained and to afford to the party serving the interrogatory reasonable opportunity to” examine and copy the records, if the burden of deriving the answer would be “substantially the same” for either party. Not unlike Eisen IV, this provision is intended to place the “burden of discovery upon its potential benefitee.” The holding of Nissan represents application of a similar principle, for when the court concluded that the representative plaintiffs could derive the names and addresses of the class members from the defendants’ records with substantially the same effort as the defendants, it required the representative plaintiffs to perform this task and hence to bear the cost. See supra, at 348. But where the burden of deriving the answer would not be “substantially the same,” and the task could be performed more efficiently by the responding party, the discovery rules normally require the responding party to derive the answer itself. In those cases where a district court properly decides under Rule 23 (d) that a defendant rather than the representative plaintiff should perform a task necessary to send the class notice, the question that then will arise is which party should bear the expense. On one hand, it may be argued that this should be borne by the defendant because a party ordinarily must bear the expense of complying with orders properly issued by the district court; but Eisen IV strongly
 
 **prev_text:**
-LEVENTHAL, Circuit Judge: The District Court held that Rule 25(a) (1) of the Federal Rules of Civil
-Procedure required dismissal of the plaintiffs’ tort action because defendant’s counsel had filed a
-suggestion of death of the defendant yet plaintiff had not made any substitution of parties within
-90 days. We reverse on the ground that the suggestion of death, which was neither filed by nor
-identified a successor or representative of the deceased, such as an executor or administrator, was
-ineffective to trigger the running of the 90-day period provided by the Rule. Mr. and Mrs. John
-Rende filed an action in the District Court individually and on behalf of their infant son who had
-been struck and injured by Alfred S. Kay while driving his car. On August 27, 1967, defendant Kay
-died. On September 1, 1967, the defendant’s attorney, a term used here to identify the lawyer who
-had been retained by deceased to defend the action, and who had duly entered an appearance as
-attorney for defendant, filed a suggestion of death in the District Court, giving notice to
-plaintiffs’ attorney. That same day there was filed in the Orphans Court for Montgomery County,
-Maryland, residence of the deceased, his will naming his widow as executrix, but the will had not
-been probated, nor any legal representative appointed for the estate at the time of the filing of
-this appeal. Plaintiffs’ attorney was injured on October 14, 1967. On returning to practice early in
-1968, he learned that no successor to defendant Kay had yet been appointed, and he moved to certify
-the case to the ready calendar. The defendant’s attorney opposed this on grounds that discovery
-procedures had not been completed. The case was delayed and placed on the ready calendar as of June
-7, 1968. However, in April 1968, the defendant’s attorney moved in his own name to dismiss the
-action on the ground that Rule 25(a) (1) required plaintiffs to move to substitute a proper party
-for the deceased within 90 days of the suggestion of death. Plaintiffs filed an opposition and
-motion for substitution of the proper party, and sought an extension of the time for substitution as
-allowed by Rule 6(b). At argument, plaintiffs’ counsel asserted the “suggestion of death was
-defective in that it did not list the name of the proper party; that is the legal representative of
-the defendant.” The court responded: “That would not be his burden.” The court dismissed the action
-with prejudice. Prior to its amendment in 1963, Rule 25(a) (1) required the court to dismiss a case
-if no motion for substitution was filed within two. years after date of death, and no extensions of
-this period were allowed under Rule 6(b). The rule was rigorously applied, often with harsh results,
-and was called “easily the poorest rule of all the Federal Rules.” In 1955 the Advisory Committee on
-Rules for Civil Procedure recommended that the two-year period be changed to a “reasonable time”
-standard. In 1961 the Advisory Committee on Civil Rules again suggested the Rule be made more
-flexible. In 1963 the Supreme Court made changes in Rule 25(a) (1) and in Rule 6(b) so as to provide
-a 90-day time limit from the filing of a suggestion of death, and to give the court discretion to
-extend that time. The Committee Notes explaining the amendments state: Present Rule 25(a) (1),
-together with present Rule 6(b), results in an inflexible requirement that an action be dismissed as
-to a deceased party if substitution is not carried out within a fixed period measured from the time
-of death. The hardships and inequities of this unyielding requirement plainly appear from the cases.
-* * * The amended rule establishes a time limit for the motion to substitute based not upon the time
-of the death, but rather upon the time information of the death is provided by means of a suggestion
-of death upon the record. * * * A motion to substitute may be made by any party or by the
-representative of the deceased party without awaiting the suggestion of death. Indeed, the motion
-will usually be so made. If a party or the representative of the deceased party desires to limit the
-time within which another may make the motion, he may do so by suggesting the death upon the record.
-(Emphasis added.) Under the amended Rule either a party or “the successors or representatives of the
-deceased party” may avoid delay in effecting substitution for the deceased party either by filing a
-motion for substitution or by suggesting death on the record and thus triggering the 90-day period
-which begins with suggestion of death. The Advisory Committee, in outlining that suggestion of death
-could be made by “the representative of the deceased party” plainly contemplated that the suggestion
-emanating from the side of the deceased would identify a representative of the estate, such as an
-executor or administrator, who could be substituted for the deceased as a party, with the action
-continued in the name of the representative. The addition of “successor” in the Rule would take care
-of the case of, say, the distributee of an estate that had been distributed, but would not make a
-material difference in the aspect under consideration. Form 30, for suggestion of death, which was
-provided in order to expedite and facilitate implementation of the amendment, provides: A.B.
-[described as a party, or as executor, administrator, or other representative or successor of C.D.,
-the deceased party\ suggests upon the record, pursuant to Rule 25(a) (1), the death of C.D.
-[describe as party] during the pendency of this action. Added Jan. 21, 1963, eff. July 1, 1963.
-[Emphasis added.] Although the attorney for the defendant was retained to “represent” the deceased
-as his counsel, he is not a person who could be made a party, and is not a “representative of the
-deceased party” in the sense contemplated by Rule 25(a) d). In our opinion the Rule, as amended,
-cannot fairly be construed, as the de fendant’s attorney argues, to make his suggestion of death
-operative to trigger the 90-day period even though he was neither a successor nor representative of
-the deceased, and gave no indication of what person was available to be named in substitution as a
-representative of the deceased. Counsel’s construction would open the door to a tactical maneuver to
-place upon the plaintiff the burden of locating the representative of the estate within 90 days. We
-can conceive of cases wherein even the lawyer retained to represent a defendant might know the
-defendant had died, yet not readily know where his estate would be administered. In the present
-case, plaintiff’s attorney did know the court of probate, but he did not know whether probate of the
-will might be contested, or who would be appointed representative of the estate. The tactic of the
-defendant’s attorney would place on plaintiff the burden, where no conventional representative was
-appointed for the estate in probate court, of instituting machinery in order to produce some
-representative of the estate ad litem, pending appointment of the representative contemplated by law
-of the domicile of the deceased.
+OPINION HAROLD H. GREENE, District Judge. Presently pending before the Court are a motion by
+plaintiff to compel discovery against defendant Lufthansa and a motion by Lufthansa for a protective
+order concerning the depositions of its vice chairman and its former chairman. The issues with
+respect to both motions revolve principally around four arguments made by Lufthansa: (1) that it
+should not be required to produce any documents prior to a resolution of this Court’s jurisdiction
+and the issue of what, if any, aspects of the complaint state a claim upon which relief may be
+granted; (2) that the discovery requests improperly demand the production of information which
+Lufthansa is precluded under its operating license from producing without the approval of the German
+government; (3) that plaintiff’s discovery requests conflict with the Convention on Taking Evidence
+Abroad in Civil or Commercial Matters, 23 U.S.T. 2444, T.I.A.S. No. 7444, 28 U.S.C. § 1781
+(hereinafter referred to as the Hague Convention); and (4) that the principles of comity among
+nations require that the Court defer to the German authorities with respect to the Hague Convention
+procedures and the breadth of the document requests. I Before discussing the technical aspects of
+these issues, it is appropriate to delineate the background which underlies plaintiff’s requests and
+Lufthansa’s response. On November 24, 1983, Laker filed its motion to compel. According to the
+motion, interrogatories and requests for the production of documents were served on the Lufthansa
+one year earlier—in November and December 1982. An extension of the normal response period was
+agreed to by Laker on the basis of representations that defendant would substantially provide
+discovery. Instead of doing, so, Lufthansa initially objected to all discovery. Subsequently, more
+than two years after the requests had been made, out of hundreds, perhaps thousands, of documents
+requested, defendant made available a handful of documents for inspection, and none for both
+inspection and copying. Not a single answer has been given to any of Laker’s interrogatories.
+Plaintiff repeatedly sought to negotiate and, here again, it was initially rebuffed entirely. After
+this Court denied a stay of discovery, Lufthansa agreed to make documents available, but it
+restricted that offer to those documents which, in its unilateral judgment, it regarded as being in
+reasonable compliance. And even this offer was limited to documents located in the United States. In
+light of this record, it is astonishing to read Lufthansa’s assertion that it “has responded to all
+of Laker’s requests that could conceivably be deemed relevant and necessary at the present time for
+the prep aration of the case.” Even in the heat of the adversary process, and in George Orwell’s
+year of 1984, the Court expects counsel in papers filed with the Court to give to words their
+ordinary meaning. It should also be noted that when, after extensive delay, Lufthansa ultimately
+applied to the German government for permission to comply with discovery requests made in this Court
+(see p. 51 infra), it did so in language calculated to secure rejection rather than approval. Thus,
+in its application ostensibly designed to secure consent, Lufthansa pointed out to the German
+Ministry of Transport that the Ministry had already refused a prior application; that Lufthansa had
+many objections to the production of documents; and that Laker’s motion to compel had requested the
+inspection and copying of documents which “have only the most limited relevance to its complaint.”
+Lufthansa then went on to advise the German Ministry that it was nevertheless “obliged to make a
+‘bona fide’ effort to obtain your consent.” Needless to say, as discussed below, the German
+Ministry’s response was negative. II Lufthansa asserts that plaintiff is acting prematurely because
+subject matter jurisdiction is likely to be lacking and the complaint may fail to state claims upon
+which relief may be granted. It follows, says this defendant, that plaintiff should be required to
+address itself to those issues before conducting discovery into substantive matters. The complete
+answer to these contentions is that neither jurisdiction nor the legal sufficiency of the claims are
+issues in this lawsuit. Lufthansa has deliberately chosen not to contest either issue here,
+preferring to litigate them instead by the circuitous route of a lawsuit in the courts of Great
+Britain. The German corporation cannot have it both ways. It cannot, at one and the same time, fail
+to acknowledge the obvious—that this Court is the appropriate tribunal for disposing of
+jurisdictional and substantive issues in a lawsuit pending here—while also requesting the Court to
+deny or to narrow plaintiff’s discovery requests on the ground that jurisdiction may be lacking or
+the complaint may fail to state claims upon which relief may be granted. Ill Lufthansa contends next
+that it is forbidden by its German operating license from producing documents and information from
+its offices in Germany without the prior approval of the German Ministry of Transport. There are
+several problems with that argument. First. The German airline has not even attempted to comply with
+Laker’s request by seeking clearance from the German authorities. Lufthansa’s response— that is has
+no obligation to do so because the request is overbroad—is consistent with that defendant’s pattern
+of arrogant disregard of its obligations under law and procedure. If Lufthansa, or any other party
+to a lawsuit pending in a court, considers a discovery request to be too broad, or otherwise
+improper, its appropriate course is to oppose such request in that court, whether by objections, a
+motion for a protective order, or whatever other procedural means are made available by the
+appropriate rules of procedure. However, it cannot simply sit back, without even making an effort to
+secure whatever foreign permission may be required, on the basis of its unilateral judgment that the
+request is improper. Second. Lufthansa argues next that the German Ministry is not likely to grant
+permission to its request. That argument, can, of course, only be tested by a Lufthansa request,
+and, as indicated, no such request has been made. Moreover, the German airline is owned by the
+German government. Thus, the Lufthansa argument is really a claim that it should not have to comply
+with discovery because its owner—the German government—has decided, or will decide, in its
+discretion, not to comply with such discovery. Such a claim of de facto immunity is fallacious, and
+is rejected. Third. It is not ipso facto a defense to a discovery request that the law of a foreign
+country may prohibit production or disclosure. As the Eleventh Circuit held in United States v. Bank
+of Nova Scotia, 691 F.2d 1384 (11th Cir.1982), even at the sanction stage (see note 12 infra),
+violation of foreign law is not necessarily a valid defense to a lawfully issued subpoena for
+documents. See also, Arthur Andersen & Co. v. Finesilver, 546 F.2d 338, 342 (10th Cir.1976);
+Restatement (Second) Foreign Relations Law of the United States § 39. A fortiori it is not a defense
+at this juncture. This is so particularly in the type of case that is here before the Court. In In
+re Uranium Antitrust Litigation, 480 F.Supp. 1138 (N.D.Ill.1979), the court noted that in exercising
+its power to require production notwithstanding foreign law, a court may appropriately consider the
+importance of the policies underlying the particular United States statute. Said the court: Finally,
+we recognize that, as one commentator has put it, “the heart of any American antitrust case is the
+discovery of business documents. Without them, there is virtually no case.” Note, Discovery of
+Documents Located Abroad in U.S.. Antitrust Litigation: Recent Developments in the Law Concerning
+the Foreign Illegality Excuse for Non-Production, 14 Va.J.Int'l.L. 747 (1974). That is especially
+true when plaintiffs allege an antitrust conspiracy which has taken deliberate and elaborate steps
+to cloak its activities. “If true, the nature of the activities must be ferreted out of dark and
+obscure corners.” Societe Internationale [v. McGranery] supra, 111 F.Supp. [435] at 443 [ (1953) ].
+The documents at issue here are crucial to plaintiffs proof. 480 F.Supp. at 1155. Fourth.
+Lufthansa’s United States operating permit specifies that, [b]y accepting this permit, [the airline]
+waives any right it may possess to assert any defense of sovereign immunity from suit in any action
+... against the holder in any court ... based upon any claim arising out of operations by the holder
+of this permit. These provisions would be meaningless if Lufthansa were able to avoid the discovery
+rules by reason of the terms of its German license. Lufthansa operated here when the alleged
+antitrust violations were committed and it is allowed to continue to operate here solely because of
+the United States license and the commitments it made when the license was granted. These
+commitments are binding, and they will be enforced. Lufthansa shall forthwith make the applications
+to the German Ministry it claims are necessary under its German permit to comply with all of
+plaintiff’s discovery requests. When the Court rules on the motion to compel (see Part V infra), it
+will not consider any defenses based on objections from that Ministry unless such application is
+made as required herein. In the event that the German authorities do not grant permission as needed
+to satisfy the discovery rights of plaintiff in this action, the Court will consider their rulings
+in whatever proceedings, if any, that may be held pursuant to Rule 37 of the Federal Rules of Civil
+Procedure. IV Lufthansa contends next that the Hague Convention is the exclusive means for
+compelling it to produce documents and for securing the deposition of its two officers. ■ The
+principal methods provided for discovery purposes under the Convention are letters of judicial
+request, the taking of testimony by consular officials, and the taking of testimony by
+commissioners. On their face, these provisions do not appear to be ineffective. However, the
+government of the Federal Republic of Germany has rendered them entirely ineffective, at least in
+the context of the present proceeding. That government has made a declaration under Article 23 of
+the Convention that it will not execute letters of request issued for the purpose of obtaining
+discovery documents. That government has also made a declaration under Article 33 of the Convention
+that it will not allow its nationals to give testimony before the consular officials of the forum
+state or before commissioners appointed either by the requesting or the executing court, and that it
+will lend no judicial assistance in such a consular or commissioner proceeding. That government has
+finally made it clear, through a series of notes verbale, that in case of a request by the United
+States for the questioning of a witness by United States consular officials in Germany it would
+neither compel such a person to appear nor, should he appear voluntarily, to compel him to provide
+any information. In short, the German government will not allow the production in Germany of
+documents; it will permit no evidence to be taken under compulsion before a consular officer or a
+commissioner; and it reserves the right to refuse a judicial letter of request if, in its sole
+discretion, a response would be contrary to the sovereignty or security interests of the Federal
+Republic. The provisions under the Hague Convention and the actions of the German authorities
+pursuant thereto, are in patent conflict with the Federal Rules of Civil Procedure and the rights
+which these Rules grant to all litigants, including this plaintiff. The Federal Rules give to every
+litigant in a United States court very wide discovery rights. Thus, Rule 26 provides broad rights
+with respect to the taking of depositions; Rule 33 provides that interrogatories “shall be answered”
+by the party upon which they are served; and Rule 34 contemplates the broadest possible discovery
+and production of documents. Nowhere in these Rules is there the slightest suggestion that a party
+properly before the Court may not avail itself of these discovery rights against another party
+within the jurisdiction of the Court merely because the documents sought or the persons to be
+deposed are not located in the United States. Indeed, the Rules clearly contemplate their
+applicability abroad if the United States Court has jurisdiction. See, e.g., Rule 28(b),
+Fed.R.Civ.P. The fundamental conflict between the Federal Rules and the Hague Convention as it would
+be applied in Ger many raises the obvious question whether the Federal Rules must be deemed
+superseded or repealed pro tanto by the Convention. The Court agrees entirely with Judge Brieant of
+the Southern District of New York who in Compagnie Francaise d'Assurance v. Phillips Petroleum Co.,
+81 Civ. 4463-CLB, slip op. at 10-12 (S.D.N.Y. Jan. 25, 1983), wrote as follows: A finding that the
+production of documents is precluded by foreign law does not conclude a discovery dispute. A United
+States court has the power to order any party within its jurisdiction to testify or produce
+documents regardless of a foreign sovereign’s use to the contrary. Societe International v. Rogers,
+357 U.S. 197, 204-06 [78 S.Ct. 1087, 1091-92, 2 L.Ed.2d 1255] (1958); United States v. First
+National City Bank, 396 F.2d 897, 900-01 (2d Cir.1968); United States v. Vetco, 644 F.2d 1324, 1329
+(9th Cir.), cert. denied [454 U.S. 1098] 102 S.Ct. 671 [70 L.Ed.2d 639] (1981). Plaintiffs have
+urged this Court to defer to the French statute and to decline to order the requested discovery. In
+fact, it is suggested that we are required to do so, because Article 11 and 21 of the Hague
+Convention on the Taking of Evidence Abroad would permit a party confronted with a statute such as
+Article 1 to refuse to give evidence. Because the United States is a signatory to the Convention,
+the argument continues, this Court is bound by its provision and must also permit plaintiffs to
+refuse to produce the documents. In essence, plaintiffs argue that the Articles of the Hague
+Convention withdraw from this Court the right to employ the discovery devices provided in the
+Federal Rules of Civil Procedure because they conflict with the provisions of the French Law No.
+80-538. . • The Hague Convention, signed by both France and the United States, is an international
+treaty and as such is entitled to be recognized as part of the supreme law of the land. United
+States Constitution, Art. VI, cl. 2. The Federal Rules of Civil Procedure, duly enacted by Congress,
+are also part of the supreme law of the land. Absent a direct conflict, our duty is to enforce them
+both. Nothing in the legislative history of the Hague Convention nor in the Congressional
+proceedings at the time of its adoption, suggests that Congress intended to replace, restrict,
+modify or repeal the Federal Rules. Indeed, Philip Amram, a member of the United States delegation
+to the 1968 session of the Convention, described its provisions as ‘a climax [of] more than a
+generation of effort ... by those interested in modernizing and improving international judicial
+assistance,’ and stated it would effect ‘no major changes in U.S. procedure [nor require any]
+changes in U.S. legislation or rules.’ Amram, United States Ratification of the-Hague Convention on
+the Taking of Evidence Abroad, 67 Am.J.Int’l.L. 104, 105 (1973). Treaties should be construed so as
+to effect their purposes, Reed v. Wiser, 555 F.2d 1079 (2d Cir.), cert. denied, 434 U.S. 922 [98
+S.Ct. 399, 54 L.Ed.2d 279] (1977), and to be as consistent, insofar as possible, with coexisting
+statutes, Washington v. Fishing Vessel Assn., 443 U.S. 658, 690 [99 S.Ct. 3055, 3076, 61 L.Ed.2d
+823] (1979). The goal of the Hague Convention was to facilitate and increase the exchange of
+information between nations. It would not serve this goal to transform its provisions into a means
+to frustrate the discovery process. We conclude, therefore, that this Court is not required to defer
+to the French statute by virtue of the Hague Convention. See also, Murphy v. Reifenhauser KG
+Maschinenfabrik, 101 F.R.D. 360 (D.Vt.1984); Graco, Inc. v. Kremlin, Inc., 101 F.R.D. 503
+(N.D.Ill.1984); Lasky v. Continental Products Corp., 569 F.Supp. 1227 (E.D.Pa.1983); Oxman, “The
+Choice Between Direct Discovery and Other Means of Obtaining Evidence Abroad: The Impact of the
+Hague Evidence Convention,” 37 U.Miami L.Rev. 733 (1983). As the Uranium Antitrust Litigation court
+recognized, in an antitrust case such as this, involving as it does an alleged conspiracy among a
+number of foreign and domestic corporations, the absence of necessary foreign discovery would sound
+the death knell of a plaintiff’s ease. The Court does not doubt that Congress did not intend to
+deprive litigants of their right to a fair trial in the courts of the United States in accordance
+with the Federal Rules of Civil Procedure when it ratified the Hague Convention, and the Court
+refuses to ascribe to the Congress so irrational a purpose. Defendants rely to the contrary upon the
+position taken by the Solicitor General in the United States Supreme Court in No. 82-1888,
+Volkswagen Aktiengesellschaft v. Falzon, and upon several state court decisions. In Falzon, a
+products liability case, the Michigan courts entered orders directing that, depositions be taken of
+German nationals in Germany, and a question arose as to a possible conflict between these orders and
+the Hague Convention. The Supreme Court requested the views of the Solicitor General, and that
+official replied that in his opinion the orders conflicted with the obligations of the United States
+under the Convention and were therefore invalid under the Supremacy Clause. While the views of the
+Solicitor General on an issue such as this may well be entitled to weight, the opinions he expressed
+in Falzon are not persuasive, if only because the operative facts there were entirely dissimilar
+from those which govern here. In the first place, the orders in Falzon were those of state courts,
+operating under state laws and procedures, and the Solicitor General therefore relied upon the
+Supremacy Clause as requiring adherence to a treaty negotiated by the United States rather than to
+state law. But the issue here is which federal law should be applied—the Hague Convention or the
+Federal Rules of Civil Procedure—and on that question the Supremacy Clause is of no help whatever.
+Moreover, the Michigan suit was a tort action. In that kind of litigation, the foreign authorities
+may be deemed to have interests similar to those of the United States, and it may therefore be
+assumed that they will cooperate to the end that results similar to those contemplated by the
+Federal Rules will be achieved. This case presents an entirely different situation. The subject
+matter of this lawsuit are the American anti-trust laws. This implicates both United States public
+policy interests of a special significance and well-established foreign antagonisms to those laws.
+Those antagonisms are heightened here because, as noted, Lufthansa is owned by the German
+government. The incentive of that government to refuse to cooperate is thus substantially increased.
+By contrast, it was clear in Falzon that the German authorities were prepared to assist with the
+production of the necessary evidence; the only issue was by what means that evidence was to be
+obtained. In a reply note the German Ministry of Foreign Affairs agreed that no objection would be
+raised to the questioning of German or other non-American nationals by United States consular
+officers in Germany, even in the homes and offices of the witnesses, provided only that no
+compulsion was used. Here, by contrast, presumably for the reasons cited above, the German
+authorities have shown no inclination to facilitate discovery by Laker. The Court holds that in this
+case the Hague Convention does not constitute the exclusive means by which plaintiff may secure
+discovery from Lufthansa, whether in the United States, in the Federal Republic of Germany, or
+elsewhere. V It has been held by some courts that even though the Hague Convention may not be the
+exclusive means for compelling discovery abroad, it is appropriate for a United States tribunal to
+require a litigant to attempt to secure discovery by means of the procedures provided for by the
+Convention before resort is had to the Federal Rules. See, e.g., Schroeder v. Lufthansa German
+Airlines, No. 83 C 1928 (N.D.Ill.1983); see also, Restatement (Second) Foreign Relations Law of the
+United States § 40. Notwithstanding Lufthansa’s appalling record with regard to discovery (see Part
+I supra) and the close financial relationship between it and the German government, the Court will
+not foreclose the possibility that a reasonable accommodation between the interests of justice in
+this Court and the interests of the German authorities can yet be achieved. The Court has previously
+been sensitive to the requirements of comity, and it will continue to do so. The German Ministry of
+Transport stated in its response to the Lufthansa application that permission for the production of
+the materials requested by Laker would be deferred until the decision of the United States Supreme
+Court in the Falzon case referred to above. The Supreme Court dismissed the appeal in that case on
+February 21, 1984, and the German Ministry’s basis for deferral is thus gone. This Court, in the
+exercise of its discretion, and in accordance with the principles of comity, will defer entry of an
+order on plaintiff’s motion to compel for an additional thirty days from the date of the issuance of
+this Memorandum, and it will also delay the deposition of Abraham and Culman for the same period.
+This delay should give the German authorities both the time and the opportunity to decide whether
+they wish to provide cooperation within the spirit both of the Hague Convention and of comity
+between nations. It will also allow the parties to attempt to come to an agreement regarding
+reasonable parameters of the discovery in Germany, both documentary and by way of deposition. . The
+motion initially also concerned Swissair, but it has since been withdrawn with respect to that
+defendant.
 
 

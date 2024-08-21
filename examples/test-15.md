@@ -1,142 +1,192 @@
 **gold_text:**
-The amendment to Rule 25(a) (1) was intended to dispel unwarranted rigidity and allow more
-flexibility in substitution. “It was intended that liberal effect be given to the 1963 amendment.”
-Roscoe v. Roscoe, 126 U.S.App.D.C. 317, 322, 379 F.2d 94, 99 (1967). “[T]he 90 day period was not
-intended to act as a bar to otherwise meritorious actions.” Staggers v. Otto Gerdau Co., 359 F.2d
-292, 296 (2d Cir. 1966).
+Insofar as Movant seeks prior statements of witnesses to be called by the Government, he is amply
+protected by Title 18 U.S.C. § 3500 which entitles him, after they have testified, to examine their
+prior statements relating to the subject matter of their direct testimony. United States v.
+Giuliano, 348 F.2d 217, 223 (2d Cir.), cert. denied, 382 U.S. 939, 946, 86 S.Ct. 390, 406, 15
+L.Ed.2d 349, 354 (1956). In addition he may examine their Grand Jury testimony after they have
+testified, see Dennis v. United States, supra; United States v. Youngblood, 379 F.2d 365 (2d Cir.
+June 21, 1967). In the event that such Jencks Act material or Grand Jury testimony is voluminous,
+the Government is directed to submit the same to the Court before commencement of trial so that the
+trial judge may determine, in the exercise of his discretion, whether to order that the material be
+furnished to defense counsel before completion of a witness’ testimony, in order to afford counsel
+adequate opportunity to use such material upon cross-examination and undue delay during the trial.
 
 **Generations:**
 
 
 ***GPT-4o:***
-This stringent interpretation contrasts sharply with the intent of the 1963 amendments to Rule 25
-and Rule 6(b), which aimed to inject flexibility and fairness into the substitution process. As
-noted in 379 F.2d 94 and 359 F.2d 292, the amendments were designed to eliminate the inequities and
-hardships caused by the rigid two-year limitation originally imposed. The Advisory Committee
-emphasized that the revised rules were to be liberally construed to allow courts discretion in
-extending the substitution period, recognizing the difficulties that could arise in promptly
-identifying and notifying the proper representative of the deceased.   Given this context, the
-defendant’s counsel's suggestion of death, which lacked identification of a proper representative,
-failed to initiate the 90-day countdown. This interpretation aligns with the judicial precedent that
-courts should prioritize the equitable administration of justice over strict procedural formalities.
-Thus, the district court erred in dismissing the plaintiffs' action without granting the requested
-extension, especially considering the circumstances that inhibited timely substitution, such as the
-injury to plaintiffs' counsel and the ongoing legal processes in the probate court.  We, therefore,
-reverse the judgment and remand for further proceedings consistent with this opinion, ensuring that
-the substitution process adheres to the flexible and just principles intended by the amendments to
-the Federal Rules of Civil Procedure.
+MANSFIELD, District Judge (continued).  In United States v. Abrams, 29 F.R.D. 178, 183
+(S.D.N.Y.1961) and as stated in the Jencks Act, 18 U.S.C. § 3500, the procedural norm mandates that
+statements made by witnesses are to be produced only after the witness has testified at trial,
+reinforcing that an all-encompassing request for pre-trial discovery would undermine this principle
+(Ref: 348 F.2d 217). Consequently, general demands lacking specificity, such as those made by
+Hernick, do not meet the requisite threshold of materiality and reasonableness for pre-trial
+discovery.  Further, aligning with United States v. Tane, 29 F.R.D. 131 (E.D.N.Y.1962) and Bowman
+Dairy Co. v. United States, 341 U.S. 214, 71 S.Ct. 675 (1951), Rule 17 of the F.R.Crim.P. does not
+serve as an independent discovery tool supplementary to Rule 16, but rather operates within a
+narrowly defined scope. The indiscriminate nature of the Movant’s request under Rule 17 thus fails
+to demonstrate the necessary relevance and non-duplicative means of obtaining the materials sought.
+Moreover, the call for grand jury testimony cannot be granted absent a particularized need,
+indicating the limited applicability of the general rule of grand jury secrecy as discussed in 379
+F.2d 365. Exceptions to this rule are constrained to circumstances where non-disclosure could
+compromise national security or is otherwise justifiably restricted.  In conclusion, the overarching
+demand for all-encompassing discovery, devoid of clear relevance and materiality, stands in
+violation of established legal precedents and procedural norms (Refs: 348 F.2d 217; 379 F.2d 365),
+justifying its denial on these grounds.
 
 
 **Label:** 
 
 
 ***Meta-Llama-3-8B-Instruct:***
-  In the context of Rule 25(a) (1) of the Federal Rules of Civil Procedure, the suggestion of death
-is a crucial step in the process of substituting a deceased party with a proper representative.
-However, not all suggestions of death are created equal. In cases where the suggestion of death is
-made by a party's attorney, but fails to identify a successor or representative of the deceased, the
-90-day period for substitution may not be triggered.  As noted in 359 F.2d 292, the Advisory
-Committee on Civil Rules intended to provide a more flexible standard for substitution, allowing for
-extensions of time and dispensing with the rigid two-year period previously in place. However, this
-flexibility is contingent upon the suggestion of death providing sufficient information to permit
-the court to proceed with substitution.  In the present case, the suggestion of death made by the
-defendant's attorney was deficient in that it failed to identify a successor or representative of
-the deceased. This lack of specificity rendered the suggestion ineffective in triggering the 90-day
-period for substitution, as explained in 379 F.2d 94.  Furthermore, the court's discretion to
-enlarge the time period for substitution, as provided by Rule 6(b), is not a blank check. Rather, it
-is intended to be exercised in a judicious and reasonable manner, taking into account the particular
-circumstances of each case.  In light of these principles, we conclude that the district court erred
-in dismissing the action with prejudice. The case should be remanded for further proceedings,
-allowing the parties to properly substitute a representative of the deceased and continue the action
-in a manner consistent with the Federal Rules of Civil Procedure.
+ In the context of legal cases, the discovery of evidence is a crucial aspect of the pre-trial
+process. In the case of United States v. Hernick (348 F.2d 217), the court denied the defendant's
+motion for blanket discovery of evidence, citing the need for specificity and materiality. The court
+held that the defendant must make a specific showing of materiality to his defense or reasonableness
+of the request, and that the government need not disclose its witnesses or internal documents before
+trial.  Similarly, in United States v. Zochowski (379 F.2d 365), the court held that a defendant
+should be entitled to see all the grand jury testimony of each witness on the subjects about which
+that witness testified at the defendant's trial, without requiring him to show any particularized
+need for this material. However, the court also noted that the government may seek a protective
+order to prevent disclosure of certain material that would jeopardize national security or other
+proper reasons.  In the case of United States v. Hernick, the court denied the defendant's motion
+for discovery of "exculpatory evidence" under the Due Process clause of the Constitution, citing the
+need for specificity and materiality. The court held that the government's obligation to disclose
+exculpatory evidence is limited to circumstances where the evidence is "obviously exculpatory and of
+such a nature that delay in disclosure would prevent the defendant from effectively using it at
+trial."  In conclusion, the discovery of evidence in legal cases is a complex process that requires
+careful consideration of the specific facts and circumstances of each case. The courts have
+developed various rules and principles to guide the discovery process, including the need for
+specificity and materiality, and the obligation of the government to disclose exculpatory evidence.
+By considering these principles and the relevant case law, lawyers and judges can ensure that the
+discovery process is fair, efficient, and effective in promoting the administration of justice.
 
 
 **Label:** 
 
 
-**citations:** ['379 F.2d 94', '359 F.2d 292']
+**citations:** ['348 F.2d 217', '379 F.2d 365']
 
-***short_citations_0:*** 379 F.2d 94
+***short_citations_0:*** 348 F.2d 217
 
-the proper parties. * * * Unless the motion for substitution is made not later than 90 days after the death is suggested upon the record by service of a statement of the fact of the death as provided herein for the service of the motion, the action shall be dismissed as to the deceased party.” Here not only had the 90-day period not expired when the court entered summary judgment, the appellant by her motion for reconsideration had specifically invoked the discretion of the court. Rule 6(b) provides pertinently that when “by these rules * * * an act is required or allowed to be done at or within a specified time, the court for cause shown may at any time in its discretion (1) with or without motion or notice order the period enlarged if request therefor is made before the expiration of the period originally prescribed * * Originally the Rule had precluded an extension of time for taking action under Rule 25(a) (1), but by purposeful amendment, it was sought to relieve against the hardship of the Court’s holding in Anderson v. Yungkau, 329 U.S. 482, 67 S.Ct. 428, 91 L.Ed. 436 (1947). It was intended that liberal effect be given to the 1963 amendment. Graham v. Pennsylvania Railroad, 119 U.S.App.D.C. 335, 342 F.2d 914 (1964), cert. denied, 381 U.S. 904, 85 S.Ct. 1446, 14 L.Ed.2d 286 (1965). We are constrained to reverse for further proceedings not inconsistent with this opinion. Reversed. The only “party” then
+moved for production of Agent Clinkscales’ notes relating to his conversations with Zochowski and the records of payments received by the latter from the F.B.I. The motion was properly denied. The plain language of the Jencks Act, 18 U.S.C. § 3500, and consideration of its underlying purpose, compel the conclusion that the discovery procedure therein outlined applies only to statements that must be produced after a witness testifies at the trial. See 1957 U. S. Code Cong. & Admin. News 1869. United States v. Abrams, 29 F.R.D. 178, 183 (S.D.N.Y. 1961); United States v. Tane, 29 F.R.D. 131, 133 (E.D.N.Y.1962); United States v. Rosenberg, 157 F.Supp. 654 (E.D.Pa. 1958). Moreover, the material sought was not relevant to the central question before Judge Palmieri, i. e., whether there were credible, substantial reasons for not raising the informant and entrapment defenses at the time the guilty pleas were entered or within a reasonable time thereafter. The conviction of Prezioso is also affirmed. . Zochowski’s Jencks Act point was raised . at the hearing by Prezioso and will be discussed in connection with that appellant.
 
-***short_citations_1:*** 359 F.2d 292
+***short_citations_1:*** 379 F.2d 365
 
-insertion of a “reasonable time” standard. In 1963, the Advisory Committee suggested the present rule and noted: “Present Rule 25(a) (1), together with present Rule 6(b), results in an inflexible requirement that an action be dismissed as to a deceased party if substitution is not carried out within a fixed period measured from the time of the death. The hardships and inequities of this unyielding requirement plainly appear from the cases. * * * The amended rulé establishes a time limit for the motion to substitute based not upon the time of the death, but rather upon the time information of the death is provided by means of a suggestion of death upon the record, i. e. service of a statement of the fact of the death.” See Notes of Advisory Committee on the Civil Rules, 28 U.S.C. Rule 25 (1964). Rule 6(b) of the Federal Rules of Civil Procedure was also amended in 1963 and the prohibition against extending the time for taking action under Rule 25 was eliminated. The Advisory Committee on the Civil Rules noted: “It is intended that the court shall have discretion to enlarge that period.” The amendments of Rules 6(b) and 25(a) (1) provided needed flexibility. It was assumed that discretionary extensions would be liberally granted. Movants under Rule 25 can ordinarily control when a death is “suggested upon the record” and appellants’ attorney was under no obligation to file his affidavit of Staggers’ death on the date he did. He could have filed
+that portion of the witness’s grand jury testimony which was the subject of direct examination at the trial. Under these circumstances the traditional reasons for grand jury secrecy are largely inapplicable and we think that disclosure of grand jury testimony should be granted without requiring a showing of “particularized need” by the defendant. See Calkins, Grand Jury Secrecy, 63 Mich.L.Rev. 455 (1965); Sherry, Grand Jury Minutes: The Unreasonable Rule of Secrecy, 48 Va.L.Rev. 668 (1962). For the foregoing reasons we direct that at trials commencing after our judgment here is entered, the district courts of this circuit at the request of the defendant should order that the defendant be allowed to examine the grand jury testimony of those witnesses who testify at his trial without requiring him to show any particularized need for this material; we are holding that a defendant should be entitled to see all the grand jury testimony of each witness on the subjects about which that witness testified at the defendant’s trial. Nevertheless, despite this general rule, the Government, upon a showing that disclosure of particular material would jeopardize national security or should be denied for other proper reasons, may seek a protective order from the trial court in order to prevent disclosure to the defendant of that particular portion of the grand jury material. If the Government seeks such a protective order the court should first examine in camera the material sought to be protected before making its ruling; and if material is withheld from
 
 **prev_text:**
-LEVENTHAL, Circuit Judge: The District Court held that Rule 25(a) (1) of the Federal Rules of Civil
-Procedure required dismissal of the plaintiffs’ tort action because defendant’s counsel had filed a
-suggestion of death of the defendant yet plaintiff had not made any substitution of parties within
-90 days. We reverse on the ground that the suggestion of death, which was neither filed by nor
-identified a successor or representative of the deceased, such as an executor or administrator, was
-ineffective to trigger the running of the 90-day period provided by the Rule. Mr. and Mrs. John
-Rende filed an action in the District Court individually and on behalf of their infant son who had
-been struck and injured by Alfred S. Kay while driving his car. On August 27, 1967, defendant Kay
-died. On September 1, 1967, the defendant’s attorney, a term used here to identify the lawyer who
-had been retained by deceased to defend the action, and who had duly entered an appearance as
-attorney for defendant, filed a suggestion of death in the District Court, giving notice to
-plaintiffs’ attorney. That same day there was filed in the Orphans Court for Montgomery County,
-Maryland, residence of the deceased, his will naming his widow as executrix, but the will had not
-been probated, nor any legal representative appointed for the estate at the time of the filing of
-this appeal. Plaintiffs’ attorney was injured on October 14, 1967. On returning to practice early in
-1968, he learned that no successor to defendant Kay had yet been appointed, and he moved to certify
-the case to the ready calendar. The defendant’s attorney opposed this on grounds that discovery
-procedures had not been completed. The case was delayed and placed on the ready calendar as of June
-7, 1968. However, in April 1968, the defendant’s attorney moved in his own name to dismiss the
-action on the ground that Rule 25(a) (1) required plaintiffs to move to substitute a proper party
-for the deceased within 90 days of the suggestion of death. Plaintiffs filed an opposition and
-motion for substitution of the proper party, and sought an extension of the time for substitution as
-allowed by Rule 6(b). At argument, plaintiffs’ counsel asserted the “suggestion of death was
-defective in that it did not list the name of the proper party; that is the legal representative of
-the defendant.” The court responded: “That would not be his burden.” The court dismissed the action
-with prejudice. Prior to its amendment in 1963, Rule 25(a) (1) required the court to dismiss a case
-if no motion for substitution was filed within two. years after date of death, and no extensions of
-this period were allowed under Rule 6(b). The rule was rigorously applied, often with harsh results,
-and was called “easily the poorest rule of all the Federal Rules.” In 1955 the Advisory Committee on
-Rules for Civil Procedure recommended that the two-year period be changed to a “reasonable time”
-standard. In 1961 the Advisory Committee on Civil Rules again suggested the Rule be made more
-flexible. In 1963 the Supreme Court made changes in Rule 25(a) (1) and in Rule 6(b) so as to provide
-a 90-day time limit from the filing of a suggestion of death, and to give the court discretion to
-extend that time. The Committee Notes explaining the amendments state: Present Rule 25(a) (1),
-together with present Rule 6(b), results in an inflexible requirement that an action be dismissed as
-to a deceased party if substitution is not carried out within a fixed period measured from the time
-of death. The hardships and inequities of this unyielding requirement plainly appear from the cases.
-* * * The amended rule establishes a time limit for the motion to substitute based not upon the time
-of the death, but rather upon the time information of the death is provided by means of a suggestion
-of death upon the record. * * * A motion to substitute may be made by any party or by the
-representative of the deceased party without awaiting the suggestion of death. Indeed, the motion
-will usually be so made. If a party or the representative of the deceased party desires to limit the
-time within which another may make the motion, he may do so by suggesting the death upon the record.
-(Emphasis added.) Under the amended Rule either a party or “the successors or representatives of the
-deceased party” may avoid delay in effecting substitution for the deceased party either by filing a
-motion for substitution or by suggesting death on the record and thus triggering the 90-day period
-which begins with suggestion of death. The Advisory Committee, in outlining that suggestion of death
-could be made by “the representative of the deceased party” plainly contemplated that the suggestion
-emanating from the side of the deceased would identify a representative of the estate, such as an
-executor or administrator, who could be substituted for the deceased as a party, with the action
-continued in the name of the representative. The addition of “successor” in the Rule would take care
-of the case of, say, the distributee of an estate that had been distributed, but would not make a
-material difference in the aspect under consideration. Form 30, for suggestion of death, which was
-provided in order to expedite and facilitate implementation of the amendment, provides: A.B.
-[described as a party, or as executor, administrator, or other representative or successor of C.D.,
-the deceased party\ suggests upon the record, pursuant to Rule 25(a) (1), the death of C.D.
-[describe as party] during the pendency of this action. Added Jan. 21, 1963, eff. July 1, 1963.
-[Emphasis added.] Although the attorney for the defendant was retained to “represent” the deceased
-as his counsel, he is not a person who could be made a party, and is not a “representative of the
-deceased party” in the sense contemplated by Rule 25(a) d). In our opinion the Rule, as amended,
-cannot fairly be construed, as the de fendant’s attorney argues, to make his suggestion of death
-operative to trigger the 90-day period even though he was neither a successor nor representative of
-the deceased, and gave no indication of what person was available to be named in substitution as a
-representative of the deceased. Counsel’s construction would open the door to a tactical maneuver to
-place upon the plaintiff the burden of locating the representative of the estate within 90 days. We
-can conceive of cases wherein even the lawyer retained to represent a defendant might know the
-defendant had died, yet not readily know where his estate would be administered. In the present
-case, plaintiff’s attorney did know the court of probate, but he did not know whether probate of the
-will might be contested, or who would be appointed representative of the estate. The tactic of the
-defendant’s attorney would place on plaintiff the burden, where no conventional representative was
-appointed for the estate in probate court, of instituting machinery in order to produce some
-representative of the estate ad litem, pending appointment of the representative contemplated by law
-of the domicile of the deceased.
+MANSFIELD, District Judge. This is a motion by Walter Hernick, one of seven defendants charged with
+conspiracy to receive, conceal, buy, sell and facilitate the transportation and sale of marijuana
+contrary to law (21 U.S.C. § 176a), for a blanket discovery of evidence in the Government’s
+possession, purportedly made pursuant to Rules 16 and 17, F.R.Crim.P., and the Due Process clause of
+the Constitution. The Movant demands numerous all-inclusive categories of evidence, which in effect
+would require the Government, if the motion were granted, to open up to the Movant its entire files
+pertaining to the case (and possibly to other proceedings), solely on the conclusory statement of
+Movant’s attorneys, unsupported by any affidavit or other facts showing materiality or
+reasonableness, that they desire inspection because they think the evidence is material and “will
+expedite the trial of the cause and materially aid the defendant in the preparation of his defense.”
+Even after giving full effect to the recent liberalization of pretrial discovery in criminal
+proceedings, this Court is of the opinion, for the reasons hereinafter stated in more detail, that
+such a free-wheeling, dragnet, general exploratory fishing expedition must be denied, except to the
+extent consented to by the Government, in the absence of specificity and some showing of materiality
+or good cause. See United States v. Van Allen, 28 F.R.D. 329, 335 (S.D.N.Y.1961); United States v.
+Abrams, 29 F.R.D. 178, 183 (S.D.N.Y.1961). On its face, the demand appears to be both indiscriminate
+and unreasonable. If the Supreme Court and Congress had intended to authorize such rummaging through
+Government files upon mere request, the detailed provisions and limitations found in Rule 16,
+F.R.Crim.P., would be both unnecessary and meaningless. In the interest of facilitating
+consideration of the items demanded, they are divided into three categories: I. Demands under Rule
+16, F.R.Crim.P.; II. Demands under Rule 17, F.R.Crim.P.; and III. Demands under the Due Process
+clause of the Constitution. I. Demands under Rule 16, F.R. Crim.P. Movant’s demands for “1(a) All
+books, papers and documents relating to the instant case which are in the possession of the
+Government” and for “1(d) All items secured through search and seizure in connection with the
+investigation of this case”, are denied for failure to make any: specific showing of materiality to
+Hernick’s defense or reasonableness of the request as is required by Rule 16(b). The mere general
+allegation of counsel’s motion papers (not even on affidavit) is insufficient. See United States v.
+Soyka, 265 F.Supp. 126 (S.D.N.Y.1967); United States v. Van Allen, supra. Item 1(b) requests “Any
+statements made by the defendant to agents of the Federal Bureau of Investigation or any other law
+enforcement agency, statements which were reduced to writing by agents of the Federal Bureau of
+Investigation or which are contained in any report of the Federal Bureau of Investigation.” This
+request is denied for the reason that the United States Attorney has stated in his affidavit that
+the Government has no such statements in its possession. In addition there has been a failure to
+allege substantial reasons in support of such discovery as required by this Court in its opinion in
+United States v. Carreau, 42 F.R.D. 408 (S.D.N.Y. June 30, 1967). Request 1(c) is for “All
+scientific reports which were made in connection with this case.” The Government consents to
+permitting the Movant to inspect the results of the one scientific test it has conducted in
+connection with this case. With the caveat that the Movant should also be permitted to copy this
+report if he wishes, the above-mentioned consent disposes of this matter. Request 1(e) for “The
+Federal Bureau of Investigation criminal identification sheets showing the prior criminal record
+including felony convictions of Murray Lapidus, Danny Klein, Harry Cardona and any other Government
+witness” must be denied for failure to show any facts indicating materiality or reasonableness. No
+effort is made to acquaint the Court with the identity, much less the importance or relationship of
+the named persons to this case, other than to imply that they might become Government witnesses. It
+is well settled that the Government need not disclose its witnesses before trial, United States v.
+Manhattan Brush Co., 38 F.R.D. 4, 7 (S.D.N.Y.1965), and the recent amendments to Rule 16(b)
+expressly provide that “This rule does not authorize the discovery or inspection of reports,
+memoranda, or other internal government documents made by government agents in connection with the
+investigation or prosecution of the case, or of statements made by government witnesses (other than
+the defendant) to agents of the government except as provided in 18 U.S.C. § 3500.” 11. Demands
+under Rule 17, F.R.Crim.P. Movant seeks a subpoena duces tecum requiring the Government to furnish
+him with “All documents, books, papers and objects obtained by Government counsel in any manner (a)
+in the course of the investigation by the Grand Jury which resulted in the return of the indictment
+herein, and (b) in the course of the Government’s preparation for the trial of this cause, if such
+books, papers, documents and objects (1) have been presented to the Grand Jury, or (2) are to be
+offered as evidence on the trial of the defendant under the indictment.” This request must also be
+denied. It is abundantly clear that Rule 17 does not provide a separate means of discovery,
+supplementing the ample and detailed provisions of Rule 16. See United States v. Van Allen, supra,
+28 F.R.D. at 334; Bowman Dairy Co. v. United States, 341 U.S. 214, 220, 71 S.Ct. 675, 95 L.Ed. 879
+(1951); United States v. Woodner, 24 F.R.D. 33 (S.D.N.Y.1959). Furthermore, Movant has failed to
+state any facts or circumstances showing that the items requested are reasonable and relevant, that
+they cannot otherwise be procured by exercise of due diligence, and that inspection is necessary to
+enable Movant to prepare for trial and defend himself. United States v. Iozia, 13 F.R.D. 335, 338
+(S.D.N.Y.1952); United States v. Manhattan Brush Co., supra. In their zeal to assure a fair trial to
+the accused, neither Congress nor the Supreme Court has ever sanctioned such promiscuous perusal of
+Government files upon mere request. III. Demands under the Due Process Clause of the Constitution
+Movant demands what he refers to as “Due process exculpatory evidence”, the specification of which
+amounts to another shot-gun, all-inclusive, unspecific request for anything that might turn out to
+be useful, including “All information of whatever form, source or nature which * * * tends to
+exculpate the defendant * * * may be or become of benefit to the defendant * * * either on the
+merits of the case or on the question of credibility of witnesses,” including “names, addresses and
+telephone numbers of any persons the Government knows to possess relevant information”, the Grand
+Jury minutes of testimony of certain informants, any “threats of prosecution” to them,
+“contradictory statements, or identifications that might be used for impeachment of any other
+witness,” etc. The Government has stated that it is aware of its obligations under Brady v. State of
+Maryland, 373 U.S. 83, 83 S.Ct. 1194, 10 L.Ed.2d 215 (1963). In light of this representation and the
+interpretation of Brady generally followed in this Court, and in the absence of any showing of
+particularized need at this time, we see no reason to grant such a pretrial fishing expedition or to
+assume that the Government will not conduct the prosecution fairly. See United States v. Leighton,
+265 F.Supp. 27, 35 (S.D.N.Y.1967); United States v. Manhattan Brush Co., supra. But cf. United
+States v. Gleason, 265 F.Supp. 880 (S.D.N.Y.1967). We recognize that although Brady, Giles and Napue
+and similar decisions have dealt solely with suppression of evidence at trial rather than before
+trial, the object of the Due Process clause and the Fourteenth Amendment is to assure a fair trial
+to the accused and that there may be instances where disclosure of exculpatory evidence for the
+first time during trial would be too late to enable the defendant to use it effectively in his own
+defense, particularly if it were to open the door to witnesses or documents requiring time to be
+marshalled and presented. It is likewise true that a defendant cannot be expected to specify in
+advance exculpatory evidence in the hands of the Government that is unknown to him. On the other
+hand, the Government faces a similar dilemma for the reason that in the absence of a preview of the
+defendant’s proposed defenses before trial, it may often be insufficiently apprised to be able to
+select all exculpatory material from its files. Indeed, the question of whether certain evidence is
+“exculpatory”, like that of what evidence is “relevant”, is frequently a matter of opinion, which
+can be resolved only in the light of all other evidence introduced at trial. Although it has been
+suggested by some that the question should be resolved by requiring the Government to submit all
+possible exculpatory evidence to the Court for in camera examination before trial, see United States
+v. Gleason, supra, this proposal, quite aside from the intolerable burden that might be heaped upon
+the Court in some cases, offers no real solution, for the reason that the Court may be less
+knowledgeable than the parties, particularly in criminal proceedings presenting complicated issues,
+and as the Supreme Court recently noted in cautioning against such a procedure in determining the
+extent to which Grand Jury minutes should be disclosed “The determination of what may be useful to
+the defense can properly and effectively be made only by an advocate”, Dennis v. United States, 384
+U.S. 855 at 875, 86 S.Ct. 1840, at 1851, 16 L.Ed.2d 973 (1965). These reasons dictate the
+impossibility of fashioning a workable method of assuring pretrial disclosure of “exculpatory”
+evidence, and the necessity of adhering to the philosophy evidenced in the Jencks Act of waiting
+until the Government’s evidence unfolds at trial. However, this is not to say that the Government,
+which has the obligation of assuring that the defendant here will receive a fair trial, Berger v.
+United States, 295 U.S. 78, 88, 55 S.Ct. 629, 79 L.Ed. 1314 (1935), should not furnish to the
+defendant before trial evidence that is obviously exculpatory and of such a nature that delay in
+disclosure would prevent the defendant from effectively using it at trial. In view of the practical
+difficulties, the decision as to whether the Government possesses any such evidence must be left to
+its good conscience, subject to the sanction that if it delays disclosure until trial, it may risk
+the granting of a motion for a mistrial.
 
 

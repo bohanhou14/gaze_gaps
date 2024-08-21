@@ -1,142 +1,205 @@
 **gold_text:**
-The amendment to Rule 25(a) (1) was intended to dispel unwarranted rigidity and allow more
-flexibility in substitution. “It was intended that liberal effect be given to the 1963 amendment.”
-Roscoe v. Roscoe, 126 U.S.App.D.C. 317, 322, 379 F.2d 94, 99 (1967). “[T]he 90 day period was not
-intended to act as a bar to otherwise meritorious actions.” Staggers v. Otto Gerdau Co., 359 F.2d
-292, 296 (2d Cir. 1966).
+In Matter of Pubs, Inc. of Champaign, 618 F.2d 432, 435-38 (7th Cir.1980), the Court of Appeals for
+the Seventh Circuit considered a situation in which two individuals who were also the officers of
+the debtor corporation promised their own equipment as collateral for a loan from the bank. The
+debtor corporation later filed for bankruptcy and the court held that the individuals had properly
+pledged the collateral and concluded that “[njotice to the director of a corporation is notice to
+the corporation and estops the corporation and its receiver from questioning the validity of a prior
+transaction.” Id. at 438. In Atchison, the Court of Appeals for the Eleventh Circuit, applying the
+Uniform Commercial Code, likewise held that the signature of the person who owned the collateral
+individually but pledged it on behalf of his corporation had manifested his consent to granting a
+security interest in the property. 832 F.2d at 1239-40 (“[E]ven if he did own the equipment, his
+signature for A & W was sufficient to infer his consent to its use as collateral.”). A United States
+Bankruptcy Court has applied Atchison to facts similar to those presented here — to a situation in
+which the individuals who owned the property pledged as security (a coin collection) signed the
+security agreement in his capacity as a corporate officer. In re 4-R Management, Inc., 208 B.R. 232,
+237 (Bankr.N.D.Ala.1997). The court held that the owners’ individual signatures on the security
+agreement “was sufficient to infer corporate consent to use the coins as collateral.” Id. at 238.
 
 **Generations:**
 
 
 ***GPT-4o:***
-This stringent interpretation contrasts sharply with the intent of the 1963 amendments to Rule 25
-and Rule 6(b), which aimed to inject flexibility and fairness into the substitution process. As
-noted in 379 F.2d 94 and 359 F.2d 292, the amendments were designed to eliminate the inequities and
-hardships caused by the rigid two-year limitation originally imposed. The Advisory Committee
-emphasized that the revised rules were to be liberally construed to allow courts discretion in
-extending the substitution period, recognizing the difficulties that could arise in promptly
-identifying and notifying the proper representative of the deceased.   Given this context, the
-defendant’s counsel's suggestion of death, which lacked identification of a proper representative,
-failed to initiate the 90-day countdown. This interpretation aligns with the judicial precedent that
-courts should prioritize the equitable administration of justice over strict procedural formalities.
-Thus, the district court erred in dismissing the plaintiffs' action without granting the requested
-extension, especially considering the circumstances that inhibited timely substitution, such as the
-injury to plaintiffs' counsel and the ongoing legal processes in the probate court.  We, therefore,
-reverse the judgment and remand for further proceedings consistent with this opinion, ensuring that
-the substitution process adheres to the flexible and just principles intended by the amendments to
-the Federal Rules of Civil Procedure.
+III.  The principle at issue is whether WL Homes had sufficient rights in the JLH account to pledge
+it as collateral for the Wachovia loan. Under California law, consent from the collateral's owner
+can provide such rights. This is akin to the ruling in 208 B.R. 232, where corporate consent to use
+assets as collateral was inferred through the corporate officers’ actions. Here, JLH’s consent can
+be imputed based on the knowledge and actions of Wayne Stelmar, the president of JLH and CFO of WL
+Homes. His dual roles ensure that WL Homes had sufficient rights in the JLH account, thus validating
+Wachovia’s security interest (208 B.R. 232).  Additionally, the Bankruptcy Court’s use-and-control
+theory finds support in 618 F.2d 432, where control and use of assets by the debtor were deemed
+sufficient to establish security interest. Similarly, WL Homes's control over the JLH account
+complements the consent theory, giving Wachovia rights to enforce its interest in the account.
+Therefore, both theories — consent and use/control — provide a valid basis for Wachovia's security
+interest in the JLH account. As such, we affirm the District Court's ruling.  IV.  In conclusion, we
+find that WL Homes had sufficient rights in the JLH account through both the consent of JLH and its
+control over the account to grant Wachovia a valid security interest. Accordingly, we affirm the
+judgment of the District Court, relying on the principles established in 618 F.2d 432, 208 B.R. 232,
+and relevant state law.
 
 
 **Label:** 
 
 
 ***Meta-Llama-3-8B-Instruct:***
-  In the context of Rule 25(a) (1) of the Federal Rules of Civil Procedure, the suggestion of death
-is a crucial step in the process of substituting a deceased party with a proper representative.
-However, not all suggestions of death are created equal. In cases where the suggestion of death is
-made by a party's attorney, but fails to identify a successor or representative of the deceased, the
-90-day period for substitution may not be triggered.  As noted in 359 F.2d 292, the Advisory
-Committee on Civil Rules intended to provide a more flexible standard for substitution, allowing for
-extensions of time and dispensing with the rigid two-year period previously in place. However, this
-flexibility is contingent upon the suggestion of death providing sufficient information to permit
-the court to proceed with substitution.  In the present case, the suggestion of death made by the
-defendant's attorney was deficient in that it failed to identify a successor or representative of
-the deceased. This lack of specificity rendered the suggestion ineffective in triggering the 90-day
-period for substitution, as explained in 379 F.2d 94.  Furthermore, the court's discretion to
-enlarge the time period for substitution, as provided by Rule 6(b), is not a blank check. Rather, it
-is intended to be exercised in a judicious and reasonable manner, taking into account the particular
-circumstances of each case.  In light of these principles, we conclude that the district court erred
-in dismissing the action with prejudice. The case should be remanded for further proceedings,
-allowing the parties to properly substitute a representative of the deceased and continue the action
-in a manner consistent with the Federal Rules of Civil Procedure.
+  The case Wacho-via Bank, National Association v. WL Homes, LLC involves a secured creditor, Wacho-
+via, seeking a declaration that it has an enforceable security interest in a bank account held by a
+wholly-owned subsidiary, JLH Insurance Corporation, of the debtor, WL Homes. The Court applied
+California law and held that Wacho-via had a valid security interest in the account because JLH
+consented to the pledge and, in the alternative, because WL Homes had use and control of the JLH
+account.  The Court noted that a security interest attaches to collateral when it becomes
+enforceable against the debtor. Under California's Commercial Code, a security interest in a deposit
+account becomes enforceable against the debtor when the debtor has rights in the collateral or the
+power to transfer rights in the collateral to a secured party, and the secured party has control
+over the deposit account. The Court held that WL Homes had sufficient rights in the JLH account to
+pledge it as collateral, citing In re Ferandos, 402 F.3d 147, 156 (3d Cir.2005), and that JLH's
+consent to the use of its account as collateral was imputed to WL Homes.  In the present case, the
+Court applied the doctrine of imputed knowledge to charge WL Homes with the knowledge that JLH had
+gained in its capacity as a wholly-owned subsidiary, citing Northern Natural Gas Co. v. Superior
+Court, 64 Cal.App.3d 988, 134 Cal.Rptr. 850, 856 (1976). The Court also noted that several other
+courts have held that a debtor's rights in the collateral may be found from any rights going beyond
+mere possession, such as the right to use and control the collateral, citing Atchison, 832 F.2d
+1236, 1239 (11th Cir.1987).  In conclusion, the Court held that Wacho-via had a valid security
+interest in the JLH account and that the security interest was enforceable against the claim of the
+trustee. The Court's decision was based on the doctrine of imputed knowledge and the principle that
+a debtor's rights in the collateral may be found from any rights going beyond mere possession.
 
 
 **Label:** 
 
 
-**citations:** ['379 F.2d 94', '359 F.2d 292']
+**citations:** ['618 F.2d 432', '618 F.2d 432', '208 B.R. 232']
 
-***short_citations_0:*** 379 F.2d 94
+***short_citations_0:*** 618 F.2d 432
 
-the proper parties. * * * Unless the motion for substitution is made not later than 90 days after the death is suggested upon the record by service of a statement of the fact of the death as provided herein for the service of the motion, the action shall be dismissed as to the deceased party.” Here not only had the 90-day period not expired when the court entered summary judgment, the appellant by her motion for reconsideration had specifically invoked the discretion of the court. Rule 6(b) provides pertinently that when “by these rules * * * an act is required or allowed to be done at or within a specified time, the court for cause shown may at any time in its discretion (1) with or without motion or notice order the period enlarged if request therefor is made before the expiration of the period originally prescribed * * Originally the Rule had precluded an extension of time for taking action under Rule 25(a) (1), but by purposeful amendment, it was sought to relieve against the hardship of the Court’s holding in Anderson v. Yungkau, 329 U.S. 482, 67 S.Ct. 428, 91 L.Ed. 436 (1947). It was intended that liberal effect be given to the 1963 amendment. Graham v. Pennsylvania Railroad, 119 U.S.App.D.C. 335, 342 F.2d 914 (1964), cert. denied, 381 U.S. 904, 85 S.Ct. 1446, 14 L.Ed.2d 286 (1965). We are constrained to reverse for further proceedings not inconsistent with this opinion. Reversed. The only “party” then
+CUDAHY, Circuit Judge. This is an appeal by a secured creditor, the Bank of Illinois in Champaign (the “Bank”), from an order of the district court denying the Bank’s complaint for reclamation of certain collateral in which it claims a security interest. The bankruptcy judge, affirmed by the district court, found that the security interest of the Bank never attached to the collateral (nor was the security interest enforceable) because the debtors, Ronald L. Hein and Robert D. Richardson, did not have “rights in the collateral” when they granted the security interest in the collateral to the Bank. Instead, before the security interest was granted, Hein and Richardson had transferred their interest in the collateral to the bankrupt, Pubs, Inc. of Champaign (“Pubs”). We find that Pubs was estopped to deny the attachment of the security interest and that this estoppel gave Hein and Richardson “rights in the collateral” to which the Bank’s security interest attached so that the Bank obtained an enforceable security interest. Since the Bank perfected its security interest prior to bankruptcy, we hold that the security interest was valid against the claim of the trustee, and we, therefore, reverse. I. Sometime before November 5, 1976, Hein and Richardson, who were then, or who were to become, directors, officers, and the sole shareholders of the bankrupt corporation, Pubs, agreed to purchase certain restaurant equipment to be used in a restaurant then under construction in Champaign, Illinois. Shortly before the equipment was due to arrive in Champaign, Hein
 
-***short_citations_1:*** 359 F.2d 292
+***short_citations_1:*** 618 F.2d 432
 
-insertion of a “reasonable time” standard. In 1963, the Advisory Committee suggested the present rule and noted: “Present Rule 25(a) (1), together with present Rule 6(b), results in an inflexible requirement that an action be dismissed as to a deceased party if substitution is not carried out within a fixed period measured from the time of the death. The hardships and inequities of this unyielding requirement plainly appear from the cases. * * * The amended rulé establishes a time limit for the motion to substitute based not upon the time of the death, but rather upon the time information of the death is provided by means of a suggestion of death upon the record, i. e. service of a statement of the fact of the death.” See Notes of Advisory Committee on the Civil Rules, 28 U.S.C. Rule 25 (1964). Rule 6(b) of the Federal Rules of Civil Procedure was also amended in 1963 and the prohibition against extending the time for taking action under Rule 25 was eliminated. The Advisory Committee on the Civil Rules noted: “It is intended that the court shall have discretion to enlarge that period.” The amendments of Rules 6(b) and 25(a) (1) provided needed flexibility. It was assumed that discretionary extensions would be liberally granted. Movants under Rule 25 can ordinarily control when a death is “suggested upon the record” and appellants’ attorney was under no obligation to file his affidavit of Staggers’ death on the date he did. He could have filed
+CUDAHY, Circuit Judge. This is an appeal by a secured creditor, the Bank of Illinois in Champaign (the “Bank”), from an order of the district court denying the Bank’s complaint for reclamation of certain collateral in which it claims a security interest. The bankruptcy judge, affirmed by the district court, found that the security interest of the Bank never attached to the collateral (nor was the security interest enforceable) because the debtors, Ronald L. Hein and Robert D. Richardson, did not have “rights in the collateral” when they granted the security interest in the collateral to the Bank. Instead, before the security interest was granted, Hein and Richardson had transferred their interest in the collateral to the bankrupt, Pubs, Inc. of Champaign (“Pubs”). We find that Pubs was estopped to deny the attachment of the security interest and that this estoppel gave Hein and Richardson “rights in the collateral” to which the Bank’s security interest attached so that the Bank obtained an enforceable security interest. Since the Bank perfected its security interest prior to bankruptcy, we hold that the security interest was valid against the claim of the trustee, and we, therefore, reverse. I. Sometime before November 5, 1976, Hein and Richardson, who were then, or who were to become, directors, officers, and the sole shareholders of the bankrupt corporation, Pubs, agreed to purchase certain restaurant equipment to be used in a restaurant then under construction in Champaign, Illinois. Shortly before the equipment was due to arrive in Champaign, Hein
+
+***short_citations_2:*** 208 B.R. 232
+
+rights in the debtor sufficient to give rise to an enforceable security interest. Several other courts have held that a debtor’s rights in the collateral may be found from any rights going beyond mere possession, such as the right to use and control the collateral. Id. at 1238 (citations omitted). Applying this analysis the court found Atchison’s signature for the corporation was sufficient to infer his consent to allow the corporation to use the equipment as collateral. Alternatively, the court found that the coloration’s rights in the equipment were greater than mere possession because the equipment was used in the ordinary course of the corporation’s business. The Court in the present case finds that the Ryans’ signatures on the security agreement granting the bank a security interest in the coins securing the corporate debt was sufficient to infer corporate consent to use the coins as collateral. The Ryans, as officers and owners of the closely held corporation, had sufficient rights in the coin collection by virtue of their relationship with the debtor (i.e. its sole stockholders and officers) and their use and control over the coin collection to grant a security interest therein under section 7-9-203(1) for the benefit of 4-R Management. Because of the inference of consent by 4-R Management and the use and control of the coins by the Ryans, the corporation (and its trustee) is now estopped, just as Atchison was, to deny the validity of the security agreement. Based upon tie foregoing, the Court finds that
 
 **prev_text:**
-LEVENTHAL, Circuit Judge: The District Court held that Rule 25(a) (1) of the Federal Rules of Civil
-Procedure required dismissal of the plaintiffs’ tort action because defendant’s counsel had filed a
-suggestion of death of the defendant yet plaintiff had not made any substitution of parties within
-90 days. We reverse on the ground that the suggestion of death, which was neither filed by nor
-identified a successor or representative of the deceased, such as an executor or administrator, was
-ineffective to trigger the running of the 90-day period provided by the Rule. Mr. and Mrs. John
-Rende filed an action in the District Court individually and on behalf of their infant son who had
-been struck and injured by Alfred S. Kay while driving his car. On August 27, 1967, defendant Kay
-died. On September 1, 1967, the defendant’s attorney, a term used here to identify the lawyer who
-had been retained by deceased to defend the action, and who had duly entered an appearance as
-attorney for defendant, filed a suggestion of death in the District Court, giving notice to
-plaintiffs’ attorney. That same day there was filed in the Orphans Court for Montgomery County,
-Maryland, residence of the deceased, his will naming his widow as executrix, but the will had not
-been probated, nor any legal representative appointed for the estate at the time of the filing of
-this appeal. Plaintiffs’ attorney was injured on October 14, 1967. On returning to practice early in
-1968, he learned that no successor to defendant Kay had yet been appointed, and he moved to certify
-the case to the ready calendar. The defendant’s attorney opposed this on grounds that discovery
-procedures had not been completed. The case was delayed and placed on the ready calendar as of June
-7, 1968. However, in April 1968, the defendant’s attorney moved in his own name to dismiss the
-action on the ground that Rule 25(a) (1) required plaintiffs to move to substitute a proper party
-for the deceased within 90 days of the suggestion of death. Plaintiffs filed an opposition and
-motion for substitution of the proper party, and sought an extension of the time for substitution as
-allowed by Rule 6(b). At argument, plaintiffs’ counsel asserted the “suggestion of death was
-defective in that it did not list the name of the proper party; that is the legal representative of
-the defendant.” The court responded: “That would not be his burden.” The court dismissed the action
-with prejudice. Prior to its amendment in 1963, Rule 25(a) (1) required the court to dismiss a case
-if no motion for substitution was filed within two. years after date of death, and no extensions of
-this period were allowed under Rule 6(b). The rule was rigorously applied, often with harsh results,
-and was called “easily the poorest rule of all the Federal Rules.” In 1955 the Advisory Committee on
-Rules for Civil Procedure recommended that the two-year period be changed to a “reasonable time”
-standard. In 1961 the Advisory Committee on Civil Rules again suggested the Rule be made more
-flexible. In 1963 the Supreme Court made changes in Rule 25(a) (1) and in Rule 6(b) so as to provide
-a 90-day time limit from the filing of a suggestion of death, and to give the court discretion to
-extend that time. The Committee Notes explaining the amendments state: Present Rule 25(a) (1),
-together with present Rule 6(b), results in an inflexible requirement that an action be dismissed as
-to a deceased party if substitution is not carried out within a fixed period measured from the time
-of death. The hardships and inequities of this unyielding requirement plainly appear from the cases.
-* * * The amended rule establishes a time limit for the motion to substitute based not upon the time
-of the death, but rather upon the time information of the death is provided by means of a suggestion
-of death upon the record. * * * A motion to substitute may be made by any party or by the
-representative of the deceased party without awaiting the suggestion of death. Indeed, the motion
-will usually be so made. If a party or the representative of the deceased party desires to limit the
-time within which another may make the motion, he may do so by suggesting the death upon the record.
-(Emphasis added.) Under the amended Rule either a party or “the successors or representatives of the
-deceased party” may avoid delay in effecting substitution for the deceased party either by filing a
-motion for substitution or by suggesting death on the record and thus triggering the 90-day period
-which begins with suggestion of death. The Advisory Committee, in outlining that suggestion of death
-could be made by “the representative of the deceased party” plainly contemplated that the suggestion
-emanating from the side of the deceased would identify a representative of the estate, such as an
-executor or administrator, who could be substituted for the deceased as a party, with the action
-continued in the name of the representative. The addition of “successor” in the Rule would take care
-of the case of, say, the distributee of an estate that had been distributed, but would not make a
-material difference in the aspect under consideration. Form 30, for suggestion of death, which was
-provided in order to expedite and facilitate implementation of the amendment, provides: A.B.
-[described as a party, or as executor, administrator, or other representative or successor of C.D.,
-the deceased party\ suggests upon the record, pursuant to Rule 25(a) (1), the death of C.D.
-[describe as party] during the pendency of this action. Added Jan. 21, 1963, eff. July 1, 1963.
-[Emphasis added.] Although the attorney for the defendant was retained to “represent” the deceased
-as his counsel, he is not a person who could be made a party, and is not a “representative of the
-deceased party” in the sense contemplated by Rule 25(a) d). In our opinion the Rule, as amended,
-cannot fairly be construed, as the de fendant’s attorney argues, to make his suggestion of death
-operative to trigger the 90-day period even though he was neither a successor nor representative of
-the deceased, and gave no indication of what person was available to be named in substitution as a
-representative of the deceased. Counsel’s construction would open the door to a tactical maneuver to
-place upon the plaintiff the burden of locating the representative of the estate within 90 days. We
-can conceive of cases wherein even the lawyer retained to represent a defendant might know the
-defendant had died, yet not readily know where his estate would be administered. In the present
-case, plaintiff’s attorney did know the court of probate, but he did not know whether probate of the
-will might be contested, or who would be appointed representative of the estate. The tactic of the
-defendant’s attorney would place on plaintiff the burden, where no conventional representative was
-appointed for the estate in probate court, of instituting machinery in order to produce some
-representative of the estate ad litem, pending appointment of the representative contemplated by law
-of the domicile of the deceased.
+OPINION CHAGARES, Circuit Judge. In 2007, appellee/cross-appellant Wacho-via Bank, National
+Association (‘Wacho-via”) extended a loan to WL Homes, LLC (“WL Homes”). In exchange, WL Homes
+granted Wachovia a security interest in the $10 million bank account of a wholly-owned subsidiary
+called JLH Insurance Corporation (“JLH”). WL Homes eventually filed a bankruptcy petition and Wacho-
+via sought a declaration in United States Bankruptcy Court for the District of Delaware that it had
+an enforceable security interest in the JLH bank account. The Bankruptcy Court granted Wachovia’s
+motion for summary judgment, holding that Wachovia had a valid security interest in the account
+because JLH had consented to the pledge and, in the alternative, because WL Homes had use and
+control of the JLH account. The Chapter 7 trustee appointed to represent both WL Homes and JLH
+appealed. The District Court affirmed the grant of summary judgment on the basis of consent but
+reversed the use and control holding. Both parties appeal the decision of the District Court. For
+the reasons that follow, we will affirm. I. In October 2007, WL Homes and Wa-chovia entered into a
+“Line of Credit Loan Agreement” (“Loan Agreement” or “Agreement”). In the Agreement, Wacho-via
+agreed to extend a $20 million revolving line of credit to WL Homes. To secure the loan, WL Homes,
+the borrower, pledged its interest in the JLH bank account as collateral to Wachovia, the lender,
+through the following clause in the Agreement: Borrower shall maintain its JLH Insurance Co. primary
+deposit account (“the JLH Account”) with Lender. The funds on deposit in the JLH Account shall at no
+time be less than $10,000,000. Borrower shall also maintain its Laing Luxury primary deposit
+accounts ... with Lender. The JLH Account and the Laing Luxury Accounts are collectively referred to
+as the Deposit Accounts. Borrower grants to Lender a security interest in the Deposit Accounts. [In
+the event of default], Lender shall not be obligated to release to Borrower any funds from the
+Deposit Accounts.... Appendix (“App.”) B172 (emphasis added). WL Homes and Wachovia extended the
+loan with two letter agreements signed in June and July 2008. Those agreements reaffirmed the
+obligations set forth in the initial Loan Agreement. The disputed account was held in the name of
+JLH. WL Homes formed JLH in 2005 as a wholly-owned, pure captive insurance company that could pay
+claims brought against WL Homes. A pure captive insurance company insures the risks of its
+affiliates — here, the risks of WL Homes, its sole parent. The disputed depository account at
+Wachovia Bank was opened in January 2008, shortly after execution of the Loan Agreement. According
+to WL Homes, JLH opened the account to fulfill Arizona’s requirement that JLH, as a captive insurer,
+maintain a minimum level of capital in reserve to pay claims. JLH was a wholly-owned subsidiary of
+WL Homes. All funds held in JLH’s name were transferred from its parent company. Although JLH has
+its own formation documents and maintained its own books and records, WL Homes’s financial
+statements reported JLH’s assets as its own. Three of JLH’s corporate officers also served on the
+board of WL Homes. The other two JLH board members were employees of Aon, the company hired to
+manage JLH as required by Arizona captive insurer requirements. An individual named Wayne Stelmar
+was the president of JLH and the CFO of WL Homes at all relevant times. Stelmar negotiated the
+initial Loan Agreement and signed the two 2008 letter agreements that extended the loan. In February
+2009, WL Homes filed a Chapter 11 bankruptcy petition. Soon thereafter, the case was converted to a
+Chapter 7 action for liquidation and a trustee was appointed. On March 20, 2009, Wachovia filed the
+current action in Bankruptcy Court, seeking a declaratory judgment that Wachovia held an enforceable
+security interest in the JLH account and could enforce that interest to satisfy WL Homes’s
+obligations to Wachovia. After discovery, Wachovia moved for summary judgment. The Chapter 7 trustee
+cross-moved, seeking a declaration that Wacho-via’s security interest was invalid. The Bankruptcy
+Court granted the motion and denied the Chapter 7 trustee’s cross-motion. The court identified two
+theories to support its conclusion that WL Homes had sufficient rights in the JLH account to promise
+it as collateral: (1) WL Homes had “use and control of the JLH account;” and (2) JLH consented to
+the use of its account as collateral. App. 40. The trustee appealed to the United States District
+Court for the District of Delaware. The District Court held that WL Homes did not exert sufficient
+use and control over the JLH account to pledge it as collateral but affirmed the grant of summary
+judgment on the basis that JLH had consented to the pledge of its account as collateral. The trustee
+timely appealed to this Court, arguing that no theory supports the conclusion that Wachovia has an
+enforceable security interest in the JLH account. Wachovia cross-appealed, arguing that the District
+Court improperly rejected the alternative basis for enforcing the security interest — that WL Homes
+had sufficient use and control to pledge the JLH account as collateral. II. A. We exercise plenary
+review over a district court’s grant of summary judgment. Chambers v. Sch. Dist. of Phila. Bd. of
+Educ., 587 F.3d 176, 181 (3d Cir.2009). We will apply the same standard applied by the district
+court, id., and grant summary judgment “if the movant shows that there is no genuine dispute as to
+any material fact and the movant is entitled to judgment as a matter of law,” Fed.R.Civ.P. 56(a). B.
+We apply state law to determine “whether claims asserted by creditors in bankruptcy are secured.” In
+re SubMicron Sys. Corp., 432 F.3d 448, 458 (3d Cir.2006). The parties agree, as does the Court, that
+California law governs this action. Under California’s Commercial Code, “[a] security interest
+attaches to collateral when it becomes enforceable against the debtor.” Cal. Com.Code § 9203(a). A
+security interest in a deposit account becomes enforceable against the debtor when: (1) “value has
+been given;” (2) “the debtor has rights in the collateral or the power to transfer rights in the
+collateral to a secured party;” and (3) the secured party has control over the deposit account. Cal.
+Com.Code § 9203(b) (emphasis added), § 9104. The parties dispute the second element: whether WL
+Homes had sufficient rights in the JLH account to pledge it as collateral for the Wachovia loan. A
+debtor may pledge as security property it does not fully own, but may only pledge the rights that it
+has in the property. See In re Ferandos, 402 F.3d 147, 156 (3d Cir.2005) (“It is hornbook law that
+the debtor can only grant a security interest in whatever rights he has in the collateral.”); see
+also Official UCC Comment 6, § 9-203 (“A debtor’s limited rights in collateral, short of full
+ownership, are sufficient for a security interest to attach.[T]he baseline rule is that a security
+interest attaches only to whatever rights a debtor may have, broad or limited as those rights may
+be.”). There is no bright-line rule that specifies the “quantum of rights” in a particular piece of
+property that will allow a party to pledge it as collateral; “less than full legal title will do and
+the secured party will get whatever rights the debtor had.” Ferandos, 402 F.3d at 156 (quotation
+marks omitted). The consent of the owner of the collateral is one way to give the debtor sufficient
+rights in the property to pledge it as security. See In re Atchison, 832 F.2d 1236, 1239 (11th
+Cir.1987) (“[A]ll of the courts that have considered the question have ruled that an owner’s
+permission to use goods as collateral creates rights in the debtor sufficient to give rise to an
+enforceable security interest.”). We must determine the quantum of rights that WL Homes had in the
+property of JLH, its wholly-owned subsidiary. We begin with the assumption that parent companies and
+wholly owned subsidiaries share the same interests. See In re Teleglobe Comm’cns Corp., 493 F.3d
+345, 366-67 (3d Cir.2007) (applying Delaware law). We apply principles of agency to determine
+whether JLH had notice of and manifested its consent to the pledge of its account as collateral and
+will assume that, “[a]s against a principal, both principal and agent are deemed to have notice of
+whatever either has notice of, and ought, in good faith and the exercise of ordinary care and
+diligence, to communicate to the other.” Cal. Civ.Code § 2332; see also Huston v. Procter & Gamble
+Paper Prods. Corp., 568 F.3d 100, 106 (3d Cir.2009) (explaining that, “[f]or purposes of determining
+a principal’s legal relations with a third party, notice of a fact that an agent knows or has reason
+to know is imputed to the principal if knowledge of the fact is material to the agent’s duties to
+the principal” .(quoting Restatement (Third) of Agency § 5.03 (2006))). An agent has a duty to
+disclose material information to the principal, and the principal is “deemed to have knowledge” of
+those facts. O’Riordan v. Fed. Kemper Life Assurance, 36 Cal.4th 281, 30 Cal.Rptr.3d 507, 114 P.3d
+753, 757 (2005). Two standards limit the knowledge that we will impute to the principal. First, we
+will only impute knowledge that is within the scope of the agent’s duties. Huston, 568 F.3d at 107
+(“[A] corporation is not charged with the legal consequences of an employee’s knowledge of a fact
+that lies outside the scope of the employee’s duties to the corporation”). Second, we will only
+impute knowledge that is material to the employee’s duties to the employer. Id. “In other words, the
+employee’s knowledge of facts may be imputed to the employer only if that knowledge is important to
+the function the employee is employed to perform.” Id. Absent misconduct or malfeasance, the
+material knowledge of an agent is imputed to the principal, even if that knowledge was acquired in
+another capacity as long as “that knowledge can reasonably be said to be present in the mind of the
+agent while acting for the principal.” O’Riordan, 30 Cal.Rptr.3d 507, 114 P.3d at 757 (quotation
+marks omitted); cf. Bank South, N.A. v. Midstates Grp., Inc., 185 Ga.App. 342, 364 S.E.2d 58, 61-62
+(1987) (holding that debtor lacked sufficient rights in collateral when non-debtor presented
+evidence of forgery with respect to the pledge). Several jurisdictions, including California, have
+applied principles of imputation to situations in which individuals act in two capacities — either
+as an officer of both a parent and a subsidiary, or as a corporate officer and as an individual. In
+Northern Natural Gas Co. v. Superior Court, for instance, the California Supreme Court, considering
+an issue that did not involve a secured transaction, addressed a dual agency situation in which an
+individual who was the president of both a parent company and its wholly-owned subsidiary made
+representations in his capacity as the president of the subsidiary. 64 Cal.App.3d 988, 134 Cal.Rptr.
+850, 856 (1976). The court applied the “doctrine of imputed knowledge” to charge the parent company
+with the knowledge that the individual had gained in his capacity as president and chairman of the
+subsidiary. Id. (“The trial court had a right to conclude that Propane Gas as stockholder of Geni-
+Chlor elected Larson president of Geni-Chlor so that Larson as president of Propane Gas would be
+fully aware of what its wholly owned subsidiary was doing.”).
 
 

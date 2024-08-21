@@ -1,142 +1,184 @@
 **gold_text:**
-The amendment to Rule 25(a) (1) was intended to dispel unwarranted rigidity and allow more
-flexibility in substitution. “It was intended that liberal effect be given to the 1963 amendment.”
-Roscoe v. Roscoe, 126 U.S.App.D.C. 317, 322, 379 F.2d 94, 99 (1967). “[T]he 90 day period was not
-intended to act as a bar to otherwise meritorious actions.” Staggers v. Otto Gerdau Co., 359 F.2d
-292, 296 (2d Cir. 1966).
+. Prior to the trial of this action, in their motion to dismiss, defendants raised the following
+contentions, inter alia: that the National Education Association lacked standing to bring this
+action; that Pleasant Hill School District R-III is not a “person” within the meaning of 42 U.S.C. §
+1983; and that the members of the Board of Education are not amenable to suit either in their
+individual or official capacities. As to these .contentions, see: Board of Trustees of Arkansas A &
+M College v. Davis, 396 F.2d 730, 734 (8th Cir. 1968) ; Smith v. Board of Education of Morrilton
+School District No. 32, 365 F.2d 770, 776-778 (8th Cir. 1966) ; and Harkless v. Sweeny Independent
+School District, 427 F.2d 319 (5th Cir. 1970), reversing 300 F.Supp. 794 (S.D.Tex. 1969). However,
+in light of the ultimate findings of this Court, a determination of defendants’ motion is not
+necessary.
 
 **Generations:**
 
 
 ***GPT-4o:***
-This stringent interpretation contrasts sharply with the intent of the 1963 amendments to Rule 25
-and Rule 6(b), which aimed to inject flexibility and fairness into the substitution process. As
-noted in 379 F.2d 94 and 359 F.2d 292, the amendments were designed to eliminate the inequities and
-hardships caused by the rigid two-year limitation originally imposed. The Advisory Committee
-emphasized that the revised rules were to be liberally construed to allow courts discretion in
-extending the substitution period, recognizing the difficulties that could arise in promptly
-identifying and notifying the proper representative of the deceased.   Given this context, the
-defendant’s counsel's suggestion of death, which lacked identification of a proper representative,
-failed to initiate the 90-day countdown. This interpretation aligns with the judicial precedent that
-courts should prioritize the equitable administration of justice over strict procedural formalities.
-Thus, the district court erred in dismissing the plaintiffs' action without granting the requested
-extension, especially considering the circumstances that inhibited timely substitution, such as the
-injury to plaintiffs' counsel and the ongoing legal processes in the probate court.  We, therefore,
-reverse the judgment and remand for further proceedings consistent with this opinion, ensuring that
-the substitution process adheres to the flexible and just principles intended by the amendments to
-the Federal Rules of Civil Procedure.
+In support of the judgment in favor of the defendants, this Court finds consistency with precedents
+set in similar cases. Specifically, the case law established in 396 F.2d 730 informs the decision
+regarding state immunity and jurisdiction. The Court refrains from engaging in an analysis of
+Eleventh Amendment immunity, instead relying on the Civil Rights Statutes to confer jurisdiction,
+thereby supporting the denial of Wilson's claims. Additionally, in 365 F.2d 770, the principle that
+plaintiff's organizational affiliations do not render a dismissal unlawful if based on other
+legitimate reasons is reinforced. This precedent aligns with the finding that Wilson’s
+nonreemployment was due to permissible reasons unrelated to his association activities.
+Furthermore, the procedural due process claims are addressed in line with the findings of 427 F.2d
+319, where the refusal to rehire teachers was upheld by the court based on legitimate administrative
+decisions not violating constitutional rights. The jury in that case concluded that the decisions
+were made in good faith and without reference to the plaintiffs' race or protected conduct, similar
+to the current case's conclusion regarding Wilson’s nonreemployment.  Thus, the combined reasoning
+supported by these reference cases—396 F.2d 730, 365 F.2d 770, and 427 F.2d 319—bolsters the Court’s
+judgment granting in favor of the defendants. Plaintiffs have not sufficiently demonstrated that
+Wilson’s rights were violated, either procedurally or substantively.  It is so ordered.
 
 
 **Label:** 
 
 
 ***Meta-Llama-3-8B-Instruct:***
-  In the context of Rule 25(a) (1) of the Federal Rules of Civil Procedure, the suggestion of death
-is a crucial step in the process of substituting a deceased party with a proper representative.
-However, not all suggestions of death are created equal. In cases where the suggestion of death is
-made by a party's attorney, but fails to identify a successor or representative of the deceased, the
-90-day period for substitution may not be triggered.  As noted in 359 F.2d 292, the Advisory
-Committee on Civil Rules intended to provide a more flexible standard for substitution, allowing for
-extensions of time and dispensing with the rigid two-year period previously in place. However, this
-flexibility is contingent upon the suggestion of death providing sufficient information to permit
-the court to proceed with substitution.  In the present case, the suggestion of death made by the
-defendant's attorney was deficient in that it failed to identify a successor or representative of
-the deceased. This lack of specificity rendered the suggestion ineffective in triggering the 90-day
-period for substitution, as explained in 379 F.2d 94.  Furthermore, the court's discretion to
-enlarge the time period for substitution, as provided by Rule 6(b), is not a blank check. Rather, it
-is intended to be exercised in a judicious and reasonable manner, taking into account the particular
-circumstances of each case.  In light of these principles, we conclude that the district court erred
-in dismissing the action with prejudice. The case should be remanded for further proceedings,
-allowing the parties to properly substitute a representative of the deceased and continue the action
-in a manner consistent with the Federal Rules of Civil Procedure.
+  In the case at hand, the plaintiff, Jerry R. Wilson, a school teacher, is suing the Pleasant Hill
+School District, the Board of Education, and the superintendent for allegedly violating his
+constitutionally-protected rights to free speech and association, as well as his right to due
+process of law. The plaintiff claims that his contract was not renewed due to his activities in
+teacher associations, rather than the reasons given by the Board.  In Monroe v. Pape (1961), the
+Supreme Court held that a suit lies against individual defendants, even if they are acting in their
+official capacities, as long as the injury is not caused by their official duties. However, in this
+case, the plaintiff has failed to demonstrate that his contract was not renewed due to his
+activities in teacher associations. The evidence presented by the defendants shows that the decision
+not to rehire the plaintiff was based on his performance as a teacher and his personal conduct,
+rather than his association activities.  Furthermore, the case of Monroe v. Pape does not apply to
+this case, as the plaintiff has not demonstrated that the injury was not caused by the official
+duties of the defendants. In fact, the evidence presented by the defendants shows that they were
+acting in their official capacities and that their decision not to rehire the plaintiff was based on
+their official duties.  In conclusion, the plaintiff has failed to demonstrate that his contract was
+not renewed due to his activities in teacher associations, and the case of Monroe v. Pape does not
+apply to this case. Therefore, the plaintiff's claim that his contract was not renewed due to his
+activities in teacher associations is without merit.
 
 
 **Label:** 
 
 
-**citations:** ['379 F.2d 94', '359 F.2d 292']
+**citations:** ['396 F.2d 730', '365 F.2d 770', '427 F.2d 319']
 
-***short_citations_0:*** 379 F.2d 94
+***short_citations_0:*** 396 F.2d 730
 
-the proper parties. * * * Unless the motion for substitution is made not later than 90 days after the death is suggested upon the record by service of a statement of the fact of the death as provided herein for the service of the motion, the action shall be dismissed as to the deceased party.” Here not only had the 90-day period not expired when the court entered summary judgment, the appellant by her motion for reconsideration had specifically invoked the discretion of the court. Rule 6(b) provides pertinently that when “by these rules * * * an act is required or allowed to be done at or within a specified time, the court for cause shown may at any time in its discretion (1) with or without motion or notice order the period enlarged if request therefor is made before the expiration of the period originally prescribed * * Originally the Rule had precluded an extension of time for taking action under Rule 25(a) (1), but by purposeful amendment, it was sought to relieve against the hardship of the Court’s holding in Anderson v. Yungkau, 329 U.S. 482, 67 S.Ct. 428, 91 L.Ed. 436 (1947). It was intended that liberal effect be given to the 1963 amendment. Graham v. Pennsylvania Railroad, 119 U.S.App.D.C. 335, 342 F.2d 914 (1964), cert. denied, 381 U.S. 904, 85 S.Ct. 1446, 14 L.Ed.2d 286 (1965). We are constrained to reverse for further proceedings not inconsistent with this opinion. Reversed. The only “party” then
+the defendants from thereafter terminating his employment by reason of activities protected by the federal constitution. He also prayed for a judgment for $25,000 in damages resulting from “family disruption, inconvenience, damage to reputation, inability to find other employment, [and] physical, mental and emotional suffering.” Defendants premised their motion to dismiss on (1) lack of jurisdiction over the subject matter by reason of state immunity under the Eleventh Amendment; (2) failure of the complaint to state a claim for relief. In its unreported order denying the motion the District Court refrained from specific discussion of the Eleventh Amendment issue. It found that jurisdiction existed for the reason that (a) Arkansas A & M College, organized pursuant to Sections 80-3101 — 80-3102, Ark.Stat.Ann., is a body “politic” and as such may sue and be sued as a legal entity; (b) the Civil Rights Statutes, 28 U.S.C. § 1343(3) and 42 U.S.C. § 1983 explicitly confer jurisdiction; (c) the complaint alleges diversity of citizenship and the requisite jurisdictional amount under 28 U.S.C. § 1332; (d) there exists a federal question under the privileges and immunities and due process clauses of the Constitution, 28 U.S.C. § 1331. In concluding that the complaint also asserted a claim for relief the Court, 270 F.Supp. 528 stated: “In accordance with a policy decision made by the Board of Trustees of Arkansas A & M College at its scheduled meeting on October 28, 1965, you are hereby dismissed from the faculty of Arkansas A & M College,
 
-***short_citations_1:*** 359 F.2d 292
+***short_citations_1:*** 365 F.2d 770
 
-insertion of a “reasonable time” standard. In 1963, the Advisory Committee suggested the present rule and noted: “Present Rule 25(a) (1), together with present Rule 6(b), results in an inflexible requirement that an action be dismissed as to a deceased party if substitution is not carried out within a fixed period measured from the time of the death. The hardships and inequities of this unyielding requirement plainly appear from the cases. * * * The amended rulé establishes a time limit for the motion to substitute based not upon the time of the death, but rather upon the time information of the death is provided by means of a suggestion of death upon the record, i. e. service of a statement of the fact of the death.” See Notes of Advisory Committee on the Civil Rules, 28 U.S.C. Rule 25 (1964). Rule 6(b) of the Federal Rules of Civil Procedure was also amended in 1963 and the prohibition against extending the time for taking action under Rule 25 was eliminated. The Advisory Committee on the Civil Rules noted: “It is intended that the court shall have discretion to enlarge that period.” The amendments of Rules 6(b) and 25(a) (1) provided needed flexibility. It was assumed that discretionary extensions would be liberally granted. Movants under Rule 25 can ordinarily control when a death is “suggested upon the record” and appellants’ attorney was under no obligation to file his affidavit of Staggers’ death on the date he did. He could have filed
+and is not questioned. Plaintiff Smith is a Negro. He taught high school science in Morrilton and was dismissed as hereinafter described. The corporate plaintiff, The Arkansas Teachers Association, Inc., is a non-profit Arkansas corporation with a membership of about 3400 negro teachers in the State. ATA is apparently authorized to engage in litigation for the protection of its members. The defendants coupled their answer with a motion to dismiss as to ATA on the ground that it is neither a real party in interest, Rule 17(a), Fed.R.Civ.P., nor a member of a class on behalf of which relief is sought, Rule 23(a), and to dismiss as to Smith for the same reasons so far as he purports to act on behalf of negro pupils, and, so far as he purports to act for other teachers, on the grounds that the class is not so numerous that joinder of all members is impracticable and that his interest is adverse to all others in the class. The background facts. Until September 1965 teachers and pupils in the Morrilton school system were fully segregated by race. Some demands for desegregation were first made in January of that year. The system serves about 1750 white pupils and about 360 Negroes. There were four elementary schools, one negro and three white, and two junior-senior high schools, one white and one negro. The negro school, covering grades seven through twelve, was known as the L. V. Sullivan High School and had about 166 pupils. The
+
+***short_citations_2:*** 427 F.2d 319
+
+on all other factual issues. Because of the unwillingness expressed at the voir dire examination by two veniremen to assess monetary damages against the defendants as individuals, plaintiffs dismissed the complaint as to the defendants in their individual capacities. Thus the suit proceeded against the trustees and the superintendent as defendants only in their representative capacities. The suit also proceeded against the school district. During the trial and after the defendants in their individual capacities had been dismissed, the applicability of Monroe v. Pape, supra, to the question whether a cause of action was stated was drawn into issue. Put differently, would a suit lie against defendants as being “persons” within the meaning of 42 U.S.C.A. § 1983? The jurisdictional statute, § 1343(3), supra, is to accommodate suits otherwise authorized by law, here under § 1983. Defendants moved to dismiss on this basis and the motion was carried with the case. The case was submitted to the jury on special interrogatories. The jury returned a verdict finding that the decision not to rehire the plaintiffs was made without regard to their race, and that defendants acted in good faith, objectively comparing the qualifications of all teachers. However, the jury found that participation in this litigation was a factor in the decision not to offer re-employment to seven of the plaintiffs. At this juncture, the district court granted the motion to dismiss. The court determined that plaintiffs had failed to state a cause of action under § 1983, relying on Monroe
 
 **prev_text:**
-LEVENTHAL, Circuit Judge: The District Court held that Rule 25(a) (1) of the Federal Rules of Civil
-Procedure required dismissal of the plaintiffs’ tort action because defendant’s counsel had filed a
-suggestion of death of the defendant yet plaintiff had not made any substitution of parties within
-90 days. We reverse on the ground that the suggestion of death, which was neither filed by nor
-identified a successor or representative of the deceased, such as an executor or administrator, was
-ineffective to trigger the running of the 90-day period provided by the Rule. Mr. and Mrs. John
-Rende filed an action in the District Court individually and on behalf of their infant son who had
-been struck and injured by Alfred S. Kay while driving his car. On August 27, 1967, defendant Kay
-died. On September 1, 1967, the defendant’s attorney, a term used here to identify the lawyer who
-had been retained by deceased to defend the action, and who had duly entered an appearance as
-attorney for defendant, filed a suggestion of death in the District Court, giving notice to
-plaintiffs’ attorney. That same day there was filed in the Orphans Court for Montgomery County,
-Maryland, residence of the deceased, his will naming his widow as executrix, but the will had not
-been probated, nor any legal representative appointed for the estate at the time of the filing of
-this appeal. Plaintiffs’ attorney was injured on October 14, 1967. On returning to practice early in
-1968, he learned that no successor to defendant Kay had yet been appointed, and he moved to certify
-the case to the ready calendar. The defendant’s attorney opposed this on grounds that discovery
-procedures had not been completed. The case was delayed and placed on the ready calendar as of June
-7, 1968. However, in April 1968, the defendant’s attorney moved in his own name to dismiss the
-action on the ground that Rule 25(a) (1) required plaintiffs to move to substitute a proper party
-for the deceased within 90 days of the suggestion of death. Plaintiffs filed an opposition and
-motion for substitution of the proper party, and sought an extension of the time for substitution as
-allowed by Rule 6(b). At argument, plaintiffs’ counsel asserted the “suggestion of death was
-defective in that it did not list the name of the proper party; that is the legal representative of
-the defendant.” The court responded: “That would not be his burden.” The court dismissed the action
-with prejudice. Prior to its amendment in 1963, Rule 25(a) (1) required the court to dismiss a case
-if no motion for substitution was filed within two. years after date of death, and no extensions of
-this period were allowed under Rule 6(b). The rule was rigorously applied, often with harsh results,
-and was called “easily the poorest rule of all the Federal Rules.” In 1955 the Advisory Committee on
-Rules for Civil Procedure recommended that the two-year period be changed to a “reasonable time”
-standard. In 1961 the Advisory Committee on Civil Rules again suggested the Rule be made more
-flexible. In 1963 the Supreme Court made changes in Rule 25(a) (1) and in Rule 6(b) so as to provide
-a 90-day time limit from the filing of a suggestion of death, and to give the court discretion to
-extend that time. The Committee Notes explaining the amendments state: Present Rule 25(a) (1),
-together with present Rule 6(b), results in an inflexible requirement that an action be dismissed as
-to a deceased party if substitution is not carried out within a fixed period measured from the time
-of death. The hardships and inequities of this unyielding requirement plainly appear from the cases.
-* * * The amended rule establishes a time limit for the motion to substitute based not upon the time
-of the death, but rather upon the time information of the death is provided by means of a suggestion
-of death upon the record. * * * A motion to substitute may be made by any party or by the
-representative of the deceased party without awaiting the suggestion of death. Indeed, the motion
-will usually be so made. If a party or the representative of the deceased party desires to limit the
-time within which another may make the motion, he may do so by suggesting the death upon the record.
-(Emphasis added.) Under the amended Rule either a party or “the successors or representatives of the
-deceased party” may avoid delay in effecting substitution for the deceased party either by filing a
-motion for substitution or by suggesting death on the record and thus triggering the 90-day period
-which begins with suggestion of death. The Advisory Committee, in outlining that suggestion of death
-could be made by “the representative of the deceased party” plainly contemplated that the suggestion
-emanating from the side of the deceased would identify a representative of the estate, such as an
-executor or administrator, who could be substituted for the deceased as a party, with the action
-continued in the name of the representative. The addition of “successor” in the Rule would take care
-of the case of, say, the distributee of an estate that had been distributed, but would not make a
-material difference in the aspect under consideration. Form 30, for suggestion of death, which was
-provided in order to expedite and facilitate implementation of the amendment, provides: A.B.
-[described as a party, or as executor, administrator, or other representative or successor of C.D.,
-the deceased party\ suggests upon the record, pursuant to Rule 25(a) (1), the death of C.D.
-[describe as party] during the pendency of this action. Added Jan. 21, 1963, eff. July 1, 1963.
-[Emphasis added.] Although the attorney for the defendant was retained to “represent” the deceased
-as his counsel, he is not a person who could be made a party, and is not a “representative of the
-deceased party” in the sense contemplated by Rule 25(a) d). In our opinion the Rule, as amended,
-cannot fairly be construed, as the de fendant’s attorney argues, to make his suggestion of death
-operative to trigger the 90-day period even though he was neither a successor nor representative of
-the deceased, and gave no indication of what person was available to be named in substitution as a
-representative of the deceased. Counsel’s construction would open the door to a tactical maneuver to
-place upon the plaintiff the burden of locating the representative of the estate within 90 days. We
-can conceive of cases wherein even the lawyer retained to represent a defendant might know the
-defendant had died, yet not readily know where his estate would be administered. In the present
-case, plaintiff’s attorney did know the court of probate, but he did not know whether probate of the
-will might be contested, or who would be appointed representative of the estate. The tactic of the
-defendant’s attorney would place on plaintiff the burden, where no conventional representative was
-appointed for the estate in probate court, of instituting machinery in order to produce some
-representative of the estate ad litem, pending appointment of the representative contemplated by law
-of the domicile of the deceased.
+MEMORANDUM AND ORDER GRANTING JUDGMENT IN FAVOR OF DEFENDANTS AND AGAINST PLAINTIFFS ELMO B. HUNTER,
+District Judge. This is an action brought pursuant to the provisions of 42 U.S.C. §§ 1981 and 1983
+(The Civil Rights Acts) seeking declaratory judgment, injunctive relief, and damages for an alleged
+violation of plaintiff Jerry R. Wilson’s constitutionally-protected rights to free speech and
+association, and due process of law. Jurisdiction is founded upon the provisions of 28 U.S.C. §
+1343(3) and (4). The individual plaintiff, Jerry R. Wilson, is a school teacher formerly employed by
+defendant Pleasant Hill School District R-III. Plaintiff National Education Association is a
+national teacher’s organization of which plaintiff Wilson is a member. Defendant Pleasant Hill
+School District R-III is a public school district organized and existing under the laws of the State
+of Missouri; defendant Hall is the superintendent of Pleasant Hill School District; and defendants
+Ingels, Alexander, Hayes, Palmer, Manda, and Carlile were the elected and acting members of the
+Board of Education of Pleasant Hill School District at the time of the events mentioned in
+plaintiffs’ complaint. Plaintiff Wilson had been employed by the Pleasant Hill School District for
+six years. His last employment by the District was as an industrial arts teacher under a one year
+written contract for the 1969-1970 school year. In the Spring of 1970, on or about April 14, 1970,
+plaintiff received a letter from the Board of Education which advised plaintiff that he had not been
+reemployed by the District for the 1970-1971 school year. The reasons given in the notification for
+plaintiff’s nonreemployment were (1) “Effectiveness as a teacher is declining rather than
+improving,” and (2) “Employment was not recommended by the school administration.” Prior to his
+nonreemployment as a teacher in the Pleasant Hill School District, plaintiff Wilson had been active
+in various teacher organizations affiliated with the plaintiff National Education Association,
+including the Missouri State Teacher’s Association, the Pleasant Hill Community Teacher’s
+Association, the Suburban Kansas City Education Association, and the Missouri Asso ciation of
+Classroom Teachers. In the school year of 1968-69, plaintiff was the president of the Suburban
+Kansas City Education Association, and, in the preceding year, plaintiff had been the president of
+the Pleasant Hill Community Teacher’s Association. In his last year as a teacher in the Pleasant
+Hill School District, plaintiff was the welfare chairman of the Pleasant Hill Community Teacher’s
+Association. It is plaintiff’s contention that plaintiff Wilson’s contract was not renewed by the
+Board for the 1970-71 school year because of his activities in the above-mentioned teacher
+associations, rather than for the reasons given in the Board’s notification or for any other
+permissible reason. As a result of this alleged action on the part of the Board, plaintiffs contend
+that the defendants violated plaintiff Wilson’s constitutionally-protected rights to freedom of
+speech and association. Plaintiffs also allege that the failure of the Board to provide plaintiff
+with specific reasons for his nonreemployment and with a hearing violated his fourteenth amendment
+right to due process of law. Conversely, defendants urge that Wilson was not given a teaching
+contract for the 1970-71 school year solely for reasons other than his activities in teacher’s
+associations. Defendants also contend that they were not required to provide Wilson either with a
+hearing in the matter, or with any further reasons for his nonreemployment other than those set
+forth in the written notification. In Missouri, at the time of the Board’s notification to Wilson
+that his contract would not be renewed, the Board’s right not to rehire a teacher in the school
+district was absolute, except that the decision not to rehire could not be based upon grounds
+violative of that teacher’s constitutionally-protected or other legal rights. See: Freeman v. Gould
+Special School District of Lincoln County, Arkansas, 405 F.2d 1153, 1158 (8th Cir. 1969), cert. den.
+396 U.S. 843, 90 S.Ct. 61, 24 L.Ed.2d 93 (1969); Williams v. School District of Springfield R-12,
+447 S.W.2d 256, 265 (Mo.1969). During the trial of this cause conflicting evidence was adduced by
+both sides regarding many of the important aspects of the case, including the testimony which
+concerns the reasons for defendants Hubey Hall, superintendent of schools; Jack Forbes, assistant
+superintendent and former high school principal; and James Neal, principal of the high school,
+separately, and apparently independently, recommending to the Board of Education that plaintiff not
+be reemployed and that he be given the required notice of nonreemployment. However, the defendants
+credibly demonstrated numerous permissible reasons for the Board’s action in not renewing the
+plaintiff’s contract for the 1970-71 school year. For example, Superintendent Hall testified that,
+at approximately the beginning of the school year, plaintiff Wilson refused to collect tickets for a
+coming football game as requested by Hall, and that following the request Wilson abruptly walked out
+of Hall’s office. Other evidence indicates that Wilson actually did collect tickets at the football
+game following the later request of another school official. The incident, among others, reveals the
+personality differences existing between plaintiff and his school superintendent. In addition, it
+was the belief of both Superintendent Hall and Assistant Superintendent Forbes, although based to
+some extent on conjecture, but also supported by evidence, that plaintiff was permitting nonstudents
+to use the workroom and school equipment under his charge on Saturdays, Sundays, and on week nights
+and that he was failing to account sufficiently to the administrative officials for the cost of the
+school materials used by those persons and to obtain permission • from school officials for this
+type of use. Assistant Superintendent Forbes was of the opinion that plaintiff unreasonably
+interrupted faculty meetings, usually for trivial matters or matters which were not scheduled for
+discussion as a part of the agenda then under consideration. Furthermore, it is undisputed that
+plaintiff, although certified as a teacher in Industrial Arts, Junior High English, and Driver’s
+Education, and while teaching his Industrial Arts class, without permission invited in speakers and
+sponsored five one-hour sessions on evolution. It is also undisputed that these sessions on
+evolution were not within the scope of the industrial arts class materials. The above-mentioned
+incidents are but some of the examples given by the defendants as a basis for their nonreemployment
+of the plaintiff. Furthermore, it was the explicit and positive evidence of the defendants that the
+discharge of plaintiff Wilson was not, in any way, related to his Pleasant Hill Teacher’s
+Association activities or to any other teachers’ association activities. Rather, Superintendent Hall
+testified in detail as to his support for teachers’ associations for many years and his belief that
+strong membership in these teachers’ associations, including the Pleasant Hill Community Teacher's
+Association was beneficial and important. This testimony was substantially corroborated by the
+testimony of other witnesses. In lesser detail, similar credible testimony and evidence was adduced
+on behalf of defendants Forbes and Neal. In view of the testimony and evidence in this case taken as
+a whole plaintiffs have failed to carry their burden of proof in that they have failed to persuade
+the Court that the true reason for Wilson’s nonreemployment was based upon his activities in
+teachers’ associations or any other exercise of his constitutionally-protected rights. Thus,
+plaintiffs’ contention that Wilson’s nonreemployment was violative of his right to free speech and
+association is without merit. There remains for disposition plaintiffs’ contention that Wilson was
+denied procedural due process in that he was not afforded a hearing by the Board or specific reasons
+for his nonreemployment. In Freeman v. Gould Special School District of Lincoln County, Arkansas,
+supra, 405 F.2d at pages 1160-1161, the Eighth Court of Appeals recently stated: “[PJlaintiffs * * *
+project that the Board must accord due process, both substantive and procedural, in all of its
+operative procedures. If this were so, we would have little need of tenure or merit laws as there
+could only be, as argued by the plaintiffs, a discharge for cause, with the school board carrying
+the burden of showing that the discharge was for a permissible reason. We do not believe this to be
+the law, as there are many public employees who are separated from their employment by a purely
+arbitrary decision, upon a change of administration or even a change of factual control where the
+appointments are not protected by civil service or some type of tenure, statutory or contractual. *
+* * * * * “Absent statutory or contractual requirements, persons discharged for inefficiency,
+incompetency, or insubordination have no constitutional right to a hearing with rights of cross-
+examination and confrontation of witnesses.” See also: Schultz v. Palmberg, 317 F.Supp. 659
+(D.Wyo.1970) ; Bonner v. Texas City Independent School District of Texas, 305 F.Supp. 600
+(S.D.Tex.1969); Morey v. Inde pendent School District #492, 312 F. Supp. 1257, 1262 (D.Minn.1969).
+At the time Wilson was notified by the Board of his nonreemployment, Missouri’s new “Teacher Tenure
+Act” was not in effect. And, it is undisputed by the parties that the Board did provide Wilson with
+written notification of his nonreemployment in accordance with the provisions of Mo.Rev.Stat. §
+168.111, V. A.M.S. Thus, the Board properly complied with the only existing statutory requirement
+relating to the nonreemployment of a Missouri teacher. Williams v. School District of Springfield
+R-12, supra. Plaintiff Wilson therefore was not denied any right to procedural due process.
+Accordingly, for the reasons stated, above, judgment is hereby granted in favor of the defendants
+and against the plaintiffs. It is so ordered.
 
 

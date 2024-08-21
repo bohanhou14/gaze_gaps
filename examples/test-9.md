@@ -1,142 +1,302 @@
 **gold_text:**
-The amendment to Rule 25(a) (1) was intended to dispel unwarranted rigidity and allow more
-flexibility in substitution. “It was intended that liberal effect be given to the 1963 amendment.”
-Roscoe v. Roscoe, 126 U.S.App.D.C. 317, 322, 379 F.2d 94, 99 (1967). “[T]he 90 day period was not
-intended to act as a bar to otherwise meritorious actions.” Staggers v. Otto Gerdau Co., 359 F.2d
-292, 296 (2d Cir. 1966).
+As noted above, recusal under § 455(a) is required “in any proceeding in which [a judge’s]
+impartiality might reasonably be questioned,” thus requiring re-cusal where the judge has acted in
+such a way as to give the appearance of partiality to a reasonable person. A judge’s rulings and
+expressions of opinion generally fail to justify recusal. As the Eleventh Circuit has put it,
+“adverse rulings alone do not provide a party with a basis for holding that the court’s impartiality
+is in doubt.” Byrne v. Nezhat, 261 F.3d 1075, 1103 (11th Cir.2001). Of course judges hold and
+express opinions about the litigants and issues that they have formed during court proceedings. But
+as the Supreme Court succinctly stated in United States v. Grinnell Corp., 384 U.S. 563, 583, 86
+S.Ct. 1698, 16 L.Ed.2d 778 (1966): “The alleged bias and prejudice to be disqualifying must stem
+from an extrajudicial source ... other than what the judge learned from his participation in the
+case.”
 
 **Generations:**
 
 
 ***GPT-4o:***
-This stringent interpretation contrasts sharply with the intent of the 1963 amendments to Rule 25
-and Rule 6(b), which aimed to inject flexibility and fairness into the substitution process. As
-noted in 379 F.2d 94 and 359 F.2d 292, the amendments were designed to eliminate the inequities and
-hardships caused by the rigid two-year limitation originally imposed. The Advisory Committee
-emphasized that the revised rules were to be liberally construed to allow courts discretion in
-extending the substitution period, recognizing the difficulties that could arise in promptly
-identifying and notifying the proper representative of the deceased.   Given this context, the
-defendant’s counsel's suggestion of death, which lacked identification of a proper representative,
-failed to initiate the 90-day countdown. This interpretation aligns with the judicial precedent that
-courts should prioritize the equitable administration of justice over strict procedural formalities.
-Thus, the district court erred in dismissing the plaintiffs' action without granting the requested
-extension, especially considering the circumstances that inhibited timely substitution, such as the
-injury to plaintiffs' counsel and the ongoing legal processes in the probate court.  We, therefore,
-reverse the judgment and remand for further proceedings consistent with this opinion, ensuring that
-the substitution process adheres to the flexible and just principles intended by the amendments to
-the Federal Rules of Civil Procedure.
+Section 455(a) of 28 U.S.C. mandates that any justice, judge, or magistrate must disqualify
+themselves in any proceeding where their impartiality may reasonably be questioned. Similar
+principles were applied in the case referenced as 261 F.3d 1075, where motions for recusal were
+denied based on the argument of perceived partiality due to earlier rulings and a law clerk’s
+previous employment at a related law firm. This case emphasizes that impartiality must be assessed
+based on reasonableness and factual basis.  Moreover, the Supreme Court in 384 U.S. 563 reaffirmed
+the essential principle that bias and prejudice necessitating recusal must stem from an
+extrajudicial source, not from a judge's participation in the case or their judicial conduct
+therein. In my questioning of Ms. Gwynn's compliance with the Local Rules, there was no external
+influence or bias; rather, the actions were within judicial discretion to ensure adherence to
+procedural norms.  Given these precedents, none of Ms. Gwynn’s allegations meet the statutory or
+jurisprudential threshold for recusal under 28 U.S.C. § 455. The mere fact that judicial decisions
+were adverse to her or included rigorous procedural enforcement does not establish bias or
+partiality warranting disqualification.
 
 
 **Label:** 
 
 
 ***Meta-Llama-3-8B-Instruct:***
-  In the context of Rule 25(a) (1) of the Federal Rules of Civil Procedure, the suggestion of death
-is a crucial step in the process of substituting a deceased party with a proper representative.
-However, not all suggestions of death are created equal. In cases where the suggestion of death is
-made by a party's attorney, but fails to identify a successor or representative of the deceased, the
-90-day period for substitution may not be triggered.  As noted in 359 F.2d 292, the Advisory
-Committee on Civil Rules intended to provide a more flexible standard for substitution, allowing for
-extensions of time and dispensing with the rigid two-year period previously in place. However, this
-flexibility is contingent upon the suggestion of death providing sufficient information to permit
-the court to proceed with substitution.  In the present case, the suggestion of death made by the
-defendant's attorney was deficient in that it failed to identify a successor or representative of
-the deceased. This lack of specificity rendered the suggestion ineffective in triggering the 90-day
-period for substitution, as explained in 379 F.2d 94.  Furthermore, the court's discretion to
-enlarge the time period for substitution, as provided by Rule 6(b), is not a blank check. Rather, it
-is intended to be exercised in a judicious and reasonable manner, taking into account the particular
-circumstances of each case.  In light of these principles, we conclude that the district court erred
-in dismissing the action with prejudice. The case should be remanded for further proceedings,
-allowing the parties to properly substitute a representative of the deceased and continue the action
-in a manner consistent with the Federal Rules of Civil Procedure.
+  In the context of the legal case, I would argue that the district court did not abuse its
+discretion in denying the motion to recuse. The court's decision was based on the judge's
+impartiality and lack of personal bias, which is a requirement under 28 U.S.C. § 455.  As stated in
+Berger v. United States, 255 U.S. 22 (1927), a judge's adverse attitudes towards a party must stem
+from an extrajudicial source and result in an opinion on the merits on some basis other than what
+the judge learned from his participation in the case. The court's ruling was based on the judge's
+evaluation of the evidence presented and the legal arguments made, and not on any personal bias or
+preference.  In addition, the court's decision is supported by the principles of fairness and
+impartiality, as outlined in Section 455(a) of the United States Code. The court's impartiality is
+crucial to ensure that the proceedings are fair and just, and that the outcome is not influenced by
+personal biases or preferences.  Furthermore, the court's decision is consistent with the holdings
+of other courts, including the Supreme Court. In Palazzo v. Gulf Oil Corporation, 764 F.2d 1381
+(11th Cir.1985), the court held that a judge's impartiality is not automatically presumed, but must
+be demonstrated by evidence of actual bias or prejudice. Similarly, in In re K.M.A., Inc., 652 F.2d
+398 (5th Cir. Unit B 1981), the court emphasized the importance of ensuring that a judge's
+impartiality is not compromised by personal relationships or biases.  In conclusion, based on the
+evidence presented and the principles of fairness and impartiality, I believe that the district
+court did not abuse its discretion in denying the motion to recuse. The court's decision was based
+on the judge's impartiality and lack of personal bias, and is consistent with the holdings of other
+courts.  References:  261 F.3d 1075 384 U.S. 563
 
 
 **Label:** 
 
 
-**citations:** ['379 F.2d 94', '359 F.2d 292']
+**citations:** ['261 F.3d 1075', '384 U.S. 563']
 
-***short_citations_0:*** 379 F.2d 94
+***short_citations_0:*** 261 F.3d 1075
 
-the proper parties. * * * Unless the motion for substitution is made not later than 90 days after the death is suggested upon the record by service of a statement of the fact of the death as provided herein for the service of the motion, the action shall be dismissed as to the deceased party.” Here not only had the 90-day period not expired when the court entered summary judgment, the appellant by her motion for reconsideration had specifically invoked the discretion of the court. Rule 6(b) provides pertinently that when “by these rules * * * an act is required or allowed to be done at or within a specified time, the court for cause shown may at any time in its discretion (1) with or without motion or notice order the period enlarged if request therefor is made before the expiration of the period originally prescribed * * Originally the Rule had precluded an extension of time for taking action under Rule 25(a) (1), but by purposeful amendment, it was sought to relieve against the hardship of the Court’s holding in Anderson v. Yungkau, 329 U.S. 482, 67 S.Ct. 428, 91 L.Ed. 436 (1947). It was intended that liberal effect be given to the 1963 amendment. Graham v. Pennsylvania Railroad, 119 U.S.App.D.C. 335, 342 F.2d 914 (1964), cert. denied, 381 U.S. 904, 85 S.Ct. 1446, 14 L.Ed.2d 286 (1965). We are constrained to reverse for further proceedings not inconsistent with this opinion. Reversed. The only “party” then
+the court’s dismissal of all of her claims, except her medical malpractice count, against the Nezhats and the Center, and (4) the court’s imposition of monetary sanctions. Byrne appeals the district court’s imposition of monetary sanctions as well. We consider first Manov’s argument that the district court should have recused. II. Section 455(a) of the United States Code states: “Any justice, judge, or magistrate of the United States shall disqualify himself in any proceeding in which his impartiality might reasonably be questioned.” On July 8, 1996, one month after the court ordered Rule 11 discovery, Manov moved the district court to recuse pursuant to this statute. The court denied the motion the next day, following a hearing on various matters. Manov renewed the motion on April 23, 1998, two months after the court entered the first sanctions order. The court denied this motion as well. Both of Manov’s motions for recusal were based on the notion that the district court created an appearance of impartiality by having in its chambers a law clerk, McDevitt, who had been employed by one of the law firms representing the Nezhats and the Center in this case and in Mullen’s state court case. Manov’s second motion added another basis for recusal— the court’s rulings against Manov demonstrated that the court’s impartiality might reasonably be questioned. Due to this additional alleged ground for recusal, we address the motions separately. Our standard of review is whether the district court abused its discretion when it denied Manov’s
 
-***short_citations_1:*** 359 F.2d 292
+***short_citations_1:*** 384 U.S. 563
 
-insertion of a “reasonable time” standard. In 1963, the Advisory Committee suggested the present rule and noted: “Present Rule 25(a) (1), together with present Rule 6(b), results in an inflexible requirement that an action be dismissed as to a deceased party if substitution is not carried out within a fixed period measured from the time of the death. The hardships and inequities of this unyielding requirement plainly appear from the cases. * * * The amended rulé establishes a time limit for the motion to substitute based not upon the time of the death, but rather upon the time information of the death is provided by means of a suggestion of death upon the record, i. e. service of a statement of the fact of the death.” See Notes of Advisory Committee on the Civil Rules, 28 U.S.C. Rule 25 (1964). Rule 6(b) of the Federal Rules of Civil Procedure was also amended in 1963 and the prohibition against extending the time for taking action under Rule 25 was eliminated. The Advisory Committee on the Civil Rules noted: “It is intended that the court shall have discretion to enlarge that period.” The amendments of Rules 6(b) and 25(a) (1) provided needed flexibility. It was assumed that discretionary extensions would be liberally granted. Movants under Rule 25 can ordinarily control when a death is “suggested upon the record” and appellants’ attorney was under no obligation to file his affidavit of Staggers’ death on the date he did. He could have filed
+to be tried be limited to those raised by the pleadings so as to eliminate what they considered to be extraneous issues raised by the Government. To that the court replied: “I can’t understand frankly why you don’t realize that you have forced me to look at the documents in this case, which I dislike doing in advance of trial. You have invited me, therefore, into what I regard as, from your point of view, a rather undesirable situation. I think I made that clear at the beginning. I have told you that, forced by you to look, my views are more extreme than those of the government; and I have also made you realize that if I am required to make Findings and reach Conclusions I am opening up third-party suits that will make, in view of the size of the industry, the percentage of people involved higher than in the electrical cases.” Shortly thereafter defendants filed a motion for the disqualification of Judge Wyzanski on the grounds of personal bias and prejudice. The alleged bias and prejudice to be disqualifying must stem from an extrajudicial source and result in an opinion on the merits on some basis other than what the judge learned from his participation in the case. Berger v. United States, 255 U. S. 22, 31. Any adverse attitudes that Judge Wyzanski evinced toward the defendants were based on his study of the depositions and briefs which the parties had requested him to make. What he
 
 **prev_text:**
-LEVENTHAL, Circuit Judge: The District Court held that Rule 25(a) (1) of the Federal Rules of Civil
-Procedure required dismissal of the plaintiffs’ tort action because defendant’s counsel had filed a
-suggestion of death of the defendant yet plaintiff had not made any substitution of parties within
-90 days. We reverse on the ground that the suggestion of death, which was neither filed by nor
-identified a successor or representative of the deceased, such as an executor or administrator, was
-ineffective to trigger the running of the 90-day period provided by the Rule. Mr. and Mrs. John
-Rende filed an action in the District Court individually and on behalf of their infant son who had
-been struck and injured by Alfred S. Kay while driving his car. On August 27, 1967, defendant Kay
-died. On September 1, 1967, the defendant’s attorney, a term used here to identify the lawyer who
-had been retained by deceased to defend the action, and who had duly entered an appearance as
-attorney for defendant, filed a suggestion of death in the District Court, giving notice to
-plaintiffs’ attorney. That same day there was filed in the Orphans Court for Montgomery County,
-Maryland, residence of the deceased, his will naming his widow as executrix, but the will had not
-been probated, nor any legal representative appointed for the estate at the time of the filing of
-this appeal. Plaintiffs’ attorney was injured on October 14, 1967. On returning to practice early in
-1968, he learned that no successor to defendant Kay had yet been appointed, and he moved to certify
-the case to the ready calendar. The defendant’s attorney opposed this on grounds that discovery
-procedures had not been completed. The case was delayed and placed on the ready calendar as of June
-7, 1968. However, in April 1968, the defendant’s attorney moved in his own name to dismiss the
-action on the ground that Rule 25(a) (1) required plaintiffs to move to substitute a proper party
-for the deceased within 90 days of the suggestion of death. Plaintiffs filed an opposition and
-motion for substitution of the proper party, and sought an extension of the time for substitution as
-allowed by Rule 6(b). At argument, plaintiffs’ counsel asserted the “suggestion of death was
-defective in that it did not list the name of the proper party; that is the legal representative of
-the defendant.” The court responded: “That would not be his burden.” The court dismissed the action
-with prejudice. Prior to its amendment in 1963, Rule 25(a) (1) required the court to dismiss a case
-if no motion for substitution was filed within two. years after date of death, and no extensions of
-this period were allowed under Rule 6(b). The rule was rigorously applied, often with harsh results,
-and was called “easily the poorest rule of all the Federal Rules.” In 1955 the Advisory Committee on
-Rules for Civil Procedure recommended that the two-year period be changed to a “reasonable time”
-standard. In 1961 the Advisory Committee on Civil Rules again suggested the Rule be made more
-flexible. In 1963 the Supreme Court made changes in Rule 25(a) (1) and in Rule 6(b) so as to provide
-a 90-day time limit from the filing of a suggestion of death, and to give the court discretion to
-extend that time. The Committee Notes explaining the amendments state: Present Rule 25(a) (1),
-together with present Rule 6(b), results in an inflexible requirement that an action be dismissed as
-to a deceased party if substitution is not carried out within a fixed period measured from the time
-of death. The hardships and inequities of this unyielding requirement plainly appear from the cases.
-* * * The amended rule establishes a time limit for the motion to substitute based not upon the time
-of the death, but rather upon the time information of the death is provided by means of a suggestion
-of death upon the record. * * * A motion to substitute may be made by any party or by the
-representative of the deceased party without awaiting the suggestion of death. Indeed, the motion
-will usually be so made. If a party or the representative of the deceased party desires to limit the
-time within which another may make the motion, he may do so by suggesting the death upon the record.
-(Emphasis added.) Under the amended Rule either a party or “the successors or representatives of the
-deceased party” may avoid delay in effecting substitution for the deceased party either by filing a
-motion for substitution or by suggesting death on the record and thus triggering the 90-day period
-which begins with suggestion of death. The Advisory Committee, in outlining that suggestion of death
-could be made by “the representative of the deceased party” plainly contemplated that the suggestion
-emanating from the side of the deceased would identify a representative of the estate, such as an
-executor or administrator, who could be substituted for the deceased as a party, with the action
-continued in the name of the representative. The addition of “successor” in the Rule would take care
-of the case of, say, the distributee of an estate that had been distributed, but would not make a
-material difference in the aspect under consideration. Form 30, for suggestion of death, which was
-provided in order to expedite and facilitate implementation of the amendment, provides: A.B.
-[described as a party, or as executor, administrator, or other representative or successor of C.D.,
-the deceased party\ suggests upon the record, pursuant to Rule 25(a) (1), the death of C.D.
-[describe as party] during the pendency of this action. Added Jan. 21, 1963, eff. July 1, 1963.
-[Emphasis added.] Although the attorney for the defendant was retained to “represent” the deceased
-as his counsel, he is not a person who could be made a party, and is not a “representative of the
-deceased party” in the sense contemplated by Rule 25(a) d). In our opinion the Rule, as amended,
-cannot fairly be construed, as the de fendant’s attorney argues, to make his suggestion of death
-operative to trigger the 90-day period even though he was neither a successor nor representative of
-the deceased, and gave no indication of what person was available to be named in substitution as a
-representative of the deceased. Counsel’s construction would open the door to a tactical maneuver to
-place upon the plaintiff the burden of locating the representative of the estate within 90 days. We
-can conceive of cases wherein even the lawyer retained to represent a defendant might know the
-defendant had died, yet not readily know where his estate would be administered. In the present
-case, plaintiff’s attorney did know the court of probate, but he did not know whether probate of the
-will might be contested, or who would be appointed representative of the estate. The tactic of the
-defendant’s attorney would place on plaintiff the burden, where no conventional representative was
-appointed for the estate in probate court, of instituting machinery in order to produce some
-representative of the estate ad litem, pending appointment of the representative contemplated by law
-of the domicile of the deceased.
+ORDER DENYING MARY ALICE GWYNN’S MOTION TO RECUSE BANKRUPTCY JUDGE JOHN K. OLSON, Bankruptcy Judge.
+THIS CASE is before me on the Verified Motion for Recusal of the Honorable John K. Olson Pursuant to
+Bankruptcy Rule 5004, 28 U.S.C. § 144 and § 144 (the “Recusal Motion”) [DE 299] filed November 30,
+2007, by Mary Alice Gwynn (“Ms. Gwynn”), purportedly as a creditor of these chapter 7 debtors, and
+on Mary Alice Gwynn’s Response to the Court’s Order on Ms. Gwynn’s Purported Compliance with
+Practice Requirements and Supplement to Mary Alice Gwynn’s Motion for Recusal [DE 311], filed
+December 11, 2007 (the “Supplemental Motion,” and together with the Recusal Motion, the “Recusal
+Motions”). I conducted a hearing on the Recusal Motions on December 17, 2007, and denied them on the
+record. An excerpted transcript of the relevant portion of that hearing was filed on May 7, 2008, as
+Docket Entry 322. This Order memorializes my reasons for denying the Recusal Motions. I. Background
+I inherited this case pursuant to Chief Judge Hyman’s Order Transferring Case [DE 278] entered
+October 30, 2007. That Order was entered after Ms. Gwynn filed her Emergency Motion to Disqualify
+and Request to Stay Proceedings (the “Emergency Motion”) [DE 276], filed October 29, 2007. In the
+Order Transferring Case, Judge Hyman correctly ruled that no basis for his disqualification had been
+stated but that judicial efficiency suggested that it was appropriate to transfer this case to me
+because a related corporate case, In re It’s All in the Style, Inc., Case No. 05-30362, had been
+transferred to me in August 2007. In the Emergency Motion, Ms. Gwynn sought two distinct forms of
+relief. First, she sought entry of an order disqualifying Chief Judge Hyman from further presiding
+in this case and to transfer the case to me. Second, she sought a stay of all proceedings in this
+case pending determination of an appeal now pending in the United States Court of Appeals for the
+Eleventh Circuit. I conducted a hearing on the Emergency Motion on November 7, 2007, and entered an
+Order denying the relief sought on November 9, 2007 [DE 285], published as In re Hussey, 378 B.R.
+397 (Bankr.S.D.Fla.2007). I denied the Emergency Motion as moot to the extent that it sought Judge
+Hyman’s disqualification and denied the balance of the Emergency Motion on the merits. The matters
+giving rise to the Recusal Motions all occurred at the hearing on the Emergency Motion on November
+7, 2007, and chiefly arise out of colloquy between Ms. Gwynn and me at that hearing relating to her
+non-compliance with the Local Rules of this Court. A transcript of that hearing is found at Docket
+Entry 289 and portions of it are contained in the Recusal Motion. As I ruled in the Order denying
+the Emergency Motion, Ms. Gwynn’s pleadings in this case which were then before me did not bear
+either of the alternative certifications required under this Court’s then-applicable Local Rule
+9011-4, which provided in relevant part as follows: (A) Identification of Attorney. In the signature
+block of all court papers signed by an attorney, the attorney must be identified by name, state bar
+number, complete mailing address, telephone number and the name of the party who [sic] the attorney
+represents. (B) Certification of Attorney. Papers filed by an attorney appearing: (1) as a qualified
+attorney pursuant to Local Rule 2090-l(A) must contain this certification: “I hereby certify that I
+am admitted to the Bar of the United States District Court for the Southern District of Florida and
+am in compliance with the additional qualifications to practice in this court set forth in Local
+Rule 2090-KA).”.... (2) pro hac vice pursuant to Local Rule 2090-l(B)(2) must contain this
+certification: “I hereby certify that the undersigned attorney is appearing pro hac vice in this
+matter pursuant to court order dated (date).” This certification shall be placed in papers in the
+locations described in subdivision (1) above. In turn, Local Rule 2090-1 provides in relevant part:
+Rule 2090-1. Attorneys. (A) Qualifications to Practice. Except as provided in subdivision (B) of
+this rule, to be qualified to practice in this court an attorney must: (1) be a member of the Bar of
+the United States District Court for the Southern District of Florida under the Special Rules
+Governing the Admission and Practice of Attorneys in the District Court; (2) read and remain
+familiar with these rules, administrative orders, the Federal Rules of Bankruptcy Procedure, the
+Federal Rules of Civil Procedure, the Federal Rules of Evidence, The Florida Bar’s Rules of
+Professional Conduct, and the Bankruptcy Code; and (3) earn at least 12 credit hours from The
+Florida Bar for attending or participating in CLE courses related to the subject area of “Bankruptcy
+Law” during each attorney’s Florida Bar three-year CLE reporting requirement. This provision will
+not preclude an attorney from appearing who is within a three-year CLE reporting period but who has
+not yet earned the required 12 hours for that period. Attorneys appearing pursuant to this
+subdivision must include on all papers the certification contained in Local Rule 9011-4CB). (B)
+Appearances Permitted as Exceptions to Qualification Requirements. An attorney who has not fulfilled
+the qualifications to practice set forth in subdivision (A) above may only appear as set forth in
+this subdivision. Any attorney who appears pursuant to this rule shall be deemed to be familiar
+with, and shall be governed by, these rules, and the Rules of Professional Conduct and other ethical
+limitations or requirements governing the professional behavior of members of The Florida Bar. (1)
+Appearances in Limited Instances. [Inapplicable here]. (2) Pro Hac Vice Appearances. Any attorney
+who is a member in good standing of the bar of any state or territory or insular possession of the
+United States, but is not admitted to practice in the United States District Court for the Southern
+District of Florida and qualified to practice before this court may, upon the filing and this
+court’s approval of the Local Form “Motion to Appear Pro Hac Vice” and proposed Local Form “Order
+Admitted Attorney Pro Hac Vice”, be permitted to appear and participate in a particular case or
+proceeding. The motion shall designate an attorney who is qualified to practice in this court and
+who maintains an office in this district for the practice of law with whom the court and opposing
+counsel may readily communicate regarding the conduct of the case or proceeding and upon whom papers
+shall be served. The motion must be accompanied by a written statement of the local attorney who
+consented to the designation, and the name, address and tele phone number of the named des-ignee.
+The motion shall (a) indicate all bars or courts to which the attorney is admitted; (b) indicate all
+bars or courts, if any, from which the visiting attorney has been disbarred, suspended or prohibited
+from appearing in front of and the dates of the foregoing; and (e) certify that the visiting
+attorney is familiar with and shall be governed by these rules, the Rules of Professional Conduct
+and all other requirements governing the professional behavior of members of The Florida Bar.
+Visiting attorneys appearing under this subdivision shall include on all papers filed with the court
+the certification contained in Local Rule 9011-4(B)(2). Upon written motion and for good cause
+shown, the court may waive or modify the requirements of designation of qualified local counsel. In
+light of these requirements contained in the Local Rules, it was surprising to me that the Emergency
+Motion contained neither of the alternative certifications mandated by Local Rule 9011-4(A) or Local
+Rule 9011-4(B)(2). When I raised the absence of either certification with Ms. Gwynn, she asserted —
+falsely—that she was representing herself and appearing before me pro se. As noted in footnote 1
+above, Ms. Gwynn individually is not a creditor of these Debtors. Proof of Claim 18-1 was filed by
+Gwynn, P.A., and both the proof of claim form and the underlying contract on which it is based so
+indicate. Local Rule 9010 — 1(B)(1) prohibits corporations from appearing in proceedings in this
+Court except in limited circumstances. The Rule provides: (1) Corporations and Other Business
+Entities. A corporation, partnership, trust, or other business entity cannot appear or act on its
+own behalf without counsel in a case or proceeding, except to file a request for service of notices
+(pursuant to Bankruptcy Rule 2002), a proof of claim, a response to an objection to its claim, or a
+ballot, or to attend and inquire at the meeting of creditors held under 11 U.S.C. § 341. It is clear
+that the Emergency Motion did not fall within any of the exceptions to Local Rule 9010 — 1(B)(1).
+Thus, under the Local Rules, Gwynn, P.A. could only appear by an attorney authorized to practice in
+this Court under Local Rule 2090-1. Local Rule 9010 — 1(B)(1) is completely consistent with the very
+long-standing rule that corporations and other artificial entities can act only through their
+agents, cannot appear pro se, and must be represented by counsel. Commercial & Railroad Bank of
+Vicksburg v. Slocomb, 39 U.S. (14 Pet.) 60, 10 L.Ed. 354 (1840); Osborn v. Bank of United States, 22
+U.S. (9 Wheat.) 738, 6 L.Ed. 204 (1824); Palazzo v. Gulf Oil Corporation, 764 F.2d 1381, 1385-86
+(11th Cir.1985); In re K.M.A., Inc., 652 F.2d 398 (5th Cir. Unit B 1981); In re Las Colinas
+Development Corp., 585 F.2d 7 (1st Cir.1978). There is simply no question that a corporation cannot
+be represented by someone who is not an authorized attorney, even if that person is the president
+and sole shareholder of the corporation. Palazzo, supra; Las Colinas, supra. The question here is
+whether Ms. Gwynn, despite her failure to certify to her qualification to practice in this Court, is
+an attorney who could represent Gwynn, P.A., in this case. I took at face value Ms. Gwynn’s
+statement to me at the hearing on November 7, 2007, that my questioning her ability to act in this
+case took her by surprise. It was for that reason that I allowed her to proceed with argument on the
+substance of the Motion; I did not want to prejudice any substantive rights because of a procedural
+failure. It was nonetheless necessary to deal with the question as to whether Ms. Gwynn could
+represent Gwynn, P.A. going forward. I concluded that Ms. Gwynn could not then represent Gwynn, P.A.
+in this case. In a very detailed order [DE 1553] entered on June 7, 2006, in another case in this
+District, In re Walker, Case No. 03-32158-BKC-PGH, Chief Judge Hyman prohibited Gwynn from acting as
+an attorney in any case in this Court until she establishes the minimal qualifications to do so
+which are required by this Court’s Local Rules. Specifically, the decretal paragraphs of that Order
+[DE 1553] provides: The Court, having reviewed the Response, the Sworn Certification, the docket in
+this case, having observed Gwynn’s conduct in this Court during the past three years, and being
+otherwise fully advised in the premises, hereby: ORDERS AND ADJUDGES that Gwynn shall be prohibited
+from representing any parties before the United States Bankruptcy Court for the Southern District of
+Florida until she earns 12 credit hours from the Florida Bar for attending or participating in CLE
+courses related to the subject area of “Bankruptcy Law” which shall mean courses directly related to
+Title 11 of the United States Code and the Bankruptcy Rules of Procedure. At the November 7, 2007,
+hearing on the Emergency Motion, I asked Ms. Gwynn if she had taken any CLE courses in the area of
+bankruptcy law. She informed me that she had taken five hours of such courses. Manifestly,
+therefore, she had failed as of that date to comply with the condition precedent imposed by In re
+Walker that she obtain 12 CLE credit hours from The Florida Bar before she may represent any party
+in this Court. Thus, not only had Ms. Gwynn failed to comply with the requirements of Local Rules
+2090-1 and 9011-4, but she had also failed to comply with the requirements of a valid Order of this
+Court which had not (and has not) been stayed or reversed on appeal. She has also acknowledged by
+her own representation made to me at the hearing on the Emergency Motion that she did not then
+satisfy the minimal practice requirements set forth in Local Rule 2090-1(A)(3). I therefore
+concluded that Ms. Gwynn could not represent Gwynn, P.A. until and unless she is in full compliance
+with the Local Rules and with the mandate of Chief Judge Hyman in In re Walker. See [DE 1553] in
+Walker. Given what Chief Judge Hyman found in Walker was her gross unfamiliarity “with the Court’s
+Local Rules, administrative orders, the Federal Rules of Bankruptcy Procedure, the Federal Rules of
+Evidence, The Florida Bar’s Rules of Professional Conduct, and the Bankruptcy Code,” I prohibited
+Ms. Gwynn from filing any pleading or representing any party in any case in the United States
+Bankruptcy Court for the Southern District of Florida (other than appearances expressly permitted
+under Local Rule 2090 — 1(B)(1) “Appearances in Limited Instances”) until such time as she provided
+to me a certified record from The Florida Bar which establishes that she has completed at least 12
+hours of Florida Bar approved CLE courses in the area of Bankruptcy Law. The Recusal Motions assert
+that my questioning of Ms. Gwynn at the hearing on the Emergency Motion was “not only demeaning, but
+show a pre-disposition and/or pre-determination against her, indicating the Court cannot be fair and
+impartial in its rulings.” The Recusal Motions also contend that I have been selective in enforcing
+the Local Rules “in a discriminating fashion.” Much of the Recusal Motion is devoted to complaints
+about proceedings in other courts involving the lawyers who represent the chapter 7 Trustee in this
+case, Deborah Menotte. Some background is in order. The Walker case referred to above has been a
+protracted slug-fest involving, among others, Ms. Gwynn and Gary J. Rotella, a Ft. Lauderdale lawyer
+who represents Trustee Menotte in this case. It is sufficient for purposes of the matters now before
+me to note that the animosity between Ms. Gwynn and Mr. Rotella (and his firm) is nonpareil. That
+animosity has overflowed into every matter in contention between these parties, and may help explain
+the bitterness of the pleadings and the umbrage which Ms. Gwynn took to my questioning her
+qualifications. As part of the Order [DE 285] denying the Emergency Motion [DE 276], I prohibited
+Ms. Gwynn from filing any pleadings in this Court until she was in compliance with the Local Rules.
+The hearing on the Emergency Motion was held November 7, 2007, and the Order denying the Emergency
+Motion was entered November 9th. On November 19th, Ms. Gwynn filed a Notice of Compliance [DE 295],
+asserting that she was in full compliance with the Local Rules. On November 30th, Ms. Gwynn filed
+the Recusal Motion. On December 4, 2007, I entered an Order on Gwynn’s Purported Compliance with
+Practice Requirements [DE 302]. The entire text of that Order recites as follows: This case is
+before me without a hearing on Mary Alice Gwynn’s Notice of Compliance (the “Notice”) [DE 295]
+purporting to establish that she is in compliance with the provisions of the Order [DE 285] entered
+in this case on November 7, 2007, which (among other things) prohibited her from acting on behalf of
+a corporation in this case because she is not qualified to practice in this Court. The Notice was
+filed on November 19, 2007. Ms. Gwynn has now filed a verified motion (the “Motion to Disqualify”)
+[DE 299] seeking to disqualify me from acting further in this case. The Motion to Disqualify has
+been set for hearing in the ordinary course on December 17, 2007. In light of the allegations
+contained in the Motion to Disqualify, which assert that my impartiality might reasonably be
+questioned, it would be inappropriate for me to consider the Notice or to act in respect of any
+matters in this case until such time as I have ruled on the Motion to Disqualify. In the event that
+I grant the Motion to Disqualify, the Notice should of course be considered by a successor judge in
+this case. In the event that I deny the Motion to Disqualify, the Notice will be considered in due
+course. Ms. Gwynn filed the Supplemental Motion on December 11, 2007. In it, she contends that I had
+“had adequate time to respond to Ms. Gwynn’s Notice prior to the filing of her Motion for Recusal,”
+and that “for the Court to withhold any ruling for sixteen (16) days, when the Court is well aware
+that not allowing Creditor, Gwynn, access to file critical, timely pleadings, could have grave
+impact not only on her practice, but on her personally, and is extremely prejudicial in and of
+itself.” The Supplemental Motion contends “[f]or the Court to delay reinstatement for any reason,
+and to deny Gwynn’s access to the Court to file, in violation of her constitutional rights, is
+further evidence of prejudgment or bias on the part of this Court, which warrants recusal.” Finally,
+the Supplemental Motion contends (without any citation to evidence) that I am “now working in
+conjunction with Judge Hyman to ruin her reputation and career, both personally and professionally.”
+II. Discussion The Recusal Motions contend that I should recuse myself from further consideration of
+this case pursuant to the provisions of Bankruptcy Rule 5004, and 28 U.S.C. §§ 144 and 455. 28
+U.S.C. § 144 is clearly inapplicable. It provides as follows: Whenever a party to any proceeding in
+a district court makes and files a timely and sufficient affidavit that the judge before whom the
+matter is pending has a personal bias or prejudice either against him or in favor of any adverse
+party, such judge shall proceed no further therein, but another judge shall be assigned to hear such
+proceeding. The affidavit shall state the facts and the reasons for the belief that bias or
+prejudice exists, and shall be filed not less than ten days before the beginning of the term at
+which the proceeding is to be heard, or good cause shall be shown for failure to file it within such
+time. A party may file only one such affidavit in any case, It shall be accompanied by a certificate
+of counsel of record stating that it is made in good faith. Section 144 is applicable only to
+proceedings “in a district court,” and has no application to proceedings before a bankruptcy judge.
+Dubnoff v. Goldstein, 385 F.2d 717, 720 (2nd Cir.1967); Ginger v. Cohn, 255 F.2d 99 (6th Cir.1958);
+Seidel v. Durkin (In re Goodwin), 194 B.R. 214, 221 (9th Cir. BAP 1996). By its express terms,
+Federal Rule of Bankruptcy Procedure 5004 makes clear that the disqualification of a bankruptcy
+judge is governed by 28 U.S.C. § 455. Section 455(a) speaks in general terms and requires the
+recusal of a federal judge, including s bankruptcy judge, “in any proceeding in which his
+impartiality might reasonably be questioned,” thus requiring recusal not only where the judge has
+actual bias but also where he or she has acted in such a way as to give the appearance of partiality
+to a reasonable person. SCA Services, Inc. v. Morgan, 557 F.2d 110, 113-14 (7th Cir.1977). The
+appearance of impartiality is virtually as important as the fact of impartiality. Webbe v. McGhie
+Land Title Co., 549 F.2d 1358, 1361 (10th Cir.1977). It is of no consequence that the judge is not
+actually biased, inasmuch as § 455 concerns not only fairness to individual litigants but also the
+public’s confidence in the judiciary, which could be irreparably harmed if a case were allowed to
+proceed before a judge who appears to be tainted. In re Kensington Intern., Ltd., 353 F.3d 211 (3rd
+Cir.2003); on remand 305 B.R. 175 (D.Del.2004); opinion after remand 368 F.3d 289 (3rd Cir.2004). In
+addition to the general requirement of impartiality contained in § 455(a), § 455(b) requires recusal
+in specific situations, including where the judge has personal knowledge of disputed evidentiary
+facts; where the judge personally or through former law partners or associates was involved in the
+case or has been a material witness concerning it; where the judge or a close relative is involved
+in the case; or where the judge, his spouse, or a minor child residing in his household has either a
+financial interest in the outcome or any other interest which could be substantially affected by the
+outcome of the case. Although none of the specific grounds for disqualification specified in §
+455(b) apply here, I think it useful to comment on this last provision, that dealing with “financial
+interest.” A judge is required by § 455(c) to “inform himself about his personal and fiduciary
+financial interests, and make a reasonable effort to inform himself about the personal financial
+interests of his spouse and minor children living in his household.” A judge is thus required to
+recuse him-or herself whenever the judge, his or her spouse, or a minor child living at home owns a
+single share of stock in a litigant. Union Carbide Corp. v. U.S. Cutting Service, Inc., 782 F.2d 710
+(7th Cir.1986). This requirement may seem extreme, but its fundamental wisdom is perhaps best
+expressed in the following poem by Benjamin Franklin, writing decades before the American Revolution
+in Poor Richard’s Almanack: The Complaint A Farmer once made a complaint to a Judge, My Bull, if it
+please you, Sir, owing a Grudge, Belike to one of your good Worship’s Cattle, Has slain him out-
+right in a mortal Battle: I’m sorry at heart because of the Action, And want to know how must be
+made Satisfaction. Why, you must give me your Bull, that’s plain Says the Judge, or pay me the Price
+of the Slain. But I have mistaken the Case, Sir, says John, The dead Bull I talk of, and please you,
+‘s my own: And yours is the Beast that the Mischief has done. The Judge soon replies with a serious
+Face: Say you so? Then this Accident alters the case. Section 455 is designed to assure that no
+federal judge is ever put in a position where his or her financial interests, however minimal, could
+be cited as having influenced the results of litigation.
 
 

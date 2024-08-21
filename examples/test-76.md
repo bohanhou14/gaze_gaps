@@ -1,142 +1,192 @@
 **gold_text:**
-The amendment to Rule 25(a) (1) was intended to dispel unwarranted rigidity and allow more
-flexibility in substitution. “It was intended that liberal effect be given to the 1963 amendment.”
-Roscoe v. Roscoe, 126 U.S.App.D.C. 317, 322, 379 F.2d 94, 99 (1967). “[T]he 90 day period was not
-intended to act as a bar to otherwise meritorious actions.” Staggers v. Otto Gerdau Co., 359 F.2d
-292, 296 (2d Cir. 1966).
+Id. at 644. See also Provancial v. United States, 454 F.2d 72 (8th Cir. 1972); Hejl v. United
+States, 449 F.2d 124 (5th Cir. 1971); Gordon B. Ball, Inc. v. United States, 461 F.Supp. 311
+(D.Nev.1978); Muldez v. United States, 326 F.Supp. 692 (E.D.Va.1971).
 
 **Generations:**
 
 
 ***GPT-4o:***
-This stringent interpretation contrasts sharply with the intent of the 1963 amendments to Rule 25
-and Rule 6(b), which aimed to inject flexibility and fairness into the substitution process. As
-noted in 379 F.2d 94 and 359 F.2d 292, the amendments were designed to eliminate the inequities and
-hardships caused by the rigid two-year limitation originally imposed. The Advisory Committee
-emphasized that the revised rules were to be liberally construed to allow courts discretion in
-extending the substitution period, recognizing the difficulties that could arise in promptly
-identifying and notifying the proper representative of the deceased.   Given this context, the
-defendant’s counsel's suggestion of death, which lacked identification of a proper representative,
-failed to initiate the 90-day countdown. This interpretation aligns with the judicial precedent that
-courts should prioritize the equitable administration of justice over strict procedural formalities.
-Thus, the district court erred in dismissing the plaintiffs' action without granting the requested
-extension, especially considering the circumstances that inhibited timely substitution, such as the
-injury to plaintiffs' counsel and the ongoing legal processes in the probate court.  We, therefore,
-reverse the judgment and remand for further proceedings consistent with this opinion, ensuring that
-the substitution process adheres to the flexible and just principles intended by the amendments to
-the Federal Rules of Civil Procedure.
+Plaintiff's situation parallels the referenced cases in the necessity and procedural adherence to
+filing claims under federal regulations. In this case, the failure to file a claim with the
+appropriate federal agency is jurisdictionally fatal. As held in **449 F.2d 124**, where the claim
+was improperly filed only with state officials rather than the federal entity, such oversight does
+not satisfy the requirements of 28 U.S.C. § 2675(a). Similarly, Plaintiff's contention that his
+appeal to the MSPB sufficed as notice of a tort claim is untenable. Furthermore, **454 F.2d 72**
+reinforces that individuals acting in official capacity for a federal agency are deemed federal
+employees for purposes of the Tort Claims Act. Plaintiff's assertion that MSPB should have forwarded
+his claim is unsupported by the strict statutory prerequisites, necessitating direct administrative
+filing. Consequently, the court finds no jurisdiction for the district court and upholds dismissal
+based on procedural non-compliance, affirming that tort claims must be administratively exhausted
+before judicial relief.
 
 
 **Label:** 
 
 
 ***Meta-Llama-3-8B-Instruct:***
-  In the context of Rule 25(a) (1) of the Federal Rules of Civil Procedure, the suggestion of death
-is a crucial step in the process of substituting a deceased party with a proper representative.
-However, not all suggestions of death are created equal. In cases where the suggestion of death is
-made by a party's attorney, but fails to identify a successor or representative of the deceased, the
-90-day period for substitution may not be triggered.  As noted in 359 F.2d 292, the Advisory
-Committee on Civil Rules intended to provide a more flexible standard for substitution, allowing for
-extensions of time and dispensing with the rigid two-year period previously in place. However, this
-flexibility is contingent upon the suggestion of death providing sufficient information to permit
-the court to proceed with substitution.  In the present case, the suggestion of death made by the
-defendant's attorney was deficient in that it failed to identify a successor or representative of
-the deceased. This lack of specificity rendered the suggestion ineffective in triggering the 90-day
-period for substitution, as explained in 379 F.2d 94.  Furthermore, the court's discretion to
-enlarge the time period for substitution, as provided by Rule 6(b), is not a blank check. Rather, it
-is intended to be exercised in a judicious and reasonable manner, taking into account the particular
-circumstances of each case.  In light of these principles, we conclude that the district court erred
-in dismissing the action with prejudice. The case should be remanded for further proceedings,
-allowing the parties to properly substitute a representative of the deceased and continue the action
-in a manner consistent with the Federal Rules of Civil Procedure.
+  The case at hand involves a civilian pay dispute, where the plaintiff, Dr. Andrew Dancy, seeks
+back pay and damages for his separation from his medical position with the government. The
+defendant, the United States, argues that the Merit Systems Protection Board (MSPB) properly upheld
+the action of the agency, which was forced to separate plaintiff after balancing the procedural
+rights of plaintiff to notification and the substantive reemployment rights of plaintiff's
+predecessor.  In reviewing the MSPB decision, the court must accord wide discretion to the agency in
+conducting a reduction in force, absent a clear abuse of that discretion. As stated in Summers v.
+United States, 228 Ct.Cl. -, -, 648 F.2d 1324, 1326-7 (1981), an agency is accorded wide discretion
+in conducting a reduction in force; absent a clear abuse of that discretion, a substantial departure
+from applicable procedures, a misconstruction of governing statutes, or the like, we do not upset a
+final agency decision.  The plaintiff argues that the MSPB erred in finding that the agency's
+failure to notify him of his predecessor's reemployment rights was "harmless error." However, the
+court finds that the agency was legally bound by statute to afford Dr. Jones his reemployment
+rights, and therefore, the agency was compelled to balance the substantive statutory rights of Dr.
+Jones against plaintiff's procedural right to notification under the permissive language of the Army
+regulation.  Furthermore, the court notes that the plaintiff's failure to file an administrative
+claim with the United States Army Claims Service is a jurisdictional prerequisite for filing suit in
+district court. As stated in 28 C.F.R. § 14.2(a) (1980), an administrative tort claim must be filed
+within two years of the date on which the claim accrues. Since the plaintiff failed to file an
+administrative claim, the court lacks jurisdiction to hear the case.  In conclusion, the court
+upholds the MSPB decision affirming the separation of the plaintiff, and finds that the plaintiff's
+failure to file an administrative claim is a jurisdictional prerequisite that cannot be waived. As
+stated in 449 F.2d 124, the court must strictly construe the waiver of sovereign immunity and cannot
+predicate liability on a theory of actual or constructive notice.
 
 
 **Label:** 
 
 
-**citations:** ['379 F.2d 94', '359 F.2d 292']
+**citations:** ['454 F.2d 72', '449 F.2d 124']
 
-***short_citations_0:*** 379 F.2d 94
+***short_citations_0:*** 454 F.2d 72
 
-the proper parties. * * * Unless the motion for substitution is made not later than 90 days after the death is suggested upon the record by service of a statement of the fact of the death as provided herein for the service of the motion, the action shall be dismissed as to the deceased party.” Here not only had the 90-day period not expired when the court entered summary judgment, the appellant by her motion for reconsideration had specifically invoked the discretion of the court. Rule 6(b) provides pertinently that when “by these rules * * * an act is required or allowed to be done at or within a specified time, the court for cause shown may at any time in its discretion (1) with or without motion or notice order the period enlarged if request therefor is made before the expiration of the period originally prescribed * * Originally the Rule had precluded an extension of time for taking action under Rule 25(a) (1), but by purposeful amendment, it was sought to relieve against the hardship of the Court’s holding in Anderson v. Yungkau, 329 U.S. 482, 67 S.Ct. 428, 91 L.Ed. 436 (1947). It was intended that liberal effect be given to the 1963 amendment. Graham v. Pennsylvania Railroad, 119 U.S.App.D.C. 335, 342 F.2d 914 (1964), cert. denied, 381 U.S. 904, 85 S.Ct. 1446, 14 L.Ed.2d 286 (1965). We are constrained to reverse for further proceedings not inconsistent with this opinion. Reversed. The only “party” then
+arresting officers of the City of Mission Police Department were employees of the Federal Government within the meaning of 28 U.S.C. § 2675(a) at the time of their alleged negligent acts, we are convinced that they were. Each of them was a deputized special officer of the Department of Interior, Bureau of Indian Affairs. Each thereby held a special commission granting him power to arrest Indians within the Indian Reservation. In their capacity as employees of the City of Mission they did not possess the power to arrest Indians within the Indian Reservation. 28 U.S.C. § 2671 provides that “as used in this [tort claims] chapter the term ‘Employee of the government’ includes officers or em-' ployees of any federal agency and persons acting on behalf of a federal agency in an official capacity, temporarily or permanently in the service of the United States, whether with or without compensation.” Clearly, in making the arrest of appellant and in detaining him for delivery to tribal authorities, the officers were acting as employees of the Federal Government within the meaning of Section 2675(a) of the Tort Claims Act as defined by Section 2671. They were acting on behalf of a federal agency (the Department of the Interior, Bureau of Indian Affairs) in an official capacity (special officer of that agency) and while so acting were temporarily in the service of the United States albeit without compensation. In view of the above holdings, we remand this case to the District Court for appropriate
 
-***short_citations_1:*** 359 F.2d 292
+***short_citations_1:*** 449 F.2d 124
 
-insertion of a “reasonable time” standard. In 1963, the Advisory Committee suggested the present rule and noted: “Present Rule 25(a) (1), together with present Rule 6(b), results in an inflexible requirement that an action be dismissed as to a deceased party if substitution is not carried out within a fixed period measured from the time of the death. The hardships and inequities of this unyielding requirement plainly appear from the cases. * * * The amended rulé establishes a time limit for the motion to substitute based not upon the time of the death, but rather upon the time information of the death is provided by means of a suggestion of death upon the record, i. e. service of a statement of the fact of the death.” See Notes of Advisory Committee on the Civil Rules, 28 U.S.C. Rule 25 (1964). Rule 6(b) of the Federal Rules of Civil Procedure was also amended in 1963 and the prohibition against extending the time for taking action under Rule 25 was eliminated. The Advisory Committee on the Civil Rules noted: “It is intended that the court shall have discretion to enlarge that period.” The amendments of Rules 6(b) and 25(a) (1) provided needed flexibility. It was assumed that discretionary extensions would be liberally granted. Movants under Rule 25 can ordinarily control when a death is “suggested upon the record” and appellants’ attorney was under no obligation to file his affidavit of Staggers’ death on the date he did. He could have filed
+the necessity of dismissal where the claim has not been filed in accordance with the statute, see Peterson v. United States, 8 Cir. 1970, 428 F.2d 368; Johnson v. United States, 5 Cir. 1968, 404 F. 2d 22. In 1967, the Texas State Department of Health sprayed appellant’s business premises with a DDT compound as a part of the state Aedes Aegypti (mosquito) eradiction program. The state program was funded by the federal government and operated pursuant to a contract with the United States Public Health Service. The program was subject to federal regulation, and all equipment was furnished by the United States. The contract, however, called for the state, as an independent organization and not as an agent of the federal government, to furnish all personnel. The appellant alleged that the spray damaged his property and caused serious bodily injury to his person. He corresponded with officials of the State Department of Health, complaining of the abuse to his property and the illness he sustained as a result of his contact with the chemicals used. However, no claim was filed with any federal agency in conformity with the provisions of 28 C. F.R. § 14.2, which sets out the procedure required for filing claims under the Federal Tort Claims Act, 28 U.S.C.A. § 2671 et seq. Appellant characterizes his correspondence with the state officials as a claim and contends that this court should construe the administrative filing requirement of 28 U.S.C.A. § 2675(a) to include a claim filed with
 
 **prev_text:**
-LEVENTHAL, Circuit Judge: The District Court held that Rule 25(a) (1) of the Federal Rules of Civil
-Procedure required dismissal of the plaintiffs’ tort action because defendant’s counsel had filed a
-suggestion of death of the defendant yet plaintiff had not made any substitution of parties within
-90 days. We reverse on the ground that the suggestion of death, which was neither filed by nor
-identified a successor or representative of the deceased, such as an executor or administrator, was
-ineffective to trigger the running of the 90-day period provided by the Rule. Mr. and Mrs. John
-Rende filed an action in the District Court individually and on behalf of their infant son who had
-been struck and injured by Alfred S. Kay while driving his car. On August 27, 1967, defendant Kay
-died. On September 1, 1967, the defendant’s attorney, a term used here to identify the lawyer who
-had been retained by deceased to defend the action, and who had duly entered an appearance as
-attorney for defendant, filed a suggestion of death in the District Court, giving notice to
-plaintiffs’ attorney. That same day there was filed in the Orphans Court for Montgomery County,
-Maryland, residence of the deceased, his will naming his widow as executrix, but the will had not
-been probated, nor any legal representative appointed for the estate at the time of the filing of
-this appeal. Plaintiffs’ attorney was injured on October 14, 1967. On returning to practice early in
-1968, he learned that no successor to defendant Kay had yet been appointed, and he moved to certify
-the case to the ready calendar. The defendant’s attorney opposed this on grounds that discovery
-procedures had not been completed. The case was delayed and placed on the ready calendar as of June
-7, 1968. However, in April 1968, the defendant’s attorney moved in his own name to dismiss the
-action on the ground that Rule 25(a) (1) required plaintiffs to move to substitute a proper party
-for the deceased within 90 days of the suggestion of death. Plaintiffs filed an opposition and
-motion for substitution of the proper party, and sought an extension of the time for substitution as
-allowed by Rule 6(b). At argument, plaintiffs’ counsel asserted the “suggestion of death was
-defective in that it did not list the name of the proper party; that is the legal representative of
-the defendant.” The court responded: “That would not be his burden.” The court dismissed the action
-with prejudice. Prior to its amendment in 1963, Rule 25(a) (1) required the court to dismiss a case
-if no motion for substitution was filed within two. years after date of death, and no extensions of
-this period were allowed under Rule 6(b). The rule was rigorously applied, often with harsh results,
-and was called “easily the poorest rule of all the Federal Rules.” In 1955 the Advisory Committee on
-Rules for Civil Procedure recommended that the two-year period be changed to a “reasonable time”
-standard. In 1961 the Advisory Committee on Civil Rules again suggested the Rule be made more
-flexible. In 1963 the Supreme Court made changes in Rule 25(a) (1) and in Rule 6(b) so as to provide
-a 90-day time limit from the filing of a suggestion of death, and to give the court discretion to
-extend that time. The Committee Notes explaining the amendments state: Present Rule 25(a) (1),
-together with present Rule 6(b), results in an inflexible requirement that an action be dismissed as
-to a deceased party if substitution is not carried out within a fixed period measured from the time
-of death. The hardships and inequities of this unyielding requirement plainly appear from the cases.
-* * * The amended rule establishes a time limit for the motion to substitute based not upon the time
-of the death, but rather upon the time information of the death is provided by means of a suggestion
-of death upon the record. * * * A motion to substitute may be made by any party or by the
-representative of the deceased party without awaiting the suggestion of death. Indeed, the motion
-will usually be so made. If a party or the representative of the deceased party desires to limit the
-time within which another may make the motion, he may do so by suggesting the death upon the record.
-(Emphasis added.) Under the amended Rule either a party or “the successors or representatives of the
-deceased party” may avoid delay in effecting substitution for the deceased party either by filing a
-motion for substitution or by suggesting death on the record and thus triggering the 90-day period
-which begins with suggestion of death. The Advisory Committee, in outlining that suggestion of death
-could be made by “the representative of the deceased party” plainly contemplated that the suggestion
-emanating from the side of the deceased would identify a representative of the estate, such as an
-executor or administrator, who could be substituted for the deceased as a party, with the action
-continued in the name of the representative. The addition of “successor” in the Rule would take care
-of the case of, say, the distributee of an estate that had been distributed, but would not make a
-material difference in the aspect under consideration. Form 30, for suggestion of death, which was
-provided in order to expedite and facilitate implementation of the amendment, provides: A.B.
-[described as a party, or as executor, administrator, or other representative or successor of C.D.,
-the deceased party\ suggests upon the record, pursuant to Rule 25(a) (1), the death of C.D.
-[describe as party] during the pendency of this action. Added Jan. 21, 1963, eff. July 1, 1963.
-[Emphasis added.] Although the attorney for the defendant was retained to “represent” the deceased
-as his counsel, he is not a person who could be made a party, and is not a “representative of the
-deceased party” in the sense contemplated by Rule 25(a) d). In our opinion the Rule, as amended,
-cannot fairly be construed, as the de fendant’s attorney argues, to make his suggestion of death
-operative to trigger the 90-day period even though he was neither a successor nor representative of
-the deceased, and gave no indication of what person was available to be named in substitution as a
-representative of the deceased. Counsel’s construction would open the door to a tactical maneuver to
-place upon the plaintiff the burden of locating the representative of the estate within 90 days. We
-can conceive of cases wherein even the lawyer retained to represent a defendant might know the
-defendant had died, yet not readily know where his estate would be administered. In the present
-case, plaintiff’s attorney did know the court of probate, but he did not know whether probate of the
-will might be contested, or who would be appointed representative of the estate. The tactic of the
-defendant’s attorney would place on plaintiff the burden, where no conventional representative was
-appointed for the estate in probate court, of instituting machinery in order to produce some
-representative of the estate ad litem, pending appointment of the representative contemplated by law
-of the domicile of the deceased.
+KUNZIG, Judge: This civilian pay case comes before the court on the parties’ cross-motions for
+summary judgment. By this action, plain tiff seeks back pay and other damages incurred when
+defendant separated him by a reduction in force from his medical position with the government.
+Plaintiff alleges that the Merit Systems Protection Board (MSPB) acted arbitrarily and capriciously
+in affirming plaintiff’s discharge when the agency had failed to notify plaintiff at the outset that
+his position was encumbered by his predecessor’s reemployment rights. The government contends that
+the MSPB properly upheld the action of the agency, which was forced to separate plaintiff after
+balancing the procedural rights of plaintiff to notification and the substantive reemployment rights
+of plaintiff’s predecessor. We agree with defendant. I. Plaintiff, Dr. Andrew Dancy, received a
+career-conditional appointment with the Department of the Army (DOA) as Medical Officer at the Armed
+Forces Examining and Entrance Station (AFEES) in Memphis, Tennessee, on January 31, 1977. At the
+time of his appointment, plaintiff was not notified, nor was the agency aware, that the position was
+encumbered by the reemployment rights of plaintiff’s predecessor, Dr. Quitman Jones, who had been
+assigned to a similar position in Honolulu, Hawaii. In May, 1977, when the agency discovered that
+Dr. Jones had reemployment rights, it immediately notified plaintiff and Dr. Jones. A year later, on
+July 24, 1978, Dr. Jones was released from jiis tour of duty in Honolulu and returned to his
+position in Memphis. Plaintiff was notified of Dr. Jones’ decision on July 3, 1978. The agency also
+informed plaintiff that he would be separated by a reduction in force effective September 1, 1978.
+The agency notified plaintiff of his various employment rights and of his right to appeal. Plaintiff
+appealed and was granted a hearing on October 30, 1978, before the Federal Employee Appeals
+Authority (FEAA). Plaintiff testified that during his employment with AFEES he had reduced his
+private practice by approximately one-half, relying on the agency’s representation that the position
+was permanent. A transcript of the hearing was made part of the administrative record when the
+record was transferred to the MSPB. In its decision of January 15, 1979, the MSPB affirmed
+plaintiff’s separation by reduction in force, noting that while the agency had “administratively
+erred” in failing to inform plaintiff of his predecessor’s reemployment rights, it could not avoid
+its statutory obligation to afford Dr. Jones these rights. The MSPB concluded that the agency had
+not violated its obligations to plaintiff under the reduction-in-force regulations of 5 C.F.R. § 351
+(1981). Plaintiff filed suit in Federal District Court for the Western District of Tennessee on
+August 31, 1979, seeking damages in the amount of $500,000 for “loss of good will in his practice,”
+and past and future loss of salary and of private practice. The case was transferred to this court
+on stipulation of the parties that the district court lacked jurisdiction, apparently because the
+district court lacked subject matter jurisdiction over that part of plaintiff’s contract claim for
+monetary relief which exceeded the dis trict court’s $10,000 Tucker Act limitation. 28 U.S.C. §
+1346(a)(2) (1976 & Supp. Ill 1979). The case was timely filed in this court on November 30, 1979.
+The government contends that the MSPB decision affirming plaintiff’s separation by reduction in
+force was neither arbitrary nor capricious and should be upheld. It further argues that certain of
+plaintiff’s allegations sound in tort and are therefore outside the jurisdiction of this court. We
+agree with defendant’s position. The following analysis will discuss government discretion, the tort
+claim allegations and the propriety of their possible transfer to the district court for appropriate
+disposition. II. This court’s scope of review in civilian pay cases is well settled. An agency is
+accorded wide discretion in conducting a reduction in force; absent a clear abuse of that
+discretion, a substantial departure from applicable procedures, a misconstruction of governing
+statutes, or the like, we do not upset a final agency decision. See, e.g., Summers v. United States,
+228 Ct.Cl. -, -, 648 F.2d 1324, 1326-7 (1981); Friedman v. United States, 214 Ct.Cl. 804 (1977);
+Giles v. United States, 213 Ct.Cl. 602, 553 F.2d 647 (1977). The good faith of those taking
+administrative action is presumed. Crowley v. United States, 208 Ct.Cl. 415, 527 F.2d 1176 (1975);
+Boyle v. United States, 207 Ct.Cl. 27, 515 F.2d 1397 (1975). Plaintiff attacks the MSPB decision on
+two grounds. First, he argues that the MSPB erred in finding that plaintiff’s predecessor actually
+had reemployment rights. Plaintiff contends that the applicable statute requires that reemployment
+rights be provided only when the employee is assigned “at the request of the department concerned.”
+10 U.S.C. § 1586(b)(1) (1976). Since Dr. Jones actively sought out the position in Hawaii, plaintiff
+asserts, he was not entitled to reemployment with AF-EES when that position terminated. We find this
+argument meritless. Dr. Jones’ reassignment to Hawaii was authorized by the Department of the Army.
+There is no indication in the statutes or regulations that an affirmative seeking out of an overseas
+assignment disqualifies the seeker from reemployment rights. We hold that the DOA authorization
+constitutes “an assignment at the request of the agency” within the meaning of 10 U.S.C. § 1586.
+Thus, we conclude that the MSPB made no error in finding Dr. Jones entitled to reemployment in
+plaintiff’s position. Second, plaintiff contends that the agency’s failure to notify him of his
+predecessor’s reemployment rights violated Army regulations and that the MSPB's finding of “harmless
+error” in this regard was an abuse of discretion. DOA Civilian Personnel Regulation 300 (Chapter 25)
+Subchapter 8, § 8-10(a) (Oct. 1, 1971) provides in part that “[i]n view of the absolute return
+rights of an employee accepting oversea assignment, each subsequent incumbent of the relinquished
+position should be notified that his occupancy of the position is subject to the return of a former
+incumbent having statutory reemployment rights.” (Emphasis added.) Failure of the agency so to
+notify him, plaintiff contends, caused him substantial financial loss for which he maintains his
+claim for relief. The MSPB decision recognized that failure to notify plaintiff of the encumbered
+nature of the position was “administrative error” and defendant has not contested this finding.
+However, as the MSPB correctly pointed out, the agency was legally bound by- statute to afford Dr.
+Jones his reemployment rights. 'Thus the agency was compelled to balance the substantive statutory
+rights of Dr. Jones against plaintiff’s procedural right to notification under the permissive
+language of the Army regulation. On balance, the MSPB held that the agency had made the only
+reasonable decision it could under the circumstances. We have upheld such a balancing of substantive
+against procedural rights where even in the absence of technical procedural error plaintiff would
+have been properly terminated. Polos v. United States, 223 Ct.Cl. 534, 621 F.2d 385 (1980). In
+Polos, plaintiff sought reinstatement to his civilian position after he was automatically separated
+under statute when retired from his related military position. We held that failure of the agency to
+give plaintiff thirty days’ written notice was “harmless error,” since notice would not have
+enhanced plaintiff’s ability to retain his civilian position. See also Carey v. Piphus, 435 U.S.
+247, 260 & n.15, 98 S.Ct. 1042, 1050 & n.15, 55 L.Ed.2d 252 (1978) (Supreme Court held that public
+employees do not hold property interests in their jobs and may not recover damages for a lack of
+procedural due process where a proper hearing would not affect the termination); Hernandez del Valle
+v. Santa Aponte, 575 F.2d 321, 324 (1st Cir. 1978). In the instant case, we recognize that the
+agency’s failure to notify plaintiff • of his predecessor’s reemployment rights may have harmed
+plaintiff’s interests in an economic sense. However, we uphold the MSPB finding that such failure
+constituted “harmless error” in a legal sense because plaintiff’s position was subordinated to Dr.
+Jones’ statutory rights and no amount of diligence as to proper procedural notification could have
+altered that fact. The Army made every effort to accommodate plaintiff in obtaining comparable
+employment. For reasons of his own, plaintiff could not take advantage of these efforts. Faced with
+two people for one position, the Army had no choice but to separate plaintiff by a reduction in
+force. Under these circumstances, we cannot find that the MSPB decision sustaining plaintiff’s
+separation from his position at AFEES was arbitrary, capricious, an abuse of administrative
+discretion, or unsupported by substantial evidence. III. Finally, we turn to the question of
+transferring plaintiff’s case to district court for a determination of whether the agency’s failure
+to notify plaintiff of his predecessor’s reemployment, rights constituted a cognizable claim under
+the Federal Tort Claims Act, 28 U.S.C. §§ 1346(b), 2671 et seq. (1976). Although we are concerned
+that a case should be litigated before the proper forum, we will not order transfer where we find
+that the district court is without jurisdiction to hear the claim. Such is our finding in the
+instant case. Before a plaintiff can bring a tort action against the federal government in district
+court, he must file a tort claim, consisting of a Standard Form 95 or written notice plus a specific
+claim for money damages, with the appropriate administrative agency. 28 U.S.C. § 2675(a) (1976); 28
+C.F.R. § 14.-2(a) (1980). Courts have unanimously held that this is a jurisdictional prerequisite-
+for filing suit in district court and cannot be waived. See, e.g., Lagala v. United States, 650 F.2d
+290 (Ct.Cl., 1980); Kielwien v. United States, 540 F.2d 676 (4th Cir.), cert. denied, 429 U.S. 979,
+97 S.Ct. 491, 50 L.Ed.2d 588 (1976); Allen v. United States, 517 F.2d 1328 (6th-Cir. 1975);
+Executive Jet Aviation v. United States, 507 F.2d 508 (6th Cir. 1974). An administrative tort claim
+must be filed within two years of the date on which the claim accrues. 28 U.S.C. § 2401(b) (1976).
+Defendant asserts that plaintiff never filed an administrative claim with the United States Army
+Claims Service and plaintiff makes no contrary showing. Instead, plaintiff contends that his appeal
+to the MSPB constituted notification of his tort claim against the agency and should have been
+transferred to the Army Claims Service by the MSPB pursuant to 28 C.F.R. § 14.2(b)(1) (1980). This
+regulation provides that where a claim is presented to the wrong federal agency, “that agency shall
+transfer it forthwith to the appropriate agency.” Plaintiff argues that he presented his claim to
+the MSPB “with particularity” and thereby exhausted the administrative review process. A number of
+courts have considered this argument and rejected it, pointing out that the government’s waiver of
+sovereign immunity must be narrowly construed and thus liability cannot be predicated on a theory of
+actual or constructive notice. As the court in Green v. United States, 385 F.Supp. 641
+(S.D.Cal.1974), stated in regard to such a theory: [Ijnherent in plaintiff’s argument is a
+suggestion that if the United States has received some sort of constructive or actual notice of a
+possible claim it then has a duty to go out and solicit an administrative claim to ensure that the
+jurisdictional prerequisite to suit by the claimant is properly laid. Such a proposition is not only
+alien to the adversary concept of American jurisprudence, but is also unsupported as a matter of
+law.
 
 

@@ -1,142 +1,253 @@
 **gold_text:**
-The amendment to Rule 25(a) (1) was intended to dispel unwarranted rigidity and allow more
-flexibility in substitution. “It was intended that liberal effect be given to the 1963 amendment.”
-Roscoe v. Roscoe, 126 U.S.App.D.C. 317, 322, 379 F.2d 94, 99 (1967). “[T]he 90 day period was not
-intended to act as a bar to otherwise meritorious actions.” Staggers v. Otto Gerdau Co., 359 F.2d
-292, 296 (2d Cir. 1966).
+. Section 2283 is the successor to § 5 of the Act of March 2, 1793, 1 Stat. at L. 335, Chap. 22,
+which provided that no writ of injunction might be granted on the part of Federal courts to stay
+proceedings in any state court. This section was later amended to make an exception for proceedings
+in bankruptcy. 36 Stat. at L. 1162, Chap. 231. The provision, as amended, was carried forward as §
+720 of the Revised Statutes (1874), § 265 of the Judicial Code (1911), and as 28 U.S.C.A. § 379
+(1940). Section 2283 resulted from the revision of the Judicial Code in 1948. 62 Stat. 968. The
+history of the section together with the exceptions which had been statutorily or judicially created
+to it are fully discussed by the Supreme Court in Toucey v. New York Life Insurance Company, 1941,
+314 U.S. 118, 62 S.Ct. 139, 86 L.Ed. 100; and Amalgamated Clothing Workers of America v. Richmond
+Brothers, supra; and in our cases of Jacksonville Blow Pipe Company v. Reconstruction Finance Corp.,
+5 Cir. 1957, 244 F.2d 394; and T. Smith & Son, Inc. v. Williams, 5 Cir., 1960, 275 F.2d 397.
 
 **Generations:**
 
 
 ***GPT-4o:***
-This stringent interpretation contrasts sharply with the intent of the 1963 amendments to Rule 25
-and Rule 6(b), which aimed to inject flexibility and fairness into the substitution process. As
-noted in 379 F.2d 94 and 359 F.2d 292, the amendments were designed to eliminate the inequities and
-hardships caused by the rigid two-year limitation originally imposed. The Advisory Committee
-emphasized that the revised rules were to be liberally construed to allow courts discretion in
-extending the substitution period, recognizing the difficulties that could arise in promptly
-identifying and notifying the proper representative of the deceased.   Given this context, the
-defendant’s counsel's suggestion of death, which lacked identification of a proper representative,
-failed to initiate the 90-day countdown. This interpretation aligns with the judicial precedent that
-courts should prioritize the equitable administration of justice over strict procedural formalities.
-Thus, the district court erred in dismissing the plaintiffs' action without granting the requested
-extension, especially considering the circumstances that inhibited timely substitution, such as the
-injury to plaintiffs' counsel and the ongoing legal processes in the probate court.  We, therefore,
-reverse the judgment and remand for further proceedings consistent with this opinion, ensuring that
-the substitution process adheres to the flexible and just principles intended by the amendments to
-the Federal Rules of Civil Procedure.
+In this case, we must consider whether the Civil Rights Act of 1964 authorizes federal courts to
+issue injunctions to stay state prosecutions, within the context of 28 U.S.C.A. § 2283. The anti-
+injunction statute traditionally prohibits federal courts from intervening in state court
+proceedings except under specific conditions.  The language in § 2283 states: “A court of the United
+States may not grant an injunction to stay proceedings in a State court except as expressly
+authorized by Act of Congress, or where necessary in aid of its jurisdiction, or to protect or
+effectuate its judgments.” Historical precedents, such as 314 U.S. 118 and 244 F.2d 394, underscore
+a long-standing hesitance to allow federal intervention in state affairs, emphasizing the principle
+of federal non-interference unless clear congressional authorization exists.  In our analysis, we
+note that the Civil Rights Act provides explicit provisions under § 204(a) for the issuance of
+temporary injunctions to protect individuals exercising rights secured by § 201. The Supreme Court
+has previously established that “non-forcible attempts to gain admittance to or to remain in
+establishments covered by the Act, are immunized from prosecution” (Hamm v. City of Rock Hill, 379
+U.S. 306).  Moreover, it is essential to recognize that despite the prohibitive stance of § 2283,
+exceptions exist where federal courts seek to protect or effectuate their judgments (275 F.2d 397).
+Given that § 203(c) of the Civil Rights Act prohibits punishment for exercising accommodation
+rights, it provides the required express authorization for federal courts to enjoin state
+proceedings as necessary to avoid irreparable harm.  Thus, §§ 203(c) and 204(a) effectively
+constitute the necessary congressional authorization under § 2283, allowing federal courts to issue
+injunctions in cases like the present one to prevent state prosecution of individuals asserting
+their federally protected civil rights.
 
 
 **Label:** 
 
 
 ***Meta-Llama-3-8B-Instruct:***
-  In the context of Rule 25(a) (1) of the Federal Rules of Civil Procedure, the suggestion of death
-is a crucial step in the process of substituting a deceased party with a proper representative.
-However, not all suggestions of death are created equal. In cases where the suggestion of death is
-made by a party's attorney, but fails to identify a successor or representative of the deceased, the
-90-day period for substitution may not be triggered.  As noted in 359 F.2d 292, the Advisory
-Committee on Civil Rules intended to provide a more flexible standard for substitution, allowing for
-extensions of time and dispensing with the rigid two-year period previously in place. However, this
-flexibility is contingent upon the suggestion of death providing sufficient information to permit
-the court to proceed with substitution.  In the present case, the suggestion of death made by the
-defendant's attorney was deficient in that it failed to identify a successor or representative of
-the deceased. This lack of specificity rendered the suggestion ineffective in triggering the 90-day
-period for substitution, as explained in 379 F.2d 94.  Furthermore, the court's discretion to
-enlarge the time period for substitution, as provided by Rule 6(b), is not a blank check. Rather, it
-is intended to be exercised in a judicious and reasonable manner, taking into account the particular
-circumstances of each case.  In light of these principles, we conclude that the district court erred
-in dismissing the action with prejudice. The case should be remanded for further proceedings,
-allowing the parties to properly substitute a representative of the deceased and continue the action
-in a manner consistent with the Federal Rules of Civil Procedure.
+  The issue at hand is whether the federal court has the authority to issue an injunction to stay
+state court proceedings under 28 U.S.C. § 2283. The Supreme Court has held in Toucey v. New York
+Life Insurance Co., 314 U.S. 118, that a federal court cannot grant an injunction to stay state
+court proceedings except as authorized by Act of Congress, or where necessary in aid of its
+jurisdiction, or to protect or effectuate its judgments.  However, the Civil Rights Act of 1964,
+specifically Title II, provides that no person shall be punished or attempt to punish any person for
+exercising or attempting to exercise any right or privilege secured by the Act. 42 U.S.C. § 203(c).
+This provision has been held constitutional in Heart of Atlanta Motel, Inc. v. United States, 379
+U.S. 241, and Katzenbach v. McClung, 379 U.S. 294.  In this case, the appellants were attempting to
+exercise their right to equal public accommodations under the Act and were subsequently arrested and
+charged with breach of the peace. The district court denied their request for a temporary
+restraining order to stay the state court proceedings. However, the court of appeals held that the
+Civil Rights Act did constitute express authorization for the federal court to enjoin the state
+court proceedings.  The court of appeals also held that the policy against interference with state
+criminal proceedings was not a rule of statutory derivation, but rather a rule of comity, and that
+it could be abrogated by Congress. The court further held that the Civil Rights Act had abrogated
+the comity rule with respect to injunctions against state proceedings brought to punish those who
+peaceably assert their rights under Title II.  In conclusion, the federal court has the authority to
+issue an injunction to stay state court proceedings under 28 U.S.C. § 2283, and the Civil Rights Act
+of 1964 constitutes express authorization for the federal court to enjoin the state court
+proceedings. The policy against interference with state criminal proceedings is a rule of comity
+that can be abrogated by Congress, and the Civil Rights Act has abrogated this rule with respect to
+injunctions against state proceedings brought to punish those who peaceably assert their rights
+under Title II.
 
 
 **Label:** 
 
 
-**citations:** ['379 F.2d 94', '359 F.2d 292']
+**citations:** ['314 U.S. 118', '244 F.2d 394', '275 F.2d 397']
 
-***short_citations_0:*** 379 F.2d 94
+***short_citations_0:*** 314 U.S. 118
 
-the proper parties. * * * Unless the motion for substitution is made not later than 90 days after the death is suggested upon the record by service of a statement of the fact of the death as provided herein for the service of the motion, the action shall be dismissed as to the deceased party.” Here not only had the 90-day period not expired when the court entered summary judgment, the appellant by her motion for reconsideration had specifically invoked the discretion of the court. Rule 6(b) provides pertinently that when “by these rules * * * an act is required or allowed to be done at or within a specified time, the court for cause shown may at any time in its discretion (1) with or without motion or notice order the period enlarged if request therefor is made before the expiration of the period originally prescribed * * Originally the Rule had precluded an extension of time for taking action under Rule 25(a) (1), but by purposeful amendment, it was sought to relieve against the hardship of the Court’s holding in Anderson v. Yungkau, 329 U.S. 482, 67 S.Ct. 428, 91 L.Ed. 436 (1947). It was intended that liberal effect be given to the 1963 amendment. Graham v. Pennsylvania Railroad, 119 U.S.App.D.C. 335, 342 F.2d 914 (1964), cert. denied, 381 U.S. 904, 85 S.Ct. 1446, 14 L.Ed.2d 286 (1965). We are constrained to reverse for further proceedings not inconsistent with this opinion. Reversed. The only “party” then
+proceedings in the state courts should be free from interference by federal injunction. The provision expresses on its face the duty of “hands off” by the federal courts in the use of the injunction to stay litigation in a state court. Second. The language of the Act of 1793 was unqualified: . . nor shall a writ of injunction be granted to stay proceedings in any court of a state ...” 1 Stat. 335. In the course of one hundred and fifty years, Congress has made few withdrawals from this sweeping prohibition: (1) Bankruptcy proceedings. This is the only legislative exception which has been incorporated directly into § 265: “. . . except in cases where such injunction may be authorized by any law relating to proceedings in bankruptcy.” 36 Stat. 1162. This provision, based upon § 21 of the Bankruptcy Act of 1867, 14 Stat. 526, was inserted in the Act of 1793 by the Revisers. R. S. § 720; see Proposed Draft of Revision of U. S. Statutes (1872), vol. 1, pp. 418. (2) Removal of actions. The Removal Acts, ever since the Act of September 24, 1789, 1 Stat. 73, 79, have provided that whenever any party entitled to remove a suit shall file with the state court a proper petition for removal and a bond with good and sufficient surety, it shall then be the duty of the state court to accept such petition and bond “and proceed no further in the cause.” Section 265 has
 
-***short_citations_1:*** 359 F.2d 292
+***short_citations_1:*** 244 F.2d 394
 
-insertion of a “reasonable time” standard. In 1963, the Advisory Committee suggested the present rule and noted: “Present Rule 25(a) (1), together with present Rule 6(b), results in an inflexible requirement that an action be dismissed as to a deceased party if substitution is not carried out within a fixed period measured from the time of the death. The hardships and inequities of this unyielding requirement plainly appear from the cases. * * * The amended rulé establishes a time limit for the motion to substitute based not upon the time of the death, but rather upon the time information of the death is provided by means of a suggestion of death upon the record, i. e. service of a statement of the fact of the death.” See Notes of Advisory Committee on the Civil Rules, 28 U.S.C. Rule 25 (1964). Rule 6(b) of the Federal Rules of Civil Procedure was also amended in 1963 and the prohibition against extending the time for taking action under Rule 25 was eliminated. The Advisory Committee on the Civil Rules noted: “It is intended that the court shall have discretion to enlarge that period.” The amendments of Rules 6(b) and 25(a) (1) provided needed flexibility. It was assumed that discretionary extensions would be liberally granted. Movants under Rule 25 can ordinarily control when a death is “suggested upon the record” and appellants’ attorney was under no obligation to file his affidavit of Staggers’ death on the date he did. He could have filed
+§ 2283 reads as follows: “A court of the United States may not grant an injunction to stay proceedings in a State court except as expressly authorized by Act of Congress, or where necessary in aid of its jurisdiction, or to protect or effectuate its judgments.” The pertinent portion of the Reviser’s Note states: “The exceptions specifically include the words ‘to protect or effectuate its judgments,’ for lack of which the Supreme Court held that the Federal courts are without power to enjoin relitigation of cases and controversies fully adjudicated by such courts. (See Toucey v. New York Life Insurance Co., 314 U.S. 118, 62 S.Ct. 139, 86 L.Ed. 100. A vigorous dissenting opinion (62 S.Ct. 148) notes that at the time of the 1911 revision of the Judicial Code, the power of the courts of the United States to protect their judgments was unquestioned and that the revisers of that code noted no change and Congress intended no change). “Therefore the revised section restores the basic law as generally understood and interpreted prior to the Toucey decision.” Relying on the revised wording as explained in the “Note,” the Tenth Circuit in Jackson v. Carter Oil Co., 179 F.2d 524, certiorari denied 340 U.S. 812, 71 S.Ct. 39, 95 L.Ed. 597, held that a federal court could enjoin the prosecution of a state suit that would challenge an adjudication of title that had been made among the parties or their privies in an earlier action. See also Berman v. Denver
+
+***short_citations_2:*** 275 F.2d 397
+
+that the employee had been paid all the compensation to which he was entitled; that an injunction was “necessary in aid of [the federal court’s] jurisdiction or [to] protect or effectuate its judgments” under Section 2283. III. Section 2283, the anti-injunction statute, reads as follows: “A court of the United States may not grant an injunction to stay proceedings in a State court except as expressly authorized by Act of Congress, or where necessary in aid of its jurisdiction, or to protect or effectuate its judgments.” Section 2283 is the 1948 revised version of Section 265 of the Judicial Code of 1911, former 28 U.S.C.A. § 379. Both go back to Section 5 of the Judiciary Act of 1793 providing that: “ * * * Nor shall a writ of injunction be granted to stay proceedings in any court of a state.” It has been suggested that the prohibition of federal injunctions against state proceedings was included in the Act of 1793 as a result of the opposition, intensified at that time by Chisholm v. State of Georgia, 1793, 2 Dali. 419, 1 L.Ed. 440, to extending the scope of federal jurisdiction at the expense of the states. Mr. Justice Frankfurter and others have questioned the significance of special contemporary factors, except the prevailing prejudices against equity jurisdiction. But: “the purpose and direction underlying the provision is manifest from its terms: proceedings in the state court should be free from interference by federal injunction. The provision expresses on its face
 
 **prev_text:**
-LEVENTHAL, Circuit Judge: The District Court held that Rule 25(a) (1) of the Federal Rules of Civil
-Procedure required dismissal of the plaintiffs’ tort action because defendant’s counsel had filed a
-suggestion of death of the defendant yet plaintiff had not made any substitution of parties within
-90 days. We reverse on the ground that the suggestion of death, which was neither filed by nor
-identified a successor or representative of the deceased, such as an executor or administrator, was
-ineffective to trigger the running of the 90-day period provided by the Rule. Mr. and Mrs. John
-Rende filed an action in the District Court individually and on behalf of their infant son who had
-been struck and injured by Alfred S. Kay while driving his car. On August 27, 1967, defendant Kay
-died. On September 1, 1967, the defendant’s attorney, a term used here to identify the lawyer who
-had been retained by deceased to defend the action, and who had duly entered an appearance as
-attorney for defendant, filed a suggestion of death in the District Court, giving notice to
-plaintiffs’ attorney. That same day there was filed in the Orphans Court for Montgomery County,
-Maryland, residence of the deceased, his will naming his widow as executrix, but the will had not
-been probated, nor any legal representative appointed for the estate at the time of the filing of
-this appeal. Plaintiffs’ attorney was injured on October 14, 1967. On returning to practice early in
-1968, he learned that no successor to defendant Kay had yet been appointed, and he moved to certify
-the case to the ready calendar. The defendant’s attorney opposed this on grounds that discovery
-procedures had not been completed. The case was delayed and placed on the ready calendar as of June
-7, 1968. However, in April 1968, the defendant’s attorney moved in his own name to dismiss the
-action on the ground that Rule 25(a) (1) required plaintiffs to move to substitute a proper party
-for the deceased within 90 days of the suggestion of death. Plaintiffs filed an opposition and
-motion for substitution of the proper party, and sought an extension of the time for substitution as
-allowed by Rule 6(b). At argument, plaintiffs’ counsel asserted the “suggestion of death was
-defective in that it did not list the name of the proper party; that is the legal representative of
-the defendant.” The court responded: “That would not be his burden.” The court dismissed the action
-with prejudice. Prior to its amendment in 1963, Rule 25(a) (1) required the court to dismiss a case
-if no motion for substitution was filed within two. years after date of death, and no extensions of
-this period were allowed under Rule 6(b). The rule was rigorously applied, often with harsh results,
-and was called “easily the poorest rule of all the Federal Rules.” In 1955 the Advisory Committee on
-Rules for Civil Procedure recommended that the two-year period be changed to a “reasonable time”
-standard. In 1961 the Advisory Committee on Civil Rules again suggested the Rule be made more
-flexible. In 1963 the Supreme Court made changes in Rule 25(a) (1) and in Rule 6(b) so as to provide
-a 90-day time limit from the filing of a suggestion of death, and to give the court discretion to
-extend that time. The Committee Notes explaining the amendments state: Present Rule 25(a) (1),
-together with present Rule 6(b), results in an inflexible requirement that an action be dismissed as
-to a deceased party if substitution is not carried out within a fixed period measured from the time
-of death. The hardships and inequities of this unyielding requirement plainly appear from the cases.
-* * * The amended rule establishes a time limit for the motion to substitute based not upon the time
-of the death, but rather upon the time information of the death is provided by means of a suggestion
-of death upon the record. * * * A motion to substitute may be made by any party or by the
-representative of the deceased party without awaiting the suggestion of death. Indeed, the motion
-will usually be so made. If a party or the representative of the deceased party desires to limit the
-time within which another may make the motion, he may do so by suggesting the death upon the record.
-(Emphasis added.) Under the amended Rule either a party or “the successors or representatives of the
-deceased party” may avoid delay in effecting substitution for the deceased party either by filing a
-motion for substitution or by suggesting death on the record and thus triggering the 90-day period
-which begins with suggestion of death. The Advisory Committee, in outlining that suggestion of death
-could be made by “the representative of the deceased party” plainly contemplated that the suggestion
-emanating from the side of the deceased would identify a representative of the estate, such as an
-executor or administrator, who could be substituted for the deceased as a party, with the action
-continued in the name of the representative. The addition of “successor” in the Rule would take care
-of the case of, say, the distributee of an estate that had been distributed, but would not make a
-material difference in the aspect under consideration. Form 30, for suggestion of death, which was
-provided in order to expedite and facilitate implementation of the amendment, provides: A.B.
-[described as a party, or as executor, administrator, or other representative or successor of C.D.,
-the deceased party\ suggests upon the record, pursuant to Rule 25(a) (1), the death of C.D.
-[describe as party] during the pendency of this action. Added Jan. 21, 1963, eff. July 1, 1963.
-[Emphasis added.] Although the attorney for the defendant was retained to “represent” the deceased
-as his counsel, he is not a person who could be made a party, and is not a “representative of the
-deceased party” in the sense contemplated by Rule 25(a) d). In our opinion the Rule, as amended,
-cannot fairly be construed, as the de fendant’s attorney argues, to make his suggestion of death
-operative to trigger the 90-day period even though he was neither a successor nor representative of
-the deceased, and gave no indication of what person was available to be named in substitution as a
-representative of the deceased. Counsel’s construction would open the door to a tactical maneuver to
-place upon the plaintiff the burden of locating the representative of the estate within 90 days. We
-can conceive of cases wherein even the lawyer retained to represent a defendant might know the
-defendant had died, yet not readily know where his estate would be administered. In the present
-case, plaintiff’s attorney did know the court of probate, but he did not know whether probate of the
-will might be contested, or who would be appointed representative of the estate. The tactic of the
-defendant’s attorney would place on plaintiff the burden, where no conventional representative was
-appointed for the estate in probate court, of instituting machinery in order to produce some
-representative of the estate ad litem, pending appointment of the representative contemplated by law
-of the domicile of the deceased.
+GRIFFIN B. BELL, Circuit Judge. This appeal is from the denial of a temporary restraining order by
+the District Court. It was sought under a complaint filed by eighteen Negro citizens on September
+22, 1964. The complaint was based on activity which occurred on September 5, 1964. The appeal
+presents a question of first impression under the Civil Rights Act of 1964, i. e., whether the Act
+constitutes congressional authorization for the staying of state prosecutions by federal courts. The
+question is presented within the context of 28 U.S. C.A. § 2283, in pertinent part as follows: “A
+court of the United States may not grant an injunction to stay proceedings in a State court except
+as expressly authorized by Act of Congress, * * On September 5, 1964 appellants requested service in
+Tom’s Restaurant in Aberdeen, Mississippi. Their purpose in going to the restaurant was to enforce
+their right of access to places of public accommodation under the Civil Rights Act of 1964. They
+were told by the waitress that they would only be served in that section of the restaurant reserved
+for Negroes. They refused to go to that section and were thereupon requested to leave. Upon their
+refusal to leave, they were arrested by city police and a deputy sheriff, and incarcerated. They
+were charged with having refused to leave premises after having been requested to do so in violation
+of § 2087.5 of the Mississippi Code, a crime of the breach of the peace type, and were to be tried
+therefor in the Justice of the Peace Court in Aberdeen. This action was instituted against the
+Monroe County sheriff and deputy sheriff, the Chief of Police of Aberdeen, the judge and prosecuting
+attorney of the court in which the charges were pending, and the owner of the restaurant. The relief
+sought included prayers for a temporary restraining order enjoining the further prosecution of
+appellants, their trial being set for October 7, 1964, and for a permanent injunction against the
+withholding of their right under Title II of the Civil Rights Act of 1964 to the accommodations of
+the restaurant. The District Court was of the view that it was proscribed in the premises by § 2283,
+supra, and denied the temporary restraining order after a full hearing. It was stipulated during the
+hearing, for the purposes of the motion, that Tom’s Restaurant was a place of public accommodation
+subject to the Civil Rights Act. And the evidence was clear that the sit-ins in question were
+peaceable. Thereafter, and after notice of appeal to this court, an informal agreement was reached
+between the parties that prosecution of appellants would be withheld pending the appeal. Two issues,
+to be discussed seriatim, are presented for decision. First, it is urged that the order denying the
+temporary restraining order is non-appealable and hence this court is without jurisdiction. The
+second involves the merits, whether the District Court was empowered to issue a temporary
+restraining order, assuming that it was otherwise warranted. This latter issue involves not only the
+inhibitions of § 2283, but the additional contention that the requested restraining order was barred
+by the rules of comity. Douglas v. City of Jeannette, 1943, 319 U.S. 157, 63 S.Ct. 877, 87 L. Ed.
+1324. I. The issue necessarily preliminary is whether the order here complained of is appealable.
+The request for relief was framed in terms of a temporary restraining order. It went only to the
+question of the prosecutions. The relief directed to acquiring public accommodation rights, in the
+form of a prayer for permanent injunction, was not considered at the hearing on the motion for
+temporary relief. The motion before us was referred to by the parties and the court as a motion for
+temporary restraining order. This terminology is to be distinguished from interlocutory orders such
+as those granting or denying preliminary injunctions which are appeal-able. 28 U.S.C.A. § 1292(a)
+(1); Deckert v. Independent Share Corp., 1941, 311 U.S. 282, 61 S.Ct. 229, 85 L.Ed.2d 189; Stell v.
+Savannah-Chatham County Board of Education, 5 Cir., 1963, 318 F.2d 425. And while a temporary
+restraining order as such is not appealable, there is respectable authority for the proposition that
+the appealability of an order does not necessarily depend upon the terminology used by the parties
+or the court, but upon the substance of the proceeding below. Western Union Telegraph Co. v. United
+States & Mexican Trust Company, 8 Cir., 1915, 221 F. 545, 553; Connell v. Dulien Steel Products, 5
+Cir., 1957, 240 F.2d 414, 418, (rule recognized but not applied). It is urged that the substance of
+the proceedings below was to deny a preliminary injunction and not merely to deny a temporary
+restraining order. It is true that a temporary restraining order is generally issued ex parte or
+after a hearing of a summary character. Connell v. Dulien Steel Products, supra; 7 Moore, Federal
+Practice, pp. 1642-1643; 3 Federal Practice and Procedure, Barron and Holtzoff, Wright Ed., § 1432.
+There are two practical reasons for not allowing an appeal from such an order. Under Rule 65(b),
+F.R.Civ.P., such an order expires not later than twenty days after issuance during which time an
+appeal is not normally feasible; and the trial judge has not normally had the advantage of a hearing
+on the facts and the applicable law. Orderly procedure requires that the trial judge be permitted to
+pass on the question presented before his decision is reviewed by a higher court. Con-nell v. Dulien
+Steel Products, supra; Pan American World Airlines v. Flight Engineers International Association, 2
+Cir., 1962, 306 F.2d 840, 842-843; and see 3 Federal Practice and Procedure, supra, § 1440. As
+Professor Wright noted in § 1432, where the opposing party has notice of the application for a
+temporary restraining order, “ * * * such order does not differ functionally from a preliminary
+injunction, * *” In the Dulien Steel Products case the order was issued on the day the complaint was
+filed and after only a summary hearing. Here the District Court held a full scale hearing on the
+third day after the filing of the complaint. Five witnesses for appellants and three for appellees
+testified, and the court heard argument of counsel before denying the request for the temporary
+restraining order. It was in substance and result a hearing on and the denial of a preliminary
+injunction, and we treat the order as such and hence as appealable under 28 U.S.C.A. § 1291. Another
+valid ground of appealability of the order is the fact that the result of the denial of the relief
+sought by appellants was to immediately send them to trial in the state court. Thus their
+substantial rights, the nature of which will be discussed hereinafter, were determined in a manner
+that would have rendered their federal cause of action moot, and the denial of the relief sought may
+be equated with a pro tanto dismissal of the complaint. This is the rationale of United States v.
+Wood, 5 Cir., 1961, 295 F.2d 772, 778, certiorari denied, 369 U.S. 850, 82 S.Ct. 938, 8 L.Ed.2d 9;
+and Woods v. Wright, 5 Cir., 1964, 334 F.2d 369, 372-374. See also Cohen v. Beneficial Industrial
+Loan Corp., 1949, 337 U. S. 541, 69 S.Ct. 1221, 93 L.Ed. 1528, where the Supreme Court approved a
+practical construction of § 1291. II. The next questions to be determined go to the merits. Does
+Title II of the Civil Rights Act of 1964, the public accommodations section of the Act, constitute
+the requisite express authorization for a federal court to enjoin the prosecution in a state court
+of conduct limited to claiming rights under the Act? Title II consists of §§ 201 through 207. The
+right which appellants were attempting to secure arose under § 201(a) of the Act: “All persons shall
+be entitled to the full and equal enjoyment of the goods, services, facilities, privileges,
+advantages, and accommodations of' any place of public accommodation, as defined in this section,
+without discrimination or segregation on the ground of race, color, religion, or national origin.”
+Section 201(b) (2) includes restaurants. § 203(c) provides: “No person shall * * * punish or attempt
+to punish any person for exercising or attempting to exercise any right or privilege secured by
+section 201 * * Section 204(a) provides: “Whenever any person has engaged * * * in any act or
+practice prohibited by Section 203, a civil action for preventive relief, including an application
+for a permanent or temporary injunction, restraining order, or other order, may be instituted by the
+person aggrieved * * Section 207(a) vests jurisdiction of such actions in the District Courts of the
+United States. However, before going further, we must dispose of the contention of appellees that
+the Civil Rights Act would not serve to avoid the state prosecutions for the reason that the
+prosecutions were unrelated to the rights being claimed under the Act. This argument proceeds on the
+theory that the assertion or claim of accommodation rights by appellants had ended upon the refusal
+of the waitress to serve them, and that it was their duty then to enforce their rights in court and
+not through the medium of self-help by remaining in the restaurant. This precise contention was
+disposed of by the Supreme Court in Hamm v. City of Rock Hill, 1964, 379 U.S. 306, 85 S.Ct. 384, 13
+L.Ed.2d 300, a case decided subsequent to the entry of the order in the instant case, where the
+Supreme Court stated that “ * * * non-forcible attempts to gain admittance to or to remain in
+establishments covered by the Act, are immunized from prosecution, * * *.” We come then to the
+question of whether the Act constitutes express authorization for the injunctive relief. We begin
+with the proposition that § 2283 does not require that an exception to it refer specifically to §
+2283. Amalgamated Clothing Workers v. Richmond Brothers, 1955, 348 U.S. 511, 75 S.Ct. 452, 99 L.Ed.
+600. Nor do we believe that the language of the authorizing statute need refer to the subject matter
+of federal stays of state court proceedings. By way of analogy, in Beal v. Waltz, 5 Cir., 1962, 309
+F.2d 721, we followed the Supreme Court decision of Providence & New York Steamship Company v. Hill
+Manufacturing Company, 1883, 109 U.S. 528, 3 S.Ct. 379, 27 L.Ed. 1038, in construing 46 U.S.C.A. §
+185 as authorizing a federal court to enjoin state court proceedings. That section, having to do
+with petitions to the .federal District Courts for limitation of liability in admiralty proceedings,
+provides simply that upon compliance with the requirements of the section “ * * * all claims and
+proceedings against the [vessel] owner * * * shall cease.” We there gave effect to the stay of a
+state court civil proceeding. The statutory purpose sought to be achieved under the limitation of
+liability statute required no less. Of course the express authorization required by § 2283 must
+clearly appear but we are of the opinion that § 203(c) of the Act meets the test. We begin with the
+fact that §§ 201 (a-e) and 203-207 of Title II of the Act have been held constitutional. Heart of
+Atlanta Motel, Inc. v. United States, 1964, 379 U.S. 241, 85 S.Ct. 348, 13 L.Ed.2d 258; Katzen-bach
+v. McClung, 1964, 379 U.S. 294, 85 S.Ct. 377, 13 L.Ed. 290. Section 201(a) provides the right
+claimed in the restaurant. Section 203(c) provides the right to be free from punishment for claiming
+the § 201(a) right. Section 204(a) provides for the injunction. As heretofore noted, the Act was
+specifically applied to abate state court prosecutions of the type here involved. Hamm v. City of
+Rock Hill, supra. The right to public accommodations on a non-discriminatory basis is a federal
+right the claim to which, Congress has said, shall not be the subject matter of punishment. There is
+nothing in this express interdiction which could be construed as meaning that appellants may be
+punished by prosecution in a state trial court so long as they may later vindicate their right not
+to be punished in a state appellate court or in the United States Supreme Court. They may simply not
+be punished and prosecution is punishment. The federal court may take jurisdiction where punishment
+by way of prosecution is attempted, if the sit-ins were peaceable or nonforcible and in a restaurant
+covered by the Act. § 207(a). Appellants for purposes of the hearing below met these conditions.
+Thus it is that we hold these provisions of the Civil Rights Act to constitute express authorization
+within the meaning of § 2283 for a federal District Court to stay state courts prosecutions when the
+injunction ■would be otherwise appropriate. This gives effect to the federal right, which we read
+the Act as conferring, of not being prosecuted in the first instance for claiming rights under the
+Act. III. The sole remaining reason given by appellees as to why the District Court was correct in
+not having granted the temporary restraining order is based on the general rule of non-interference
+by federal courts with state criminal proceedings as enunciated in Douglas v. City of Jeannette,
+supra. That decision rests on the principle of comity between state and federal courts in view of
+the dictates of federalism, and the fact that rights would not otherwise be lost because the federal
+right involved in the state court proceeding may be ultimately reviewed by the Supreme Court.
+However, as was noted in Fay v. Noia, 1963, 372 U.S. 391, 425, 83 S.Ct. 822, 9 L.Ed.2d 837, 861, and
+in United States v. Wood, supra, 295 F.2d at p. 779, the policy against interference with state
+criminal proceedings is simply a rule of comity, not of statutory derivation and it is “ * * * not a
+rule distributing power as between the state and federal courts * * Fay v. Noia, supra. It is a rule
+to which there may be exceptions based on genuine and irretrievable damage. See Denton v. City of
+Carrollton, Georgia, 5 Cir., 1956, 235 F.2d 481. Morrison v. Davis, 5 Cir., 1958, 252 F.2d 102,
+cert. den., 356 U.S. 968, 78 S.Ct. 1008, 2 L.Ed.2d 1075, treated threatened prosecutions for
+claiming civil rights as being in this category of damage. It is also a rule that may be abrogated
+by the Congress, and we hold that it was abrogated by the enactment of Title II of the 1964 Civil
+Rights Act. Section 207(a) of the Act provides: This provision, together with §§ 203(c) and 204(a),
+plainly abrogates the comity rule with respect to injunctions against state proceedings brought to
+punish those who peaceably assert their rights under Title II. “The district courts of the United
+States shall have jurisdiction of proceedings instituted pursuant to this subchapter ' and shall
+exercise the same without regard to whether the aggrieved party shall have exhausted any
+administrative or other remedies that may be provided by law.” Neither Poole v. Barnett, 5 Cir.,
+1964, 336 F.2d 267, or Baines v. City of Danville, 4 Cir., 1964, 337 F.2d 579, is contrary to the
+conclusions we have reached. The Poole case did not involve unlawful action on the part of the state
+officers under the federal law as it existed at that time, the opposite of the case here. Baines
+involved 42 U.S.C.A. § 1983, a part of the Civil Rights Act of 1871, which merely confers a broad
+and general grant of equity jurisdiction. That Act, unlike § 203(c) of the 1964 Act, created no
+right of the type here involved, the right to be free from punishment for peacefully claiming the
+right to equal public accommodation, the existence of which right is no longer open to conjecture.
+Hamm v. City of Rock Hill, supra. We hold then that neither § 2283 nor any rule of comity were
+impediments to the grant of the injunctive relief sought.® The legal standard thus applied by the
+District Court having been incorrect, the order denying the relief sought must be vacated so that
+the matter may be reconsidered by the District Court. Judgment vacated; case remanded for further
+proceedings not inconsistent herewith.
 
 

@@ -1,142 +1,225 @@
 **gold_text:**
-The amendment to Rule 25(a) (1) was intended to dispel unwarranted rigidity and allow more
-flexibility in substitution. “It was intended that liberal effect be given to the 1963 amendment.”
-Roscoe v. Roscoe, 126 U.S.App.D.C. 317, 322, 379 F.2d 94, 99 (1967). “[T]he 90 day period was not
-intended to act as a bar to otherwise meritorious actions.” Staggers v. Otto Gerdau Co., 359 F.2d
-292, 296 (2d Cir. 1966).
+In sum, the district court erred in concluding that the entirety of the Website was substantially
+likely to cause prejudice. Accordingly, the court’s determination that the entire Website
+“demonstrate^] a substantial likelihood of impacting the jury venire,” is overbroad and clearly
+erroneous. See Canal Ins. Co. v. Thornton, 279 F.2d 41, 43 (5th Cir.1960) (concluding that a
+district court’s determination was clearly erroneous when “there was no basis [in] the record” to
+support its finding); cf. Batchelor v. Cain, 682 F.3d 400, 413 (5th Cir.2012) (concluding that the
+state appellate court made an erroneous factual determination that a habeas petitioner waived his
+request to represent himself when “the record admitted] of no basis” to support the finding). As a
+result, we must vacate the portion of the order requiring the “takedown” of the Website.
 
 **Generations:**
 
 
 ***GPT-4o:***
-This stringent interpretation contrasts sharply with the intent of the 1963 amendments to Rule 25
-and Rule 6(b), which aimed to inject flexibility and fairness into the substitution process. As
-noted in 379 F.2d 94 and 359 F.2d 292, the amendments were designed to eliminate the inequities and
-hardships caused by the rigid two-year limitation originally imposed. The Advisory Committee
-emphasized that the revised rules were to be liberally construed to allow courts discretion in
-extending the substitution period, recognizing the difficulties that could arise in promptly
-identifying and notifying the proper representative of the deceased.   Given this context, the
-defendant’s counsel's suggestion of death, which lacked identification of a proper representative,
-failed to initiate the 90-day countdown. This interpretation aligns with the judicial precedent that
-courts should prioritize the equitable administration of justice over strict procedural formalities.
-Thus, the district court erred in dismissing the plaintiffs' action without granting the requested
-extension, especially considering the circumstances that inhibited timely substitution, such as the
-injury to plaintiffs' counsel and the ongoing legal processes in the probate court.  We, therefore,
-reverse the judgment and remand for further proceedings consistent with this opinion, ensuring that
-the substitution process adheres to the flexible and just principles intended by the amendments to
-the Federal Rules of Civil Procedure.
+We find this lack of narrow tailoring problematic, particularly in light of precedent addressing
+similar scenarios. In McKaskle, the Court emphasized the necessity of limiting restrictions to avoid
+overreach — echoing the scenario here where the removal of the entire Website, rather than specific
+prejudicial content, overreaches. See 682 F.3d 400.  Moreover, our reasoning aligns with the
+principles established in Salts v. Epps, where an unreasonable determination of the facts similarly
+warranted reversal. The record here, akin to Salts, is inadequate to substantiate the wholesale
+restraint imposed on the Officers’ Website. The district court's actions, therefore, represent an
+unreasonable determination of facts under 28 U.S.C. § 2254(d)(2). It underscores the importance of
+clear, evidence-based justifications for such extensive restrictions.  Given these considerations,
+we can conclude that the order, as it pertains to the removal of the entire Website, must be
+vacated. The district court is instructed to reevaluate the necessity and scope of the restraint and
+ensure that any restrictions are narrowly tailored to address specific prejudicial content without
+infringing excessively on the Officers' First Amendment rights.  Therefore, we VACATE the district
+court’s order mandating the removal of the Website in its entirety and REMAND for further
+proceedings consistent with this opinion.
 
 
 **Label:** 
 
 
 ***Meta-Llama-3-8B-Instruct:***
-  In the context of Rule 25(a) (1) of the Federal Rules of Civil Procedure, the suggestion of death
-is a crucial step in the process of substituting a deceased party with a proper representative.
-However, not all suggestions of death are created equal. In cases where the suggestion of death is
-made by a party's attorney, but fails to identify a successor or representative of the deceased, the
-90-day period for substitution may not be triggered.  As noted in 359 F.2d 292, the Advisory
-Committee on Civil Rules intended to provide a more flexible standard for substitution, allowing for
-extensions of time and dispensing with the rigid two-year period previously in place. However, this
-flexibility is contingent upon the suggestion of death providing sufficient information to permit
-the court to proceed with substitution.  In the present case, the suggestion of death made by the
-defendant's attorney was deficient in that it failed to identify a successor or representative of
-the deceased. This lack of specificity rendered the suggestion ineffective in triggering the 90-day
-period for substitution, as explained in 379 F.2d 94.  Furthermore, the court's discretion to
-enlarge the time period for substitution, as provided by Rule 6(b), is not a blank check. Rather, it
-is intended to be exercised in a judicious and reasonable manner, taking into account the particular
-circumstances of each case.  In light of these principles, we conclude that the district court erred
-in dismissing the action with prejudice. The case should be remanded for further proceedings,
-allowing the parties to properly substitute a representative of the deceased and continue the action
-in a manner consistent with the Federal Rules of Civil Procedure.
+**  The case at hand is a complex one, involving a protection order issued by the district court to
+limit communication between the parties and the media. The order also required the removal of a
+website operated by the officers, which contained information and recordings that the court deemed
+to be prejudicial to the trial.  In reviewing the order, we must consider the prior restraint
+doctrine, which requires that the record establish a clear and present danger of prejudice
+sufficient to justify the restriction. As the court in Brown v. United States, 218 F.3d 415 (5th
+Cir. 2000), held, a prior restraint on speech is presumed to be unconstitutional, and the party
+seeking to impose the restraint must demonstrate a substantial likelihood of prejudice.  Here, the
+court's order was based on the testimony of the parties, which suggested that they had made extra-
+judicial comments to the media and on the website. However, as the court in Faretta v. California,
+422 U.S. 806 (1975), held, the mere fact that a party has made extra-judicial statements does not
+necessarily establish a nexus between the statements and the potential for prejudice to the jury
+venire.  Furthermore, the court's order was not narrowly tailored to excise only those portions of
+the website that were likely to cause prejudice. Instead, it required the removal of the entire
+website, which is a broad and overbroad restriction on speech.  In conclusion, while the court's
+concern about prejudice to the trial is understandable, the order issued is not a narrowly tailored
+solution to that problem. In the absence of a clear and present danger of prejudice, the court's
+order is an unreasonable determination of the facts and is therefore unconstitutional. The judgment
+is reversed, and the case is remanded for further proceedings.
 
 
 **Label:** 
 
 
-**citations:** ['379 F.2d 94', '359 F.2d 292']
+**citations:** ['279 F.2d 41', '682 F.3d 400']
 
-***short_citations_0:*** 379 F.2d 94
+***short_citations_0:*** 279 F.2d 41
 
-the proper parties. * * * Unless the motion for substitution is made not later than 90 days after the death is suggested upon the record by service of a statement of the fact of the death as provided herein for the service of the motion, the action shall be dismissed as to the deceased party.” Here not only had the 90-day period not expired when the court entered summary judgment, the appellant by her motion for reconsideration had specifically invoked the discretion of the court. Rule 6(b) provides pertinently that when “by these rules * * * an act is required or allowed to be done at or within a specified time, the court for cause shown may at any time in its discretion (1) with or without motion or notice order the period enlarged if request therefor is made before the expiration of the period originally prescribed * * Originally the Rule had precluded an extension of time for taking action under Rule 25(a) (1), but by purposeful amendment, it was sought to relieve against the hardship of the Court’s holding in Anderson v. Yungkau, 329 U.S. 482, 67 S.Ct. 428, 91 L.Ed. 436 (1947). It was intended that liberal effect be given to the 1963 amendment. Graham v. Pennsylvania Railroad, 119 U.S.App.D.C. 335, 342 F.2d 914 (1964), cert. denied, 381 U.S. 904, 85 S.Ct. 1446, 14 L.Ed.2d 286 (1965). We are constrained to reverse for further proceedings not inconsistent with this opinion. Reversed. The only “party” then
+based on such admitted state of facts, cannot stand. The judgment is reversed and is here rendered for appellant.
 
-***short_citations_1:*** 359 F.2d 292
+***short_citations_1:*** 682 F.3d 400
 
-insertion of a “reasonable time” standard. In 1963, the Advisory Committee suggested the present rule and noted: “Present Rule 25(a) (1), together with present Rule 6(b), results in an inflexible requirement that an action be dismissed as to a deceased party if substitution is not carried out within a fixed period measured from the time of the death. The hardships and inequities of this unyielding requirement plainly appear from the cases. * * * The amended rulé establishes a time limit for the motion to substitute based not upon the time of the death, but rather upon the time information of the death is provided by means of a suggestion of death upon the record, i. e. service of a statement of the fact of the death.” See Notes of Advisory Committee on the Civil Rules, 28 U.S.C. Rule 25 (1964). Rule 6(b) of the Federal Rules of Civil Procedure was also amended in 1963 and the prohibition against extending the time for taking action under Rule 25 was eliminated. The Advisory Committee on the Civil Rules noted: “It is intended that the court shall have discretion to enlarge that period.” The amendments of Rules 6(b) and 25(a) (1) provided needed flexibility. It was assumed that discretionary extensions would be liberally granted. Movants under Rule 25 can ordinarily control when a death is “suggested upon the record” and appellants’ attorney was under no obligation to file his affidavit of Staggers’ death on the date he did. He could have filed
+unreasonable determination of the facts. See 28 U.S.C. § 2254(d)(2); see also Salts v. Epps, 676 F.3d 468, 2012 WL 1034026, at *6 (5th Cir. Mar. 29, 2012) (holding that determination by “state appeals court ... that the [defendants] had waived their right to conflict-free representation ... was an unreasonable determination of fact” under § 2254(d)(2) where the state court record was “devoid of documentation or evidence of th[e] purported waiver”). IV. In sum, we conclude that the trial court violated Batchelor’s Sixth Amendment right to represent himself by erroneously denying a clear and unequivocal assertion of that right. See 28 U.S.C. § 2254(a). We further conclude that Batchelor has demonstrated by clear and convincing evidence that the state appellate court’s implicit finding that he waived his Faretta request was erroneous, see id. § 2254(e)(1), and that the state appellate court’s denial of Batchelor’s claim on direct appeal resulted from an unreasonable determination of the facts in light of the evidence in the state court record, see id. § 2254(d)(2). Therefore, § 2254(d) does not bar issuance of the writ. Accordingly, we AFFIRM the district court’s grant of habeas relief. . McKaskle addressed the issue of “what role standby counsel who is present at trial over the defendant's objection may play consistent with the protection of the defendant’s Faretta rights.” 465 U.S. at 169, 104 S.Ct. 944. However, the "limits on the extent of standby counsel’s unsolicited participation” set forth in McKaskle, see id. at 177-82, 104 S.Ct. 944, are
 
 **prev_text:**
-LEVENTHAL, Circuit Judge: The District Court held that Rule 25(a) (1) of the Federal Rules of Civil
-Procedure required dismissal of the plaintiffs’ tort action because defendant’s counsel had filed a
-suggestion of death of the defendant yet plaintiff had not made any substitution of parties within
-90 days. We reverse on the ground that the suggestion of death, which was neither filed by nor
-identified a successor or representative of the deceased, such as an executor or administrator, was
-ineffective to trigger the running of the 90-day period provided by the Rule. Mr. and Mrs. John
-Rende filed an action in the District Court individually and on behalf of their infant son who had
-been struck and injured by Alfred S. Kay while driving his car. On August 27, 1967, defendant Kay
-died. On September 1, 1967, the defendant’s attorney, a term used here to identify the lawyer who
-had been retained by deceased to defend the action, and who had duly entered an appearance as
-attorney for defendant, filed a suggestion of death in the District Court, giving notice to
-plaintiffs’ attorney. That same day there was filed in the Orphans Court for Montgomery County,
-Maryland, residence of the deceased, his will naming his widow as executrix, but the will had not
-been probated, nor any legal representative appointed for the estate at the time of the filing of
-this appeal. Plaintiffs’ attorney was injured on October 14, 1967. On returning to practice early in
-1968, he learned that no successor to defendant Kay had yet been appointed, and he moved to certify
-the case to the ready calendar. The defendant’s attorney opposed this on grounds that discovery
-procedures had not been completed. The case was delayed and placed on the ready calendar as of June
-7, 1968. However, in April 1968, the defendant’s attorney moved in his own name to dismiss the
-action on the ground that Rule 25(a) (1) required plaintiffs to move to substitute a proper party
-for the deceased within 90 days of the suggestion of death. Plaintiffs filed an opposition and
-motion for substitution of the proper party, and sought an extension of the time for substitution as
-allowed by Rule 6(b). At argument, plaintiffs’ counsel asserted the “suggestion of death was
-defective in that it did not list the name of the proper party; that is the legal representative of
-the defendant.” The court responded: “That would not be his burden.” The court dismissed the action
-with prejudice. Prior to its amendment in 1963, Rule 25(a) (1) required the court to dismiss a case
-if no motion for substitution was filed within two. years after date of death, and no extensions of
-this period were allowed under Rule 6(b). The rule was rigorously applied, often with harsh results,
-and was called “easily the poorest rule of all the Federal Rules.” In 1955 the Advisory Committee on
-Rules for Civil Procedure recommended that the two-year period be changed to a “reasonable time”
-standard. In 1961 the Advisory Committee on Civil Rules again suggested the Rule be made more
-flexible. In 1963 the Supreme Court made changes in Rule 25(a) (1) and in Rule 6(b) so as to provide
-a 90-day time limit from the filing of a suggestion of death, and to give the court discretion to
-extend that time. The Committee Notes explaining the amendments state: Present Rule 25(a) (1),
-together with present Rule 6(b), results in an inflexible requirement that an action be dismissed as
-to a deceased party if substitution is not carried out within a fixed period measured from the time
-of death. The hardships and inequities of this unyielding requirement plainly appear from the cases.
-* * * The amended rule establishes a time limit for the motion to substitute based not upon the time
-of the death, but rather upon the time information of the death is provided by means of a suggestion
-of death upon the record. * * * A motion to substitute may be made by any party or by the
-representative of the deceased party without awaiting the suggestion of death. Indeed, the motion
-will usually be so made. If a party or the representative of the deceased party desires to limit the
-time within which another may make the motion, he may do so by suggesting the death upon the record.
-(Emphasis added.) Under the amended Rule either a party or “the successors or representatives of the
-deceased party” may avoid delay in effecting substitution for the deceased party either by filing a
-motion for substitution or by suggesting death on the record and thus triggering the 90-day period
-which begins with suggestion of death. The Advisory Committee, in outlining that suggestion of death
-could be made by “the representative of the deceased party” plainly contemplated that the suggestion
-emanating from the side of the deceased would identify a representative of the estate, such as an
-executor or administrator, who could be substituted for the deceased as a party, with the action
-continued in the name of the representative. The addition of “successor” in the Rule would take care
-of the case of, say, the distributee of an estate that had been distributed, but would not make a
-material difference in the aspect under consideration. Form 30, for suggestion of death, which was
-provided in order to expedite and facilitate implementation of the amendment, provides: A.B.
-[described as a party, or as executor, administrator, or other representative or successor of C.D.,
-the deceased party\ suggests upon the record, pursuant to Rule 25(a) (1), the death of C.D.
-[describe as party] during the pendency of this action. Added Jan. 21, 1963, eff. July 1, 1963.
-[Emphasis added.] Although the attorney for the defendant was retained to “represent” the deceased
-as his counsel, he is not a person who could be made a party, and is not a “representative of the
-deceased party” in the sense contemplated by Rule 25(a) d). In our opinion the Rule, as amended,
-cannot fairly be construed, as the de fendant’s attorney argues, to make his suggestion of death
-operative to trigger the 90-day period even though he was neither a successor nor representative of
-the deceased, and gave no indication of what person was available to be named in substitution as a
-representative of the deceased. Counsel’s construction would open the door to a tactical maneuver to
-place upon the plaintiff the burden of locating the representative of the estate within 90 days. We
-can conceive of cases wherein even the lawyer retained to represent a defendant might know the
-defendant had died, yet not readily know where his estate would be administered. In the present
-case, plaintiff’s attorney did know the court of probate, but he did not know whether probate of the
-will might be contested, or who would be appointed representative of the estate. The tactic of the
-defendant’s attorney would place on plaintiff the burden, where no conventional representative was
-appointed for the estate in probate court, of instituting machinery in order to produce some
-representative of the estate ad litem, pending appointment of the representative contemplated by law
-of the domicile of the deceased.
+HAYNES, Circuit Judge: Several current and former officers in the Lafayette Police Department
+(“Officers”) appeal the district court’s grant of a protective order requiring, among other things,
+that a particular website they operate be “taken down” in its entirety, which was issued at the
+request of Appellees, officials and entities within the City of Lafayette Police Department
+(collectively, “Lafayette PD Defendants”). We VACATE in part and REMAND for further proceedings. I.
+Jurisdiction A prior motions panel of this court denied the Lafayette PD Defendants’ motion to
+dismiss this interlocutory appeal for want of jurisdiction. Although the Lafayette PD Defendants do
+not renew their jurisdictional arguments in their merits brief, we may consider whether we have
+appellate jurisdiction sua sponte at any time. See Save the Bay, Inc. v. U.S. Army, 639 F.2d 1100,
+1102 (5th Cir.1981) (“Because we may not proceed without requisite jurisdiction, it is incumbent
+upon federal courts trial and appellate to constantly examine the basis of jurisdiction, doing so on
+our own motion if necessary.” (emphasis added)). We agree with the motions panel, concluding that we
+have jurisdiction pursuant to the collateral order doctrine, which provides appellate jurisdiction
+to review “a small set of prejudgment orders ... [1] that are conclusive, [2] that resolve important
+questions separate from the merits, and [3] that are effectively unreviewable on appeal from the
+final judgment in the underlying action.” Mohawk Indus., Inc. v. Carpenter, 558 U.S. 100, 103-06,
+130 S.Ct. 599, 175 L.Ed.2d 458 (2009) (citation and internal quotation marks omitted). We have
+repeatedly found the doctrine applies in cases in which pre-trial orders arguably infringe on First
+Amendment rights. See In re Hearst Newspapers, L.L.C., 641 F.3d 168, 174 (5th Cir.2011); Davis v. E.
+Baton Rouge Parish Sch. Bd., 78 F.3d 920, 926 (5th Cir.1996). In United States v. Brown, 218 F.3d
+415, 420-21 (5th Cir.2000), we concluded that we had jurisdiction to consider a criminal defendant’s
+pre-trial appeal of a gag order imposed by the district court on litigants in the case. We similarly
+conclude that we have appellate jurisdiction over the Officers’ challenge here. II. Facts and
+Background The Officers sued under 42 U.S.C. §§ 1983, 1988, alleging, inter alia, that the Lafayette
+PD Defendants imposed a “code of silence” to prevent police officers from reporting certain civil
+rights abuses and corruption within the Lafayette Police Department and that the Lafayette PD
+Defendants retaliated against them for objecting to these practices. Relevant here, the Officers
+communicated with the media concerning the case and maintained a website, www.realcopsvcraft.com
+(the “Website”), which contained: an image of the Lafayette Police Chief, a party in this suit;
+excerpts of critical statements made in the media concerning the Lafayette PD Defen dants; certain
+voice recordings of conversations between the Officers and members of the Lafayette Police
+Department; and other accounts of the Lafayette PD Defendants’ alleged failings. The Officers’
+attorneys eventually transferred ownership of the website to one of the Officers. In response to
+this publicity, the Lafayette PD Defendants sought a protective order seeking certain limits on
+communications with the media and removal of the Website. At the conclusion of the two-day hearing,
+the magistrate judge orally granted the Lafayette PD Defendants’ request to limit the trial
+participants’ communication with the media and public. The magistrate judge then entered a written
+order accompanied by a memorandum ruling. The magistrate judge opined from the bench that “[t]he
+[Wjebsite ... is patently offensive on its face as a means of producing information rather than
+being an objective source of information supposedly created for the protection of the litigants.” In
+the subsequent written order, the magistrate judge ordered that the parties’ and their attorneys’
+contact and communication with and through the media shall be limited to (a) information contained
+in the public record; (b) identification of parties and claims/defenses asserted in this matter; (c)
+the scheduling or result of any step in this litigation; (d) references that investigation(s) is in
+progress, without disclosure of investigation details; (e) requests for assistance in obtaining
+evidence or information; (f) warnings of danger concerning the behavior of persons who are parties
+in this case when there is reason to believe, based on a reasonable factual inquiry, that there
+exists a likelihood of substantial harm to an individual or the public interest. The magistrate
+judge “further ordered that the website www.realcopsvcraft.com shall be closed and removed
+immediately, ceasing all operations and publication, and that the recordings shall not be publicly
+disclosed outside the confines of this case and any other pending legal proceeding, absent leave of
+court.” The restrictions on communications with the media were expressly modeled on Louisiana Rule
+of Professional Conduct 3.6 and the language approved in Brown, 218 F.3d at 429-31, and Levine v.
+U.S. District Court, 764 F.2d 590, 598-99 (9th Cir.1985). The magistrate judge also “order[ed] the
+[Wjebsite be taken down” because it “not only con-tainted] comments and information that would
+violate [Louisiana Rule of Professional Conduct] 4.4, it is and has been used as a vehicle by which
+to disseminate inappropriate information to the media and the public.” The primary rationale for the
+order was to allow for a fair trial by avoiding a taint on the prospective jury pool. Over
+objection, the district court adopted the magistrate judge’s order, and this appeal followed. III.
+Standard of Review We review a district court’s grant of a protective order for abuse of discretion.
+Leatherman v. Tarrant Cnty. Narcotics Intelligence & Coordination Unit, 28 F.3d 1388, 1394 (5th
+Cir.1994). The district court’s legal conclusions should be reviewed de novo, and its factual
+findings should not be disturbed unless they are clearly erroneous. See United States v. Aldawsari,
+683 F.3d 660, 664 (5th Cir.2012) (explaining that “[b]ecause [evaluating the validity of a gag
+order] involves constitutional and other legal questions, we review the district court’s orders de
+novo. Specific factual findings of the district court on the issue are, of course, entitled to
+review under the clearly erroneous standard.” (citations and internal quotation marks omitted)).
+Importantly, however, “in eases raising First Amendment issues ... an appellate court has an
+obligation to ‘make an independent examination of the whole record’ in order to make sure that ‘the
+judgment does not constitute a forbidden intrusion on the field of free expression.’ ” Bose Corp. v.
+Consumers Union of U.S., Inc., 466 U.S. 485, 499, 104 S.Ct. 1949, 80 L.Ed.2d 502 (1984) (quoting
+N.Y. Times Co. v. Sullivan, 376 U.S. 254, 284-86, 84 S.Ct. 710, 11 L.Ed.2d 686 (1964)). IV.
+Discussion When restrictions are sought to be imposed on litigants after litigation is filed, a
+district court must balance a litigant’s First Amendment rights against other important, competing
+considerations. See Brown, 218 F.3d at 424 (“ ‘[Although litigants do not surrender their First
+Amendment rights at the courthouse door, those rights may be subordinated to other interests that
+arise’ in the context of both civil and criminal trials.” (quoting Seattle Times Co. v. Rhinehart,
+467 U.S. 20, 32 n. 18, 104 S.Ct. 2199, 81 L.Ed.2d 17 (1984))). Court orders restricting trial
+participants’ speech are evaluated under the prior restraint doctrine, which requires that the
+record establish that the speech creates a potential for prejudice sufficient to justify the
+restriction. See Brown, 218 F.3d at 424-25. In addition, the restriction must be narrowly tailored
+and employ the least restrictive means of preventing the prejudice. Id. at 425. We note that the
+Officers represent that they are willing to accept the application to them of Louisiana Rules of
+Professional Responsibility 3.6 and 4.4 in this context, although those rules ordinarily would not
+apply to clients who are not lawyers. They object to the terms of the court’s order only as they
+support or apply to the portion of the order mandating that the Website be removed in its entirety.
+Thus, we focus our analysis only on the portion of the order addressing removal of the entire
+Website. We begin by addressing the necessity of deferring to district courts in matters affecting
+the daily functioning of their courts. See, e.g., United States v. Gurney, 558 F.2d 1202, 1209 (5th
+Cir.1977) (“The trial judge is ... granted broad discretion in ordering the daily activities of his
+court.”). In a broader sense, considerable discretion is vested in district, courts in ensuring fair
+trials and avoiding a “circus atmosphere” or “chaos” that can be occasioned by unfettered aggression
+on the part of one or both sides in litigation. See United States v. Harrelson, 713 F.2d 1114, 1117
+(5th Cir.1983) (explaining that district court judges possess “broad discretion, based on the law
+and on [their] common experience,” to ensure a fair and orderly trial). We respect and affirm the
+district court’s central role in this important process of securing a just and dignified trial
+proceeding. We disagree, however, with the Lafayette PD Defendants’ implicit suggestion in their
+briefs (made explicit at oral argument) that the Officers have a complete “either or” choice between
+filing a lawsuit and exercising their First Amendment rights. This area, as the district court
+recognized, demands a nuanced approach to the delicate balance between the necessity of avoiding a
+tainted jury pool and the rights of parties to freely air their views and opinions in the “market
+square” now taking the form of the electronic square known as the Internet. The district court
+faithfully and carefully addressed numerous precedents surrounding the use of “gag orders” and
+applied a careful and nuanced approach in much of the challenged order. When it came to the Website,
+however, the nuanced approach gave way to a more wholesale striking of its entire content — indeed,
+the very website itself. For the reasons set forth below, we conclude that this wholesale striking
+cannot stand in its current form. We analyze this issue under the prior restraint doctrine. Court
+orders aimed at preventing or forbidding speech “are classic examples of prior restraints.”
+Alexander v. United States, 509 U.S. 544, 550, 113 S.Ct. 2766, 125 L.Ed.2d 441 (1993). Indeed, this
+court has recognized that “[d]espite the fact that litigants’ First Amendment freedoms may be
+limited in order to ensure a fair trial, gag orders ... still exhibit the characteristics of prior
+restraints.” Brown, 218 F.3d at 424; see also Levine, 764 F.2d at 595 (holding that a court’s order
+prohibiting trial participants from speaking to the media constituted a prior restraint). The order
+here explicitly restricts the expression of attorneys and parties in this litigation as it relates
+to the media and prevents the Officers from expression in the Website. As a result, the protective
+order qualifies as a prior restraint. Prior restraints “face a well-established presumption against
+their constitutionality.” Brown, 218 F.3d at 424-25 (citing Bernard v. Gulf Oil Co., 619 F.2d 459,
+467 (5th Cir.1980) (en banc) (citations omitted)); see also Org. for a Better Austin v. Keefe, 402
+U.S. 415, 419, 91 S.Ct. 1575, 29 L.Ed.2d 1 (1971) (“Any prior restraint on expression comes ... with
+a ‘heavy presumption’ against its constitutional validity.”). We must therefore balance the First
+Amendment rights of trial participants with our “ ‘affirmative constitutional duty to minimize the
+effects of prejudicial pretrial publicity.’ ” Brown, 218 F.3d at 423 (quoting Gannett Co. v.
+DePasquale, 443 U.S. 368, 378, 99 S.Ct. 2898, 61 L.Ed.2d 608 (1979)); see also Sheppard v. Maxwell,
+384 U.S. 333, 363, 86 S.Ct. 1507, 16 L.Ed.2d 600 (1966) (“The courts must take such steps by rule
+and regulation that will protect their processes from prejudicial outside interferences.”). The
+first step in assessing the constitutionality of a prior restraint requires considering whether the
+harm the court seeks to prevent justifies the restraint on speech. Brown, 218 F.3d at 425. In
+assessing restrictions on speech, courts have required that the record establish different levels of
+harm, including a “clear and present danger,” “substantial likelihood,” or “reasonable likelihood”
+of prejudice. We have not clearly delineated which standard applies to the parties (rather than the
+media) in civil litigation. In Brown, we applied a substantial likelihood of prejudice test to both
+attorneys and parties in the context of a gag order applied in a criminal matter. 218 F.3d at 426
+(noting that the Court in Gentile v. State Bar of Nevada, 501 U.S. 1030, 111 S.Ct. 2720, 115 L.Ed.2d
+888 (1991), “approved [a] ‘substantial likelihood’ standard when applied to gag orders imposed on
+attorneys, but did not mandate it as a constitutional minimum necessary to justify a judicially-
+imposed restriction on attorney speech”). As “[t]he Supreme Court has recognized that conflict
+between freedom of speech and the right to a fair trial is no less troubling in the non-criminal
+context,” we conclude that Brown represents the right balance for this civil case. See Bailey v.
+Sys. Innovation, Inc., 852 F.2d 93, 97 (3d Cir.1988); see also Brown, 218 F.3d at 424 (providing
+that an individual’s First Amendment rights may be limited by a court order “in the context of both
+civil and criminal trials ” (emphasis added)). As in criminal matters, civil cases also require
+avoiding “the potential that pretrial publicity may taint the jury venire, resulting in a jury that
+is biased toward one party or another,” Brown, 218 F.3d at 423, and preventing the “creat[ion] [of]
+“a ‘carnival atmosphere,’ which threatens the integrity of the proceeding.” Id. at 423 n. 8. Thus,
+we apply the Brown standard here. In this case, the testimony during the two-day trial presents
+significant evidence that the trial participants made extra-judicial comments to the media and on
+the Website. For instance, Plaintiff Mar-ceaux testified that he had television interviews with two
+news stations, but he did not provide any newspaper interviews. This testimony, along with the
+testimony of the other seven witnesses, speaks to the trial participants’ propensity to make extra-
+judicial statements. It does not, however, establish a nexus between the comments and the potential
+for prejudice to the jury venire through the entirety of the Website. It is not “narrowly tailored”
+to excising matters with a sufficient potential for prejudice to warrant prior restraint.
 
 

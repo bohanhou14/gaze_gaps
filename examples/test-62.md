@@ -1,142 +1,203 @@
 **gold_text:**
-The amendment to Rule 25(a) (1) was intended to dispel unwarranted rigidity and allow more
-flexibility in substitution. “It was intended that liberal effect be given to the 1963 amendment.”
-Roscoe v. Roscoe, 126 U.S.App.D.C. 317, 322, 379 F.2d 94, 99 (1967). “[T]he 90 day period was not
-intended to act as a bar to otherwise meritorious actions.” Staggers v. Otto Gerdau Co., 359 F.2d
-292, 296 (2d Cir. 1966).
+. Delendanl relics on two opinions, Montilla v. ÍNS, 926 F.2d 162 (2d Cir.1991) ("Montilla") and
+Waldron v. INS, 994 F.2d 71 (2d Cir.1993) ("Waldron I ”), for the proposition that there is no
+requirement that a fundamental error be prejudicial in order for a motion to suppress such as this
+one to succeed. Defendant misapprehends the law in this area. Montilla is inapposite because it
+applies only in the context of a direct appeal Irom a deportation order. Fares, decided after
+Mantilla, clearly established the law in this circuit with regard to collateral attacks such as this
+one and Fares requires a finding of prejudice.
 
 **Generations:**
 
 
 ***GPT-4o:***
-This stringent interpretation contrasts sharply with the intent of the 1963 amendments to Rule 25
-and Rule 6(b), which aimed to inject flexibility and fairness into the substitution process. As
-noted in 379 F.2d 94 and 359 F.2d 292, the amendments were designed to eliminate the inequities and
-hardships caused by the rigid two-year limitation originally imposed. The Advisory Committee
-emphasized that the revised rules were to be liberally construed to allow courts discretion in
-extending the substitution period, recognizing the difficulties that could arise in promptly
-identifying and notifying the proper representative of the deceased.   Given this context, the
-defendant’s counsel's suggestion of death, which lacked identification of a proper representative,
-failed to initiate the 90-day countdown. This interpretation aligns with the judicial precedent that
-courts should prioritize the equitable administration of justice over strict procedural formalities.
-Thus, the district court erred in dismissing the plaintiffs' action without granting the requested
-extension, especially considering the circumstances that inhibited timely substitution, such as the
-injury to plaintiffs' counsel and the ongoing legal processes in the probate court.  We, therefore,
-reverse the judgment and remand for further proceedings consistent with this opinion, ensuring that
-the substitution process adheres to the flexible and just principles intended by the amendments to
-the Federal Rules of Civil Procedure.
+In light of the issues raised in defendant Juan Jimenez’s motion, it is necessary to address the
+pertinent legal precedents regarding the waiver of the right to counsel during deportation
+proceedings.   In Montilla v. INS, the Second Circuit established that an alien claiming the INS
+failed to adhere to its own regulations need not demonstrate prejudice to obtain relief (926 F.2d
+162, 167-69). This standard emphasizes that, as long as the regulations were designed to benefit the
+alien and were not followed, relief is warranted (Id. at 169). However, the distinction between
+Montilla and the current case lies in the nature of the rights and the context examined. Montilla
+dealt with the waiver of the right to counsel, considered a fundamental right under the Sixth
+Amendment and aligned with the Fifth Amendment due process (994 F.2d 71).  Here, although Judge
+Page's coercive remarks during the defendant’s deportation hearing indeed violated due process,
+resulting in the defendant's waiver of counsel and appeal rights as involuntary, subsequent
+examination reveals no prejudice. According to Fares, despite procedural irregularities, the
+requirement for a collateral challenge includes showing that those irregularities resulted in
+fundamental unfairness and possible relief (978 F.2d 52, 57).  Given defendant’s aggravated felony
+convictions, statutory grounds precluded relief from deportation, establishing no fundamental
+unfairness (8 U.S.C. § 1254(a)(2), § 1254(e)). Additionally, the potential for a habeas attack on
+narcotics convictions lacks substantiation in the evidence presented. Consequently, despite the
+procedural shortcomings, the defendant has not demonstrated prejudice that would invalidate the
+previous deportation order. Therefore, the motion to preclude the use of the 1994 deportation order
+is denied.
 
 
 **Label:** 
 
 
 ***Meta-Llama-3-8B-Instruct:***
-  In the context of Rule 25(a) (1) of the Federal Rules of Civil Procedure, the suggestion of death
-is a crucial step in the process of substituting a deceased party with a proper representative.
-However, not all suggestions of death are created equal. In cases where the suggestion of death is
-made by a party's attorney, but fails to identify a successor or representative of the deceased, the
-90-day period for substitution may not be triggered.  As noted in 359 F.2d 292, the Advisory
-Committee on Civil Rules intended to provide a more flexible standard for substitution, allowing for
-extensions of time and dispensing with the rigid two-year period previously in place. However, this
-flexibility is contingent upon the suggestion of death providing sufficient information to permit
-the court to proceed with substitution.  In the present case, the suggestion of death made by the
-defendant's attorney was deficient in that it failed to identify a successor or representative of
-the deceased. This lack of specificity rendered the suggestion ineffective in triggering the 90-day
-period for substitution, as explained in 379 F.2d 94.  Furthermore, the court's discretion to
-enlarge the time period for substitution, as provided by Rule 6(b), is not a blank check. Rather, it
-is intended to be exercised in a judicious and reasonable manner, taking into account the particular
-circumstances of each case.  In light of these principles, we conclude that the district court erred
-in dismissing the action with prejudice. The case should be remanded for further proceedings,
-allowing the parties to properly substitute a representative of the deceased and continue the action
-in a manner consistent with the Federal Rules of Civil Procedure.
+ The case of Sotomayor v. Jimenez presents a complex issue of whether the 1994 deportation order can
+be used as evidence in a subsequent criminal trial for illegal reentry. The defendant, Jimenez,
+argues that the waiver of his right to counsel and appeal was coerced and therefore invalid. The
+court must consider whether the deportation hearing was fundamentally unfair and whether Jimenez was
+prejudiced by the lack of counsel and appeal.  In Montilla v. INS, 926 F.2d 162, the court held that
+an alien is not required to show prejudice before being entitled to relief if the INS failed to
+adhere to its own regulations. The court also emphasized that the right to counsel is a fundamental
+right that must be carefully considered. In this case, the court found that the threat of indefinite
+imprisonment was coercive and therefore invalid.  In Waldron v. INS, 994 F.2d 71, the court held
+that an alien must demonstrate prejudice before being entitled to relief if the INS failed to adhere
+to its own regulations. The court found that the alien's failure to show prejudice was a fatal flaw
+in his argument.  In this case, the court found that the deportation hearing was procedurally
+infirm, but that the errors did not prejudice Jimenez. The court noted that the defendant had failed
+to demonstrate that either counsel or an appeal could have yielded him any possible relief from
+deportation. The court also found that the defendant's argument that counsel might have successfully
+launched a habeas corpus attack on his narcotics convictions was not supported by competent
+evidence.  In conclusion, the court's decision is consistent with the precedent established in
+Montilla and Waldron. The court found that the deportation hearing was procedurally infirm, but that
+the errors did not prejudice Jimenez. The court's decision is also consistent with the doctrine of
+the "presumption of regularity" that attaches to final judgments, even when the question is waiver
+of constitutional rights.
 
 
 **Label:** 
 
 
-**citations:** ['379 F.2d 94', '359 F.2d 292']
+**citations:** ['926 F.2d 162', '994 F.2d 71']
 
-***short_citations_0:*** 379 F.2d 94
+***short_citations_0:*** 926 F.2d 162
 
-the proper parties. * * * Unless the motion for substitution is made not later than 90 days after the death is suggested upon the record by service of a statement of the fact of the death as provided herein for the service of the motion, the action shall be dismissed as to the deceased party.” Here not only had the 90-day period not expired when the court entered summary judgment, the appellant by her motion for reconsideration had specifically invoked the discretion of the court. Rule 6(b) provides pertinently that when “by these rules * * * an act is required or allowed to be done at or within a specified time, the court for cause shown may at any time in its discretion (1) with or without motion or notice order the period enlarged if request therefor is made before the expiration of the period originally prescribed * * Originally the Rule had precluded an extension of time for taking action under Rule 25(a) (1), but by purposeful amendment, it was sought to relieve against the hardship of the Court’s holding in Anderson v. Yungkau, 329 U.S. 482, 67 S.Ct. 428, 91 L.Ed. 436 (1947). It was intended that liberal effect be given to the 1963 amendment. Graham v. Pennsylvania Railroad, 119 U.S.App.D.C. 335, 342 F.2d 914 (1964), cert. denied, 381 U.S. 904, 85 S.Ct. 1446, 14 L.Ed.2d 286 (1965). We are constrained to reverse for further proceedings not inconsistent with this opinion. Reversed. The only “party” then
+to counsel in a deportation hearing is not required to make a showing of prejudice before he is entitled to relief. All that need be shown is that the subject regulations were for the alien’s benefit and that the INS failed to adhere to them. IV Application of Accardi We turn now to application of the Accardi doctrine and the INS regulations to the facts in the instant case. Here the record indicates Montilla was advised of his right to counsel by the immigration judge at the January 25, 1989 hearing, but was never required to state on the record whether or not he desired such representation. Petitioner’s reply to the judge’s question was unresponsive. This was the sole inquiry the judge made regarding whether defendant wanted to have counsel present to represent him at the hearing. We believe petitioner’s response — one that demonstrated complete ignorance on this subject — tellingly reveals his unawareness of the nature of the privilege available to him. The record shows Montilla never faced and decided this question which the regulation required the immigration judge to elicit from him. Hence, the judge failed to comply with 8 C.F.R. § 242.16(a). Nor do we agree with the INS’ conclusion that Montilla waived his right to counsel. It is true that an alien may waive that right in deportation proceedings, and such a waiver will be upheld if voluntarily made. See, e.g., Farrokhi, 900 F.2d at 701-02; Reyes-Palacios v. INS, 836 F.2d 1154, 1155 (9th Cir.1988);
 
-***short_citations_1:*** 359 F.2d 292
+***short_citations_1:*** 994 F.2d 71
 
-insertion of a “reasonable time” standard. In 1963, the Advisory Committee suggested the present rule and noted: “Present Rule 25(a) (1), together with present Rule 6(b), results in an inflexible requirement that an action be dismissed as to a deceased party if substitution is not carried out within a fixed period measured from the time of the death. The hardships and inequities of this unyielding requirement plainly appear from the cases. * * * The amended rulé establishes a time limit for the motion to substitute based not upon the time of the death, but rather upon the time information of the death is provided by means of a suggestion of death upon the record, i. e. service of a statement of the fact of the death.” See Notes of Advisory Committee on the Civil Rules, 28 U.S.C. Rule 25 (1964). Rule 6(b) of the Federal Rules of Civil Procedure was also amended in 1963 and the prohibition against extending the time for taking action under Rule 25 was eliminated. The Advisory Committee on the Civil Rules noted: “It is intended that the court shall have discretion to enlarge that period.” The amendments of Rules 6(b) and 25(a) (1) provided needed flexibility. It was assumed that discretionary extensions would be liberally granted. Movants under Rule 25 can ordinarily control when a death is “suggested upon the record” and appellants’ attorney was under no obligation to file his affidavit of Staggers’ death on the date he did. He could have filed
+to Waldron. Accordingly, we now turn to the underlying merits of Waldron’s claims. II. The Montilla Precedent Next, the INS argues that even if § 242.2(g) and § 3.7 apply to Waldron, and even if the IJ failed to comply with these regulations, Waldron is not entitled to any relief because he is required to demonstrate prejudice from the failure to comply with INS regulations. However, in Montilla v. INS, we rejected the “prejudice” standard set forth in United States v. Calderon-Medina, 591 F.2d 529 (9th Cir.1979), and held that an alien who claims that the INS failed to adhere to its own regulations in a deportation hearing was not required to show prejudice before the alien was entitled to relief. Montilla, 926 F.2d at 167-69. “All that need be shown is that the subject regulations were for the alien’s benefit and that the INS failed to adhere to them.” Id. at 169. Nevertheless, the INS argues that the instant case is distinguishable from Montilla because Montilla dealt with the right to counsel, a fundamental right derived from the sixth amendment right to counsel in criminal cases and the fifth- amendment right to due process in civil cases, and enshrined in § 292 of the Act, 8 U.S.C. § 1362. When a regulation is mandated by the Constitution or federal law, the INS maintains, a court’s duty to enforce the regulation is “most evident.” United States v. Caceres, 440 U.S. 741, 749, 99 S.Ct. 1465, 1470, 59 L.Ed.2d 733 (1979).
 
 **prev_text:**
-LEVENTHAL, Circuit Judge: The District Court held that Rule 25(a) (1) of the Federal Rules of Civil
-Procedure required dismissal of the plaintiffs’ tort action because defendant’s counsel had filed a
-suggestion of death of the defendant yet plaintiff had not made any substitution of parties within
-90 days. We reverse on the ground that the suggestion of death, which was neither filed by nor
-identified a successor or representative of the deceased, such as an executor or administrator, was
-ineffective to trigger the running of the 90-day period provided by the Rule. Mr. and Mrs. John
-Rende filed an action in the District Court individually and on behalf of their infant son who had
-been struck and injured by Alfred S. Kay while driving his car. On August 27, 1967, defendant Kay
-died. On September 1, 1967, the defendant’s attorney, a term used here to identify the lawyer who
-had been retained by deceased to defend the action, and who had duly entered an appearance as
-attorney for defendant, filed a suggestion of death in the District Court, giving notice to
-plaintiffs’ attorney. That same day there was filed in the Orphans Court for Montgomery County,
-Maryland, residence of the deceased, his will naming his widow as executrix, but the will had not
-been probated, nor any legal representative appointed for the estate at the time of the filing of
-this appeal. Plaintiffs’ attorney was injured on October 14, 1967. On returning to practice early in
-1968, he learned that no successor to defendant Kay had yet been appointed, and he moved to certify
-the case to the ready calendar. The defendant’s attorney opposed this on grounds that discovery
-procedures had not been completed. The case was delayed and placed on the ready calendar as of June
-7, 1968. However, in April 1968, the defendant’s attorney moved in his own name to dismiss the
-action on the ground that Rule 25(a) (1) required plaintiffs to move to substitute a proper party
-for the deceased within 90 days of the suggestion of death. Plaintiffs filed an opposition and
-motion for substitution of the proper party, and sought an extension of the time for substitution as
-allowed by Rule 6(b). At argument, plaintiffs’ counsel asserted the “suggestion of death was
-defective in that it did not list the name of the proper party; that is the legal representative of
-the defendant.” The court responded: “That would not be his burden.” The court dismissed the action
-with prejudice. Prior to its amendment in 1963, Rule 25(a) (1) required the court to dismiss a case
-if no motion for substitution was filed within two. years after date of death, and no extensions of
-this period were allowed under Rule 6(b). The rule was rigorously applied, often with harsh results,
-and was called “easily the poorest rule of all the Federal Rules.” In 1955 the Advisory Committee on
-Rules for Civil Procedure recommended that the two-year period be changed to a “reasonable time”
-standard. In 1961 the Advisory Committee on Civil Rules again suggested the Rule be made more
-flexible. In 1963 the Supreme Court made changes in Rule 25(a) (1) and in Rule 6(b) so as to provide
-a 90-day time limit from the filing of a suggestion of death, and to give the court discretion to
-extend that time. The Committee Notes explaining the amendments state: Present Rule 25(a) (1),
-together with present Rule 6(b), results in an inflexible requirement that an action be dismissed as
-to a deceased party if substitution is not carried out within a fixed period measured from the time
-of death. The hardships and inequities of this unyielding requirement plainly appear from the cases.
-* * * The amended rule establishes a time limit for the motion to substitute based not upon the time
-of the death, but rather upon the time information of the death is provided by means of a suggestion
-of death upon the record. * * * A motion to substitute may be made by any party or by the
-representative of the deceased party without awaiting the suggestion of death. Indeed, the motion
-will usually be so made. If a party or the representative of the deceased party desires to limit the
-time within which another may make the motion, he may do so by suggesting the death upon the record.
-(Emphasis added.) Under the amended Rule either a party or “the successors or representatives of the
-deceased party” may avoid delay in effecting substitution for the deceased party either by filing a
-motion for substitution or by suggesting death on the record and thus triggering the 90-day period
-which begins with suggestion of death. The Advisory Committee, in outlining that suggestion of death
-could be made by “the representative of the deceased party” plainly contemplated that the suggestion
-emanating from the side of the deceased would identify a representative of the estate, such as an
-executor or administrator, who could be substituted for the deceased as a party, with the action
-continued in the name of the representative. The addition of “successor” in the Rule would take care
-of the case of, say, the distributee of an estate that had been distributed, but would not make a
-material difference in the aspect under consideration. Form 30, for suggestion of death, which was
-provided in order to expedite and facilitate implementation of the amendment, provides: A.B.
-[described as a party, or as executor, administrator, or other representative or successor of C.D.,
-the deceased party\ suggests upon the record, pursuant to Rule 25(a) (1), the death of C.D.
-[describe as party] during the pendency of this action. Added Jan. 21, 1963, eff. July 1, 1963.
-[Emphasis added.] Although the attorney for the defendant was retained to “represent” the deceased
-as his counsel, he is not a person who could be made a party, and is not a “representative of the
-deceased party” in the sense contemplated by Rule 25(a) d). In our opinion the Rule, as amended,
-cannot fairly be construed, as the de fendant’s attorney argues, to make his suggestion of death
-operative to trigger the 90-day period even though he was neither a successor nor representative of
-the deceased, and gave no indication of what person was available to be named in substitution as a
-representative of the deceased. Counsel’s construction would open the door to a tactical maneuver to
-place upon the plaintiff the burden of locating the representative of the estate within 90 days. We
-can conceive of cases wherein even the lawyer retained to represent a defendant might know the
-defendant had died, yet not readily know where his estate would be administered. In the present
-case, plaintiff’s attorney did know the court of probate, but he did not know whether probate of the
-will might be contested, or who would be appointed representative of the estate. The tactic of the
-defendant’s attorney would place on plaintiff the burden, where no conventional representative was
-appointed for the estate in probate court, of instituting machinery in order to produce some
-representative of the estate ad litem, pending appointment of the representative contemplated by law
-of the domicile of the deceased.
+MEMORANDUM OPINION AND ORDER SOTOMAYOR, District Judge. Defendant Juan Jimenez moves to preclude the
+Government from use of a 1994 deportation order in the Government’s current prosecution of the
+defendant for illegal reentry after having been deported, a violation of 8 U.S.C. § 1326. For the
+reasons discussed below, the defendant’s motion is denied. BACKGROUND The defendant is a citizen of
+the Dominican Republic, who by his own admission entered the United States illegally in October,
+1991. Ex. I to Aff. of Assistant U.S. Attorney Lynn A. Neils (hereinafter, “Neils Aff.”); Ex. Q to
+Neils Aff., Transcript of Deportation Hearing at 11 (hereinafter, “Tr.”). In 1992, defendant was
+twice arrested in New York City, under the name Juan Jimenez, for selling cocaine. On September 15,
+1993, defendant pled guilty to two counts of attempted criminal sale of cocaine in the third degree.
+He received concurrent sentences of six months imprisonment to be followed by four-and-one-half
+years of probation. While incarcerated, defendant was interviewed by the Immigration and
+Naturalization Service (“INS”), and stated that his name was Juan Jimenez and that he had entered
+the U.S. illegally. He was thereafter notified that he was subject to deportation pursuant to the
+Immigration and Naturalization Act (“INA”), for violation of 8 U.S.C. §§ 1251(a)(1)(B) (illegal
+entry), 1251(a)(2)(A)(iii) (conviction of an aggravated felony), and 1251(a)(2)(B)(i) (conviction of
+a drug offense other than personal use possession). After he completed the incarceration portion of
+his sentence (two months having been credited for good behavior), the INS took defendant into
+custody on the three described charges and informed him that he was eligible to be released on a
+$15,000 bond while awaiting the deportation decision. Defendant was unable to post the bond. On
+January 4, 1994, defendant appeared before Immigration Law Judge Alan L. Page to answer the INA
+charges. Judge Page ruled against the defendant and ordered him deported. The defendant was deported
+on January 24, 1994. The defendant was arrested on the instant charge, illegal reentry after having
+been deported, on February 22, 1995. DISCUSSION This motion challenges the adequacy of the
+defendant’s waiver of his right to counsel and to appeal at the deportation hearing. For the reasons
+set forth below, I find that the waivers were tainted by a coercive chill emanating from Judge
+Page’s actions, but I find his errors did not prejudice the defendant. The Supreme Court has
+established the right of an alien to challenge collaterally his indictment for illegal reentry by
+attack upon the underlying deportation order. U.S. v. Mendoza-Lopez, 481 U.S. 828, 838, 107 S.Ct.
+2148, 2155, 95 L.Ed.2d 772 (1987) (“Mendoza-Lopez”) (“where the defects in an administrative
+proceeding foreclose judicial review of that proceeding, an alternative means of obtaining judicial
+review must be made available”); see also U.S. v. Fa,res, 978 F.2d 52, 56 (2d Cir.1992) (same)
+(“Fares”). The Supreme Court has declined to enumerate each of the procedural defects that would per
+se be so corrosive of an alien’s rights as to render the fact of deportation inadmissible in a later
+trial for illegal reentry. U.S. v. Mendoza-Lopez, 481 U.S. at 839 n. 17, 107 S.Ct. at 2155-56 n. 17.
+But it clearly did decide that a waiver of the right to appeal must be “considered” and
+“intelligent” in order for the hearing to pass muster. Id. at 840, 107 S.Ct. at 2156. The right to
+counsel was also implicated in Mendoza-Lopez as it was among the procedural defects the petitioner
+cited. Id. at 831, 107 S.Ct. at 2151. Mendoza-Lopez also contemplated an additional enquiry into
+whether the denial of the fundamental right resulted in prejudice to the defendant. Because
+respondents were deprived of their rights to appeal, and, of any basis to appeal since the only
+relief for which they would have been, eligible ivas not adequately explained to them, the
+deportation proceeding in which these events occurred may not be used to support a criminal
+conviction.... Id. at 842,” 107 S.Ct. at 2157 (emphasis added). Our circuit has explicitly required
+that prejudice must be addressed when a district court reviews, on a collateral challenge, the
+propriety of a deportation hearing. The discussion in Mendoza-Lopez, however, suggests that for a
+collateral challenge to a deportation order to be successful, the alien must not only show that he
+was effectively deprived of his right of direct appeal, but also that the administrative proceedings
+were fundamentally unfair in some respect that would have entitled him to relief on direct
+appeal.... We are persuaded that if an alien has been effectively denied his right of direct appeal
+from the deportation order, we should examine the underlying proceedings to determine whether or not
+he was unfairly prejudiced by those proceedings. If we find no fundamental unfairness, and we
+therefore conclude that a fully informed exercise of the right of direct appeal would have yielded
+the alien no relief from deportation, the deportation order may be used to establish conclusively an
+element of a criminal offense. Fares, 978 F.2d at 57 (citations omitted). I now analyze the motion
+before me in light of this two-step procedure. The facts of defendant’s hearing are troubling. The
+defendant was not represented by counsel. Because he speaks little English, a Spanish language
+interpreter was provided. The exercise of defendant’s right of representation and appeal were, from
+the outset, counterpoised against the defendant’s freedom. After being apprised of his right to
+counsel, defendant stated: “I have no money to pay for the bond.” The transcript then reads as
+follows: JUDGE: Sir, forget about the bond right now. So you ... the government claims that you’re
+paroled for deportation only. Is that true? DEFENDANT: Yes. JUDGE: Do you understand what that
+means, sir? [SILENCE] JUDGE: What it means is the only reason that the State of New York paroled you
+into INS custody was so that you could be deported. JUDGE: Do you understand that? DEFENDANT: Yes.
+JUDGE: You have every right to fight your immigration case. However, if you do that, if you exercise
+that right, then the Immigration Service will make arrangements to have New York State parole pick
+you up, and they will take you back into custody because the only reason they paroled you was to be
+deported. And if your going to fight the deporta,tiort, then they’re gonna, lock you up again and it
+ivill be up to them, hatv much time you’ll have to spend. Tr. at 2-3 (Spanish interpretation
+omitted) (emphasis added). The defendant thereafter replied affirmatively to Judge Page’s request
+for a waiver of counsel. At the end of the hearing, the judge stated: JUDGE: Knowing all those
+factors, sir, do you wish to accept my decision as a final decision, or do you wish to appeal my
+decision to a higher court? DEFENDANT: I just want to leave. No waiver of any right is valid if
+extracted upon an official threat of imprisonment. Courts have long held that judges should “indulge
+every reasonable presumption against waiver of fundamental constitutional rights.” Johnson v.
+Zerbst, 304 U.S. 458, 464, 58 S.Ct. 1019, 1023, 82 L.Ed. 1461 (1938) (citations and internal
+quotation marks omitted). Judge Page’s statement that “if your going to fight the deportation, then
+they’re gonna lock you up again and it will be up to them how much time you’ll have to spend”
+contravenes any reasonable notion of due process. Any reasonable person in the defendant’s position
+at the outset of the hearing would have been placed in terrorem by the threat that any exercise of
+his rights, indeed any contestation of the deportation, would result in imprisonment for an
+indefinite term. The defendant’s response to Judge Page’s question regarding appeal, ie. “I just
+want to leave,” shows the residual effects of the initial colloquy that left open the prospect of
+indefinite incarceration. Even if the defendant had been subject to revocation of his parole and
+reimprisonment, the linking by a judge of indefinite imprisonment to failure to waive a fundamental
+right infects the entire proceeding with a coercive stench. The Government’s recital of various
+documents furnished to the defendant prior to the hearing apprising him of his rights to counsel and
+appeal, and the oral notice given by Judge Page at the hearing, are insufficient to vitiate the
+powerful impact that the threat of continued imprisonment, for an unspecified duration, must have
+had on the defendant. Any waiver extracted thereafter can only be considered void. On this record
+then, clearly the Immigration Law Judge was in error and I find that the defendant did not
+voluntarily waive his right to counsel or to appeal. I now turn to the issue of prejudice. Defendant
+argues that the right to counsel is a fundamental right in which prejudice should be presumed. As
+discussed above, however, the Second Circuit in Fares has made it clear that collateral attacks on
+deportation orders require positive proof of a fundamental unfairness which deprives an alien of
+possible relief from a deportation order. Fares, 978 F.2d at 57. In the instant case, defendant has
+failed to show that either the assistance of counsel or an appeal could have yielded him any
+possible relief from deportation. Only two forms of relief from deportation were generally
+available: suspension of deportation pursuant to 8 U.S.C. § 1254(a)(2), and voluntary departure
+pursuant to 8 U.S.C. § 1254(e). The defendant, because of his narcotics convictions, was statutorily
+ineligible for either, however. Under both provisions, the applicant must demonstrate “good moral
+character.” Pursuant to 8 U.S.C. 1101(f)(3), persons described in 8 U.S.C. 1182(a)(2)(A)(i)(II)
+(“any alien convicted of____ a violation of ... any law or regulation of a State ... relating to a
+controlled substance____”) cannot be considered to be of “good moral character.” Additionally, no
+one convicted of an “aggravated felony” is eligible for voluntary departure. 8 U.S.C. § 1254(e)(2).
+The INA defines “aggravated felony” as, inter alia, “illicit trafficking in a controlled
+substance....” 8 U.S.C. 1101(a)(43). Thus, defendant has failed to demonstrate prejudice in that
+neither counsel nor an appeal would have resulted in relief from deportation. Recognizing his
+infirmity on the prejudice standard, defendant nevertheless argues that counsel might have
+successfully launched a habeas corpus attack on his narcotics convictions, thereby invalidating the
+basis for deportation. But defendant has offered no competent evidence or basis upon which such an
+attack could have been made and I therefore do not consider this mere allegation of a possible
+habeas attack as sufficient to demonstrate prejudice. CONCLUSION For the reasons discussed above, I
+find that although the challenged deportation hearing was procedurally infirm, the errors did not
+prejudice the defendant and thus the deportation order may be presented to the jury as proof of an
+element of the crime charged. The motion to preclude use of the 1994 deportation order at trial is
+therefore DENIED. so Ordered. . Defendanl also moved for a bill of particulars, discovery and
+inspection, and disclosure of Brady, Giglio and impeachment materials. Defendant has not objected to
+the government's response to these requests and I, absent advice by the defendant to the contrary,
+grant this aspect of defendant's motion to the extent of the government response. . In assessing the
+validity collateral attacks on prior convictions when used as elements of subsequent indictments,
+the Supreme Court has enunciated the doctrine of the " 'presumption of regularity' that attaches to
+linal judgments, even when the question is waiver of constitutional rights.” Parke v. Raley, 506
+U.S. 20, 29, 113 S.Ct. 517, 523, 121 L.Ed.2d 391 (1992), reh'g denied, 506 U.S. 1087, 113 S.Ct.
+1068, 122 L.Ed.2d 372 (1993) (citing Johnson v. Zerbsl, 304 U.S. 458, 58 S.Ct. 1019, 82 L.Ed. 1461
+(1938)).
 
 

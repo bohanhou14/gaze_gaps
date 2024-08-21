@@ -1,142 +1,276 @@
 **gold_text:**
-The amendment to Rule 25(a) (1) was intended to dispel unwarranted rigidity and allow more
-flexibility in substitution. “It was intended that liberal effect be given to the 1963 amendment.”
-Roscoe v. Roscoe, 126 U.S.App.D.C. 317, 322, 379 F.2d 94, 99 (1967). “[T]he 90 day period was not
-intended to act as a bar to otherwise meritorious actions.” Staggers v. Otto Gerdau Co., 359 F.2d
-292, 296 (2d Cir. 1966).
+. We review de novo the district court’s grant of a motion to dismiss under Rule 12(b)(6). Glover,
+459 F.3d at 1308. We accept the factual allegations in the complaint as true, construing them in the
+light most favorable to the plaintiff. Id. A formulaic recitation of the elements of a claim is
+insufficient to survive a motion to dismiss. Bell Atl. Corp. v. Twombly, 550 U.S. 544, 555, 127
+S.Ct. 1955, 1965, 167 L.Ed.2d 929 (2007). The complaint survives a motion to dismiss only where the
+factual allegations "plausibly suggest an entitlement to relief." Ashcroft v. Iqbal, 556 U.S. 662,
+681, 129 S.Ct. 1937, 1951, 173 L.Ed.2d 868 (2009).
 
 **Generations:**
 
 
 ***GPT-4o:***
-This stringent interpretation contrasts sharply with the intent of the 1963 amendments to Rule 25
-and Rule 6(b), which aimed to inject flexibility and fairness into the substitution process. As
-noted in 379 F.2d 94 and 359 F.2d 292, the amendments were designed to eliminate the inequities and
-hardships caused by the rigid two-year limitation originally imposed. The Advisory Committee
-emphasized that the revised rules were to be liberally construed to allow courts discretion in
-extending the substitution period, recognizing the difficulties that could arise in promptly
-identifying and notifying the proper representative of the deceased.   Given this context, the
-defendant’s counsel's suggestion of death, which lacked identification of a proper representative,
-failed to initiate the 90-day countdown. This interpretation aligns with the judicial precedent that
-courts should prioritize the equitable administration of justice over strict procedural formalities.
-Thus, the district court erred in dismissing the plaintiffs' action without granting the requested
-extension, especially considering the circumstances that inhibited timely substitution, such as the
-injury to plaintiffs' counsel and the ongoing legal processes in the probate court.  We, therefore,
-reverse the judgment and remand for further proceedings consistent with this opinion, ensuring that
-the substitution process adheres to the flexible and just principles intended by the amendments to
-the Federal Rules of Civil Procedure.
+E. Additional Considerations In addressing the plausibility of the Thomases' claims, we are guided
+by precedent from the Supreme Court. In Bell Atlantic Corp. v. Twombly, 550 U.S. 544, the court
+emphasized that while a complaint must contain enough factual content "to raise a reasonable
+expectation that discovery will reveal evidence" of a claim, mere parallel conduct or a bare
+assertion of conspiracy is insufficient. This standard, reiterated in Ashcroft v. Iqbal, 556 U.S.
+662, requires that the factual matter asserted must plausibly suggest an entitlement to relief, and
+not merely be consistent with a lawful scenario.  Here, the Thomases failed to meet this pleading
+standard. Their allegations lacked specific factual detail and relied heavily on conclusory
+statements. For instance, the Thomases did not provide evidence that U.S. Bank and the Rubin law
+firm’s actions constituted a knowing and intentional publication of false information or that U.S.
+Bank qualified as a "debt collector" or "loan servicer" under the FDCPA and RESPA, respectively. As
+a result, their claims do not satisfy the plausibility requirement established in Twombly and Iqbal,
+thus affirming the district court's dismissal (556 U.S. 662; 550 U.S. 544).   AFFIRMED.  . We
+recognize that pro se pleadings are to be liberally construed. See Tannenbaum v. United States, 148
+F.3d 1262, 1263 (11th Cir. 1998). . The Thomases also asserted claims for negligence, declaratory
+relief, and violations of the Truth in Lending Act, but they do not challenge the dismissal of those
+claims.
 
 
 **Label:** 
 
 
 ***Meta-Llama-3-8B-Instruct:***
-  In the context of Rule 25(a) (1) of the Federal Rules of Civil Procedure, the suggestion of death
-is a crucial step in the process of substituting a deceased party with a proper representative.
-However, not all suggestions of death are created equal. In cases where the suggestion of death is
-made by a party's attorney, but fails to identify a successor or representative of the deceased, the
-90-day period for substitution may not be triggered.  As noted in 359 F.2d 292, the Advisory
-Committee on Civil Rules intended to provide a more flexible standard for substitution, allowing for
-extensions of time and dispensing with the rigid two-year period previously in place. However, this
-flexibility is contingent upon the suggestion of death providing sufficient information to permit
-the court to proceed with substitution.  In the present case, the suggestion of death made by the
-defendant's attorney was deficient in that it failed to identify a successor or representative of
-the deceased. This lack of specificity rendered the suggestion ineffective in triggering the 90-day
-period for substitution, as explained in 379 F.2d 94.  Furthermore, the court's discretion to
-enlarge the time period for substitution, as provided by Rule 6(b), is not a blank check. Rather, it
-is intended to be exercised in a judicious and reasonable manner, taking into account the particular
-circumstances of each case.  In light of these principles, we conclude that the district court erred
-in dismissing the action with prejudice. The case should be remanded for further proceedings,
-allowing the parties to properly substitute a representative of the deceased and continue the action
-in a manner consistent with the Federal Rules of Civil Procedure.
+ After a thorough examination of the Thomases' claims, we affirm the dismissal of their breach of
+contract, wrongful attempted foreclosure, FDCPA, and RESPA claims. The Thomases' breach of contract
+claim fails due to their default on the mortgage payments and failure to cure the default. As per
+550 U.S. 544, a plaintiff must show that damages would not have occurred but for the alleged breach,
+which is not the case here.  The Thomases' wrongful attempted foreclosure claim is also dismissed as
+it is based on conclusory allegations and lacks factual support. Moreover, the FDCPA claim fails
+because U.S. Bank and the Rubin law firm do not qualify as "debt collectors" under the statute. As
+per 556 U.S. 662, a person acquiring a debt after default is only a "debt collector" where that
+person otherwise meets the statutory definition.  The Thomases' RESPA claim is dismissed for lack of
+factual allegations indicating that U.S. Bank qualifies as a "servicer" of the Thomases' mortgage
+and for failure to show that its failure to respond to the February 18, 2014 letter caused
+cognizable damages. As per 12 U.S.C. § 2605, a loan servicer must respond to a Qualified Written
+Request within five days, and the Thomases failed to show that U.S. Bank's failure to respond caused
+them any actual or statutory damages.  In conclusion, we affirm the dismissal of the Thomases'
+claims against U.S. Bank and the Rubin law firm, as the claims lack merit and fail to meet the legal
+standards. The Thomases' pro se pleadings were liberally construed, and we recognize that they have
+a right to seek legal recourse. However, the dismissal is affirmed as the claims do not meet the
+requirements of the relevant statutes and case law.
 
 
 **Label:** 
 
 
-**citations:** ['379 F.2d 94', '359 F.2d 292']
+**citations:** ['550 U.S. 544', '556 U.S. 662']
 
-***short_citations_0:*** 379 F.2d 94
+***short_citations_0:*** 550 U.S. 544
 
-the proper parties. * * * Unless the motion for substitution is made not later than 90 days after the death is suggested upon the record by service of a statement of the fact of the death as provided herein for the service of the motion, the action shall be dismissed as to the deceased party.” Here not only had the 90-day period not expired when the court entered summary judgment, the appellant by her motion for reconsideration had specifically invoked the discretion of the court. Rule 6(b) provides pertinently that when “by these rules * * * an act is required or allowed to be done at or within a specified time, the court for cause shown may at any time in its discretion (1) with or without motion or notice order the period enlarged if request therefor is made before the expiration of the period originally prescribed * * Originally the Rule had precluded an extension of time for taking action under Rule 25(a) (1), but by purposeful amendment, it was sought to relieve against the hardship of the Court’s holding in Anderson v. Yungkau, 329 U.S. 482, 67 S.Ct. 428, 91 L.Ed. 436 (1947). It was intended that liberal effect be given to the 1963 amendment. Graham v. Pennsylvania Railroad, 119 U.S.App.D.C. 335, 342 F.2d 914 (1964), cert. denied, 381 U.S. 904, 85 S.Ct. 1446, 14 L.Ed.2d 286 (1965). We are constrained to reverse for further proceedings not inconsistent with this opinion. Reversed. The only “party” then
+allegations in the complaint are true (even if doubtful in fact), see, e. g., Swierkiewicz v. Sorema N. A, 534 U. S. 506, 508, n. 1 (2002); Neitzke v. Williams, 490 U. S. 319, 327 (1989) (“Rule 12(b)(6) does not countenance ... dismissals based on a judge’s disbelief of a complaint’s factual allegations”); Scheuer v. Rhodes, 416 U. S. 232, 236 (1974) (a well-pleaded complaint may proceed even if it appears “that a recovery is very remote and unlikely”). In applying these general standards to a § 1 claim, we hold that stating such a claim requires a complaint with enough factual matter (taken as true) to suggest that an agreement was made. Asking for plausible grounds to infer an agreement does not impose a probability requirement at the pleading stage; it simply calls for enough fact to raise a reasonable expectation that discovery will reveal evidence of illegal agreement. And, of course, a well-pleaded complaint may proceed even if it strikes a savvy judge that actual proof of the facts alleged is improbable, and “that a recovery is very remote and unlikely.” Ibid. In identifying facts that are suggestive enough to render a § 1 conspiracy plausible, we have the benefit of the prior rulings and considered views of leading commentators, already quoted, that lawful parallel conduct fails to bespeak unlawful agreement. It makes sense to say, therefore, that an allegation of parallel conduct and a bare assertion of conspiracy will not suffice. Without more, parallel conduct does not
 
-***short_citations_1:*** 359 F.2d 292
+***short_citations_1:*** 556 U.S. 662
 
-insertion of a “reasonable time” standard. In 1963, the Advisory Committee suggested the present rule and noted: “Present Rule 25(a) (1), together with present Rule 6(b), results in an inflexible requirement that an action be dismissed as to a deceased party if substitution is not carried out within a fixed period measured from the time of the death. The hardships and inequities of this unyielding requirement plainly appear from the cases. * * * The amended rulé establishes a time limit for the motion to substitute based not upon the time of the death, but rather upon the time information of the death is provided by means of a suggestion of death upon the record, i. e. service of a statement of the fact of the death.” See Notes of Advisory Committee on the Civil Rules, 28 U.S.C. Rule 25 (1964). Rule 6(b) of the Federal Rules of Civil Procedure was also amended in 1963 and the prohibition against extending the time for taking action under Rule 25 was eliminated. The Advisory Committee on the Civil Rules noted: “It is intended that the court shall have discretion to enlarge that period.” The amendments of Rules 6(b) and 25(a) (1) provided needed flexibility. It was assumed that discretionary extensions would be liberally granted. Movants under Rule 25 can ordinarily control when a death is “suggested upon the record” and appellants’ attorney was under no obligation to file his affidavit of Staggers’ death on the date he did. He could have filed
+the court may be. See 550 U. S., at 555 (a court must proceed “on the assumption that all the allegations in the complaint are true (even if doubtful in fact)”); id., at 556 (“[A] well-pleaded complaint may proceed even if it strikes a savvy judge that actual proof of the facts alleged is improbable”); see also Neitzke v. Williams, 490 U. S. 319, 327 (1989) (“Rule 12(b)(6) does not countenance ... dismissals based on a judge’s disbelief of a complaint’s factual allegations”). The sole exception to this rule lies with allegations that are sufficiently fantastic to defy reality as we know it: claims about little green men, or the plaintiff’s recent trip to Pluto, or experiences in time travel. That is not what we have here. Under Twombly, the relevant question is whether, assuming the factual allegations are true, the plaintiff has stated a ground for relief that is plausible. That is, in Twombly’s words, a plaintiff must “allege facts” that, taken as true, are “suggestive of illegal conduct.” 550 U. S., at 564, n. 8. In Twombly, we were faced with allegations of a conspiracy to violate §1 of the Sherman Act through parallel conduct. The difficulty was that the conduct alleged was “consistent with conspiracy, but just as much in line with a wide swath of rational and competitive business strategy unilaterally prompted by common perceptions of the market.” Id., at 554. We held that in that sort of circumstance, “[a]n allegation of parallel conduct is ...
 
 **prev_text:**
-LEVENTHAL, Circuit Judge: The District Court held that Rule 25(a) (1) of the Federal Rules of Civil
-Procedure required dismissal of the plaintiffs’ tort action because defendant’s counsel had filed a
-suggestion of death of the defendant yet plaintiff had not made any substitution of parties within
-90 days. We reverse on the ground that the suggestion of death, which was neither filed by nor
-identified a successor or representative of the deceased, such as an executor or administrator, was
-ineffective to trigger the running of the 90-day period provided by the Rule. Mr. and Mrs. John
-Rende filed an action in the District Court individually and on behalf of their infant son who had
-been struck and injured by Alfred S. Kay while driving his car. On August 27, 1967, defendant Kay
-died. On September 1, 1967, the defendant’s attorney, a term used here to identify the lawyer who
-had been retained by deceased to defend the action, and who had duly entered an appearance as
-attorney for defendant, filed a suggestion of death in the District Court, giving notice to
-plaintiffs’ attorney. That same day there was filed in the Orphans Court for Montgomery County,
-Maryland, residence of the deceased, his will naming his widow as executrix, but the will had not
-been probated, nor any legal representative appointed for the estate at the time of the filing of
-this appeal. Plaintiffs’ attorney was injured on October 14, 1967. On returning to practice early in
-1968, he learned that no successor to defendant Kay had yet been appointed, and he moved to certify
-the case to the ready calendar. The defendant’s attorney opposed this on grounds that discovery
-procedures had not been completed. The case was delayed and placed on the ready calendar as of June
-7, 1968. However, in April 1968, the defendant’s attorney moved in his own name to dismiss the
-action on the ground that Rule 25(a) (1) required plaintiffs to move to substitute a proper party
-for the deceased within 90 days of the suggestion of death. Plaintiffs filed an opposition and
-motion for substitution of the proper party, and sought an extension of the time for substitution as
-allowed by Rule 6(b). At argument, plaintiffs’ counsel asserted the “suggestion of death was
-defective in that it did not list the name of the proper party; that is the legal representative of
-the defendant.” The court responded: “That would not be his burden.” The court dismissed the action
-with prejudice. Prior to its amendment in 1963, Rule 25(a) (1) required the court to dismiss a case
-if no motion for substitution was filed within two. years after date of death, and no extensions of
-this period were allowed under Rule 6(b). The rule was rigorously applied, often with harsh results,
-and was called “easily the poorest rule of all the Federal Rules.” In 1955 the Advisory Committee on
-Rules for Civil Procedure recommended that the two-year period be changed to a “reasonable time”
-standard. In 1961 the Advisory Committee on Civil Rules again suggested the Rule be made more
-flexible. In 1963 the Supreme Court made changes in Rule 25(a) (1) and in Rule 6(b) so as to provide
-a 90-day time limit from the filing of a suggestion of death, and to give the court discretion to
-extend that time. The Committee Notes explaining the amendments state: Present Rule 25(a) (1),
-together with present Rule 6(b), results in an inflexible requirement that an action be dismissed as
-to a deceased party if substitution is not carried out within a fixed period measured from the time
-of death. The hardships and inequities of this unyielding requirement plainly appear from the cases.
-* * * The amended rule establishes a time limit for the motion to substitute based not upon the time
-of the death, but rather upon the time information of the death is provided by means of a suggestion
-of death upon the record. * * * A motion to substitute may be made by any party or by the
-representative of the deceased party without awaiting the suggestion of death. Indeed, the motion
-will usually be so made. If a party or the representative of the deceased party desires to limit the
-time within which another may make the motion, he may do so by suggesting the death upon the record.
-(Emphasis added.) Under the amended Rule either a party or “the successors or representatives of the
-deceased party” may avoid delay in effecting substitution for the deceased party either by filing a
-motion for substitution or by suggesting death on the record and thus triggering the 90-day period
-which begins with suggestion of death. The Advisory Committee, in outlining that suggestion of death
-could be made by “the representative of the deceased party” plainly contemplated that the suggestion
-emanating from the side of the deceased would identify a representative of the estate, such as an
-executor or administrator, who could be substituted for the deceased as a party, with the action
-continued in the name of the representative. The addition of “successor” in the Rule would take care
-of the case of, say, the distributee of an estate that had been distributed, but would not make a
-material difference in the aspect under consideration. Form 30, for suggestion of death, which was
-provided in order to expedite and facilitate implementation of the amendment, provides: A.B.
-[described as a party, or as executor, administrator, or other representative or successor of C.D.,
-the deceased party\ suggests upon the record, pursuant to Rule 25(a) (1), the death of C.D.
-[describe as party] during the pendency of this action. Added Jan. 21, 1963, eff. July 1, 1963.
-[Emphasis added.] Although the attorney for the defendant was retained to “represent” the deceased
-as his counsel, he is not a person who could be made a party, and is not a “representative of the
-deceased party” in the sense contemplated by Rule 25(a) d). In our opinion the Rule, as amended,
-cannot fairly be construed, as the de fendant’s attorney argues, to make his suggestion of death
-operative to trigger the 90-day period even though he was neither a successor nor representative of
-the deceased, and gave no indication of what person was available to be named in substitution as a
-representative of the deceased. Counsel’s construction would open the door to a tactical maneuver to
-place upon the plaintiff the burden of locating the representative of the estate within 90 days. We
-can conceive of cases wherein even the lawyer retained to represent a defendant might know the
-defendant had died, yet not readily know where his estate would be administered. In the present
-case, plaintiff’s attorney did know the court of probate, but he did not know whether probate of the
-will might be contested, or who would be appointed representative of the estate. The tactic of the
-defendant’s attorney would place on plaintiff the burden, where no conventional representative was
-appointed for the estate in probate court, of instituting machinery in order to produce some
-representative of the estate ad litem, pending appointment of the representative contemplated by law
-of the domicile of the deceased.
+PER CURIAM: Plaintiffs Matthew and Miriam Thomas (the “Thomases”) pro se appeal the district court’s
+dismissal of their claims against U.S. Bank National Association (“U.S. Bank”) and law firm Rubin
+Lublin, LLC (the “Rubin law firm”) for breach of contract, -wrongful attempted foreclosure, and
+violations of the Fair Debt Collection Practices Act (“FDCPA”) and the Real Estate Settlement
+Procedures Act (“RESPA”). After review, we affirm. I. BACKGROUND Because this appeal concerns the
+dismissal of the Thomases’ claims, we recount the factual allegations from the operative amended
+complaint. See Glover v. Liggett Grp., Inc., 459 F.3d 1304, 1308 (11th Cir. 2006) (noting that on
+review of a motion to dismiss, the factual allegations are accepted as true). We also discuss the
+procedural history. A. Factual Allegations In October 2006, the Thomases purchased residential „
+property in Fulton County, Georgia by obtaining a mortgage loan from Freedom Mortgage Corporation
+(“Freedom”), The loan was secured by a security deed, which named Mortgage Electronic Registration
+Systems, Inc. (“MERS”) as the grantee of record, acting as nominee for the lender Freedom. In June
+2011, the grantee MERS assigned the security deed to defendant “U.S. Bank, National Association, as
+Trustee for the holders of the specialty underwriting and residential finance trust, mortgage loan
+asset-backed certificates, series 2007-BCI.” The Thomases’ amended complaint acknowledges that prior
+to the June 2011 assignment to U.S. Bank they had “trouble meeting their payments on the loan and
+defaulted.” So when U.S. Bank acquired the security deed, the Thomases had already defaulted. After
+default, the Thomases sought “an affordable loan modification” from U.S. Bank but were unsuccessful.
+The Thomases do not allege that they made payments to cure the default or otherwise attempted to
+bring the loan current. On December 3, 2013, Nationstar Mortgage, LLC (“Nationstar”), acting on
+behalf of U.S. Bank, sent a letter addressed to the Thomases at 1240 Regency Center Drive SW,
+Atlanta, GA 30331-2081, which is the property at issue. The letter stated that “Nationstar is the
+mortgage loan ser-vicer for ‘U.S. Bank National Association, as Trustee, in trust for registered
+holders of Specialty Underwriting and Residential Finance Trust, Mortgage Loan Asset-Backed
+Certificates, Series 2007-BCI.’” The letter stated that the Thomases had not made payments on their
+loan since June 1, 2009, and that the Thomases now owed past due mortgage payments, interest, and
+fees in the amount of $217,075.54 due from June 1, 2009, to December 3, 2013. The acceleration
+letter advised that the Thomases were required to pay that $217,075.54 by January 7, 2014, to cure
+their default. The acceleration letter advised that failure to pay $217,075.54 and cure the default
+“may result in acceleration of the sums secured by the Security Instrument, foreclosure proceedings
+and sale of the property.” A copy of this acceleration letter was attached to U.S. Bank’s motion to
+dismiss. In their response to the motions to dismiss, the Thomases stated that they “ehal-lenge[d]
+the authenticity” of the December 3, 2013 acceleration letter because it was “completely unsworn and
+unauthenticated by affidavit, deposition or otherwise.” The Thomases denied that the acceleration
+letter was provided to them and argued that they were entitled to discovery to determine the
+authenticity of that letter. The magistrate judge determined that “because the Plaintiffs challenge
+the authenticity of the purported Acceleration Notice, the Court may not consider that document as
+part of the pleadings for the purpose of resolving the Defendants’ Motions to Dismiss.” See Day v.
+Taylor, 400 F.3d 1272, 1276 (11th Cir. 2005). But there is another notice letter to the Thomases
+that is attached to their own amended complaint that they do not dispute. In January 2014, the
+defendant Rubin law firm sent two letters to the Thomases on behalf of U.S. Bank as Trustee. The
+letters notified the Thomases that the Rubin law firm was representing U.S. Bank, that U.S. Bank and
+the Rubin law firm were instituting foreclosure proceedings against the Thomases’ residential
+property, and that the entire amount of the mortgage debt—$590,684.36—was due immediately. The
+January 14, 2014 letter stated as follows: The entire amount of the debt secured by [the] Note and
+Security Deed has now been declared due and payable because, among other possible defaults, failure
+to pay the indebtedness as and when due and in the manner specified in the Note and Security Deed.
+The total amount of the debt owed may consist of unpaid principal balance, any unpaid accrued
+interest, escrow/impound shortages or credits, late charges, legal fees/ costs, and other charges.
+To find out the amount needed to either bring your Loan current or to pay off your Loan in full,
+please call [the listed telephone number]. U.S. Bank reported the “foi-eclosure default” to credit
+reporting agencies Equifax, Trans Union, and Experian, which negatively affected the Thomases’
+credit score. U.S. Bank also advertised the Thomases’ home “for foreclosure,” which caused the
+Thomases to experience embarrassment, mental anguish, and emotional distress. The Thomases did not
+allege that the property was ever sold at a foreclosure sale or otherwise. But the Thomases did
+allege that the two January 2014 letters that the Rubin law firm sent did not comply with the
+acceleration notice requirements under the security deed. On February 18, 2014, the Thomases sent a
+“R.E.S.P.A. Qualified Written Request” letter to U.S. Bank. The letter requested, inter alia, that
+U.S. Bank provide the Thomases with the following information: (1) “[a] complete audit history from
+alleged loan origination, showing the dates payments were applied, and to what internal accounts ...
+payments were applied,” (2) “[a] complete and itemized statement of all advances or charges against-
+this account,” and (3) “[a] complete and itemized statement of the escrow for this account, if any,
+from the date of the note origination to the date of [U.S. Bank’s] response to [the Thomases’
+February 2014] letter.” Seven days later, the Thomases filed their lawsuit against U.S. Bank and the
+Rubin law firm. The Thomases allege that U.S. Bank never responded to their February 18, 2014
+letter. B. Procedural History On February 25, 2014, the Thomases filed their initial complaint
+against U.S. Bank and the Rubin law firm. The defendants responded with a motion to dismiss, but the
+district court granted the Thom-ases’ motion for leave to amend the complaint and denied the motion
+to dismiss as moot. The Thomases then filed an amended complaint, which included, inter alia, these
+exhibits: the note, the security deed, the June 2011 assignment of the security deed from MERS to
+U.S. Bank, the Rubin law firm’s two January 2014 letters, and the Thomases’ February 18, 2014
+letter. Defendants U.S. Bank and the Rubin law firm then filed separate motions to dismiss pursuant
+to Rule 12(b)(6) of the Federal Rules of Civil Procedure. After full briefing, the magistrate judge
+recommended, in a Report, that both motions should be granted as to all claims in the amended
+complaint. The district court overruled the Thomases’ objections, adopted the Report, and dismissed
+the amended complaint. The district court also denied the Thomases’ motion for reconsideration. This
+appeal followed. II. DISCUSSION On appeal, the Thomases challenge the dismissal of their breach of
+contract, wrongful attempted foreclosure, FDCPA, and RESPA claims. We address each claim below. A.
+Breach of Contract As to their breach of contract claim, the Thomases- alleged that U.S. Bank
+breached the terms of the security deed by failing to provide adequate notice before accelerating
+the debt and threatening foreclosure. The Thomases contend that they suffered damages in these two
+ways: (1) U.S. Bank’s reporting of the Thomases’ “foreclosure default” to credit agencies lowered
+their credit score, and (2) U.S. Bank’s'advertisement of their home “for foreclosure” caused them to
+experience embarrassment, mental anguish, and emotional distress. Under Georgia law, the elements of
+a claim for breach of contract are “the (1) breach and the (2) resultant damages (3) to the party
+who has the right to complain about the contract being broken.” Bates v. JPMorgan Chase Bank, NA,
+768 F.3d 1126, 1130 (11th Cir. 2014) (internal quotation marks omitted) (quoting Norton v. Budget
+Rent A Car Sys., Inc., 307 Ga.App. 501, 705 S.E.2d 305, 306 (2010)). In the context of breach of
+contract claims arising from premature or improper exercise of the power to accelerate indebtedness
+and sell property under the terms of a security deed, the plaintiff must show that damages would not
+have occurred but for the alleged breach. Id. at 1132-33. &re, the Thomases’ amended complaint
+admitted that they defaulted on their mortgage payments and never cured the default. Indeed, even
+according to the amended complaint, the default occurred “sometime prior to the assignment” of the
+security deed to U.S. Bank in 2011, which was years before U.S. Bank sought to accelerate. Knowing
+they had defaulted, the Thomases admitted that they even sought a loan modification from U.S. Bank.
+But the Thomases never brought the loan current or otherwise cured the default in the years that
+followed. Whether the past due debt of $217,075.54 was properly accelerated to $590,684.36 does not
+change the fact that the Thomases defaulted on their mortgage and did not cure that default. Any
+negative credit reporting or emotional injury would have resulted from this default and failure to
+cure regardless of whether U.S. Bank sent an acceleration notice that complied with the terms of the
+security deed. The factual allegations do not allow the reasonable inference that the alleged
+damages would not have occurred but for U.S. Bank’s failure to give proper acceleration notice. See
+id. at 1130, 1133; Ashcroft v. Iqbal, 556 U.S. 662, 678, 129 S.Ct. 1937, 1949, 173 L.Ed.2d 868
+(2009). B. Wrongful Attempted Foreclosure The amended complaint did not include a count for wrongful
+attempted foreclosure, but the Thomases attempted to assert such a claim in their response to U.S.
+Bank’s and the Rubin law firm’s motions to dismiss. The Thomases’ response to the motions to dismiss
+argued that U.S. Bank did not have an enforceable security interest in the property and thus was
+“without authority to foreclose property.” The Thomases did attach to their amended complaint a July
+2013 assignment instrument between Bank of America, N.A. and Nationstar, which purports to assign
+the security deed to Nationstar. U.S. Bank contends that, because U.S. Bank was the holder of the
+security deed in July 2013, Bank of America, N.A. had no interest in the security deed and that this
+assignment is a nullity. We need not decide this issue on appeal for several reasons. First, we
+affirm the dismissal of this wrongful attempted foreclosure claim because it was not in the amended
+complaint and was only raised in the Thomases’ response to the defendants’ motions to dismiss.
+Second, although the Thomases admit that U.S, Bank was a holder of the security deed, the Thomases
+do not allege how Bank of America, N.A. obtained any ownership of the security deed to assign it to
+Nationstar. There is also no allegation in the amended complaint, or documentary evidence for that
+matter, that U.S. Bank assigned the security deed to Bank of America, N.A. Third, as an independent
+and alternative reason, because the property was never foreclosed, the Thomases do not assert a
+claim for “wrongful foreclosure,” but only for “wrongful attempted foreclosure.” To prevail on a
+claim for wrongful attempted foreclosure under Georgia law, the plaintiff must prove “a knowing and
+intentional publication of untrue and derogatory information concerning the debt- or’s financial
+condition, and that damages were sustained as a direct result of this publication.” Bates, 768 F.3d
+at 1134 (internal quotation marks omitted) (quoting Aetna Fin. Co. v. Culpepper, 171 Ga.App. 315,
+320 S.E.2d 228, 232 (1984)). The amended complaint includes no allegations indicating that U.S. Bank
+or the Rubin law firm published any false or derogatory information concerning the Thomases’
+financial condition. Accordingly, the Thomases failed to state a plausible claim for wrongful
+attempted foreclosure. C. FDCPA As to their FDCPA clajm, the Thomases alleged, in conclusory
+fashion, that defendants U.S. Bank and the Rubin law firm are “debt collectors” within the meaning
+of the FDCPA. The Thomases further alleged that the defendants did not comply with the pre-
+acceleration notice requirements of the security deed before sending letters threatening foreclosure
+and therefore the defendants threatened to take action they could not legally take in violation of
+§§ 1692e and 1692f of the FDCPA. The FDCPA bars “debt collectors” from engaging in certain abusive
+practices in connection with the collection of debt. See 15 U.S.C. § 1692. For example, § 1692e
+provides' that a “debt collector may not use any false, deceptive, or misleading representation or
+means in connection with the collection of any debt.” Id. § 1692e. Section 1692f provides that a
+“debt collector may not use unfair or unconscionable means to collect or attempt to collect any
+debt.” Id. § 1692f. By the terms of its substantive provisions, the FDCPA only applies to the
+actions of a “debt collector.” Id. §§ 1692e, 1692f; see Davidson v. Capital One Bank (USA), N.A.,
+797 F.3d 1309, 1313 (11th Cir. 2015) (“There is no dispute that § 1692e applies only to debt
+collectors.”). This district court did not err' in concluding that the factual allegations in the
+amended complaint were insufficient to show that the defendants were “debt collectors.” The term
+“debt collector” is defined in the FDCPA as (1) “any person who uses any instrumentality of
+interstate commerce or the mails in any business the principal purpose of which is the collection of
+any debts” or (2) any person “who regularly collects or attempts to collect, directly or indirectly,
+debts owed or due or asserted to be owed or due another.” 15 U.S.C. § 1692a(6). Here, aside from the
+bare legal conclusion that U.S. Bank and the Rubin law firm qualify as “debt collectors” under the
+FDCPA, the Thomases’ amended complaint makes no allegations suggesting that these defendants fall
+within the statutory definition of that term. The amended complaint includes no allegations
+indicating that (1) either U.S. Bank’s or the Rubin law firm’s principal business is the collection
+of debts or (2) either U.S. Bank or the Rubin law firm regularly collects or attempts to collect
+debts owed to another. See 15 U.S.C. § 1692a(6). Although U.S. Bank acquired the Thomases’ debt
+after the Thomases defaulted, this Court has concluded that the fact that a person acquired a debt
+after the borrower defaulted on that debt is not sufficient to indicate that the person who acquired
+the debt qualifies as a “debt collector” under the FDCPA. Davidson, 797 F.3d at 1313-16. A person
+acquiring a debt after default is only a “debt collector” where that person otherwise meets the
+statutory definition. Id. at 1316. Therefore, the Thomases’ FDCPAclaim fails. D. RESPA With respect
+to their RESPA claim against U.S. Bank, the Thomases summarily alleged that some of their loan
+payments were not properly credited to their loan account, that they sent a letter to U.S. Bank on
+February 18, 2014, requesting information regarding their loan account, and that U.S. Bank never
+responded to that letter. The Thomases contend that their February 18, 2014 letter to U.S. Bank
+constituted a “Qualified Written Request” (“QWR”) under RESPA, that U.S. Bank’s failure to timely
+respond to that letter was in -violation of RESPA, and that they are entitled to damages resulting
+from that violation. RESPA imposes certain duties on loan “servicers” for the purpose of protecting
+consumers. Pertinent here are RESPA’s procedures for providing additional loan information to a
+borrower upon the borrower’s request. See 12 U.S.C. § 2605. A borrower seeking information about a
+loan can contact the loan servicer by sending a QWR, which is a written correspondence that (1)
+“includes, or otherwise enables the servicer to identify, the name and account of the borrower” and
+(2) “includes a statement of the reasons for the belief of the borrower, to the extent applicable,
+that the account is in error or provides sufficient detail to the servicer regarding other
+information sought by the borrower.” Id. § 2605(e)(1)(B). When a loan servicer receives a QWR from a
+borrower, the loan servicer must first provide to the borrower, within five days, a written response
+acknowledging receipt of the QWR. Id. § 2605(e)(1)(A). The loan servicer must then, within thirty
+days of receiving the QWR, send the borrower a written response explaining any corrections to the
+borrower’s loan account, clarifying the reasons that the loan servi-cer believes the borrower’s
+account is accurate, or providing the information the borrower requested. Id. § 2605(e)(2). A
+borrower who shows that a loan servicer failed to carry out its duties under this provision may be
+entitled to actual and/or statutory damages. Id. § 2605(f). This Court has held that “damages are an
+essential element in pleading a RESPA claim.” Renfroe v. Nationstar Mortg., LLC, 822 F.3d 1241, 1246
+(11th Cir. 2016). The Thomases’ RESPA claim fails for two reasons. First, the amended complaint is
+devoid of factual allegations indicating that U.S. Bank qualifies as a “servicer” of the Thom-ases’
+mortgage within the meaning of § 2605. See 12 U.S.C. § 2605(i) (defining “servicer” as “the person
+responsible for servicing of a loan” and “servicing” as “receiving any scheduled periodic payments
+from a borrower pursuant to the terms of any loan ... and maiding the payments of principal and
+interest and such other payments with respect to the amounts received from the borrower”). The
+allegations in the amended complaint say nothing about whether U.S. Bank is responsible for
+receiving and otherwise handling payments on the Thomases’ mortgage loan. Second, even assuming
+arguendo that U.S. Bank can be considered a “loan servicer,” the Thomases did not allege any facts
+indicating that U.S. Bank’s failure to respond to the February 18, 2014 letter caused them any
+cognizable damages. As noted in relation to the Thomases’ breach of contract claim, any injury the
+Thomases suffered is attributable to their 2011 default and failure to cure, which occurred years
+before the Thomases sent this purported QWR letter in 2014. The Thomases were aware of this 2011
+default and did not bring the loan current or otherwise cure the default in the years that followed.
+The amended complaint is insufficient to show that the Thomases are entitled to actual or statutory
+damages under RESPA. See 12 U.S.C. § 2605(f) (providing that borrowers may recover actual damages
+incurred as a result of the RESPA violation and statutory damages “in the case of a pattern or
+practice of noncompliance with the requirements” of the statute). III. CONCLUSION For all of the
+foregoing reasons, we affirm the dismissal of the Thomases’ claims against U.S. Bank and the Rubin
+law firm for breach of contract, wrongful attempted foreclosure, and violations of the FDCPA and
+RESPA. AFFIRMED. . The Thomases have proceeded pro se both in the district court and on appeal. We
+recognize that pro se pleadings are to be liberally construed. Tannenbaum v. United States, 148 F.3d
+1262, 1263 (11th Cir. 1998). . The Thomases also asserted claims for negligence, declaratory relief,
+and violations of the Truth in Lending Act, but the Thomases do not challenge the dismissal of those
+claims.
 
 
