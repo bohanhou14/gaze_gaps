@@ -24,11 +24,11 @@ You are tasked to classify categories of gaps between machine-generated and huma
 
 **Intrinsic gaps**:
 
-* ***Redundancy***: the generation appears to make repetitive statements that do not add more meaning to the analysis.
+* ***Redundancy*** (1): the generation appears to make repetitive statements that do not add more meaning to the analysis.
 
-* ***Citation Format Mismatch***: the generation appears not matching with the citation format of the standard Bluebook.
+* ***Citation Format Mismatch*** (2): the generation appears not matching with the citation format of the standard Bluebook.
 
-* ***Structural Mismatch***: the generation appears to generate the document from scratch (like containing words such as "ORDER" which only appear in the beginning).
+* ***Structural Mismatch*** (3): the generation appears to generate the document from scratch (like containing words such as "ORDER" which only appear in the beginning).
 
 
 
@@ -36,25 +36,23 @@ You are tasked to classify categories of gaps between machine-generated and huma
 
 * Citation Content Mismatch: 
 
-    * Claim Hallucination: the claim supported by the citation is not truthful or not related to the context or from cited paragraphs or the previous context.
+    * Claim Hallucination (4): the claim supported by the citation is not truthful or not related to the context or from cited paragraphs or the previous context.
 
-    * Retrieval Inaccuracy: the claims supported by the citation is not relevant because the cited paragraph looks irrelevant compared to the target paragraph. If retrieval inaccuracy is labeled, there is no need to label claim hallucination.
+    * Retrieval Inaccuracy (5): the claims supported by the citation is not relevant because the cited paragraph looks irrelevant compared to the target paragraph. If retrieval inaccuracy is labeled, there is no need to label claim hallucination.
 
-    * Citation Hallucination: the citation is non-existent or pulled from a citation in the cited paragraphs or the previous context.
-
-    * Entity Hallucination: the entities associated with the citations are not truthful or are non-existent.
+    * Citation Hallucination (6): the citation is non-existent or pulled from a citation in the cited paragraphs or the previous context.
 
 * Target Mismatch
 
     * Relation Mismatch: 
 
-        * Chain Cite: the citations appear in a chain cite but the generation cites them parallely, or the other way around.
+        * Chain Cite (7): the citations appear in a chain cite but the generation cites them parallely, or the other way around.
 
-        * Reverse Cite: the citations reverse the ruling in each other but the generation cites them parallely, or the other way around.
+        * Reverse Cite (8): the citations reverse the ruling in each other but the generation cites them parallely, or the other way around.
 
-        * Compound Cite: the citations of different cases are cited together, separated by semicolons, or the other way around.
+        * Compound Cite (9): the citations of different cases are cited together, separated by semicolons, or the other way around.
 
-    * Citation Style Mismatch: the citations are cited in a different style in the target than the generation. Examples include citations should be cited together, separated by semicolons, but the generation elaborates each one with a claim from the case referred to.
+    * Citation Style Mismatch (10): the citations are cited in a different style in the target than the generation. Examples include citations should be cited together, separated by semicolons, but the generation elaborates each one with a claim from the case referred to.
 
 **Instructions to Annotators**
 
