@@ -31,7 +31,7 @@ You are tasked to classify categories of gaps between machine-generated and huma
 **Extrinsic Gaps**
 * Citation Content Mismatch
 * Target Mismatch
-* * Relation Mismatch
-* * Claim Style Mismatch
-* * Citation Style Mismatch
+    * Relation Mismatch
+    * Claim Style Mismatch
+    * Citation Style Mismatch
 
