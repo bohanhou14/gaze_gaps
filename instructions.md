@@ -59,6 +59,7 @@ You are tasked to classify categories of gaps between machine-generated and huma
     * Citation Style Mismatch: the citations are cited in a different style in the target than the generation. Examples include citations should be cited together, separated by semicolons, but the generation elaborates each one with a claim from the case referred to.
 
 **Instructions to Annotators**
+
 Note that an example may have several categories of gaps, so annotate each example as many as possible.
 
 Please annotate the most specific name of the error after "Label: ". For example, "Compound Cite" instead of "Relation Match".
