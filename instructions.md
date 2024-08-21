@@ -4,21 +4,21 @@ You are tasked to classify categories of gaps between machine-generated and huma
 
 **Definitions**
 
-**generation**: Machine-generated legal analysis.
+**generation**: machine-generated legal analysis.
 
-**target**: Human-written legal analysis. Note that the target is only one form of acceptable legal analysis. There are other acceptable legal analysis. It is possible for a generation to not match with the target but still considered acceptable.
+**target**: human-written legal analysis. Note that the target is only one form of acceptable legal analysis. There are other acceptable legal analysis. It is possible for a generation to not match with the target but still considered acceptable.
 
-**previous_context**: We set the goal of LLM to generate a paragraph of legal analysis and feed in the previous context to this paragraph as the input.
+**previous_context**: we set the goal of LLM to generate a paragraph of legal analysis and feed in the previous context to this paragraph as the input.
 
-**cited_paragraphs**: In addition to the previous context, we also feed in the other paragraphs that are supposed to be cited in this generation.
+**cited_paragraphs**: in addition to the previous context, we also feed in the other paragraphs that are supposed to be cited in this generation.
 
 **citation**: citation refers to the special string which points to a legal case, with style and format specified by the Bluebook.
 
 **claim**: the sentence which is supported by the citation, i.e. the case referred to. Claim usually appears in the vicinity of the citation.
 
-**Intrinsic Gaps**: The presence of instrinsic gaps signals that the machine-generated legal analysis is an unacceptable form. We can tell instrinsic gaps exist by _only_ looking at the previous context and the generation itself.
+**Intrinsic Gaps**: the presence of instrinsic gaps signals that the machine-generated legal analysis is an unacceptable form. We can tell instrinsic gaps exist by _only_ looking at the previous context and the generation itself.
 
-**Extrinsic Gaps**: Extrinsic gaps, as its name suggests, can be discovered by comparing the generation with external texts, i.e. the cited paragraphs or the target paragraph that can be seen as the "answer". Extrinsic gaps contain two kinds: citation content mismatch and target mismatch. Target mismatch does not indicate that the generated legal analysis is necessarily wrong.
+**Extrinsic Gaps**: extrinsic gaps, as its name suggests, can be discovered by comparing the generation with external texts, i.e. the cited paragraphs or the target paragraph that can be seen as the "answer". Extrinsic gaps contain two kinds: citation content mismatch and target mismatch. Target mismatch does not indicate that the generated legal analysis is necessarily wrong.
 
 **Gaps Categories**
 
