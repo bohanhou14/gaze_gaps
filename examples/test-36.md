@@ -64,6 +64,35 @@ the merits.
 **Label:** 
 
 
+***Meta-Llama-3-8B-Instruct-finetuned:***
+  In view of our holding in McGee, we need not discuss the potential issue of whether the OCCA’s
+decision was an unreasonable application of federal law. See 551 U.S. 930, 940, 127 S.Ct. 2708, 168
+L.Ed.2d 555 (2007) (holding that a state court’s adjudication of a claim is dependent on an
+antecedent unreasonable application of federal law when the state court’s decision is based on an
+antecedent unreasonable application of federal law). Nor do we need to consider whether the OCCA’s
+decision was based on an unreasonable determination of the facts in light of the evidence presented
+in the state court proceeding. See 728 F.3d 1170, 1176 (10th Cir.2013) (holding that the state
+court’s decision was not based on an unreasonable determination of the facts in light of the
+evidence presented in the state court proceeding because the state court did not make any findings
+of fact). Finally, we do not need to address whether the OCCA’s decision was based on an
+unreasonable application of federal law in light of the evidence presented in the state court
+proceeding. See id. at 1176 (holding that the state court’s decision was not based on an
+unreasonable application of federal law in light of the evidence presented in the state court
+proceeding because the state court did not make any findings of fact). We thus conclude that the
+OCCA’s decision was contrary to clearly established federal law. See 551 U.S. 930, 940, 127 S.Ct.
+2708, 168 L.Ed.2d 555 (2007) (holding that a state court’s adjudication of a claim is dependent on
+an antecedent unreasonable application of federal law when the state court’s decision is based on an
+antecedent unreasonable application of federal law). We now proceed to address Milton’s request for
+a federal evidentiary hearing. See 536 U.S. 266, 286, 122 S.Ct. 2245, 153 L.Ed.2d 106 (2002)
+(holding that a federal evidentiary hearing is required when a state court’s adjudication of a claim
+is dependent on an antecedent unreasonable application of federal law). We also proceed to address
+Milton’s request for a federal evidentiary hearing. See 551 U.S. 930, 940, 127 S.Ct. 2708, 168
+L.Ed.2d 555
+
+
+**Label:** 
+
+
 **citations:** ['536 U.S. 266', '551 U.S. 930', '728 F.3d 1170']
 
 ***short_citations_0:*** 536 U.S. 266

@@ -50,6 +50,34 @@ order" salvage must be fully explored and factually supported.
 **Label:** 
 
 
+***Meta-Llama-3-8B-Instruct-finetuned:***
+  . In The San Jose, 232 F.2d 750, 753 (5th Cir. 1956), this court, citing The Freedom, supra, noted
+that the test for salvage is not whether the peril is imminent, but whether it is “reasonably to be
+apprehended.” In The Sahara, 181 F.2d 895, 897 (5th Cir. 1950), this court said: “Salvage is not
+limited to cases where the ship is in imminent danger, but includes those where the ship is in a
+situation where she is subject to the potential danger of damage or destruction.” See also The Emily
+B. Souder, 9 F. 50, 51 (C.C.D. Mass. 1881). The test for salvage is not a simple one. See The San
+Jose, supra, 232 F.2d at 753. The trial court in the present case did not have before it the full
+factual inquiry necessary to determine whether the barges were subject to a marine peril and whether
+Fort Myers’ services were voluntarily rendered. The court’s determination that the barges were not
+in a marine peril and that Fort Myers’ services were not voluntary is therefore not binding on this
+court. The case is remanded for a new trial. The respondents may present evidence on the issues of
+marine peril and voluntary service. See The San Jose, supra, 232 F.2d at 753. The respondents may
+also present evidence on the issue of success in whole or in part, or that the service rendered
+contributed to such success. See The Sabine, supra, 101 U.S. at 386, 25 L.Ed. 982. The District
+Court’s determination that Fort Myers’ services were not salvage services but rather towage services
+is also not binding on this court. The court’s determination that the barges were not in a marine
+peril is not binding on this court. The court’s determination that Fort Myers “forced its services
+upon the barges” and that it would be grossly inequitable under the circumstances of this case to
+require the respondents to pay is also not binding on this court. The court’s determination that
+Fort Myers’ conduct was so inequitable as to bar it from relief is also not binding on this court.
+The court’s determination that Fort Myers’ conduct was so inequitable as to bar it from relief is
+also not binding on this court. The court’s determination that Fort Myers’ conduct was so inequ
+
+
+**Label:** 
+
+
 **citations:** ['232 F.2d 750', '181 F.2d 895', '9 F. 50']
 
 ***short_citations_0:*** 232 F.2d 750

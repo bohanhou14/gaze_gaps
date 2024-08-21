@@ -55,6 +55,38 @@ No. 97 did not require inclusion of the new clause in the contract.
 **Label:** 
 
 
+***Meta-Llama-3-8B-Instruct-finetuned:***
+  In the present case, the invitation for bids was issued before the circular and the solicitation
+was not unduly delayed by the inclusion of the new clause. Therefore, the new clause was not
+required to be included in the solicitation. The plaintiff’s bid was submitted after the circular
+was issued but before the circular was effective. The circular’s language does not mandate the
+inclusion of the new clause in the contract. The plaintiff’s contract was awarded before the
+circular was effective. The plaintiff’s bid was not a solicitation. The Government’s decision to
+award the contract to the plaintiff was based on the bid submitted prior to the circular’s issuance.
+The Government’s decision was made without knowledge of the circular’s existence. In this case, the
+Government did not waive its sovereign immunity to suit for interest on claims. G. L. Christian &
+Associates, 312 F.2d 418, 422 (5th Cir. 1963). In the absence of an unequivocal waiver of sovereign
+immunity, the Court of Claims lacks jurisdiction to grant relief. United States v. King, 395 U.S. 1,
+4 (1969). The plaintiff’s claim for interest on the award is therefore barred. The plaintiff’s
+petition for review is denied. The Government’s cross-petition for review is granted. The judgment
+of the ASBCA is affirmed. The Government’s motion for summary judgment is granted. The plaintiff’s
+motion for summary judgment is denied. The case is remanded to the ASBCA for further proceedings.
+The Government’s motion for costs is granted. The Government’s motion for attorney fees is denied.
+The plaintiff’s motion for attorney fees is denied. The Government’s motion for the recovery of the
+costs of the appeal is granted. The Government’s motion for the recovery of the costs of the appeal
+is denied. The Government’s motion for the recovery of the costs of the appeal is granted. The
+Government’s motion for the recovery of the costs of the appeal is denied. The Government’s motion
+for the recovery of the costs of the appeal is granted. The Government’s motion for the recovery of
+the costs of the appeal is denied. The Government’s motion for the recovery of the costs of the
+appeal is granted. The Government’s motion for the recovery of the costs of the appeal is denied.
+The Government’s motion for the recovery of the costs of the appeal is granted. The Government’s
+motion for the recovery of the costs of the appeal is denied. The Government’s motion for the
+recovery of the costs of the appeal
+
+
+**Label:** 
+
+
 **citations:** ['160 Ct. Cl. 1', '312 F.2d 418']
 
 ***short_citations_0:*** 160 Ct. Cl. 1

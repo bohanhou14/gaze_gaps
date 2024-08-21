@@ -65,6 +65,29 @@ References: 258 F.2d 403, 353 U.S. 657.
 **Label:** 
 
 
+***Meta-Llama-3-8B-Instruct-finetuned:***
+  Petitioner also asserts that it was improperly denied the opportunity to cross-examine a witness
+who had been identified as having a statement which was relevant to the credibility of a witness who
+testified in support of the charges against petitioner. However, the witness who had the statement
+did not have the statement on his person and petitioner was not entitled to it. SEC v. R. A. Holman
+& Co., 353 U.S. 657, 77 S.Ct. 1027, 1 L.Ed.2d 1043 (1957); SEC v. Adhesive Products Corp., 258 F.2d
+403, 405 (2d Cir. 1958). Finally, petitioner claims that the hearing examiner should have compelled
+the SEC to produce the reports of Ford and Matuow, two witnesses whose testimony was crucial to the
+Government’s case. However, the reports were not material to the credibility of the witnesses and
+the failure to produce them was not error. SEC v. R. A. Holman & Co., 353 U.S. 657, 77 S.Ct. 1027, 1
+L.Ed.2d 1043 (1957). See also SEC v. Adhesive Products Corp., 258 F.2d 403, 405 (2d Cir. 1958).
+Petitioner’s claim that it was denied due process is unfounded. SEC v. R. A. Holman & Co., 353 U.S.
+657, 77 S.Ct. 1027, 1 L.Ed.2d 1043 (1957); SEC v. Adhesive Products Corp., 258 F.2d 403, 405 (2d
+Cir. 1958). See also SEC v. National Securities, Inc., 392 F.2d 444 (2d Cir. 1968). The Commission’s
+order is affirmed. See SEC v. National Securities, Inc., 392 F.2d 444 (2d Cir. 1968). See also SEC
+v. National Securities, Inc., 392 F.2d 444 (2d Cir. 1968). See also SEC v. National Securities,
+Inc., 392 F.2d 444 (2d Cir. 1968). See also SEC v. National Securities, Inc., 392 F.2d 444 (2d Cir.
+1968).
+
+
+**Label:** 
+
+
 **citations:** ['258 F.2d 403', '353 U.S. 657']
 
 ***short_citations_0:*** 258 F.2d 403

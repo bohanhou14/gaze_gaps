@@ -57,6 +57,29 @@ would be to enjoin the state court from proceeding in the action. Such an injunc
 **Label:** 
 
 
+***Meta-Llama-3-8B-Instruct-finetuned:***
+  The case of Simon v. Southern Railway Co., 236 U. S. 115, 35 Sup. Ct. 255, 59 L. Ed. 492, does not
+modify the rule. The rule is further illustrated by the following cases: Brown v. Union & Planters’
+Bank, 24 L. Ed. 644, 14 How. 223; Slater v. Emerson, 19 How. 224; Governeur v. Tillotson, 3 Edw. (N.
+Y.) Ch. 348; Story, Contr. 88; 34 S. Ct. 892, 58 L. Ed. 1557. The cases cited in the margin, which
+are not exhaustive, are cited as authorities for the proposition that a federal court cannot enjoin
+proceedings in a state court. The authorities cited in the margin are not exhaustive, but are cited
+as authorities for the proposition that a federal court cannot enjoin proceedings in a state court.
+See, also, 34 S. Ct. 892, 58 L. Ed. 1557. It is well settled that the prohibition of the statute
+extends to parties engaged in proceedings in state courts. Cœur d’Alene Ry. & Nav. Co. v. Spalding,
+93 F. 280, 35 C. C. A. 295, writ denied, 174 U. S. 801, 19 S. Ct. 884, 43 L. Ed. 1187; Peek v.
+Jenness, 7 How. 612, 12 L. Ed. 841. Also, orders entered by the federal court which necessarily have
+that effect. W. U. T. Co. v. L. & N. R. Co., 201 F. 919, 120 C. C. A. 257; Haines v. Carpenter, 91
+U. S. 254, 23 L. Ed. 345. The language employed by the Court of Appeals of the Third Circuit in
+Essanay Film Mfg. Co. v. Kane, 264 F. 959, at page 960, has application to this case: The sole
+purpose of the bill is to obtain an injunction to prevent the defendant proceeding in the state
+court. The practical effect of such injunction would be to enjoin the state court from proceeding in
+the action. Such an injunction, except under the Bankruptcy Act (Comp. St
+
+
+**Label:** 
+
+
 **citations:** ['24 L. Ed. 644', '34 S. Ct. 892', '58 L. Ed. 1557']
 
 ***short_citations_0:*** 24 L. Ed. 644

@@ -52,6 +52,39 @@ collision.
 **Label:** 
 
 
+***Meta-Llama-3-8B-Instruct-finetuned:***
+  . The rule of special circumstance is discussed in McAllister v. United States, 348 U.S. 19, 75
+S.Ct. 6, 99 L.Ed. 20, 1954 A.M.C. 1999. See also, 235 F.2d 741. The rule of special circumstance is
+not a rule of the sea but a rule of evidence. It is a rule of evidence which requires that in
+certain situations, a court must find that a party was negligent even though there is no direct
+evidence of negligence. The rule of special circumstance is applied when a court is faced with a
+situation in which there is no direct evidence of negligence but in which it is reasonable to infer
+negligence from the circumstances. The rule of special circumstance is applied in situations in
+which the parties have a duty to exercise ordinary care. The rule of special circumstance is applied
+in situations in which a party has a duty to exercise ordinary care. The rule of special
+circumstance is applied in situations in which a party has a duty to exercise ordinary care. The
+rule of special circumstance is applied in situations in which a party has a duty to exercise
+ordinary care. The rule of special circumstance is applied in situations in which a party has a duty
+to exercise ordinary care. The rule of special circumstance is applied in situations in which a
+party has a duty to exercise ordinary care. The rule of special circumstance is applied in
+situations in which a party has a duty to exercise ordinary care. The rule of special circumstance
+is applied in situations in which a party has a duty to exercise ordinary care. The rule of special
+circumstance is applied in situations in which a party has a duty to exercise ordinary care. The
+rule of special circumstance is applied in situations in which a party has a duty to exercise
+ordinary care. The rule of special circumstance is applied in situations in which a party has a duty
+to exercise ordinary care. The rule of special circumstance is applied in situations in which a
+party has a duty to exercise ordinary care. The rule of special circumstance is applied in
+situations in which a party has a duty to exercise ordinary care. The rule of special circumstance
+is applied in situations in which a party has a duty to exercise ordinary care. The rule of special
+circumstance is applied in situations in which a party has a duty to exercise ordinary care. The
+rule of special circumstance is applied in situations in which a party has a duty to exercise
+ordinary care. The rule of special circumstance is applied in situations in which a party has a duty
+to exercise ordinary care. The rule of
+
+
+**Label:** 
+
+
 **citations:** ['348 U.S. 19', '235 F.2d 741']
 
 ***short_citations_0:*** 348 U.S. 19

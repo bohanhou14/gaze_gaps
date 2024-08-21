@@ -51,6 +51,35 @@ decision on the reopened claim.
 **Label:** 
 
 
+***Meta-Llama-3-8B-Instruct-finetuned:***
+  We have held that the Secretary’s failure to reopen a previously denied claim may not be taken as
+conclusive on the issue of whether the claimant was disabled. See Lauritzen v. Califano, 514 F.2d
+561, 566 (7th Cir. 1975); Coulter v. Weinberger, 527 F.2d 224, 227 (7th Cir. 1975). The regulations,
+20 C.F.R. § 404.957(c)(8), provide that an initial, revised or reconsidered determination may be
+reopened at any time when such initial, revised or reconsidered determination is unfavorable, in
+whole or in part, to the party thereto but only for the purpose of correcting clerical error or
+error on the face of the evidence on which such determination was based. The Social Security Claims
+Manual defines error on the face of the evidence as follows: “An error on the face of the evidence
+exists where, on the basis of all the evidence in the file on which the determination or decision
+was based and any evidence of record anywhere in the Administration at the time such determination
+or decision was made, it is clear that the determination or decision was incorrect.” * * * A
+determination or decision which was reasonable on the basis of the evidence in the file and the
+statute, regulations, instructions, precedents, etc., existing at the time such determination or
+decision was made, is not an error on the face of the evidence. * * *” 20 C.F.R. § 404.957(c)(8).
+See also 20 C.F.R. § 404.957(c)(8). We find that the evidence before us meets the test of error on
+the face of the evidence. The Secretary’s determination that no disability existed on the last day
+of coverage, June 30, 1966, was incorrect. The evidence in the file and the statute, regulations,
+instructions, precedents, etc., existing at the time the determination was made did not support the
+determination. The determination was unreasonable on the basis of the evidence in the file and the
+statute, regulations, instructions, precedents, etc., existing at the time the determination was
+made. * * * We must remand the case to the Secretary for a determination of whether the claimant is
+entitled to benefits for the period prior to June 30, 1966. * * *” * * * * * * * * * * * * * * * * *
+* * * * * *
+
+
+**Label:** 
+
+
 **citations:** ['514 F.2d 561', '527 F.2d 224']
 
 ***short_citations_0:*** 514 F.2d 561

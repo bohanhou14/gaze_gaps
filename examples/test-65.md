@@ -70,6 +70,31 @@ Extension of Admiralty Jurisdiction Act in a sensible and coherent manner.
 **Label:** 
 
 
+***Meta-Llama-3-8B-Instruct-finetuned:***
+  The question whether the accident in our case is an admiralty case is not one of first impression.
+In Yamaha Motor Corp., U.S.A. v. Calhoun, 121 F.3d 1421, 1425-26 (11th Cir.1997), the Eleventh
+Circuit held that the collision of a jet ski with a boat was an admiralty case. In Conticarriers
+Corp. v. Barge CCT-124, 912 F.2d 1355, 1360-61 (5th Cir.1990), the Fifth Circuit held that the
+allision of a tug with a railroad bridge was an admiralty case. And in In re Barge CCT-124, 829 F.2d
+1399, 1402-03 (5th Cir.1987), the Fifth Circuit held that the allision of a barge with a railroad
+bridge was an admiralty case. All of these cases involved accidents that were more closely related
+to traditional maritime activity than the accident in our case. But the accident in our case, like
+those in the Yamaha and Conticarriers cases, was an accident caused by a vessel on navigable waters,
+and the accident in our case, like those in the Yamaha and Conticarriers cases, was an accident
+caused by a vessel on navigable waters, and so it is an admiralty case. The accident in our case,
+like those in the Yamaha and Conticarriers cases, was an accident caused by a vessel on navigable
+waters, and so it is an admiralty case. The accident in our case, like those in the Yamaha and
+Conticarriers cases, was an accident caused by a vessel on navigable waters, and so it is an
+admiralty case. Yamaha, supra, 121 F.3d at 1425-26; Conticarriers, supra, 912 F.2d at 1360-61; Barge
+CCT-124, supra, 829 F.2d at 1402-03. See also 1 Robert Force & Martin J. Norris, The Law of Maritime
+Personal Injuries § 1:17 (5th ed.2005); David W. Robertson & Michael F. Sturley, “The Admiralty
+Extension Act Solution,” 34 J. Maritime L. & Commerce 209, 239-43, 269-73, 297 (2003); Russell J.
+Smith, Note, “Congress
+
+
+**Label:** 
+
+
 **citations:** ['121 F.3d 1421', '912 F.2d 1355', '829 F.2d 1399']
 
 ***short_citations_0:*** 121 F.3d 1421

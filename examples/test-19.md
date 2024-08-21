@@ -59,6 +59,30 @@ of Treasury regulations in the context of tax law.
 **Label:** 
 
 
+***Meta-Llama-3-8B-Instruct-finetuned:***
+  The Balestras also argue that the regulation is arbitrary and capricious because it does not take
+into account an employer’s financial condition. However, the regulation does not require that an
+employer be able to make future payments. See McDonald v. Commissioner, 764 F.2d 322, 324 (10th
+Cir.1985); Gresham v. Commissioner, 752 F.2d 518, 521 (10th Cir.1985). Treasury did not have to
+create a regulation that would consider the employer’s financial condition. The regulation is
+reasonable because it is workable, simple, and flexible. See Chevron, 467 U.S. at 842-44, 104 S.Ct.
+2778. The regulation does not conflict with any law. See id. at 844, 104 S.Ct. 2778. The regulation
+does not require an employer to be able to make future payments. See id. at 844, 104 S.Ct. 2778. The
+regulation is not arbitrary or capricious. See id. at 844, 104 S.Ct. 2778. The regulation does not
+result in a realistic value that does not vary significantly from the willing buyer-willing seller
+standard. See id. at 844, 104 S.Ct. 2778. The regulation does not result in a realistic value that
+does not vary significantly from the willing buyer-willing seller standard. See id. at 844, 104
+S.Ct. 2778. The regulation does not result in a realistic value that does not vary significantly
+from the willing buyer-willing seller standard. See id. at 844, 104 S.Ct. 2778. The regulation does
+not result in a realistic value that does not vary significantly from the willing buyer-willing
+seller standard. See id. at 844, 104 S.Ct. 2778. The regulation does not result in a realistic value
+that does not vary significantly from the willing buyer-willing seller standard. See id. at 844, 104
+S.Ct. 2778.
+
+
+**Label:** 
+
+
 **citations:** ['764 F.2d 322', '752 F.2d 518']
 
 ***short_citations_0:*** 764 F.2d 322

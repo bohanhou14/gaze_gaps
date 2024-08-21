@@ -63,6 +63,33 @@ plaintiff's play by the author or producers of "Conditional Surrender" supports 
 **Label:** 
 
 
+***Meta-Llama-3-8B-Instruct-finetuned:***
+  The District Court found that the two plays were not identical, nor were they copied from one
+another. It found that there were similarities between the two plays, but it did not find that these
+similarities were the result of copying. It found that the similarity between the two plays was not
+the result of access to the plaintiff’s play by the author or producers of “Conditional Surrender.”
+The court found that the similarity was the result of independent creation. In this respect, the
+court was correct. The court was also correct in holding that the similarity between the two plays
+did not constitute the infringement of a copyright. The court correctly held that there was no
+evidence of access or copying. See, e.g., Franchetti v. Franchetti, 7 Cir., 153 F.2d 893, 899;
+Buchanan v. Hollister, 7 Cir., 154 F.2d 480, 483. The court correctly held that the similarity
+between the two plays was not the result of copying, and that the plaintiff failed to prove that the
+defendant had access to the plaintiff’s play. See, e.g., Buchanan v. Hollister, 7 Cir., 154 F.2d
+480, 483. The court correctly held that the plaintiff failed to prove the copying of the defendant’s
+play. See, e.g., Buchanan v. Hollister, 7 Cir., 154 F.2d 480, 483. The court correctly held that the
+plaintiff failed to prove the copying of the defendant’s play. See, e.g., Buchanan v. Hollister, 7
+Cir., 154 F.2d 480, 483. The court correctly held that the plaintiff failed to prove the copying of
+the defendant’s play. See, e.g., Buchanan v. Hollister, 7 Cir., 154 F.2d 480, 483. The court
+correctly held that the plaintiff failed to prove the copying of the defendant’s play. See, e.g.,
+Buchanan v. Hollister, 7 Cir., 154 F.2d 480, 483. The court correctly held that the plaintiff failed
+to prove the copying of the defendant’s play. See, e.g., Buchanan v. Hollister, 7 Cir., 154 F.2d
+480, 483. The court correctly held that the plaintiff failed to prove the copying of the defendant’s
+play. See, e.g., Buchanan v. Hollister, 7 Cir., 154 F
+
+
+**Label:** 
+
+
 **citations:** ['153 F.2d 893', '154 F.2d 480']
 
 ***short_citations_0:*** 153 F.2d 893

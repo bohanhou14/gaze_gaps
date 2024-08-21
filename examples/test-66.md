@@ -67,6 +67,32 @@ were related. <answer>
 **Label:** 
 
 
+***Meta-Llama-3-8B-Instruct-finetuned:***
+  The Seventh Circuit has already addressed the question of what “related” means in an insurance
+policy. In Gregory v. Home Ins. Company, 876 F.2d 602, 605-06 (7th Cir.1989), the court held that
+“related” is a word of broad meaning, encompassing both logical and causal connections. In St. Paul
+Fire & Marine Insurance Co. v. Chong, 787 F.Supp. 183, 186-87 (D.Kan.1992), the court found that the
+term “series of related wrongful acts” was ambiguous and construed it narrowly to refer solely to
+multiple causally connected acts. In the more recent case of St. Paul Fire & Marine Insurance Co. v.
+Chong, 205 F.3d 1258, 1262-63 (10th Cir.2000), the court of appeals for the Tenth Circuit agreed
+with the district court’s construction of the term “series of related wrongful acts” as meaning a
+series of causally connected acts. The court of appeals noted that the Seventh Circuit had
+“concluded that the term ‘related’ is a word of broad meaning, encompassing both logical and causal
+connections,” but that the term “series” added a requirement of causal connection. Id. at 1263. We
+agree with the Seventh Circuit that “related” is a word of broad meaning, encompassing both logical
+and causal connections, and we conclude that the related claims provision in the 1998 policy is not
+ambiguous. The court’s conclusion that the term “series” adds a requirement of causal connection is
+not necessarily inconsistent with our conclusion that the related claims provision is not ambiguous,
+because the court may have been referring to the fact that the term “series” is not inherently
+ambiguous, and the court’s construction of the term “series” was based on the specific context of
+the policy language. Id. at 1263.  Citing cases: 876 F.2d 602, 205 F.3d 1258, 787 F.Supp. 183, 319
+F.3d 338, 946 F.2d 1401, 355 F.3d 1132, 122 N.C.App. 614, 471 S.E.2d 124, 318 N.C. 534, 350 S.E.2d
+66, 319 F.3d 338.
+
+
+**Label:** 
+
+
 **citations:** ['876 F.2d 602', '205 F.3d 1258']
 
 ***short_citations_0:*** 876 F.2d 602

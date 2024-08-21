@@ -53,6 +53,33 @@ reference cases: 755 F.2d 362, 322 F.2d 523, and Touby v. United States, 111 S.C
 **Label:** 
 
 
+***Meta-Llama-3-8B-Instruct-finetuned:***
+  Arch Trading’s contention that the OFAC lacked jurisdiction to issue a license is similarly
+unavailing. While the OFAC’s jurisdiction may be limited, it is not the case that the OFAC had no
+jurisdiction to issue a license in this instance. See United States v. Nilson, 755 F.2d 362, 366
+(4th Cir.1985) (OFAC’s jurisdiction to issue licenses extends to all transactions with Iraq);
+Sinclair v. United States, 279 U.S. 263, 298, 49 S.Ct. 268, 273, 73 L.Ed. 692 (1929) (OFAC’s
+jurisdiction extends to all transactions with Iraq). Moreover, Arch Trading’s argument that it was
+not required to obtain a license because the OFAC’s determination that no license was necessary was
+erroneous is similarly unavailing. The OFAC’s determination that no license was necessary was not an
+official action, and therefore it was not an official action that Arch Trading’s misrepresentations
+could have influenced. See United States v. Clancy, 276 F.2d 617, 635 (7 Cir.), cert. denied, 364
+U.S. 855, 81 S.Ct. 115, 5 L.Ed.2d 93 (1960) (OFAC’s determination that a license was not necessary
+is not an official action); cf. United States v. Biomedical Technologies, 322 F.2d 523, 527 (2nd
+Cir.1963) (OFAC’s determination that a license was not necessary is an official action). Arch
+Trading’s misrepresentations could have influenced the OFAC’s determination that no license was
+necessary, and that is all that is required to establish a § 1001 violation. See Norris, 749 F.2d at
+1122. Arch Trading’s misrepresentations were material to the OFAC’s determination that no license
+was necessary because the OFAC’s determination was based on the assumption that Arch Trading had
+already completed its contractual obligations to the Iraqi government. Arch Trading’s
+misrepresentations that it had completed its contractual obligations to the Iraqi government when in
+fact it had not were material to the OFAC’s determination that no license was necessary. See United
+States v. Seay, 718 F.2d 1279, 1284 (4th Cir.1983), cert. denied, 467 U.S. 1226, 104 S.Ct. 2677
+
+
+**Label:** 
+
+
 **citations:** ['755 F.2d 362', '322 F.2d 523']
 
 ***short_citations_0:*** 755 F.2d 362

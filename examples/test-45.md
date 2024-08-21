@@ -69,6 +69,32 @@ Bradshaw, 462 U.S.
 **Label:** 
 
 
+***Meta-Llama-3-8B-Instruct-finetuned:***
+  Appellant, in this case, claims that the military judge erred in denying the motion to suppress
+because the statements made by him subsequent to his request for counsel were the direct result of
+the government’s failure to provide counsel. The government, however, argues that the statements
+were not the direct result of the government’s failure to provide counsel because they were
+initiated by the accused himself. The government relies on Oregon v. Bradshaw, 462 U.S. 1039, 103
+S.Ct. 2830, 2834, 77 L.Ed.2d 405 (1983) which held that where an accused has invoked his right to
+counsel, and then initiates further conversation with the authorities, the Edwards rule does not
+apply. The government also relies on Michigan v. Mosley, 459 U.S. 38, 103 S.Ct. 321, 74 L.Ed.2d 21
+(1982), which held that the Edwards rule does not apply where the accused initiates further
+conversation with the authorities after his request for counsel. In the instant case, we find that
+the statements made by appellant were initiated by him. The fact that A1C C was present during the
+spontaneous admission by the accused does not alter the fact that the accused initiated the
+conversation. The government did not initiate the conversation, and therefore, the Edwards rule does
+not apply. We, therefore, conclude that the military judge did not err in denying the motion to
+suppress. See also California v. Prysock, 453 U.S. 355, 101 S.Ct. 2806, 69 L.Ed.2d 696 (1981). (Id.
+at 362, 101 S.Ct. at 2811). The military judge’s denial of the motion to suppress was proper. See
+also United States v. Fields, 682 F.2d 135, 137 (8th Cir.1982). (Id. at 138). The conviction is
+affirmed. See also United States v. Armstrong, 9 M.J. 374, 376 (C.M.A. 1980). (Id. at 376). See also
+United States v. Coleman, 41 C.M.R. 832, 833 (NCMR 1970). (Id. at 833). See also United States v.
+Armstrong, 9 M.J. 374, 376 (C.M.A. 1980). (Id. at 376). See also United States
+
+
+**Label:** 
+
+
 **citations:** ['462 U.S. 1039', '459 U.S. 42']
 
 ***short_citations_0:*** 462 U.S. 1039

@@ -27,7 +27,7 @@ the substitution process adheres to the flexible and just principles intended by
 the Federal Rules of Civil Procedure.
 
 
-**Label:** 
+**Label:** 9, 5
 
 
 ***Meta-Llama-3-8B-Instruct:***
@@ -51,7 +51,27 @@ allowing the parties to properly substitute a representative of the deceased and
 in a manner consistent with the Federal Rules of Civil Procedure.
 
 
-**Label:** 
+**Label:** 5
+
+
+***Meta-Llama-3-8B-Instruct-finetuned:***
+  The court’s action was an error in law. In a recent case, the court held that Rule 25(a) (1) “is
+not designed to require a plaintiff to take affirmative action to locate the representative of the
+deceased party. Rather, it is designed to provide a mechanism for the court to manage the case in
+the event the deceased party has not been substituted.” 359 F.2d 292, 294 (C.A. 4, 1966). In another
+case, the court held that the Rule “does not require a plaintiff to institute machinery in order to
+produce a representative of the estate ad litem, pending appointment of the representative
+contemplated by law of the domicile of the deceased.” 379 F.2d 94, 96 (C.A. 7, 1967). In that case,
+the court noted that the “plaintiff’s attorney did not know whether probate of the will might be
+contested, or who would be appointed representative of the estate.” Id. at 96. The court held that
+the suggestion of death was ineffective to trigger the 90-day period under Rule 25(a) (1) where the
+suggestion did not identify a successor or representative of the deceased party. Id. at 96. See
+also, 4A Wright & Miller, Federal Practice and Procedure: Civil 2d, 2451 (1969). The court’s action
+was an error in law. The judgment is reversed, and the case is remanded for further proceedings not
+inconsistent with this opinion. Reversed. (Emphasis added.)
+
+
+**Label:** 6, 5, 4
 
 
 **citations:** ['379 F.2d 94', '359 F.2d 292']

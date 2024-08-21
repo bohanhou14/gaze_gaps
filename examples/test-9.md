@@ -60,6 +60,34 @@ courts.  References:  261 F.3d 1075 384 U.S. 563
 **Label:** 
 
 
+***Meta-Llama-3-8B-Instruct-finetuned:***
+  . 261 F.3d 1075 (11th Cir.2001). It is not enough that the judge’s impartiality is “questionable”
+in the abstract. The inquiry must be whether the judge’s actions “might reasonably be questioned.”
+United States v. Grinnell Corp., 384 U.S. 563, 570 (1966). The Recusal Motions fail to demonstrate
+that my impartiality “might reasonably be questioned.” I have been careful to avoid any appearance
+of partiality. The Recusal Motions are therefore denied. See In re Hussey, 378 B.R. 397
+(Bankr.S.D.Fla.2007). The Recusal Motions are also denied because they are based on a flawed
+understanding of the Local Rules and the requirements of the Florida Bar. The Recusal Motions are
+denied for the same reason that the Emergency Motion was denied. See In re Walker, Case No.
+03-32158-BKC-PGH. The Recusal Motions are denied because they are based on a flawed understanding of
+the Local Rules and the requirements of the Florida Bar. The Recusal Motions are denied for the same
+reason that the Emergency Motion was denied. See In re Walker, Case No. 03-32158-BKC-PGH. The
+Recusal Motions are denied because they are based on a flawed understanding of the Local Rules and
+the requirements of the Florida Bar. The Recusal Motions are denied for the same reason that the
+Emergency Motion was denied. See In re Walker, Case No. 03-32158-BKC-PGH. The Recusal Motions are
+denied because they are based on a flawed understanding of the Local Rules and the requirements of
+the Florida Bar. The Recusal Motions are denied for the same reason that the Emergency Motion was
+denied. See In re Walker, Case No. 03-32158-BKC-PGH. The Recusal Motions are denied because they are
+based on a flawed understanding of the Local Rules and the requirements of the Florida Bar. The
+Recusal Motions are denied for the same reason that the Emergency Motion was denied. See In re
+Walker, Case No. 03-32158-BKC-PGH. The Recusal Motions are denied because they are based on a flawed
+understanding of the Local Rules and the requirements of the Florida Bar. The Recusal Motions are
+denied for the same reason that the Emergency Motion was denied. See In re Walker, Case No. 03-321
+
+
+**Label:** 
+
+
 **citations:** ['261 F.3d 1075', '384 U.S. 563']
 
 ***short_citations_0:*** 261 F.3d 1075

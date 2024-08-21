@@ -58,6 +58,28 @@ is reversed, and the case is remanded for further proceedings.
 **Label:** 
 
 
+***Meta-Llama-3-8B-Instruct-finetuned:***
+  Here, the trial court did not make any findings of fact or inferences from the evidence to support
+the conclusion that the Website posed a “substantial likelihood” of prejudice. See United States v.
+Batchelor, 279 F.2d 41, 42 (5th Cir.1959) (noting that the trial court’s failure to make findings of
+fact or inferences from the evidence “render[s] the judgment void”). Moreover, the trial court did
+not “articulate[ ] a clear and specific justification for the restraint,” as required by the Fifth
+Circuit in Batchelor. Id. at 42 (citing United States v. O'Brien, 391 U.S. 367, 382, 88 S.Ct. 1673,
+20 L.Ed.2d 672 (1968)). The Fifth Circuit has also explicitly recognized that a “prior restraint” is
+“invalid” if it is “not supported by findings of fact or inferences from the evidence.” See United
+States v. Rodriguez, 682 F.3d 400, 408 (5th Cir.2012). We must, therefore, reverse the district
+court’s order to the extent it orders the Website to be taken down. We remand for the district court
+to make findings of fact or inferences from the evidence to support the conclusion that the Website
+poses a “substantial likelihood” of prejudice. If the district court makes such findings, we direct
+the district court to consider the application of the “least restrictive means” principle in
+restricting the Website. See Brown, 218 F.3d at 425. If the district court cannot make such
+findings, we instruct the district court to vacate the order in its entirety. See Batchelor, 279
+F.2d at 42.
+
+
+**Label:** 
+
+
 **citations:** ['279 F.2d 41', '682 F.3d 400']
 
 ***short_citations_0:*** 279 F.2d 41

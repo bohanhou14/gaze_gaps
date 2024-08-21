@@ -51,6 +51,26 @@ determined by the jury.
 **Label:** 
 
 
+***Meta-Llama-3-8B-Instruct-finetuned:***
+  . See also, e. g., Curtis Publishing Co. v. Butts, 127 U.S.App.D.C. 142, 146, 381 F.2d 733, 737
+(en banc, 1967); Time, Inc. v. Hill, 385 U.S. 374, 87 S.Ct. 534, 17 L.Ed.2d 456 (1967). We note that
+the Court of Appeals for the District of Columbia has recently held that a statement of opinion,
+even if it is not actionable per se, may be actionable if it is made with actual malice. See, e. g.,
+Washington Post Co. v. Keogh, 125 U.S.App.D.C. 26, 365 F.2d 368 (en banc, 1966); Washington Post Co.
+v. Keogh, 132 F.2d 734, 737 (en banc, 1942). See also, e. g., New York Times Co. v. Sullivan, 376
+U.S. 254, 84 S.Ct. 710, 11 L.Ed.2d 686 (1964). However, in the instant case, we are concerned only
+with the question whether the statement in question is capable of being understood as defamatory.
+See, e. g., 278 F.2d 23, 26 (en banc, 1960); 132 F.2d 734, 736 (en banc, 1942). We hold that it is.
+See also, e. g., 125 U.S.App.D.C. 70, 75, 366 F.2d 649, 654 (en banc, 1966). We therefore remand for
+further proceedings. See also, e. g., Afro-American Publishing Co. v. Jaffe, 125 U.S.App.D.C. 70,
+75, 366 F.2d 649, 654 (en banc, 1966). See also, e. g., 127 U.S.App.D.C. 142, 146, 381 F.2d 733, 737
+(en banc, 1967). See also, e. g., Time, Inc. v. Hill, 385 U.S. 374, 87 S.Ct. 534, 17 L.Ed.2d 456
+(1967). See also, e. g
+
+
+**Label:** 
+
+
 **citations:** ['278 F.2d 23', '132 F.2d 734']
 
 ***short_citations_0:*** 278 F.2d 23

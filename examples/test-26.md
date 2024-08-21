@@ -56,6 +56,28 @@ that is protected by the First Amendment.
 **Label:** 
 
 
+***Meta-Llama-3-8B-Instruct-finetuned:***
+  We do not agree with plaintiff’s contention that the evidence obtained in the course of a search
+warrant issued under 18 U.S.C. § 2516(1) is inadmissible because the warrant was issued without
+probable cause. See Spinelli v. United States, 393 U.S. 410, 89 S.Ct. 584, 21 L.Ed.2d 637 (1969);
+Aguilar v. Texas, 378 U.S. 108, 84 S.Ct. 1509, 12 L.Ed.2d 723 (1964). We also do not agree with
+plaintiff’s contention that the search warrant was invalid because it was issued without probable
+cause. See Spinelli v. United States, 393 U.S. 410, 89 S.Ct. 584, 21 L.Ed.2d 637 (1969); Aguilar v.
+Texas, 378 U.S. 108, 84 S.Ct. 1509, 12 L.Ed.2d 723 (1964). See also, United States v. Lookretis, 385
+F.2d 487, 489 (7 Cir., 1967), vacated on other grounds, 390 U.S. 338, 88 S.Ct. 1097, 19 L.Ed.2d 1219
+(1968). Finally, we do not agree with plaintiff’s contention that the search warrant was invalid
+because it was issued without a showing of necessity. See Spinelli v. United States, 393 U.S. 410,
+89 S.Ct. 584, 21 L.Ed.2d 637 (1969); Aguilar v. Texas, 378 U.S. 108, 84 S.Ct. 1509, 12 L.Ed.2d 723
+(1964). See also, United States v. Lookretis, 385 F.2d 487, 489 (7 Cir., 1967), vacated on other
+grounds, 390 U.S. 338, 88 S.Ct. 1097, 19 L.Ed.2d 1219 (1968). We have considered all of plaintiff’s
+contentions and reject them. We affirm the judgment of the District Court. We are of the opinion
+that the transmission of information as to wagers, betting odds, or changes in betting odds by
+telephone, as done by plaintiff, is a violation of the Illinois statute. We
+
+
+**Label:** 
+
+
 **citations:** ['378 U.S. 108', '393 U.S. 410']
 
 ***short_citations_0:*** 378 U.S. 108

@@ -39,6 +39,26 @@ ears!
 **Label:** 
 
 
+***Meta-Llama-3-8B-Instruct-finetuned:***
+  . See Giannullo v. Winfrey, 322 F.3d 139, 143 n. 5 (2d Cir.2003) (holding that a movant must
+verify in the record the assertions in a motion for summary judgment); Champion v. Artuz, 76 F.3d
+483, 486 (2d Cir.1996) (holding that a movant must show the absence of a genuine issue for trial).
+See also Spigelman v. Breslin, 373 F.3d 241, 244 (2d Cir.2004) (holding that a movant must show that
+the non-movant has failed to make a showing sufficient to require a trial). See also Fed.R.Civ.P.
+56(c). See also Fed.R.Civ.P. 56(e). See also Local Rule 56.1. See also Local Rule 56.1(a), (d). See
+also Local Rule 56.1(c). See also Holtz v. Rockefeller & Co., Inc., 258 F.3d 62, 74 (2d Cir.2001).
+See also Kelly-Brown v. Winfrey, 717 F.3d 294, 308 (2d Cir.2013). See also Kelly-Brown v. Winfrey,
+717 F.3d 294, 308 n. 7 (2d Cir.2013). See also Kelly-Brown v. Winfrey, 717 F.3d 294, 314 (2d
+Cir.2013). See also Kelly-Brown v. Winfrey, 717 F.3d 294, 314 n. 10 (2d Cir.2013). See also Kelly-
+Brown v. Winfrey, 717 F.3d 294, 314 n. 10 (2d Cir.2013). See also Kelly-Brown v. Winfrey, 717 F.3d
+294, 314 n. 10 (2d Cir.2013). See also Kelly-Brown v. Winfrey, 717 F.3d 294, 314 n. 10 (2d
+Cir.2013). See also Kelly-Brown v. Winfrey, 717 F.3d 294, 314 n. 10 (2d Cir.2013). See also Kelly-
+Brown v. Winfrey, 717 F.3d
+
+
+**Label:** 
+
+
 **citations:** ['373 F.3d 241', '322 F.3d 139']
 
 ***short_citations_0:*** 373 F.3d 241

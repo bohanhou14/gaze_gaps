@@ -65,6 +65,29 @@ Therefore, the seizure of the $500,000 and the subsequent forfeiture are justifi
 **Label:** 
 
 
+***Meta-Llama-3-8B-Instruct-finetuned:***
+  The government argues that Gordin’s actions were “strongly corroborative of the firmness of the
+actor’s intent to complete the commission of the offense.” United States v. Martinez, 775 F.2d 31,
+35 (2d Cir.1985), quoting United States v. Jenkins, 943 F.2d 167, 171 (2d Cir.1991), citing United
+States v. Manley, 543 F.2d 1038, 1042 (2d Cir.1976), cert. denied, 429 U.S. 1043, 97 S.Ct. 741, 50
+L.Ed.2d 753 (1977), citing United States v. Coplon, 185 F.2d 629, 634 (2d Cir.1950), cert. denied,
+342 U.S. 920, 72 S.Ct. 362, 96 L.Ed. 688 (1952). See United States v. $359,500 in United States
+Currency, 828 F.2d 930, 933 (2d Cir.1987), citing United States v. Donahue, 499 F.2d 370, 373 (3d
+Cir.1974). The court must consider whether Gordin took a “substantial step” toward the commission of
+the offense. United States v. Martinez, 775 F.2d at 35, quoting United States v. Jenkins, 943 F.2d
+at 171. The substantial step inquiry is a factual determination. United States v. Young, 745 F.2d
+733, 762 (2d Cir.1984), cert. denied, — U.S. —, 105 S.Ct. 1842, 85 L.Ed.2d 142 (1985). The
+government argues that Gordin’s actions were a substantial step because he had not begun to
+transport the money, nor was he about to transport it to a point outside the United States, but he
+had taken the first step in a continuum that would lead to the actual transport out of the United
+States. United States v. Martinez, 775 F.2d at 35. The court must consider whether Gordin’s actions
+were “strongly corroborative of the firmness of the actor’s intent to complete the commission of the
+offense.” United States v. Martinez, 775 F.2d at 35, quoting United States
+
+
+**Label:** 
+
+
 **citations:** ['943 F.2d 167', '543 F.2d 1038', '775 F.2d 31', '185 F.2d 629', '499 F.2d 370']
 
 ***short_citations_0:*** 943 F.2d 167

@@ -60,6 +60,28 @@ respect to them.  Finally
 **Label:** 
 
 
+***Meta-Llama-3-8B-Instruct-finetuned:***
+  The Court in Monell did not hold that a municipality is liable whenever a majority of its agents
+or a council, in this case, the Bensalem Township Council, act in a manner that infringes upon the
+First Amendment rights of a citizen. In Pembaur v. City of Cincinnati, 475 U.S. 469, 483-84, 106
+S.Ct. 1292, 1302, 89 L.Ed.2d 452 (1986), the Court clarified that a municipality is only liable when
+its “policies or customs” are the “moving force” behind the constitutional violation. Similarly, in
+City of Canton v. Harris, 489 U.S. 378, 109 S.Ct. 1197, 103 L.Ed.2d 412 (1989), the Court held that
+a municipality is only liable when its “policies or customs” are the “moving force” behind the
+constitutional violation. In the instant case, there is no evidence that Bensalem Township had a
+policy or custom that would have led to the suppression of Wilkinson’s First Amendment rights. As a
+result, we cannot find a genuine issue of material fact as to the liability of Bensalem Township. We
+shall deny plaintiffs motion for partial summary judgment and grant defendants’ motion for summary
+judgment with respect to Bensalem Township. See Pembaur, 475 U.S. at 483-84, 106 S.Ct. at 1302; City
+of Canton, 489 U.S. at 390-91, 109 S.Ct. at 1205-06; Monell, 436 U.S. at 694, 98 S.Ct. at 2037-38. …
+(398 U.S. 144, 90 S.Ct. 1782, 26 L.Ed.2d 68 (1970)). … (398 U.S. 144, 90 S.Ct. 1782, 26 L.Ed.2d 68
+(1970)). … (398 U.S. 144, 90 S.Ct. 1782, 26 L.Ed.2d 68 (1970)). … (398 U.S. 144, 90 S.Ct. 1782, 26
+L.Ed.2d 68 (1970)). … (398 U.S. 144, 90 S.Ct. 1782, 26 L.Ed.2d 68 (1970)). … (398 U.S
+
+
+**Label:** 
+
+
 **citations:** ['398 U.S. 144', '489 U.S. 378']
 
 ***short_citations_0:*** 398 U.S. 144

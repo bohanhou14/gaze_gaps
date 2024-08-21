@@ -62,6 +62,27 @@ that she was qualified for the position, and that she was subjected to an advers
 **Label:** 
 
 
+***Meta-Llama-3-8B-Instruct-finetuned:***
+  . In Hassell v. Harmon Foods, Inc., 336 F.Supp. 432 (W.D.Tenn.1971), aff'd, 454 F.2d 199 (6th
+Cir.1972), the Sixth Circuit held that a parent corporation is not liable for the Title VII
+violations of its wholly-owned subsidiary. See also, Gulf & Western Industries, Inc. v. Watson, 650
+F.2d 990 (6th Cir.1981); Lockard v. Pizza Hut, Inc., 3 F.3d 1357 (6th Cir.1993); and, M & M
+Properties, Inc. v. Northwestern Bell, Inc., 162 F.3d 1062 (8th Cir.1998). In the Lockard case, the
+Sixth Circuit held that a parent corporation is not liable for the Title VII violations of its
+wholly-owned subsidiary where there is no evidence that the parent corporation participated in or
+influenced the employment policies of the subsidiary. See, 3 F.3d at 1363. In the M & M Properties,
+Inc. case, the Eighth Circuit held that a parent corporation is not liable for the Title VII
+violations of its wholly-owned subsidiary where there is no evidence that the parent corporation was
+involved in the subsidiary’s day-to-day operations or made decisions that affected the subsidiary’s
+employment practices. See, 162 F.3d at 1068. In both cases, the courts relied on the principle that
+a parent corporation is not liable for the Title VII violations of its wholly-owned subsidiary
+unless there is evidence that the parent corporation participated in or influenced the employment
+policies of the subsidiary. See, 650 F.2d at 994; 3 F.3d at 1363; and, 162 F.3d at 1068.
+
+
+**Label:** 
+
+
 **citations:** ['650 F.2d 990', '3 F.3d 1357', '162 F.3d 1062']
 
 ***short_citations_0:*** 650 F.2d 990

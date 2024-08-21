@@ -59,6 +59,33 @@ findings and are not clearly erroneous. The judgment is therefore affirmed.
 **Label:** 
 
 
+***Meta-Llama-3-8B-Instruct-finetuned:***
+  The district court’s finding that no fraud was practiced upon petitioner in connection with his
+enlistment contract is supported by the evidence in this case. In United States v. Vietnam Veterans
+Against the War, 420 F.2d 945, 948 (9th Cir.1970), the court held that “the fact that a person has
+signed an enlistment contract does not necessarily mean that he was induced to do so by fraud or
+misrepresentation.” In Pence v. Brown, 627 F.2d 872, 874 (8th Cir.1980), the court held that “the
+fact that a person has signed an enlistment contract does not necessarily mean that he was induced
+to do so by fraud or misrepresentation.” Id. at 874. See also Shelton v. Brunson, 465 F.2d 144, 146
+(5th Cir.1972). Petitioner’s claim that the Army’s decision not to grant him a JAGC position was a
+breach of contract is also unavailing. The Army’s decision was based on a legitimate military
+requirement. Petitioner’s failure to be selected for the JAGC did not constitute a breach of the
+enlistment contract. See e.g., Withum v. O’Connor, 506 F.Supp. 1374, 1377 (D.P.R.1981). Finally,
+petitioner’s constitutional claim is also unavailing. Petitioner has failed to demonstrate that he
+was denied a JAGC position because of his exercise of First Amendment rights. See e.g., Shelton v.
+Brunson, 465 F.2d 144, 146 (5th Cir.1972). The Army’s decision not to grant him a JAGC position was
+based on a legitimate military requirement and not on his exercise of First Amendment rights. See
+e.g., Withum v. O’Connor, 506 F.Supp. 1374, 1377 (D.P.R.1981). Petitioner has failed to demonstrate
+that he will suffer irreparable injury if the injunction is not granted. Petitioner has failed to
+demonstrate that he will suffer irreparable injury if the injunction is not granted. Petitioner has
+failed to demonstrate that he will suffer irreparable injury if the injunction is not granted.
+Petitioner has failed to demonstrate that he will suffer irreparable injury if the injunction is not
+granted.
+
+
+**Label:** 
+
+
 **citations:** ['420 F.2d 945', '627 F.2d 872']
 
 ***short_citations_0:*** 420 F.2d 945

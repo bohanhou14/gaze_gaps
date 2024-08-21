@@ -50,6 +50,31 @@ research. The court notes that the defendants' use was commercial in
 **Label:** 
 
 
+***Meta-Llama-3-8B-Instruct-finetuned:***
+  (iii) Attorneys’ Fees As a final remedy, Plaintiffs request attorneys’ fees and costs under 17
+U.S.C. § 504(c). The Court finds that such a request is reasonable and hereby awards Plaintiffs
+attorneys’ fees and costs in the amount of $34,152.97. In support of this award, the Court cites the
+authority of Russell v. Price, 612 F.2d 1123, 1131-32 (9th Cir.1979), cert. denied, 446 U.S. 952,
+100 S.Ct. 2919, 64 L.Ed.2d 809 (1980), where the Ninth Circuit held that the district court has
+discretion to award attorneys’ fees in copyright infringement cases, and that such an award should
+be made where the plaintiff prevails. See also, 17 U.S.C. § 504(c). Furthermore, the Court cites the
+authority of L.A. Westermann Co. v. Dispatch Printing Co., 249 U.S. 100, 39 S.Ct. 194, 63 L.Ed. 499
+(1919), where the Supreme Court held that the court has discretion to award attorneys’ fees in
+copyright infringement cases, and that such an award should be made where the plaintiff prevails.
+See also, 17 U.S.C. § 504(c). Furthermore, the Court cites the authority of L.A. Westermann Co. v.
+Dispatch Printing Co., 249 U.S. 100, 39 S.Ct. 194, 63 L.Ed. 499 (1919), where the Supreme Court held
+that the court has discretion to award attorneys’ fees in copyright infringement cases, and that
+such an award should be made where the plaintiff prevails. See also, 17 U.S.C. § 504(c).
+Furthermore, the Court cites the authority of L.A. Westermann Co. v. Dispatch Printing Co., 249 U.S.
+100, 39 S.Ct. 194, 63 L.Ed. 499 (1919), where the Supreme Court held that the court has discretion
+to award attorneys’ fees in copyright infringement cases, and that such an award should be made
+where the plaintiff prevails. See also, 17 U.S.C. § 504(c). Furthermore, the Court cites the
+authority of L.A. Westermann Co. v. Dispatch Printing Co., 249 U.S. 100, 39 S.Ct. 194,
+
+
+**Label:** 
+
+
 **citations:** ['734 F.2d 1329', '734 F.2d 1329', '725 F.2d 1']
 
 ***short_citations_0:*** 734 F.2d 1329

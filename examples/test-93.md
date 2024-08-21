@@ -37,6 +37,36 @@ discrimination under Title VII and Ohio law.  Rogers alleged that she
 **Label:** 
 
 
+***Meta-Llama-3-8B-Instruct-finetuned:***
+  The Court in Thornton v. Federal Express Corp., 530 F.3d 451, 456 (6th Cir.2008), noted that the
+Court in Hafford v. Ohio Department of Rehabilitation & Correction, 183 F.3d 506, 514 (6th
+Cir.1999), held that a plaintiff “must demonstrate that the alleged harassment was not only
+unwelcome but also objectively offensive and that it was severe or pervasive enough to alter the
+conditions of the plaintiff’s employment.” As the Court in Hafford observed, “the test is not
+whether the plaintiff found the conduct offensive but whether a reasonable person would find the
+conduct offensive.” In the context of a hostile work environment claim, a plaintiff must show that
+the alleged harassment was not only unwelcome but also objectively offensive and that it was severe
+or pervasive enough to alter the conditions of the plaintiff’s employment. See also Harris v.
+General Motors Corp., 201 F.3d 800, 803 (6th Cir.2000) (noting that the “plaintiff must demonstrate
+that the alleged harassment was not only unwelcome but also objectively offensive and that it was
+severe or pervasive enough to alter the conditions of the plaintiff’s employment.”). In this
+instance, Ms. Rogers has failed to establish a genuine issue of material fact regarding her hostile
+work environment claim. Even if the Court were to assume that her perception by the Defendant as a
+medical malingerer was an act of harassment, the record does not demonstrate that a reasonable
+person would find such conduct objectively offensive. See, e.g., Hafford, 183 F.3d at 514. As the
+Court in Hafford further noted, “the test is not whether the plaintiff found the conduct offensive
+but whether a reasonable person would find the conduct offensive.” As there is no evidence that a
+reasonable person would find the Defendant’s perception of Ms. Rogers as a medical malingerer to be
+objectively offensive, the claim of hostile work environment harassment fails. See, e.g., Hafford,
+183 F.3d at 514. The same analysis applies to any claims under Title VII or Ohio law. See, e.g.,
+Harris, 201 F.3d at 803. As Ms. Rogers has failed to establish a genuine issue of material fact
+regarding her hostile work environment claim, her claim under harassment is without merit as a
+matter of law. See, e.g., Hafford, 183 F.3d at 514.
+
+
+**Label:** 
+
+
 **citations:** ['530 F.3d 451', '183 F.3d 506']
 
 ***short_citations_0:*** 530 F.3d 451

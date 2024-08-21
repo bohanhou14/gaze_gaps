@@ -61,6 +61,32 @@ present during the FBI's interrogation of the defendant on January 24,
 **Label:** 
 
 
+***Meta-Llama-3-8B-Instruct-finetuned:***
+  The defense argues that Massiah’s rights under the Sixth Amendment were violated by the
+government’s continued investigation after the indictment and by the surreptitious obtaining of
+incriminating statements from him while he was free on bail. This argument is, of course, based upon
+Massiah v. United States, 377 U.S. 201, 84 S.Ct. 1199, 12 L.Ed.2d 246 (1964). See also Spano v. New
+York, 360 U.S. 315, 79 S.Ct. 1202, 3 L.Ed.2d 1265 (1959). The defense, however, makes no claim that
+counsel was ineffective in the sense that he failed to do anything. See, e. g., United States v.
+Massiah, 335 F.2d 176 (2 Cir. 1964), cert. granted, 379 U.S. 1023, 85 S.Ct. 622, 13 L.Ed.2d 495. The
+defense does not claim that Kaufman’s counsel did not do something that should have been done. The
+defense does not claim that Kaufman’s counsel did something that was not done. The defense does not
+claim that Kaufman’s counsel did something wrong. The defense does not claim that Kaufman’s counsel
+did something that was ineffective in the sense that it was not effective. See, e. g., United States
+v. Cronic, 383 F.2d 443 (5 Cir. 1967), cert. denied, 390 U.S. 934, 88 S.Ct. 1044, 19 L.Ed.2d 1134.
+The defense does not claim that Kaufman’s counsel was ineffective in the sense that he did not do
+what he was supposed to do. The defense does not claim that Kaufman’s counsel was ineffective in the
+sense that he did not do what he should have done. The defense does not claim that Kaufman’s counsel
+was ineffective in the sense that he did not do what he did. The defense does not claim that
+Kaufman’s counsel was ineffective in the sense that he did not do what he should have done. The
+defense does not claim that Kaufman’s counsel was ineffective in the sense that he did not do what
+he did. The defense does not claim that Kaufman’s counsel was ineffective in the sense that he did
+not do what he should have done. The defense does not claim that Kaufman’s counsel
+
+
+**Label:** 
+
+
 **citations:** ['377 U.S. 201', '360 U.S. 315', '335 F.2d 176']
 
 ***short_citations_0:*** 377 U.S. 201

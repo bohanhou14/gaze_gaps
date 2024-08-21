@@ -48,6 +48,33 @@ sentencing calculation was reasonable.
 **Label:** 
 
 
+***Meta-Llama-3-8B-Instruct-finetuned:***
+  . The court's findings on the enhancements dramatically increased Olis's sentencing range beyond
+the minimum span permitted by the jury's verdict. See United States v. Kikumura, 918 F.2d 1084, 1092
+(5th Cir.1990). Olis's sentence of imprisonment was nearly twenty-five years. Olis, like Kikumura,
+did not raise his Booker objection in the district court. United States v. Booker, 543 U.S. 220, 125
+S.Ct. 738, 160 L.Ed.2d 621 (2005). Olis's Booker objection is preserved, however, by his repeated
+objections before and during his sentencing hearing. United States v. Akpan, 407 F.3d 360, 375-76
+(5th Cir.2005). Olis's Sixth Amendment right to a jury trial was violated because the district court
+enhanced his sentence under the mandatory guidelines regime based on facts not proved to the jury
+beyond a reasonable doubt. Id. at 376. Olis is entitled to resentencing. Id. at 377. The Government
+bears the burden of showing harmless error by demonstrating beyond a reasonable doubt that the
+federal constitutional error of which Olis complains did not contribute to the sentence that he
+received. Id. The Government has not met this burden. Id. Olis's sentence is vacated and remanded.
+Id. Olis's Booker objection is preserved, and he is entitled to resentencing. Id. Olis's sentence of
+imprisonment is vacated and remanded. Id. at 377. The Government has not met its burden of showing
+harmless error. Id. Olis's Booker objection is preserved, and he is entitled to resentencing. Id. at
+377. Olis's sentence of imprisonment is vacated and remanded. Id. at 377. Olis's Booker objection is
+preserved, and he is entitled to resentencing. Id. at 377. Olis's sentence of imprisonment is
+vacated and remanded. Id. at 377. Olis's Booker objection is preserved, and he is entitled to
+resentencing. Id. at 377. Olis's sentence of imprisonment is vacated and remanded. Id. at 377.
+Olis's Booker objection is preserved, and he is entitled to resentencing. Id. at 377. Olis's
+sentence of imprisonment is vacated and remanded. Id. at 377. Olis's Booker objection is
+
+
+**Label:** 
+
+
 **citations:** ['477 U.S. 79', '918 F.2d 1084']
 
 ***short_citations_0:*** 477 U.S. 79

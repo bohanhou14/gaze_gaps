@@ -71,6 +71,27 @@ in the same suit for it would be barred if asserted separately, subsequently.
 **Label:** 
 
 
+***Meta-Llama-3-8B-Instruct-finetuned:***
+  In this regard, the defendants’ reliance on cases like Cooper v. F.R. Trippett & Co., 286 F.2d 631
+(2d Cir.), cert. denied, 366 U.S. 923, 81 S.Ct. 1447, 6 L.Ed.2d 783 (1961), and In re: Potash, 430
+F.2d 1077 (2d Cir.1970), and In re: Potash, 426 F.2d 709 (2d Cir.1970), is misplaced. See, e.g., In
+re: Potash, 430 F.2d at 1083, and In re: Potash, 426 F.2d at 712. The defendants also cite to cases
+that do not support their contention, such as In re: Potash, 430 F.2d at 1084. See, e.g., In re:
+Potash, 430 F.2d at 1084. Finally, the defendants argue that certification under Rule 23(b)(3) will
+be “piecemeal” litigation, citing cases like Cooper v. F.R. Trippett & Co., supra, and In re:
+Potash, supra. See, e.g., Cooper v. F.R. Trippett & Co., supra, at 634, and In re: Potash, supra, at
+712. However, the defendants do not explain how their proposed alternative — individual trials —
+will avoid piecemeal litigation. See, e.g., In re: Potash, 430 F.2d at 1084. In this regard, the
+defendants’ contention is somewhat similar to that made in In re: Potash, 426 F.2d at 712, where the
+court said: “The doctrine of res judicata compels the counterclaimant to assert his claim in the
+same suit for it would be barred if asserted separately, subsequently.” Id. at 712. The defendants
+do not explain how their proposed alternative — individual trials — will avoid the doctrine of res
+judicata. See, e.g., In re: Potash, 430 F.2d at 1084.
+
+
+**Label:** 
+
+
 **citations:** ['286 F.2d 631', '430 F.2d 1077', '426 F.2d 709']
 
 ***short_citations_0:*** 286 F.2d 631

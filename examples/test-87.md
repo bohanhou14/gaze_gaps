@@ -56,6 +56,22 @@ and reversal is justified only when there is no evidence whatsoever to sustain t
 **Label:** 
 
 
+***Meta-Llama-3-8B-Instruct-finetuned:***
+  The bankruptcy court did not err in failing to provide appellant with an opportunity to supplement
+its application before denying some amount of the requested compensation. See In re Paster, 119 B.R.
+468, 470 (E.D.Pa.1990); In re Constan Corp., No. 91-7176, 1992 WL 55694, at *1-*2 (E.D.Pa. Mar. 17,
+1992); In re Paul, 141 B.R. 302, 302 (E.D.Pa.1992). Nor did the court err in failing to provide a
+detailed explanation of its reasons for denying the fees, as it is not required to do so unless it
+determines that the applicant sought in good faith to comply with the specificity requirements. See
+In re Rusty Jones, 134 B.R. 333, 333 (E.D.Pa.1991); In re Hensley, 19 F.3d 833, 834 (8th Cir.1994);
+In re 711 F.2d 1136 (8th Cir.1983). The bankruptcy court’s decision is supported by the record, and
+this court will not disturb it. See In re Nine Assocs., 76 B.R. 943, 944 (S.D.N.Y.1987). The appeal
+is denied. (Id.) at 944. (Id.) at 944. (Id.) at 944. (Id.) at 944. (Id.) at 944.
+
+
+**Label:** 
+
+
 **citations:** ['19 F.3d 833', '19 F.3d 833', '711 F.2d 1136']
 
 ***short_citations_0:*** 19 F.3d 833

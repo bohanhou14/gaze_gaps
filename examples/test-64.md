@@ -59,6 +59,27 @@ Therefore, the conviction and restitution order should be affirmed.
 **Label:** 
 
 
+***Meta-Llama-3-8B-Instruct-finetuned:***
+  The court of appeals for this circuit has consistently held that a commercial hotel satisfies the
+interstate commerce requirement of 18 U.S.C. § 844(i). Williams v. United States, 299 F.3d 250, 253
+(5th Cir.2002) (citing Gaydos v. United States, 108 F.3d 507, 510 (5th Cir.1997) (holding that a
+vacant rental property remained in or was intended to return to the stream of commerce when a
+defendant set it on fire)). Furthermore, this circuit has consistently held that a rental property
+satisfies the interstate commerce requirement of 18 U.S.C. § 844(i). Turner v. United States, 63
+F.3d 1422, 1425 (5th Cir.1995) (citing Russell v. United States, 471 U.S. 858, 862, 105 S.Ct. 2455,
+2457, 85 L.Ed.2d 829, 833 (1985)). In Russell, the Supreme Court held that the rental of a two-unit
+apartment building constitutes a sufficient link to interstate commerce. Russell, 471 U.S. at 862,
+105 S.Ct. at 2457, 85 L.Ed.2d at 833. The government presented evidence that the hotel in this case
+was used in the rental market and that the hotel was intended to be used in the rental market. The
+government also presented evidence that the hotel was advertised nationwide and that the hotel
+provided services for out-of-state guests. Therefore, a rational jury could have found that the
+government proved each element of the offense beyond a reasonable doubt. United States v. Cavin, 39
+F.3d 1299, 1305 (5th Cir.1994). (more)
+
+
+**Label:** 
+
+
 **citations:** ['299 F.3d 250', '63 F.3d 1422', '995 F.2d 1357']
 
 ***short_citations_0:*** 299 F.3d 250

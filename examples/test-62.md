@@ -63,6 +63,34 @@ of constitutional rights.
 **Label:** 
 
 
+***Meta-Llama-3-8B-Instruct-finetuned:***
+  . See Montilla v. INS, 926 F.2d 162, 169 (2d Cir. 1991) (hereinafter, “Montilla I “) (holding that
+an alien need not show prejudice before obtaining relief when the INS fails to adhere to its own
+regulations); Waldron v. INS, 994 F.2d 71, 76-77 (2d Cir. 1993) (hereinafter, “Waldron “) (applying
+Montilla I to the instant case, where the INS failed to comply with its own regulations). See also
+INS v. Lopez-Mendoza, 468 U.S. 1032, 1045, 104 S.Ct. 3479, 3486, 82 L.Ed.2d 778 (1984) (holding that
+an alien need not show prejudice before obtaining relief when the INS fails to comply with its own
+regulations). (Citations omitted). The INS, however, argues that the instant case is distinguishable
+from Montilla I because the instant case involves a deportation proceeding, while Montilla I
+involved a criminal proceeding. This distinction, however, is not sufficient to overcome the
+prejudice standard. Waldron, 994 F.2d at 76-77. The INS also argues that the instant case is
+distinguishable from Montilla I because the instant case involves a deportation proceeding, while
+Montilla I involved a criminal proceeding. This distinction, however, is not sufficient to overcome
+the prejudice standard. Waldron, 994 F.2d at 76-77. The INS also argues that the instant case is
+distinguishable from Montilla I because the instant case involves a deportation proceeding, while
+Montilla I involved a criminal proceeding. This distinction, however, is not sufficient to overcome
+the prejudice standard. Waldron, 994 F.2d at 76-77. The INS also argues that the instant case is
+distinguishable from Montilla I because the instant case involves a deportation proceeding, while
+Montilla I involved a criminal proceeding. This distinction, however, is not sufficient to overcome
+the prejudice standard. Waldron, 994 F.2d at 76-77. The INS also argues that the instant case is
+distinguishable from Montilla I because the instant case involves a deportation proceeding, while
+Montilla I involved a criminal proceeding. This distinction, however, is not sufficient to overcome
+the prejudice standard. Waldron, 994 F.2d at 76-77.
+
+
+**Label:** 
+
+
 **citations:** ['926 F.2d 162', '994 F.2d 71']
 
 ***short_citations_0:*** 926 F.2d 162

@@ -71,6 +71,30 @@ Reference: United States v. Clouston, 623 F.2d 485 (6th Cir.1980); Michigan v. S
 **Label:** 
 
 
+***Meta-Llama-3-8B-Instruct-finetuned:***
+  The filming of the home, too, was reasonable under the circumstances. The Supreme Court has
+approved the use of videotape in the execution of a search warrant, see, e.g., United States v.
+Ross, 456 U.S. 798, 823, 102 S.Ct. 2136, 72 L.Ed.2d 572 (1982), and the filming of the home in this
+case was similarly justified. Moreover, because the filming was not intended to intimidate the Brays
+or to capture their intimate moments, it did not violate the Fourth Amendment. See, e.g., United
+States v. White, 711 F.3d 1267, 1275-76 (11th Cir.2013). Although the Supreme Court has questioned
+the permissibility of warrantless filming of a home, see, e.g., Wilson v. Layne, 526 U.S. 603,
+617-20, 119 S.Ct. 1692, 143 L.Ed.2d 818 (1999), it has not done so in a case involving the execution
+of a court order. In any event, the filming in this case was reasonable under the circumstances, and
+the marshals are protected by qualified immunity. See, e.g., United States v. Willis, 759 F.2d 1486,
+1501 (11th Cir.1985), reh’g denied, 765 F.2d 154 (1985), cert. denied, 474 U.S. 849, 106 S.Ct. 144,
+88 L.Ed.2d 119 (1985). The Brays have not alleged that the filming was pretextual, and the marshals
+had a legitimate reason to film the home. See, e.g., United States v. Wahehumwah, 710 F.3d 862, 870
+(9th Cir.2013). The filming did not involve an unreasonable seizure, and the marshals are protected
+by qualified immunity. See, e.g., United States v. Jones, 458 F.3d 376, 385 (6th Cir.2006). The
+Brays have not alleged that the filming was pretextual, and the marshals had a legitimate reason to
+film the home. See, e.g., United States v. Jones, 458 F.3d 376, 385 (6th Cir.2006). The filming did
+not involve an unreasonable seizure
+
+
+**Label:** 
+
+
 **citations:** ['102 F.3d 1012', '710 F.3d 862', '458 F.3d 376', '326 F.3d 361']
 
 ***short_citations_0:*** 102 F.3d 1012

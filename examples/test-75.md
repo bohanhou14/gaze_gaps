@@ -59,6 +59,29 @@ relationship. The court will deny Mather's motion to dismiss.
 **Label:** 
 
 
+***Meta-Llama-3-8B-Instruct-finetuned:***
+  Mather fails to provide any authority for his assertion that the automatic stay “precludes entry
+of judgment for the underlying corporate obligations that form the basis of the cause of action.”
+Id. The automatic stay provided by 11 U.S.C.A. § 362(a) (West 1993) does not stay proceedings
+against nondebtor parties. See In re Associated Builders, Inc., 994 F.2d 956, 962 (5th Cir.1993); In
+re Associated Builders, Inc., 994 F.2d 956, 962 (5th Cir.1993); In re Associates, 900 F.2d 846, 849
+(5th Cir.1990); In re Unarco Indus., Inc., 705 F.2d 1, 5 (1st Cir.1983); In re Carib-Inn of San
+Juan, Corp., 68 B.R. 230, 233 (D.P.R.1986). “The automatic stay does not apply to nondebtor
+parties.” In re Associated Builders, 994 F.2d at 962. Mather remains hable for his own torts
+regardless of Resco’s bankruptcy. See In re Associated Builders, 994 F.2d at 962; In re Associates,
+900 F.2d at 849; In re Unarco Indus., 705 F.2d at 5; In re Carib-Inn of San Juan, 68 B.R. at 233.
+Therefore, the action against Mather cannot be dismissed or stayed based on Resco’s bankruptcy
+petition. See In re Associated Builders, 994 F.2d at 962; In re Associates, 900 F.2d at 849; In re
+Unarco Indus., 705 F.2d at 5; In re Carib-Inn of San Juan, 68 B.R. at 233. The court may not enter
+judgment on the pleadings solely because of the automatic stay. See In re Associated Builders, 994
+F.2d at 962; In re Associates, 900 F.2d at 849; In re Unarco Indus., 705 F.2d at 5; In re Carib-Inn
+of San Juan, 68 B.R. at 233. The court may not dismiss the action against Mather solely because of
+the automatic stay. See In re Associated Builders,
+
+
+**Label:** 
+
+
 **citations:** ['994 F.2d 956', '994 F.2d 956', '900 F.2d 846', '900 F.2d 846', '705 F.2d 1', '705 F.2d 1', '68
 B.R. 230']
 

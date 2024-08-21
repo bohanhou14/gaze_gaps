@@ -65,6 +65,31 @@ Telecommunications, Inc.; Lingo, Inc.; and i2 Telecom International, Inc. (colle
 **Label:** 
 
 
+***Meta-Llama-3-8B-Instruct-finetuned:***
+  . This is the standard of review under the Administrative Procedure Act (APA), 5 U.S.C. §
+706(2)(A), which is applicable to our review of the Order, see 5 U.S.C. § 701 et seq. See also NLRB
+v. Metro. Life Ins. Co., 457 F.3d 42, 45 (D.C.Cir.2006); Chenery Corp., 332 U.S. at 194, 67 S.Ct.
+1575. The APA's standard of review is more deferential than the standard of review for agency
+actions under the APA that are not subject to judicial review, see 5 U.S.C. § 701(a), and is more
+deferential than the standard of review for agency actions that are subject to judicial review, see
+5 U.S.C. § 706(2)(A). See, e.g., id. at 196, 67 S.Ct. 1575. The APA's standard of review is also
+more deferential than the standard of review for agency actions that are not subject to judicial
+review, see 5 U.S.C. § 701(a), and is more deferential than the standard of review for agency
+actions that are subject to judicial review, see 5 U.S.C. § 706(2)(A). See, e.g., id. at 196, 67
+S.Ct. 1575. The APA's standard of review is also more deferential than the standard of review for
+agency actions that are not subject to judicial review, see 5 U.S.C. § 701(a), and is more
+deferential than the standard of review for agency actions that are subject to judicial review, see
+5 U.S.C. § 706(2)(A). See, e.g., id. at 196, 67 S.Ct. 1575. The APA's standard of review is also
+more deferential than the standard of review for agency actions that are not subject to judicial
+review, see 5 U.S.C. § 701(a), and is more deferential than the standard of review for agency
+actions that are subject to judicial review, see 5 U.S.C. § 706(2)(A). See, e.g., id. at 196, 67
+S.Ct. 1575. The APA's standard of review is also more deferential than the standard of review for
+agency actions that are not subject to judicial
+
+
+**Label:** 
+
+
 **citations:** ['457 F.3d 42', '332 U.S. 194']
 
 ***short_citations_0:*** 457 F.3d 42

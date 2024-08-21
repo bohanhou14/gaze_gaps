@@ -60,6 +60,39 @@ the principles established in these cases, and it is consistent with federal tax
 **Label:** 
 
 
+***Meta-Llama-3-8B-Instruct-finetuned:***
+  The Tax Court’s conclusion that the royalty payments were not deductible was based on the fact
+that they were not “ordinary and necessary expenses” of the company. The Tax Court’s finding that
+the company was not under a legal obligation to pay the royalties was supported by the evidence,
+including the testimony of Millard Thomas and the fact that the company had been paying royalties to
+Mrs. Thomas since 1920. The Tax Court’s finding that the royalty payments were not ordinary and
+necessary expenses was further supported by the fact that the company had been paying royalties to
+Mrs. Thomas since 1920 and that the company had not been paying royalties to Mrs. Thomas since 1920
+and that the company had not been paying royalties to Mrs. Thomas since 1920. The Tax Court’s
+finding that the royalty payments were not ordinary and necessary expenses was further supported by
+the fact that the company had been paying royalties to Mrs. Thomas since 1920 and that the company
+had not been paying royalties to Mrs. Thomas since 1920. The Tax Court’s finding that the royalty
+payments were not ordinary and necessary expenses was further supported by the fact that the company
+had been paying royalties to Mrs. Thomas since 1920 and that the company had not been paying
+royalties to Mrs. Thomas since 1920. The Tax Court’s finding that the royalty payments were not
+ordinary and necessary expenses was further supported by the fact that the company had been paying
+royalties to Mrs. Thomas since 1920 and that the company had not been paying royalties to Mrs.
+Thomas since 1920. The Tax Court’s finding that the royalty payments were not ordinary and necessary
+expenses was further supported by the fact that the company had been paying royalties to Mrs. Thomas
+since 1920 and that the company had not been paying royalties to Mrs. Thomas since 1920. The Tax
+Court’s finding that the royalty payments were not ordinary and necessary expenses was further
+supported by the fact that the company had been paying royalties to Mrs. Thomas since 1920 and that
+the company had not been paying royalties to Mrs. Thomas since 1920. The Tax Court’s finding that
+the royalty payments were not ordinary and necessary expenses was further supported by the fact that
+the company had been paying royalties to Mrs. Thomas since 1920 and that the company had not been
+paying royalties to Mrs. Thomas since 1920. The Tax Court’s finding that the royalty payments were
+not ordinary and necessary expenses was further supported by the fact that the company had been
+paying royalties to Mrs. Thomas since 192
+
+
+**Label:** 
+
+
 **citations:** ['320 U.S. 489', '326 U.S. 521']
 
 ***short_citations_0:*** 320 U.S. 489

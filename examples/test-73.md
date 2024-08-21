@@ -65,6 +65,32 @@ replacements' nonsupport of the Union is reasonable and consistent with establis
 **Label:** 
 
 
+***Meta-Llama-3-8B-Instruct-finetuned:***
+  In New York Printing Pressmen v. NLRB, 575 F.2d 1045, 1048 (2d Cir. 1978), we recognized that the
+presumption that new employees support the union in the same ratio as those they have replaced, New
+York Printing Pressmen v. NLRB, 575 F.2d 1045, 1048 (2d Cir. 1978), is not applicable in the “normal
+turnover situation,” and that it is “wholly unwarranted and unrealistic” to presume that new
+employees will support the union in the same ratio as those they have replaced, when the turnover
+results from the replacement of strikers. New York Printing Pressmen, 575 F.2d at 1048. We agree
+with the rationales of these cases. In New York Printing Pressmen, the Court of Appeals for the
+Second Circuit held that the presumption that new employees support the union in the same ratio as
+those they have replaced, New York Printing Pressmen v. NLRB, 575 F.2d 1045, 1048 (2d Cir. 1978), is
+not applicable in the “normal turnover situation,” and that it is “wholly unwarranted and
+unrealistic” to presume that new employees will support the union in the same ratio as those they
+have replaced, when the turnover results from the replacement of strikers. New York Printing
+Pressmen, 575 F.2d at 1048. We agree with the rationales of these cases. See also, e.g., Curtin
+Matheson Scientific, Inc. v. NLRB, 594 F.2d 1203, 1213 (5th Cir. 1979); Arkay v. NLRB, 652 F.2d
+1055, 1057-58 (5th Cir. 1981). The Company’s reliance on the Gorman principle is misplaced. The
+Company’s good faith doubt must be based on objective evidence, not on speculation or a subjective
+state of mind. See J. Ray McDermott & Co. v. NLRB, 571 F.2d 850, 858 (5th Cir. 1978). The Company
+has failed to present objective evidence that twenty-five of the employees, the striker
+replacements, did not support the Union. See, e.g., Arkay, 652 F.2d at 1058. The Company’s good
+faith doubt
+
+
+**Label:** 
+
+
 **citations:** ['594 F.2d 1203', '652 F.2d 1055']
 
 ***short_citations_0:*** 594 F.2d 1203

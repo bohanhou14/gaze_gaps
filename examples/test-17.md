@@ -66,6 +66,24 @@ However, as the court in People's Mojahedin Org. of Iran v. U
 **Label:** 
 
 
+***Meta-Llama-3-8B-Instruct-finetuned:***
+  Finally, Zevallos claims that Treasury’s 2013 decision was “arbitrary and capricious” because it
+relied on “new information” that Treasury had not previously considered. We have already explained
+why Treasury was entitled to rely on this evidence, which was open source. See Coniston Corp. v.
+Village of Hoffman Estates, 844 F.2d 461, 465-67 (7th Cir.1988). We also have explained why, even if
+Treasury did not have a right to rely on that evidence, Zevallos would not have been harmed.
+Zevallos did not argue below that Treasury should not have considered the 2013 evidence. Therefore,
+he has forfeited any argument on this score. See Nat'l Org. for Women v. Social Sec. Admin., 318
+F.3d 203, 211 (D.C.Cir.2003) (holding that “arguments not raised below are forfeited”). Zevallos’s
+final claim is that the 2013 decision was “arbitrary and capricious” because it did not address the
+“new information” that Treasury had not previously considered. We do not reach this argument because
+it has been forfeited. See id. at 211. The judgment of the district court is Affirmed. See id. at
+212. See also Tri County Industries v. District of Columbia, 104 F.3d 455, 459-60 (D.C.Cir.1997).
+
+
+**Label:** 
+
+
 **citations:** ['318 F.3d 203', '845 F.2d 1072']
 
 ***short_citations_0:*** 318 F.3d 203

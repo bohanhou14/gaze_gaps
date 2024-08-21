@@ -58,6 +58,34 @@ as stated in 11 U.S.C. Section 502(b)(2).
 **Label:** 
 
 
+***Meta-Llama-3-8B-Instruct-finetuned:***
+  The debtor, Adrián Bonilla Montalvo, filed a petition for relief under Chapter 11 of the
+Bankruptcy Code on February 19, 1987. The automatic stay under 11 U.S.C. Section 362(a) of the
+Bankruptcy Code, which became effective on February 19, 1987, prohibited any further action by the
+Bank, including service of the restraining order. The debtor has remained in physical possession and
+has continued to collect all of its rents. The Bank promptly filed with the bankruptcy court an
+emergency motion for relief from stay and for authority to continue with its possession and to
+collect the rents. The law was clarified by the United States Supreme Court in 1979 in the case of
+Butner v. United States, 440 U.S. 48, 99 S.Ct. 914, 59 L.Ed.2d 136, 4 B.C.D. 1259. The court held
+that:... Congress has generally left the determination of property rights in the assets of a
+bankrupt’s estate to state law. Property interests are created and defined by state law. Unless some
+federal interest requires a different result, there is no reason why such interests should be
+analyzed differently simply because an interested party is involved in a bankruptcy proceeding. In
+re MacDonald, 101 B.R. 835 (Bkrtcy.D.Mass.1989), citing In re Prichard Plaza Associates Ltd.
+Partnership, 84 B.R. 289, 293 (Bkrtcy.D.Mass.1988). See also In re Spectrum Wire, 114 B.R. 326
+(Bkrtcy.D.Mass.1990), citing In re Prichard Plaza Associates Ltd. Partnership, 84 B.R. 289, 293
+(Bkrtcy.D.Mass.1988). The Bankruptcy Court in this case, In re Prichard Plaza Associates Ltd.
+Partnership, 84 B.R. 289, 293 (Bkrtcy.D.Mass.1988), held that “property interests are created and
+defined by state law, and unless some federal interest requires a different result, there is no
+reason why such interests should be analyzed differently simply because an interested party is
+involved in a bankruptcy proceeding.” 117 B.R. 15, 18 (Bkrtcy.D.Mass.1990). In the instant case, the
+Bankruptcy Court must determine the interest rate and the amount owed by the debtor to the creditor.
+The Bank
+
+
+**Label:** 
+
+
 **citations:** ['440 U.S. 48', '114 B.R. 326', '117 B.R. 15']
 
 ***short_citations_0:*** 440 U.S. 48

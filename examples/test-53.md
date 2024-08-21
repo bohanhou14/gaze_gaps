@@ -55,6 +55,24 @@ secured creditors are not being adequately protected.
 **Label:** 
 
 
+***Meta-Llama-3-8B-Instruct-finetuned:***
+  . In re Koo-pmans, 102 F.3d 874 (8th Cir.1996), in which the Eighth Circuit Court of Appeals
+adopted the “coerced loan” or “forced loan” method to determine the interest rate to be used in a
+Chapter 13 cramdown, the court held that the interest rate used in a cramdown should be the rate
+that the creditor could have obtained had it foreclosed and reinvested the proceeds in loans of
+equivalent duration and risk. Similarly, in In re Household Finance Corporation, 315 F.3d 671 (8th
+Cir.2003), the Eighth Circuit Court of Appeals held that the bankruptcy court did not clearly err in
+setting a 10.3% interest rate as a “current conventional rate” on consumer automobile loans. 11
+U.S.C. § 1325(a)(5)(B)(ii). See also In re Pete Friday, 301 F.3d 583 (8th Cir.2002). The Eighth
+Circuit Court of Appeals has also held that the interest rate used in a cramdown should be the rate
+that the creditor could have obtained had it foreclosed and reinvested the proceeds in loans of
+equivalent duration and risk. See In re Koo-pmans, 102 F.3d 874 (8th Cir.1996). In re Household
+Finance Corporation, 315 F.3d 671 (8th Cir.2003).
+
+
+**Label:** 
+
+
 **citations:** ['301 F.3d 583', '301 F.3d 583', '315 F.3d 671', '315 F.3d 671']
 
 ***short_citations_0:*** 301 F.3d 583

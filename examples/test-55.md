@@ -65,6 +65,30 @@ unpersuasive.
 **Label:** 
 
 
+***Meta-Llama-3-8B-Instruct-finetuned:***
+  Plaintiffs argue that the evidence presented in this case creates a genuine issue of material fact
+as to whether they engaged in protected activity under the FLSA by signing and submitting these
+letters and whether the termination of their employment was a direct result of their protected
+activity. See 200 F.3d 1337, 1342-43 (10th Cir.2000) (citing Reich v. Davis, 50 F.3d 962, 965-66
+(11th Cir.1995)); Richmond v. ONEOK, Inc., 120 F.3d 205, 208-09 (10th Cir.1997) (citing Reich v.
+Davis, 50 F.3d 962, 965-66 (11th Cir.1995)); see also 29 U.S.C. § 215(a)(3) (prohibiting an employer
+from discharging or in any manner discriminating against an employee because the employee has filed
+any complaint or instituted or caused to be instituted any proceeding under or in connection with
+the FLSA). In support of their claim, Plaintiffs point to the deposition testimony of several
+Plaintiffs who claim that they were wrongfully terminated for signing the letters. See Appendix of
+Exhibits in Support of Defendants’ Motion for Final Summary Judgment, A-2, p. 73; A-4, pp. 66-67;
+A-5, pp. 29-30; A-6, p. 50; A-7, p. 49. However, the record demonstrates that there is only one
+occasion prior to the termination when the Plaintiffs might have asserted FLSA rights — -the Feb. 24
+meeting. See id. at A-2, p. 73; A-4, p. 66. We agree with the district court that the evidence
+regarding the Feb. 24 meeting is insufficient to meet the Plaintiffs’ burden of producing a dispute
+of material fact regarding whether they asserted FLSA rights before being fired. See id. at A-2, p.
+73; A-4, p. 66. Therefore, the district court correctly granted summary judgment for the Defendant
+on the FLSA retaliatory discharge claim. See id. at A-2, p. 73; A-4, p. 66.
+
+
+**Label:** 
+
+
 **citations:** ['200 F.3d 1337', '120 F.3d 205', '50 F.3d 962']
 
 ***short_citations_0:*** 200 F.3d 1337

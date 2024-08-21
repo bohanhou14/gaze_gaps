@@ -63,6 +63,37 @@ of a plaintiff's failure to
 **Label:** 
 
 
+***Meta-Llama-3-8B-Instruct-finetuned:***
+  The district court’s instruction on abandonment was also erroneous in that it failed to
+distinguish between the cases where a trademark owner’s failure to sue other infringers is relevant
+and those where it is not. In Denison Mattress Factory v. Spring-Air Co., 308 F.2d 403 (5th
+Cir.1962), the court held that a trademark owner’s failure to sue other infringers is relevant to
+the issue of abandonment only if the owner has a duty to control the use of the mark by others. In
+the case at bar, the court’s instruction on abandonment failed to recognize that Sweetheart had a
+duty to control the use of its mark by others. As a result, the court’s instruction on abandonment
+was also prejudicial error. See, e.g., Saxlehner v. Eisner & Mendelson Co., 179 U.S. 19, 25 L.Ed.
+769 (1900). The court’s instruction on abandonment was also erroneous in that it failed to recognize
+that the trademark owner’s failure to sue other infringers is only relevant if the owner has a duty
+to control the use of the mark by others. In the case at bar, the court’s instruction on abandonment
+failed to recognize that Sweetheart had a duty to control the use of its mark by others. As a
+result, the court’s instruction on abandonment was also prejudicial error. See, e.g., id. The
+court’s instruction on abandonment was also erroneous in that it failed to recognize that the
+trademark owner’s failure to sue other infringers is only relevant if the owner has a duty to
+control the use of the mark by others. In the case at bar, the court’s instruction on abandonment
+failed to recognize that Sweetheart had a duty to control the use of its mark by others. As a
+result, the court’s instruction on abandonment was also prejudicial error. See, e.g., id. The
+court’s instruction on abandonment was also erroneous in that it failed to recognize that the
+trademark owner’s failure to sue other infringers is only relevant if the owner has a duty to
+control the use of the mark by others. In the case at bar, the court’s instruction on abandonment
+failed to recognize that Sweetheart had a duty to control the use of its mark by others. As a
+result, the court’s instruction on abandonment was also prejudicial error. See, e.g., id. The
+court’s instruction on abandonment was also erroneous in that it failed to recognize that the
+trademark owner’s failure to sue other infr
+
+
+**Label:** 
+
+
 **citations:** ['308 F.2d 403', '486 F.2d 114', '179 U.S. 19']
 
 ***short_citations_0:*** 308 F.2d 403

@@ -53,6 +53,34 @@ only to the determination of capital losses or gains, rather than as deductible 
 **Label:** 
 
 
+***Meta-Llama-3-8B-Instruct-finetuned:***
+  It is true that the Bureau, in I. T. 3806, said that these taxes are not deductible, but we think
+that this is a mistaken interpretation. We think it is a mistake because the Bureau’s interpretation
+is not supported by the language of the statute, and because it is inconsistent with the Bureau’s
+own earlier interpretation of the statute. We think that the Bureau’s earlier interpretation was
+correct. The Bureau, in I. T. 3806, said that these taxes are not deductible because they are not
+ordinary and necessary business expenses. We think that this is a mistake because it is based on a
+misinterpretation of the statute. The statute says that these taxes are not deductible “as taxes”,
+but it does not say that they are not deductible as ordinary and necessary business expenses. We
+think that the Bureau’s earlier interpretation of the statute was correct because it is supported by
+the language of the statute, and because it is consistent with the Bureau’s own earlier
+interpretation of the statute. In Helvering v. Winmill, 305 U.S. 79, 59 S.Ct. 49, 83 L.Ed. 68, the
+Court held that a taxpayer who bought and sold securities could not deduct the commissions paid on
+his purchases as a business expense. In Commissioner v. Heininger, 315 U.S. 661, 62 S.Ct. 754, 86
+L.Ed. 1060, the Court held that a taxpayer who bought and sold securities could not deduct the
+commissions paid on his sales as a business expense. We think that the Bureau’s earlier
+interpretation of the statute was correct because it is supported by the language of the statute,
+and because it is consistent with the Bureau’s own earlier interpretation of the statute. We think
+that the Bureau’s earlier interpretation of the statute was correct because it is supported by the
+language of the statute, and because it is consistent with the Bureau’s own earlier interpretation
+of the statute. We think that the Bureau’s earlier interpretation of the statute was correct because
+it is supported by the language of the statute, and because it is consistent with the Bureau’s own
+earlier interpretation of the statute.
+
+
+**Label:** 
+
+
 **citations:** ['305 U.S. 79', '315 U.S. 626']
 
 ***short_citations_0:*** 305 U.S. 79

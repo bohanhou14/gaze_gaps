@@ -55,6 +55,31 @@ precedents and guidelines for lower courts to follow.
 **Label:** 
 
 
+***Meta-Llama-3-8B-Instruct-finetuned:***
+  We thus affirm the district court's denial of Weathers's habeas petition. The district court's
+denial of Weathers's habeas petition is also affirmed because the state court's rejection of
+Weathers's Atkins claim was reasonable under AEDPA. See Hill v. Warden, 881 F.3d 483, 487 (5th Cir.
+2018). In Hill, this court explained that "the Supreme Court's decision in Atkins v. Virginia, 536
+U.S. 304, 122 S.Ct. 2247, 153 L.Ed.2d 335 (2002), did not clearly establish that the Briseño factors
+were unconstitutional." Id. at 486. This court also noted that "the Supreme Court's decision in
+Moore v. Texas, --- U.S. ----, 137 S.Ct. 1039, 197 L.Ed.2d 416 (2017), did not clearly establish
+that the Briseño factors were unconstitutional." Id. at 487. Weathers's argument that the state
+court's rejection of his Atkins claim was unreasonable because it relied on Briseño factors is thus
+without merit. See Cain v. Warden, 870 F.3d 1003, 1007 (5th Cir. 2017). In Cain, this court
+explained that "the Supreme Court's decision in Davis v. Mississippi, 434 U.S. 969, 98 S.Ct. 514, 54
+L.Ed.2d 456 (1977), did not clearly establish that the state court's rejection of the petitioner's
+claim was unreasonable." Id. at 1007. We thus affirm the district court's denial of Weathers's
+habeas petition. See Davis v. Warden, 854 F.3d 967, 972 (5th Cir. 2017). In Davis, this court
+explained that "the Supreme Court's decision in Schlup v. Delo, 513 U.S. 298, 115 S.Ct. 851, 130
+L.Ed.2d 808 (1995), did not clearly establish that the state court's rejection of the petitioner's
+claim was unreasonable." Id. at 972. We thus affirm the district court's denial of Weathers's habeas
+petition. See Davis v. Warden, 854 F.3d 967, 972 (5th Cir. 2017). In Davis, this court explained
+that "the Supreme Court
+
+
+**Label:** 
+
+
 **citations:** ['870 F.3d 1003', '854 F.3d 967', '881 F.3d 483']
 
 ***short_citations_0:*** 870 F.3d 1003

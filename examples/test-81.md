@@ -49,6 +49,24 @@ verdict and the equitable relief provided by the Court. The Court's decision is 
 **Label:** 
 
 
+***Meta-Llama-3-8B-Instruct-finetuned:***
+  The Court has jurisdiction to award attorneys’ fees and costs under 42 U.S.C. § 2000e-5(k). Moore
+v. National Association of Securities Dealers, Inc., 762 F.2d 1093, 1097-1098 (D.C.Cir.1985); see
+also United States v. Local 93, International Association of Fire Fighters, 641 F.2d 880, 883-884
+(2d Cir.1981); Evans v. City of Chicago, 503 F.2d 177, 182-183 (7th Cir.1974). Plaintiff has
+requested an award of attorneys’ fees in the amount of $50,000, which is the amount of the jury’s
+compensatory damages award. The Court will not award attorneys’ fees in this amount because it is
+not supported by the record. The Court will award plaintiff such amount as is reasonable and
+necessary to compensate plaintiff for the time and effort he devoted to the litigation. The Court
+will also award costs. The parties shall file their proposed fee statements and supporting
+documentation within 30 days from the date of this Order. The Court will review these submissions
+and make an award of attorneys’ fees and costs within 60 days from the date of this Order.
+(citations omitted).
+
+
+**Label:** 
+
+
 **citations:** ['762 F.2d 1093', '641 F.2d 880', '503 F.2d 177']
 
 ***short_citations_0:*** 762 F.2d 1093

@@ -64,6 +64,32 @@ find any unusual or surprising consequences from the unification of the elements
 **Label:** 
 
 
+***Meta-Llama-3-8B-Instruct-finetuned:***
+  The Lebocey patent, 219 F.2d 952 (C.C.A. 7, 1955), illustrates the importance of the mechanical
+step in patentability, even in the area of reinforced plastics. In Lebocey, the court held that a
+device for disengaging the spindles of winders, which included a spring-loaded mechanism, was
+invalid under 35 U.S.C.A. § 103, as it was obvious to one skilled in the art. In the instant case,
+we are not concerned with a mechanical step in the same sense, but the principle is the same. In
+another case, Lebocey v. Cannon, 219 F.2d 952, 955 (C.C.A. 7, 1955), the court held that a winding
+machine which stopped on increase in tension of the thread was invalid under 35 U.S.C.A. § 103, as
+it was obvious to one skilled in the art. Similarly, in the instant case, the district court
+correctly concluded that the Anderson ’125 combination was invalid under 35 U.S.C.A. § 103, as it
+was obvious to one skilled in the art. Canadian Ingersoll-Rand Co. v. Peterson Prods. of San Mateo,
+223 F.Supp. 803, 814 (N.D.Calif.1963). The court in that case correctly distinguished between the
+novelty of the individual elements of the combination and the novelty of the combination itself. In
+the instant case, we are concerned with the novelty of the combination itself, and we find it
+lacking. The case of In re Peterson, 106 F.2d 554 (C.C.P.A. 1940), illustrates the importance of the
+mechanical step in patentability, even in the area of reinforced plastics. In Peterson, the court
+held that a device for making reinforced plastic articles, which included a mechanical step, was
+invalid under 35 U.S.C.A. § 103, as it was obvious to one skilled in the art. In the instant case,
+we are not concerned with a mechanical step in the same sense, but the principle is the same. * * *
+* * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * *
+* * * * * * * * * *
+
+
+**Label:** 
+
+
 **citations:** ['219 F.2d 952', '219 F.2d 952', '106 F.2d 554']
 
 ***short_citations_0:*** 219 F.2d 952

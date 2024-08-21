@@ -56,6 +56,37 @@ F.2d 334
 **Label:** 
 
 
+***Meta-Llama-3-8B-Instruct-finetuned:***
+  . The ALJ did not err in finding that Plaintiffs complaints of pain were not fully credible.
+Edwards v. Sullivan, 985 F.2d 334, 336 (7th Cir.1993); Steward v. Secretary, 858 F.2d 1295, 1299
+(7th Cir.1988). The ALJ considered the medical evidence, his own observation of Plaintiff at the
+hearing, and her activities, which included making meals, folding laundry, going grocery shopping
+with her husband, and attending church. (R. 318, 322.) The ALJ did not totally discredit Plaintiffs
+complaints of pain. The ALJ found that Plaintiffs complaints of pain were not fully credible to the
+extent that they would prevent her from working as a receptionist. (R. 16.) The ALJ’s credibility
+determination is entitled to considerable deference. Bibbs v. Secretary, 626 F.2d 526, 528 (7th
+Cir.1980). Plaintiff has not presented any evidence that casts doubt on the ALJ’s finding that
+Plaintiffs allegations of pain were not fully credible to the extent that the pain would prevent her
+from working as a receptionist. Although a more detailed discussion of Plaintiffs alleged pain and
+its possible impact on her ability to perform her past relevant work would have aided our review of
+the Secretary’s decision, we cannot say that the ALJ’s opinion fell below the minimal level of
+articulation required by Look v. Heckler, 775 F.2d 192 (7th Cir.1985). VI. We are sympathetic to the
+claimant’s condition and the variety of severe impairments from which she suffers. We cannot find,
+however, that the Secretary’s conclusion — that Steward failed to establish that she failed to
+establish that she failed to establish that she failed to establish that she failed to establish
+that she failed to establish that she failed to establish that she failed to establish that she
+failed to establish that she failed to establish that she failed to establish that she failed to
+establish that she failed to establish that she failed to establish that she failed to establish
+that she failed to establish that she failed to establish that she failed to establish that she
+failed to establish that she failed to establish that she failed to establish that she failed to
+establish that she failed to establish that she failed to establish that she failed to establish
+that she failed to establish that she failed to establish that she failed to establish that she
+failed to establish that she failed to establish that she failed
+
+
+**Label:** 
+
+
 **citations:** ['858 F.2d 1295', '985 F.2d 334']
 
 ***short_citations_0:*** 858 F.2d 1295

@@ -60,6 +60,33 @@ affirms the judgment of the lower court.
 **Label:** 
 
 
+***Meta-Llama-3-8B-Instruct-finetuned:***
+  . The vagueness doctrine is a constitutional requirement that a criminal statute must provide
+adequate notice to the individual of the conduct it prohibits. Id. at 495 n. 7, 102 S.Ct. at 1191 n.
+7. “The test of vagueness is whether the language of the statute, considered in the light of the
+facts of the case, is such that a person of ordinary intelligence would reasonably understand it to
+be applicable to the particular situation, and whether it provides a standard for the police and
+courts to determine whether the conduct of a particular individual is within the scope of the
+statute.” United States v. Acty, 969 F.2d 652, 655 (7th Cir.1992). “A statute that is vague in all
+of its applications is unconstitutionally vague, and one that is not vague in all of its
+applications is not unconstitutionally vague.” Id. at 655-56. See also Village of Hoffman Estates,
+455 U.S. at 497, 102 S.Ct. at 1193. The test for vagueness is not the same as the test for
+ambiguity. Id. at 495 n. 7, 102 S.Ct. at 1191 n. 7. “A statute is ambiguous if it is susceptible to
+more than one reasonable interpretation. It is vague if it is incapable of any reasonable
+interpretation at all.” Id. at 495 n. 7, 102 S.Ct. at 1191 n. 7. See also United States v. House,
+939 F.2d 659, 664 (8th Cir.1991). In determining whether a statute is vague, we examine the language
+of the statute, the legislative history, and the facts of the case. Id. at 664. “A statute is not
+unconstitutionally vague simply because it is difficult to apply in a particular case. It must be
+unconstitutionally vague in all of its applications.” Acty, 969 F.2d at 655-56. See also United
+States v. Brown, 859 F.2d 974, 976 (D.C.Cir.1988). “The test for vagueness is not the same as the
+test for ambiguity. A statute is ambiguous if it is susceptible to more than one reasonable
+interpretation. It is vague if it is incapable of any reasonable interpretation at all.” Village of
+Hoffman Estates, 455 U.S. at 495 n
+
+
+**Label:** 
+
+
 **citations:** ['455 U.S. 489', '969 F.2d 652']
 
 ***short_citations_0:*** 455 U.S. 489

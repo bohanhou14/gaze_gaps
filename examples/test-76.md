@@ -54,6 +54,29 @@ predicate liability on a theory of actual or constructive notice.
 **Label:** 
 
 
+***Meta-Llama-3-8B-Instruct-finetuned:***
+  Plaintiff’s reliance on cases such as Johnson v. United States, 449 F.2d 124 (5th Cir. 1971) and
+Thompson v. United States, 454 F.2d 72 (9th Cir. 1972) is misplaced. These cases are inapposite
+because they dealt with the question of whether a claimant’s failure to file a claim with the wrong
+federal agency constituted a jurisdictional bar to suit in the district court. Id. at 73. In the
+instant case, the issue is whether plaintiff’s appeal to the MSPB constituted an administrative tort
+claim under 28 U.S.C. § 2675(a) (1976). See, e.g., Kielwien v. United States, 540 F.2d 676 (4th
+Cir.), cert. denied, 429 U.S. 979, 97 S.Ct. 491, 50 L.Ed.2d 588 (1976). The answer to this question
+is no. 28 C.F.R. § 14.2(b)(1) (1980) does not create a duty on the part of the MSPB to transfer a
+claim to the Army Claims Service where the claimant has not filed a Standard Form 95 or written
+notice with the agency. Id. at 677. The claimant must initiate the administrative process by filing
+a claim with the proper agency. 28 U.S.C. § 2675(a) (1976). See, e.g., Lagala v. United States, 650
+F.2d 290 (Ct.Cl. 1980). Since plaintiff did not file a claim with the Army Claims Service, we cannot
+transfer his case to the district court for a determination of his tort claim. See, e.g., Allen v.
+United States, 517 F.2d 1328 (6th Cir. 1975). The case is dismissed for lack of jurisdiction. 28
+U.S.C. § 1346(b) (1976). 28 U.S.C. § 2671 et seq. (1976). See, e.g., Executive Jet Aviation v.
+United States, 507 F.2d 508 (6th Cir. 1974). 28 U.S.C. § 2401(b) (1976). 28 C.F.R. § 14.2(b)(1)
+(1980). 28 U.S.C. §
+
+
+**Label:** 
+
+
 **citations:** ['454 F.2d 72', '449 F.2d 124']
 
 ***short_citations_0:*** 454 F.2d 72

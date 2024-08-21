@@ -59,6 +59,31 @@ Administrative Procedure Act. See also 370 F.2d 529, 417 F.2d 1310, 370 F.2d 686
 **Label:** 
 
 
+***Meta-Llama-3-8B-Instruct-finetuned:***
+  The Supreme Court has consistently held that the sovereign immunity doctrine is not a mere
+technicality but a fundamental principle of law. United States v. Detroit Timber & Lumber Co., 200
+U.S. 321, 26 S.Ct. 282, 50 L.Ed. 499 (1906); Larson v. Domestic & Foreign Commerce Corp., 337 U.S.
+682, 69 S.Ct. 1457, 93 L.Ed. 1628 (1949); Dugan v. Rank, 372 U.S. 609, 83 S.Ct. 999, 10 L.Ed.2d 15
+(1956); City of Fresno v. California, 372 U.S. 627, 83 S.Ct. 99, 6 L.Ed.2d 28 (1963); Chournos v.
+United States, 417 F.2d 1310 (6th Cir. 1969); United States v. Lockers, Inc., 370 F.2d 686 (6th Cir.
+1967); State of New Mexico v. Backer, 199 F.2d 426 (10th Cir. 1952); Hospoder v. United States, 226
+F.2d 416 (3d Cir. 1955). In United States v. Lockers, Inc., supra, we held that the Administrative
+Procedure Act did not confer jurisdiction on the federal courts to review the Secretary of
+Interior’s decision to exchange land. In Chournos v. United States, supra, we held that the
+Secretary of the Interior was not subject to suit for allegedly arbitrary and capricious action. In
+State of New Mexico v. Backer, supra, we held that the District Court had no jurisdiction to enjoin
+the Secretary of the Interior from exchanging lands. In Hospoder v. United States, supra, we held
+that the Administrative Procedure Act did not waive the sovereign immunity of the United States.
+These cases and others like them are authority for the proposition that the sovereign immunity
+doctrine is a fundamental principle of law which bars the jurisdiction of the federal courts to
+entertain suits against the United States. United States v. Lockers, Inc., supra, 370 F.2d 686 at
+690. The doctrine of sovereign immunity is not a mere technicality but a fundamental principle of
+law. United States v. Detroit Timber & Lumber Co., 200 U.S. 321, 26 S.Ct.
+
+
+**Label:** 
+
+
 **citations:** ['370 F.2d 529', '417 F.2d 1310', '370 F.2d 686', '226 F.2d 416']
 
 ***short_citations_0:*** 370 F.2d 529

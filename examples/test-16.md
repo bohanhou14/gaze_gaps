@@ -63,6 +63,36 @@ First Amendment
 **Label:** 
 
 
+***Meta-Llama-3-8B-Instruct-finetuned:***
+  The district court did not err in denying Beckworth’s motion for summary judgment based on
+qualified immunity. Miles alleged sufficient facts and details to show that Beckworth’s conduct
+violated her First Amendment right to be free from retaliation for protected speech. See id. at
+1568. “The [f]irst [a]mendment retaliation claim is not barred by qualified immunity.” Id. at 1569.
+“The [s]upreme [c]ourt has consistently held that the First Amendment prohibits government employers
+from retaliating against employees for exercising their First Amendment rights.” Id. at 1568. “The
+[f]irst [a]mendment retaliation claim is not barred by qualified immunity.” Id. at 1569. “The
+[s]upreme [c]ourt has consistently held that the First Amendment prohibits government employers from
+retaliating against employees for exercising their First Amendment rights.” Id. at 1568. “The
+[f]irst [a]mendment retaliation claim is not barred by qualified immunity.” Id. at 1569. “The
+[s]upreme [c]ourt has consistently held that the First Amendment prohibits government employers from
+retaliating against employees for exercising their First Amendment rights.” Id. at 1568. “The
+[f]irst [a]mendment retaliation claim is not barred by qualified immunity.” Id. at 1569. “The
+[s]upreme [c]ourt has consistently held that the First Amendment prohibits government employers from
+retaliating against employees for exercising their First Amendment rights.” Id. at 1568. “The
+[f]irst [a]mendment retaliation claim is not barred by qualified immunity.” Id. at 1569. “The
+[s]upreme [c]ourt has consistently held that the First Amendment prohibits government employers from
+retaliating against employees for exercising their First Amendment rights.” Id. at 1568. “The
+[f]irst [a]mendment retaliation claim is not barred by qualified immunity.” Id. at 1569. “The
+[s]upreme [c]ourt has consistently held that the First Amendment prohibits government employers from
+retaliating against employees for exercising their First Amendment rights.” Id. at 1568. “The
+[f]irst [a]mendment retaliation claim is not barred by qualified immunity.” Id. at 1569. “The
+[s]upreme [c]ourt has consistently held that the First Amendment prohibits government employers from
+retaliating against employees for
+
+
+**Label:** 
+
+
 **citations:** ['869 F.2d 1565', '693 F.2d 359', '828 F.2d 1096']
 
 ***short_citations_0:*** 869 F.2d 1565

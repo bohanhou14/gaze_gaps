@@ -71,6 +71,31 @@ witnesses, and
 **Label:** 
 
 
+***Meta-Llama-3-8B-Instruct-finetuned:***
+  In any event, the Court is not convinced that the facts of this case are so extraordinary as to
+justify dismissal or transfer on the ground of forum non conveniens. The Court is not persuaded that
+the burden of jury duty on members of this community is greater than the burden on members of a
+community in which the alleged infringements took place. See Mizokami v. Mobay, Inc., 660 F.2d 712,
+714 (2d Cir.1981); Riceland Foods, Inc. v. Saudi Basic Industries Corp., 701 F.2d 408, 411 (5th
+Cir.1983); Piper Aircraft Co. v. Reyno, 454 U.S. 235, 102 S.Ct. 252, 70 L.Ed.2d 419 (1981). Nor is
+the Court convinced that the “private interest” factors weigh strongly in favor of defendant. See
+Gulf Oil Corp. v. Gilbert, 330 U.S. 501, 67 S.Ct. 839, 91 L.Ed. 1055 (1947). The “public interest”
+factor, however, is somewhat more significant in this case, since the Court would have to construe
+“alien treaty rights” with which it has no familiarity. Nevertheless, we believe the Court’s
+interest in adjudicating the controversy here outweighs the burden created for local court calendars
+and local juries by trials having no connection with the forum. See id. at 508, 67 S.Ct. at 843. We
+conclude that the district court did not abuse its discretion when it refused to dismiss the suit on
+forum non conveniens grounds. See id. at 509, 67 S.Ct. at 843. Finally, the Court notes that the
+doctrine of forum non conveniens leaves much to the discretion of the court. See id. But unless the
+balance is strongly in favor of the defendant, the plaintiff’s choice of forum should rarely be
+disturbed. Id. at 509, 67 S.Ct. at 843. We conclude that the district court did not abuse its
+discretion when it refused to dismiss the suit on forum non conveniens grounds. See id. at 509, 67
+S.Ct. at 843.
+
+
+**Label:** 
+
+
 **citations:** ['660 F.2d 712', '684 F.2d 232', '701 F.2d 408']
 
 ***short_citations_0:*** 660 F.2d 712

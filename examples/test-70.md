@@ -53,6 +53,34 @@ from the Plan was April 15
 **Label:** 
 
 
+***Meta-Llama-3-8B-Instruct-finetuned:***
+  The status quo obligation applies as well to health benefits. NLRB v. Peerless Roofing Co., Ltd.,
+641 F.2d 734, 736 (9th Cir.1981); NLRB v. Schulze, 632 F.2d 721, 724 (9th Cir.1980); NLRB v. Sky
+Wolf Sales, 470 F.2d 827, 830 (9th Cir.1972).  The obligation to maintain the status quo as to
+wages, working conditions, and benefits remains until the parties have bargained to impasse or have
+agreed to a new contract. The status quo obligation is a statutory requirement, not a contractual
+one, and it is not dependent on the existence of a specific agreement to maintain the status quo.
+NLRB v. Schulze, supra, 632 F.2d at 724.  Schulze’s obligation to contribute to the Plan, therefore,
+continued after the expiration of its collective bargaining agreement with the IAM, but before the
+effective date of the MPPAA, as a result of the status quo obligation imposed by section 8(a)(5) of
+the National Labor Relations Act. 29 U.S.C. § 158(a)(5).  The question is whether Schulze’s
+obligation to contribute to the Plan after the expiration of its collective bargaining agreement
+with the IAM and before the effective date of the MPPAA was an obligation “to contribute” within the
+meaning of section 1383.  If so, then Schulze’s obligation to contribute ceased permanently on the
+earlier of the two dates. If not, then Schulze’s obligation to contribute ceased permanently on the
+later of the two dates.  The court must decide this question of law in order to determine the date
+of Schulze’s withdrawal from the Plan.  The court finds that Schulze’s obligation to contribute to
+the Plan after the expiration of its collective bargaining agreement with the IAM and before the
+effective date of the MPPAA was an obligation “to contribute” within the meaning of section 1383.
+As a result, Schulze’s obligation to contribute ceased permanently on the earlier of the two dates.
+The court, therefore, holds that Schulze withdrew from the Plan on December 12, 1980.  The court
+will not require exhaustion of the arbitration remedy before proceeding to the merits of Schulze’s
+applicability claim.  The court will proceed to the merits of Schulze’s applicability claim.
+
+
+**Label:** 
+
+
 **citations:** ['641 F.2d 734', '632 F.2d 721', '470 F.2d 827']
 
 ***short_citations_0:*** 641 F.2d 734

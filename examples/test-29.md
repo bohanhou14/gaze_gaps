@@ -60,6 +60,32 @@ be disallowed as a deduction.
 **Label:** 
 
 
+***Meta-Llama-3-8B-Instruct-finetuned:***
+  The check was not deposited until April 5, 1954, and it was not until July 14, 1954, that the
+trust agreement was executed. The petitioner argues that the payment was made within 60 days after
+the close of the year of accrual and that the payment should be treated as if it had been made
+during the year of accrual. The respondent argues that the payment was not made until 1954 and that
+it should be treated as if it were made in that year. The question is whether the check, dated
+February 27, 1954, constitutes a payment on account of 1953. The check was issued to the trustee and
+was not deposited until April 5, 1954. The trust agreement was not executed until July 14, 1954. The
+check, dated February 27, 1954, was issued to the trustee, Harris, who held it until April 5, 1954,
+when it was deposited. The respondent argues that this check did not constitute a payment until it
+was deposited. The petitioner argues that the check constituted a payment as soon as it was issued.
+The Court in 27 T.C. 372 (1957), held that a check dated December 31, 1953, constituted a payment
+for 1953. In 15 T.C. 738 (1951), the Court held that a check dated January 31, 1951, constituted a
+payment for 1950. In 269 U.S. 422 (1926), the Supreme Court held that a payment made within 60 days
+after the close of the year of accrual was treated as if it had been made during the year of
+accrual. The Court in 27 T.C. 372 (1957), held that a check dated December 31, 1953, constituted a
+payment for 1953. In 15 T.C. 738 (1951), the Court held that a check dated January 31, 1951,
+constituted a payment for 1950. In 269 U.S. 422 (1926), the Supreme Court held that a payment made
+within 60 days after the close of the year of accrual was treated as if it had been made during the
+year of accrual. The Court in 27 T.C. 372 (1957), held that a check dated December 31, 1953,
+constituted a payment for 1953. In 15 T.C.
+
+
+**Label:** 
+
+
 **citations:** ['27 T.C. 372', '15 T.C. 738', '269 U.S. 422']
 
 ***short_citations_0:*** 27 T.C. 372

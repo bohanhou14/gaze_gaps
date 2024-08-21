@@ -60,6 +60,30 @@ would grant a writ of habeas corpus based on the defendant's religious beliefs.
 **Label:** 
 
 
+***Meta-Llama-3-8B-Instruct-finetuned:***
+  In Townsend v. Sain, 372 U.S. 293, 83 S.Ct. 745, 9 L.Ed.2d 770 (1963), the Supreme Court held that
+a state court’s determination of a factual issue in a habeas corpus proceeding is presumed correct
+unless the applicant shows by convincing evidence that the state court’s findings were “unfair,
+arbitrary, or in violation of due process.” The Court of Appeals for the Eighth Circuit has
+repeatedly reaffirmed this principle. See, e. g., State v. Randall, 469 F.2d 535 (8th Cir. 1972),
+cert. denied, 411 U.S. 934, 93 S.Ct. 1886, 36 L.Ed.2d 392 (1973); Tyler v. Swenson, 427 F.2d 412
+(8th Cir. 1970), cert. denied, 400 U.S. 964, 91 S.Ct. 342, 27 L.Ed.2d 380 (1970); In re Parker, 423
+F.2d 1021 (8th Cir. 1970), cert. denied, 398 U.S. 966, 90 S.Ct. 2182, 26 L.Ed.2d 551 (1970); State
+v. Randall, 540 S.W.2d 156, 159-60 (Mo.App.1976). In this case, the Missouri Court of Appeals found
+that the trial court’s determination that Randall was the religious leader of the Aquarian
+Brotherhood Church was supported by the record. 540 S.W.2d at 167-68. Petitioner has not shown by
+convincing evidence that the state court’s findings were unfair, arbitrary, or in violation of due
+process. See Townsend v. Sain, 372 U.S. 293, 83 S.Ct. 745, 9 L.Ed.2d 770 (1963). Finally,
+petitioner’s claim that he was denied a pre-trial hearing on the issue of his competency to stand
+trial is also without merit. The Missouri Court of Appeals found that the trial court’s
+determination that Randall was competent to stand trial was supported by the record. 540 S.W.2d at
+167-68. Petitioner has not shown by convincing evidence that the state court’s findings were unfair,
+arbitrary, or in violation of due process. See, e. g., Pate v
+
+
+**Label:** 
+
+
 **citations:** ['469 F.2d 535', '427 F.2d 412', '410 U.S. 690']
 
 ***short_citations_0:*** 469 F.2d 535

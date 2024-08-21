@@ -61,6 +61,33 @@ court's decision is in line with the reference cases 21 F.2d 182 and 20 F.2d 84.
 **Label:** 
 
 
+***Meta-Llama-3-8B-Instruct-finetuned:***
+  The same rule applies where a creditor attempts to amend his claim after the expiration of the
+statutory period for filing claims. In re Drexel Hill Motor Co., D.C., 270 F. 673, 674; In re
+Kessler, C.C.A., 184 F. 51, 54; In re Schaffner, C.C.A., 267 F. 977, 980; In re McCarthy P. E. Co.,
+D.C., 205 F. 986, 990; In re Fairlamb, D.C., 199 F. 278, 280; In re Mercur, D.C., 116 F. 655, 657;
+In re Roeber, C.C.A., 127 F. 122, 125; In re Westinghouse Electric Supply Co., D.C., 21 F.2d 182,
+184; In re Hutchinson, D.C., 20 F.2d 84, 87. The court said in In re Westinghouse Electric Supply
+Co., supra, “The original proof need not be formal in order to support an amendment. Thus an
+agreement to accept a settlement, signed by the creditor and setting forth the amount and nature of
+his claim, will be sufficient to support an amendment. Again, a mere letter mentioning the claim,
+received by receiver and acknowledged by him to the creditor, has been held a sufficient basis.” But
+the court also said: “But the original proof need not be formal in order to support an amendment.
+Thus an agreement to accept a settlement, signed by the creditor and setting forth the amount and
+nature of his claim, will be sufficient to support an amendment. Again, a mere letter mentioning the
+claim, received by receiver and acknowledged by him to the creditor, has been held a sufficient
+basis.” But the court also said: “Of course, there must have been an original proof duly filed
+within the year; otherwise there would be nothing by which to amend; and the power of amendment is
+not to be distorted to let in dilatory creditors who have filed no proof within the limited year.”
+The court in In re Drexel Hill Motor Co., supra, said: “Where a paper presented for filing, although
+informal, contains the substance of a formal claim, it is sufficient as the basis of an amended
+claim filed after expiration of the year allowed by Bankruptcy Act, § 57n.” And the court in In re
+Kessler, supra, said: “Courts of
+
+
+**Label:** 
+
+
 **citations:** ['21 F.2d 182', '20 F.2d 84']
 
 ***short_citations_0:*** 21 F.2d 182

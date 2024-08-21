@@ -63,6 +63,27 @@ motion to suppress evidence is affirmed. Reference cases: 379 F.3d 524, 739 F.3d
 **Label:** 
 
 
+***Meta-Llama-3-8B-Instruct-finetuned:***
+  Long also argues the post-warrant search of the Blazer was unconstitutional because Officer
+Spargur did not have probable cause to search the vehicle at the time he did. United States v.
+Rodriguez, 379 F.3d 524, 527 (8th Cir.2004). Officer Spargur “had a legitimate reason to search the
+Blazer” because “he had probable cause to believe the vehicle contained evidence of synthetic
+marijuana, which was illegal on the reservation at the time.” United States v. Gomez, 739 F.3d 391,
+394 (8th Cir.2014) (quoting United States v. Mares, 605 F.3d 604, 608 (8th Cir.2010)). Officer
+Spargur had seen the package of synthetic marijuana in the store, and he believed it was “a package
+normally holding synthetic marijuana.” Officer Spargur had probable cause to believe the Blazer
+contained evidence of synthetic marijuana, and therefore, the search of the Blazer was
+constitutional. See United States v. Jackson, 784 F.3d 1227, 1233 (8th Cir.2015) (explaining that
+“probable cause to search a vehicle exists when an officer has a reasonable suspicion that the
+vehicle contains evidence of a crime” and that “the existence of probable cause is a question of
+fact”). We thus affirm the district court’s denial of Long’s motion to suppress evidence obtained
+during the post-warrant search of the Blazer. See United States v. Rodriguez, 379 F.3d 524, 527 (8th
+Cir.2004).
+
+
+**Label:** 
+
+
 **citations:** ['379 F.3d 524', '739 F.3d 391', '605 F.3d 604']
 
 ***short_citations_0:*** 379 F.3d 524

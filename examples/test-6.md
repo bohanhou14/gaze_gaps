@@ -62,6 +62,27 @@ River Towing, Inc. is correct.
 **Label:** 
 
 
+***Meta-Llama-3-8B-Instruct-finetuned:***
+  In the case of Seas Shipping Co. v. Sieracki, 328 U.S. 85, 66 S.Ct. 872, 90 L.Ed. 1099 (1946), the
+Supreme Court stated, “The vessel’s condition of unseaworthiness might arise from any number of
+circumstances. Her gear might be defective, her appurtenances in disrepair, her crew unfit. The
+number of men assigned to perform a shipboard task might be insufficient. The method of loading her
+cargo, or the manner of its stowage, might be improper. For any of these reasons, or others, a
+vessel might not be reasonably fit for her intended service.” 328 U.S. at 90, 66 S.Ct. 872, at 875,
+90 L.Ed. at 1103. See also, e.g., Pope & Talbot, Inc. v. Cordray, 258 F.2d 214, 218 (9th Cir.1958),
+cert. denied, 359 U.S. 927, 79 S.Ct. 619, 3 L.Ed.2d 649 (1959); Morales v. City of Galveston, 370
+U.S. 165, 169, 172 (dissenting opinion), 82 S.Ct. 1337, 1340, 1342, 8 L.Ed.2d 784 (1962); Trawler
+Racer, Inc. v. Mitchell, 362 U.S. 539, 550, 80 S.Ct. 906, 914, 4 L.Ed.2d 1038 (1960); Robillard v.
+A. L. Burbank & Co., 186 F.Supp. 193, 195 (S.D.N.Y.1960); see also, e.g., Strika v. Netherlands
+Ministry of Traffic, 185 F.2d 555, 557 (2d Cir.1950).” See also, e.g., Vlachos v. M/V Proso, 637
+F.Supp. 1354, 1364 n. 14 (D.Md.1986); Roby v. Hyundai Merchant Marine, 700 F.Supp. 316, 320-21
+(E.D.La.1988). Continue reading. B. Plaintiff has failed to present evidence the vessel was
+unseaworthy or that Chap
+
+
+**Label:** 
+
+
 **citations:** ['373 U.S. 206', '400 U.S. 494']
 
 ***short_citations_0:*** 373 U.S. 206

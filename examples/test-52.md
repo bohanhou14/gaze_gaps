@@ -52,6 +52,25 @@ derived from illegal electronic surveillance.
 **Label:** 
 
 
+***Meta-Llama-3-8B-Instruct-finetuned:***
+  . Tollett v. Henderson, 411 U.S. 258, 93 S.Ct. 1602, 36 L.Ed.2d 235 (1973); United States v.
+Perry, 417 U.S. 1, 94 S.Ct. 2072, 40 L.Ed.2d 280 (1974); Brady v. United States, 397 U.S. 742, 90
+S.Ct. 1463, 25 L.Ed.2d 747 (1970); McMann v. Richardson, 397 U.S. 759, 90 S.Ct. 1441, 25 L.Ed.2d 763
+(1970); Parker v. North Carolina, 397 U.S. 790, 90 S.Ct. 1458, 25 L.Ed.2d 776 (1970); United States
+v. Marion, 535 F.2d 697, 701 (2d Cir. 1976). See also United States v. Scafidi, 418 F.2d 511, 514
+(2d Cir. 1969), cert. denied, 397 U.S. 1004, 90 S.Ct. 1144, 25 L.Ed.2d 411 (1970). The Court of
+Appeals has held that after a guilty plea the court may not grant a writ of habeas corpus to attack
+the antecedent constitutional violations. United States v. Scafidi, 418 F.2d 511, 514 (2d Cir.
+1969), cert. denied, 397 U.S. 1004, 90 S.Ct. 1144, 25 L.Ed.2d 411 (1970). See also United States v.
+Perry, 417 U.S. 1, 94 S.Ct. 2072, 40 L.Ed.2d 280 (1974). But see United States v. Marion, 535 F.2d
+697, 701 (2d Cir. 1976). In the context of a federal habeas corpus proceeding, the Court of Appeals
+has held that the plea of guilty “breaks the chain of events” which occurred before the plea.
+Tollett v. Henderson, 411 U.S. 258, 93 S.Ct. 1602, 36 L.Ed.2d 235 (1973); United States v. Perry,
+
+
+**Label:** 
+
+
 **citations:** ['411 U.S. 258', '417 U.S. 21']
 
 ***short_citations_0:*** 411 U.S. 258

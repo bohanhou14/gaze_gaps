@@ -57,6 +57,28 @@ to the one-level decrease.
 **Label:** 
 
 
+***Meta-Llama-3-8B-Instruct-finetuned:***
+  . We have already discussed the government’s responses to Marroquin’s motions, and we do not find
+that they were a burden on the court’s resources. See United States v. Schau, 1 F.3d 729, 731 (8th
+Cir.1993); United States v. Donovan, 996 F.2d 1343, 1345 (1st Cir.1993); United States v. Marroquin,
+27 F.3d 1409, 1412 (1st Cir.1994). The court’s decision to deny the one-level adjustment, however,
+was based in part on the court’s view that the government’s responses to Marroquin’s motions had
+required “a considerable effort on the part of the Government and on the part of the Court.” The
+court’s observation was not supported by the record. We do not think that the district court’s
+findings were supported by the evidence, and we therefore reverse the district court’s denial of the
+one-level decrease. See United States v. Morillo, 8 F.3d 864, 872 (1st Cir.1993). We do not defer to
+the district court’s resolution of underlying facts and inferences, but instead defer to its
+resolution of the legal issue. See United States v. Talladino, 38 F.3d 1255, 1264-65 (1st Cir.1994).
+The legal issue here is whether the district court abused its discretion in denying the one-level
+decrease. See United States v. Dethlefs, 123 F.3d 39, 43 (1st Cir.1997). The answer is yes. See id.
+at 43. The district court’s denial of the one-level decrease was an abuse of discretion. See id. at
+43. We therefore reverse the district court’s denial of the one-level decrease. See id. at 43. The
+sentence will be resentenced in accordance with the Guidelines. See id. at 43.
+
+
+**Label:** 
+
+
 **citations:** ['27 F.3d 1409', '996 F.2d 1343']
 
 ***short_citations_0:*** 27 F.3d 1409

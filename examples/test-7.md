@@ -65,6 +65,33 @@ reasonable and consistent with the principles of equity and fairness.
 **Label:** 
 
 
+***Meta-Llama-3-8B-Instruct-finetuned:***
+  The cases of Kennedy v. Gibson, 8 Wall. 498, 19 L. Ed. 476; Carey v. McMillan, 289 F. 380; and
+Reagan v. Midland Packing Co., 8 F. (2d) 954, are not to the point. Kennedy v. Gibson was a suit by
+a receiver of an insolvent national bank, appointed under the national banking act of June 3, 1864,
+c. 106, 13 Stat. 99, to enforce the personal liability of some of the stockholders. Carey v.
+McMillan was a suit in equity by a receiver of the Midland Packing Company, appointed under the
+bankruptcy act of 1898, c. 541, 30 Stat. 544, to enforce the personal liability of the stock
+subscribers. Reagan v. Midland Packing Co. was a suit in equity by a trustee to enforce the personal
+liability of the stock subscribers. In each of these cases, the suit was brought by a receiver or
+trustee in his own name, and the court below dismissed the suit on the ground that it was not a
+proper case for equity jurisdiction. In the present case, the receiver is seeking to enforce the
+personal liability of the stock subscribers, not in his own name, but in the name of the
+corporation. The present suit is, therefore, not a suit by the receiver in his own name, but a suit
+by the corporation, and the cases of Kennedy v. Gibson, Carey v. McMillan, and Reagan v. Midland
+Packing Co. are not authority for the proposition that the present suit is not a proper case for
+equity jurisdiction. The case of St. Louis, Iron Mountain & Southern Ry. Co. v. McKnight, 244 U. S.
+368, 375, 37 S. Ct. 38, 61 L. Ed. 1223, is to the point, and is authority for the proposition that
+the liability of the stock subscribers is several and not joint. The case of Midland Packing Co. v.
+Hegnes, 179 F. 32, is also to the point, and is authority for the proposition that the liability of
+the stock subscribers is several and not joint. The case of Hall v. U. S. Ins. Co., 5 Gill, 484, is
+to the point, and is authority for the proposition that the court will not permit the defendant to
+speak after the trial has begun. The
+
+
+**Label:** 
+
+
 **citations:** ['8 Wall. 498', '19 L. Ed. 476', '23 L. Ed. 220', '38 S. Ct. 38', '62 L. Ed. 185', '179 F. 32']
 
 ***short_citations_0:*** 8 Wall. 498

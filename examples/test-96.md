@@ -58,6 +58,28 @@ in favor of their motion also weigh against their request for intervention. <ans
 **Label:** 
 
 
+***Meta-Llama-3-8B-Instruct-finetuned:***
+  In this case, the proposed intervenors are seeking to intervene in the general accounting claim,
+326-A, and are not attempting to undo the stipulation date agreed upon in 1966. See generally United
+States v. Alpine Land & Reservoir Co., 408 F.2d 175, 181 (9th Cir.1969); Peterson v. United States,
+385 F.2d 694, 696 (9th Cir.1967). The proposed intervenors, therefore, are not attempting to undo
+the stipulation date agreed upon in 1966, and their due process rights, as they perceive them, are
+not implicated in this case. As a result, the proposed intervenors’ due process rights, as they
+perceive them, are not relevant to this case. See generally United States v. Dann, 470 U.S. 39,
+44-45, 105 S.Ct. 1058, 1061-62, 84 L.Ed.2d 28 (1985); NAACP v. New York, 413 U.S. 345, 366, 93 S.Ct.
+2591, 2603, 37 L.Ed.2d 648 (1973). Accord, e.g., United States v. Alpine Land & Reservoir Co., 408
+F.2d 175, 181 (9th Cir.1969); Peterson v. United States, 385 F.2d 694, 696 (9th Cir.1967). See
+generally 7B C. Wright & A. Miller, Federal Practice and Procedure § 1916 (1986). The proposed
+intervenors’ due process rights, as they perceive them, are not implicated in this case. See
+generally United States v. Dann, 470 U.S. 39, 44-45, 105 S.Ct. 1058, 1061-62, 84 L.Ed.2d 28 (1985);
+NAACP v. New York, 413 U.S. 345, 366, 93 S.Ct. 2591, 2603, 37 L.Ed.2d 648 (1973). Accord, e.g.,
+United States v. Alpine Land & Reservoir Co., 408 F.2d 175, 181 (9th Cir.1969); Peterson v. United
+States, 385 F.2d 694, 696 (9th Cir.
+
+
+**Label:** 
+
+
 **citations:** ['408 F.2d 175', '385 F.2d 694']
 
 ***short_citations_0:*** 408 F.2d 175

@@ -64,6 +64,36 @@ Indians.
 **Label:** 
 
 
+***Meta-Llama-3-8B-Instruct-finetuned:***
+  The Court must construe 25 U.S.C. § 1631(b)(1) in light of the unique trust relationship between
+the United States and the Indians. Oneida County v. Oneida Indian Nation, 470 U.S. 226, 236-37, 105
+S.Ct. 1245, 1253-54, 84 L.Ed.2d 346 (1985); Montana v. United States, 471 U.S. 759, 766, 105 S.Ct.
+2295, 2300, 85 L.Ed.2d 721 (1985). The Court finds that the statute requires IHS to submit to
+Congress at least one year prior to the date a hospital or outpatient health care facility is
+proposed to be closed an evaluation of the impact of such proposed closure. 25 U.S.C. § 1631(b)(1).
+This evaluation must consider the accessibility of alternative health care resources for the
+population served by such hospital or facility, the cost-effectiveness of such closure, the quality
+of health care to be provided to the population served by such hospital or facility after such
+closure, the availability of contract health care funds to maintain existing levels of service, and
+the views of the Indian tribes served by such hospital or facility concerning such closure. The
+Court finds that the IHS failed to comply with this statutory requirement. The Court concludes that
+the IHS failed to provide a sufficient evaluation of the impact of the proposed closure of the
+Wagner IHS Health Care Facility and that the closure was not in compliance with the statute. The
+Court also finds that the IHS failed to provide the required notice to the Yankton Sioux Tribe and
+that the tribe was not given the opportunity to exercise its rights under the statute. The Court
+concludes that the IHS failed to comply with the statute in these respects. The Court finds that the
+IHS decision to close the Wagner IHS Health Care Facility is not supported by substantial evidence
+and is arbitrary and capricious. The Court finds that the IHS decision is also in violation of the
+statute and is not in compliance with the statute. The Court concludes that the IHS decision to
+close the Wagner IHS Health Care Facility is not valid and is not enforceable. The Court grants
+Plaintiffs’ motion for summary judgment and enters an order vacating the IHS decision to close the
+Wagner IHS Health Care Facility. The Court also grants Plaintiffs’ motion for summary judgment and
+enters an order requiring the IHS to reopen the Wagner I
+
+
+**Label:** 
+
+
 **citations:** ['471 U.S. 759', '470 U.S. 226', '16 F.3d 261']
 
 ***short_citations_0:*** 471 U.S. 759

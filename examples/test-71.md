@@ -71,6 +71,32 @@ under Title II.
 **Label:** 
 
 
+***Meta-Llama-3-8B-Instruct-finetuned:***
+  In Toucey v. New York Life Insurance Co., 1941, 314 U.S. 118, 62 S.Ct. 139, 86 L.Ed. 100, the
+Supreme Court held that the anti-injunction statute, § 265 of the Judicial Code of 1911, did not bar
+a federal court from enjoining a state court proceeding where the federal court had previously
+adjudicated the same controversy. In Jackson v. Carter Oil Co., 10 Cir., 1956, 179 F.2d 524, cert.
+den., 340 U.S. 812, 71 S.Ct. 39, 95 L.Ed. 597, the Tenth Circuit, in a case decided after the Toucey
+decision, held that a federal court could enjoin a state court prosecution that would challenge an
+adjudication of title that had been made among the parties or their privies in an earlier action. In
+Berman v. Denver, 10 Cir., 1961, 244 F.2d 394, the Tenth Circuit, in a case decided after the
+Jackson decision, held that a federal court could enjoin a state court prosecution that would
+challenge an adjudication of title that had been made among the parties or their privies in an
+earlier action. In United States v. Wood, 5 Cir., 1961, 295 F.2d 772, cert. den., 369 U.S. 850, 82
+S.Ct. 938, 8 L.Ed.2d 9, the court held that the anti-injunction statute did not bar a federal court
+from enjoining a state court prosecution for the reason that the prosecution was related to a
+federal right and was a threat to the integrity of the federal court's jurisdiction. See also Woods
+v. Wright, 5 Cir., 1964, 334 F.2d 369, 372-374. In view of these cases, it is clear that the anti-
+injunction statute, § 2283, does not bar a federal court from enjoining a state court prosecution
+that would challenge an adjudication of title that had been made among the parties or their privies
+in an earlier action. See also United States v. Wood, supra, and Woods v. Wright, supra. In view of
+these cases, it is clear that the anti-injunction statute, § 2283, does not bar a federal court from
+enjoining a state court prosecution that would challenge
+
+
+**Label:** 
+
+
 **citations:** ['314 U.S. 118', '244 F.2d 394', '275 F.2d 397']
 
 ***short_citations_0:*** 314 U.S. 118

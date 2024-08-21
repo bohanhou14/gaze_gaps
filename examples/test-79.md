@@ -59,6 +59,21 @@ activities in teacher associations is without merit.
 **Label:** 
 
 
+***Meta-Llama-3-8B-Instruct-finetuned:***
+  Reference: Smith v. Arkansas A & M College, 396 F.2d 730, 734 (8th Cir. 1968); Monroe v. Pape, 365
+F.2d 770, 777 (7th Cir. 1966), cert. den. 386 U.S. 1012, 87 S.Ct. 1375, 18 L.Ed.2d 453 (1967); 427
+F.2d 319, 323 (8th Cir. 1970). It is also clear that a cause of action under 42 U.S.C. § 1983 cannot
+be maintained against the school district or its officials in their official capacities. See: Smith
+v. Arkansas A & M College, supra, 396 F.2d at 734; Monroe v. Pape, supra, 365 F.2d at 777; 427 F.2d
+319, 323. In this case, it is clear that the school district and its officials acted in their
+official capacities. The district court correctly granted judgment in favor of the defendants. See:
+Smith v. Arkansas A & M College, supra, 396 F.2d at 734; Monroe v. Pape, supra, 365 F.2d at 777; 427
+F.2d 319, 323. The judgment of the district court is hereby affirmed. It is so ordered.
+
+
+**Label:** 
+
+
 **citations:** ['396 F.2d 730', '365 F.2d 770', '427 F.2d 319']
 
 ***short_citations_0:*** 396 F.2d 730

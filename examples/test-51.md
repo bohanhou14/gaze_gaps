@@ -46,6 +46,23 @@ procedure.
 **Label:** 
 
 
+***Meta-Llama-3-8B-Instruct-finetuned:***
+  . Eldridge v. Ashcroft, 424 U.S. 319, 335, 96 S.Ct. 879, 889, 47 L.Ed.2d 270 (1976); Mathews v.
+Eldridge, 424 U.S. 319, 335, 96 S.Ct. 879, 889, 47 L.Ed.2d 270 (1976).  . Plyler v. Missouri, 452
+U.S. 18, 26, 101 S.Ct. 2149, 2155, 68 L.Ed.2d 634 (1981).  . Id. at 27, 101 S.Ct. at 2156.  . Id. at
+28, 101 S.Ct. at 2157.  . Id. at 29, 101 S.Ct. at 2158.  . Id. at 30, 101 S.Ct. at 2159.  . Id. at
+31, 101 S.Ct. at 2160.  . Id. at 32, 101 S.Ct. at 2161.  . Id. at 33, 101 S.Ct. at 2162.  . Id. at
+34, 101 S.Ct. at 2163.  . Id. at 35, 101 S.Ct. at 2164.  . Id. at 36, 101 S.Ct. at 2165.  . Id. at
+37, 101 S.Ct. at 2166.  . Id. at 38, 101 S.Ct. at 2167.  . Id. at 39, 101 S.Ct. at 2168.  . Id. at
+40, 101 S.Ct. at 2169.  . Id. at 41, 101 S.Ct. at 2170.  . Id. at 42, 101 S.Ct. at 2171.  . Id. at
+43, 101 S.Ct. at 2172.  . Id. at 44, 101 S.Ct. at 2173.  . Id. at 45, 101 S.Ct. at 2174.  . Id. at
+46, 101 S.Ct. at 2175.  . Id. at 47, 101 S.Ct. at 2176.  . Id. at 48, 101 S.Ct. at 2177.  . Id. at
+49,
+
+
+**Label:** 
+
+
 **citations:** ['424 U.S. 319', '452 U.S. 18']
 
 ***short_citations_0:*** 424 U.S. 319

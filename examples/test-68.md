@@ -80,6 +80,33 @@ for sanctions against Chase is therefore vacated.  References: 457 F.3d 561, 457
 **Label:** 
 
 
+***Meta-Llama-3-8B-Instruct-finetuned:***
+  Chase did not take any action against the Corderos to collect or satisfy the mortgage debt, nor
+did it take any action to coerce the Corderos into repaying the mortgage debt. Chase’s actions were
+taken with respect to the Corderos’ original mortgage and the FHA insurance policy for that
+mortgage, not with respect to the Corderos’ new FHA-insured loan. The Corderos’ allegations that
+Chase’s actions caused them to lose the approved FHA-insured financing do not, as a matter of law,
+support a finding that Chase violated the automatic stay. See In re Rogan, 457 F.3d 561, 563 (5th
+Cir.2006) (a creditor may transfer its interest in a mortgage after a debtor files for bankruptcy
+and still be entitled to enforce the mortgage); In re Kapila, 184 F.3d 1335, 1337 (11th Cir.1999) (a
+mortgage lender may transfer its interest in a mortgage after a debtor files for bankruptcy and
+still be entitled to enforce the mortgage); In re Cooks, 212 B.R. 23, 25 (Bkrtcy.D.Md.1997) (a
+mortgage lender may transfer its interest in a mortgage after a debtor files for bankruptcy and
+still be entitled to enforce the mortgage); In re Saunders, 105 B.R. 781, 783 (Bankr.E.D.Pa.1989) (a
+student loan creditor did not violate the automatic stay by denying a student aid application
+pending bankruptcy discharge). See also 11 U.S.C. § 362(a)(6) (staying any “act to collect, assess,
+or recover a claim against the debtor that arose before the commencement of the case under this
+title”); In re Williams, 851 F.2d 119, 122 (5th Cir.1988) (a creditor may file a proof of claim in
+connection with a pre-petition debt and still be entitled to enforce the debt); In re Miller, 710
+F.2d 1194, 1196 (5th Cir.1983) (a creditor may instruct its attorney to “take appropriate action” to
+protect its interests and still be entitled to enforce the debt). In re Corderos, 14 B.R. 956, 958
+(Bkrtcy.D.Conn.1981) (a creditor may take action to protect its interests in a mortgage after a
+debtor files for bankruptcy
+
+
+**Label:** 
+
+
 **citations:** ['457 F.3d 561', '457 F.3d 561', '184 F.3d 1335', '184 F.3d 1335', '212 B.R. 23', '710 F.2d 1194',
 '710 F.2d 1194', '14 B.R. 956', '851 F.2d 119', '851 F.2d 119']
 

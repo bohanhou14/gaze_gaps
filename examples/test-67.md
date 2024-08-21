@@ -57,6 +57,32 @@ Archuleta, 525 F.3d 925, 929-30 n. 7 (10th Cir.2008), for the proposition that a
 **Label:** 
 
 
+***Meta-Llama-3-8B-Instruct-finetuned:***
+  Finally, Saenz-Jurado claims that he is actually innocent. However, he has not made a prima facie
+showing of actual innocence. Schlup v. Delo, 513 U.S. 298, 327-28, 115 S.Ct. 851, 130 L.Ed.2d 462
+(1995). In the absence of a showing of actual innocence, a habeas petition is not automatically
+granted. Murray v. Carrier, 533 U.S. 428, 435, 121 S.Ct. 2406, 150 L.Ed.2d 366 (2001). In this case,
+Saenz-Jurado’s claim of actual innocence is conclusory and lacks supporting evidence. See Gibson v.
+Johnson, 232 F.3d 799, 803 (10th Cir.2000) (holding that a habeas petition is not automatically
+granted based on a claim of actual innocence). Furthermore, Saenz-Jurado has not demonstrated that
+he diligently pursued his federal habeas claims. Id. at 803-04. We agree with the district court
+that Saenz-Jurado did not exercise due diligence in pursuing his federal claims. He has not
+explained why he did not pursue his appeal out of time after receiving the state district court’s
+permission on June 13, 1996, or why he did not file his federal habeas petition within the 185 days
+after the state appellate court affirmed the denial of his post-conviction application. See id. at
+803-04. In addition, Saenz-Jurado’s evidence that he could not obtain a copy of AEDPA is not
+sufficient to support equitable tolling. Id. at 803-04. In the absence of a showing of actual
+innocence and diligent pursuit of his federal habeas claims, Saenz-Jurado’s habeas petition is
+denied. See id. at 803-04. In conclusion, we deny Saenz-Jurado’s request for a COA and dismiss his
+appeal. We also deny his request for appointment of counsel and leave to proceed IFP on appeal. See
+28 U.S.C. § 1915(e)(1). The district court’s denial of his habeas application is affirmed. See 28
+U.S.C. § 2253(c)(1)(A). The appeal is dismissed. See id. at 2253(c)(1)(B). We also deny his request
+for leave to proceed IFP on appeal. See
+
+
+**Label:** 
+
+
 **citations:** ['232 F.3d 799', '523 U.S. 614']
 
 ***short_citations_0:*** 232 F.3d 799

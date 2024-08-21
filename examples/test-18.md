@@ -58,6 +58,29 @@ overreach and should be vacated.
 **Label:** 
 
 
+***Meta-Llama-3-8B-Instruct-finetuned:***
+  The Commission has power to modify its orders. Federal Trade Comm. v. Royal Milling Co., 288 U.S.
+212, 53 S.Ct. 335, 77 L.Ed. 706. However, it is not given the power to make an allowable judgment in
+its choice of the remedy. Jacob Siegel Co. v. Federal Trade Comm., 327 U.S. 608, 66 S.Ct. 758, 90
+L.Ed. 888. The Commission’s order in this case is not supported by substantial evidence. Arrid
+Deodorant Corp. v. Federal Trade Comm., 186 F.2d 821. The Commission’s order is to be set aside.
+International Parts Corp. v. Federal Trade Comm., 7 Cir., 133 F.2d 883. The Commission’s order is to
+be set aside. Arrid Deodorant Corp. v. Federal Trade Comm., 186 F.2d 821. The Commission’s order is
+to be set aside. Federal Trade Comm. v. Royal Milling Co., 288 U.S. 212, 53 S.Ct. 335, 77 L.Ed. 706.
+The Commission’s order is to be set aside. Arrid Deodorant Corp. v. Federal Trade Comm., 186 F.2d
+821. The Commission’s order is to be set aside. International Parts Corp. v. Federal Trade Comm., 7
+Cir., 133 F.2d 883. Federal Trade Comm. v. Royal Milling Co., 288 U.S. 212, 53 S.Ct. 335, 77 L.Ed.
+706. The Commission’s order is to be set aside. Arrid Deodorant Corp. v. Federal Trade Comm., 186
+F.2d 821. The Commission’s order is to be set aside. International Parts Corp. v. Federal Trade
+Comm., 7 Cir., 133 F.2d 883. Federal Trade Comm. v. Royal Milling Co., 288 U.S. 212, 53 S.Ct. 335,
+77 L.Ed. 706. The Commission’s order is to be set aside. Arrid Deodorant Corp. v. Federal Trade
+Comm., 186 F.2d 821. The Commission’s order is to be set aside. International Parts Corp. v. Federal
+Trade Comm., 7 Cir., 133 F.2d 883. Federal
+
+
+**Label:** 
+
+
 **citations:** ['288 U.S. 212', '186 F.2d 821']
 
 ***short_citations_0:*** 288 U.S. 212

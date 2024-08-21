@@ -58,6 +58,29 @@ submitting it to the jury.
 **Label:** 
 
 
+***Meta-Llama-3-8B-Instruct-finetuned:***
+  AutoZone also argues that the district court erred in denying its motion for judgment as a matter
+of law. In reviewing the denial of a motion for judgment as a matter of law, we apply the same
+standard as the trial court and will affirm the decision unless the evidence “is so one-sided that a
+reasonable jury could not have found for the nonmoving party.” Bell v. Am. Family Ins. Co., 228 F.3d
+872, 877 (8th Cir.2000). The jury’s verdict was not against the clear weight of the evidence.
+AutoZone presented evidence that Eight had been terminated for his behavior, but the jury reasonably
+could have found that his behavior was pretext for age discrimination. See Denesha v. Farmers Ins.
+Co., 161 F.3d 491, 495 (8th Cir.1998). The jury’s verdict is supported by the evidence, and we will
+not disturb it. See id. at 495. The judgment is affirmed. See id. at 495. See also id. at 495. See
+also id. at 495. See also id. at 495. See also id. at 495. See also id. at 495. See also id. at 495.
+See also id. at 495. See also id. at 495. See also id. at 495. See also id. at 495. See also id. at
+495. See also id. at 495. See also id. at 495. See also id. at 495. See also id. at 495. See also
+id. at 495. See also id. at 495. See also id. at 495. See also id. at 495. See also id. at 495. See
+also id. at 495. See also id. at 495. See also id. at 495. See also id. at 495. See also id. at 495.
+See also id. at 495. See also id. at 495. See also id. at 495. See also id. at 495. See also id. at
+495. See also id. at 495. See also id. at 495. See also id. at 495. See also id. at 495. See also
+id. at 495. See also id. at 495. See also id. at 495. See also id.
+
+
+**Label:** 
+
+
 **citations:** ['228 F.3d 872', '161 F.3d 491']
 
 ***short_citations_0:*** 228 F.3d 872

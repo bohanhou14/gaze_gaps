@@ -62,6 +62,33 @@ under the criteria established in Relford v. Commandant, 401 U.S. 355, 91 S.Ct. 
 **Label:** 
 
 
+***Meta-Llama-3-8B-Instruct-finetuned:***
+  . The Court of Military Appeals has recognized that a “duty status” is not necessarily limited to
+the actual performance of duty. See United States v. McCarthy, 25 U.S.C.M.A. 30, 54 C.M.R. 30, 2
+M.J. 26 (1976). It has also recognized that a service member who is on the military reservation for
+personal reasons may still be in a “duty status” for purposes of determining court-martial
+jurisdiction. United States v. Hines, 3 M.J. 414, 419 (C.M.A.1977). In this case, the appellant was
+at the trailer park for personal reasons, but he was still in a “duty status” because he was on the
+military reservation. See United States v. Relford, 25 U.S.C.M.A. 30, 54 C.M.R. 30, 2 M.J. 26
+(1976); United States v. O’Callahan, 25 U.S.C.M.A. 30, 54 C.M.R. 30, 2 M.J. 26 (1976); United States
+v. Beeker, 18 U.S.C.M.A. 563, 40 C.M.R. 275 (1969). The fact that the transaction was consummated
+off-post does not necessarily mean that it was not committed on the military reservation. See United
+States v. McCarthy, supra; United States v. Hines, supra. The appellant’s “duty status” at the time
+of the transaction is a factor that must be considered in determining whether the transaction was
+committed on the military reservation. See United States v. Relford, supra; United States v.
+O’Callahan, supra. The fact that the transaction was consummated off-post does not necessarily mean
+that it was not committed on the military reservation. See United States v. McCarthy, supra; United
+States v. Hines, supra. The appellant’s “duty status” at the time of the transaction is a factor
+that must be considered in determining whether the transaction was committed on the military
+reservation. See United States v. Relford, supra; United States v. O’Callahan, supra. The
+transaction was committed on the military reservation because it was committed while the appellant
+was in a “duty status.” See United States v. McCarthy, supra; United States v. Hines, supra. The
+fact that the transaction
+
+
+**Label:** 
+
+
 **citations:** ['3 M.J. 414', '2 M.J. 1049', '2 M.J. 1038']
 
 ***short_citations_0:*** 3 M.J. 414

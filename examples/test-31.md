@@ -61,6 +61,36 @@ made under the confirmed plan. (Refer to 801 F.2d 819, 801 F.2d 819, 590 F.2d 47
 **Label:** 
 
 
+***Meta-Llama-3-8B-Instruct-finetuned:***
+  The court’s determination that the schedules were admissible as evidence is supported by the
+reasoning of the court in In re Tenna, 801 F.2d 819, 821 (6th Cir.1986), where this court held that
+the bankruptcy court did not err in considering a debtor’s schedules in determining whether a
+transfer was avoidable under § 547(b)(5). The court in Tenna relied on In re Skehan, 590 F.2d 470,
+474 (6th Cir.1979), where this court held that a change in the law may warrant the reopening of a
+case where additional testimony would be pertinent to the change in law. The court in Tenna stated
+that the change in law in this case was the decision in Tenna, where the court held that a
+hypothetical Chapter 7 distribution must be performed as of the date of the hearing on the adversary
+proceeding, rather than the date of the petition in bankruptcy. The court in Tenna held that the
+bankruptcy court did not err in reopening the issue because the trustee’s burden of proof in a §
+547(b)(5) case is the same as in a § 547(b) case, and that the trustee must show that the creditor
+received more than it would have received if the case were a Chapter 7 case and the transfer had not
+been made. Id. at 821. The court in Tenna also held that the bankruptcy court did not err in
+reopening the issue because the trustee had not yet presented evidence as to the admissibility of
+the schedules. Id. at 822. We agree with the bankruptcy court and the district court that the
+trustee had not presented evidence as to the admissibility of the schedules. Id. at 822. We also
+agree with the bankruptcy court and the district court that the trustee had not yet presented
+evidence as to the admissibility of the schedules. Id. at 822. We also agree with the bankruptcy
+court and the district court that the trustee had not yet presented evidence as to the admissibility
+of the schedules. Id. at 822. We also agree with the bankruptcy court and the district court that
+the trustee had not yet presented evidence as to the admissibility of the schedules. Id. at 822. We
+also agree with the bankruptcy court and the district court that the trustee had not yet presented
+evidence as to the admissibility of the schedules. Id. at 822. We also agree with the bankruptcy
+court and the district court that the trustee had
+
+
+**Label:** 
+
+
 **citations:** ['801 F.2d 819', '801 F.2d 819', '590 F.2d 470']
 
 ***short_citations_0:*** 801 F.2d 819

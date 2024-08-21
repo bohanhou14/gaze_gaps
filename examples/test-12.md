@@ -53,6 +53,37 @@ inquiry, I'm here to help. What's on your mind? Ask me anything!
 **Label:** 
 
 
+***Meta-Llama-3-8B-Instruct-finetuned:***
+  The Town’s argument that the availability of the grievance procedures in the collective bargaining
+agreement forecloses Clukey’s claim under § 1983 is equally unconvincing. In Pace v. City of
+Springfield, 52 F.3d 623 (7th Cir.1995), the Seventh Circuit held that the availability of a
+grievance procedure under a collective bargaining agreement did not foreclose a public employee’s
+claim under § 1983 that the employer had deprived him of due process in the course of terminating
+his employment. Id. at 626. The court recognized that the availability of the grievance procedure
+did not necessarily mean that the employer had provided the employee with the process due, and
+therefore, the employee could still bring a claim under § 1983 if he could establish that the
+employer had deprived him of due process. Id. at 627. In Chaney v. City of Springfield, 964 F.2d 948
+(7th Cir.1992), the Seventh Circuit reaffirmed this holding, emphasizing that the availability of a
+grievance procedure did not necessarily mean that the employer had provided the employee with the
+process due. Id. at 953. In Schmidt v. Town of Camden, 639 F.3d 587 (1st Cir.2011), we held that the
+availability of a grievance procedure under a collective bargaining agreement did not foreclose a
+public employee’s claim under § 1983 that the employer had deprived him of due process in the course
+of terminating his employment. Id. at 593. We recognized that the availability of the grievance
+procedure did not necessarily mean that the employer had provided the employee with the process due,
+and therefore, the employee could still bring a claim under § 1983 if he could establish that the
+employer had deprived him of due process. Id. at 594.  In summary, the availability of alternative
+remedies does not foreclose Clukey’s claim under § 1983. The availability of state law breach-of-
+contract claims or the grievance procedures in the collective bargaining agreement do not
+necessarily mean that the employer has provided the employee with the process due. Therefore, Clukey
+can still bring a claim under § 1983 if he can establish that the employer has deprived him of due
+process. The question, then, is whether Clukey has adequately alleged that the employer has deprived
+him of due process. We conclude that he has. The complaint alleges that the employer failed to
+provide Clukey with any notice of
+
+
+**Label:** 
+
+
 **citations:** ['52 F.3d 623', '964 F.2d 948', '639 F.3d 587']
 
 ***short_citations_0:*** 52 F.3d 623

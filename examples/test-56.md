@@ -49,6 +49,31 @@ of attorney's fees will be determined by the court.
 **Label:** 
 
 
+***Meta-Llama-3-8B-Instruct-finetuned:***
+  In Hammock v. Bowen, 867 F.2d 1209, 1212 (9th Cir.1989), we held that a prevailing party is not
+entitled to fees under 28 U.S.C. § 2412(d) (1982) unless the Secretary’s position was not
+substantially justified. See also Swenson v. Heckler, 844 F.2d 664, 666 (9th Cir.1988). We will
+remand for the district court to determine whether the Secretary’s position was substantially
+justified. See Hammock, 867 F.2d at 1212; Swenson, 844 F.2d at 666. If it was not, the prevailing
+party will be entitled to attorney’s fees. See 28 U.S.C. § 2412(d) (1982). We reverse and remand for
+payment of benefits and for the district court to determine whether the Secretary’s position was
+substantially justified. See Hammock, 867 F.2d at 1212; Swenson, 844 F.2d at 666. The Secretary’s
+position was not substantially justified. See Hammock, 867 F.2d at 1212; Swenson, 844 F.2d at 666.
+We reverse and remand for payment of benefits and for the district court to determine whether the
+Secretary’s position was substantially justified. See Hammock, 867 F.2d at 1212; Swenson, 844 F.2d
+at 666. The Secretary’s position was not substantially justified. See Hammock, 867 F.2d at 1212;
+Swenson, 844 F.2d at 666. We reverse and remand for payment of benefits and for the district court
+to determine whether the Secretary’s position was substantially justified. See Hammock, 867 F.2d at
+1212; Swenson, 844 F.2d at 666. The Secretary’s position was not substantially justified. See
+Hammock, 867 F.2d at 1212; Swenson, 844 F.2d at 666. We reverse and remand for payment of benefits
+and for the district court to determine whether the Secretary’s position was substantially
+justified. See Hammock, 867 F.2d at 1212; Swenson, 844 F.2d at 666. The Secretary’s position was not
+substantially justified. See Hammock,
+
+
+**Label:** 
+
+
 **citations:** ['867 F.2d 1209', '844 F.2d 664']
 
 ***short_citations_0:*** 867 F.2d 1209

@@ -61,6 +61,34 @@ guidance in evaluating the defendant's liability and the extent of the plaintiff
 **Label:** 
 
 
+***Meta-Llama-3-8B-Instruct-finetuned:***
+  C. & O. Ry. Co. v. De Atley, 241 U. S. 310, 315, 36 Sup. Ct. 564, 60 L. Ed. 1016; C., R. I. & P.
+Ry. Co. v. Ward, 252 U. S. 18, 40 Sup. Ct. 275, 64 L. Ed. 430; Erie R. Co. v. Healy, 266 Fed. 342,
+344; Gila Valley Ry. Co. v. Hall, 257 Fed. 341, 344; Seaboard Air Line v. Horton, 256 Fed. 441, 443.
+The jury, we think, were justified in finding that the defendant, with full knowledge of the
+conditions, permitted a “draft” to be backed into the tunnel without warning the men in the tunnel,
+and that this was a breach of its duty to the plaintiff. The plaintiff, in order to avoid the
+danger, was obliged to assume that the defendant and its agents had exercised proper care for his
+safety, but the jury, upon the evidence, could find that the defendant had not exercised that care.
+The jury could find that the defendant knew the conditions and that it was not reasonable for the
+plaintiff to assume that the defendant had exercised the care required of it under the
+circumstances. The jury could find that the defendant’s failure to provide some means of warning the
+men in the tunnel was a breach of its duty, and that this breach was the proximate cause of the
+plaintiff’s injuries. The jury, we think, were justified in finding that the defendant’s failure to
+provide some means of warning the men in the tunnel was a breach of its duty, and that this breach
+was the proximate cause of the plaintiff’s injuries. The jury, we think, were justified in finding
+that the defendant’s failure to provide some means of warning the men in the tunnel was a breach of
+its duty, and that this breach was the proximate cause of the plaintiff’s injuries. The jury, we
+think, were justified in finding that the defendant’s failure to provide some means of warning the
+men in the tunnel was a breach of its duty, and that this breach was the proximate cause of the
+plaintiff’s injuries. The jury, we think, were justified in finding that the defendant’s failure to
+provide some means of warning the men in the tunnel was a breach of its duty, and that this breach
+was the prox
+
+
+**Label:** 
+
+
 **citations:** ['269 F. 1', '36 S. Ct. 564', '60 L. Ed. 1016']
 
 ***short_citations_0:*** 269 F. 1

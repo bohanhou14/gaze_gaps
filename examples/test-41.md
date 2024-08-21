@@ -61,6 +61,33 @@ States v. Fink, 502 F.2d 1, 4-5 (5th Cir. 1974). 4. United States v. Brooks, 477
 **Label:** 
 
 
+***Meta-Llama-3-8B-Instruct-finetuned:***
+  In United States v. McClain, 9 Cir., 1974, 198 F.2d 795, we held that the government could not
+introduce evidence of a defendant’s prior criminal conduct, without a showing of the reliability of
+the informant who reported the conduct. In United States v. Carlton, 9 Cir., 1952, 211 F.2d 513, we
+held that the government could not introduce evidence of a defendant’s prior criminal conduct,
+without a showing of the reliability of the informant who reported the conduct. In Sorrells v.
+United States, 1932, 287 U.S. 435, 53 S.Ct. 210, 77 L.Ed. 413, the Court held that the government
+could not introduce evidence of a defendant’s prior criminal conduct, without a showing of the
+reliability of the informant who reported the conduct. In Sherman v. United States, 1958, 356 U.S.
+369, 78 S.Ct. 819, 2 L.Ed.2d 848, the Court held that the government could not introduce evidence of
+a defendant’s prior criminal conduct, without a showing of the reliability of the informant who
+reported the conduct. In United States v. Ambrose, 6 Cir., 1973, 483 F.2d 742, the court held that
+hearsay evidence of a defendant’s prior criminal conduct, without a showing of the reliability of
+the informant who reported the conduct, is inadmissible. In United States v. Payne, 9 Cir., 1970,
+429 F.2d 169, we held that hearsay evidence of a defendant’s prior criminal conduct, without a
+showing of the reliability of the informant who reported the conduct, is inadmissible. In United
+States v. Watson, 9 Cir., 1974, 504 F.2d 849, we held that hearsay evidence of a defendant’s prior
+criminal conduct, without a showing of the reliability of the informant who reported the conduct, is
+inadmissible. In United States v. Fink, 5 Cir., 1974, 502 F.2d 1, 4-5, we held that hearsay evidence
+of a defendant’s prior criminal conduct, without a showing of the reliability of the informant who
+reported the conduct, is inadmissible. In United States v. Brooks, 5 Cir., 1973, 477 F.2d 453, we
+held
+
+
+**Label:** 
+
+
 **citations:** ['198 F.2d 795', '211 F.2d 513']
 
 ***short_citations_0:*** 198 F.2d 795

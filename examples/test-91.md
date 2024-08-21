@@ -54,6 +54,28 @@ judicial coercion were consistent with the principles established in the referen
 **Label:** 
 
 
+***Meta-Llama-3-8B-Instruct-finetuned:***
+  We have held that fact-specific claims of ineffective assistance cannot make their debut on direct
+review of criminal convictions, but, rather, must originally be presented to, and acted upon by, the
+trial court. See United States v. Leahy, 473 F.3d 401, 404 (1st Cir.2007) (citing United States v.
+Mala, 7 F.3d 1058, 1063 (1st Cir.1993)). United States v. Natanel, 938 F.2d 302, 309 (1st Cir.1991),
+cert. denied, — U.S. -, 112 S.Ct. 986, 117 L.Ed.2d 148 (1992), cited in United States v. Costa, 890
+F.2d 480, 482-83 (1st Cir.1989), explains that the rule has a prudential aspect. It is not merely a
+matter of jurisdiction. See United States v. Carter, 815 F.2d 827, 829 (1st Cir.1987). This
+prudential aspect is essential, as fact-specific claims of ineffective assistance involve a binary
+analysis—the defendant must show, first, that counsel’s performance was constitutionally deficient
+and, second, that the deficient performance prejudiced the defense, see Strickland v. Washington,
+466 U.S. 668, 687, 104 S.Ct. 2052, 80 L.Ed.2d 674 (1984). The record here contains nothing
+approaching an adequate elaboration of why counsel adopted the course that he followed, nor does it
+provide the district court’s first-hand insights as to what (if any) quantum of prejudice might have
+attended the events in question. The claims are therefore better suited for collateral proceedings.
+See United States v. Kobrosky, 711 F.2d 449, 457 (1st Cir.1983). We accordingly affirm the district
+court. United States v. Hoyos-Medina, 878 F.2d 21, 22 (1st Cir.1989). - ———.
+
+
+**Label:** 
+
+
 **citations:** ['473 F.3d 401', '7 F.3d 1058']
 
 ***short_citations_0:*** 473 F.3d 401

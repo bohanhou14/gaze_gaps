@@ -59,6 +59,24 @@ importance of honesty and accuracy in bankruptcy proceedings.
 **Label:** 
 
 
+***Meta-Llama-3-8B-Instruct-finetuned:***
+  In re Diodati, 9 B.R. 804, 808 (Bankr.D. Mass.1981); In re Gaylord, 22 F.2d 282, 284 (2nd
+Cir.1928); In re Zoffer, 211 F. 936, 938 (2nd Cir.1914); see, In re Mazzola, 4 B.R. 179, 182
+(Bankr.D. Mass.1980); In re Irving, 27 B.R. 943, 945 (Bankr.E.D.N.Y.1983). In re Golowaty, 13 B.R.
+781, 784 (Bankr.D.Vt.1981). The Court concludes that the false oath is material. See, In re Gonday,
+27 B.R. 428, 433 (Bankr.M.D.La.1983). See also, In re Gugliada, 20 B.R. 524, 528
+(Bankr.S.D.N.Y.1982). See generally, In re Braidis, 27 B.R. 470, 472 (Bankr.E.D.Penn.1983). See
+also, In re Golowaty, 13 B.R. 781, 784 (Bankr.D.Vt.1981). See generally, In re Mazzola, 4 B.R. 179,
+182 (Bankr.D. Mass.1980). See also, In re Irving, 27 B.R. 943, 945 (Bankr.E.D.N.Y.1983). See
+generally, In re Gonday, 27 B.R. 428, 433 (Bankr.M.D.La.1983). See also, In re Gugliada, 20 B.R.
+524, 528 (Bankr.S.D.N.Y.1982). See generally, In re Braidis, 27 B.R. 470, 472 (Bankr.E.D.Penn.1983).
+See also, In re Golowaty, 13 B.R. 781, 784 (Bankr.D.Vt.1981). See generally, In re Mazzola, 4 B.R.
+179, 182 (Bankr.D. Mass.1980). See also, In re Irving, 27 B.R. 943, 945 (Bankr.E.D.N.Y.1983
+
+
+**Label:** 
+
+
 **citations:** ['9 B.R. 804', '22 F.2d 282']
 
 ***short_citations_0:*** 9 B.R. 804

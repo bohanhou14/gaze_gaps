@@ -58,6 +58,33 @@ controversy required for jurisdiction under 28 U.S.C. § 1331(a).
 **Label:** 
 
 
+***Meta-Llama-3-8B-Instruct-finetuned:***
+  Plaintiffs also cite the cases of Wolff v. Selective Service Local Board No. 16, 372 F.2d 817 (3d
+Cir. 1967), and Bivens v. Six Unknown Named Agents, 405 U.S. 538, 92 S.Ct. 1092, 31 L.Ed.2d 434
+(1972). In Wolff, the court held that the Selective Service Local Board’s decision to classify a
+registrant I-A was not reviewable in mandamus, because the board’s decision was not a ministerial
+act. In Bivens, the Supreme Court held that a suit for damages against federal officials for alleged
+deprivations of constitutional rights, without any requirement of a specific amount in controversy,
+was not barred by the jurisdictional amount requirement. The court noted that the Tucker Act, 28
+U.S.C. § 1346(a)(2), did not apply to actions for damages. However, the court did not hold that the
+amount in controversy requirement was inapplicable to all actions for damages against federal
+officials. The court distinguished Bivens from cases where the amount in controversy requirement was
+applicable, such as those under the Tucker Act. 405 U.S. at 544, 92 S.Ct. 1092. In this case,
+however, the Court is dealing with a declaratory and injunctive action, which, as the Third Circuit
+has held, is not subject to the jurisdictional amount requirement. See Spock v. David, 469 F.2d
+1047, 1050 (3d Cir. 1972). The Court is not persuaded that plaintiffs have met their burden of
+showing that the amount in controversy requirement is inapplicable to this action. The Court,
+therefore, lacks subject matter jurisdiction over this action. 28 U.S.C. § 1331(a). The Court will,
+however, allow plaintiffs to amend their complaint to specify the amount in controversy, and to
+provide evidence to support their allegations. See Davis v. Shultz, 453 F.2d 497, 501 (3d Cir.
+1971). If, after amendment, the Court finds that the matter in controversy exceeds $10,000, it will
+have jurisdiction over this action. 28 U.S.C. § 1331(a). If, however, the Court finds that the
+matter in controversy does not exceed $10,000, it will dismiss the action for lack of jurisdiction.
+
+
+**Label:** 
+
+
 **citations:** ['372 F.2d 817', '405 U.S. 538', '92 S. Ct. 1113']
 
 ***short_citations_0:*** 372 F.2d 817

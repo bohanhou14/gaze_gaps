@@ -61,6 +61,31 @@ California. (References: 383 F.2d 358, 753 F.2d 50)
 **Label:** 
 
 
+***Meta-Llama-3-8B-Instruct-finetuned:***
+  The Kentucky courts, however, have also recognized that a party who has raised an issue in state
+court may not relitigate that issue in federal court if the issue was “wholly litigated” in the
+state court. Dean of Kentucky v. Cream Top Dairy, 383 F.2d 358, 363 (6th Cir.1967); Hy-Grade
+Dairies, Inc. v. Dean Milk Co., Inc., 753 F.2d 50, 53 (6th Cir.1985). The Kentucky courts have also
+applied the doctrine of res judicata to bar relitigation of issues that were actually decided in the
+state court. See, e.g., United Kentucky Bank v. George, 753 F.2d 50, 54 (6th Cir.1985). The doctrine
+of res judicata is applicable to all cases where a party has been given a full and fair opportunity
+to litigate an issue. E.g., Hy-Grade Dairies, Inc. v. Dean Milk Co., Inc., 753 F.2d 50, 53 (6th
+Cir.1985). The doctrine of collateral estoppel, on the other hand, applies only to issues that were
+actually decided in the state court. E.g., Dean of Kentucky v. Cream Top Dairy, 383 F.2d 358, 363
+(6th Cir.1967). See also, e.g., United Kentucky Bank v. George, 753 F.2d 50, 54 (6th Cir.1985).
+While the doctrine of collateral estoppel is not as broad as the doctrine of res judicata, both
+doctrines are designed to prevent relitigation of issues that have already been decided. See, e.g.,
+Hy-Grade Dairies, Inc. v. Dean Milk Co., Inc., 753 F.2d 50, 53 (6th Cir.1985). In determining
+whether an issue has been “wholly litigated” in the state court, the Kentucky courts consider
+whether the issue was actually decided in the state court. See, e.g., Dean of Kentucky v. Cream Top
+Dairy, 383 F.2d 358, 363 (6th Cir.1967). In determining whether an issue has been “actually decided”
+in the state court, the Kentucky courts consider whether the issue was necessarily involved in the
+state court litigation. See, e.g., United Kentucky Bank v.
+
+
+**Label:** 
+
+
 **citations:** ['383 F.2d 358', '753 F.2d 50']
 
 ***short_citations_0:*** 383 F.2d 358

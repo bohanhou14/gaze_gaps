@@ -65,6 +65,35 @@ discovery process is fair, efficient, and effective in promoting the administrat
 **Label:** 
 
 
+***Meta-Llama-3-8B-Instruct-finetuned:***
+  It is well settled that the Jencks Act does not contemplate the production of materials that are
+not statements made by the witness at any time prior to his testimony, United States v. Abrams, 29
+F.R.D. 178, 183 (S.D.N.Y.1961); United States v. Tane, 29 F.R.D. 131, 133 (E.D.N.Y.1962); United
+States v. Zochowski, 348 F.2d 217, 219 (2nd Cir.1965), and that it is not a means of discovery,
+United States v. Prezioso, 379 F.2d 365, 369 (2nd Cir.1967). Furthermore, the Jencks Act does not
+require the Government to produce the statements of its own witnesses, United States v. Abrams,
+supra. The Jencks Act is not a general discovery statute, United States v. Tane, supra, but rather a
+specific provision designed to prevent the Government from using statements made by its own
+witnesses without making them available to the defendant. United States v. Zochowski, supra. The
+Jencks Act does not apply to the statements of non-testifying Government witnesses, United States v.
+Prezioso, supra, or to the statements of non-Government witnesses, United States v. Abrams, supra.
+The Jencks Act does not contemplate the production of materials that are not statements made by the
+witness at any time prior to his testimony, United States v. Abrams, supra. The Jencks Act does not
+require the Government to produce the statements of its own witnesses, United States v. Abrams,
+supra. The Jencks Act is not a general discovery statute, United States v. Tane, supra, but rather a
+specific provision designed to prevent the Government from using statements made by its own
+witnesses without making them available to the defendant. United States v. Zochowski, supra. The
+Jencks Act does not apply to the statements of non-testifying Government witnesses, United States v.
+Prezioso, supra, or to the statements of non-Government witnesses, United States v. Abrams, supra.
+The Jencks Act does not contemplate the production of materials that are not statements made by the
+witness at any time prior to his testimony, United States v. Abrams, supra. The Jencks Act does not
+require the Government to produce the statements of its own witnesses, United States v. Abrams,
+supra. The Jencks Act is not a general discovery statute
+
+
+**Label:** 
+
+
 **citations:** ['348 F.2d 217', '379 F.2d 365']
 
 ***short_citations_0:*** 348 F.2d 217

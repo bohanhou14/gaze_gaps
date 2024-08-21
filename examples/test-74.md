@@ -65,6 +65,31 @@ cases, which provide guidance on the application of these sentencing guidelines.
 **Label:** 
 
 
+***Meta-Llama-3-8B-Instruct-finetuned:***
+  Mr. Brunson was the president of Consolidated Services Corporation, a company that was created to
+build the brick factory. He was not an employee of the Russian Coal Company. In fact, the Russian
+Coal Company was not even aware that Mr. Brunson was the president of Consolidated Services
+Corporation until after the contract was signed. In Lowder, 5 F.3d 467 (10th Cir.1993), we held that
+the president of a company that was created to assist in a fraudulent scheme was not in a position
+of trust vis-a-vis the victim of the fraud. In the instant case, we find no abuse of trust by Mr.
+Brunson. Mr. Brunson did not have a position of trust with the Russian Coal Company. See United
+States v. Lee, 4 F.3d 925 (10th Cir.1993) (defendant, a former employee of the victim company, was
+not in a position of trust vis-a-vis the company). We find the district court’s application of §
+3B1.3 to be clearly erroneous. The sentence reduction resulting from the elimination of the § 3B1.3
+enhancement is 2 points. We therefore remand the case to the district court with instructions to
+recalculate the defendant’s sentence. The judgment of the district court is otherwise affirmed. See
+United States v. Williams, 966 F.2d 555 (10th Cir.1992) (defendant’s sentence reduction was 2
+points). See also United States v. Lee, 973 F.2d 832, 834 (10th Cir.1992) (sentence reduction was 2
+points). See also United States v. Lee, 973 F.2d 832, 834 (10th Cir.1992) (sentence reduction was 2
+points). See also United States v. Lee, 973 F.2d 832, 834 (10th Cir.1992) (sentence reduction was 2
+points). See also United States v. Lee, 973 F.2d 832, 834 (10th Cir.1992) (sentence reduction was 2
+points). See also United States v. Lee, 973 F.2d 832, 834 (10th Cir.1992) (sentence reduction was 2
+points). See also United States v. Lee, 973 F.2d 832, 834 (10th Cir.1992) (sentence
+
+
+**Label:** 
+
+
 **citations:** ['4 F.3d 925', '5 F.3d 467']
 
 ***short_citations_0:*** 4 F.3d 925

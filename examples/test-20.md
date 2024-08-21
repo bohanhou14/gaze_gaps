@@ -57,6 +57,33 @@ student loan debts.
 **Label:** 
 
 
+***Meta-Llama-3-8B-Instruct-finetuned:***
+  . The Debtors also argue that ECMC’s application of plan payments to postpetition interest is
+unfair because it effectively allows ECMC to collect interest on the debt without actually paying
+the debt. This argument is based on the idea that interest is merely the cost of the use of the
+debtor’s money and that, therefore, interest should not be allowed to accrue until the debt is
+actually paid. The Debtors point out that the interest on their student loans continues to accrue
+during the pendency of their bankruptcy proceedings, and that ECMC’s application of plan payments to
+postpetition interest does not address the debt itself, but rather the cost of the use of the debt.
+In re Hornsby, 144 F.3d 433, 436-37 (6th Cir.1998). The Debtors argue that this is unfair because it
+allows ECMC to collect interest on the debt without actually paying the debt. In re Hornsby, 144
+F.3d 433, 436-37 (6th Cir.1998). In re Hornsby, 144 F.3d 433, 436-37 (6th Cir.1998). In re Hornsby,
+144 F.3d 433, 436-37 (6th Cir.1998). In re Hornsby, 144 F.3d 433, 436-37 (6th Cir.1998). The Debtors
+also argue that ECMC’s application of plan payments to postpetition interest is unfair because it
+effectively allows ECMC to collect interest on the debt without actually paying the debt. This
+argument is based on the idea that interest is merely the cost of the use of the debtor’s money and
+that, therefore, interest should not be allowed to accrue until the debt is actually paid. The
+Debtors point out that the interest on their student loans continues to accrue during the pendency
+of their bankruptcy proceedings, and that ECMC’s application of plan payments to postpetition
+interest does not address the debt itself, but rather the cost of the use of the debt. In re
+Hornsby, 144 F.3d 433, 436-37 (6th Cir.1998). The Debtors argue that this is unfair because it
+allows ECMC to collect interest on the debt without actually paying the debt. In re Hornsby, 144
+F.3d 433, 436-37 (6th Cir.1998). In re Horn
+
+
+**Label:** 
+
+
 **citations:** ['46 B.R. 752', '144 F.3d 433', '144 F.3d 433']
 
 ***short_citations_0:*** 46 B.R. 752

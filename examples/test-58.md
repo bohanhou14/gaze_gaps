@@ -63,6 +63,30 @@ and impartial jury. United States v. Smith, 44 F.3d 1259, 1268 (4th Cir.), cert.
 **Label:** 
 
 
+***Meta-Llama-3-8B-Instruct-finetuned:***
+  In considering whether a district court abused its discretion in dismissing a juror, we must
+consider whether the court “considered all reasonable alternatives to mistrial.” United States v.
+Smith, 85 F.3d 153, 159 (4th Cir.), cert. denied, — U.S. -, 116 S.Ct. 1970, 131 L.Ed.2d 859 (1995).
+The court’s decision is not reviewable unless it is “arbitrary, capricious, or manifestly
+unreasonable.” United States v. Thompson, 744 F.2d 1065, 1068 (4th Cir.1984). In determining whether
+the court acted reasonably, we must consider the context of the case, the nature of the travel
+plans, and the potential for pressure on the jurors to reach a verdict. See United States v. Davis,
+52 F.3d 509, 516 (4th Cir.), cert. denied, — U.S. -, 115 S.Ct. 250, 130 L.Ed.2d 171 (1994). In this
+case, the court did consider the context of the case and the nature of the travel plans before
+excusing the two jurors. It also considered the potential for pressure on the jurors to reach a
+verdict. In light of the court’s consideration of all reasonable alternatives, we find no abuse of
+discretion in the court’s decision to replace the two jurors with alternates. See United States v.
+Winfield, 54 F.3d 1175, 1183-84 (4th Cir.), cert. denied, — U.S. -, 115 S.Ct. 1970, 131 L.Ed.2d 859
+(1995). We therefore affirm the district court’s decision. See United States v. Williams, 52 F.3d
+509, 516 (4th Cir.), cert. denied, — U.S. -, 115 S.Ct. 250, 130 L.Ed.2d 171 (1994). While the
+court’s decision was not perfect, it was not arbitrary, capricious, or manifestly unreasonable.
+United States v. Thompson, 744 F.2d 1065, 1068 (4th Cir.1984). The court’s decision is accordingly
+affirmed. See United States v. Davis, 52 F.3d 509, 516 (4th Cir.), cert. denied, — U.S. -,
+
+
+**Label:** 
+
+
 **citations:** ['85 F.3d 153', '52 F.3d 509']
 
 ***short_citations_0:*** 85 F.3d 153

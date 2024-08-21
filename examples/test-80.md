@@ -53,6 +53,27 @@ Railroad's appeal is denied, and the district court's order is affirmed.
 **Label:** 
 
 
+***Meta-Llama-3-8B-Instruct-finetuned:***
+  8. In this case, the L&N has not been good faith in its compliance with the terms of Award No. 1.
+The L&N has not offered G.L. Choate a job which is substantially equivalent to the one he held at
+the time of his dismissal. The L&N has not offered G.L. Choate a job which he is qualified to
+perform. The L&N has not offered G.L. Choate a job which he is qualified to perform. The L&N has not
+offered G.L. Choate a job which is a good faith reinstatement. N.L.R.B. v. Ellis & Watts Products,
+Inc., 344 F.2d 67 (6th Cir. 1965); N.L.R.B. v. U.S. Air Con. Co., 336 F.2d 275 (6th Cir. 1964);
+N.L.R.B. v. Interurban Gas Co., 354 F.2d 76 (6th Cir. 1965); Lakeland Bus Lines, Inc. v. N.L.R.B.,
+278 F.2d 888 (3d Cir. 1960). 9. The L&N’s offer of reinstatement was a sham offer of reinstatement.
+Brown v. Bridgeport Rolling Mills Company, 59 L.R.R.M. 2773 (D.C.Conn. 1965). 10. The L&N has not
+been good faith in its compliance with the terms of Award No. 1. The L&N has not offered G.L. Choate
+a job which is substantially equivalent to the one he held at the time of his dismissal. The L&N has
+not offered G.L. Choate a job which he is qualified to perform. The L&N has not offered G.L. Choate
+a job which is a good faith reinstatement. N.L.R.B. v. Ellis & Watts Products, Inc., 344 F.2d 67
+(6th Cir. 1965); N.L.R.B. v. U.S. Air Con. Co., 336 F.2d 275 (6th Cir. 1964); N.L.R.B. v. Interurban
+Gas Co., 354 F.2d 76 (6th Cir. 1965); Lakeland Bus Lines, Inc. v. N.L.R.B., 278 F.2d 888 (3d Cir.
+
+
+**Label:** 
+
+
 **citations:** ['354 F.2d 76', '278 F.2d 888']
 
 ***short_citations_0:*** 354 F.2d 76

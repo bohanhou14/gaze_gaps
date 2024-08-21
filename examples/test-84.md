@@ -86,6 +86,38 @@ plaintiff is barred from bringing a new action due to the judgment entered in th
 **Label:** 
 
 
+***Meta-Llama-3-8B-Instruct-finetuned:***
+  It is well established that a court will not take judicial notice of the contents of a state court
+record, absent a stipulation or an agreement of the parties, and that a party seeking to introduce
+such evidence must do so by the production of a certified copy of the record or by the introduction
+of a witness who has personal knowledge of the proceedings. 108 F.2d 302, 304, 109 F.2d 493, 495. In
+this case, the court is not taking judicial notice of the contents of the state court record. The
+court is, however, considering the matters set forth in the motion as matters of defense that should
+be affirmatively pleaded under Rule 8 (c). The court is not considering the matters set forth in the
+motion as evidence of the proceedings had in the state court. The court is considering the matters
+set forth in the motion as matters of defense that should be affirmatively pleaded under Rule 8 (c).
+The court is not considering the matters set forth in the motion as evidence of the proceedings had
+in the state court. The court is considering the matters set forth in the motion as matters of
+defense that should be affirmatively pleaded under Rule 8 (c). The court is not considering the
+matters set forth in the motion as evidence of the proceedings had in the state court. The court is
+considering the matters set forth in the motion as matters of defense that should be affirmatively
+pleaded under Rule 8 (c). The court is not considering the matters set forth in the motion as
+evidence of the proceedings had in the state court. The court is considering the matters set forth
+in the motion as matters of defense that should be affirmatively pleaded under Rule 8 (c). The court
+is not considering the matters set forth in the motion as evidence of the proceedings had in the
+state court. The court is considering the matters set forth in the motion as matters of defense that
+should be affirmatively pleaded under Rule 8 (c). The court is not considering the matters set forth
+in the motion as evidence of the proceedings had in the state court. The court is considering the
+matters set forth in the motion as matters of defense that should be affirmatively pleaded under
+Rule 8 (c). The court is not considering the matters set forth in the motion as evidence of the
+proceedings had in the state court. The court is considering the matters set forth in the motion as
+matters of defense that should be affirmatively pleaded under Rule 8 (c). The court is not
+considering the matters set forth in
+
+
+**Label:** 
+
+
 **citations:** ['109 F.2d 493', '108 F.2d 302']
 
 ***short_citations_0:*** 109 F.2d 493

@@ -45,6 +45,26 @@ all ears! (or rather, all text). Go ahead and ask me anything, and I'll do my be
 **Label:** 
 
 
+***Meta-Llama-3-8B-Instruct-finetuned:***
+  We are not persuaded by Defendant’s arguments. In determining whether a defendant has committed
+perjury, a court may rely on “the testimony of other witnesses, including law enforcement officers,
+as well as other evidence of the defendant’s statements and actions.” United States v. Chendeka, 253
+F.3d 815, 823 (5th Cir.2001). In the present case, the district court was entitled to rely on the
+FBI testimony and the taped conversations as evidence of Defendant’s statements and actions, as well
+as his trial testimony. See United States v. Johnson, 640 F.3d 638, 644 (5th Cir.2011) (citing
+United States v. Odiodio, 244 F.3d 398, 401-02 (5th Cir.2001)). The court’s finding that Defendant
+committed perjury was not clearly erroneous. Defendant’s argument that the enhancement was based on
+his exercise of a constitutional right is also unavailing, as the right to testify does not include
+the right to commit perjury. See Dunnigan, 507 U.S. at 94, 113 S.Ct. 1111. Lastly, we are not
+persuaded by Defendant’s contention that he never approved or adopted the admission in writing, as
+the admission was not required to be in writing. See United States v. Girod, 646 F.3d 304, 313 (5th
+Cir.2011). The district court’s imposition of the two-level enhancement for obstruction of justice
+was thus proper. See 18 U.S.C. § 3C1.1 & U.S. SENTENCING Guidelines Manual § 3C1.1 & cmt. n. 4(B).
+
+
+**Label:** 
+
+
 **citations:** ['253 F.3d 815', '640 F.3d 638']
 
 ***short_citations_0:*** 253 F.3d 815

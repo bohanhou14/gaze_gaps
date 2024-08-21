@@ -52,6 +52,33 @@ intent.  247 F.3d 79; 416 F.3d 214; 416 F.3d 214; 766 F.2d 754.
 **Label:** 
 
 
+***Meta-Llama-3-8B-Instruct-finetuned:***
+  The Court noted that the parties had stipulated that the insurance policy contained an ambiguity
+and that the insurer had not relied on the ambiguity to its detriment. Id. at —. The Court also
+cited Sikirica v. Nationwide Ins. Co., 416 F.3d 214, 220 (3rd Cir.2005), for the proposition that
+where a term is ambiguous, and the intention of the parties cannot be discerned from the policy, the
+court may look to extrinsic evidence of the purpose of the insurance, its subject matter, the
+situation of the parties, and the circumstances surrounding the making of the contract. In Pacific
+Indem. Co. v. Linn, 766 F.2d 754, 761 (3rd Cir.1985), the Court held that when a term in the policy
+is ambiguous, however, and the intention of the parties cannot be discerned from the face of the
+policy, the court, in its attempts to arrive at a reasonable construction of the policy that is in
+accord with the parties’ apparent intention, may look to extrinsic evidence of the purpose of the
+insurance, its subject matter, the situation of the parties, and the circumstances surrounding the
+making of the contract. See also 12th Street Gym, Inc. v. General Star Indemnity Company, 93 F.3d
+1158 (3rd Cir.1996). (The Gym and Guzzardi contend the ambiguous language in the [policy] should be
+construed against General Star. See, e.g., Standard Venetian Blind Co. v. Am. Empire Ins. Co., 503
+Pa. 300, 469 A.2d 563 (1983). But a court will only construe ambiguous language against the drafter
+in the absence of relevant extrinsic evidence. Hutchison v. Sunbeam Coal Corp., 513 Pa. 192, 519
+A.2d 385, 390-91 n. 5 (1986).). In the context of determining whether an insurance policy’s language
+is ambiguous, the Court has held that if the words of the policy are clear and unambiguous, the
+court must give them their plain and ordinary meaning. Pac. Indem. Co. v. Linn, 766 F.2d 754, 760-61
+(3rd Cir.1985). If a term is ambiguous, however, the court may look to extrinsic evidence of the
+purpose of the insurance, its subject matter,
+
+
+**Label:** 
+
+
 **citations:** ['247 F.3d 79', '416 F.3d 214', '416 F.3d 214', '766 F.2d 754']
 
 ***short_citations_0:*** 247 F.3d 79

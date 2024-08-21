@@ -67,6 +67,24 @@ evidence.
 **Label:** 
 
 
+***Meta-Llama-3-8B-Instruct-finetuned:***
+  The ALJ’s findings are supported by the record and are not arbitrary or capricious. See Garnett v.
+Chater, 107 F.3d 674, 677 (8th Cir.1997); Novotny v. Chater, 76 F.3d 906, 909 (8th Cir.1996); Nguyen
+v. Chater, 75 F.3d 429, 433 (8th Cir.1996); Shannon v. Chater, 72 F.3d 669, 673 (8th Cir.1995);
+Woolf v. Chater, 54 F.3d 484, 488 (8th Cir.1995); Eisele v. Chater, 3 F.3d 1210, 1213 (8th
+Cir.1993). The ALJ’s credibility determinations are also supported by the record. See Garnett v.
+Chater, 107 F.3d 674, 677 (8th Cir.1997); Novotny v. Chater, 76 F.3d 906, 909 (8th Cir.1996); Nguyen
+v. Chater, 75 F.3d 429, 433 (8th Cir.1996); Shannon v. Chater, 72 F.3d 669, 673 (8th Cir.1995);
+Woolf v. Chater, 54 F.3d 484, 488 (8th Cir.1995); Eisele v. Chater, 3 F.3d 1210, 1213 (8th
+Cir.1993). The ALJ’s credibility determinations are also supported by the record. See Garnett v.
+Chater, 107 F.3d 674, 677 (8th Cir.1997); Novotny v. Chater, 76 F.3d 906, 909 (8th Cir.1996); Nguyen
+v. Chater, 75 F.3d 429, 433 (8th Cir.1996); Shannon v. Chater, 72 F.3d 669, 673 (8th Cir.1995);
+Woolf v. Chater, 54 F.3d 484, 488 (8th Cir.1995); Eisele v. Chater, 3 F.3d 121
+
+
+**Label:** 
+
+
 **citations:** ['107 F.3d 674', '76 F.3d 906', '75 F.3d 429', '72 F.3d 669', '54 F.3d 484', '3 F.3d 1210']
 
 ***short_citations_0:*** 107 F.3d 674

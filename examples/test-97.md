@@ -66,6 +66,34 @@ and the need to demonstrate exceptional or
 **Label:** 
 
 
+***Meta-Llama-3-8B-Instruct-finetuned:***
+  Clemente argues that the District Court lacked the authority on its own motion to amend its
+judgment under Rule 60(b)(6) and further, that if the court had such authority, it abused its
+discretion by modifying its judgment for the sole purpose of denying defendant costs under Rule 68.
+In Klapprott v. United States, 335 U.S. 601, 69 S.Ct. 342, 93 L.Ed. 266 (1949), the Supreme Court
+held that the District Court had the authority under Rule 60(b)(6) to vacate a judgment when the
+parties had agreed to settle and the judgment was not final. Id. at 603, 69 S.Ct. 342. However, in
+Pierce v. United Mine Workers, 867 F.2d 291 (6th Cir.1989), the Sixth Circuit held that a district
+court lacked authority to amend a judgment under Rule 60(b)(6) to deny a defendant costs under Rule
+68. Id. at 294. The Court in Pierce distinguished Klapprott as a case involving a settlement
+agreement that was not final. Id. at 294. Clemente has not presented any new evidence or arguments
+that would justify a different conclusion. Therefore, the Court finds that the District Court did
+not abuse its discretion in denying the motion for new trial and to amend the Judgment Entry and
+Findings of Fact and Conclusions of Law Dated July 1, 1997. The Court also finds that Clemente’s
+request for relief from judgment is not timely. See 28 U.S.C. § 1605. Therefore, the Court will deny
+Clemente’s pro se request. See 28 U.S.C. § 1605. Further, the Court will deny Clemente’s request to
+have the Court grant certification of appealability to all issues raised. See Fed.R.Civ.P. 54(b).
+The Court will also deny Clemente’s request to have the Court grant relief from judgment in order to
+file a timely notice of appeal. See Fed.R.Civ.P. 60(b). The Court will strike the memorandum in
+support and the exhibits attached thereto. See Fed.R.Civ.P. 12(f). The Court will deny the motion to
+strike. See Fed.R.Civ.P. 12(f). The Court will deny Clemente’s request to have the Court grant
+certification of appealability to all issues raised and for relief from judgment in order to file a
+timely notice of appeal. See
+
+
+**Label:** 
+
+
 **citations:** ['867 F.2d 291', '340 U.S. 193']
 
 ***short_citations_0:*** 867 F.2d 291

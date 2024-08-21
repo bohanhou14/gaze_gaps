@@ -55,6 +55,30 @@ motion on the claims related to the Second Mortgage.
 **Label:** 
 
 
+***Meta-Llama-3-8B-Instruct-finetuned:***
+  The Ninth Circuit has held that a pro se litigant’s pleadings must be read liberally. See Zichko
+v. United States, 247 F.3d 1015, 1017 (9th Cir.2001); Karim-Panahi v. City of Los Angeles, 839 F.2d
+621, 624 (9th Cir.1988). This principle, however, is not a license for courts to disregard the
+pleading’s substance. Id. at 625-26. Rather, courts should construe the pleadings liberally, but
+still examine whether the allegations are sufficient to state a claim. See also, e.g., United States
+v. Seesing, 786 F.2d 1382, 1384 (9th Cir.1986). Although courts should not dismiss a complaint
+without giving a pro se litigant an opportunity to amend, see, e.g., Hughes v. Rowe, 449 U.S. 5, 9,
+101 S.Ct. 173, 66 L.Ed.2d 163 (1980), they should not be required to read the pleadings in a way
+that ignores the pleadings’ literal meaning. See, e.g., United States v. Seesing, 786 F.2d 1382,
+1384 (9th Cir.1986). Furthermore, courts should not be required to consider pro se litigants’
+pleadings as if they were written by an attorney. See, e.g., United States v. Seesing, 786 F.2d
+1382, 1384 (9th Cir.1986). In this case, the allegations of the complaint do not show that the
+Second Mortgage is not a residential mortgage transaction. (Pl.’s Compl. at 3.) Therefore,
+Plaintiff’s claim for rescission of the Second Mortgage is barred by 15 U.S.C. § 1635(e)(1). See,
+e.g., Karim-Panahi, 839 F.2d at 625-26. As a result, this Court lacks subject matter jurisdiction
+over the claim for rescission of the Second Mortgage. See, e.g., Miguel, 309 F.3d at 1164-65.
+Therefore, the motion for summary judgment is granted on this issue. See, e.g., Zichko, 247 F.3d at
+1017. The case is dismissed without
+
+
+**Label:** 
+
+
 **citations:** ['247 F.3d 1015', '839 F.2d 621', '786 F.2d 1382']
 
 ***short_citations_0:*** 247 F.3d 1015

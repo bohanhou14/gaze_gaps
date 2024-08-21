@@ -68,6 +68,36 @@ a debtor's rights in the collateral may be found from any rights going beyond me
 **Label:** 
 
 
+***Meta-Llama-3-8B-Instruct-finetuned:***
+  In re Hein, 618 F.2d 432, 436-37 (7th Cir.1980), and Atchison, 832 F.2d 1236, 1239 (11th
+Cir.1987), are examples of cases in which courts have found that a parent company had notice of the
+pledge of collateral held by its wholly-owned subsidiary. In Hein, the Seventh Circuit held that the
+parent company had notice of the pledge of collateral because the parent company’s officers signed
+the security agreement and the collateral was used in the ordinary course of the parent company’s
+business. In Atchison, the Eleventh Circuit held that the parent company had notice of the pledge of
+collateral because the parent company’s officers signed the security agreement and the collateral
+was used in the ordinary course of the parent company’s business. In re Ryans, 208 B.R. 232, 236
+(Bankr.D.Del.1987), is another example of a case in which a court has found that a parent company
+had notice of the pledge of collateral held by its wholly-owned subsidiary. In Ryans, the court held
+that the parent company had notice of the pledge of collateral because the parent company’s officers
+signed the security agreement and the collateral was used in the ordinary course of the parent
+company’s business. The court in Ryans found that the parent company had sufficient rights in the
+collateral by virtue of its relationship with the subsidiary and its use and control over the
+collateral. Id. at 236. The court in Ryans also found that the parent company was estopped to deny
+the validity of the security agreement. Id. at 236.  We must determine whether WL Homes had
+sufficient rights in the JLH account to pledge it as collateral for the Wachovia loan. The answer is
+yes. WL Homes had use and control of the JLH account, and JLH consented to the use of its account as
+collateral. The JLH account was used in the ordinary course of WL Homes’s business, and WL Homes had
+a right to transfer the JLH account to a secured party. Therefore, WL Homes had sufficient rights in
+the JLH account to pledge it as collateral for the Wachovia loan. The Bankruptcy Court correctly
+granted Wachovia’s motion for summary judgment, and the District Court correctly affirmed that
+grant. We will affirm the judgment of the District Court. Wacho-via Bank, National Association v. WL
+Homes, LLC, 2009 WL 3117211,
+
+
+**Label:** 
+
+
 **citations:** ['618 F.2d 432', '618 F.2d 432', '208 B.R. 232']
 
 ***short_citations_0:*** 618 F.2d 432

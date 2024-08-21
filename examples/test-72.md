@@ -63,6 +63,32 @@ provide cooperation within the spirit of the Hague Convention and of comity betw
 **Label:** 
 
 
+***Meta-Llama-3-8B-Instruct-finetuned:***
+  . In United States v. Lufthansa German Airlines, 329 U.S. 495, 67 S.Ct. 439, 91 L.Ed. 496 (1947),
+the Supreme Court held that the United States has the right to demand production of documents from a
+foreign corporation, even if such documents are located abroad, and that the corporation cannot
+claim a right of privacy or the protection of foreign law to avoid compliance with such a demand.
+The Court also held that the corporation could not rely on the provisions of the Hague Convention or
+the Federal Rules of Civil Procedure to avoid compliance with such a demand. In United States v.
+First National City Bank, 396 F.2d 897, 900-01 (2d Cir.1968), the court held that the United States
+has the power to order a foreign corporation to produce documents located abroad, regardless of any
+foreign law to the contrary. In Nissan Motor Co. v. Nissan Motor Co., 437 U.S. 358, 98 S.Ct. 2400,
+57 L.Ed.2d 247 (1978), the Court held that the Federal Rules of Civil Procedure apply to the
+production of documents located abroad, and that the foreign corporation cannot claim a right of
+privacy or the protection of foreign law to avoid compliance with such a demand. In In re Uranium
+Antitrust Litigation, 480 F.Supp. 1138 (N.D.Ill.1979), the court held that the Federal Rules of
+Civil Procedure apply to the production of documents located abroad, and that the foreign
+corporation cannot claim a right of privacy or the protection of foreign law to avoid compliance
+with such a demand. See also, Murphy v. Reifenhauser KG Maschinenfabrik, 101 F.R.D. 360 (D.Vt.1984);
+Graco, Inc. v. Kremlin, Inc., 101 F.R.D. 503 (N.D.Ill.1984); Lasky v. Continental Products Corp.,
+569 F.Supp. 1227 (E.D.Pa.1983); Oxman, “The Choice Between Direct Discovery and Other Means of
+Obtaining Evidence Abroad: The Impact of the Hague Evidence Convention,” 37 U.Miami L.Rev. 733
+(1983).
+
+
+**Label:** 
+
+
 **citations:** ['329 U.S. 495', '437 U.S. 340']
 
 ***short_citations_0:*** 329 U.S. 495

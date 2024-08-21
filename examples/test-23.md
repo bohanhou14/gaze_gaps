@@ -63,6 +63,32 @@ California, 395 U.S. 250, 89 S.Ct. 1726, 23 L.Ed.2d 284 (1969), and noted that t
 **Label:** 
 
 
+***Meta-Llama-3-8B-Instruct-finetuned:***
+  In Jackson v. Denno, 378 U.S. 368, 84 S.Ct. 1774, 12 L.Ed.2d 908 (1964), the Court emphasized that
+a coerced confession vitiates the judgment of conviction, and in Spano v. New York, 360 U.S. 315, 79
+S.Ct. 1202, 3 L.Ed.2d 1265 (1959), the Court stated that a coerced confession is a fundamental right
+and the admission of such a confession is a constitutional error. In Blackburn v. Alabama, 361 U.S.
+199, 80 S.Ct. 242, 4 L.Ed.2d 242 (1959), the Court held that a coerced confession is a violation of
+the Fourteenth Amendment. In the instant case, however, even if we assume that the confession was
+coerced, it is still harmless beyond a reasonable doubt. See Harrington v. California, 395 U.S. 250,
+89 S.Ct. 1726, 23 L.Ed.2d 284 (1969); Chapman v. California, 386 U.S. 18, 87 S.Ct. 824, 17 L.Ed.2d
+705 (1967). The issue of guilt or innocence was in no way a close question. See Lockett v. United
+States, 390 F.2d 168 (9 Cir.), cert. denied, 393 U.S. 877, 89 S.Ct. 175, 21 L.Ed.2d 149 (1968). The
+overwhelming evidence that established Tucker’s guilt was in the possession of the police, or was
+known to them, before he was arrested or questioned after the arrest. The eyewitness testimony of a
+bank employee who was present during the robbery, the testimony of Tucker’s accomplices, and the
+unimpeachable photograph of the robbery taken by the hidden movie camera show Tucker committing the
+crime. Here the issue of Tucker’s guilt or innocence was in no way a close question. Unchallenged
+and unimpeached evidence established guilt. Even without the eyewitness testimony an unimpeachable
+photograph is sufficient in and of itself to convict Tucker. On these particular facts we have no
+hesitancy in applying the Chapman rule and in finding that the admission of the allegedly
+unconstitutionally obtained confession and money, if error, was harmless beyond a reasonable doubt.
+Compare Ruona v. United States
+
+
+**Label:** 
+
+
 **citations:** ['378 U.S. 368', '373 U.S. 503', '361 U.S. 199']
 
 ***short_citations_0:*** 378 U.S. 368

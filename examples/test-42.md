@@ -82,6 +82,32 @@ the agency's decision to override the automatic stay was arbitrary
 **Label:** 
 
 
+***Meta-Llama-3-8B-Instruct-finetuned:***
+  The Court has previously recognized that when a protestor “establishes that an agency’s override
+determination was arbitrary and capricious, the stay must be reinstated.” PGBA, LLC, 389 F.3d 1219,
+1229 (Fed. Cir. 2004) (citing Impresa Construzioni Geom. Domenico Garufi, 238 F.3d 1324, 1332 (Fed.
+Cir. 2001)); see also, 554 F.3d 1029, 1033 (Fed. Cir. 2009). “The agency’s override determination is
+subject to review under the APA, 5 U.S.C. § 706, and is reviewed under the standards set forth in
+section 706 of the APA.” PGBA, LLC, 389 F.3d at 1229. “In determining whether a stay should be
+reinstated, the Court must consider whether the plaintiff has succeeded on the merits of the case;
+whether the plaintiff will suffer irreparable harm if the court withholds injunctive relief; whether
+the balance of hardships to the respective parties favors the grant of injunctive relief; and
+whether it is in the public interest to grant injunctive relief.” Amoco Prod. Co. v. Vill. of
+Gambell, Alaska, 480 U.S. 531, 546 n. 12, 107 S.Ct. 1396, 1404 n. 12, 94 L.Ed.2d 542 (1987). “The
+standard for a preliminary injunction is essentially the same as for a permanent injunction with the
+exception that the plaintiff must show a likelihood of success on the merits rather than actual
+success.” Id. “The Court reviews an agency’s decision to override the automatic stay under the
+standards set forth in section 706 of the APA, 5 U.S.C. § 706, and reviews the decision under the
+standards set forth in section 706 of the APA.” PGBA, LLC, 389 F.3d at 1229. “In determining whether
+a stay should be reinstated, the Court must consider whether the plaintiff has succeeded on the
+merits of the case; whether the plaintiff will suffer irreparable harm if the court withholds
+injunctive relief; whether the balance of hardships to the respective parties favors the grant of
+injunctive relief; and whether it is in the public interest to grant injunctive relief.” Amoco Prod
+
+
+**Label:** 
+
+
 **citations:** ['554 F.3d 1029', '554 F.3d 1029', '389 F.3d 1219', '389 F.3d 1219']
 
 ***short_citations_0:*** 554 F.3d 1029

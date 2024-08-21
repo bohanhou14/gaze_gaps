@@ -59,6 +59,36 @@ her willful obstruction of justice. <answer>
 **Label:** 
 
 
+***Meta-Llama-3-8B-Instruct-finetuned:***
+  We have observed that the term “willfully” implies a mens rea requirement, see United States v.
+Defeo, 36 F.3d 272, 276 (2d Cir.1994), and that an enhancement under § 3C1.1 is appropriate only if
+“the defendant had the specific intent to obstruct justice, i.e.,... the defendant consciously acted
+with the purpose of obstructing justice.” United States v. LaBella-Szuba, 49 F.3d 895, 900 (2d
+Cir.1995). Defendant’s failure to appear for the April 26th preliminary examination, as well as her
+failure to report to Pretrial Services on April 5th, may have been motivated by a desire to avoid
+appearing in court, but this does not necessarily establish that she consciously acted with the
+purpose of obstructing justice. We agree with the district court that defendant’s conduct was
+willful and that a § 3C1.1 enhancement was appropriate. The district court’s finding that defendant
+willfully obstructed the administration of justice during the prosecution of the offense by failing
+to appear for the April 26th preliminary examination was not clearly erroneous. United States v.
+Aponte, 31 F.3d 84, 88 (2d Cir.1994) (holding that an obstruction enhancement is appropriate “when
+the defendant intentionally fails to appear at a judicial proceeding, regardless of his reason for
+desiring to flee”).  However, we do not agree with the district court that defendant’s failure to
+report to Pretrial Services on April 5th was willful. Defendant’s failure to report to Pretrial
+Services may have been motivated by a desire to avoid appearing in court, but this does not
+necessarily establish that she consciously acted with the purpose of obstructing justice. We agree
+with the district court that defendant’s conduct was willful and that a § 3C1.1 enhancement was
+appropriate. The district court’s finding that defendant willfully obstructed the administration of
+justice during the prosecution of the offense by failing to appear for the April 26th preliminary
+examination was not clearly erroneous. United States v. Aponte, 31 F.3d 84, 88 (2d Cir.1994)
+(holding that an obstruction enhancement is appropriate “when the defendant intentionally fails to
+appear at a judicial proceeding, regardless of his reason for desiring to flee”).  The district
+court’s finding that defendant willfully obstructed the administration of justice during the
+
+
+**Label:** 
+
+
 **citations:** ['36 F.3d 272', '49 F.3d 895']
 
 ***short_citations_0:*** 36 F.3d 272
