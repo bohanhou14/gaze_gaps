@@ -31,7 +31,6 @@ You are tasked to classify categories of gaps between machine-generated and huma
 * ***Structural Mismatch*** (3): the generation appears to generate the document from scratch (like containing words such as "ORDER" which only appear in the beginning).
 
 
-
 **Extrinsic Gaps**
 
 * Citation Content Mismatch: 
@@ -42,21 +41,23 @@ You are tasked to classify categories of gaps between machine-generated and huma
 
     * Citation Hallucination (6): the citation is non-existent or pulled from a citation in the cited paragraphs or the previous context.
 
+    * Missing Citation (7): there misses a citation that is supposed to be generated.
+
 * Target Mismatch
 
     * Relation Mismatch: 
 
-        * Chain Cite (7): the citations appear in a chain cite but the generation cites them parallely, or the other way around.
+        * Chain Cite (8): the citations appear in a chain cite but the generation cites them parallely, or the other way around.
 
-        * Reverse Cite (8): the citations reverse the ruling in each other but the generation cites them parallely, or the other way around.
+        * Reverse Cite (9): the citations reverse the ruling in each other but the generation cites them parallely, or the other way around.
 
-        * Compound Cite (9): the citations of different cases are cited together, separated by semicolons, or the other way around.
+        * Compound Cite (10): the citations of different cases are cited together, separated by semicolons, or the other way around.
 
-    * Citation Style Mismatch (10): the citations are cited in a different style in the target than the generation. Examples include citations should be cited together, separated by semicolons, but the generation elaborates each one with a claim from the case referred to.
+    * Citation Style Mismatch (11): the citations are cited in a different style in the target than the generation. Examples include citations should be cited together, separated by semicolons, but the generation elaborates each one with a claim from the case referred to.
 
 * No gaps (0)
 
-* Other/Undefined (11)
+* Other/Undefined (12)
 
 **Instructions to Annotators**
 

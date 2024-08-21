@@ -25,7 +25,7 @@ ensuring compliance with the established legal standards set forth in the cases 
 527 F.2d 224.
 
 
-**Label:** 
+**Label:** 0
 
 
 ***Meta-Llama-3-8B-Instruct:***
@@ -48,7 +48,7 @@ the 1968 claim is timely, and we will consider this request in conjunction with 
 decision on the reopened claim.
 
 
-**Label:** 
+**Label:** 4
 
 
 ***Meta-Llama-3-8B-Instruct-finetuned:***
@@ -76,8 +76,7 @@ made. * * * We must remand the case to the Secretary for a determination of whet
 entitled to benefits for the period prior to June 30, 1966. * * *” * * * * * * * * * * * * * * * * *
 * * * * * *
 
-
-**Label:** 
+**Label:** 0
 
 
 **citations:** ['514 F.2d 561', '527 F.2d 224']
