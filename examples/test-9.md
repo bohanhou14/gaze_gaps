@@ -57,7 +57,7 @@ on the judge's impartiality and lack of personal bias, and is consistent with th
 courts.  References:  261 F.3d 1075 384 U.S. 563
 
 
-**Label:** 6, 
+**Label:** 6, 10, 3
 
 
 ***Meta-Llama-3-8B-Instruct-finetuned:***

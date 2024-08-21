@@ -22,7 +22,7 @@ share fault in the incident due to their failure to adhere to prudent navigation
 special circumstances.  Affirmed.
 
 
-**Label:** 
+**Label:** 7
 
 
 ***Meta-Llama-3-8B-Instruct:***
@@ -49,7 +49,7 @@ The trial court's decision is affirmed, and the owners of both vessels are found
 collision.
 
 
-**Label:** 
+**Label:** 7
 
 
 ***Meta-Llama-3-8B-Instruct-finetuned:***

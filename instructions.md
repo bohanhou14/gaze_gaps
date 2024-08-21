@@ -33,14 +33,13 @@ You are tasked to classify categories of gaps between machine-generated and huma
 * ***Stylistic Mismatch*** (10): contain sentences that do not match the styles of legalese.
 
 
-
 **Extrinsic Gaps**
 
 * Citation Content Mismatch: 
 
     * Claim Hallucination (4): the claim supported by the citation is not truthful or not related to the context or from cited paragraphs or the previous context.
 
-    * Retrieval Inaccuracy (5): the claims supported by the citation is not relevant because the cited paragraph looks irrelevant compared to the target paragraph. If retrieval inaccuracy is labeled, there is no need to label claim hallucination.
+    * Retrieval Inaccuracy (5): the claims supported by the citation is not relevant because the cited paragraph looks irrelevant compared to the target paragraph. If retrieval inaccuracy is labeled, there is no need to label claim hallucination for that gap. Only label 4 if there are some other parts than the part that causes 5.
 
     * Citation Hallucination (6): the citation is non-existent or pulled from a citation in the cited paragraphs or the previous context, or there misses a citation.
 
@@ -62,5 +61,8 @@ You are tasked to classify categories of gaps between machine-generated and huma
 
 Note that an example may have several categories of gaps, so annotate each example as many as possible.
 
-Please annotate the most specific name of the error after "Label: ". For example, "Compound Cite" instead of "Relation Match".
+Please annotate the number corresponding each error category after "Label: ".
 
+**Examples**
+
+Please see test-9.md, test-7.md, test-15.md as some representative examples.

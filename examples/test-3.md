@@ -71,7 +71,7 @@ was an error in law. The judgment is reversed, and the case is remanded for furt
 inconsistent with this opinion. Reversed. (Emphasis added.)
 
 
-**Label:** 6, 5, 4
+**Label:** 6, 5, 4, 3
 
 
 **citations:** ['379 F.2d 94', '359 F.2d 292']
