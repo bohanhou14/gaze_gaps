@@ -1,4 +1,4 @@
-**Instructions to Annotators**
+**Task Overview**
 
 You are tasked to classify categories of gaps between machine-generated and human-written legal analysis. 
 
@@ -40,6 +40,8 @@ You are tasked to classify categories of gaps between machine-generated and huma
 
     * Claim Hallucination: the claim supported by the citation is not truthful or not related to the context.
 
+    * Retrieval Inaccuracy: the claims supported by the citation is not relevant because the cited paragraph looks irrelevant compared to the target paragraph. If retrieval inaccuracy is labeled, there is no need to label claim hallucination.
+
     * Citation Hallucination: the citation is non-existent or pulled from a citation in the cited paragraphs.
 
     * Entity Hallucination: the entities associated with the citations are not truthful or are non-existent.
@@ -48,12 +50,16 @@ You are tasked to classify categories of gaps between machine-generated and huma
 
     * Relation Mismatch: 
 
-        * Chain cite: the citations appear in a chain cite but the generation cites them parallely, or the other way around.
+        * Chain Cite: the citations appear in a chain cite but the generation cites them parallely, or the other way around.
 
-        * Reverse cite: the citations reverse the ruling in each other but the generation cites them parallely, or the other way around.
+        * Reverse Cite: the citations reverse the ruling in each other but the generation cites them parallely, or the other way around.
 
-        * Compound cite: the citations of different cases are cited together, separated by semicolons, or the other way around.
+        * Compound Cite: the citations of different cases are cited together, separated by semicolons, or the other way around.
 
     * Citation Style Mismatch: the citations are cited in a different style in the target than the generation. Examples include citations should be cited together, separated by semicolons, but the generation elaborates each one with a claim from the case referred to.
 
+**Instructions to Annotators**
+Note that an example may have several categories of gaps, so annotate each example as many as possible.
+
+Please annotate the most specific name of the error after "Label: ". For example, "Compound Cite" instead of "Relation Match".
 
