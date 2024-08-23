@@ -28,7 +28,7 @@ In the following order, you should consider:
 
 This will entail labeling for:
 
-1. Intrinsic error/LLM error: The language model has fundamentally failed to follow the instruction. Some causes might be that
+1. Intrinsic Gaps/LLM error: The language model has fundamentally failed to follow the instruction. Some causes might be that
     - it repeats itself several times
     - it responds as if in a chat environment
     - it contradicts something from earlier in the context
@@ -36,13 +36,13 @@ This will entail labeling for:
 
     or simply that the text it generates does not seem like a plausible continuation of the immediately preceding context. If this type of error is **present**, add the label `1` and move on to the next example. If it is **not present**, continue to item (2).
 
-1. Target Mismatch: The language model's generated text may not be obviously wrong, but it makes substantively different claims from the target text (i.e. the original text from the case). This could be because
+2. Target Mismatch: The language model's generated text may not be obviously wrong, but it makes substantively different claims from the target text (i.e. the original text from the case). This could be because
     - the citations are grouped in a different way from the target
     - the generated text makes different and possibly (although not necessarily) contradictory claims about one or more citations from those made in the target text
 
     If this type of mismatch is **present** add the label `2` and continue to item (3). If it is **not present**, add the label `0` and move on to the next example.
 
-3. Citation Error: The language model's generated text does not align with the content of the citation it points to. This might be because
+3. Citation Mismatch: The language model's generated text does not align with the content of the citation it points to. This might be because
    - the generated text attributes information from one citation to a different citation
    - the generated text fails to use one of the citations that were given to it
    - one of the retrieved contains no relevant information about the case
