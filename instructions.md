@@ -47,6 +47,6 @@ This will entail labeling for:
    - the generated text fails to use one of the citations that were given to it
    - one of the retrieved contains no relevant information about the case
 
-    If this type of error is **present**, add the label `3` and move on to the next example.
+    If this type of error is **present**, add the label `3` and move on to the next example. Otherwise, move on to the next example without adding anything.
 
 Note that where an example falls into multiple categories (typically both 2 and 3), you should include both labels, separated by a comma.
