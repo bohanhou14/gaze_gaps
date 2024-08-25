@@ -34,7 +34,7 @@ This will entail labeling for:
     - it contradicts something from earlier in the context
     - the generated text does not look like legal text
 
-    or simply that the text it generates does not seem like a plausible continuation of the immediately preceding context. If this type of error is **present**, add the label `1`. Continue to item (2)
+    or simply that the text it generates does not seem like a plausible continuation of the immediately preceding context. If this type of gaps is **present**, add the label `1`. Continue to item (2)
 
 2. Target Mismatch: The language model's generated text may not be obviously wrong, but it makes substantively different claims from the target text (i.e. the original text from the case). This could be because
     - the citations are grouped in a different way from the target
@@ -47,6 +47,6 @@ This will entail labeling for:
    - the generated text fails to use one of the citations that were given to it
    - one of the retrieved contains no relevant information about the case
 
-    If this type of error is **present**, add the label `3` and move on to the next example. If none of the above errors are presnet, add the label `0` and move on to the next example.
+    If this type of mismatch is **present**, add the label `3` and move on to the next example. If none of the above errors are presnet, add the label `0` and move on to the next example.
 
 Note that where an example falls into multiple categories, you should include both labels, separated by a comma.

@@ -30,7 +30,7 @@ relief, and violations of the Truth in Lending Act, but they do not challenge th
 claims.
 
 
-**Label:** 
+**Label:** 1, 3
 
 
 ***Meta-Llama-3-8B-Instruct:***
@@ -54,7 +54,7 @@ a right to seek legal recourse. However, the dismissal is affirmed as the claims
 requirements of the relevant statutes and case law.
 
 
-**Label:** 
+**Label:** 3
 
 
 ***Meta-Llama-3-8B-Instruct-finetuned:***

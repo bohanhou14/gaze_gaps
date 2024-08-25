@@ -56,7 +56,7 @@ the holdings in Reference cases 764 F.2d 322 and 752 F.2d 518, which also consid
 of Treasury regulations in the context of tax law.
 
 
-**Label:** 
+**Label:** 1
 
 
 ***Meta-Llama-3-8B-Instruct-finetuned:***
