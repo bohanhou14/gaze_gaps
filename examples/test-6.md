@@ -40,7 +40,7 @@ and DENIES Plaintiff's claim against Chaplin on the grounds presented.  It is so
 
 
 **Label:** 
-
+2
 
 ***Meta-Llama-3-8B-Instruct:***
  The court's decision to grant summary judgment to Mon River Towing, Inc. is correct. As stated in
@@ -60,7 +60,7 @@ River Towing, Inc. is correct.
 
 
 **Label:** 
-
+2, 3
 
 ***Meta-Llama-3-8B-Instruct-finetuned:***
   In the case of Seas Shipping Co. v. Sieracki, 328 U.S. 85, 66 S.Ct. 872, 90 L.Ed. 1099 (1946), the
@@ -81,7 +81,7 @@ unseaworthy or that Chap
 
 
 **Label:** 
-
+1, 2, 3
 
 **citations:** ['373 U.S. 206', '400 U.S. 494']
 

@@ -31,7 +31,7 @@ and judicial economy.  Report and recommendation of the magistrate is adopted.
 
 
 **Label:** 
-
+0
 
 ***Meta-Llama-3-8B-Instruct:***
  <answer> I am happy to help you with your query. Based on the reference cases you provided,
@@ -64,7 +64,7 @@ misrepresent
 
 
 **Label:** 
-3
+1, 2, 3
 
 ***Meta-Llama-3-8B-Instruct-finetuned:***
   . In United States v. Walters, 638 F.2d 947 (6th Cir., 1981), the Court of Appeals for the Sixth
@@ -87,7 +87,7 @@ to agree upon a schedule for the filing of the new motions. See, United States v
 
 
 **Label:** 
-3, 1
+1
 
 **citations:** ['616 F.2d 603', '678 F.2d 376', '474 U.S. 140']
 

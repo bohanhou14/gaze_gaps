@@ -34,7 +34,7 @@ abandonment defense forms a basis for reversal and remand for a retrial.
 
 
 **Label:** 
-
+2
 
 ***Meta-Llama-3-8B-Instruct:***
  <answer> The court erred in denying Sweetheart's motion to amend its complaint to include a count
@@ -61,7 +61,7 @@ of a plaintiff's failure to
 
 
 **Label:** 
-
+2, 3
 
 ***Meta-Llama-3-8B-Instruct-finetuned:***
   The district court’s instruction on abandonment was also erroneous in that it failed to
@@ -92,7 +92,7 @@ trademark owner’s failure to sue other infr
 
 
 **Label:** 
-
+1
 
 **citations:** ['308 F.2d 403', '486 F.2d 114', '179 U.S. 19']
 
