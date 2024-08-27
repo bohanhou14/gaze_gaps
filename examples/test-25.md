@@ -20,23 +20,13 @@ Chris Jenkins was employed. Under well-established precedent, a parent company i
 liable for the discriminatory practices of its wholly-owned subsidiary unless there is evidence of
 pervasive control over the subsidiary’s employment decisions.  In reference case 650 F.2d 990, it
 was held that a parent corporation is not liable for Title VII violations of its wholly owned
-subsidiary in the absence of special circumstances indicating direct involvement or control over the
-subsidiary’s employment practices. Similarly, the ruling in 3 F.3d 1357 affirmed that plaintiffs
-failed to establish a genuine issue of material fact to dispute the presumption that the parent
-company was not the employer of the subsidiary's employees when there was no evidence of
-undercapitalization or ignorance of corporate formalities.  Moreover, as pointed out in 162 F.3d
-1062, significant factors such as the handling of payroll, approval of employment applications, and
-direct control over labor relations can establish such liability. Here, plaintiffs have provided no
-evidence to demonstrate that Home Depot exercised such control over National Blinds & Wallpaper’s
-employment practices. Consequently, the Court finds no basis to hold Home Depot liable under Title
-VII for the actions of its subsidiary.  For these reasons, Plaintiffs’ claims against Defendant Home
-Depot based on the theory of parent-subsidiary liability must be dismissed.  CONCLUSION For all of
+subsidiary in the absence of special circumstances indicating direct involvement or control over the subsidiary’s employment practices. Similarly, the ruling in 3 F.3d 1357 affirmed that plaintiffs failed to establish a genuine issue of material fact to dispute the presumption that the parent company was not the employer of the subsidiary's employees when there was no evidence of undercapitalization or ignorance of corporate formalities.  Moreover, as pointed out in 162 F.3d 1062, significant factors such as the handling of payroll, approval of employment applications, and direct control over labor relations can establish such liability. Here, plaintiffs have provided no evidence to demonstrate that Home Depot exercised such control over National Blinds & Wallpaper’s employment practices. Consequently, the Court finds no basis to hold Home Depot liable under Title VII for the actions of its subsidiary.  For these reasons, Plaintiffs’ claims against Defendant Home Depot based on the theory of parent-subsidiary liability must be dismissed.  CONCLUSION For all of
 the foregoing reasons, IT IS HEREBY ORDERED that Defendants’ Motion for Summary Judgment is GRANTED
 and Plaintiffs’ Complaint is dismissed in its entirety, with prejudice. Let Judgment be entered
 accordingly.
 
 
-**Label:** 
+**Label:** 1
 
 
 ***Meta-Llama-3-8B-Instruct:***
@@ -59,7 +49,7 @@ discrimination under Title VII, a plaintiff must show that she was a member of a
 that she was qualified for the position, and that she was subjected to an adverse employment action.
 
 
-**Label:** 
+**Label:** 3
 
 
 ***Meta-Llama-3-8B-Instruct-finetuned:***

@@ -1,3 +1,7 @@
+'''
+This file loads the datasets and converts the data into a format that is friendly to human annotators.
+'''
+
 import json
 from datasets import load_dataset
 import sys
