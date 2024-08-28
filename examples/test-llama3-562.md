@@ -1,0 +1,15 @@
+**Generation:**
+
+ <answer>Appellant challenges the admission of co-conspirator hearsay statements under Fed.R.Evid. 801(d)(2)(E). The government began its presentation of evidence in chronological order by establishing the underlying basis of the conspiracy. It presented evidence of the kickback agreement, the misuse of the law firm trust account to hide the proceeds received from the liquidation sale, the Schlapman trust account, the collection of Sofa Gallery's accounts receivable, and a plan to delay the filing of the Levines' corporate income tax return.
+
+The trial court admitted the hearsay statements of the Levines and Schwartz which were allegedly made prior to appellant's involvement in the conspiracy. Appellant objected to their admissibility because it had not been established that he was a member of the conspiracy when the statements were made. The trial court overruled his objection but agreed to his request for a limiting instruction.
+
+In United States v. Mobile Materials, Inc., 881 F.2d 866 (10th Cir.1989), we said that a trial court may admit statements of co-conspirators under Fed.R.Evid. 801(d)(2) after finding, by a preponderance of the evidence, that: 1) a conspiracy existed, 2) the declarant and the defendant against whom the declarations are offered were members of the conspiracy, and 3) the statements were made in the course of and in furtherance of the conspiracy. See also United States v. Glasser, 315 U.S. 60, 62 S.Ct. 457, 86 L.Ed. 680 (1942).
+
+The trial court in this case concluded that the evidence was sufficient to show that a conspiracy existed and that appellant was a member of that conspiracy. Appellant renewed his objection that the statements were inadmissible against him because he was not a member of the conspiracy when the statements were made. The trial court overruled appellant's objection, stating that "once a conspiracy is proven and once a person is hooked up to the conspiracy, even though it's at the tail end, the admission of co-conspirator statements at the front end are admissible against all the co-conspirators." Supp. Vol. VII at 16. This statement is consistent with the holding in United States v. Petersen, 839 F.2d 1387 (10th Cir.1988), where we held that a conspiracy
+
+citations: ['483 U.S. 171', '839 F.2d 1387']
+
+gold_text: Id. at 869. In making this determination, the trial court may consider independent evidence as well as the hearsay statements themselves. Id. (citing Bourjaily v. United States, 483 U.S. 171, 181, 107 S.Ct. 2775, 2781, 97 L.Ed.2d 144 (1987)). The determination of whether to admit such hearsay evidence is within the discretion of the trial court, Mobile Materials, 881 F.2d at 869, and will not be reversed absent an abuse of discretion. United States v. Wolf, 839 F.2d 1387, 1393 (10th Cir.1988).
+
+label: 

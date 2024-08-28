@@ -1,0 +1,15 @@
+**Generation:**
+
+To survive a motion to dismiss on a retaliation claim, a plaintiff must plead facts that give rise to a plausible inference of retaliatory motive. Mere conclusory statements or speculative allegations are insufficient (see reference cases 105 F.3d 857, 824 F.2d 192). Specifically, in *Flaherty v. Coughlin*, 713 F.2d 10, the courts have emphasized the necessity of presenting detailed factual allegations rather than general or conclusory claims. If a complaint alleges retaliation in wholly conclusory terms, it may be dismissed on the pleadings alone (713 F.2d 10, 13).
+
+In this case, Plaintiff’s amended complaint lacks specific factual allegations to support his claim of retaliatory motive. For instance, he fails to establish a clear connection between his grievances about prison conditions and the adverse actions taken by the defendants. The complaint only provides speculative assertions without supporting them with facts that could plausibly lead to an inference of retaliation (105 F.3d 857; 824 F.2d 192).
+
+Hence, Plaintiff's retaliation claim against Officer Schweikhard and Lieutenant Buonato must be dismissed for failing to meet the higher level of detail required for pleading retaliation claims as established in *Flaherty v. Coughlin* (713 F.2d 10). Moreover, Plaintiff's request for leave to amend his complaint is denied as it appears that additional amendment would not cure the deficiencies identified.
+
+Therefore, the motion to dismiss Plaintiff’s retaliation claim is granted.
+
+citations: ['713 F.2d 10', '105 F.3d 857', '824 F.2d 192']
+
+gold_text: Under Rule 8(a) of the Federal Rules of Civil Procedure, a complaint usually requires a “short and plain” statement of the claim. However, in the Second Circuit claims of retaliation must be pled with greater detail. See Flaherty v. Coughlin, 713 F.2d 10, 13 (2d Cir.1983). This heightened pleading standard is necessary because retaliation claims are “prone to abuse,” in that prisoners could make claims of retaliation for every administrative decision with which they did not agree. Id. If courts allowed full discovery for every claim of retaliation, the results would be chaotic. See id. Yet, some inmates do have legitimate § 1983 claims which should be heard on the merits. See id. Therefore, if a complaint creates a “colorable suspicion” of retaliation, a court should allow some discovery before determining whether a valid claim exists. See id.; Maurer v. Keane, No. 96-3273, 1996 WL 732591, at *2 (S.D.N.Y. Dec. 19, 1996). On the other hand, a court should dismiss a complaint if the allegations of retaliatory conduct are “unsupported, speculative, and conclusory.” Boddie v. Schnieder, 105 F.3d 857, 862 (2d Cir.1997); see also Gill v. Mooney, 824 F.2d 192, 194 (2d Cir.1987) (affirming grant of 12(b)(6) motion because allegations of retaliation were conclusory); Smith v. O’Connor, 901 F.Supp. 644, 649 (S.D.N.Y.1995) (granting motion to dismiss when an inmate alleged that the defendant had retaliated against him because of “an undefined ‘legal complaint’ made to a superior officer at an unspecified time”).
+
+label: 

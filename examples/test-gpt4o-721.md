@@ -1,0 +1,13 @@
+**Generation:**
+
+Collateral estoppel prevents the litigation of a legal or factual issue already decided in an earlier proceeding. See Boguslavsky v. Kaplan, 159 F.3d 715, 719-20 (2d Cir.1998). Danbury Hospital argues that the district court erroneously relied on collateral estoppel. Collateral estoppel applies when an issue was necessarily decided in a prior proceeding and is identical to the one now presented, provided that the party against whom the doctrine is asserted had a full and fair opportunity to litigate the issue. See 202 F.3d 89. 
+
+In this case, the district court found that the specific issues regarding the improper influence of obstetricians were not fully litigated in prior court hearings and were therefore not barred by collateral estoppel. Consistent with the precedent, the district court’s interpretation aligns with the approach that judicial proceedings by a state court shall have the same full faith and credit in every court within the United States. See 28 U.S.C. § 1738 and Marrese v. American Academy of Orthopaedic Surgeons, 470 U.S. 373, 380 (1985).
+
+Thus, the district court did not err in rejecting collateral estoppel as a defense. Given that the issues were not previously litigated, collateral estoppel does not preclude current consideration. The judgment of the district court on this matter is affirmed, consistent with the standard established in 13 F.3d 577. Therefore, we uphold the district court's ruling that collateral estoppel is inapplicable in this instance.
+
+citations: ['202 F.3d 89', '13 F.3d 577']
+
+gold_text: Ordinarily, we review de novo a district court’s decision regarding collateral estoppel. See Chartier v. Marlin Mgmt., LLC, 202 F.3d 89, 93 (2d Cir.2000). Although defendants raise collateral estoppel for the first time on appeal, they are correct that the claim arose only after the district court delivered its opinion. See Greene v. United States, 13 F.3d 577, 586 (2d Cir.1994) (stating that it is “well-established ... that an appellate court will not consider an issue raised for the first time on appeal,” but that exceptions are made, for instance, “to remedy an obvious injustice”). Defendants allege that the district court’s 2002 contempt order recasts its 1996 findings. Specifically, defendants claim that the district court changed its view of Dr. Silberman’s role in the events giving rise to the 1996 contempt ruling against the Hospital and DOPS. We review this claim, but find the court’s 2002 statements regarding Dr. Silberman to be entirely consistent with its earlier holding. For this reason, we conclude that the collateral estoppel defense is likewise without merit.
+
+label: 

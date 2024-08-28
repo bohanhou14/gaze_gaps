@@ -1,0 +1,15 @@
+**Generation:**
+
+While the Forest Service’s regulatory scheme has been potentially salvaged through the interpretive rule, we must now address the application of this rule to Defendants' conduct. In reference to the overbreadth doctrine, the Supreme Court in the case of Bigelow (491 U.S. 576) established that once a statute is amended or clarified to avoid overbreadth, this construction should apply retroactively to pending cases as well. Likewise, in Osborne (495 U.S. 103), the Court explained that the Due Process Clause necessitates fair warning to the defendant. However, once this warning is provided through judicial or administrative interpretation, the statutes may be applied to past conduct. 
+
+Given that the Forest Service’s interpretive rule now clearly limits the terms and conditions permissible under 36 C.F.R. § 251.56(a)(2)(vii) to those designed to further specific public interests like health and safety, the constitutional issues have been sufficiently addressed. Therefore, the regulatory scheme as constructed is fair and provides adequate notice to the Defendants of what is legally proscribed. On these grounds, we reverse the district court’s dismissal of the charges against Defendants Linick and Bailey, as the clarified and constitutionally compliant regulation can be applied to their conduct.
+
+V.
+
+In conclusion, while we affirm the district court’s initial concern regarding the facial overbreadth of 36 C.F.R. § 251.56(a)(2)(vii), we reverse its dismissal of the charges after taking into account the Forest Service's narrowing interpretive rule. This rule appropriately limits the discretion of the Forest Service in line with the requirements set forth in landmark cases such as Bigelow and Osborne.
+
+citations: ['495 U.S. 103', '491 U.S. 576']
+
+gold_text: Relying on a recently promulgated interpretive rule to construe 36 C.F.R. § 251.56(a)(2)(vii) as constitutionally valid, however, raises a due process problem for Defendants. Although the Forest Service filed the information against Defendants in July 1998, the Forest Service did not promulgate the interpretative rule until September 1999. See 64 Fed.Reg. 48,959 (1999). The regulation thus gave Defendants inadequate notice about the danger of being successfully prosecuted under this newly and narrowly construed regulatory scheme. See Osborne v. Ohio, 495 U.S. 103, 115, 110 S.Ct. 1691, 109 L.Ed.2d 98 (1990). Under such circumstances, to permit the government to proceed with its prosecution of Defendants would create a chilling effect on challenges to laws that potentially encroach upon the freedom of speech. See Shuttlesworth, 394 U.S. at 151, 89 S.Ct. 935; see also Massachusetts v. Oakes, 491 U.S. 576, 586, 109 S.Ct. 2633, 105 L.Ed.2d 493 (1989) (Scalia, J., concurring). We therefore affirm the dismissal of the information.
+
+label: 

@@ -1,0 +1,15 @@
+**Generation:**
+
+ <answer>
+
+The appeal from the district court's denial of his motion for a new trial, Goulet argues that the jury's verdict in favor of Local 239 F.3d 8 239 F.3d 8). A district court should grant a motion for a new trial only if "the outcome is against the clear weight of the evidence such that upholding the verdict will result in a miscarriage of justice" (Ramos v. Davis & Geek, Inc., 167 F.3d 727, 731 (1st Cir.1999) (internal quotation marks omitted). We review the district court's denial of a motion for new trial for abuse of discretion only. Johnson v. Spencer Press of Maine, Inc., 364 F.3d 368, 375 (1st Cir.2004). We may weigh the evidence but are mindful that "a jury's verdict on the facts should only be overturned in the most compelling circumstances" (Velazquez v. Figueroa-Gomez, 996 F.2d 425, 427 (1st Cir.1993) (citations omitted). "We will uphold the jury's verdict unless the evidence points 'to one conclusion and one conclusion only: that the losing party was entitled to win'" (Sheek v. Asia Badger, Inc., 235 F.3d 687 (1st Cir.2000) (citations omitted).
+
+Goulet argues that the evidence overwhelmingly supports a finding against Local 25. We disagree. Goulet focuses his assessment on the question of whether Local 25 violated its duty of fair representation, even though, as noted, in order to find Local 25 liable, the jury had to find both that New Penn had breached the CBA and that Local 25 had violated the duty of fair representation. The evidence on both points was sufficient to support jury findings adverse to Goulet (Laurin v. The Providence Hosp., 150 F.3d 52, 61 (1st Cir.1998). Moreover, the court's instruction on the jury's role in deciding whether New Penn had breached the CBA was clear and accurate (Early v. Eastern Transfer, 699 F.2d 552, 555 (1st Cir.1983).
+
+In conclusion, the district court did not err in denying Goulet's motion for a new trial. The jury's
+
+citations: ['239 F.3d 8', '989 F.2d 561', '386 U.S. 171']
+
+gold_text: A union’s duty of fair representation requires it not to “engage in arbitrary or bad faith conduct that evidences hostility, discrimination, or dishonesty toward an employee-union member.” Fant v. New England Power Service Co., 239 F.3d 8, 14 (1st Cir.2001). “Reckless disregard” of an employee’s interests is an actionable breach of duty of fair representation. Achilli v. John J. Nissen Baking Co., 989 F.2d 561, 563 (1st Cir.1993). A union may not arbitrarily ignore a meritorious grievance or process it in a perfunctory fashion. Vaca v. Sipes, 386 U.S. 171, 191, 87 S.Ct. 903, 17 L.Ed.2d 842 (1967). Goulet argues that Local 25’s failure to submit his name and terminal preference list to New Penn and failure to docket his grievance in a timely manner constituted a clear breach of its duty. A rational jury, however, could believe otherwise.
+
+label: 

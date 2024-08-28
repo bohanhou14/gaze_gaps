@@ -1,0 +1,11 @@
+**Generation:**
+
+In this case, Ms. Jackson alleges that her demotion and subsequent constructive discharge were due to race discrimination. To survive summary judgment, she must demonstrate that the District’s non-discriminatory reason for her demotion—falsifying a performance evaluation—is a pretext for discrimination. According to the precedent set in *International Bhd. of Teamsters v. United States*, mere assertions without evidence to support discriminatory intent are insufficient to establish a prima facie case (336 F.3d 1085). Similarly, in *Hidalgo v. Overseas Condado Ins. Agencies, Inc.*, the plaintiff's failure to present evidence that the employer’s rationale was a pretext led to summary judgment in favor of the employer (156 F.3d 1284).
+
+Ms. Jackson’s case hinges on whether a reasonable jury could find that her demotion was due to racial discrimination rather than the stated reason of misconduct. However, she has not presented concrete evidence to rebut the District’s legitimate explanation nor has she indicated that the District’s action was motivated by racial bias. Under the circumstances, following the guideline provided by *Adeyemi v. District of Columbia*, the Court finds no genuine issue of material fact that could allow a jury to conclude that the District's rationale was pretextual (525 F.3d 1222). Hence, summary judgment in favor of the District is proper.
+
+citations: ['336 F.3d 1085', '156 F.3d 1284']
+
+gold_text: Adeyemi and Brady directly apply here because the District has asserted that Ms. Jackson was demoted because she falsified her 2001 performance evaluation. That constitutes a legitimate, non-discriminatory reason for demoting Ms. Jackson. “At this point, to survive summary judgment the plaintiff must show that a reasonable jury could conclude from all of the evidence that the adverse employment decision was made for a discriminatory reason.” Lathram v. Snow, 336 F.3d 1085, 1088 (D.C.Cir.2003). “All of the evidence” includes evidence of the plaintiffs prima facie case, evidence showing the employer’s proffered reason to be false, and any other evidence of discrimination. See Aka v. Wash. Hosp. Ctr., 156 F.3d 1284, 1289 (D.C.Cir.1998); Czekalski, 475 F.3d at 364; Simpson v. Leavitt, 437 F.Supp.2d 95, 101 (D.D.C.2006).
+
+label: 

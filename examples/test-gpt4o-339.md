@@ -1,0 +1,9 @@
+**Generation:**
+
+The interpretation of Rule 45 across circuits clearly supports the district court's decision. According to 949 F.2d 228, the jurisdiction to rule on objections to subpoenas lies initially with the court that issued the subpoena. This principle underscores that the Nevada district court lacked the authority to quash a subpoena issued by the California district court. Furthermore, the ruling aligns with the precedent set in 141 F.3d 337, which emphasized that only the issuing court has the power to determine the enforceability and scope of its subpoenas. This ruling is consistent with the framework established by Rule 45, ensuring efficient and orderly procedures for handling objections to subpoenas. Thus, the Nevada district court correctly interpreted its lack of jurisdictional authority, affirming its decision to deny Gewerter's motion to quash.
+
+citations: ['949 F.2d 228', '141 F.3d 337']
+
+gold_text: On the basis of the clear language of Rule 45, we must hold that the court that issued the subpoena, and not the court where the underlying action is pending, can entertain a motion to quash or modify a subpoena. Our holding is consistent with the decisions of two other Circuits that have decided this issue. See In re Digital Equip. Corp., 949 F.2d 228 (8th Cir.1991) (holding that the South Dakota district court, where the underlying action was pending, did not have jurisdiction to rule on the objections to a subpoena issued by the Oregon district court); In re Sealed Case, 141 F.3d 337, 341 (D.C.Cir.1998) (noting that “[sjubpoenas are process of the issuing court, ... and nothing in the Rules even hints that any other court may be given the power to quash or enforce them” (citations omitted)).
+
+label: 

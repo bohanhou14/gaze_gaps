@@ -1,0 +1,11 @@
+**Generation:**
+
+Given the aforementioned factors, while recognizing that § 362(h) is a core proceeding, we must determine if compelling arbitration would indeed jeopardize the objectives of the Bankruptcy Code. Reference case 230 F.3d 65 outlines the principle that a bankruptcy court's prevention of piecemeal litigation supports centralized resolution and efficient reorganization. However, with Hill’s estate closed and her debts discharged, there is diminished concern for disrupting the bankruptcy process. Reference case 270 B.R. 108 reiterates that bankruptcy courts do not have discretion to refuse arbitration of non-core matters, emphasizing minimal impacts on the estate. Even under core proceedings, compelling arbitration must show inherent conflict or jeopardizing objectives, which, as noted in reference case 230 F.3d 65, Hill’s post-discharge situation does not substantiate.
+
+Thus, we conclude that arbitration of Hill's claims does not substantially conflict with the objectives of the Bankruptcy Code. We reverse the district court's judgment and remand the case with instructions to compel arbitration of Hill's § 362(h) claim. The application of a narrow construction in exceptions, as referenced in Penn Terra, 733 F.2d at 271, supports this directive, ensuring due regard to both statutory frameworks involved.
+
+citations: ['230 F.3d 65', '230 F.3d 65', '270 B.R. 108']
+
+gold_text: First, and most importantly, arbitration of Hill’s § 362(h) claim would not jeopardize the important purposes that the automatic stay serves: providing debtors with a fresh start, protecting the assets of the estate, and allowing the bankruptcy court to centralize disputes concerning the estate. See SEC v. Brennan, 230 F.3d 65, 70 (2d Cir.2000). District courts have often reversed bankruptcy decisions refusing to compel arbitration of core bankruptcy matters and granted motions to arbitrate core claims on the grounds that arbitration would not interfere with or affect the distribution of the estate. See, e.g., Cibro Petroleum Prods., Inc. v. City of Albany (In re Winimo Realty Corp.), 270 B.R. 108 (S.D.N.Y.2001); Pardo v. Akai Elec. Co. Ltd. (In re Singer Co. N.V.), 2001 WL 984678 (S.D.N.Y. Aug.27, 2001); Bigelow v. Green Tree Fin. Servicing Corp., 2000 WL 33596476 (E.D.Cal. Nov.30, 2000).
+
+label: 

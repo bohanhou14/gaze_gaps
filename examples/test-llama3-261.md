@@ -1,0 +1,19 @@
+**Generation:**
+
+
+
+In this case, we must apply the doctrine of res judicata to determine whether the BIA is bound by the district court's holding that Paulo is entitled to apply for discretionary relief under § 212(c). The doctrine of res judicata prevents parties from relitigating issues that were or could have been raised in a previous action, even if that judgment "may have been wrong or rested on a legal principle subsequently overruled in another case." Federated Dep't Stores, Inc. v. Moitie, 452 U.S. 394, 398 (1981).
+
+The Supreme Court has established that res judicata applies to immigration courts in cases where an administrative agency is acting in a judicial capacity and resolves disputed issues of fact properly before it. United States v. Utah Constr. & Mining Co., 384 U.S. 394, 422 (1966). In this case, the district court's holding that Paulo is entitled to apply for § 212(c) relief is a final judgment on the merits that can be applied to this immigration court proceeding.
+
+The government argues that Blake and Brieva constitute new law that prevents res judicata from applying. However, the Supreme Court has established that a change in the law does not necessarily prevent res judicata from applying. See Liwanag v. INS, 993 F.2d 499 (1993). Furthermore, the doctrine of issue preclusion applies when the issue necessarily decided at the previous proceeding is identical to the one which is sought to be relitigated. Hydranautics v. FilmTec Corp., 204 F.3d 880, 885 (2000).
+
+In this case, the issue decided at the previous proceeding is identical to the one which is sought to be relitigated. The district court's holding that Paulo is entitled to apply for § 212(c) relief is directly applicable to this immigration court proceeding. Therefore, we hold that res judicata binds the BIA to the district court's holding that Paulo is entitled to apply for discretionary relief under § 212(c). See 532 U.S. 742 (2002).
+
+
+
+citations: ['993 F.2d 499', '532 U.S. 742']
+
+gold_text: The government is correct that the question of whether the statutory counterpart rule made Paulo ineligible for § 212(c) relief was not raised in the district court. The government could have made an argument addressed to this question, but it did not. The fact that a particular argument against Paulo’s eligibility was not made by the government and not addressed by the district court does not mean that the issue of Paulo’s eligibility for § 212(c) relief was not decided. See Medina v. INS, 993 F.2d 499, 503 n. 15 (5th Cir.1993). Issue preclusion is designed to “bar[ ] ‘successive litigation of an issue of fact or law actually litigated and resolved in a valid court determination.’ ” Taylor, 553 U.S. at 892, 128 S.Ct. 2161(quoting New Hampshire v. Maine, 532 U.S. 742, 748, 121 S.Ct. 1808, 149 L.Ed.2d 968 (2001)). If a party could avoid issue preclusion by finding some argument it failed to raise in the previous litigation, the bar on successive litigation would be seriously undermined. See 18 James Wm. Moore et ah, Moore’s Federal Practice § 132.02[2][e] (3d ed.2010) (“If a new legal theory or factual assertion raised in the second action is relevant to the issues that were litigated and adjudicated previously, the prior determination of the issue is conclusive on the issue despite the fact that new evidence or argument relevant to the issue was not in fact expressly pleaded, introduced into evidence, or otherwise urged.”). The issue sought to be relitigated in this case is Paulo’s eligibility for § 212(c) relief, which was decided in the previous proceeding by the district court.
+
+label: 

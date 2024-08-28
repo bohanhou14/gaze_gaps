@@ -1,0 +1,17 @@
+**Generation:**
+
+ 
+
+The case before us is distinguishable from Ancata, where prison officials recommended an orthopedic or psychiatric evaluation for a prisoner, but took no steps to procure the evaluation. 730 F.2d 741. Instead, the officials in this case responded to Robert's complaints and provided medical care for him consistent with his medical history. Their responses were reasonable and appropriate, and did not amount to deliberate indifference. 
+
+In determining whether a suit is frivolous, "a district court must focus on the question whether the case is so lacking in arguable merit as to be groundless or without foundation." 773 F.2d 1182 at 422. Johnson did not adequately support her claim of deliberate indifference, and her failure to provide evidence of a serious medical need or prison personnel's deliberate indifference to that need is sufficient to demonstrate that her suit was frivolous. 
+
+The district court's award of attorney's fees was also proper, as it was based on the court's finding that Johnson's lawsuit was frivolous, unreasonable, or without foundation. 461 U.S. 424 at 421. 
+
+In conclusion, while Johnson's claims were dismissed, the district court's decisions were proper and supported by the evidence. The court's award of attorney's fees was also proper, and Johnson's lawsuit was frivolous and without merit. 
+
+citations: ['461 U.S. 424', '773 F.2d 1182', '730 F.2d 741', '678 F.2d 911']
+
+gold_text: In this case, we cannot find that the district court abused its discretion in awarding attorney’s fees to DefendantsAppellees under 42 U.S.C. § 1988. Under § 1988, the court has discretion to award the prevailing party in a § 1983 action reasonable attorney’s fees. A prevailing defendant may receive an attorney’s fees award only if “the plaintiffs action was frivolous, unreasonable, or without foundation, even though not brought in subjective bad faith.” Hensley v. Eckerhart, 461 U.S. 424, 429 n. 2, 103 S.Ct. 1933, 1937, 76 L.Ed.2d 40 (1983). Here, the district court found that Johnson’s failure to support her contentions with evidence from a medical expert rendered the claim frivolous. In the face of Defendants-Appellees’ affidavit from a medical expert, Johnson chose to rest on the allegations and denials in her pleadings. This is contrary to Federal Rule of Civil Procedure 56(e), which requires a party opposing summary judgment to submit affidavits when the moving party has done so. When the plaintiff does not introduce any evidence to support his or her claim, a finding of frivolity is appropriate. See Sullivan v. Sch. Bd. of Pinellas County, 773 F.2d 1182, 1189 (11th Cir.1985); Beard v. Annis, 730 F.2d 741, 744-45 (11th Cir.1984). Although the finding of frivolity in this case stems from the apparent unfamiliarity of Johnson’s counsel with Federal Rule of Civil Procedure 56(e), “the perception that counsel was primarily at fault in filing or maintaining a frivolous, groundless, or unreasonable claim should play no role in the decision whether to assess attorney’s fees against the plaintiff.” Durrett v. Jenkins Brickyard, Inc., 678 F.2d 911, 916 (11th Cir.1982). The district court’s award of attorney’s fees is affirmed.
+
+label: 

@@ -1,0 +1,15 @@
+**Generation:**
+
+To determine whether Baird’s prior convictions for second-degree burglary and third-degree burglary qualify as violent felonies under the ACCA, we turn to the precedent established in Taylor v. United States and further clarified by Shepard v. United States, 544 U.S. 13 (2005). According to Taylor, a conviction is considered a burglary under the ACCA if it includes the unlawful entry into a building with the intent to commit a crime therein (Taylor, 495 U.S. at 599). However, statutes that define burglary more broadly than generic burglary, such as including vehicles or watercraft, fall into the category of "nongeneric" burglary.
+
+Alabama's definition of third-degree burglary, at the time of Baird’s conviction, included vehicles, aircraft, and watercraft, which do not align with the generic definition of burglary articulated in Taylor and reiterated in Shepard, 544 U.S. at 15-16. Therefore, these statutes are considered nongeneric (see Shepard, 544 U.S. at 15-16; 616 F.3d 1212).
+
+For a prior conviction under a nongeneric statute to qualify as a predicate offense under the ACCA, courts employ the "modified categorical approach," allowing them to review items such as indictments and jury instructions to determine if the conviction meets the elements of a generic burglary (see 600 F.3d 1326; 616 F.3d 1212). In Baird’s case, the government failed to present Shepard-approved documents narrowing his convictions to the elements of a generic burglary, thereby making it improper to classify them as violent felonies under the ACCA. Consequently, the district court erred in applying the ACCA enhancement for Baird’s sentence based on these convictions.
+
+Thus, we must vacate Baird’s sentence and remand for resentencing without the ACCA enhancement, aligning with the analysis in 600 F.3d 1326.
+
+citations: ['544 U.S. 13', '600 F.3d 1326', '616 F.3d 1212']
+
+gold_text: A conviction under a non-generic burglary statute still qualifies as a “burglary” under the ACCA if the defendant was actually found guilty of the elements of generic burglary. Id. at 602, 110 S.Ct. 2143. In determining whether a conviction under a non-generic burglary statute qualifies as generic burglary, courts employ the “modified categorical approach,” which allows the court to determine which statutory phrase was the basis for the conviction by consulting the trial records, including charging documents. Shepard v. United States, 544 U.S. 13, 26, 125 S.Ct. 1254, 161 L.Ed.2d 205 (2005); United States v. Sneed, 600 F.3d 1326, 1330-32 (11th Cir.2010). We have held that a defendant’s previous third-degree burglary convictions in Alabama counted for ACCA purposes because the indictments charged the defendant with burglary of the “building of Richie’s Shoe Store, Inc.” and “building of, to wit: Whiddon’s Gulf Service Station,” which, as a shoe store and service station, respectively, were places that generally fell within the scope of generic burglary. United States v. Rainer, 616 F.3d 1212, 1216 (11th Cir.2010).
+
+label: 

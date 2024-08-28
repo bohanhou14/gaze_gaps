@@ -1,0 +1,13 @@
+**Generation:**
+
+In examining the refusal to give the requested Telfaire instruction, we need to reference pertinent case law. In 591 F.2d 471, it was emphasized that the failure to give a detailed eyewitness identification instruction can constitute reversible error when the identification is crucial to the conviction and no other substantial evidence exists. Similarly, in 562 F.2d 542, the court noted with grave concern the omission of detailed identification instructions when the conviction rests significantly on eyewitness testimony. Importantly, in 538 F.2d 770, it was reaffirmed that courts should provide detailed instructions on identification where the eyewitness testimony is essential for conviction.
+
+Here, the district court's general instruction on the need for the jury to be satisfied beyond a reasonable doubt as to the defendant's identity was inadequate. Given that Rena Bad Horse's eyewitness identification was the linchpin of the prosecution’s case, and the corroboration by Hollow Horn Bear mainly reiterated her identification, the failure to deliver a Telfaire instruction was significant. As established in 538 F.2d 770, while a specific identification instruction was given, it did not reach the standards set out in the Telfaire model, making it insufficient under the circumstances of this case.
+
+In conclusion, in accordance with the aforementioned precedents (591 F.2d 471, 562 F.2d 542, and 538 F.2d 770), the refusal to properly instruct the jury on the nuances of eyewitness identification was a considerable oversight. Therefore, this failure should be considered reversible error, warranting a new trial on these grounds.
+
+citations: ['591 F.2d 471', '562 F.2d 542', '538 F.2d 770']
+
+gold_text: In a case in which reliability of eyewitness identification of a defendant presents a serious question we have approved the giving of a Telfaire instruction, if requested, although a defendant may not be entitled to have used the exact language that appears in Devitt & Blackmar; and, indeed, we have held that where the government’s case rests solely on questionable eyewitness identification, it is reversible error for a trial court to refuse to instruct the jury along Telfaire lines. United States v. Greene, 591 F.2d 471, 474-77 (8th Cir. 1979). See also Durns v. United States, 562 F.2d 542 (8th Cir.), cert. denied, 434 U.S. 959, 98 S.Ct. 490, 54 L.Ed.2d 319 (1977); United States v. Dodge, 538 F.2d 770, 783-84 (8th Cir. 1976).
+
+label: 

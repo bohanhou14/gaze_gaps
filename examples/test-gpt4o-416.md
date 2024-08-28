@@ -1,0 +1,15 @@
+**Generation:**
+
+Capital argues that the district court’s deference to arbitration for resolving compensatory damages was erroneous. They assert that a trial was necessary. However, the principle set forth in Gateway Coal Co. v. United Mine Workers, 414 U.S. 368, 94 S.Ct. 629, 38 L.Ed.2d 583 (1974), emphasizes arbitration as a matter of agreement. Furthermore, in General Drivers Local 120 v. Sears, Roebuck & Co., 535 F.2d 1072 (8th Cir. 1976), it was held that grievances are arbitrable unless explicitly excluded by the arbitration clause. 
+
+Capital’s prior filings to defer all disputes, including damages, to arbitration undermine their current position. They previously acknowledged arbitration's purview, both in court submissions and an arbitrator's post-hearing brief, solidifying the district court’s stance favoring arbitration.
+
+Additionally, the stipulation dated April 19, 1974, wherein both parties agreed to arbitrate "the remaining issues [damages]" strengthens this view. This aligns with the deferment practice observed in Williams v. Pacific Maritime Ass’n, 421 F.2d 1287 (9th Cir. 1970), where arbitration was upheld as the binding resolution mechanism. Therefore, the district court correctly affirmed the arbitrator’s award, and Capital’s appeal lacks merit as consistent with 557 F.2d 1345. 
+
+Consequently, judicial interference is unwarranted, as the arbitration agreement covers compensatory damages per the collective bargaining agreement, reaffirming the district court's decision.
+
+citations: ['557 F.2d 1345', '274 F.2d 805']
+
+gold_text: Capital argues that this stipulation was merely a means of informing the district court that the parties were proceeding on the course already ordered by the court. However, our reading of the stipulation convinces us otherwise. We find no language used in the stipulation to indicate that Capital was proceeding to arbitration on the damage issue under protest or solely because the court had so ordered. In clear, unambiguous language the stipulation states that “the parties have agreed to submit the remaining issues to arbitration.” In similar fashion, Capital and the defendants stated to the district court in a filing entitled “Suggestions in Support of Motion for Order Extending Date for Completion of Discovery” that “[t]he parties propose to now submit the remaining issues [damages] to the same arbitrator at a time and place consistent with the convenience of said arbitrator.” Assuming arguendo that the original collective bargaining agreement did not provide for arbitration of the damage issue, we are persuaded that the parties nevertheless independently agreed to submit this issue to arbitration. See International Brotherhood of Teamsters Local 117 v. Washington Employers, Inc., 557 F.2d 1345, 1349-50 (9th Cir. 1977); Ficek v. Southern Pacific Co., 338 F.2d 665, 656-57 (9th Cir. 1964), cert. denied, 380 U.S. 988, 85 S.Ct. 1362, 14 L.Ed.2d 280 (1965); Amicizia Societa Navegazione v. Chilean Nitrate and Iodine Sales Corp., 274 F.2d 805, 809 (2d Cir.), cert. denied, 363 U.S. 843, 80 S.Ct. 1612, 4 L.Ed.2d 1727 (1960).
+
+label: 

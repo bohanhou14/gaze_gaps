@@ -1,0 +1,13 @@
+**Generation:**
+
+In assessing the date of allowance of the plaintiff's refund, it is essential to consider prior rulings and established procedures. As elucidated in the reference cases 46 S. Ct. 229 and 70 L. Ed. 524, the date of allowance is determined when the Commissioner of Internal Revenue's decision is formally conveyed to the Collector of Internal Revenue and subsequently approved by competent authority. This signifies the final determination of the refund amount, making it administratively viable and legally binding. 
+
+In both cases, it was ruled that until the Collector receives the schedule, examines the books, and the Commissioner provides final approval, the refund is not fixed by competent authority. This administrative chain ensures accuracy and conformity with congressional intent to compensate wrongfully overassessed taxpayers. Notably, in our case, this process culminated on March 11, 1926, when the Commissioner signed the final schedule. Thus, under the statutory definitions provided, the allowance date in this instance aligns with the Commissioner's final authorization per precedents (46 S. Ct. 229; 70 L. Ed. 524).
+
+Therefore, the relevant date for the statute's application is March 11, 1926, placing the claim under the governance of the 1926 Act, which effectively invalidates the claim for interest, as the overpayment credit predates the overpayment itself.
+
+citations: ['46 S. Ct. 229', '70 L. Ed. 524']
+
+gold_text: A case somewhat similar to the instant case in point of facts has been before the Supreme Court. See Girard Trust Co. v. United States, 270 U. S. 163, 46 S. Ct. 229, 70 L. Ed. 524. In that ease, however, the matter under consideration was the date of the allowance of a refund, while in the present case we are dealing with a credit. In Girard Trust Co. v. United States it was held that the refund had not been allowed prior to the date when the schedule of refunds was signed by the Commissioner, after return upon the original schedule of overassessments on the part of the collector. It will be remembered that the signature of the Commissioner upon the schedule of refunds was over a direction to the disbursing clerk of the Treasury Department to pay the amount of the refunds appearing on the schedule. It is clear from the ease last cited that a refund, prior to section 1116(b) (2) of the act of 1926 becoming effective, was not allowed until the disbursing clerk had been directed to pay it; but the status of a credit is not, as we think, the same as that of a refund. In Girard Trust Co. v. United States, supra, the court, in the opinion by Mr. Chief Justice Taft, laid down a rule as follows:
+
+label: 

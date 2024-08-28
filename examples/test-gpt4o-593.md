@@ -1,0 +1,13 @@
+**Generation:**
+
+Beard also contends that the trial judge’s comments during the jury charge prejudiced his case. Specifically, Beard argues that the judge's favorable remark about the court reporter, reminiscent of what was found non-prejudicial in United States v. Fiorito, 855 F.2d 1528, may have influenced the jury by suggesting their decision was subject to review. However, unlike in Fiorito, where the judge explicitly referenced appellate review, the judge in Beard's case did not imply any such review, thereby negating any prejudicial impact.
+
+Furthermore, any potential error from the judge’s comments must be assessed in light of the overall jury instructions. Similar to the rulings in 856 F.2d 1572, where comprehensive instructions on the burden of proof and the defendant's rights mitigated isolated comments, the instructions in Beard’s trial comprehensively addressed these critical points, maintaining the focus on the presumption of innocence.
+
+Lastly, Beard’s arguments about the sufficiency of evidence regarding his involvement in the rebate scheme mirror the concerns in United States v. Varelli, 686 F.2d 863, involving multiple conspiracies. In Varelli, the failure to properly instruct the jury on multiple conspiracies prejudiced the defendants. However, in Beard's case, the evidence clearly aligned with a single, overarching scheme orchestrated by Beard, mitigating any instructional deficiencies. Consequently, we find no plain error or prejudicial impact warranting a reversal. The judgment is affirmed.
+
+citations: ['856 F.2d 1572', '855 F.2d 1528', '686 F.2d 863']
+
+gold_text: Beard argues . that the trial judge’s persona] feelings and comments were reflected in the- jury instructions in such a manner that they prejudiced his case and warrant reversal. Since the defendant raises this issue for the first time on appeal, the case is reversible only for plain error. United States v. Solomon, 856 F.2d 1572, 1577 (11th Cir.1988), cert. denied, 489 U.S. 1070, 109 S.Ct. 1352, 103 L.Ed.2d 820 (1989); United States v. Duncan, 855 F.2d 1528, 1530 (11th Cir.1988), cert. denied, 489 U.S. 1029, 109 S.Ct. 1161, 103 L.Ed.2d 220 (1989); Fed.R.Crim.P. 52(b). A careful review of the jury instructions as a whole, does not establish plain error. United States v. Solomon, 686 F.2d 863, 875 (11th Cir.1982) (jury instructions must be taken in context as part of whole and interpreted with common sense).
+
+label: 

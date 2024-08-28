@@ -1,0 +1,18 @@
+**Generation:**
+
+
+The case at hand, Williams, et al. v. Astrue, 559 F.3d 736, concerns the denial of disability benefits to Betty Brown, who suffers from chronic back pain, obesity, and migraines. Brown challenges the administrative law judge's (ALJ) denial, arguing that the ALJ failed to adequately consider her obesity, improperly applied the Treating Physician Rule, and relied on inadequate vocational expert testimony.
+
+Regarding the first issue, the court finds that the ALJ did consider Brown's obesity, albeit not in sufficient detail. The ALJ repeatedly stated that he had considered her obesity, and referenced treatment records that discussed the impact of her weight on her back pain. However, the court concludes that the ALJ's consideration of Brown's obesity was acceptable, as it was not entirely conclusory.
+
+Regarding the second issue, the court holds that the ALJ improperly applied the Treating Physician Rule. Dr. Shannon, Brown's treating physician, opined that she could not sit or stand for extended periods, and would require frequent periods of walking and lying down throughout the day. The ALJ rejected these opinions, citing the lack of supporting treatment records and Brown's own reports of daily living activities. However, the court finds that the ALJ substituted his judgment for Dr. Shannon's without explaining why Brown's activities were inconsistent with Dr. Shannon's opinions. The court concludes that the ALJ must reevaluate Dr. Shannon's opinions to determine whether they are entitled to controlling weight.
+
+Regarding the third issue, the court finds no reversible error in relying on the vocational expert's testimony. The vocational expert testified that Brown could perform six jobs that existed in significant numbers in the economy, despite her physical limitations. The court concludes that the ALJ properly considered the vocational expert's testimony, as it was supported by substantial evidence.
+
+In conclusion, the court vacates the ALJ's denial of benefits and remands the case for further proceedings. The ALJ must reevaluate Dr. Shannon's opinions to determine whether they are entitled to controlling weight, and must consider Brown's obesity in a more detailed and nuanced manner. 
+
+citations: ['559 F.3d 736', '811 F.3d 969']
+
+gold_text: The ALJ determined that Brown could perform substantial gainful activity based primarily on testimony from a vocational expert regarding six particular jobs. Brown attacks the ALJ’s reliance on this testimony on several grounds. For example, Brown claims that the ALJ erred in accepting the vocational expert’s testimony that all six jobs could be performed sitting or standing and that the worker could be off task up to 10% of the time while doing so. However, Brown concedes that this testimony merely supplemented (and did not conflict with) the Dictionary of Occupational Titles (DOT), which means that she forfeited these arguments by failing to object to the testimony during the administrative hearing. Liskowitz v. Astrue, 559 F.3d 736, 744 (7th Cir. 2009) (claimant forfeited argument regarding reliability of data underlying vocational experts’ job-numbers opinions by failing to object during hearing); Barrett v. Barnhart, 355 F.3d 1065, 1067 (7th Cir. 2004) (same). Brown also forfeited her argument regarding the vocational expert’s testimony about the number of positions for each of the six jobs by failing to object during the hearing. Id. And to the extent Brown alleges error in the ALJ’s acceptance of the vocational expert’s testimony relating to the telephone solicitor/call center position, Brown waived the issue by failing to raise it in her opening appellate brief. Bonnstetter v. City of Chi, 811 F.3d 969, 973 (7th Cir. 2016).
+
+label: 

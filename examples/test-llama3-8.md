@@ -1,0 +1,16 @@
+**Generation:**
+
+ <answer>
+The court erred in denying Sweetheart's motion to amend its complaint to include a count for trademark infringement. Rule 15(a) of the Federal Rules of Civil Procedure provides that leave to amend a pleading "shall be freely given when justice so requires." In Foman v. Davis, 371 U.S. 178, 182, 83 S.Ct. 227, 230, 9 L.Ed.2d 222 (1962), the Supreme Court stated that "if the underlying facts or circumstances relied upon by a plaintiff may be a proper subject of relief, he ought to be afforded an opportunity to test his claim on the merits." The court's refusal to permit Sweetheart to amend its complaint was an abuse of discretion.
+
+The court also erred in refusing to admit evidence of remedial actions taken by Sweetheart against other manufacturers. Denison Mattress Factory v. Spring-Air Co., 308 F.2d 403, 409 (5th Cir.1962), held that a trademark owner's failure to exercise control and supervision over the use of the mark by a licensee may estop the owner from challenging the use of the mark and business developed during the period of unsupervised use. Similarly, Saxlehner v. Eisner & Mendelson Co., 179 U.S. 19, 25 L.Ed. 769 (1900), held that a trademark owner's failure to take action against infringers may estop the owner from challenging the use of the mark.
+
+The court's admission of Detroit's evidence of the existence of other manufacturers of similar designs was relevant to the issue of whether Sweetheart had any proprietary rights in the unregistered designs. Ambrosia Chocolate Co. v. Ambrosia Cake Bakery, 165 F.2d 693 (4th Cir.1947), cert. denied 333 U.S. 882, 68 S.Ct. 914, 92 L.Ed. 1157 (1948), held that a trademark owner's affirmative conduct toward a defendant may be evidence of acquiescence.
+
+The court's instruction on abandonment was also error. United States Jaycees v. San Francisco Jr. Chamber of Commerce, 354 F.Supp. 61, 73 (N.D.Cal.1972), aff'd 513 F.2d 1226 (9th Cir.1975), held that evidence of a plaintiff's failure to
+
+citations: ['308 F.2d 403', '486 F.2d 114', '179 U.S. 19']
+
+gold_text: On the other hand, two of the cases relied on by Detroit, Denison Mattress Factory v. Spring-Air Company, 308 F.2d 403 (5th Cir.1962); Sheila’s Shine Products, Inc. v. Sheila Shine, Inc., 486 F.2d 114 (5th Cir.1973) are of no help in determining this issue. Those cases merely recognize the rule that a trademark owner’s uncontrolled or “naked” licensing of a mark may result in the trademark ceasing to function as a symbol of quality and controlled origin, which has been characterized as abandonment. This rule of uncontrolled licensing of a trademark is inapplicable to the instant case as no evidence of licensing has been presented. The other case relied on by Detroit, Saxlehner v. Eisener & Mendelson Co., 179 U.S. 19, 21 S.Ct. 7, 45 L.Ed. 60 (1900) does note the remedial actions taken by a trademark owner against other infringers in its discussion of abandonment; however, Saxlehner is factually distinguishable from the instant case because in Saxlehner the plaintiff’s mark “Hunyadi” was found to have become the generic name in this country for a type of water after others had used the name for twenty years without being sued by the plaintiff.
+
+label: 

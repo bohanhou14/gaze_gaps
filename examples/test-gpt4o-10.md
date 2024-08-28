@@ -1,0 +1,13 @@
+**Generation:**
+
+The Westinghouse Company's reliance on an informal proof of its claim is unsupported by the established legal standards. In 21 F.2d 182, it is emphasized that a valid amendment requires an original claim to have been filed within the statutory period. Without such a filing, amendment privileges do not apply, as the statute aims to prevent dilatory creditors from filing claims after the deadline. Similarly, 20 F.2d 84 reinforces that informal documentation, which substantially mirrors a formal claim, may support an amendment only if an original proof had been timely submitted.
+
+Furthermore, the precedent set in Hutchinson v. Otis & Co., mentioned in 20 F.2d 84, reflects that bankruptcy courts exhibit liberal discretion in permitting amendments when there is an existing formal or informal basis filed initially. This flexibility, however, does not extend to situations where no foundational claim exists within the statutory period, as addressed in the case In re Schaffner, also cited in 20 F.2d 84.
+
+In this case, since the referee did not receive the mailed proof of claim, its non-receipt fails to constitute the necessary filing requirement, per the ruling in In re R. B. Rose Co., Inc. cited in 43 F.2d 446. Therefore, despite the Westinghouse Company's arguments, the absence of a filed claim within the statutory timeframe precludes the possibility of amendment under established bankruptcy laws and supporting precedents.
+
+citations: ['21 F.2d 182', '20 F.2d 84']
+
+gold_text: Westinghouse contends that even if formal proof of its claim was not filed within the statutory period for filing claims, nevertheless the correspondence hereinbefore quoted, and the action of its attorney within such period, constituted an informal proof of its claim and a sufficient basis for granting it leave to amend and file a formal proof of claim after the expiration of the statutory period. The rule that certain acts of a creditor in the course of a bankruptcy proceeding and during the statutory period for filing proof of claim, may give rise to something equivalent to a proof of claim .and afford a sufficient basis for allowing an .amendment after the statutory period for filing, was recognized and applied in many cases decided before the 1938 amendment of the Bankruptcy Act. See In re Atlantic Gulf & Pacific S. S. Corporation, D.C., 26 F.2d 751; In re Fant, D.C., 21 F.2d 182; Globe Indemnity Co. of Newark, N. J., v. Keeble, 4 Cir., 20 F.2d 84; In re Coleman & Titus Corporation, D.C., 286 F. 303; In re Roeber, 2 Cir., 127 F. 122.
+
+label: 

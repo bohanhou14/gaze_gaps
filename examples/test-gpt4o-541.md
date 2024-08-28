@@ -1,0 +1,13 @@
+**Generation:**
+
+Turning to the initial argument involving the Sixth Amendment, Smalls contends that the court's application of facts regarding the Stoeckle murder to enhance his sentence was erroneous. However, the right to counsel established under the Sixth Amendment is intrinsically linked to the "same offense" doctrine highlighted in 532 U.S. 162, which outlines that offenses not formally charged can still be encompassed within the right to counsel if considered the same offense under the Blockburger test. Here, Smalls had an opportunity to assert his Miranda rights but effectively waived them by agreeing to the plea deal, which required full cooperation.
+
+Moreover, the Double Jeopardy Clause lends an additional layer to this analysis. In line with the principles articulated in 284 U.S. 299, where a single act resulting in violations of different statutory provisions can be separately prosecuted if each offense necessitates proof of a fact the other does not, Smalls's case involved separate substantive and procedural components. His plea agreement encompassed specifics, such as the acknowledgment of drug offenses, which provided grounds for distinct prosecutorial actions, thereby negating any claim of overlap.
+
+Conclusively, while Smalls's arguments touched on significant constitutional safeguards, his sentence's reliance on post-plea admissions and subsequent enhancements fall within established precedents. Thus, his Sixth Amendment rights were not violated, and the district court’s interpretation adheres to both 532 U.S. 162 and 284 U.S. 299 jurisprudence, reaffirming the procedural integrity of his sentencing.
+
+citations: ['532 U.S. 162', '284 U.S. 299']
+
+gold_text: . The Sixth Amendment — unlike the Fifth Amendment — is offense-specific, in that its invocation as to a pending offense would not preclude police from interrogating a suspect about an unrelated offense. See Texas v. Cobb, 532 U.S. 162, 173-74, 121 S.Ct. 1335, 149 L.Ed.2d 321 (2001) (holding that Sixth Amendment right to counsel encompasses only offenses that "would be considered same offense under the Blockburger test”) (citing Blockburger v. United States, 284 U.S. 299, 304, 52 S.Ct. 180, 76 L.Ed. 306 (1932) ("where the same act or transaction constitutes a violation of two distinct statutory provisions, the test to be applied to determine whether there are two offenses or only one, is whether each provision requires proof of a fact which the other does not”)). In this appeal, however, the Government makes no contention that the Stoeckle murder was a separate offense, under Blockburger, from the drug offenses with which Smalls was charged.
+
+label: 

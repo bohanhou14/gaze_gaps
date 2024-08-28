@@ -1,0 +1,13 @@
+**Generation:**
+
+The provisions of the Bill of Lading contracts in the present case distinctly stipulate that the consignor is not liable for the freight charges once the shipments are delivered to the consignee without prepayment, especially considering the non-recourse clause signed by the consignor. This is consistent with the judicial precedent set in Illinois Steel Co. v. Baltimore & Ohio R. Co., 320 U.S. 508, wherein the non-recourse provision in the Bill of Lading was upheld over the prepayment clause (320 U.S. 508 at p. 511). 
+
+Furthermore, the contractual obligation to pay freight charges, as inferred from the Bill of Lading, places primary liability on the party from whom the goods are received unless clearly rebutted by stipulations within the contract (Louisville & N. R. Co. v. Central Iron & Coal Co., 265 U.S. 59 at p. 67). Here, the Defendant-consignor explicitly relieved itself of liability through the non-recourse clause, and Plaintiff's failure to enforce the List’s prepayment requirement supports the enforceability of the Bill of Lading's non-recourse provision.
+
+Thus, based on the precedents in 320 U.S. 508 and 265 U.S. 59, interpreting the Bill of Lading as a contract that exonerates the consignor from liability when delivery is made without prepayment, this Court concludes that the Defendant is not liable for the freight charges under the established terms and Federal law governing interstate shipments.
+
+citations: ['320 U.S. 508', '265 U.S. 59']
+
+gold_text: Where a bill of lading containing a signed non-recourse clause has been executed and no provision is made for prepayment, the delivery of the consignment to the consignee and his acceptance thereof relieves the consignor of liability for freight charges. Illinois Steel Co. v. Baltimore & Ohio R. Co., supra, 320 U.S. 508, 64 S.Ct. 322, 88 L.Ed. 259 at p. 264, citing Louisville & N. R. Co. v. Central Iron & Coal Co., supra, 265 U.S. 59 at p. 66, note 3, 44 S.Ct. 441, 68 L.Ed. 900 at p. 902; see also Northern Pacific Ry. Co. v. Associated General Contractors, supra, and Reading Co. v. United States, 128 F.Supp. 745 at p. 747, 131 Ct.Cl. 44 (1955). And acceptance of the delivery establishes the liability of the consignee to pay all freight charges. Illinois Steel Co. v. Baltimore & Ohio R. Co., supra, 320 U.S. 508, 64 S.Ct. 322, 88 L.Ed. 259 at p. 264, citing Pittsburgh, C. C. & St. L. R. Co. v. Fink, 250 U.S. 577, 40 S.Ct. 27, 63 L.Ed. 1151 (1919). The List in this case has no effect on these legal principles and their application herein.
+
+label: 

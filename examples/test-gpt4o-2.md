@@ -1,0 +1,13 @@
+**Generation:**
+
+
+Furthermore, the claim of non-invention is supported by prior case law which emphasizes the necessity for innovative contribution beyond mere aggregation of pre-existing elements. In reference case 219 F.2d 952, the court determined that a patent merely combining old elements without producing a new function or result was not inventive. Similarly, reference case 106 F.2d 554 reinforces this stance by negating claims that don't advance the existing technical field in a substantive way.
+
+In the present case, Anderson '125's integration of a rotary cutter with spray guns to simultaneously deposit fiberglass and resin fails to constitute a novel invention as defined in these precedents. The combination of these elements, while potentially convenient, does not produce any unforeseen or novel functional results, reflecting the lessons from 219 F.2d 952 and 106 F.2d 554. Thus, the cumulative effect of prior art decisively points to the conclusion that the Anderson '125 patent lacks the necessary inventive step for patentability.
+
+
+citations: ['219 F.2d 952', '219 F.2d 952', '106 F.2d 554']
+
+gold_text: Turning now to the question of the validity of claim 11, the Anderson improvement patent No. 2,787,314 (hereinafter referred to as Anderson ’314), described in detail in the district court’s findings of fact, supra, we feel that its invalidity follows a fortiori from what has been said above. Having concluded that the Anderson ’125 patent is invalid and that its disclosure thus lies in the public domain, we must leave room for mechanical improvements thereto which increase its efficiency, economy of operation and usefulness; otherwise, we make an empty promise. The method and apparatus claimed by claim 11 of Anderson ’314 “would have been obvious at the time the invention was made to a person having ordinary skill in the art * * ” (35 U.S.C.A. § 103) upon perceiving that the strand roving fell to the ground when the operator stopped the machine. “[I]t is not invention to produce a device which is within the realm of performance of a skilled mechanic in the ordinary progress of producing a device to effectuate a given result.” Application of Demarche, 219 F.2d 952, 955, 42 CCPA 793 (Court of Customs and Patent Appeals, 1955). Again, our conclusions in this regard are influenced by the fact that so little time elapsed between the introduction of roving in strands and the application for Anderson’s main patent. Compare Forestek Plating & Mfg. Co. v. Knapp-Monarch Co., 106 F.2d 554, 557 (6 Cir. 1939) (validity of improvement patent upheld in light of prior, repeated unsuccessful efforts).
+
+label: 

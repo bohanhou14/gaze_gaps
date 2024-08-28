@@ -1,0 +1,204 @@
+**gold_text:**
+. McAllister v. United States, 348 U.S. 19, 75 S.Ct. 6, 99 L.Ed. 20; Bisso v. Waterways
+Transportation Company, 5 Cir., 235 F.2d 741, 1956 A.M.C. 1760.
+
+**Generations:**
+
+
+***GPT-4o:***
+In affirming the trial court's judgment, we draw upon principles established in the referenced legal
+precedents. As in McAllister v. United States, 348 U.S. 19, we recognize the significance of expert
+testimony and trial court findings when supported by substantial evidence. Here, the trial court's
+determination that both vessels were at fault is grounded in sound reasoning and factual evidence,
+much like in the polio infection case, where the District Court's findings were upheld despite
+uncertainties.  Furthermore, in alignment with United States v. Glidden Co., 235 F.2d 741, we accept
+the trial court's findings unless clearly erroneous. The trial court’s decision, based on extensive
+evidence and testimonies, demonstrated that the Velma Lykes violated the rule of special
+circumstance by failing to reduce speed for imminent collision risks. Similarly, the Anita D
+neglected her duty to navigate with caution given the potential for the Velma Lykes to alter her
+course towards the Houston Ship Channel.  Thus, consistent with judicial deference to trial courts
+in fact-finding as underscored in the aforementioned cases, we affirm the decision that both vessels
+share fault in the incident due to their failure to adhere to prudent navigational conduct under
+special circumstances.  Affirmed.
+
+
+**Label:** 7
+
+
+***Meta-Llama-3-8B-Instruct:***
+  The cases provided are reference cases for legal proceedings. Case 348 U.S. 19 is a landmark case
+that discusses the concept of negligence in the context of a ship collision. In this case, the court
+held that the respondent was negligent in permitting Chinese passengers to board the ship, which led
+to the petitioner contracting polio. The court found that it was reasonable to infer that the
+Chinese passengers were the carriers of the polio virus and that they contaminated the petitioner.
+Similarly, Case 235 F.2d 741 discusses the concept of trial de novo and the importance of the trial
+court's findings. The court holds that the trial court's findings are not clearly erroneous and that
+the owners of both vessels are appealing the decision.  In analyzing the case at hand, we can apply
+the principles discussed in these reference cases. In the present case, the Anita D and the Velma
+Lykes collided in the Houston Ship Channel. The trial court found both vessels at fault for the
+collision. We agree with the trial court's decision, but we arrive at it through a different route.
+The situation presented to the Anita D and the Velma Lykes was not a crossing situation, but rather
+a situation that required caution and prudence. Both vessels were aware of the possibility of
+collision and failed to take necessary precautions. The Anita D knew that the Velma Lykes might take
+the Houston fork of the channel and would thereby place herself on a collision course with the Anita
+D. Similarly, the Velma Lykes knew that when she came to the vee, she would adjust her course to run
+the Houston Ship Channel and would thereby place herself on a collision course with the Anita D.  In
+conclusion, the case at hand is a classic example of a situation that requires caution and prudence.
+Both vessels were aware of the possibility of collision and failed to take necessary precautions.
+The trial court's decision is affirmed, and the owners of both vessels are found liable for the
+collision.
+
+
+**Label:** 7
+
+
+***Meta-Llama-3-8B-Instruct-finetuned:***
+  . The rule of special circumstance is discussed in McAllister v. United States, 348 U.S. 19, 75
+S.Ct. 6, 99 L.Ed. 20, 1954 A.M.C. 1999. See also, 235 F.2d 741. The rule of special circumstance is
+not a rule of the sea but a rule of evidence. It is a rule of evidence which requires that in
+certain situations, a court must find that a party was negligent even though there is no direct
+evidence of negligence. The rule of special circumstance is applied when a court is faced with a
+situation in which there is no direct evidence of negligence but in which it is reasonable to infer
+negligence from the circumstances. The rule of special circumstance is applied in situations in
+which the parties have a duty to exercise ordinary care. The rule of special circumstance is applied
+in situations in which a party has a duty to exercise ordinary care. The rule of special
+circumstance is applied in situations in which a party has a duty to exercise ordinary care. The
+rule of special circumstance is applied in situations in which a party has a duty to exercise
+ordinary care. The rule of special circumstance is applied in situations in which a party has a duty
+to exercise ordinary care. The rule of special circumstance is applied in situations in which a
+party has a duty to exercise ordinary care. The rule of special circumstance is applied in
+situations in which a party has a duty to exercise ordinary care. The rule of special circumstance
+is applied in situations in which a party has a duty to exercise ordinary care. The rule of special
+circumstance is applied in situations in which a party has a duty to exercise ordinary care. The
+rule of special circumstance is applied in situations in which a party has a duty to exercise
+ordinary care. The rule of special circumstance is applied in situations in which a party has a duty
+to exercise ordinary care. The rule of special circumstance is applied in situations in which a
+party has a duty to exercise ordinary care. The rule of special circumstance is applied in
+situations in which a party has a duty to exercise ordinary care. The rule of special circumstance
+is applied in situations in which a party has a duty to exercise ordinary care. The rule of special
+circumstance is applied in situations in which a party has a duty to exercise ordinary care. The
+rule of special circumstance is applied in situations in which a party has a duty to exercise
+ordinary care. The rule of special circumstance is applied in situations in which a party has a duty
+to exercise ordinary care. The rule of
+
+
+**Label:** 
+
+
+**citations:** ['348 U.S. 19', '235 F.2d 741']
+
+***short_citations_0:*** 348 U.S. 19
+
+soldiers, truck drivers and mechanics who came aboard the ship. According to the expert testimony, polio usually does not occur unless there have been previous cases of the disease or contact with persons who have it. The petitioner had an uneventful trip of months before reaching the Orient with individuals who had no polio; then suddenly he is thrown in contact with Chinese from the Shanghai area where polio is prevalent, and thereafter, within the normal period of incubation, he comes down with the disease. On evidence showing these facts, including the opinion of the experts, we think there was substantial evidence from which the District Court could and did find that respondent was negligent in permitting these Chinese, from the infested area of Shanghai, to have the run of the ship and use of its facilities, and in furnishing the crude and exposed latrine provided on the deck of the ship, by reason whereof the petitioner contracted polio. Of course no one can say with certainty that the Chinese were the carriers of the polio virus and that they communicated it to the petitioner. But upon balance of the probabilities it seems a reasonable inference for the District Court to make from the facts proved, supported as they were by the best judgment medical experts have upon the subject today, that petitioner was contaminated by the Chinese who came aboard the ship November 11, 1945, at Shanghai. Certainly we cannot say on review that a judgment based upon such
+
+***short_citations_1:*** 235 F.2d 741
+
+printed pages of testimony from some twenty-five witnesses, a good portion of whom gave evidence by deposition. The scope of this record, the somewhat complex technical problems involved, and the inevitable running advocacy to which a Judge is properly exposed as a case is being presented, whether with live or printed swearers, illustrates the inherent soundness in a rule which commits to Trial Judges the trying and finding of facts and those significant inferences which come from them. Whatever vestigial power remains to invoke trial de novo, McAllister v. United States, 348 U.S. 19, 75 S.Ct. 6, 99 L.Ed. 20, 1954 A.M.C. 1999; Taylor v. Crain, 3 Cir., 224 F.2d 237, 238, 1955 A.M.C. 1499; cf. Coyle Lines v. United States, 5 Cir., 195 F.2d 737, 1952 A.M.C. 715; Coryell v. Phipps, 5 Cir., 128 F.2d 702, 1942 A.M.C. 906, affirmed 317 U.S. 406, 63 S.Ct. 291, 87 L.Ed. 363, 1943 A.M.C. 18, this is certainly not a case in which to seek out or apply its limits. We start, therefore, with willing acceptance of the Trial Court’s findings unless clearly erroneous. C. J. Dick Towing Co. v. Leo, 5 Cir., 202 F.2d 850, 1953 A.M.C. 498; Mississippi Valley Barge Line Co. v. Indian Towing Co., 5 Cir., 232 F.2d 750, 1956 A.M.C. 757; Societa Anonima Navigazione Alta Italia v. Oil Transport Co. (The Mongioia), 5 Cir., 232 F.2d 422; see, Galena Oaks Corp. v. Scofield, 5 Cir., 218 F.2d 217. The channel in Southwest Pass runs southwest-northeast between two
+
+**prev_text:**
+J. SKELLY WRIGHT, District Judge. On July 21, 1951 appellee’s barge, CC-204, the second of a two-
+barge tow being pushed by the Tug Anita D, was in collision with the SS Velma Lykes in the Houston
+Ship Channel. The able and experienced trial court, whose Findings of Fact are not clearly
+erroneous, held both the Tug Anita D and the SS Velma Lykes to blame for the collision, and the
+owners of both vessels are here appealing. From seaward a dredged channel enters Galveston Bay.
+After passing Galveston, this channel makes a vee, the left-hand fork being known as the Texas City
+Channel, and the right-hand fork the Houston Ship Channel. The course of the channel for
+approximately one mile before reaching the vee is 298°. The course of the Texas City Channel leaving
+the vee is 298°, and the course of the Houston Ship Channel leaving the vee is. 318°. At the time
+the vessels first came in sight of each other, the Anita D, having turned to port out of the Texas
+City Channel, was in the open bay on a course, approximately 050°, perpendicular to the Houston Ship
+Channel. She was intent on crossing the Houston Ship Channel and picking up the Intracoastal
+Waterway in the vicinity of Port Bolivar. The Velma Lykes at that time was on course 298° in the
+dredged channel before reaching the vee. The Anita D’s engines were on full speed ahead making good
+four to five knots over the ground, while the Velma Lykes also was full speed ahead, making good 14
+knots over the ground, with slightly flooding tide. When the Velma Lykes reached the vee in the
+channel, she changed her course to 318° to head for Houston via the Houston Ship Channel. The
+witnesses from the Anita D testified that immediately they saw the Velma shape her course for the
+Houston Ship Channel, the Anita D’s engines were ordered full speed astern. The Anita D testified
+further that, being at that time only 600 feet from the westerly edge of the Houston Ship Channel,
+which channel was an additional 500 feet wide, she was unable to stop her tow before the second
+barge thereof was struck amidship by the Velma Lykes at the extreme easterly side of the channel.
+She claims that the only signals she heard from the Velma Lykes, other than a long single blast when
+the Velma Lykes was adjusting her course to starboard to enter the Houston Ship Channel, were danger
+signals and that she returned them. The witnesses from the Velma Lykes testified that after she was
+in the Houston Ship Channel approximately one quarter of a mile she sounded a one-blast signal to
+indicate that, as the favored vessel in a starboard hand crossing situation, she would maintain her
+course and speed, that there was no answer to that signal so she repeated it, that there was still
+no answer, so she then sounded two or three danger signals. The Velma Lykes also testified that two
+and one-half minutes before the collision, when it became apparent that the Anita D was not going to
+give way as required by the rule, she reversed her engines and ■sought the extreme starboard side of
+the channel, that in a further attempt to arrest her forward progress, she let go both anchors but
+that in spite of all of her efforts, her bow came into collision with the second barge of the tow on
+the extreme starboard side of the channel at a point approximately 1.3 nautical miles north of the
+vee. The trial court held the Anita D at fault for failure to comply with her obligation under the
+starboard hand rule to give way to a vessel on her own starboard hand in a crossing situation. The
+trial court did not credit the Anita D’s testimony to the effect that she reversed her engines
+immediately on seeing the Velma Lykes shape her course up the Houston Ship Channnel. The trial court
+found the Velma Lykes at fault for pressing her privilege in a crossing situation into a collision.
+The trial court found that the Velma Lykes held her course and speed long after it should have been
+apparent to her that the Anita D was not going to give way. While we agree with the result reached
+by the trial court, we arrive by a different route. The situation which presented itself to these
+two vessels at the time they came in sight of each other, and began to navigate with respect to each
+other, was not a crossing situation calling for the application of the star board hand rule. At that
+time the Velma Lykes was not on a course that could be definitely ascertained by the Anita D. As a
+matter of fact, she was approaching a vee in the channel which gave her a choice. If she were to
+take the Texas City Fork, there would, of course, be no danger of collision because she would then
+pass well astern of the Anita D. But if she took the Houston fork, the danger of collision would
+immediately arise since the vessels would then be proceeding full speed ahead on collision courses a
+little more than a mile apart. Consequently, even though the starboard hand rule is not applicable
+and the Velma Lykes was not the favored vessel in a crossing situation, by application of the rule
+of special circumstance, which in our judgment does apply here, the Anita D must be held at fault
+for she knew, admittedly, there was a possibility, if not a probability that the Velma Lykes would
+take the Houston fork of the channel and would thereby place herself on a collision course with the
+Anita D. Such knowledge immediately required the Anita D to nagivate with caution by reduction of
+speed or change in heading to prepare for that possibility. Instead, she continued full speed ahead
+with rudder amidship right across the channel and the path of the Velma Lykes. The Velma Lykes is in
+at least as bad a position with reference to fault as is the Anita D. Unlike the Anita D, she knew
+that when she came to the vee she would adjust her course to run the Houston Ship Channel. She was
+bound to know, therefore, that she would then be on a collision course with the Anita D slightly
+more than a mile away. Ordinary prudence in those circumstances, as well as the rule of special
+circumstance, required that she reduce her speed to avoid the collision that was waiting for her
+unless she did. Adjusting her course to starboard and thereby setting up a crossing situation with
+the Anita D gave her no privilege whatever. She was bound to know that the Anita D could not divine
+her eventual course before she reached the vee. She should have prepared for the possibility that
+the Anita D would assume that the Velma Lykes would continue on her same heading up the Texas City
+Channel rather than adjust her heading to starboard to run the Houston Ship Channel. The Velma Lykes
+should also have realized that, after she entered the Houston Ship Channel, there would be neither
+time nor space for the vessels to navigate with safety under the starboard hand rule. The situation
+was one which called for caution, not speed, on the part of both vessels. It was a situation
+squarely covered by the rule of special circumstance. As a matter of fact, the present treatment of
+the situation by the Velma Lykes as a crossing situation seems to be an afterthought. Apparently her
+navigators at the time did not so consider it. Neither her deck log nor her deck bell book made
+reference to a crossing situation until they were tampered with, long after the collision, by
+interlineation of the word “crossing” into otherwise nondescript entries. Moreover, there is no
+reference in her log or her deck bell book to the making of single whistle signals as required of a
+favored vessel in a starboard hand situation. The only reference in the log and the deck bell book
+to signals in connection with this collision are identical entries reading “repeated danger signal
+to tow ahead, no answer,” which entries were subsequently changed by interlineation of the word
+“crossing” between the words “tow” and “ahead” to make them conform to the vessel’s present position
+in this litigation. The fact that the Velma Lykes has tampered with her log casts a cloud of
+suspicion over her entire case. This ■cloud is darkened by the testimony of the master regarding the
+sounding of two single whistle signals, the second after the first was unanswered, to advise the tug
+that in the crossing situation which presented itself, the Velma would hold her course and speed. In
+his letter report to the Coast Guard written on the ■day of the collision, the master makes no
+reference whatever to a starboard hand situation or to the sounding of single whistle signals. He
+writes only of sounding danger signals. Two days after the collision the master was apparently still
+unaware of a starboard hand situation or of sounding single whistle signals because in a sworn
+statement to the Coast Guard, he mentioned neither. How the master was able to remember these things
+over three years after the collision, at the time his deposition was taken for the trial of this
+case, is not disclosed. Certainly his recollection was not refreshed by the copy of the deck bell
+book of the Velma Lykes, produced during the taking of his deposition, because again the reference
+there was only to the sounding of danger signals, with no reference whatever to single whistle
+signals or crossing situation. In short, the master’s testimony in this regard appears to be the
+result of inspiration subsequent to the collision rather than observation at the time thereof. In
+view of the unusual and uncertain situation confronting the Anita D and the Velma Lykes when those
+vessels first began to navigate with respect to each other, the rule of special circumstance
+required both vessels to reduce speed and proceed with caution. Instead of complying with their
+obligation under the rule, both vessels pressed doggedly on, full speed ahead, into the jaws of
+collision. The truth of the matter is, and the cause of this collision was, that neither vessel was
+navigating with respect to any rule. The Anita was intent only upon beating the Velma Lykes across
+the channel and the Velma Lykes was intent on blowing her out of the way. Affirmed. . The overall
+length of the tow and tug was approximately 450 feet. . The Velma Lykes was a seagoing steamer 435
+feet in length. . 155 F.Supp. 691.
+
+

@@ -1,0 +1,13 @@
+**Generation:**
+
+Defendant further argues that evidence obtained during the subsequent search of his vehicle should have been suppressed because the initial stop was executed improperly and lacked probable cause. However, as established in case 376 F.3d 577, even during a valid Terry stop, probable cause can emerge from circumstances observed during the stop, such as the smell of marijuana. In this case, Officer McCoy detected the raw odor of marijuana upon approaching the vehicle, providing him with probable cause to search without a warrant, akin to United States v. Garza, 10 F.3d 1241, where the discovery of marijuana during a stop justified the warrantless vehicle search. 
+
+Moreover, similar to the circumstances in Garza, where Reymundo Garza's surveillance led to his lawful detention and subsequent search (10 F.3d 1241 at 1246), the search of Terrell’s vehicle was transformed from a lawful stop to a lawful search upon the detection of marijuana odor. This probable cause validated the seizure of the firearm and marijuana found in the vehicle, aligning with the conclusion drawn in the district court's ruling in 376 F.3d 577.
+
+Consequently, the district court did not err in denying defendant’s motions to suppress the evidence. The officer’s detection of marijuana provided sufficient probable cause, rendering the stop and subsequent search constitutional according to the precedents set by 376 F.3d 577 and 10 F.3d 1241.
+
+citations: ['376 F.3d 577', '10 F.3d 1241']
+
+gold_text: The district court credited Officer McCoy’s testimony that he smelled raw marijuana and observed both air fresheners and cell phones in the backseat of the automobile, all of which are indicators of drug trafficking. These observations gave Officer McCoy probable cause to search the vehicle. In fact, this court has noted on various occasions that the odor of drugs in a vehicle is sufficient to establish probable cause to search that vehicle. See United States v. Foster, 376 F.3d 577, 583-84 (6th Cir.2004); United States v. Garza, 10 F.3d 1241, 1246 (6th Cir.1993) (“[W]e find that Agent Perman’s smelling the marijuana then constituted probable cause to believe that there was marijuana in the vehicle. Once this probable cause existed, a search warrant was not necessary.”). Because Officer McCoy had probable cause to search the vehicle after his initial encounter with defendant, the defendant’s later statement about the existence of a firearm is superfluous to our analysis.
+
+label: 

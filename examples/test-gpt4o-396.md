@@ -1,0 +1,13 @@
+**Generation:**
+
+Additionally, Steel argues that section 1927 does not apply to the initial pleadings since it only addresses the multiplication of proceedings, which can occur only after the complaint is filed (Reference case 796 F.2d 1165). The district court had outlined a significant number of pre-trial misconducts by Yagman that fell under discovery abuses and failure to prepare for Rule 16 management. However, the sanctions for such discovery abuses are governed by Rules 26(g) and 37 of the Federal Rules of Civil Procedure, not by Rule 11 or section 1927. Such comprehensive rules leave no room for a discovery abuse sanction based on a local rule violation (Reference case 796 F.2d 1165).
+
+Moreover, the magistrate judge imposed sanctions despite the complexity regarding the legality of actions which might have influenced the parties' misunderstanding. Such complexities do not necessarily absolve the parties of responsibility if their actions clearly contravene known legal standards (Reference case 803 F.2d 1085). Therefore, the district court correctly applied Rule 37 sanctions for Steel's failure to comply with discovery orders and recognized that the action remained pending despite the dismissal of the complaint with leave to amend.
+
+In summary, while the court properly imposed sanctions under Rule 37 for discovery violations, it incorrectly extended such sanctions to the motion for reconsideration. Thus, the sanctions relating to the initial discovery failures are affirmed, but the additional sanctions for the motion for reconsideration are overturned, aligning with the boundaries set by Rule 37 and the interpretations in Reference case 796 F.2d 1165 and 803 F.2d 1085.
+
+citations: ['796 F.2d 1165', '803 F.2d 1085']
+
+gold_text: The magistrate judge’s sanction order for the motion for reconsideration may have been proper pursuant to Rule 11, but the magistrate judge only identified Rule 37 as the basis for the sanctions. The imposition of Rule 11 sanctions requires both notice and that the award be “properly itemized in terms of the perceived misconduct and the sanctioning authority.” In re Yagman, 796 F.2d 1165, 1183-84 (9th Cir.), as amended, 803 F.2d 1085 (9th Cir.1986), cert. denied, 484 U.S. 963, 108 S.Ct. 450, 98 L.Ed.2d 390 (1987). Because neither was provided, the award for the sanctions may not be sustained pursuant to Rule 11. Because we find no support in the record for the imposition of sanctions for the motion for reconsideration, we reverse this portion of the award.
+
+label: 

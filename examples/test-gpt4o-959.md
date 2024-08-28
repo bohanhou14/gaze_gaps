@@ -1,0 +1,13 @@
+**Generation:**
+
+In evaluating the sufficiency of the evidence against the appellants, it is essential to consider the principle that the uncorroborated testimony of an accomplice is sufficient to support a conviction if it is not inherently incredible or unsubstantial (United States v. Prentiss, 5 Cir., 1971, 446 F.2d 923; 466 F.2d 1147). Teresa's testimony, although critical, does not meet the threshold of being facially unbelievable and thus supports the conviction.
+
+Moreover, the conversations recorded post-offense concerning the conspiracy’s proceeds do not fall outside the conspiracy’s ambit. The conspiracy continues until the crime’s fruits are disposed of (United States v. Sopher, 7 Cir., 1966, 362 F.2d 523; 307 F.2d 937). Hence, objections to the admissibility of these conversations on termination grounds are unfounded.
+
+Furthermore, the trial court's failure to give advance limiting instructions must be assessed for plain error. Since the independent evidence of appellants' involvement was substantial and credible, any error in admitting the tapes without instructions was harmless (508 F.2d 566; 328 U.S. 640). Therefore, the appellants' rights were not substantially affected, and the convictions are affirmed.
+
+citations: ['466 F.2d 1147', '307 F.2d 937', '328 U.S. 640']
+
+gold_text: Two other questions concern only Rivera Diaz and Cautino Jordan. First, they contend that the conspiracies with which they were charged terminated before the time of the conversation between Colon Echevarria and Alberto Guerrero, and that the tape of that conversation should for that reason not have been admitted against them. But, as we have already established, the proof at trial was of a single, ongoing conspiracy to import marihuana and distribute it in Puerto Rico. There was ample evidence that at the time of the taped conversation Colon Echevarria and Olivero at least were still actively engaged in the process of paying off the Colombians from the proceeds of distribution. Since the fruits of the crime were still being divided, the conspiracy was not yet over, e. g., United States v. Iacovetti, 466 F.2d 1147, 1153 (5th Cir. 1972), cert. denied, 410 U.S. 908, 93 S.Ct. 963, 35 L.Ed.2d 270 (1973); Atkins v. United States, 307 F.2d 937, 940 (9th Cir. 1962), and there was no affirmative showing that either Rivera Diaz or Cautino Jordan had withdrawn, e. g., Pinkerton v. United States, 328 U.S. 640, 646, 66 S.Ct. 1180, 90 L.Ed. 1489 (1946).
+
+label: 

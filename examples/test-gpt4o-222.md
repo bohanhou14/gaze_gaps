@@ -1,0 +1,13 @@
+**Generation:**
+
+Masupha’s retaliation claim also lacks the necessary temporal proximity and causal connection between her protected activities and the adverse employment action. In **Johnson v. Univ. of Wis.-Eau Claire, 70 F.3d 469, 480 (7th Cir.1995)**, the court held that a substantial time lapse between the protected activity and the adverse employment action serves as counter-evidence of any causal connection. Similarly, in **Oest v. Illinois Department of Corrections, 240 F.3d 605, 616 (7th Cir.2001)**, the court found dispositive a time lapse of more than a year between the EEOC complaint and the alleged retaliatory action. Here, Masupha filed her EEOC complaints in 2001 and 2004, and her suspension occurred in 2005, making the temporal gap too substantial to support a causal link.
+
+Further, Masupha fails to establish that the employer’s reasons for her suspension were pretextual. In **Filipovic v. K & R Exp. Systems, Inc., 176 F.3d 390, 398 (7th Cir.1999)**, the court emphasized that a substantial time lapse between the EEOC complaint and the adverse action discounts a causal connection. Moreover, in **Samuelson v. Durkee/French/Air-wick, 976 F.2d 1111, 1115 (7th Cir.1992)**, it was noted that such a temporal gap can serve as counter-evidence to retaliation claims. Here, those precedents similarly undermine Masupha’s claim, given the significant gaps between her complaints and suspension.
+
+Accordingly, Masupha’s retaliation claim fails for lack of evidence of a causal connection and similarity to other employees, leading the Court to grant Mineta’s Motion for Summary Judgment.
+
+citations: ['70 F.3d 469', '240 F.3d 605', '202 F.3d 913', '176 F.3d 390']
+
+gold_text: Moreover, Masupha failed to put forth evidence that her suspension was causally connected to her previously filed EEO complaints. Masupha filed complaints in August 2001, November 2004, and May 2005 and Masupha was suspended in September 2005. Johnson v. University of Wisconsin-Eau Claire, 70 F.3d 469, 480 (7th Cir.1995) (A “substantial time lapse ... is counter-evidence of any causal connection.”); Oest v. Illinois Dep’t of Corrections, 240 F.3d 605, 616 (7th Cir.2001) (time lapse of one year constitutes counter-evidence of any causal connection between protected activity and retaliation); accord Sauzek v. Exxon Coal USA, Inc., 202 F.3d 913, 918-19 (7th Cir.2000) (three months); see Filipovic v. K & R Express Sys., Inc., 176 F.3d 390, 399 (7th Cir.1999) (four months). Masupha cannot prevail on her retaliation claim and Defendant is entitled to judgment as a matter of law.
+
+label: 

@@ -1,0 +1,9 @@
+**Generation:**
+
+ Yes, that's correct! I'm here to assist you with any questions or topics you'd like to discuss. What's on your mind today? Do you have a specific question or topic you'd like to explore? I'm all ears!
+
+citations: ['30 F.3d 310', '988 F.2d 568', '944 F.2d 526']
+
+gold_text: Moreover, while Massachusetts courts have not had occasion to apply the doctrine of unjust enrichment to the federal government under this set of circumstances, federal courts have held that the doctrine is applicable where the federal government is concerned; and in several instances, have restored state created liens to their intended positions without regard for the United States’ potential loss of priority under federal law. See United States v. McCombs, 30 F.3d 310, 333 (2d Cir.1994) (holding that where government ran afoul of notice requirements of federal statute governing priority between federal tax liens and interests of subsequent purchasers, to deny subsequent holder of security interest priority over tax lien would allow government to “leap frog” the interests vested in two prior mortgage liens and would represent “a classic example of unjust enrichment”); Dietrich Indus., Inc. v. United States, 988 F.2d 568, 573 (5th Cir.1993) (holding that where purchaser who paid vendor’s senior mortgage debt as part of purchase transaction with expectation that property was free of additional encumbrances, to deny equitable subrogation remedy “would give the government- an unearned windfall in that it would elevate the government’s liens for no good reason”); Han v. United States, 944 F.2d 526, 530 n. 3 (9th Cir.1991) (holding that where purchasers of residential property paid off and discharged priority position lender unaware that additional federal tax lien attached to property, to require the purchasers to pay a portion of the taxpayer’s delinquent taxes would “unjustly enrich” and “produce a windfall” in favor of the United States).
+
+label: 

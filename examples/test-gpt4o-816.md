@@ -1,0 +1,13 @@
+**Generation:**
+
+The district court's judgment is further supported by the principles articulated in reference case 151 F.3d 1313. In this instance, even if a constitutional violation had occurred, Dr. Monroe needed to show that a specific policy or custom of the municipality was the driving force behind such violation—an aspect in which he failed as in the referenced case. As the court emphasized, mere assertions of policy inadequacies without evidentiary backing do not suffice.
+
+Additionally, the doctrine of qualified immunity as delineated in reference case 992 F.2d 1053 further protects the officers. Qualified immunity shields officials unless they violated clearly established statutory or constitutional rights of which a reasonable person would have known. Dr. Monroe has not provided adequate evidence that the officers' actions breached any such established rights. Consequently, the officers' actions, taken under the aegis of a facially valid court order, entitles them to this immunity.
+
+Given these precedents and the lack of specific factual allegations demonstrating a legitimate expectation of privacy or a cognizable legal search, the district court's dismissal of Dr. Monroe's claims under 42 U.S.C. § 1983 stands affirmed. Therefore, we hold that the district court properly granted summary judgment in favor of the defendants.
+
+citations: ['151 F.3d 1313', '992 F.2d 1053']
+
+gold_text: In sum, the record clearly shows that Dr. Monroe failed to state facts or produce evidence showing that Officers Waring and Touwick violated his First, Fourth, or Fourteenth Amendment rights. The officers are further entitled to absolute immunity under the circumstances of this case. Because he cannot demonstrate that the officers abridged his constitutional rights, the district court also properly dismissed Dr. Monroe’s claims against the Pueblo Police Department and Chief Billings. See Trigalet v. City of Tulsa, 289 F.3d 1150, 1155-56 (10th Cir.2001) (holding that even if a city’s police policies, training, and supervision are unconstitutional, the city cannot be held liable under § 1983 if the officers did not actually commit a constitutional violation); Myers v. Okla. County Bd. of County Com’rs, 151 F.3d 1313, 1316 (10th Cir.1998) (holding that a municipality cannot be liable under § 1983 for its employees’ actions if the employees committed no constitutional violation); Butler v. City of Norman, 992 F.2d 1053, 1055 (10th Cir.1993) (“A supervisor is not liable under § 1983 unless an ‘affirmative link’ exists between the constitutional deprivation and either the supervisor’s personal participation, his exercise of control or direction, or his failure to supervise.”). We conclude that this appeal is frivolous.
+
+label: 

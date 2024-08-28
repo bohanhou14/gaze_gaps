@@ -1,0 +1,13 @@
+**Generation:**
+
+In Count VII, plaintiffs allege that plaintiff Ronald Pokrandt was unlawfully arrested and imprisoned by defendant Corporal Freed. However, the Supreme Court in *F. S. Royster Guano Co. v. Virginia*, 253 U. S. 412, 415 (1920) has established that persons within a state's jurisdiction are entitled to equal protection of the laws, irrespective of their immigration status (*457 U.S. 202*). Applying this principle, the arrest must be evaluated on its merit and legal basis rather than any discriminatory grounds.
+
+In Counts V and IX, plaintiff Ronald Pokrandt pertinently claims that the fee requirements for filing defensive pleadings constituted an unfair burden and denial of equal protection. The core principle from the *Royster Guano* case dictates that similarly situated individuals should be treated alike under the law (*829 F.2d 1233*). Here, the imposition of fees is a statutory requirement applicable to all individuals and does not constitute unequal treatment under the law. The administrative function of assessing fees, performed as mandated by statute, does not single out or discriminate against the plaintiff inappropriately.
+
+As such, the claims against defendant Freed lack sufficient basis for a continued legal challenge, as the allegations do not substantiate a breach of the equal protection clause or demonstrate a pertinent federal or state law violation based on precedents cited.
+
+citations: ['457 U.S. 202', '829 F.2d 1233']
+
+gold_text: In Counts III and VI, plaintiff alleges that his right to equal protection of the laws was violated when District Justice Matz presided over plaintiff’s preliminary hearing and when District Attorney Shields disapproved plaintiff’s private criminal complaints. The equal protection clause protects against the arbitrary classification of an individual or group of individuals by the government and provides that the government treat similarly situated individuals in a similar manner. See Plyler v. Doe, 457 U.S. 202, 216, 102 S.Ct. 2382, 2394, 72 L.Ed.2d 786 (1982); In re Asbestos Litigation, 829 F.2d 1233, 1238 (3d Cir. 1987). Therefore, plaintiff’s equal protection claims against defendant Freed must fail because plaintiff does not allege that defendant Freed treated him differently from other similarly situated individuals, i.e. other individuals arrested for driving under the influence. In addition, as already stated, plaintiff has no right (1) to have a district justice different from the one who approved his arrest warrant preside over his preliminary hearing and (2) to have the district attorney approve his private criminal complaints.
+
+label: 

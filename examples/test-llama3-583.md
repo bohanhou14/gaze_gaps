@@ -1,0 +1,14 @@
+**Generation:**
+
+
+The Posse Comitatus Act is a federal law that restricts the ability of the United States military from domestic law enforcement. In the case of United States v. Hutchings, 127 F.3d 1255, the court held that the National Guard was not in federal service when it was used to intercept a drug shipment, and therefore, the Posse Comitatus Act did not apply. Similarly, in United States v. Benish, 5 F.3d 20, the court held that the National Guard was not in federal service when it was used to intercept a marijuana cultivation operation, and therefore, the Posse Comitatus Act did not apply.
+
+In the case of Clark v. United States, the court held that a member of the National Guard is entitled to compensation under 37 U.S.C. § 206(a) for mandatory correspondence courses that he took as a member of the Alabama National Guard. The court held that the member was not in federal service at the time he took the courses, and therefore, the language of 37 U.S.C. § 206(a) applied.
+
+In conclusion, the Posse Comitatus Act and 37 U.S.C. § 206(a) have different requirements and exceptions. The Posse Comitatus Act restricts the ability of the United States military from domestic law enforcement, while 37 U.S.C. § 206(a) provides compensation to members of the National Guard for mandatory correspondence courses. The court's decision in Clark v. United States illustrates the distinction between the two laws and the importance of carefully reviewing the language and requirements of each law in a given situation. 
+
+citations: ['127 F.3d 1255', '5 F.3d 20']
+
+gold_text: The Posse Comitatus Act also supports the proposition that membership in a state National Guard and in the National Guard of .the United States represent different activities. The Posse Comitatus Act prohibits the use of “any part of the Army or Air Force as a posse comitatus or otherwise to execute the laws.... ” 18 U.S.C. § 1385. The Act has been uniformly interpreted to apply to National Guard members only when they are in federal service and not when they are in service to their states. United States v. Hutchings, 127 F.3d 1255, 1257-58 (10th Cir.1997) (“But until a Guardsman receives orders directing him into federal service, he is a state serviceman, and not a part of the federal Army.”); United States v. Benish, 5 F.3d 20, 25-26 (3d Cir.1993) (holding that Pennsylvania National Guard members could be used for civilian law enforcement because they were not in federal service at the time). Case law thus establishes that when National Guard members are not activated into federal service, they are not treated as federal employees. To include a National Guard member in a reserve component for the purposes of section 206(d) when he is in service to the state National Guard would be to treat that member as a federal employee, and not as a state serviceman, and would be contrary to that law.
+
+label: 

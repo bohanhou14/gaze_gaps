@@ -1,0 +1,13 @@
+**Generation:**
+
+The trial court’s instruction on abandonment essentially followed the principles outlined in Denison Mattress Factory v. Spring-Air Co., 308 F.2d 403, which highlighted that a trademark owner’s failure to exercise control and supervision over the licensee’s use of the mark might lead to estoppel. However, in this context, it focuses on whether Sweetheart's inaction towards other infringers like Formfit and Douglas Stephens led to an implied abandonment of their rights.
+
+Acts that are generally sufficient to establish abandonment—as noted in Northern Pac. Ry. Co. v. United States and subsequent cases like Saxlehner v. Eisner & Mendelson Co., 179 U.S. 19—can be negated by explaining an actual intent not to relinquish the rights. This is further supported by 486 F.2d 114, where the lack of control and supervision over an extended period may preclude the trademark owner from later contesting usage. Given Sweetheart’s proactive measures against several infringers were documented, the nuanced application of these principles indicates that the trial court may have erred in its wholesale application of abandonment.
+
+In summary, evidence relating to Sweetheart's actions towards other infringers should have been carefully weighed to discern between mere delay and genuine abandonment of trademark rights. The misstep in the jury instruction and subsequent handling of the abandonment defense forms a basis for reversal and remand for a retrial.
+
+citations: ['308 F.2d 403', '486 F.2d 114', '179 U.S. 19']
+
+gold_text: On the other hand, two of the cases relied on by Detroit, Denison Mattress Factory v. Spring-Air Company, 308 F.2d 403 (5th Cir.1962); Sheila’s Shine Products, Inc. v. Sheila Shine, Inc., 486 F.2d 114 (5th Cir.1973) are of no help in determining this issue. Those cases merely recognize the rule that a trademark owner’s uncontrolled or “naked” licensing of a mark may result in the trademark ceasing to function as a symbol of quality and controlled origin, which has been characterized as abandonment. This rule of uncontrolled licensing of a trademark is inapplicable to the instant case as no evidence of licensing has been presented. The other case relied on by Detroit, Saxlehner v. Eisener & Mendelson Co., 179 U.S. 19, 21 S.Ct. 7, 45 L.Ed. 60 (1900) does note the remedial actions taken by a trademark owner against other infringers in its discussion of abandonment; however, Saxlehner is factually distinguishable from the instant case because in Saxlehner the plaintiff’s mark “Hunyadi” was found to have become the generic name in this country for a type of water after others had used the name for twenty years without being sued by the plaintiff.
+
+label: 

@@ -1,0 +1,17 @@
+**Generation:**
+
+In addressing the issues before this Court, it is essential to consider the key principles derived from similar cases. Firstly, the notion of amendments to proofs of claim, as governed by bankruptcy courts, is well established, permitting discretionary allowances under certain conditions. For example, in the case of *In re Kolstad*, the court clarified that amendments to existing claims could be allowed even after the bar date, provided it was not an entirely new claim but rather an augmentation of the initial claim's facts and figures (see 928 F.2d 171).
+
+Moreover, as highlighted in *Matrix's* case (286 B.R. 612), the court emphasized that the claimant must exhibit a clear intention for an amendment and offer supporting evidence. Green Tree, however, did not supply compelling arguments or show that SPS's amendments (Claim # 18-3) represented a fundamental change. Instead, it merely sought to rectify and elaborate on the documentation initially missing, akin to the permitted amendments discussed.
+
+Additionally, *Regions* case (259 B.R. 580) instructs that the courts are reluctant to exercise equitable discretion to alleviate sophisticated entities from their procedural missteps unless extraordinary justification is provided. Here, Green Tree’s persistent inaction and delayed objections fail to merit leniency as per these precedents.
+
+Lastly, the principle elucidated in *In re Frascatore* (928 F.2d 171) reinforces that an amendment must not introduce new claims but rather adjust the existing ones. SPS’s actions align with this principle by detailing and substantiating the initial claim rather than asserting novel demands.
+
+Given these precedents, the amendments made by SPS should be viewed as valid attempts to clarify and support the original claim, not as procedurally barred new claims. Therefore, on remand, the Bankruptcy Court should give due consideration to Claim # 18-3 under these principles.
+
+citations: ['286 B.R. 612', '259 B.R. 580', '928 F.2d 171', '928 F.2d 171']
+
+gold_text: . Green Tree cites two cases for its position that a creditor cannot amend a debtor's claim, but they do not stand for that proposition. In In re Hill, 286 B.R. 612, 620-21 (Bankr.E.D.Pa.2002), the bankruptcy court rejected the creditor’s late-filed claim because the creditor “did not indicate anywhere on its Proof of Claim that it was an amendment to the Debtor's Proof of Claim or even that Debt- or had previously filed a proof of claim relating to its claim,” or otherwise indicate that it intended to amend the debtor's proof of claim. Such is not the case here, where SPS clearly signified its intention that 18-3 amend 18-2 by checking the amendment box on the copy of Form 10B submitted with 18-3 and by stating in its June 9, 2014 letter that it planned to file "an amendment to said Proof of Claim to reflect the actual amounts due and owing on the subject mortgage,” (see Proof of Claim 18-2 Pt. 3). In In re Kelley, 259 B.R. 580, 585 (Bankr.E.D.Tex.2001), the bankruptcy court recognized that it "could, pursuant to its equitable power recognized in In re Kolstad, [928 F.2d 171,] construe [the creditor’s] late claim as 'amending' rather than 'superseding' the claim filed on its behalf by the Debtor,” but declined to do so where the creditor "failed to establish any facts which would warrant the exercise of this Court’s equitable power in such a manner.”
+
+label: 

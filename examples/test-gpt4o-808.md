@@ -1,0 +1,15 @@
+**Generation:**
+
+The Third Circuit employs a nine-part test to determine whether a state agency is an arm or alter ego of the state and thus entitled to Eleventh Amendment immunity (Reference case 822 F.2d 1303). In determining this, courts consider several factors derived from various landmark cases. These factors include local laws and decisions defining the status and nature of the agency in relation to the sovereign (Reference case 415 F.2d 247), the entity's financial autonomy, the source of funding to satisfy a judgment, and whether the entity’s property is immune from state taxation.
+
+The importance of such local laws and decisions is highlighted in *Urbano v. Board of Managers of the New Jersey State Prison* (415 F.2d 247). This case further delineates additional factors, including whether the entity is separately incorporated, the degree of autonomy over its operations, its power to sue and be sued, and the extent to which the sovereign has immunized itself from responsibility for the entity's operations.
+
+Additionally, in *Port Authority Police Benevolent Association, Inc. v. Port Authority of New York and New Jersey* (819 F.2d 413, 417-18), the court integrated these factors to ascertain whether an entity is merely a political subdivision without Eleventh Amendment immunity. 
+
+Given this precedent and applying the nine-part test, it is evident that the City of Camden, being a municipality, does not embody the characteristics of an arm of the state and therefore does not qualify for sovereign immunity under the Eleventh Amendment (Reference case 822 F.2d 1303). Consequently, this Court maintains jurisdiction over the matter and finds the actions taken by the City of Camden subject to avoidance under 11 U.S.C. § 548 as a fraudulent transfer.
+
+citations: ['822 F.2d 1303', '415 F.2d 247']
+
+gold_text: [L]ocaI law and decisions defining the status and nature of the agency involved in its relation to the sovereign are factors to be considered, but only one of a number that are of significance. Among the other factors, no one of which is conclusive, perhaps the most important is whether, in the event plaintiff prevails, the payment of the judgment will have to be made out of the state treasury; significant here also is whether the agency has the funds or the power to satisfy the judgment. Other relevant factors are whether the agency is performing a governmental or proprietary function; whether it has been separately incorporated; the degree of autonomy over its operations; whether it has the power to sue and be sued and to enter into contracts; whether its property is immune from state taxation, and whether the sovereign has immunized itself from responsibility for the agency’s operations. Kovats v. Rutgers, The State University, 822 F.2d 1303, 1307 (3d Cir. 1987); Urbano v. Bd. of Managers of the New Jersey State Prison, 415 F.2d 247, 250-251 (3d Cir.1969) cert. denied, 397 U.S. 948, 90 S.Ct. 967, 25 L.Ed.2d 129 (1970).
+
+label: 

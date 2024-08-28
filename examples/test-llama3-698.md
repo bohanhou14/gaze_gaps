@@ -1,0 +1,19 @@
+**Generation:**
+
+
+
+The case presented is a habeas corpus appeal from the denial of Yvette M. Louisell's petition for a writ of habeas corpus. Louisell was convicted of first-degree murder and forgery, and is serving a life sentence. She argues that the trial court's denial of her request for surrebuttal argument, the admission of certain statements she made to her grandmother during a police interview, and prosecutorial misconduct during the trial denied her a fair trial.
+
+In analyzing these claims, we must consider the relevant legal standards. For example, in Estelle v. McGuire, 502 U.S. 62, 67-68, 112 S.Ct. 475, 116 L.Ed.2d 385 (1991), the Supreme Court held that a federal habeas court is not to "reexamine state-court determinations on state-law questions." Similarly, in Crump v. Caspari, 116 F.3d 326, 327 (8th Cir.1997), the court stated that habeas corpus relief may be granted only when an erroneous jury instruction constituted "a fundamental defect" that resulted "in a complete miscarriage of justice, [or] an omission inconsistent with rudimentary demands of a fair trial."
+
+With regard to Louisell's claims, we find that the trial court's denial of her request for surrebuttal argument was proper, as the state's rebuttal argument responded to defense counsel's invitation to proffer an explanation of the crime. Additionally, the admission of Louisell's statements to her grandmother was proper, as she was not subjected to compelling influences, psychological ploys, or direct questioning from police officers. Finally, we find that the prosecution's closing argument did not constitute improper prosecutorial misconduct, as there was no reasonable probability that the challenged comment affected the outcome of the trial.
+
+Based on our analysis, we affirm the denial of Louisell's petition for a writ of habeas corpus. The trial court's denial of her request for surrebuttal argument, the admission of her statements to her grandmother, and the prosecution's closing argument were all proper and did not deny her a fair trial. The decision in this case is consistent with the holdings in Estelle v. McGuire and Crump v. Caspari, and we find that Louisell's conviction was not the result of a fundamental defect or omission inconsistent with rudimentary demands of a fair trial.
+
+
+
+citations: ['93 F.3d 479', '21 F.3d 309']
+
+gold_text: Finally, Louisell contends that the prosecuting attorney deliberately pursued information previously suppressed by the trial court during the examination of several witnesses. Trial errors warrant habeas relief when the prosecutor’s actions are improper and have “prejudicially affected the defendant’s substantial rights so as to deprive the defendant of a fair trial.” United States v. Thomas, 93 F.3d 479, 487 (8th Cir.1996). “In evaluating whether a trial error resulted in prejudice to the defendant, we consider the cumulative effect of such misconduct, the strength of the properly admitted evidence of the defendant’s guilt, and the curative actions taken by the [trial] court.” Id. In this case, there is no evidence that the prosecutor attempted to elicit information suppressed by the trial court in willful disregard of the trial court’s order. The Iowa Court of Appeals found that one of the answers was unanticipated by the prosecution and another answer was merely cumulative of evidence already admitted. Moreover, the trial court properly sustained Louisell’s objections to improper questions and immediately admonished the jury to disregard the statements. Considering the strength of the state’s evidence and the curative instructions provided by the trial court, we conclude that no constitutional violation occurred. See United States v. Turk, 21 F.3d 309, 313 (8th Cir. 1994); Thomas, 93 F.3d at 487.
+
+label: 

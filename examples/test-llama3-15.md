@@ -1,0 +1,16 @@
+**Generation:**
+
+
+In the context of legal cases, the discovery of evidence is a crucial aspect of the pre-trial process. In the case of United States v. Hernick (348 F.2d 217), the court denied the defendant's motion for blanket discovery of evidence, citing the need for specificity and materiality. The court held that the defendant must make a specific showing of materiality to his defense or reasonableness of the request, and that the government need not disclose its witnesses or internal documents before trial.
+
+Similarly, in United States v. Zochowski (379 F.2d 365), the court held that a defendant should be entitled to see all the grand jury testimony of each witness on the subjects about which that witness testified at the defendant's trial, without requiring him to show any particularized need for this material. However, the court also noted that the government may seek a protective order to prevent disclosure of certain material that would jeopardize national security or other proper reasons.
+
+In the case of United States v. Hernick, the court denied the defendant's motion for discovery of "exculpatory evidence" under the Due Process clause of the Constitution, citing the need for specificity and materiality. The court held that the government's obligation to disclose exculpatory evidence is limited to circumstances where the evidence is "obviously exculpatory and of such a nature that delay in disclosure would prevent the defendant from effectively using it at trial."
+
+In conclusion, the discovery of evidence in legal cases is a complex process that requires careful consideration of the specific facts and circumstances of each case. The courts have developed various rules and principles to guide the discovery process, including the need for specificity and materiality, and the obligation of the government to disclose exculpatory evidence. By considering these principles and the relevant case law, lawyers and judges can ensure that the discovery process is fair, efficient, and effective in promoting the administration of justice. 
+
+citations: ['348 F.2d 217', '379 F.2d 365']
+
+gold_text: Insofar as Movant seeks prior statements of witnesses to be called by the Government, he is amply protected by Title 18 U.S.C. § 3500 which entitles him, after they have testified, to examine their prior statements relating to the subject matter of their direct testimony. United States v. Giuliano, 348 F.2d 217, 223 (2d Cir.), cert. denied, 382 U.S. 939, 946, 86 S.Ct. 390, 406, 15 L.Ed.2d 349, 354 (1956). In addition he may examine their Grand Jury testimony after they have testified, see Dennis v. United States, supra; United States v. Youngblood, 379 F.2d 365 (2d Cir. June 21, 1967). In the event that such Jencks Act material or Grand Jury testimony is voluminous, the Government is directed to submit the same to the Court before commencement of trial so that the trial judge may determine, in the exercise of his discretion, whether to order that the material be furnished to defense counsel before completion of a witness’ testimony, in order to afford counsel adequate opportunity to use such material upon cross-examination and undue delay during the trial.
+
+label: 

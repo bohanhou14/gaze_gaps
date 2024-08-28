@@ -1,0 +1,15 @@
+**Generation:**
+
+We find it pertinent to address the Board's contention and the Company's argument regarding the evaluation of the striker replacements' union support. As referenced in the case 594 F.2d 1203, the Board and prior courts have acknowledged that it is unrealistic to presume that replacements for striking employees hold the same union representation preference as the original strikers (see S & M Manufacturing Co., 172 N.L.R.B. 1008, and Titan Metal Manufacturing Co., 135 N.L.R.B. 196). Notably, the rationale established in New York Printing Pressmen v. NLRB, 575 F.2d 1045, underscores that such presumption should only be applied in normal turnover situations and not in cases involving strike replacements.
+
+In addition, our consideration aligns with the principles delineated in 652 F.2d 1055, particularly regarding the alteration of employee composition following a strike. The Court in that case stressed that objective evidence is critical when assessing the company's good faith doubt about the union’s majority support.
+
+Applying these authorities, the Company’s reliance on statements and behavior of cross-over employees and replacements, along with the Union's inactivity and lack of communication, constitutes objective evidence. Thus, the Company’s doubt regarding the Union’s majority status appears reasonably grounded and asserted in good faith without presumptions contrary to 594 F.2d 1203 and the operational essence of the Board’s recent stance in Station KKHI.
+
+Therefore, we conclude that the Company had an adequate basis for questioning the Union's majority support at the time of withdrawing recognition, thereby justifying its actions based on objective evidence consistent with the referenced cases.
+
+citations: ['594 F.2d 1203', '652 F.2d 1055']
+
+gold_text: We hold that the Company was justified in doubting that the striker replacements supported the Union in this context. Over eighty percent of the bargaining unit work force (twenty-two of twenty-seven employees) was replaced on June 25, 1979. Where such a substantial percentage of the bargaining unit employees is replaced on the same day, and the striker replacements cross a picket line, violent or not, to report to work each day, the Company is justified in counting the striker replacements as employees whom they doubt support the Union. This holding is in accord with the Eighth Circuit’s opinion in National Car Rental System, Inc. v. NLRB, 594 F.2d 1203 (8th Cir.1979). The Eighth Circuit adopted the Gorman presumption where all ten of the original bargaining unit employees commenced a strike and were subsequently replaced by permanent employees who all began work within a one-week period and crossed picket lines to apply for and report to work. See also Soule Glass & Glazing Co. v. NLRB, 652 F.2d 1055, 1109-10 (1st Cir.1981).
+
+label: 

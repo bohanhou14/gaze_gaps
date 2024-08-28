@@ -1,0 +1,21 @@
+**Generation:**
+
+
+
+The doctrine of judicial estoppel is an equitable doctrine that prevents a party from asserting a position in a legal proceeding that is inconsistent with a position taken in a previous proceeding. In the case of King v. Tyson Foods, Inc., the court applied the doctrine to preclude Willie E. Love from pursuing his claims against Tyson Foods, Inc. after he failed to disclose those claims in his Chapter 13 bankruptcy proceeding. (374 F.3d 330)
+
+The court held that Love's failure to disclose his claims was not inadvertent, and that he had a motivation to conceal his claims in order to keep any recovery for himself. (179 F.3d 197) The court also noted that Love's creditors would not benefit from any recovery, as any funds would go to Love himself. (291 F.3d 1282)
+
+In determining whether to apply judicial estoppel, the court looks for the presence of three criteria: (1) the party against whom judicial estoppel is sought has asserted a legal position which is plainly inconsistent with a prior position; (2) a court accepted the prior position; and (3) the party did not act inadvertently. (650 F.3d 571)
+
+The court found that all three criteria were met in this case, and therefore applied judicial estoppel to preclude Love from pursuing his claims against Tyson Foods, Inc. The court's decision was based on its finding that Love's failure to disclose his claims was not inadvertent, and that he had a motivation to conceal his claims in order to keep any recovery for himself.
+
+In conclusion, the doctrine of judicial estoppel is an important equitable principle that prevents parties from asserting inconsistent positions in legal proceedings. In this case, the court correctly applied the doctrine to preclude Love from pursuing his claims against Tyson Foods, Inc. after he failed to disclose those claims in his Chapter 13 bankruptcy proceeding. (179 F.3d 197) (374 F.3d 330) (291 F.3d 1282)
+
+
+
+citations: ['374 F.3d 330', '374 F.3d 330', '179 F.3d 197', '179 F.3d 197', '291 F.3d 1282', '291 F.3d 1282']
+
+gold_text: What appears to drive the dissent is a desire to change the law in a way that would prevent nearly every application of judicial estoppel in the bankruptcy context. Time and time again, however, judicial estoppel has been applied by this court and others far more broadly than the dissent’s reasoning would allow. See, e.g., In re Superior Crewboats, Inc., 374 F.3d 330; In re Coastal Plains, Inc., 179 F.3d 197; Kamont v. West, 83 Fed.Appx. 1 (5th Cir.2003). Although the dissent attempts to distinguish our precedent applying judicial estoppel in the bankruptcy context, the distinctions do not hold up when the dissent’s rationale is followed to its logical end. Under the dissent’s analysis, if it is theoretically possible that a non-disclosing debtor is pursuing claims for the benefit of his creditors (because the claims are property of the estate), then a court must assume that the debtor is, in fact, acting on his creditors’ behalf and that any nondisclosure of those claims was inadvertent. However, under this rationale, a dishonest debtor could, in almost every case, conceal his claims from his creditors and assert them without his creditors’ knowledge unless an opponent forced disclosure. Upon being forced to disclose his claims, a debt- or could then amend his schedules to include the claims, as Love did here, or take other corrective action, and his nondisclosure would be considered inadvertent. However, this court has observed that “ ‘[allowing [the debtor] to back-up, reopen the bankruptcy case, and amend his bankruptcy filings, only after his omission has been challenged by an adversary, suggests that a debtor should consider disclosing personal assets only if he is caught concealing them.’ ” In re Superior Crewboats, Inc., 374 F.3d at 336 (second alteration in original) (quoting Burnes v. Pemco Aeroplex, Inc., 291 F.3d 1282, 1288 (11th Cir.2002)); see also Thompson, 2006 U.S. Dist. LEXIS 48409, at *23 (stating that “[a] plaintifftdebtor should not be allowed to amend a bankruptcy petition only after his omission has been challenged by an adversary”) (citation and internal quotation marks omitted). We decline to invite such abuses here.
+
+label: 

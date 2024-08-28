@@ -1,0 +1,13 @@
+**Generation:**
+
+Additionally, Rule 11(b)(3) mandates that factual contentions must have evidentiary support. Courts must strive to avoid hindsight in determining whether a pleading was valid when signed, resolving any and all doubts in favor of the signer, as highlighted in *Eastway Constr. Corp. v. City of New York*, 762 F.2d 243. However, where a claim has absolutely no chance of success under existing precedents and no reasonable argument can be advanced to extend, modify, or reverse the law as it stands, Rule 11 has been violated (*Gurary v. Winehouse*, 290 F.3d 118).
+
+The district court in *Cello* (347 F.3d 370) noted that sanctions may not be imposed unless a particular allegation is utterly lacking in support. In our case, while some factual contentions are more suspect than others, the imposition of sanctions based solely on these contentions would require them to be entirely without evidentiary backing, a standard not met here.
+
+In conclusion, Plaintiffs’ counsel must be mindful of the continuous nature of their Rule 11 obligations. They are required to reassess the merit of their claims throughout the litigation process (see *O’Brien v. Alexander*, 101 F.3d 1479). Consequently, while the claims against certain defendants are dismissed, Plaintiffs' counsel must exercise due diligence and abandon entirely unsupported or refuted claims to avoid potential sanctions. Therefore, the Court GRANTS the motion for Rule 11 sanctions.
+
+citations: ['73 F.3d 1253', '762 F.2d 243', '290 F.3d 118', '347 F.3d 370']
+
+gold_text: In deciding whether a pleading violates Rule 11, the Court applies “an objective standard of reasonableness!.]” MacDraw, Inc. v. CIT Group Equip. Fin., Inc., 73 F.3d 1253, 1257 (2d Cir.1996). A party advances an objectively unreasonable claim if, at the time the party signed the pleading, “it is patently clear that [the] claim has absolutely no chance of success under the existing precedents, and where no reasonable argument can be advanced to extend, modify or reverse the law as it stands[.]” Eastway Const. Corp. v. City of New York, 762 F.2d 243, 254 (2d Cir.1985); see also Kropelnicki v. Siegel, 290 F.3d 118, 131 (2d Cir.2002). But “sanctions may not be imposed unless a particular allegation is utterly lacking in support.” Storey v. Cello Holdings, L.L.C., 347 F.3d 370, 388 (2d Cir.2003). And the Court must “resolv[e] all doubts in favor of the part[y] facing sanctions.” Coakley v. Jaffe, 72 F.Supp.2d 362, 365 (S.D.N.Y.1999).
+
+label: 

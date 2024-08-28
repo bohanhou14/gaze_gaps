@@ -1,0 +1,19 @@
+**Generation:**
+
+
+
+Defendants St. Joseph Township and Richard Uhrick have moved for summary judgment on Zisis' state law claims for malicious prosecution and defamation. In support of their motion, they argue that Zisis fails to establish the elements necessary to sustain these claims.
+
+Regarding Zisis' malicious prosecution claim, the court must determine whether the prosecution was instituted without probable cause. The Supreme Court has held that "a judicial determination of probable cause in a criminal proceeding may constitute prima facie evidence of probable cause in a subsequent action for malicious prosecution." 383 U.S. 715 (1966). In this case, the Allen Superior Court made a probable cause determination, which creates a presumption of probable cause. Zisis must rebut this presumption by presenting evidence that the finding of probable cause was induced by false testimony, fraud, or other improper means. However, Zisis has failed to present any evidence to support his claim that the prosecution was instituted without probable cause.
+
+In addition, Zisis' defamation claim is also without merit. To establish a claim for defamation, Zisis must show that the Defendants made a false and defamatory statement about him. However, Zisis has failed to identify any specific statement made by the Defendants that was false and defamatory.
+
+In conclusion, the court grants summary judgment in favor of the Defendants on Zisis' state law claims for malicious prosecution and defamation. Zisis has failed to establish the elements necessary to sustain these claims, and the court finds no genuine issue of material fact that would preclude summary judgment.
+
+Reference case: 29 F.3d 1244 
+
+citations: ['29 F.3d 1244', '383 U.S. 715']
+
+gold_text: Since this court has granted summary judgment in favor of Defendants on all claims over which it had original jurisdiction, the court has the discretion to remand the remaining state claims to the Allen Superior Court pursuant to 28 U.S.C. § 1867(c)(3). However, the court may alternatively choose to retain its supplemental jurisdiction over the state law claims and resolve them. “[A] district court should consider and weigh the factors of judicial economy, convenience, fairness and comity in deciding whether to exercise jurisdiction over pendent state-law claims.” Wright v. Associated Insurance Companies, Inc., 29 F.3d 1244, 1250 (7th Cir.1994) (citations omitted). “[T]he general rule is that, when all federal claims are dismissed before trial, the district court should relinquish jurisdiction over pendent state-law claims rather than resolving them on the merits.” Id. (citing United Mine Workers v. Gibbs, 383 U.S. 715, 86 S.Ct. 1130, 16 L.Ed.2d 218 (1966)). However, there are three well recognized exceptions to that rule. These include “when the statute of limitations has run on the pendent state law claim, precluding the filing of a separate suit in state court,” or “when ‘substantial judicial resources have already been committed, so that sending the case to another court will cause a substantial duplication of effort,’ ” or “when it is absolutely clear how the pendent state claims can be decided.” Id at 1251. In the present case, this court has already invested substantial judicial resources in this suit. Much of the court’s analysis, with respect to the federal claims is applicable to the state claims. Furthermore, the court determines that it is clear that Zisis’ state law claims against Uhrick and the Township have no merit. For these reasons, the court will exercise its supplemental jurisdiction and resolve the state law claims presented in this action.
+
+label: 

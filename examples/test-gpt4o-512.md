@@ -1,0 +1,13 @@
+**Generation:**
+
+That a preliminary injunction will be granted to restrain the defendants from further prosecution or enforcement of the search warrants issued against the plaintiffs until a final judicial determination is made regarding the alleged obscenity of the seized publications. This decision reflects the principles established in Marcus v. Search Warrant, 367 U.S. 717, where the Court emphasized the need for procedural safeguards to prevent the unjust suppression of non-obscene materials. In that case, the Court underscored the constitutional deficiency of warrants issued without specific descriptions and proper judicial oversight, which is comparably deficient in the current scenario.
+
+Moreover, the case of Kingsley Books, Inc., v. Brown, 354 U.S. 436, reinforces that any restraint on allegedly obscene material must follow a due process that includes both sides having an opportunity to be heard. Similarly, the overwhelming and unchecked restraint on publications seen in the current case is reminiscent of the issues found unconstitutional in 378 U.S. 205, where the lack of an adversary hearing and the broad warrant terms were found to infringe on First Amendment rights.
+
+Accordingly, the Court finds it necessary to halt the defendants' actions to prevent irreparable harm to the plaintiffs while ensuring that any accusations of obscenity are addressed with full adherence to constitutional safeguards. Thus, this preliminary injunction underscores the non-negotiable requirement for judicial processes that protect against the suppression of lawful expression under the guise of obscenity enforcement.
+
+citations: ['367 U.S. 717', '378 U.S. 205']
+
+gold_text: 1.That the defendants are restrained from proceeding with the prosecution described in the complaint, and are restrained from making any arrests or seizures, for use as evidence in any prosecution or for the purpose of suppression, of publications believed by them, or any of them, to be in violation of law because obscene, without there having been a prior adversary hearing on a determination of the question of obscenity in accordance with the requirements set out in Marcus v. Search Warrants of Property, etc., 367 U.S. 717, 81 S.Ct. 1708, 6 L.Ed.2d 1127; Quantity of Copies of Books v. Kansas, 378 U.S. 205, 84 S.Ct. 1723, 12 L.Ed. 809; Delta Books Distributors, Inc. v. Cronvich, 304 F.Supp. 662 (E.D.La.1969); City News Center, Inc. v. Carson, 298 F.Supp. 706 (M.D.Fla.1969).
+
+label: 

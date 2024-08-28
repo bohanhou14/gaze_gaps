@@ -1,0 +1,15 @@
+**Generation:**
+
+Continuing from our analysis, the marshals’ involvement of numerous PPCW representatives and their conduct during execution of the writ were troubling. Similar to the case in *United States v. Willis*, 759 F.2d 1486, 1501 (11th Cir.), where the district court did not abuse its discretion in allowing a silent videotape, the issue here similarly involves the use of video documentation during the seizure. However, contrary to Willis, the use of multiple videotaping agents unauthorized by the writ distinguishes this case and raises additional Fourth Amendment concerns.
+
+Notably, when unidentified individuals executed a court order, as articulated in *United States v. Raborn*, 872 F.2d 589, 595 (5th Cir.1989), the public safety exception was not applicable since the officers had sole control over the area. Here, PPCW representatives had full access to a private residence, thus raising significant constitutional concerns. As in *Smith v. Marsh*, 194 F.3d 1045, 1052 (9th Cir.1999), where unresolved Fourth Amendment trespass issues were deemed waived due to improper presentation, similar concerns arise here given that no direct challenge to the execution order's validity appeared.
+
+Lastly, in *Brathwaite’s case* (458 F.3d 376), the control over the residence parallels the overreach observed here, reinforcing that governmental intrusions at home are scrutinized under stringent constitutional standards. Allowing unidentified personnel free reign in a highly-controlled private residence warrants such an examination, indicating Fourth Amendment infringements that cannot be dismissed lightly.
+
+In conclusion, while actions here breached the most fundamental Fourth Amendment guarantees, prevailing precedents did not unequivocally establish these rights, thus entitling the marshals to qualified immunity.
+
+citations: ['102 F.3d 1012', '710 F.3d 862', '458 F.3d 376', '326 F.3d 361']
+
+gold_text: An officer who was unaware that the additional representatives of PPCW were not authorized to be present might also have reasonably concluded that the individuals could film the home. Other circuits have assumed without deciding that videotaping the execution of a valid search warrant is lawful. See, e.g., Marks v. Clarke, 102 F.3d 1012, 1033 n. 37 (9th Cir.1996). In addition, several circuits have held that warrantless filming does not violate the Constitution if the cameramen are authorized to be present in the home. See United States v. Wahchumwah, 710 F.3d 862, 867 (9th Cir.2013); United States v. Brathwaite, 458 F.3d 376, 380-81 (5th Cir.2006); United States v. Davis, 326 F.3d 361, 366 (2d Cir.2003). Although here the cameraman was not authorized to be present in the Brays’ home, reasonable officers who were mistaken about the lawfulness of inviting additional representatives of PPCW to join the raid might likewise have been mistaken about whether those representatives could film the home, particularly in light of the camera’s utility in capturing the condition of the property prior to its sale. Therefore, the rights the marshals breached were not clearly established at the time of the violations.
+
+label: 

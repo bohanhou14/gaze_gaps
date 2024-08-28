@@ -1,0 +1,13 @@
+**Generation:**
+
+We must consider whether the procedural bar precludes federal habeas review of Moomey’s ineffective assistance of counsel claim regarding the DNA evidence. The procedural default rule is adequate to preclude federal review if it is applied consistently and evenhandedly by the state (see 379 F.3d 919). Moomey’s claim was deemed procedurally defaulted by the OCCA because it could have been raised on direct appeal (see 146 F.3d 1257).
+
+In his appeal, Moomey neither demonstrated cause and prejudice nor a fundamental miscarriage of justice to overcome the procedural default (see 146 F.3d 1257; Coleman v. Thompson, 501 U.S. 722). Furthermore, he failed to specifically allege the inadequacy of the state procedural bar as required to shift the burden of proof to the state (see 184 F.3d 1206). As a result, his federal habeas claim regarding DNA evidence cannot proceed on the merits as the procedural bar remains unchallenged.
+
+Thus, given the application of these precedents, we conclude that the procedural bar effectively precludes federal review of Moomey’s claim of ineffective assistance of counsel related to the DNA evidence. Accordingly, we affirm the denial of habeas relief.
+
+citations: ['379 F.3d 919', '146 F.3d 1257', '184 F.3d 1206']
+
+gold_text: We do not consider issues on habeas review that have been defaulted in state court on an independent and adequate state procedural ground, unless the petitioner can demonstrate cause and prejudice or a fundamental miscarriage of justice. Smith v. Mullin, 379 F.3d 919, 926 (10th Cir.2004). We have construed Oklahoma’s procedural bar as effective “to preclude habeas review of ineffective assistance claims only when ‘trial and appellate counsel differ’ and the ‘claim can be resolved upon the trial record alone.’ ” Id. at 927 (quoting English v. Cody, 146 F.3d 1257, 1264 (10th Cir.1998)). Moomey had different counsel at trial and on appeal. Further, after the state raised the procedural-bar defense in regard to the DNA-evidence/ineffective-assistance issue, Aplt. App., Vol. 7, at 2138, Moomey’s habeas counsel filed a reply completely omitting any mention of the issue or the state’s defense, id. at 2183-92. See Hooks v. Ward, 184 F.3d 1206, 1217 (10th Cir.1999) (“Once the state pleads the affirmative defense of an independent and adequate state procedural bar, the burden to place that defense in issue shifts to the petitioner.”). We conclude that the state sufficiently raised the procedural-bar defense and that Moomey conceded its applicability before the federal district court.
+
+label: 

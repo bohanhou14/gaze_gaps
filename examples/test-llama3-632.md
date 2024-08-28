@@ -1,0 +1,18 @@
+**Generation:**
+
+
+In the context of the ACCA, the term "building or other structure" is crucial. The Supreme Court has indicated that this phrase encompasses not only spaces that are designed for occupancy and intended for use in one place but also other, potentially less complete "enclosed spaces," so long as they do not resemble a boat, motor vehicle, or other mode of transportation. Shepard v. United States, 544 U.S. 13, 26, 125 S.Ct. 1254, 161 L.Ed.2d 205 (2005).
+
+In the case of United States v. Chapman, 608 F.3d 663, the Fifth Circuit held that a conviction under § 30.02(a)(1) was for generic burglary, whereas a conviction under § 30.02(a)(3) was not. This distinction is crucial in determining whether a prior conviction can be used as a predicate for the ACCA enhancement.
+
+The Texas burglary statute, under which Chapman was convicted, includes both § 30.02(a)(1) and § 30.02(a)(3). The indictment against Chapman did not specify under which section he was charged, and the district and appellate courts applied the modified categorical approach to determine whether the Montgomery County burglary conviction could be counted for ACCA purposes.
+
+The Supreme Court's decision in Descamps v. United States, 133 S.Ct. 2276, 186 L.Ed.2d 438 (2013), clarified that the modified categorical approach can only be applied to nongeneric statutes that are divisible. In this case, the Texas statute is divisible because it sets out alternative elements of the offense in the alternative. Therefore, the modified categorical approach can be applied to Chapman's Montgomery County burglary conviction to determine whether it met the requirements of generic burglary and could serve as a predicate conviction for the ACCA enhancement.
+
+In summary, the decision in Chapman is consistent with the Supreme Court's precedent in Shepard and Descamps, and the modified categorical approach can be applied to Chapman's prior conviction to determine whether it meets the requirements of generic burglary and can be used as a predicate conviction for the ACCA enhancement. 
+
+citations: ['608 F.3d 663', '488 F.3d 844']
+
+gold_text: Silva’s analysis is brief and appears inconsistent with one aspect of the Texas burglary statute. The statute defines “habitation” to include certain vehicles. Tex. Penal Code § 30.02(1). The statute defines “habitation” more broadly than the word’s common meaning as a structure or building that people live in. The statute criminalizes entry into vehicles as well as buildings or structures. The generic burglary definition in Taylor is not so broad; it criminalizes only entry into “buildings or structures.” Taylor, 495 U.S. at 598, 110 S.Ct. 2143. The Supreme Court and other circuits have stated that generic burglary does not include nonconsensual entry into boats or motor vehicles, even if they are used for habitation. Shepard, 544 U.S. at 16, 125 S.Ct. 1254 (“The [ACCA] makes burglary a violent felony only if committed in a building or enclosed space (‘generic burglary’), not in a boat or motor vehicle.”) (emphasis added); United States v. Ramon Silva, 608 F.3d 663, 668 (10th Cir.2010); United States v. Grisel, 488 F.3d 844, 848 (9th Cir.2007) (en banc) (“[T]he term ‘building or structure’ does not encompass objects that could be described loosely as structures but that are either not designed for occupancy or not intended for use in one place. It was this understanding of ‘building or structure’ that the [Supreme] Court adopted. ). Including “vehicle” in the Texas burglary statute appears to make it broader than generic burglary.
+
+label: 

@@ -1,0 +1,18 @@
+**Generation:**
+
+ <answer>
+The case at bar is a suit brought under that part of the jurisdiction of this court which is concurrent with that of the Court of Claims. The dispute is wholly in respect to the results legally following such facts. The plaintiff claims that it is entitled, under section 1019 of the Revenue Act of 1924, to recover interest from the dates of its over-payments of its taxes for the fiscal year ended March 31, 1918, to the date when such additional taxes were assessed by the Commissioner of Internal Revenue. The Revenue Act of 1924 became effective on June 2, 1924. Section 1019 of that act is as follows:
+
+Upon the allowance of a credit or refund of any internal-revenue tax erroneously or illegally assessed or collected, or of any penalty collected without authority, or of any sum which was excessive or in any manner wrongfully collected, interest shall be allowed and paid on the amount of such credit or refund at the rate of 6 per centum per annum from the date such tax, penalty, or sum was paid to the date of the allowance of the refund, or in case of a credit, to the due date of the amount against which the credit is taken, but if the amount against which the credit is taken is an additional assessment, then to the date of the assessment of that amount.
+
+The Revenue Act of 1926 was effective on February 26, 1926. Section 1116 of that act is as follows:
+
+Upon the allowance of a credit or refund of any internal-revenue tax erroneously or illegally assessed or collected, or of any penalty collected without authority, or of any sum which was excessive or in any manner wrongfully collected, interest shall be allowed and paid on the amount of such credit or refund at the rate of 6 per centum per annum from the date such tax, penalty, or sum was paid to the date of the allowance of the refund, or in case of a credit, to the due date of the amount against which the credit is taken, but if the amount against which the credit is taken is an additional assessment made under the Revenue Act of 1921, the Revenue Act of 1924, or this Act, then to the date of the assessment of that amount.
+
+In this case, the Commissioner of Internal Revenue signed and transmitted to the collector a certain "Schedule of Overassessments and Allowance of Abatements, Credits
+
+citations: ['46 S. Ct. 229', '70 L. Ed. 524']
+
+gold_text: A case somewhat similar to the instant case in point of facts has been before the Supreme Court. See Girard Trust Co. v. United States, 270 U. S. 163, 46 S. Ct. 229, 70 L. Ed. 524. In that ease, however, the matter under consideration was the date of the allowance of a refund, while in the present case we are dealing with a credit. In Girard Trust Co. v. United States it was held that the refund had not been allowed prior to the date when the schedule of refunds was signed by the Commissioner, after return upon the original schedule of overassessments on the part of the collector. It will be remembered that the signature of the Commissioner upon the schedule of refunds was over a direction to the disbursing clerk of the Treasury Department to pay the amount of the refunds appearing on the schedule. It is clear from the ease last cited that a refund, prior to section 1116(b) (2) of the act of 1926 becoming effective, was not allowed until the disbursing clerk had been directed to pay it; but the status of a credit is not, as we think, the same as that of a refund. In Girard Trust Co. v. United States, supra, the court, in the opinion by Mr. Chief Justice Taft, laid down a rule as follows:
+
+label: 

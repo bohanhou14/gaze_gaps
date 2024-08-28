@@ -1,0 +1,16 @@
+**Generation:**
+
+
+The Ledbetter Act, codified at 29 U.S.C. § 2612(a)(2), was enacted in 2009, and it extends the statute of limitations for filing a charge of discrimination with the EEOC to 180 days after the alleged discriminatory action. In this case, Blakley filed her charge with the EEOC on November 5, 2008, and she served her amended complaint on Schlumberger on February 5, 2010, nearly 14 months after the alleged discriminatory action. The district court properly dismissed Blakley's claim under the Ledbetter Act, concluding that it was time-barred.
+
+In support of her argument, Blakley cites to Foman v. Davis, 371 U.S. 178, 182, 83 S.Ct. 227, 9 L.Ed.2d 222 (1962), where the Supreme Court held that a district court should not grant leave to amend a complaint unless the moving party has shown good cause for the delay. However, in this case, the delay was not caused by Blakley's counsel, but rather by the court's own delay in addressing the discovery disputes. See Wintermute v. KBS, 630 F.3d 1063, 1066 (8th Cir.2010).
+
+Moreover, the Ledbetter Act is a remedial statute designed to address the problem of pay discrimination. It does not create a new cause of action, but rather provides a new statute of limitations for filing a claim under Title VII. Therefore, the district court did not err in dismissing Blakley's claim under the Ledbetter Act, as it was time-barred. See Thompson-El v. Nelson, 210 F.3d 928, 932 (8th Cir.2000).
+
+In conclusion, the district court properly dismissed Blakley's claim under the Ledbetter Act, as it was time-barred. The court's decision is supported by precedent and is consistent with the remedial purpose of the Ledbetter Act. 
+
+citations: ['630 F.3d 1063', '210 F.3d 928']
+
+gold_text: Although the district court “dismissed” her Ledbetter Act claim, Blakley’s argument may be viewed more appropriately as a challenge to the court’s denial of leave to amend her complaint to add a new claim. We review such denials for abuse of discretion. Wintermute v. Kan. Bankers Sur. Co., 630 F.3d 1063, 1067 (8th Cir.2011). Blakley was permitted to file an amended complaint only by the court’s January 20, 2010 order, which directed her to limit the scope of her complaint — not expand it. She never sought leave to add an entirely new claim. Under Federal Rule of Civil Procedure 15(a)(2), Blakley could only add this claim with Schlumberger’s written consent or the court’s leave. She obtained neither. Moreover, adding a new claim would have required additional discovery by the parties and added further delays to the proceedings. Under the circumstances, the district court did not abuse its discretion by refusing to permit this new claim. See Popp Telcom v. Am. Sharecom, Inc., 210 F.3d 928, 943 (8th Cir.2000) (“Where an amendment would likely result in the burdens of additional discovery and delay to the proceedings, a court usually does not abuse its discretion in denying leave to amend.”). Accordingly, we affirm the district court’s dismissal of this claim, which Blakley attempted to add without permission from Schlumberger or leave from the court.
+
+label: 

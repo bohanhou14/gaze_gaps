@@ -1,0 +1,13 @@
+**Generation:**
+
+Defendants argue that attorney's fees were not warranted because legal services were provided at no cost to plaintiffs by a publicly funded legal aid program. However, this argument is unavailing. The fact that plaintiffs received free legal services does not preclude an award of attorney's fees. As established in Torres v. Sachs, 538 F.2d 10, 13 (2d Cir. 1976), awards of attorney's fees are not obviated by the fact that plaintiffs are not obligated to compensate their counsel. The statutory policies justify such shifting of fees without regard to whether plaintiffs assumed the financial burden (569 F.2d 1231; 447 U.S. 54).
+
+Additionally, the determination that fees should be awarded to publicly funded legal service organizations aligns with precedent that attorney's fees awards must accrue to counsel, not to individual plaintiffs, to avoid a windfall (Hairston v. R & R Apartments, 510 F.2d 1090, 1093 (7th Cir. 1975)). This ensures compliance with statutory policies, as seen in Alyeska Pipeline Service Co. v. Wilderness Society, 421 U.S. 240, 260 n. 33, 95 S.Ct. 1612 (1975).
+
+Therefore, defendants' objection regarding the source of plaintiffs' legal representation is irrelevant to the awarding of attorney's fees. The district court appropriately awarded attorney's fees to counsel, aligning with the statutory and judicial precedent. The award of attorney's fees is affirmed.
+
+citations: ['569 F.2d 1231', '538 F.2d 10', '447 U.S. 54']
+
+gold_text: Finally, defendants argue that because plaintiffs’ legal services were provided by a publicly funded legal aid program, defendants should not be required to pay them. Courts have upheld attorney’s fee awards to publicly funded legal services providers when attorney’s fees were authorized by statute. Rodriguez v. Taylor, 569 F.2d 1231, 1244—46 (3d Cir.1977) (attorney’s fees in ADEA case paid to nonprofit, federally funded legal services provider), cert. denied, 436 U.S. 913, 98 S.Ct. 2254, 56 L.Ed.2d 414 (1978); Torres v. Sachs, 538 F.2d 10, 12 (2d Cir.1976) (federal statute provided for fees in voting rights case; no congressional limitation on amount payable to publicly funded organizations); see also New York Gaslight Club, Inc. v. Carey, 447 U.S. 54, 70 n. 9, 100 S.Ct. 2024, 2034 n. 9, 64 L.Ed.2d 723 (1980) (attorney’s fees in Title VII case paid to public interest legal services provider); Blum, 465 U.S. at 894-95, 104 S.Ct. at 1546-47 (attorney’s fees paid to private nonprofit legal services organization pursuant to 42 U.S.C. § 1988).
+
+label: 

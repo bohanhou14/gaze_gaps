@@ -1,0 +1,15 @@
+**Generation:**
+
+Our conclusion aligns with the principles established in Strickland v. Washington, 466 U.S. 668 (1984), as reaffirmed in cases like Wiggins v. Smith, 539 U.S. 510 (2003), and Williams v. Taylor, 529 U.S. 362 (2000). The OCCA’s decision, which failed to properly assess the merits of Milton’s underlying claim of ineffective assistance of trial counsel, is inconsistent with the standards set forth in Strickland and its progeny.
+
+Notably, in 551 U.S. 930, the Supreme Court emphasized that when a state court’s adjudication of a claim depends on an unreasonable application of federal law, the federal habeas court must proceed without deference to the state court’s decision. Similarly, our case necessitates a de novo review given the OCCA's departure from established federal law.
+
+Furthermore, Milton's claims echo those considered in 728 F.3d 1170, where the defendant's right to counsel was compromised due to failure in advising about viable defenses. In both cases, the uncommunicated plea offers and resultant prejudice underscore the need for an evidentiary hearing to resolve factual disputes.
+
+Accordingly, unresolved factual issues and the clear deviation from controlling federal standards warrant reversing the district court’s judgment and remanding for an evidentiary hearing on the merits of Milton’s ineffective assistance of appellate counsel claim.
+
+citations: ['536 U.S. 266', '551 U.S. 930', '728 F.3d 1170']
+
+gold_text: Miller’s satisfaction of the § 2254(d)(1) standard has two related effects. First, although it does not entitle him to the issuance of a writ of habeas corpus, see Horn v. Banks, 536 U.S. 266, 272, 122 S.Ct. 2147, 153 L.Ed.2d 301 (2002) (“While it is of course a necessary prerequisite to federal habeas relief that a prisoner satisfy the AEDPA standard of review set forth in 28 U.S.C. § 2254(d) ..., none of our post-AEDPA cases have suggested that a writ of habeas corpus should automatically issue if a prisoner satisfies the AEDPA standard”), it effectively removes AED- PA’s prohibition on the issuance of a writ. Second, it requires us to review de novo his ineffective assistance of appellate counsel claim, rather than deferring to the OCCA’s resolution of that claim. See Panetti v. Quarterman, 551 U.S. 930, 953, 127 S.Ct. 2842, 168 L.Ed.2d 662 (2007) (“When a state court’s adjudication of a claim is dependent on an antecedent unreasonable application of federal law, the requirement set forth in § 2254(d)(1) is satisfied. A federal court must then resolve the claim without the deference AEDPA otherwise requires.”); Williams, 529 U.S. at 406, 120 S.Ct. 1495 (noting that “a federal court will be unconstrained by § 2254(d)(1) [if] the state-court decision falls within that provision’s ‘contrary to’ clause”); Heard v. Addison, 728 F.3d 1170, 1179 (10th Cir.2013) (reviewing ineffective assistance claim de novo where the OCCA’s decision was contrary to Strickland).
+
+label: 

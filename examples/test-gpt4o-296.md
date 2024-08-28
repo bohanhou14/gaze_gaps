@@ -1,0 +1,11 @@
+**Generation:**
+
+When assessing the sufficiency of evidence to support a conviction, this court examines the evidence in the light most favorable to the prosecution, determining if any rational trier of fact could have found the essential elements of the crime beyond a reasonable doubt. This standard arises from Jackson v. Virginia, 443 U.S. 307, 319 (1979) and has been widely applied (55 F.3d 1219; 161 F.3d 992). Richards contends his conviction lacks sufficient evidence, alleging he had no knowledge of the falsehoods nor intent to influence SBA action. However, the evidence demonstrated that Richards repeatedly submitted applications containing false statements about employee residence and office location, suggesting a calculated intent to deceive. 
+
+Additionally, case law establishes that such determinations are best left to the jury, which assesses witness credibility and resolves testimonial conflicts (see 161 F.3d 992; 55 F.3d 1219). Thus, viewing the evidence favorably to the prosecution, the jury’s decision that Richards knowingly made false statements with the purpose to influence SBA action is reasonable and supported by sufficient evidence. For these reasons, Richards’s argument regarding insufficient evidence fails, and the district court’s judgment is affirmed.
+
+citations: ['443 U.S. 307', '161 F.3d 992', '55 F.3d 1219']
+
+gold_text: This Court must uphold the jury’s verdict if “after viewing the evidence in the light most favorable to the prosecution, any rational trier of fact could have found the essential elements of the crime beyond a reasonable doubt.” Jackson v. Virginia, 443 U.S. 307, 319, 99 S.Ct. 2781, 61 L.Ed.2d 560 (1979) (emphasis in original). In making this determination, the Court “draw[s] all available inferences and resolve[s] all issues of credibility in favor of the jury’s verdict.” United States v. Mal-iszewski, 161 F.3d 992, 1006 (6th Cir.1998). The prosecution “may meet its burden through circumstantial evidence alone, and such evidence need not exclude every possible hypothesis except that of guilt.” United States v. Jackson, 55 F.3d 1219, 1225 (6th Cir.1995). Thus, “a defendant claiming insufficiency of the evidence bears a heavy burden.” Maliszewski, 161 F.3d at 1005.
+
+label: 

@@ -1,0 +1,16 @@
+**Generation:**
+
+
+The case before us is a complex one, involving multiple complaints and appeals. To determine the proper course of action, we must examine the relevant legal precedents. In reference case 536 F.3d 215, the court held that a final judgment on the merits of an action precludes the parties or their privies from relitigating issues that were or could have been raised in that action. Similarly, in reference case 226 F.3d 133, the court noted that a court faced with a duplicative suit will commonly stay the second suit, dismiss it without prejudice, enjoin the parties from proceeding with it, or consolidate the two actions.
+
+In this case, McKenna has filed multiple complaints and appeals, seeking to relitigate issues that were previously decided. The District Court correctly ruled that McKenna's second complaint, McKenna II, was duplicative of his first complaint, McKenna I, and therefore dismissed it. This decision was in line with the precedents established in Walton v. Eaton Corp., 563 F.2d 66 (3d Cir. 1977), which prohibits a plaintiff from maintaining two separate actions involving the same subject matter at the same time in the same court and against the same defendant.
+
+McKenna's attempt to distinguish his claims between McKenna I and McKenna II is unavailing. The claims are substantially identical, and McKenna's attempt to recast his Title VII claim as a First Amendment claim does not render Walton inapposite. Furthermore, McKenna's failure to appeal the District Court's adverse judgment on the termination claim in McKenna I bars him from reviving that claim in McKenna II.
+
+In conclusion, the District Court acted properly in dismissing McKenna II as duplicative of McKenna I. This decision was in line with the precedents established in Walton and was supported by the facts of the case. McKenna's attempts to relitigate issues that were previously decided were unavailing, and his claims were properly dismissed. 
+
+citations: ['536 F.3d 215', '536 F.3d 215', '226 F.3d 133']
+
+gold_text: Had the District Court stayed McKenna II or dismissed it without prejudice, McKenna theoretically could have proceeded forward upon the final disposition of McKenna I. However, his attempt to resume or replead the § 1983-First Amendment claim would have been thwarted by res judicata, which prohibits relitigation of claims that have been, or could have been, decided on the merits. Mullarkey v. Tamboer, 536 F.3d 215, 225 (3d Cir.2008). For res judicata purposes, “denial of a motion to amend a complaint in one action is a final judgment on the merits barring the same complaint in a later action.” Prof. Mgmt. Assoc. Inc. v. KPMG LLP, 345 F.3d 1030, 1031 (8th Cir.2003). See also 18A Charles Alan Wright, Arthur R. Miller & Edward H. Cooper, Federal Practice & Procedure § 4439 n. 16 (2008) (citing Curtis v. Citibank, N.A., 226 F.3d 133, 139-40 (2d Cir.2000), for the proposition that denial of leave to amend has preclusive effect only when denial is based on the merits).
+
+label: 

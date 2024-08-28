@@ -1,0 +1,13 @@
+**Generation:**
+
+In considering K & M's Motion to Quash, the court must determine whether the information sought by the subpoena is protected. The court recognizes that while trade secrets and similar confidential information do not enjoy an absolute privilege (Federal Open Market Committee v. Merrill, 443 U.S. 340, 362, 99 S.Ct. 2800, 61 L.Ed.2d 587 (1979)), their discovery can be regulated. The balancing test of relevancy and necessity against potential harm must be applied (54 F.R.D. 524).
+
+K & M has shown that the information in question constitutes trade secrets, and its disclosure could harm its competitive standing (120 F.R.D. 455). However, ETC has demonstrated that this information is highly relevant to its counterclaims, including allegations of misappropriation and fraud (Centurion Industries, supra). The court, therefore, finds that ETC's need to obtain this information outweighs the potential harm to K & M.
+
+As specified in the reference cases, discovery can proceed under strict protective measures to limit harm (70 F.R.D. 687). A confidentiality order will be imposed, restricting the disclosure of the sensitive information to counsel for the parties involved. The court orders K & M to comply with the subpoena under these conditions, ensuring that the sensitive nature of the information is adequately safeguarded.
+
+citations: ['120 F.R.D. 455', '70 F.R.D. 687', '54 F.R.D. 524']
+
+gold_text: In trade secret battles, “[t]he claim of irreparable competitive injury must be balanced against the need for the information in the preparation of the defense.” Covey Oil Co., 340 F.2d at 999. In the instant case, the court believes that the enforcement of much of the subpoena is reasonable: the need for the information by ETC outweighs the possible injury to K & M, and the court has issued a carefully-fashioned protective order to guard against improper disclosure of any trade secrets. The court uses a number of protective procedures. See Davidson Pipe Co. v. Laventhol and Horwath, 120 F.R.D. 455 (S.D.N.Y.1988); GTE Products Corp. v. Gee, 112 F.R.D 169 (D.Mass.1986) (disclosure limited to counsel); Alloy Cast Steel Co. v. United Steel Workers of America, 70 F.R.D. 687 (D.C.Ohio 1976), opinion incorporated, 429 F.Supp. 445 (N.D.Ohio 1977) (answers to interrogatories limited to defendant and counsel); and Spartanics, Ltd. v. Dynetics Engineering Corp., 54 F.R.D. 524 (D.C.Ill. 1972) (disclosure of confidential research limited to trial counsel and two independent consultants). See also Multi-Core, supra, at 263.
+
+label: 

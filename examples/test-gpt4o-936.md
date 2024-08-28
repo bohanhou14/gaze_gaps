@@ -1,0 +1,11 @@
+**Generation:**
+
+In this context, the pivotal considerations encompass both the equitable authority to award extraordinary costs and the principle of res judicata. As aptly noted in Sprague v. Taconic Bank (307 U.S. 161), an equity court under exceptional circumstances, can levy the comprehensive defense costs against the unsuccessful litigant. This authority extends beyond statutory limitations on legal costs, promoting "fair justice” even when a fund isn't necessarily brought into court. The reaffirmation of this outlook is further substantiated by precedents such as Guardian Trust Co. v. Kansas City Southern R. Co., 281 U.S. 1, and the interpretation of trustees' expenses outlined in Perry on Trusts.
+
+In parallel, the adjudicative precedents underscore the necessity for asserting res judicata — as decisive judgments have bearing issues settled to avoid redundant litigation. As referenced in Kansas City Southern R. Co. (105 U.S. 527), and reiterated in our case affirmations like Van Auken & Cleveland v. Second Nat'l Bank & Trust Co., sustained judgments regarding the distribution and reporting of the trustee's disbursements, reinforcing the finality and binding nature of earlier determinations. These principles collectively advocate the sound equitable practice of preventing further vexatious litigation and validating the trustee’s disbursement allowances.
+
+citations: ['307 U.S. 161', '105 U.S. 527']
+
+gold_text: Though not on the ground of res judicata, the power to grant costs as between solicitor and client in respect to costs on appeal must also be recognized as residing in the District Court, subject, of course, to review as to their actuality and reasonableness. As was said of such costs in Sprague v. Taconic Bank, supra [307 U.S. 161, 59 S.Ct. 781] “They are not of a routine character like ordinary taxable costs; they are contingent upon the exigencies of equitable litigation, the final disposition of which in its entire process including appeal places such a claim in much better perspective than it would have at an earlier stage.” The inquiry is a collateral one, having a distinct and independent character. Trustees v. Greenough, 105 U.S. 527, 26 L.Ed. 1157.
+
+label: 

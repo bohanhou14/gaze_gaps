@@ -1,0 +1,11 @@
+**Generation:**
+
+Third, regarding the legality of Appellant’s sentence, a detailed review of the record confirms that the District Court properly considered the § 3553(a) factors and imposed a reasonable sentence. The court's methodology aligns with the precedent set in United States v. Cooper, 437 F.3d 324, where the court must ensure the sentence is not excessive in light of the defendant’s criminal history and the seriousness of their conduct. Here, the District Court duly considered the pre-sentence report, defense counsel’s arguments for leniency, and the government's recommendation. Furthermore, the sentence fell within the advisory Guidelines range, which supports a presumption of reasonableness as emphasized in Gall v. United States, 552 U.S. 38. The court also addressed any potential sentencing disparities, upholding the integrity of the sentencing process as mandated in United States v. Ricks, 543 F.3d 190. Therefore, Appellant cannot raise any nonfrivolous issues regarding his sentence.
+
+In conclusion, our independent review of the record reveals no arguable legal points on their merits. The appeal is wholly frivolous, and we affirm the judgment of the District Court and grant Counsel’s motion to withdraw.
+
+citations: ['437 F.3d 324', '552 U.S. 38', '543 F.3d 190']
+
+gold_text: Finally, with respect to the legality of Appellant’s sentence, the District Court imposed a sentence that was both below the statutory maximum and reasonable. See United States v. Cooper, 437 F.3d 324, 327 (3d Cir.2006); United States v. Flenory, 876 F.2d 10, 11 (3d Cir.1989). The district court followed the procedures announced in Gall v. United States, 552 U.S. 38, 128 S.Ct. 586, 169 L.Ed.2d 445 (2007), by giving meaningful consideration to the pertinent sentencing factors embodied in 18 U.S.C. § 3553(a), and provided an adequate justification for the within-Guidelines sentence imposed. See United States v. Levinson, 543 F.3d 190, 194-96 (3d Cir.2008). Consequently, Appellant can raise no nonfrivolous issues with respect to the legality of his sentence.
+
+label: 

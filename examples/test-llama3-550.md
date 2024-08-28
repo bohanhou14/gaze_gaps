@@ -1,0 +1,18 @@
+**Generation:**
+
+
+The case at hand involves a dispute over the validity of condemnation judgments entered in favor of the United States. The plaintiffs, who are heirs of W.K. Bradley, claim that the judgments are void or voidable due to irregularities in the condemnation proceedings. Specifically, they argue that the United States failed to obtain the proper consent of the adult Bradley heirs who were in being at the time of the condemnations.
+
+The court has carefully considered the arguments presented by the parties and has concluded that the condemnation judgments are void as to the interests of the present Bradley heirs who were unborn at the time of the condemnation judgments and who were not represented by a guardian ad litem. This decision is supported by the case of Whiting v. Bank of the United States, 38 U.S. (13 Pet.) 5, 10 L.Ed. 33 (1839), which holds that a judgment is void if the court that rendered it lacked jurisdiction of the subject matter or parties.
+
+As to the interests of the unknown Bradley heirs who were served by publication but not represented by a guardian ad litem, the court has concluded that the judgment is voidable under Rule 60(b)(4) of the Federal Rules of Civil Procedure. This rule allows a court to relieve a party from a final judgment for fraud, misrepresentation, or other irregularities.
+
+Finally, as to the known minor and incompetent Bradley heirs who were parties to the condemnation proceedings but were improperly represented by their guardians ad litem, the court has concluded that the judgment is voidable under Rule 60(b)(6) of the Federal Rules of Civil Procedure. This rule allows a court to relieve a party from a final judgment for any other reason justifying relief.
+
+In conclusion, the court has granted the plaintiffs' motion for summary judgment and has set aside the condemnation judgments as to the interests of the present Bradley heirs who were unborn at the time of the condemnation judgments, the unknown Bradley heirs who were served by publication but not represented by a guardian ad litem, and the known minor and incompetent Bradley heirs who were parties to the condemnation proceedings but were improperly represented by their guardians ad litem. (Reference: 207 F.2d 740, 672 F.2d 1044) 
+
+citations: ['207 F.2d 740', '672 F.2d 1044']
+
+gold_text: . The United States contended in oral argument that the express language of Rule 60(b) forecloses relief to any heir who was unborn at the time of the condemnations because no unborn heir was "a party or his legal representative” to the original condemnation proceedings. This court recognizes that there is, as a general rule, merit to this argument, Screven v. U.S., 207 F.2d 740 (5th Cir.1953); however, under the circumstances of this case, the unborn heirs were sufficiently connected and identified with the original condemnation actions to attack those judgments. Dunlop v. Pan American Airways, Inc., 672 F.2d 1044 (2d Cir.1982). This case is especially suited for Rule 60(b) relief since, in addition to the then unborn Bradley heirs, the parties to the original condemnation judgments—(the United States, the then adult Bradley heirs, and the then minor, incompetent and unknown Bradley heirs)—are parties to this action. See Karnegis v. Schooler, 57 F.Supp. 178 (N.D.Tex.1944) (third parties not entitled to Rule 60 relief unless original parties who secured the decree are parties to new suit). In its supplemental brief filed after oral argument, the United States conceded that the unborn Bradley heirs were sufficiently connected and identified with the original condemnation proceedings to attack those judgments in this action.
+
+label: 

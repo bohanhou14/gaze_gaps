@@ -1,0 +1,19 @@
+**Generation:**
+
+ I understand. Here is the continuation of the case:
+<answer>
+In this case, the district court granted Lloyd's motion to suppress the use at trial of evidence obtained in the search of his van, but denied it in part, as it held that the evidence obtained in the search of his two residences was admissible. On appeal, Lloyd argues that the district court erred in denying his motion to suppress the evidence obtained in the search of his van, as well as the evidence obtained in the search of his two residences.
+
+As discussed in United States v. 87 F.3d 562, the informant's credibility and the bases of their knowledge are sufficiently illuminated, and the informants' information was corroborated by external data, including the presence of a methamphetamine laboratory in a garage at 237 90th Street, S.W, and the discovery of methamphetamine oil buried on the premises. In addition, the informants' information was consistent with other evidence, including articles of incorporation for Renee Ltd., recipes for the manufacture of methamphetamine, chemicals, laboratory equipment, books, and a purchase bid for phenylacetic acid.
+
+The government concedes that Schneider's initial stop of the van was lawful, but argues that his continued detention of Lloyd was justified based on the "prior information" he had received about Lloyd's involvement in drug trafficking. However, the government's argument relies on the same flawed reasoning as in United States v. 143 F.3d 399, where the court held that the informant's information was not reliable because it was based on an informant's "inchoate and unparticularized suspicion" rather than specific, consistent details.
+
+In United States v. 745 F.2d 1112, the court held that the informant's information was reliable because it was based on specific, consistent details, including the location of a methamphetamine laboratory and the discovery of methamphetamine oil buried on the premises. Similarly, in this case, Schneider's "prior information" about Lloyd's involvement in drug trafficking was based on specific, consistent details, including the discovery of a methamphetamine laboratory and the presence of methamphetamine oil buried on the premises.
+
+Furthermore, the district court's decision was upheld in United States v. 971 F.2d 452, where the court held that the informant's information was reliable because it was based on specific, consistent details, including the location of a methamphetamine laboratory and the discovery of methamphetamine
+
+citations: ['87 F.3d 562', '143 F.3d 399', '745 F.2d 1112', '971 F.2d 452']
+
+gold_text: The affidavit contained information provided by two different informants whose stories were remarkably consistent. “[CJonsistency between the reports of two independent informants helps to validate both accounts.” United States v. Schaefer, 87 F.3d 562, 566 (1st Cir.1996); see also United States v. Fulgham, 143 F.3d 399, 401 (8th Cir.1998) (holding that the magistrate’s finding of probable cause was supported by, among other things, the “reciprocally corroborative” consistency in the information provided by two separate informants); United States v. Pritchard, 745 F.2d 1112, 1121 (7th Cir.1984) (stating that “[b]y telling consistent yet independent stories, the informants provide ‘cross-corroboration,’ and enhance the reliability of the application as a whole” (citations omitted)). Also, it was against the penal interest of the informants to provide this type of information to the police, a factor we have considered indicative of reliability. See United States v. Sturmoski, 971 F.2d 452, 457 (10th Cir.1992).
+
+label: 

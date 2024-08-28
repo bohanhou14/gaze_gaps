@@ -1,0 +1,9 @@
+**Generation:**
+
+The Seventh Circuit has firmly held that oral agreements or modifications to an ERISA plan are not enforceable, as they are contrary to the explicit requirements of ERISA’s "written instrument" clause, outlined in § 1102(a)(1). As stated in the reference case 871 F.2d 1290, "the statutory language of § 1102(a)(1) is clear and concise and must be enforced as written" to prevent collusive or fraudulent agreements and ensure clarity in plan participants' rights and obligations. This principle is reinforced by the decision in the reference case 805 F.2d 956, which affirms that the reading of § 1102(a)(1) together with § 1102(b)(3)’s formal written amendment procedures necessitates the conclusion that oral modifications are precluded. Federal common law must align with ERISA’s statutory scheme and policies, and permitting oral modifications would undermine the protection of employees' retirement benefits. Consequently, recognizing an estoppel claim under federal common law in the context of funded pension plans, like the one at issue here, would contradict ERISA’s intent by introducing an unauthorized remedy that disrupts the statutory written requirements.
+
+citations: ['871 F.2d 1290', '805 F.2d 956']
+
+gold_text: The written agreement clause is intended to “prevent collusive or fraudulent side agreements between employers and employees ... [that] discriminate in favor of certain plan participants to the detriment of others____ Furthermore, the writing requirement protects the plan’s actuarial soundness by preventing plan administrators from contracting to pay benefits to persons not entitled to such under the express terms of the plan.” Cefalu v. B.F. Goodrich Co., 871 F.2d 1290, 1296 (5th Cir.1989). It is for that reason that oral modifications and informal written amendments to ERISA-governed plans are not enforceable. See Cefalu, 871 F.2d at 1296 (citing Nachwalter v. Christie, 805 F.2d 956, 960 (11th Cir.1986)).
+
+label: 

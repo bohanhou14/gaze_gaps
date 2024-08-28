@@ -1,0 +1,18 @@
+**Generation:**
+
+BATCHELDER, Circuit Judge.
+Plaintiffs/Appellants appeal the order of the district court dismissing this action, which was brought to collect monies the plaintiffs claim that defendants owe to Central States multiemployer pension plan. For the following reasons, we AFFIRM the order of the district court.
+
+I. FACTUAL BACKGROUND
+Plaintiff, Central States, is an ERISA multiemployer pension plan and plaintiff, Howard MeDougall, is its trustee. (Hereinafter plaintiffs will be referred to alternatively as plaintiffs or “Central States”). The individual defendants, Jeffrey Feldman, Sheldon Feldman, and Benjamin Reiff (“the Individuals”) are the former owners of Feldman Brothers Produce Co., Inc. and Joseph Feldman, Inc. (“the Companies”). The Companies were employer participants in the Central States plan. In February 1984, the Individuals sold all of their stock in the Companies to the Jacob Frydman Co. (“Frydman”). Frydman financed part of the purchase of the stock through a loan in the amount of approximately $1.2 million from Defendant, Mahoning National Bank.
+
+By January 1985, the Companies had become insolvent and had stopped contributing to the pension plan. In March 1985, several creditors began involuntary bankruptcy proceedings against the Companies. Central States, who apparently did not know about the bankruptcy proceedings, filed an action against the Feldman Brothers Produce Co., Inc. in the District Court for the Northern District of Ohio to collect delinquent contributions, obtaining a judgment on November 21, 1985. Over the next two years, Central States attempted some discovery aimed toward executing on the judgment. This discovery either did not go forward or was not productive.
+...
+A. Preemption Of State Law
+In a unanimous decision discussing the exclusivity of ERISA remedies and ERISA’s preemption of state claims, the United States Supreme Court in Pilot Life Insurance Co. v. Dedeaux, 481 U.S. 41, 107 S.Ct. 1549, 95 L.Ed.2d 39 (1987), noted that the care with which Congress drafted the civil enforcement remedies and the balancing of policies embodied in its choice of remedies “argue strongly for the conclusion that ERISA’s civil enforcement remedies were intended to be exclusive.” Id. at 54, 107 S.Ct. at 1556; see also Ingersoll-Rand v. McClendon, 498 U.S. 133, 111 S.Ct. 478, 112 L.Ed.2d 474 (1990); Metropolitan Life Ins. Co. v. Taylor, 481 U
+
+citations: ['958 F.2d 730', '103 F.3d 490']
+
+gold_text: In Flacche v. Sun Life Assurance Co. of Canada, 958 F.2d 730, 735 (6th Cir.1992), this court addressed the intermingling of ERISA and federal common law claims. We held that federal common law should be created “only where the federal statute does not expressly address the issue before the court.” Id. Most recently, in Muse v. IBM, 103 F.3d 490 (6th Cir.1996), petition for cert. filed, 65 USLW 3666 (March 25, 1997) (No. 96-1520), we addressed a request by plaintiffs that their five common law claims (which had been dismissed by the district court on summary judgment) be reinstated “either as federal ERISA common law claims or as state common law claims.” Id. at 495. In regard to plaintiffs’ contention that even if their state law claims were preempted by ERISA, those claims could be “repackaged and saved” as federal common law claims, we noted, “federal common law is developed under ERISA only in those instances in which ERISA is silent or ambiguous.” . Id. We concluded that because the previously dismissed claims sought to recover for conduct that fell within the purview of specific provisions of ERISA, those claims could not “be reasserted as separate claims arising under federal common law.” Id.
+
+label: 

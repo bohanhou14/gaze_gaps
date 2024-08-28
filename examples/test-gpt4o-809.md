@@ -1,0 +1,13 @@
+**Generation:**
+
+The Court finds that the $10,000.00 transfer to McElroys does not meet the conditions of the “ordinary course of business” defense under 11 U.S.C. § 547(c)(2). According to the precedent set in the case reference 502 U.S. 151, for a transfer to qualify under the ordinary course of business exception, it must leave undisturbed normal financial relations and not detract from the general policy of discouraging unusual actions by either the debtor or creditors during the debtor's slide into bankruptcy. In this case, although Debtor made regular $50-$60 monthly payments to McElroys, the lump sum payment of $10,000.00 is not consistent with the ordinary business terms established between the parties. As stated in reference cases 112 S.Ct. 527 and 785 F.2d 1563, a large lump sum payment deviates from the typical financial relationship between Debtor and McElroys and thus fails to meet the criteria for ordinary course of business transactions.
+
+Furthermore, in the case of 785 F.2d 1563, the court emphasized that payments must adhere to ordinary business terms and the conditions between the debtor and creditor. The lump sum payment of $10,000.00 does not align with the regular payment pattern, thereby failing to satisfy this requisite condition. Consequently, the Court holds that the McElroys cannot invoke the ordinary course of business defense under § 547(c)(2).
+
+In conclusion, having established that the transfer is avoidable as a preferential transfer under 11 U.S.C. § 547(b) and not protected by the ordinary course of business defense, Trustee is entitled to recover the $10,000.00 from McElroys.
+
+citations: ['502 U.S. 151', '112 S.Ct. 527', '785 F.2d 1563', '785 F.2d 1563']
+
+gold_text: 11 U.S.C. § 547(c)(2). The primary goal of preference law is to deter “ ‘the race of diligence’ of creditors to dismember the debt- or before bankruptcy furthers the second goal of the preference section — that of equality of distribution.” Union Bank v. Wolas, 502 U.S. 151, 112 S.Ct. 527, 533, 116 L.Ed.2d 514 (1991) (quoting H.R.Rep. No. 595, 95th Cong., 1st Sess. 177-78 (1978), reprinted in 1978 U.S.C.C.A.N. 6137-78). The scant legislative history behind section 547(c)(2) provides that section’s purpose “is to leave undisturbed normal financial relations, because [such an exception] does not detract from the general policy of the preference section to discourage unusual actions by either the debtor or his creditors during the debtor’s slide into bankruptcy.” Marathon Oil Co. v. Flatau (In re Craig Oil Co.), 785 F.2d 1563, 1565 (11th Cir.1986) (quoting H.R.Rep. No. 595, 95th Cong., 1st Sess. 373-74 (1977), reprinted in 1978 U.S.C.C.A.N. 5787, 6329).
+
+label: 

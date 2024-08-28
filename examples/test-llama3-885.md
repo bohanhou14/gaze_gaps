@@ -1,0 +1,19 @@
+**Generation:**
+
+ <answer>
+
+The Perishable Agricultural Commodities Act (PACA) is a statutory trust that protects sellers of perishable agricultural commodities from financially irresponsible buyers. In the case of Altabon, the court held that a PACA trust beneficiary is entitled to full payment of the contract price for the sale of produce, and that the trust requirement is intended to supplement the seller's contract rights.
+
+In the case of CEDARBAUM, the court held that a PACA trustee cannot use PACA trust assets to pay attorney's fees that were reasonably necessary to collect its Freshway receivables. The court stated that the language of PACA and the accompanying regulations clearly indicate that PACA trustees have a duty to pay the full amount of the debt owed to their produce suppliers, and that any payment of fees to Mandell out of the Freshway recovery would impair the ability of Robinson to recover the money it is owed under PACA.
+
+In the case of 222 F.3d 132, the court held that the PACA trust is a statutory trust that operates in favor of all unpaid suppliers or sellers of perishable agricultural commodities. The court stated that the trust requirement is intended to protect the sellers of perishable agricultural commodities from financially irresponsible buyers, and that the trust assets are to be held in trust for the benefit of the sellers until full payment of the sums owing in connection with such transactions has been received.
+
+In the case of 165 F.3d 1, the court held that the PACA trust is governed by ordinary principles of trust law, and that a PACA trustee can properly incur expenses which are necessary or appropriate to carry out the purposes of the trust and are not forbidden by the terms of the trust. However, the court also stated that the PACA trust is a statutory trust, and that common law trust principles are not applicable if they conflict with the language of the statute, the clear intent of Congress in enacting the statute, or the accompanying regulations.
+
+In the case of 132 B.R. 632, the court held that a PACA trustee cannot use PACA trust assets to pay attorney's fees that were reasonably necessary to collect its Freshway receivables. The court stated that the language of PACA and the accompanying regulations clearly indicate that PACA trustees have a duty to pay the full amount of the debt owed to their produce suppliers, and that any payment of fees to Mandell out of the Freshway recovery would impair the ability
+
+citations: ['222 F.3d 132', '165 F.3d 1', '132 B.R. 632']
+
+gold_text: Courts have recognized that the intent of Congress in enacting PACA’s trust provision was to provide unpaid produce sellers with greater protection from the risk of default by buyers. Endico Potatoes, 67 F.3d at 1067; In re Kornblum, 81 F.3d at 283 (Congress enacted the trust provision “to broaden the protections afforded to produce suppliers”). See also Tanimura & Antle, Inc. v. Packed Fresh Produce, Inc., 222 F.3d 132, 135-136 (3rd Cir.2000); Hiller Cranberry Products, Inc. v. Koplovsky, 165 F.3d 1, 6 (1st Cir.1999); In re Southland + Keystone, 132 B.R. 632, 639 (9th Cir. BAP, 1991) (PACA “was established by Congress to protect sellers and suppliers of perishable agricultural commodities until full payment of sums due have been reeeived”)(internal quotations omitted). Allowing a defunct PACA trustee to pay other creditors with PACA funds before the seller is paid in full would frustrate this purpose, and would be contrary to the language of PACA and its accompanying regulations. PACA trust beneficiaries are entitled to full payment before trustees may lawfully use trust funds to pay other creditors.
+
+label: 

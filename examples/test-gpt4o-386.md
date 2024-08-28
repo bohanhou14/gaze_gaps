@@ -1,0 +1,13 @@
+**Generation:**
+
+Therefore, Gecht's claim of prosecutor misconduct is procedurally defaulted. When determining if the default can be excused, I must consider whether Gecht can demonstrate cause for the default and actual prejudice as a result or that failure to consider his claim will result in a fundamental miscarriage of justice. See Spreitzer, 219 F.3d 639. Gecht has shown neither cause nor prejudice, nor has he demonstrated actual innocence which is necessary to show a fundamental miscarriage of justice. See Howard, 185 F.3d at 726; Sawyer v. Whitley, 513 U.S. 333. Thus, I cannot review this claim.
+
+Gecht's further arguments on ineffective assistance of trial and appellate counsel, prosecutor's misconduct, and police's lack of probable cause lack merit and do not warrant habeas relief. I must defer to the state court's findings unless the decision was "objectively unreasonable" as established under 28 U.S.C. § 2254(d). Woodford v. Visciotti, 537 U.S. 19. 
+
+In light of the above, I conclude that Gecht's petition for writ of habeas corpus is without merit and deny his petition accordingly.
+
+citations: ['219 F.3d 639', '513 U.S. 298']
+
+gold_text: Because Gecht has procedurally defaulted on this claim, I may only consider it if Gecht can show cause for the default and actual prejudice as a result of the prosecutor’s actions, or demonstrate that failure to consider the claim will result in a fundamental miscarriage of justice. Coleman, 501 U.S. at 750, 111 S.Ct. 2546. Setting aside the question of cause, a showing of prejudice requires that “the facts underlying the claim would be sufficient to establish by clear and convincing evidence that but for constitutional error, no reasonable factfinder could have found the applicant guilty of the underlying offense.” 28 U.S.C.A. § 2254(e)(2); see also Spreitzer v. Schomig, 219 F.3d 639, 648 n. 1 (7th Cir.2000) (explaining that subsection (e)(2) codified the “cause and prejudice” test for procedurally defaulted claims). Here, the prosecution introduced evidence at trial of Gecht’s detailed statement to the police admitting that he shot Cruz. His former girlfriend testified that he told her the same. Even without the prosecutor’s statements, however improper they may have been, a reasonable factfinder could have found Gecht guilty of Cruz’s murder. Likewise, Gecht cannot show that a fundamental miscarriage of justice has occurred because he cannot show “a constitutional violation has probably resulted in the conviction of one who is actually innocent.” Schlup v. Delo, 513 U.S. 298, 327, 115 S.Ct. 851, 130 L.Ed.2d 808 (1995). Therefore, this claim is without merit.
+
+label: 

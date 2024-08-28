@@ -1,0 +1,17 @@
+**Generation:**
+
+ <answer>
+
+In reference to the legal cases, it is clear that the Constitution protects individuals from unreasonable and unjustified state deprivations of personal liberty. In the case of McEntee v. Registrar of Motor Vehicles, 426 F.2d 1154, the court held that the use of a motor vehicle is a "liberty" protectible by due process, and that the state's procedures regulating the application and issuance of a motor vehicle operator's license must attach to due process.
+
+In this case, the plaintiff, Raper, alleged that the Registrar's failure to provide a statement of reasons for denying his license application and the Board's failure to publish existing policies and regulations violated his due process rights. The court agreed, citing cases such as Board of Regents v. Roth, 408 U.S. 564, 92 S.Ct. 2701, 33 L.Ed.2d 548 (1972), and Goldberg v. Kelly, 397 U.S. 254, 90 S.Ct. 1011, 25 L.Ed.2d 287 (1970), which emphasize the importance of providing adequate notice and an opportunity to be heard.
+
+The court also noted that the Board's failure to provide a statement of reasons for denying Raper's application constituted a deprivation of due process, citing cases such as Misurelli v. City of Racine, 346 F.Supp. 43, 49 (E.D.Wis.1972), and Clutchette v. Procunier, 328 F.Supp. 767, 782 (N.D.Cal.1971). The court concluded that the government has not advanced any appropriate interest that would be served by its refusal to detail reasons, and that the function of the Board is not to rubber-stamp the Registrar, but to provide a sufficient forum for the correction of administrative mistakes.
+
+In contrast, the court did not find that the Board's failure to hold hearings throughout Massachusetts constituted a deprivation of due process, citing no direct support for this novel proposition. The court also rejected defendants' alternative argument that the complaint should have been dismissed for failure to exhaust available state administrative remedies, citing cases such as Carter v. Stanton, 405 U.S. 669, 92 S.Ct. 1232, 31 L.Ed.2d 569 (1971), and Wilwording v. Swenson, 404 U.S. 249, 
+
+citations: ['435 F.2d 1182', '435 F.2d 1177', '426 F.2d 1154']
+
+gold_text: We concede that several of our own recent opinions in the area of school administration, read broadly, would seem out of step with these authorities. Beattie v. Roberts, 436 F. 2d 747, 748-749 (1st Cir. 1971) ; Drown v. Portsmouth School Dist., 435 F.2d 1182, 1186 n. 10 (1st Cir. 1970), cert. denied, 402 U.S. 972, 91 S.Ct. 1659, 29 L.Ed.2d 137 (1971) ; Dunham v. Crosby, 435 F.2d 1177, 1180 n. 2 (1st Cir. 1970). To the extent that they indicate a general or automatic requirement of administrative exhaustion in § 1983 cases, we note our disapproval and signal our acceptance of the earlier cited line of cases. But we adhere to our view of the necessity for ripeness to the extent that there must be at least some definitive administrative or institutional determination before a § 1983 action may arise. We subscribe to the view expressed in Stevenson v. Board of Education, 426 F.2d 1154, 1157 (5th Cir.), cert. denied, 400 U.S. 957, 91 S.Ct. 355, 27 L.Ed.2d 265 (1970), that we should not “intervene in school personnel and management problems without requiring such prior reference to local institutional authority as may be necessary to assure that the action complained of is final within the institution in the sense that it is ripe for adjudication.”
+
+label: 

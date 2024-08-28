@@ -1,0 +1,13 @@
+**Generation:**
+
+In reviewing the petitioners' challenge, we must adhere to the Administrative Procedure Act's (APA) mandates, which prohibit decisions that are "arbitrary, capricious, an abuse of discretion, or otherwise not in accordance with law" (5 U.S.C. § 706(2)(A)). Here, the petitioners argue that the FCC failed to articulate an adequate basis for the Order, deviating without explanation from previous practices. However, as noted in *SEC v. Chenery Corp.*, 332 U.S. 194, the Court’s role is not to guess the agency's theory but to review the stated rationale.
+
+We find that the FCC provided a reasoned analysis balancing technological limitations against the urgent need for public safety, consistent with statutory responsibilities to promote effective 911 access. Drawing on *NLRB v. Metro. Life Ins. Co.*, 457 F.3d 42, it is evident that the agency considered substantial evidence and the specific challenges posed by VoIP services.
+
+Given this balance, and our duty not to replace the agency’s judgment with our own where it has sufficiently explained its decision, the FCC's action stands. Hence, the petition for review is denied.
+
+citations: ['457 F.3d 42', '332 U.S. 194']
+
+gold_text: . Our concurring colleague reads the Order to suggest that "the 911 requirement would be justified even if VoIP providers could not feasibly meet the 120-day deadline.” Concurring Op. at 310-11. But he quotes no language in the Order stating that, and we find none suggesting that. The Order makes reference to the Commission's statutory duty to consider safety, a factor that is an important element in our analysis, but we do not think these references can support the suggestion that the Commission has ever justified the 120-day deadline on the basis of any authority to ban VoIP service outright. We note that if such authority exists, the Commission has not clearly relied on it in its briefs or at oral argument. In fact, when asked to clarify whether the deadline was appropriate even if it was not feasible, counsel for the Commission replied, "No. No, Your Honor. The Commission believed that the deadline was aggressive, but that it was something that could be met, and it recognized the need to try to force these parties to get going, to get moving,” Transcript of Oral Argument at 19, Nuvio Corp. v. FCC, No. 05-1248 (D.C.Cir. Sep.12, 2006). Because we "cannot sustain [the Commission's] action on some other basis the [Commission] did not mention,” Point Park Univ. v. NLRB, 457 F.3d 42, 50 (D.C.Cir. 2006) (citing SEC v. Chenery Corp., 332 U.S. 194, 196-97, 67 S.Ct. 1575, 91 L.Ed. 1995 (1947)), we need not consider whether safety concerns alone would justify the deadline.
+
+label: 

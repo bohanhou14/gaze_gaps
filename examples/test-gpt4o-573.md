@@ -1,0 +1,9 @@
+**Generation:**
+
+The factual circumstances of this case closely mirror those in the referenced decisions. For instance, similar to the debtor in Leppaluoto's case (101 B.R. 609), the Debtor's obligation is indicative of spousal support rather than a property settlement, given the significant income disparity between the parties and the lack of substantial assets to divide at the time of the dissolution. Moreover, the structured nature of the payments and their termination upon the defendant's death align with the characteristics of support obligations as identified in Shaver (736 F.2d 1314). Given these considerations and consistent with precedent, the Debtor's obligation is determined to be in the nature of alimony or support, which is nondischargeable under 11 U.S.C. § 523(a)(5). The judgment, therefore, is in favor of the defendant, consistent with the principles established in the reference cases.
+
+citations: ['101 B.R. 609', '736 F.2d 1314', '736 F.2d 1314']
+
+gold_text: In addition, the disparity in the parties’ financial circumstances at the time of the Dissolution supports the conclusion that the Annual Payments represented an alimony obligation. See Leppaluoto v. Combs (In re Combs), 101 B.R. 609, 617 (9th Cir. BAP 1989) (concluded that disparity in parties’ earnings supported conclusions that payments were in the nature of support); see also Shaver v. Shaver, 736 F.2d 1314, 1316—17 (9th Cir.1984); cf. In re Calhoun, 715 F.2d at 1108 n. 7 (stating that one of the factors which bankruptcy courts have examined in determining whether an obligation was in the nature of support is the “relative earning powers of the parties”). Indeed, although the Debtor and Clark opined that the defendant was not in need of support at the time of the dissolution, the Court notes that the defendant’s non-alimony taxable income for 1990 approximated $3,233.79. See Defendant’s Exhibit G.
+
+label: 

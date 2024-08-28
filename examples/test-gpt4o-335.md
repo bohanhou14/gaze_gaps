@@ -1,0 +1,13 @@
+**Generation:**
+
+This history alongside the explicit treaty terms undercuts the notion of an enduring trust interest. As the Supreme Court stated in 179 U.S. 494, Congress's jurisdictional acts must be read consistently with treaties unless explicitly authorized otherwise. Here, Congress did not signal an intent to create a lasting trust with Article III. Instead, it recognized complete dominion by the United States soon after the treaty's effective date.
+
+Moreover, the ruling in **Sac and Fox Tribe v. United States**, 315 F.2d 896, verifies the principle that valuation dates back to the date of initial governmental dominion, not to subsequent reinterpretations or executive orders. Similarly, in **Sac and Fox Tribes v. United States**, 383 F.2d 991, it was emphasized that recovery amounts are tethered to the fair market value as of the time of acquisition.
+
+Thus, the consistent dominion exerted by the United States before any claim of a continuing interest nullifies appellants' 1911 date. The Commission rightly chose April 1848 as the fair valuation date, aligning with the cession's intent and legal precedence.
+
+citations: ['307 U.S. 1', '179 U.S. 494', '383 F.2d 991', '383 F.2d 991']
+
+gold_text: From appellants’ standpoint, there is, at best, a sharp conflict in Rice’s post-Treaty appraisal of the Treaty’s effect, and we would not be justified in elevating his single 1889 comment (“the land that you loaned”) over his contrary 1880 statement, the words of the Treaty, the evidence contemporary with the Treaty, and the Pillagers’ own conduct at a time much closer to the Treaty than the 1880’s. As a whole, the history and the Treaty terms fit considerably better with the interpretation that (a) the agreement embodied a mutual intent to dispose of title, with the understanding (as part of the consideration) that the Me-nominees would settle in the ceded area; and (b) a not-surprising complaint by the Pillagers of unfair failure of consideration after the Menominees refused to come over but were nevertheless paid much more handsomely for the area than the Pillagers had received a few years before. The basis for implying a trust is far too slight, even though we read the Treaty liberally in favor of the Indians, as we must. Cf. Chippewa Indians of Minnesota v. United States, 307 U.S. 1, 5, 59 S.Ct. 687, 83 L.Ed. 1067 (1939); United States v. Choctaw Nation and Chickasaw Nation, 179 U.S. 494, 535-536, 21 S.Ct. 149, 45 L.Ed. 291 (1900); Sac and Fox Tribe v. United States, 383 F.2d 991, 1001, 179 Ct.Cl. 8, 27, cert. denied, Iowa Tribe of Iowa Reservation in Okl., 389 U.S. 900, 88 S.Ct. 212, 19 L.Ed.2d 217 (1967).
+
+label: 

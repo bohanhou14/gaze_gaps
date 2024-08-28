@@ -1,0 +1,18 @@
+**Generation:**
+
+Given the complexity of the case, it is necessary to address the framework established by precedent cases concerning securities and investment contracts. The defendants argue that their general partnership interests are not securities as defined by the securities acts. The court in S. E. C. v. W. J. Howey Co., 328 U.S. 293, 298-99 (1946) set forth the test for determining investment contracts, requiring an investment of money in a common enterprise with an expectation of profits primarily derived from the efforts of others.
+
+Furthermore, the distinction between general and limited partnership interests is crucial. The court in New York Stock Exchange, Inc. v. Sloan, 394 F.Supp. 1303, 1306-07 (S.D.N.Y. 1975) supported the notion that general partners, due to their managerial role, do not meet the definition of "security". However, this principle is mitigated when commingled with securities in a unified transaction, as seen in Hecht v. Harris Upham & Co., 430 F.2d 1202, 1210 (9th Cir. 1970).
+
+In evaluating mootness, the standard in United States v. W.T. Grant Co., 345 U.S. 629, 633 (1953) emphasizes that voluntary cessation of illegal conduct does not typically render a case moot unless it is absolutely clear the wrongful behavior could not reasonably be expected to recur.
+
+In summary, the test for whether the partnerships in question fall under the securities acts, as delineated by the Howey decision and further explicated in Sloan, coupled with the mootness doctrine reinforced in W.T. Grant Co., guides the present consideration. Therefore, further discovery is warranted to ascertain if Sumter's alleged independence from Grace Global is bona fide, mandating denial of summary judgment at this stage.
+
+ORDER
+For the reasons detailed above, the court denies all parties' motions without prejudice.
+
+citations: ['553 F.2d 750', '328 U.S. 293', '421 U.S. 837']
+
+gold_text: The Grace Global defendants have embraced the question raised by the SEC and elevated it to a legal conclusion. They contend that Grace Global, like GPGAP before it (and the organized investment group before GPGAP), does not issue securities and therefore cannot, as a matter of law, be an investment company. As the SEC observed in its brief, general partnership interests “usually are not securities, but may be under certain factual circumstances.” SEC Brief at 14 (emphasis in original). A general partnership interest may be deemed a security when “the partnership interest ... satisfies] the Howey test.” Hirsch v. duPont, 396 F.Supp. 1214, 1220 (S.D.N.Y.1975), aff'd, 553 F.2d 750 (2d Cir.1977). In SEC v. W.J. Howey Co., 328 U.S. 293, 66 S.Ct. 1100, 90 L.Ed. 1244 (1946), the Supreme Court, in defining “investment contracts” for purposes of the Securities Exchange Act of 1934, stated: “[t]he test is whether the scheme involves an investment of money in a common enterprise with profits to come solely from the efforts of others.” Id. at 301, 66 S.Ct. at 1104. In a later exposition of the subject, the Supreme Court observed: “[t]he touchstone [of Howey ] is the presence of an investment in a common venture premised on a reasonable expectation of profits to be derived from the entrepreneurial or managerial efforts of others.” United Housing Found., Inc. v. Forman, 421 U.S. 837, 852, 95 S.Ct. 2051, 2060, 44 L.Ed.2d 621 (1975). If a triable issue exists regarding whether any putative general partnership interest in Grace Global derives its profits through the endeavors of others, summary judgment may not be employed.
+
+label: 

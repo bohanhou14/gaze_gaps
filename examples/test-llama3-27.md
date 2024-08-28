@@ -1,0 +1,18 @@
+**Generation:**
+
+
+In determining whether a counterclaim is compulsory, courts consider whether the claims bear a "logical relationship" to each other. This relationship is often described as being based on the same factual and legal issues or being offshoots of the same basic controversy between the parties. In Cooper v. Great Lakes Steel Div., 286 F.2d 631, the court held that a counterclaim is compulsory if it bears a logical relationship to an opposing party's claim.
+
+In the case at hand, the counterclaimant alleges that the claims asserted in the amended complaint are "unjustified" and were brought in "bad faith and without color of right with the sole object of harassing and preventing defendant [Cooper] from competing in the manufacture and sale of flexible hose." This allegation demonstrates a relationship within the purview of Rule 13(a) to the amended complaint or counterclaim. As stated in Cooper v. Great Lakes Steel Div., the issue of the existence of ancillary jurisdiction and the issue as to whether a counterclaim is compulsory are to be answered by the same test.
+
+The defendants contend that the counterclaim is not compulsory because it is unrelated to the claims asserted in the amended complaint. However, the court finds that the counterclaim bears a logical relationship to the claims asserted in the amended complaint. Therefore, the counterclaim is compulsory and must be asserted in the same suit as the amended complaint.
+
+In conclusion, the court finds that the counterclaim is compulsory and must be asserted in the same suit as the amended complaint. The court's decision is based on the logical relationship between the claims and the same factual and legal issues that underlie the controversy between the parties. As stated in Cooper v. Great Lakes Steel Div., the doctrine of res judicata compels the counterclaimant to assert his claim in the same suit for it would be barred if asserted separately, subsequently.
+
+
+
+citations: ['286 F.2d 631', '430 F.2d 1077', '426 F.2d 709']
+
+gold_text: The defendants also contend that thousands of the class members will be customers whose accounts are delinquent, and who will therefore be subject to counterclaims by one or more of the defendants. As to those class members, the defendants argue, the presentation of counterclaims and defenses thereto will require “mini-trials,” and will render the damages phase of this case utterly unmanageable. I cannot accept this contention. Assuming arguendo that an absent class member is an “opposing party,” Fed.R.Civ.P. 13, against whom a counterclaim may be asserted, it appears at this point that any claims based on delinquent accounts would be permissive, rather than compulsory, counterclaims. See Great Lakes Rubber Corp. v. Herbert Cooper Co., 286 F.2d 631, 634 (3d Cir. 1961) (counterclaim is compulsory only where “separate trials on each of [the opposing parties’] respective claims would involve a substantial duplication of effort and time”). A district court may not, of course, entertain a permissive counterclaim unless an independent jurisdictional basis for it exists. E. g., United States v. Heyward-Robinson Co., 430 F.2d 1077, 1080 (2d Cir. 1970), cert. denied, 400 U.S. 1021, 91 S.Ct. 582, 27 L.Ed.2d 632 (1971); Revere Copper & Brass, Inc. v. Aetna Cas. & Sur. Co., 426 F.2d 709, 714 (5th Cir. 1970). Thus, the only counterclaims that I could hear in this case would be those that involved (1) an amount in excess of $10,000, and (2) a defendant and a class member of diverse citizenship. 28 U.S.C.A. § 1332(a)(1) (Supp.1977). Counterclaims that satisfy both requirements will, in all likelihood, be so few as to present no serious impediment to the management of this class action.
+
+label: 

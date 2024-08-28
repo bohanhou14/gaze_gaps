@@ -1,0 +1,14 @@
+**Generation:**
+
+
+In the context of ERISA, the written instrument clause aims to prevent collusive or fraudulent side agreements between employers and employees. The Supreme Court has consistently held that the remedies contained in ERISA section 502(a) are intended to be exclusive (Pilot Life Ins. Co. v. Dedeaux, 481 U.S. 41, 107 S.Ct. 1549, 95 L.Ed.2d 39 (1987)). The written instrument clause requires that every employee benefit plan be established and maintained pursuant to a written instrument (29 U.S.C. § 1102(a)(1)). The plan must also provide a procedure for amending the plan and identifying the persons who have authority to amend it (29 U.S.C. § 1102(b)(3)).
+
+In Nachwalter v. Christie, the Eleventh Circuit held that trustees of pension and profit sharing plans governed by ERISA may not be estopped from enforcing the plan's terms (Nachwalter v. Christie, 871 F.2d 1290, 1292 (11th Cir.1989)). Similarly, in Johnson v. Central States, Southeast and Southwest Areas Pension Funds, the Tenth Circuit held that benefits may not be enforced according to a booklet and letter that are inconsistent with the terms of a written pension plan (Johnson v. Central States, Southeast and Southwest Areas Pension Funds, 805 F.2d 956, 957 (10th Cir.1986)). These cases emphasize the importance of adhering to the written terms of the plan and preventing oral modifications.
+
+In light of these precedents, it is clear that the courts have consistently held that ERISA preempts state law claims that seek to create a federal common law remedy (Pilot Life, 481 U.S. at 52, 107 S.Ct. at 1555). Therefore, Weatherly's state law estoppel claim is preempted by ERISA. Furthermore, recognizing a federal common law-based estoppel claim would be inconsistent with the Supreme Court's holding in Russell, which emphasized the importance of adhering to the exclusive remedies provided in ERISA (Massachusetts Mut. Life Ins. v. Russell, 473 U.S. 134, 105 S.Ct. 3085, 87 L.Ed.2d 96 (1985)).
+
+citations: ['871 F.2d 1290', '805 F.2d 956']
+
+gold_text: The written agreement clause is intended to “prevent collusive or fraudulent side agreements between employers and employees ... [that] discriminate in favor of certain plan participants to the detriment of others____ Furthermore, the writing requirement protects the plan’s actuarial soundness by preventing plan administrators from contracting to pay benefits to persons not entitled to such under the express terms of the plan.” Cefalu v. B.F. Goodrich Co., 871 F.2d 1290, 1296 (5th Cir.1989). It is for that reason that oral modifications and informal written amendments to ERISA-governed plans are not enforceable. See Cefalu, 871 F.2d at 1296 (citing Nachwalter v. Christie, 805 F.2d 956, 960 (11th Cir.1986)).
+
+label: 

@@ -1,0 +1,15 @@
+**Generation:**
+
+It is critical to note that in antitrust litigation, interest on judgments has specific provisions. As seen in the reference case 449 F.2d 51, the treble damages device adequately serves the penal and remedial purposes of antitrust laws, and thus, adding moratory interest could lead to complex inquiries. Importantly, 28 U.S.C. § 1961 specifies that interest runs from the date of the entry of the judgment.
+
+The necessity of CAB's role in antitrust contexts, as discussed in 409 U.S. 363, emphasizes that control and surveillance of certain airline industry malpractices are within CAB's purview and not to be conflated with general antitrust sanctions. This context is tangentially relevant as it underscores complexity and specialization in antitrust oversight.
+
+Attorney fee calculations, as examined in 493 F.2d 383, must consider the magnitude and complexity of the case, the responsibility undertaken by counsel, and the litigation's overall time and labor. In setting attorney fees, courts are reminded not to be ungenerous, and reasonable hourly rates must account for the nuances of antitrust litigation.
+
+In summary, awarded counsel fees should reflect the significant hours expended, the considerable work quality, and the inherent litigation complexities, ensuring that the resultant fees align with established legal precedents.
+
+citations: ['449 F.2d 51', '409 U.S. 363', '493 F.2d 383']
+
+gold_text: Considering the fact that some antitrust suits lead to abnormally small amounts of recovery and yet in the public interest should be undertaken by counsel, it is evident that in many cases the fee allowed as reasonable will amount to more than the amount of recovery. It is also obvious that to allow a purely contingent fee would result in few counsel being interested in undertaking representation where the chance of recovery is poor and the amount to be recovered is so small even with a victory as not to justify the work. In Osborn v. Sinclair Refining Co., 207 F.Supp. 856 (D.C.Md. 1962) the amount of recovery was $975 and an attorney’s fee of $14,000 was awarded. This case was cited with approval in Perkins v. Standard Oil Co., 399 U.S. 222, 90 S.Ct. 1989, 26 L.Ed.2d 534 (1970). The Second Circuit has pointed out that a percentage of the recovery is not satisfactory in cases involving a small recovery because it gives undue weight to the size of the recovery and leads to too large a percentage where the recovery is large. See TWA Inc. v. Hughes, 312 F.Supp. 478 (S.D.N.Y. 1970) aff’d 449 F.2d 51 (2d Cir. 1971) reversed on other grounds 409 U.S. 363, 93 S.Ct. 647, 34 L.Ed.2d 577 (1973). An amount larger than the recovery was allowed in Lockton v. Day Glo Color Corp., 378 F.Supp. 23 (D.C.Ill.1974). Finally in Morning Pioneer Inc. v. Bismarck Tribune Co., 493 F.2d 383 (8th Cir. 1974) it was held that where the amount of recovery is small, attorney’s fees in excess of the award may be granted.
+
+label: 

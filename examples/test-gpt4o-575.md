@@ -1,0 +1,11 @@
+**Generation:**
+
+Haubrich also claims that the district court did not inform him of the potential impact of being sentenced as a career offender or the effect of his escape on the sentence, leading to an involuntary plea. However, Rule 11 does not require courts to calculate and explain the Sentencing Guidelines before accepting a plea, as long as the defendant is informed of the statutory minimum and maximum penalties (877 F.2d 1138). Additionally, the court’s failure to predict a sentence under the Guidelines does not constitute plain error (902 F.2d 483).
+
+Moreover, Haubrich was adequately informed of the possible statutory penalties, satisfying Rule 11 requirements. Courts are not obligated to outline specific sentencing guidelines probabilities during plea hearings (27 F.3d 321). Given these points and the substantial benefits Haubrich received from the plea agreement, there is no reasonable probability he would have proceeded to trial if he had received further details about the career offender status and consequences of his escape.
+
+citations: ['902 F.2d 483', '27 F.3d 321', '877 F.2d 1138']
+
+gold_text: Haubrich complains the district court erred by failing to address the maximum sentence if he were found to be a career criminal under U.S.S.G. § 4B1.1. The Guidelines, however, do not alter the underlying criminal statutes and do not impose a “maximum” or “mandatory minimum” penalty within the meaning of Rule 11(b)(1). See United States v. Salva, 902 F.2d 483, 486-87 (7th Cir.1990). Rule 11 does not require the court to predict the applicable guideline range. Thomas v. United States, 27 F.3d 321, 324 (8th Cir.1994), citing United States v. Fernandez, 877 F.2d 1138, 1143-44 (2d Cir.1989). Even though U.S.S.G. § 4B1.1 may affect the punishment imposed, Rule 11(c)(1) requires only that the district court inform the defendant that it must consider the Guidelines but may depart from them. Haubrich also agreed to be bound by his guilty plea, even if the sentence was more severe than expected.
+
+label: 

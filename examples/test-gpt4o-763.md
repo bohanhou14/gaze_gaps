@@ -1,0 +1,13 @@
+**Generation:**
+
+The plaintiff’s allegations concerning the excessive force used by the unnamed ERT officers form a valid Eighth Amendment claim that cannot be dismissed on a motion to dismiss. According to *Hudson v. McMillian*, 503 U.S. 1, 112 S.Ct. 995, 117 L.Ed.2d 156 (1992), the “core judicial inquiry” is whether the force was applied in "a good-faith effort to maintain or restore discipline, or maliciously and sadistically to cause harm.” In this case, the plaintiff alleges that he was beaten, stomped, and struck with a flashlight while handcuffed, and subjected to derogatory remarks by ERT officers. These allegations suggest that the force was applied maliciously, rather than for legitimate disciplinary purposes.
+
+Further, as clarified in *Hudson*, de minimis uses of physical force are excluded from constitutional recognition unless they are "repugnant to the conscience of mankind" (503 U.S. at 9-10, 112 S.Ct. at 1000). Here, allegations of repeated beating to the point of losing consciousness and subsequent denial of medical treatment describe a scenario far beyond de minimis force and raise serious questions about the officers' intent and the proportionality of their response.
+
+Therefore, considering the key principles stemming from *Hudson* and evaluative components outlined in *Whitley v. Albers*, 475 U. S. 312 (1986), the plaintiff’s claims against the unnamed ERT officers withstand the motion to dismiss. The specifics of the force used, the extent of injuries reported, and the context provided by the plaintiff indicate that the actions of the ERT officers might satisfy the criteria for an Eighth Amendment violation due to excessive force. Consequently, the motion to dismiss these claims should be denied in alignment with the established precedents.
+
+citations: ['77 F.3d 626', '501 U.S. 294']
+
+gold_text: In considering whether an Eighth Amendment violation has occurred, courts examine both objective and subjective components of the above factors. See Duamutef v. Fial, 922 F.Supp. 807, 815 (W.D.N.Y.1996). The objective component of the alleged violation relates to the seriousness of the injury. See Branham v. Meachum 77 F.3d 626, 630 (2d Cir.1996) (citing Hudson, 503 U.S. at 1, 112 S.Ct. at 995-96). The subjective component relates to whether the defendants had a sufficiently culpable state of mind when they were engaging in the alleged misconduct. See Hudson, 503 U.S. at 8, 112 S.Ct. at 999-1000; Wilson v. Seiter, 501 U.S. 294, 300, 111 S.Ct. 2321, 2325, 115 L.Ed.2d 271 (1991) (“If pain inflicted is not formally meted out as punishment by the statute or the sentencing judge, some mental element must be attributed to the inflicting officer before it can qualify.”).
+
+label: 

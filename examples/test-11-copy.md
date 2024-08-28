@@ -1,0 +1,283 @@
+**gold_text:**
+There are two ways to read the majority opinion. One, which tracks its language and has been echoed
+in opinions in this and other circuits, e.g., Jenkins v. Price Waterhouse Long Term Disability Plan,
+564 F.3d 856, 861-62 (7th Cir.2009); Holland v. Int’l Paper Co. Retirement Plan, 576 F.3d 240,
+246-49 (5th Cir.2009), makes the existence of a conflict of interest one factor out of many in
+determining reasonableness. That sounds like a balancing test in which unweighted factors
+mysteriously are weighed. Such a test is not conducive to providing guidance to courts or plan
+administrators. “Multifactor tests with no weight assigned to any factor are bad enough from the
+standpoint of providing an objective basis for a judicial decision; multifactor tests when none of
+the factors is concrete are worse.” Menard, Inc. v. Commissioner, 560 F.3d 620, 622-23 (7th
+Cir.2009) (citations omitted); see also Sullivan v. William A. Randolph, Inc., 504 F.3d 665, 671
+(7th Cir.2007); Short v. Belleville Shoe Mfg. Co., 908 F.2d 1385, 1394 (7th Cir.1990) (concurring
+opin ion); Stevens v. Tillman, 855 F.2d 394, 399-400 (7th Cir.1988).
+
+**Generations:**
+
+
+***GPT-4o:***
+However, the inherent conflict of interest should not automatically nullify the deference usually
+afforded to the plan administrator's decision. In evaluating the impact of such a conflict, it is
+essential to weigh it alongside other factors, as outlined in Metropolitan Life Ins. Co. v. Glenn.
+The conflict "acts as a tiebreaker when the other factors are closely balanced" (564 F.3d 856). It
+becomes significant when there's a "higher likelihood" that it affected the decision, especially in
+cases with a demonstrated history of biased claims administration.  In this context, the decision of
+whether an amendment to the plan that curtailed Marrs’s benefits was reasonable falls under the
+administrator's interpretive discretion. As reiterated by the Supreme Court in Firestone, deference
+is warranted as long as the interpretation is not "arbitrary and capricious." This principle
+balances the plan administrator's discretion while acknowledging potential conflicts, aligning with
+Glenn's nuanced approach (576 F.3d 240).  The careful scrutiny over conflicts of interest does not
+imply outright dismissal of the administrator's decision but rather a contextual assessment of its
+reasonableness, particularly when the plan confers such discretion (560 F.3d 620). This approach
+ensures that plan administrators' decisions hold, provided they exhibit reasonable grounds (504 F.3d
+665). Consequently, while acknowledging possible bias, the administrator's interpretation of the
+amendment in Marrs's case stands as reasonable and is thus upheld (855 F.2d 394).
+
+
+**Label:** 2, 6
+
+
+***Meta-Llama-3-8B-Instruct:***
+ <answer>  This case presents the question whether an employee welfare benefits plan creates an
+entitlement to lifetime benefits or just to benefits that can be terminated by an amendment to the
+plan. The plan administrator, Motorola, amended the plan to place a two-year limit on benefits for
+disability resulting from certain mental conditions, including the plaintiff's condition.  The
+plaintiff, Marrs, argues that the plan's provision stating that no amendment shall adversely affect
+the rights of any participant to receive benefits with respect to periods of disability prior to the
+adoption date of the amendment is violated. He interprets "periods of disability prior to the
+adoption date" to mean one or more periods of disability that began before the plan was amended but
+may not have ended before then. However, the plan administrator's interpretation is reasonable, and
+we are inclined to stop with that observation.  The Supreme Court's decision in Glenn v.
+Metropolitan Life Ins. Co. (128 S.Ct. 2343, 171 L.Ed.2d 299 (2008)) is relevant in this case. The
+Court held that a conflict of interest by the plan administrator should be given weight in judicial
+review of the denial of benefits. However, the weight to be given to the conflict of interest
+depends on the circumstances of the case.  In this case, the plan administrator had an incentive to
+resolve a close case in favor of a denial of benefits, but this incentive may be outweighed by other
+incentives, such as an employer's interest in maintaining a reputation among current and prospective
+employees for fair dealing. The employees who actually decide benefits claims at the plan-
+administrator level may not be acutely concerned with the financial implications of a benefits award
+for their employer.  We conclude that the plan administrator's decision to deny benefits is
+reasonable and that the conflict of interest does not render the decision unreasonable. The judgment
+of the district court is Affirmed.  References: 1. Glenn v. Metropolitan Life Ins. Co., 128 S.Ct.
+2343, 171 L.Ed.2d 299 (2008) 2. Marrs v. Motorola, 908 F.2d 1385 (7th Cir. 1990) 3. Rogers v.
+Department of Health & Environmental Control, 174 F.3d 431, 435 (4th Cir. 1999) 4. Kahane v. UNUM
+Life Ins. Co., 563 F.3d 1210, 1212 (11th Cir.
+
+
+**Label:** 3, 10, 6, 2
+
+
+***Meta-Llama-3-8B-Instruct-finetuned:***
+  The Administrator’s conflict of interest is not the only factor that might bear on the question
+whether the plan administrator’s denial of benefits was reasonable. Other factors, such as the
+administrator’s interpretation of the plan, the extent to which the administrator’s decision was
+based on a reasonable interpretation of the plan, the administrator’s decisionmaking process, and
+the administrator’s past practices, are also relevant. See, e.g., Jenkins v. Northrop Grumman Corp.,
+564 F.3d 856, 862 (7th Cir.2009) (the “‘conflict of interest’ factor is not a trump card, but rather
+one of many factors to be considered in determining whether the administrator’s decision is
+reasonable”); King v. Retirement Plan of International Paper Co., 576 F.3d 240, 244 (7th Cir.2009)
+(“[W]e must consider the administrator’s decisionmaking process, including the extent to which the
+administrator’s decision was based on a reasonable interpretation of the plan”); Rutter v.
+Commissioner, 560 F.3d 620, 625 (7th Cir.2009) (the “‘conflict of interest’ factor is one of the
+several factors that courts should consider when reviewing a plan administrator’s denial of
+benefits”); Champion v. Black & Decker (U.S.) Inc., 550 F.3d 353, 362 (4th Cir.2008) (same); Lowe v.
+McGraw-Hill Cos., 504 F.3d 665, 671 (7th Cir.2007) (same); and Ex-acto Spring Corp. v. Commissioner,
+196 F.3d 833, 834 (7th Cir.1999) (same). For the reasons explained in these cases, we conclude that
+the Administrator’s conflict of interest is a factor that should be given some weight in determining
+whether the Administrator’s denial of benefits was reasonable. The Administrator’s conflict of
+interest is not the only factor that might bear on the question whether the Administrator’s denial
+of benefits was reasonable. Other factors, such as the Administrator’s interpretation of the plan,
+the extent to which the Administrator’s decision was based on a reasonable interpretation of the
+plan, the Administrator’s decisionmaking process, and the Administrator’s past practices, are also
+relevant. See, e.g., Jenkins v. Northrop Grumman Corp., 564 F.3d 856, 862 (7th Cir.
+
+
+**Label:** 
+
+
+**citations:** ['564 F.3d 856', '576 F.3d 240', '560 F.3d 620', '504 F.3d 665', '908 F.2d 1385', '855 F.2d 394']
+
+***short_citations_0:*** 564 F.3d 856
+
+And this is not the kind of case where the conflict-of-interest factor plays an important role. In Glenn, the Supreme Court said the presence of a conflict will “act as a tiebreaker when the other factors are closely balanced.” Glenn, 128 S.Ct. at 2351. When the case is borderline, in other words, the inherent conflict of interest that exists in so many of these situations can push it over the edge — towards a finding of caprieiousness. See Champion v. Black & Decker (U.S.) Inc., 550 F.3d 353, 362 (4th Cir.2008). This is not one of those borderline cases. Nevertheless, Jenkins suggests that it is impossible to reconcile the initial determination of disability with the later decision that he could attempt full-time sedentary employment. At best, Jenkins argues, the evidence showed that his condition was stable. If that condition was grave enough to warrant disability in 1994, why wasn’t it sufficient in 2006? But Jenkins fails to recognize what CGLIC (and the general population, it seems) thought HIV and AIDS meant in the early 1990s. That impression was that HIV (and certainly AIDS) brought rapid death. Thankfully, the prognosis has changed — in large measure due to new drugs — both for Jenkins and countless others. It was not “downright unreasonable” for CGLIC to shift its position along with that change when the medical evidence supported it. The judgment of the district court is Affirmed. . Sub-Saharan Africa being a tragic exception. . Another long-time victim of HIV was on
+
+***short_citations_1:*** 576 F.3d 240
+
+KING, Circuit Judge: Plaintiff Derrell Holland brings this suit against Defendant Retirement Plan of International Paper Co. alleging that he was denied disability retirement benefits in violation of provisions of the Employee Retirement Income Security Act. The Plan Administrator denied Holland’s application for disability retirement benefits. The district court granted Holland relief from that denial, on the ground that the Plan Administrator abused its discretion, and awarded retirement benefits to Holland. The Retirement Plan now appeals. We reverse and remand for entry of judgment in favor of the Retirement Plan because the Plan Administrator did not abuse its discretion. I. FACTUAL BACKGROUND AND PROCEDURAL HISTORY Derrell Holland worked at International Paper Co.’s mill in Bastrop, Louisiana, for over thirty-six years. During that time, he held positions of paper machine specialist, equipment operator, dispatcher, and, most recently, fire protection specialist. With the exception of the dispatcher position, which he performed for about two years, Holland’s positions required heavy physical exertion. On April 28, 2003, Holland suffered a myocardial infarction (heart attack), had a pacemaker inserted, and was unable to return to his position as a fire protection specialist due to the physical demands of the position. He applied for and received thirty-nine weeks of sickness and accident benefits. He also applied for disability retirement benefits under the Retirement Plan of International Paper Co. (the “Plan”). The Plan is an employee welfare benefit plan governed by the Employee Retirement Income Security Act (“ERISA”). International Paper funds the Plan by making irrevocable, non-reversionary,
+
+***short_citations_2:*** 560 F.3d 620
+
+1091, 1095 (9th Cir.2000); Alpha Medical, Inc. v. Commissioner, 172 F.3d 942, 946 (6th Cir.1999); Rutter v. Commissioner, 853 F.2d 1267, 1271 (5th Cir.1988). (Alpha and Rutter each list nine factors.) We reviewed a number of these attempts in Exacto Spring Corp. v. Commissioner, 196 F.3d 833 (7th Cir.1999), and concluded that they were too vague, and too difficult to opera-tionalize, to be of much utility. Multifactor tests with no weight assigned to any factor are bad enough from the standpoint of providing an objective basis for a judicial decision, Farmer v. Haas, 990 F.2d 319, 321 (7th Cir.1993); Prussner v. United States, 896 F.2d 218, 224 (7th Cir.1990) (en banc); Palmer v. Chicago, 806 F.2d 1316, 1318 (7th Cir.1986); United States v. Borer, 412 F.3d 987, 992 (8th Cir.2005); multifactor tests when none of the factors is concrete are worse, and that is the character of most of the multifactor tests of excessive compensation. They include such semantic vapors as “the type and extent of the services rendered,” “the scarcity of qualified employees,” “the qualifications ... of the employee,” his “contributions to the business venture,” and “the peculiar characteristics of the employer’s business.” All businesses are different, all CEOs are different, and all compensation packages for CEOs are different. In Ex-acto, in an effort to bring a modicum of objectivity to the determination of whether a corporate owner/employee’s compensation is “reasonable,” we created the presumption that “when ... the investors in his company are obtaining a far higher return
+
+***short_citations_3:*** 504 F.3d 665
+
+personally an award of attorneys’ fees; (3) whether or not an award of attorneys’ fees against the offending parties would deter other persons acting under similar circumstances; (4) the amount of benefit conferred on members of the pension plan as a whole; and (5) the relative merits of the parties’ positions.” 728 F.2d at 828-29. The five-factor test continues to be intoned in this circuit, often in conjunction with the Bittner test. E.g., Lowe v. McGraw-Hill Cos., supra, 361 F.3d at 339. Two tests to govern the same issue might well seem — even though they are not inconsistent — one too many, Eddy v. Colonial Life Ins. Co. of America, 59 F.3d 201, 210 (D.C.Cir.1995) (dissenting opinion), especially when one is a multifactor test; such tests tend to be “redundant, incomplete, and unclear.” Palmer v. City of Chicago, 806 F.2d 1316, 1318 (7th Cir. 1986); see also Exacto Spring Corp. v. Commissioner, 196 F.3d 833, 834 (7th Cir. 1999); Stevens v. Tillman, 855 F.2d 394, 399-400 (7th Cir.1988). Consider: Factor 1 (bad faith) identifies a basis for awarding (or refusing to award) attorneys’ fees that owes nothing to the fee-shifting provision of ERISA, because, as we noted in Bittner v. Sadoff & Rudoy Industries, supra, 728 F.2d at 828, courts have inherent authority to award attorney’s fees as a sanction for conducting litigation in bad faith. Chambers v. NASCO, Inc., 501 U.S. 32, 46-47, 50, 111 S.Ct. 2123, 115 L.Ed.2d 27 (1991); Stive v. United States, 366 F.3d 520,
+
+***short_citations_4:*** 908 F.2d 1385
+
+material inside information violates Rule 10b-5, the only way to apply a single statute of limitations to all actions under that Rule is to use § 20A(b)(4). Clever lawyers could describe even a garden variety fraud as “purchasing or selling a security while in possession of material, nonpublic information” — that is, the truth — blurring the line between the offenses and making the choice of a period of limitations difficult. Moreover, § 20A offers plaintiffs more time than does § 13. Section 10(b) and Rule 10b-5 require the plaintiff to prove scienter, which a plaintiff under § 12(2) need not; perhaps the additional years are appropriate to the extra requirements of litigation under Rule 10b-5. Interests in uniformity tug both ways: if we choose § 20A we shall have one statute of limitations for all Rule 10b-5 cases in the seventh circuit, but different rules in the seventh and third circuits. If we choose § 13 we shall be in line with the third circuit, but different kinds of claims under Rule 10b-5 will be subject to different periods of limitations. The latter diversity is likely to be tolerable. To obtain the five-year period of § 20A, the plaintiff would have to sue under § 20A, establish trading by an insider (Belleville Shoe’s insiders did not trade with Short), and accept the limitations of that statute, including the restriction of damages to the defendants’ profit (as opposed to the plaintiff’s loss). In the great bulk of cases, there will
+
+***short_citations_5:*** 855 F.2d 394
+
+has or implies an evaluative component. Even the statement “I don’t like the color blue” implies a proposition about the speaker’s sensibilities; he could be lying about his own dislikes or mistaken in the sense that on further reflection he would say something different about the color blue. The statement “mauve is a lousy color” implies “I don’t like mauve”, with the same difficulties. The statement “socialism is better than capitalism”, seemingly an opinion dependent on the speaker’s preferences about control of productive assets, could be false in the sense that the speaker, who holds certain values, might conclude after reflection (and access to data) that capitalism serves his own values better than socialism does. Much modern political and ethical philosophy consists in efforts to demonstrate that statements about justice and other hard-to-pin-down terms may be reduced to less contentious statements that will be accepted (with their logical implications) in a way that produces agreement. Statements of “pure” opinion also may imply or depend on facts. One may say “Jones has a tin ear”, implying something about his behavior that may be false. One may say “George Stigler did not deserve the Nobel Prize” because one believes that Frank Knight should have received it; but Knight died before Stigler received the prize, and on learning that there are no posthumous Nobel Prizes this person too might favor Stigler. The statement “no one will ever build a heavier-than-air flying machine” is opinion in 1900 and false in 1905. The statement “Paul
+
+**prev_text:**
+POSNER, Circuit Judge. This suit under ERISA for disability payments presents the recurring question
+whether an employee welfare benefits plan creates an entitlement to lifetime benefits rather than
+just to benefits that can be terminated by an amendment to the plan. In 1997 Michael Marrs, an
+employee of Motorola, ceased working because of a psychiatric condition and began drawing disability
+benefits under Motorola’s Disability Income Plan. Six years later Motorola amended the plan to place
+a two-year limit on benefits for disability resulting from certain “Mental, Nervous, Alcohol, [or]
+Drug-Related” (MNAD) conditions, including Marrs’s. Such limitations on MNAD conditions are common
+in employee disability plans. Rogers v. Department of Health & Environmental Control, 174 F.3d 431,
+435 (4th Cir.1999); see, e.g., Krolnik v. Prudential Ins. Co., 570 F.3d 841, 842 (7th Cir.2009);
+Hackner v. Long Term Disability Plan for Employees of Havi Group LP, 81 Fed.Appx. 589, 591 (7th
+Cir.2003); Kahane v. UNUM Life Ins. Co., 563 F.3d 1210, 1212 (11th Cir.2009); Steven J. Sacher et
+al., Employee Benefits Law 1003-05, 1147-48 (2d ed. Supp.2008); cf. Dana L. Kaplan, “Can Legislation
+Alone Solve America’s Mental Health Dilemma? Current State Legislative Schemes Cannot Achieve Mental
+Health Parity,” 8 Quinnipiac Health L.J. 325, 328-30 (2005). Previously, however, Motorola had
+imposed no time limit on the receipt of such benefits. Although Marrs had already received benefits
+for more than two years, he was given an additional two years of benefits, starting on the date of
+the amendment. That period has ended and the benefits have ceased. His suit is on behalf of himself
+and others in the same position, and a class action has been certified. The district court granted
+summary judgment in Motorola’s favor. In an earlier stage of the litigation, the district court had
+dismissed two other claims under Rule 12(b)(6). Marrs renews them on appeal, but they are too
+clearly without merit to require us to discuss them. Marrs contends that the application of the
+amendment to persons in his situation violates a provision of the disability-income plan that, like
+the provision in Article V of the U.S. Constitution according to which a state cannot by
+constitutional amendment be deprived of its right to two senators without its consent, limits
+Motorola’s power to amend the plan. The provision states that no amendment “shall adversely affect
+the rights of any Participant to receive benefits with respect to periods of Disability prior to the
+adoption date of the [amendment].” Marrs interprets “periods of Disability prior to the adoption
+date” to mean one or more periods of disability that began before the plan was amended but may not
+have ended before then. That is a forced reading. The reference in the plan to “periods” rather than
+“period” suggests the segmentation of a period of disability, with some segments (“periods”) lying
+before and some after the amendment. It is true that the plan defines the term “Period of
+Disability” to mean “one or more periods of absence from Active Employment due to Disability,” and
+if we substituted “Period of Disability prior to the plan” for “periods of Disability prior to the
+plan” we would come closer to Marrs’s preferred interpretation. But the plan provides that only
+words the initial letters of which are capitalized are defined terms, and so “periods of Disability”
+cannot be equated to “Period of Disability.” Marrs’s interpretation is further undermined by the
+disability plan that was in force in 1997 when he stopped working and that states that if a
+participant became disabled prior to 1994, the benefit levels specified in the disability income
+plan in force then would “continue in force until [the participant] returns to work for thirty (30)
+days.” This provision would be surplusage in the superseding plan (where it also appears) if the
+plan guaranteed the continuation of disability benefits without diminution even if, as in Marrs’s
+case, the disability did not arise before 1994. Whether this interpretation of the plan, which is
+the plan administrator’s interpretation, is correct or not, it is reasonable; and we are inclined to
+stop with that observation. But Marrs asks us to give no weight to the administrator’s
+interpretation because the administrator labored under a conflict of interest: Motorola is both the
+plan administrator and the payor of benefits awarded under the plan. Marrs cites the Supreme Court’s
+recent decision in Metropolitan Life Ins. Co. v. Glenn, — U.S. -, 128 S.Ct. 2343, 171 L.Ed.2d 299
+(2008), which addresses the significance of a conflict of interest by the plan administrator when,
+as in that case and this one, the plan commits the decision whether to award benefits to the
+administrator’s discretion. (If the plan did not confer discretion on the administrator, his
+decision would be entitled to no deference by the reviewing court.) Marrs reads Glenn to require “a
+more penetrating inquiry into the actions of a conflicted administrator” than the ear lier case law,
+which was all over the map— see Kathryn J. Kennedy, “Judicial Standard of Review in ERISA Benefit
+Claim Cases,” 50 Am. U.L.Rev. 1083, 1135-62 (2001); see also Denmark v. Liberty Life Assurance Co.,
+566 F.3d 1, 6 (1st Cir.2009)—had required. Although normally an employer can amend a welfare
+benefits plan without regard to the employees’ interests, Hughes Aircraft Co. v. Jacobson, 525 U.S.
+432, 443-44, 119 S.Ct. 755, 142 L.Ed.2d 881 (1999); Curtiss-Wright Corp. v. Schoonejongen, 514 U.S.
+73, 78, 115 S.Ct. 1223, 131 L.Ed.2d 94 (1995), remember that Marrs’s claim is that the amendment
+curtailing his benefits violated the plan, and that is a claim of wrongful denial of benefits and so
+the Supreme Court’s concern with “conflicted” administrators would seem pertinent. True, the issue
+in this case is the interpretation of a plan document rather than the application of the plan’s
+criteria for an award of benefits to particular facts; and the interpretation of a contract, unless
+extrinsic evidence is considered, is usually treated as an issue of law, which an appellate tribunal
+therefore resolves without deferring to the opinion of the first-line decision maker. But when an
+ERISA plan gives the plan administrator discretion to interpret its terms as well as to determine
+eligibility for benefits under terms the meaning of which is not questioned, the court can, as the
+parties to this case agree, reject the administrator’s interpretation only if it is unreasonable
+(“arbitrary and capricious”). Firestone Tire & Rubber Co. v. Bruch, 489 U.S. 101, 115, 109 S.Ct.
+948, 103 L.Ed.2d 80 (1989); Carr v. Gates Health Care Plan, 195 F.3d 292, 294 (7th Cir.1999) (“under
+the arbitrary and capricious standard, the administrator’s decision will only be overturned if it is
+‘downright unreasonable.’ A denial of benefits will not be set aside if the denial was based upon a
+reasonable interpretation of the plan documents”) (citations omitted); Call v. Ameritech Management
+Pension Plan, 475 F.3d 816, 822 (7th Cir.2007). And both the original and the amended plan in this
+case confer discretion on the plan administrator to “construe and interpret the Plan, decide all
+questions of fact and questions of eligibility and determine the amount, manner and time of payment
+of any benefits hereunder” (emphasis added). The administrator is not by virtue of such a grant of
+authority free to disregard unambiguous language in the plan, id. at 822-23; Swaback v. American
+Information Technologies Corp., 103 F.3d 535, 540 (7th Cir.1996) (“if fiduciaries or administrators
+of an ERISA plan controvert the plain meaning of a plan, their actions are arbitrary and
+capricious”) — that would be unreasonable. But the administrator’s use of interpretive tools to
+disambiguate ambiguous language is, one would think, by the terms of the plan entitled to
+deferential consideration by a reviewing court. Yet Vallone v. CNA Financial Corp., 375 F.3d 623
+(7th Cir.2004), although noting that the plan in that case gave the plan administrator interpretive
+discretion, treats the question whether benefits claimed by the plaintiffs had vested as a straight
+issue of contract interpretation. The court seemed to give no weight to the plan administrator’s
+judgment, though in the end agreeing with the administrator’s denial of benefits. But the court was
+mirroring the parties’ emphasis, and it did not say that the grant of interpretive discretion to a
+plan administrator is entitled to no weight, although one passage in the opinion could be thought to
+imply this. See id. at 632. Any such implication would be in tension with the Firestone and Carr
+decisions — and the former is a Supreme Court decision, which is a trump. Confusion may have been
+injected into the issue of deference to interpretive discretion by cases which say that the
+interpretation of an ERISA plan is governed by the ordinary federal common law principles of
+contract interpretation, e.g., Ruttenberg v. United States Life Ins. Co., 413 F.3d 652, 659 (7th
+Cir.2005); Mathews v. Sears Pension Plan, 144 F.3d 461, 465 (7th Cir.1998); Dobson v. Hartford
+Financial Services Group, Inc., 389 F.3d 386, 399 (2d Cir.2004), and by cases in this circuit that
+say that welfare benefits plans are presumed not to create lifetime benefits. Hackett v. Xerox Corp.
+Long-Term Disability Income Plan, 315 F.3d 771, 774 (7th Cir.2003); Rossetto v. Pabst Brewing Co.,
+217 F.3d 539, 543 (7th Cir.2000); contra, Gibbs v. CIGNA Corp., 440 F.3d 571, 576 (2d Cir.2006). But
+these statements, so far as applicable to plans in which the administrator is given interpretive
+discretion, are properly understood as aids to determining whether the denial of benefits by the
+administrator is reasonable, rather than as warrants for a court’s resolving interpretive disputes
+without any deference to the administrator’s exercise of interpretive discretion. Thus, as explained
+in Ross v. Indiana State Teacher’s Ass’n Ins. Trust, 159 F.3d 1001, 1011 (7th Cir. 1998), “although,
+generally, ambiguities in an insurance policy are construed in favor of an insured, in the ERISA
+context in which a plan administrator has been empowered to interpret the terms of the plan, this
+rule does not obtain. See Morton v. Smith, 91 F.3d 867, 871 n. 1 (7th Cir.1996) (explaining that
+rule of contra proferentem applies only when courts undertake de novo review of an administrator’s
+interpretation of an ERISA plan).” The play between principles of contract interpretation and the
+scope of review of a plan administrator’s decision is illustrated by Hackett. The court had to
+determine which version of a plan controlled the determination of entitlement to disability
+benefits. The earlier version did not grant interpretive authority to the plan administrator, but
+the later one did, so we had to determine as a matter of contract law which plan controlled because
+that would determine the standard of review of the plan administrator’s interpretation that we
+should use. 315 F.3d at 773-74. In this case both plans confer interpretive authority on the plan
+administrator. But maybe the court in Vallone thought that an alleged misinterpretation of a plan’s
+eligibility criteria is less serious than an alleged misinterpretation of a plan provision that
+affects an employer’s right to amend it without trampling on vested rights, and therefore that
+appellate review of the latter claim should be less deferential. Neither Vallone nor, to our
+knowledge, any other case says that. Nor is it apparent why the interpretive principles (including
+the scope of judicial review of the first-line interpreter’s decision) that govern the two types of
+issue should differ. In any event we do not think that the Glenn decision has the significance that
+Marrs attaches to it even if it is fully applicable to cases involving the interpretation of plan
+amendments alleged to infringe on vested rights. When a payment of benefits comes out of the plan
+administrator’s pocket, the administrator has an incentive to resolve a close case in favor of a
+denial of benefits. But that incentive may be outweighed by other incentives, such as an employer’s
+interest in maintaining a reputation among current and prospective employees for fair dealing — a
+reputation that may enable him to obtain a better-quality employee at a lower cost in wages and
+benefits. E.g., Williams v. Interpublic Severance Pay Plan, 523 F.3d 819, 821-22 (7th Cir.2008).
+Then too, the employees who actually decide benefits claims at the plan-administrator level may not
+be acutely concerned with the financial implications of a benefits award for their employer. Id. at
+821; Perlman v. Swiss Bank Corp. Comprehen sive Disability Protection Plan, 195 F.3d 975, 981 (7th
+Cir.1999). But especially when a firm is struggling (which may or may not be the case here — there
+is nothing in the record bearing on the question), an opportunity for short-run economies may
+dominate decision making by benefits officers. In any event, a majority of the Supreme Court
+Justices consider the potential conflict of interest of a plan administrator (or its staff) serious
+enough to be given weight in judicial review of the denial of benefits. But how much weight should
+it be given? The nub of the Glenn opinion is the following passage: [W]hen judges review the
+lawfulness of benefit denials, they will often take account of several different considerations of
+which a conflict of interest is one. This kind of review is no stranger to the judicial system. Not
+only trust law, but also administrative law, can ask judges to determine lawfulness by taking
+account of several different, often case-specific, factors, reaching a result by weighing all
+together. In such instances, any one factor will act as a tiebreaker when the other factors are
+closely balanced, the degree of closeness necessary depending upon the tiebreaking factor’s inherent
+or case-specific importance. The conflict of interest at issue here, for example, should prove more
+important (perhaps of great importance) where circumstances suggest a higher likelihood that it
+affected the benefits decision, including, but not limited to, cases where an insurance company
+administrator has a history of biased claims administration. It should prove less important (perhaps
+to the vanishing point) where the administrator has taken active steps to reduce potential bias and
+to promote accuracy, for example, by walling off claims administrators from those interested in firm
+finances, or by imposing management checks that penalize inaccurate decisionmaking irrespective of
+whom the inaccuracy benefits. 128 S.Ct. at 2351 (citations omitted). A dissent by Justice Scalia
+argued that a conflict of interest should prompt an inquiry only into the existence of improper
+motive that would render the plan administrator’s decision unreasonable. If the decision is
+reasonable, he argued, in the sense in which “a reasonable decision is one over which reasonable
+minds seeking the ‘best’ or ‘right’ answer could disagree,” the fact that the administrator had a
+conflict of interest is irrelevant, id. at 2360, “unless the conflict actually and improperly
+motivates the decision.” Id. at 2357 (emphasis in original).
+
+

@@ -1,0 +1,13 @@
+**Generation:**
+
+In addressing the Secretary's sovereign immunity claim, we turn to established precedents. The case of 742 F.2d 729 clarifies that reinstating benefits to those previously determined to be disabled is lawful, provided there are procedurally correct determinations pending. It underscores that the Act authorizes benefit payments following a final decision by the Secretary or a court's final judgment, pursuant to 42 U.S.C. § 405(i). The District Court's invalidation of the Secretary's termination decisions justifies reinstating the earlier favorable decisions.
+
+Similarly, the ruling in 725 F.2d 1489 supports the district court's power to interdict enforcement of the Secretary's decision by reinstating the previous "final decision" of disability benefits during the interim period. This is within the traditional equitable power to preserve the status quo pending final determination.
+
+Thus, employing these precedents, we conclude that the district court’s order for prospective reinstatement of benefits to the plaintiff class pending proper Section 301 determinations stands on firm legal ground and does not infringe on the principle of sovereign immunity.
+
+citations: ['742 F.2d 729', '725 F.2d 1489']
+
+gold_text: The Secretary argues that because the statute provides that there must be a “final decision” by the Secretary or a “final judgment” by a court that the person is “entitled” to benefits, see 42 U.S.C. § 405(i) (1982), sovereign immunity proscribes the district court’s order to reinstate benefits to the plaintiff class pending completion of their Section 301 determinations. The Secretary cites no authority applying sovereign immunity to restrict a court’s right to reinstate Social Security benefits improperly terminated. In fact three circuits have considered and rejected the Secretary’s “sovereign immunity” assertion. The Second Circuit explained, “the payment of benefits to wrongfully terminated recipients follows a final decision of the Secretary and consequently is consistent with the requirements of Section 405(i).” City of New York v. Heckler, 742 F.2d 729, 740 (2d Cir.1984), opinion on petition for rehearing, 755 F.2d 31 (2d Cir.1985), petition for cert. filed, — U.S. -, 105 S.Ct. 3552, 87 L.Ed.2d 671 (1985) (citing Lopez v. Heckler, 725 F.2d 1489, 1508-09 (9th Cir.), vacated and remanded on other grounds, — U.S. -, 105 S.Ct. 583, 83 L.Ed.2d 694 (1984) and Mental Health Association v. Heckler, 720 F.2d at 972 n. 18 (8th Cir.1983)). Since we find this argument persuasive and dispositive we need not in this case rely on any more general waiver of sovereign immunity in the Social Security Act or on our inherent equitable powers.
+
+label: 

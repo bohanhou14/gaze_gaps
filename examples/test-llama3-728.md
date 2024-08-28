@@ -1,0 +1,19 @@
+**Generation:**
+
+ 
+<answer>
+The reference cases provided offer valuable insights into the nature of jurisdictional and non-jurisdictional rules. In Kontrick v. Ryan, 540 U.S. 443, the Supreme Court emphasized that procedural rules adopted by the Court for the orderly transaction of its business are not jurisdictional. Similarly, in Gonzalez v. Oregon, 568 U.S. 145, the Court held that a requirement set forth in a statute is not jurisdictional simply because it is placed in a section of the statute that also contains jurisdictional provisions.
+
+In United States v. Robinson, 560 U.S. 631, the Court recognized that a nonjurisdictional federal statute of limitations is normally subject to a rebuttable presumption in favor of equitable tolling. This principle is also applicable to the calculation of time limits in bankruptcy proceedings. As noted in Grella v. Zimmerman (In re Art & Co., Inc.), 617 F.3d 1065, the calculation of time limits in § 546(a) is governed by Rule 9006(a), which applies to any statute that does not specify a method of computing time.
+
+In contrast, the filing deadline in § 727(e)(1) is not a jurisdictional constraint, but rather an ordinary statute of limitations. As the Supreme Court has repeatedly held, filing deadlines of this sort are quintessential claim-processing rules, and unless Congress clearly states otherwise, such rules will be regarded as non-jurisdictional. See United States v. Kwai Fun Wong, 130 S.Ct. 1367, and Arbaugh v. Y & H Corp., 559 U.S. 260.
+
+The plain language of § 727(e)(1) does not speak in jurisdictional terms, and the provision does not purport to delineate the classes of cases bankruptcy courts are competent to adjudicate. Instead, the provision merely states that the trustee may request a revocation of a discharge within the prescribed time limit. This language creates a plain-vanilla statute of limitations, with none of the trappings necessary to rank it as jurisdictional.
+
+In conclusion, the filing deadline in § 727(e)(1) is not a jurisdictional constraint, but rather an ordinary statute of limitations. The calculation of time limits in § 546(a) is governed by Rule 9006(a), and the plain language of § 727(e)(1) does not speak in jurisdictional terms. The provision merely
+
+citations: ['540 U.S. 443', '568 U.S. 145', '560 U.S. 631', '560 U.S. 631', '559 U.S. 260', '559 U.S. 260', '130 S.Ct. 1367', '617 F.3d 1065', '617 F.3d 1065']
+
+gold_text: The BAP concluded that § 727(e)(l)’s time limit must be regarded as jurisdictional because it is contained in a statute, rather than a court rule. 529 B.R. at 752-53. The BAP based that conclusion on its reading of Kontrick v. Ryan, 540 U.S. 443, 124 S.Ct. 906, 157 L.Ed.2d 867 (2004), which held that the time limit specified in Federal Rule of Bankruptcy Procedure 4004 is non-jurisdictional. Id. at 447, 124 S.Ct. 906. But nothing in Kontrick says that if a time limit is set by statute it must be regarded as jurisdictional. If there were any doubt on that score, it has been erased by a series of subsequent decisions holding that a variety of statutory filing deadlines are non-jurisdictional. See, e.g., Kwai Fun Wong, 135 S.Ct. at 1632-33; Sebelius v. Auburn Regional Medical Center, 568 U.S. 145, 133 S.Ct. 817, 821, 184 L.Ed.2d 627 (2013); Henderson, 562 U.S. at 441, 131 S.Ct. 1197; Holland v. Florida, 560 U.S. 631, 645, 130 S.Ct. 2549, 177 L.Ed.2d 130 (2010). Indeed, post-Kontrick, even statutory filing deadlines found in the Bankruptcy Code itself, like § 727(e)(1), have been held to be non-jurisdictional. See, e.g., United Student Aid Funds, Inc. v. Espinosa, 559 U.S. 260, 270 n.9, 130 S.Ct. 1367, 176 L.Ed.2d 158 (2010); In re Raynor, 617 F.3d 1065, 1070 (8th Cir. 2010).
+
+label: 

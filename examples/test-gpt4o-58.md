@@ -1,0 +1,15 @@
+**Generation:**
+
+In examining Nelson's contention, we refer to United States v. Smith, 44 F.3d 1259 (4th Cir.), where the court emphasized that less drastic alternatives to a mistrial should be considered to eliminate any prejudice (85 F.3d 153). The district judge in this case did precisely that by replacing the two jurors with alternates, thereby avoiding the expense and delay of a mistrial and mitigating any potential prejudicial impact.
+
+Additionally, in United States v. Thompson, 744 F.2d 1065 (4th Cir.), it was noted that a biased juror can be dismissed and replaced with an alternate (85 F.3d 153). The same principle applies here, where the district court’s action was aimed at preventing any rushed or pressured verdict due to the jury's holiday travel plans. The court acted prudently by interviewing the concerned jurors and making decisions that would ensure the deliberations remained fair and unrushed.
+
+Concerning Nelson’s argument that the court dismissed African-American jurors without exploring alternatives, the case United States v. Thompson again supports that the court did not abuse its discretion as long as the dismissal was necessary to avoid prejudice (85 F.3d 153). Similarly, the decision in 52 F.3d 509 highlights the court’s discretion in excusing a juror when necessary circumstances arise during trial proceedings.
+
+In conclusion, the district court did not abuse its discretion in replacing the two jurors, and Nelson’s arguments to the contrary lack merit. We find no reason to overturn the district court's decision based on the principles established in the referenced cases.
+
+citations: ['85 F.3d 153', '52 F.3d 509']
+
+gold_text: A defendant has a reasonable expectation that, barring unforeseen circumstances, he will be tried by the jury selected. The trial judge is not at liberty to interfere with the jury selected unless it has adequate cause. Federal Rule of Criminal Procedure 24(c) provides that alternate jurors shall replace jurors who, before deliberation commences, "become or are found to be unable or disqualified to perform their duties." While the court's decision to replace a juror with an alternate juror must be for a legally relevant reason and have a factual basis, its judgment to do so is reviewed for abuse of discretion. See United States v. Hayden, 85 F.3d 153, 156-57 (4th Cir.1996) (reviewing for abuse of discretion a refusal to grant mistrial, instead replacing juror with alternate); United States v. Acker, 52 F.3d 509, 515 (4th Cir.1995) (reviewing for abuse of discretion a decision to dismiss juror and proceed with eleven). A finding that a district court acted on an irrelevant legal basis or lacked factual support for the conclusion that a juror was unable or disqualified to perform his duty amounts to a finding that the court abused its discretion. To obtain a new trial, however, the objecting party must nevertheless establish prejudice.
+
+label: 

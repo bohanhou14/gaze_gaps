@@ -1,0 +1,9 @@
+**Generation:**
+
+Defendant's contention that summary judgment is improper where inferring contractual obligations hinges on the ambiguous meanings of written words echoes findings in Begnaud v. White, 170 F.2d 323, which reversed summary judgment on grounds of material fact disputes. Similar caution against summary judgment without clear facts is echoed in Sartor v. Arkansas Natural Gas Corp., endorsed in 203 F.2d 789. Here, doubt persists regarding the exact timing of Fernseh's acceptance cable before the Executive Order's enactment. These concerns underscore that without incontrovertible evidence of timing, FAR has not met the necessary burden. Thus, granting summary judgment was premature due to unresolved material fact issues, necessitating further factual examination per principles in reference cases 170 F.2d 323 and 203 F.2d 789.
+
+citations: ['170 F.2d 323', '203 F.2d 789']
+
+gold_text: FAR also contends that since defendant cross-moved for summary judgment, it is now precluded from questioning the propriety of disposing of the case upon such a motion. But, it is well established that cross-motions for summary judgment do not warrant the trial court granting summary judgment unless one of the moving p'arties is entitled to judgment as a matter of law upon facts that are not genuinely disputed. Walling v. Richmond Screw Anchor Co., 2 Cir., 1946, 154 F.2d 780, cer-tiorari denied, 1946, 328 U.S. 870, 66 S. Ct. 1383, 90 L.Ed. 1640; Begnaud v. White, 6 Cir., 1948, 170 F.2d 323; Lloyd v. United Liquors Corp., 6 Cir., 1953, 203 F.2d 789, 794. 6 Moore, Federal Practice § 56.13 (2d ed. 1953)
+
+label: 

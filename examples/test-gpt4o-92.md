@@ -1,0 +1,9 @@
+**Generation:**
+
+The case at hand closely resembles the precedent set in *Helvering v. Winmill*, 305 U.S. 79, where the Supreme Court held that commissions paid on purchases of securities could not be deducted as business expenses. This interpretation, governed by Treasury regulations, has consistently maintained that stock-related costs such as commissions are part of the securities' cost basis rather than ordinary expenses. Similarly, *315 U.S. 626* reaffirmed the treatment of commissions and costs associated with the sale of securities, designating them as offsets against selling prices rather than deductible expenses unless deemed ordinary and necessary business expenses. The taxpayer's claim that unamended administrative interpretations lack the force of law contrasts sharply with the established judicial and legislative stance supporting the regulations. Therefore, the plaintiff's argument against the Bureau's ruling in I. T. 3806 is untenable given that these regulatory interpretations have been repeatedly upheld by the courts and tacitly approved by Congress without statutory amendment. The decision to capitalize such expenses remains firmly embedded in legal precedent.
+
+citations: ['305 U.S. 79', '315 U.S. 626']
+
+gold_text: The Government cites the Supreme Court cases of Helvering v. Winmill, 305 U.S. 79, 59 S.Ct. 45, 83 L.Ed. 52, and Spreckles v. C. I. R., 315 U.S. 626, 62 S.Ct. 777, 86 L.Ed. 1073, in which it was held that commissions paid on the transfer of stocks were not deductible as ordinary and necessary business expenses, but had to be capitalized. But the plaintiff points out that the Supreme Court, in its opinion, expressly relies upon a Treasury Regulation of long standing which had survived several amendments and reenactments of the income tax law. Here we have no such situation.
+
+label: 

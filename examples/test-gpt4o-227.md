@@ -1,0 +1,13 @@
+**Generation:**
+
+Additionally, this ruling aligns with the policy objectives expressed in several key cases. In re Windmill Farms, Inc., the Bankruptcy Appellate Panel emphasized the importance of providing a uniform and consistent body of bankruptcy law throughout the entire circuit (70 B.R. 618, 621). This consistency is critical to ensuring fairness and predictability in rulings across different jurisdictions. Further, courts have acknowledged the necessity of examining the specific circumstances of each debtor to determine undue hardship, as reflected in the Ninth Circuit's standard from Brunner (United Student Aid Funds, Inc. v. Pena, 155 F.3d 1108, 1111).
+
+In terms of partial discharges, previous rulings such as In re Waterkist Corp., 775 F.2d 1089 and In re Gross, 247 B.R. 588 have provided that partial discharges might be improper under current statutory provisions (see 223 B.R. 747, 753). Although some jurisdictions accept partial discharges, both River v. United Student Aid Funds, Inc., 213 B.R. 616, and Hornsby, 144 F.3d 433, presented contexts where a complete discharge was available under Section 523(a)(8).
+
+In conclusion, based on this precedent and the presented facts, Mrs. and Mr. Brown's discharge request should be evaluated under the established undue hardship criteria and applicable statutory provisions ensuring uniform application of the bankruptcy law across the Ninth Circuit.
+
+citations: ['70 B.R. 618', '841 F.2d 1467', '76 B.R. 795', '99 B.R. 978', '904 F.2d 470', '904 F.2d 470']
+
+gold_text: This Court has not decided whether it is truly “bound” by the decisions of this Circuit’s B.A.P., another issue dividing the courts. While the issue has been decided in the affirmative by this Circuit’s B.A.P. in the case of In re Windmill Farms, Inc., 70 B.R. 618, 621 (9th Cir. BAP 1987), rev’d on other grounds, 841 F.2d 1467 (9th Cir.1988), other courts have held otherwise, In re Junes, 76 B.R. 795, 797 (Bankr.D.Or.1987), affd on oth er grounds, 99 B.R. 978 (9th Cir. BAP 1989). See Bank of Maui v. Estate of Analysis, Inc., 904 F.2d 470, 471 (9th Cir.1989). However, the Court declines the opportunity to use this case as a vehicle for undertaking such an analysis. Absent a clear conviction that the Panel’s interpretation of the statute is wrong, this Court will defer to the decision of the B.A.P. The parties, if they are so inclined, may address their arguments in favor of partial discharge to Congress or to the courts of the Circuit which are indisputably capable of establishing precedent. Since Taylor dictates that the Court take an “all or nothing” role in deciding the undue hardship issue, this Court is persuaded to side with the Plaintiffs under the facts of this case.
+
+label: 

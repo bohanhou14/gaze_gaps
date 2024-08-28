@@ -1,0 +1,16 @@
+**Generation:**
+
+ <answer>
+The provided cases, 687 F.2d 655 and 712 F.2d 1220, offer valuable insight into the exhaustion requirement in habeas corpus proceedings. In the case of 687 F.2d 655, the court held that a district court must dismiss habeas petitions containing both unexhausted and exhausted claims. This requirement is designed to ensure that the state court has an opportunity to address the petitioner's federal claims before the federal court intervenes.
+
+In 712 F.2d 1220, the court emphasized the importance of providing adequate notice to the state courts that a petitioner is asserting a federal constitutional claim. The court noted that a petitioner may alert the state court to the claim's federal nature by relying on pertinent federal cases, citing state cases that employ constitutional analysis, asserting the claim in terms that call to mind a specific right protected by the Constitution, or alleging a pattern of facts that is well within the mainstream of constitutional litigation.
+
+In the instant case, it appears that the petitioner failed to exhaust two of the claims raised on appeal. The government asserts that the petitioner's petition contained unexhausted claims, including the contention that the pretrial identification of the children was obtained through suggestive practices and was unreliable, and that the trial court deprived the petitioner of his right of confrontation by allowing the sworn testimony of some of the children. The petitioner has not provided adequate notice to the state courts that these claims are based on federal constitutional rights.
+
+In light of these circumstances, we vacate the judgment of the district court and remand the case with instructions to dismiss the petition. This decision is consistent with the holdings in 687 F.2d 655 and 712 F.2d 1220, which emphasize the importance of exhausting state remedies before seeking federal habeas relief. By dismissing the petition, we ensure that the state court has an opportunity to address the petitioner's federal claims and provide a full and fair review of the issues presented. <answer>
+
+citations: ['687 F.2d 655', '712 F.2d 1220']
+
+gold_text: First, in Rock, supra, we stated that “[w]here the petitioner has not clearly and unambiguously abandoned his unexhausted claims at either [the trial or appellate] level, we have remanded to the district court for further proceedings in accordance with Lundy.” Id. at 914 n. 5 (citing Gulliver v. Dalsheim, 687 F.2d 655, 659 (2 Cir.1982)). In the instant case, appellant did not unequivocally abandon his claims at either the trial or the appellate level. At the district court level, he asserted that the claims were exhausted. The district court, after accepting appellant’s assertion, proceeded to rule on all the claims on their merits. On appeal, appellant has stated only conditionally that his claims would be withdrawn, that is, on the condition that we were to find the claims to have been unexhausted. As in Shears v. Israel, 712 F.2d 1220, 1222 (7 Cir.1983), the district court “considered and decided on the merits one of the unexhausted claims”. Thus, “abandonment of that claim at this stage would be more than a formal gesture.” Id.
+
+label: 

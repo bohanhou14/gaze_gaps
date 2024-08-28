@@ -1,0 +1,11 @@
+**Generation:**
+
+We review a district court’s denial of a Rule 56(f) motion to permit further discovery for abuse of discretion. A district court abuses its discretion when it applies an incorrect legal standard, misapplies the correct legal standard, or relies on clearly erroneous findings of fact (see 538 F.3d 448). This standard is particularly relevant when no discovery has occurred, and the court offers no explanation for its restriction (404 F.3d 418). Hickman’s Rule 56(f) motion sought to uncover evidence essential to justify his opposition to summary judgment, which aligns with the standard established in 368 F.3d 881. Given the district court’s reliance on other evidence without sufficient explanation for the denial, Hickman has preserved the claim that summary judgment was premature due to inadequate discovery (see 538 F.3d 402).
+
+Accordingly, we FIND that the district court abused its discretion in denying Hickman’s Rule 56(f) motion and REMAND for further discovery consistent with this opinion.
+
+citations: ['404 F.3d 418', '538 F.3d 448', '368 F.3d 881', '538 F.3d 402']
+
+gold_text: We review the court’s denial of a Rule 56(f) motion for an abuse of discretion. McKinley v. City of Mansfield, 404 F.3d 418, 443 (6th Cir.2005). An abuse of discretion occurs when a district court “commits a clear error of judgment, such as applying the incorrect legal standard, misapplying the correct legal standard, or relying upon clearly erroneous findings of fact.” Info-Hold, Inc. v. Sound Merch., Inc., 538 F.3d 448, 454 (6th Cir.2008). To prevail on a Rule 56(f) motion, the plaintiff must “state with some precision the materials he hopes to obtain with further discovery, and exactly how he expects those materials would help him in opposing summary judgment.” Summers v. Leis, 368 F.3d 881, 887 (6th Cir.2004) (internal quotation marks omitted). We typically will find that a district court has abused its discretion in denying such a motion if the court does so when no discovery has occurred. See CenTra, Inc. v. Estrin, 538 F.3d 402, 420-21 (6th Cir.2008); McKinley, 404 F.3d at 443.
+
+label: 

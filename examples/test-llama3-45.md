@@ -1,0 +1,19 @@
+**Generation:**
+
+ <answer>
+
+The denial of the motion to suppress the statements made by the accused is without merit. In Edwards v. Arizona, 451 U.S. 477, 101 S.Ct. 1880, 68 L.Ed.2d 378 (1981), the Supreme Court held that an accused who has invoked his right to have counsel present during custodial interrogation is not subject to further interrogation by the authorities until counsel has been made available to him, unless the accused himself initiates further communication, exchanges, or conversations with the police.
+
+In the instant case, the accused did not initiate further communication with the police after invoking his right to counsel. Instead, he made a request to see an attorney and was subsequently transferred to the custody of Naval Security, where he was guarded by one of his original captors, A1C C. Despite A1C C's strong and repeated admonitions against talking to him, the accused insisted on confessing to A1C C that he had been in the hangar that morning waiting for his friend "Joe."
+
+The accused's statements to A1C C were not the result of a valid waiver of his right to counsel, as he did not explicitly or implicitly indicate that he was willing to forgo his right to counsel. Instead, his statements were a result of the coercive atmosphere created by his custodial situation and the repeated admonitions of A1C C.
+
+Moreover, the accused's subsequent statements to the NIS agent were also inadmissible, as they were made without the presence of counsel. In Oregon v. Bradshaw, 462 U.S. 1039, 103 S.Ct. 2830, 2834, 77 L.Ed.2d 405 (1983), the Supreme Court held that an accused who has invoked his right to counsel is not subject to further interrogation by the authorities, unless the accused himself initiates further communication, exchanges, or conversations with the police.
+
+In conclusion, the denial of the motion to suppress the statements made by the accused is without merit. The accused's statements to A1C C and the NIS agent were made without a valid waiver of his right to counsel and were therefore inadmissible. The case of Edwards v. Arizona, 451 U.S. 477, 101 S.Ct. 1880, 68 L.Ed.2d 378 (1981), and Oregon v. Bradshaw, 462 U.S.
+
+citations: ['462 U.S. 1039', '459 U.S. 42']
+
+gold_text: In Oregon v. Bradshaw, 462 U.S. 1039, 103 S.Ct. 2830, 77 L.Ed.2d 405 (1983), the Supreme Court held that an accused, after originally making a request for counsel, had initiated further communication with the police by asking a police officer, during a trip from the station house to the jail, “Well, what is going to happen to me now?” Id. at 2833. With respect to the accused’s subsequent confession in that case, the Court found no violation of the Edwards rule since the accused’s question to the police officer “was not merely a necessary inquiry arising out of the incidents of the custodial relationship,” Id. at 2835, “such as a request for a drink. of water or a request to use the telephone,” Id., but “could reasonably have been interpreted by the police officer as relating generally to the investigation.” Id. The Court has further established “that an accused who has invoked his Fifth Amendment right to assistance of counsel cannot be subject to official custodial interrogation unless and until the accused (1) ‘initiates’ further discussions relating to the investigation, and (2) makes a knowing and intelligent waiver of the right to counsel____” James v. Arizona, — U.S.-, 105 S.Ct. 398, 400, 83 L.Ed.2d 332 (1984) (J. Brennan dissenting from denial of certiorari) (memorandum decision); Wyrick v. Fields, 459 U.S. 42, 103 S.Ct. 394, 395-396, 74 L.Ed.2d 214 (1982); Oregon v. Bradshaw, 103 S.Ct. at 2835; Edwards v. Arizona, 451 U.S. at 486 n. 9, 101 S.Ct. at 1885 n. 9.
+
+label: 

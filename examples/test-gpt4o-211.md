@@ -1,0 +1,9 @@
+**Generation:**
+
+Rosenthal asserts the Government’s closing argument improperly referenced Limas' guilty plea to influence the jury. This claim fails under plain error review. Applying factors from United States v. Palmer, 37 F.3d 1080 (5th Cir. 1994), and United States v. Iredia, 866 F.2d 114, 117 (5th Cir. 1989), the magnitude of prejudicial effect was minimal given the context of the trial. The court’s immediate curative instruction mitigated potential prejudice, aligning with United States v. Casel, 995 F.2d 1299, 1308 (5th Cir. 1993). Finally, considering the substantial evidence supporting Rosenthal’s conviction, as in Lawn v. United States, 355 U.S. 339, 359-60 n. 15 (1958) (ref. case 470 U.S. 1), it is unlikely that the prosecutor’s comments seriously impacted the jury’s verdict. Thus, no reversible plain error occurred. AFFIRMED.
+
+citations: ['265 F.3d 276', '470 U.S. 1']
+
+gold_text: For the first prong of the above three-part test, in considering the magnitude of the prejudicial effect, if any, of the Government’s comments, this court examines them “in the context of the trial and attempts to ascertain their intended effect”. United States v. Virgen-Moreno, 265 F.3d 276, 291 (5th Cir.2001). Rosenthal, not the Government, had Limas’ indictment, plea agreement, and plea-packet memorandum admitted in evidence. In examining the impact of the Government’s remarks, “the reviewing court ... must also take into account defense counsel’s opening salvo.... [I]f the [Government’s] remarks were ‘invited,’ and did no more than respond substantially in order to ‘right the scale,’ such comments would not warrant reversing a conviction”. United States v. Young, 470 U.S. 1, 12-13, 105 S.Ct. 1038, 84 L.Ed.2d 1 (1985).
+
+label: 

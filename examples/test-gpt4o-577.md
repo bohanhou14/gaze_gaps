@@ -1,0 +1,13 @@
+**Generation:**
+
+The government’s appeal raises the issue of whether the Double Jeopardy Clause bars the retrial of Meyer and Walker after the district court granted their judgments of acquittal notwithstanding the verdicts. The pivotal case, United States v. Wilson, 420 U.S. 332, 95 S.Ct. 1013 (1974), makes clear that when a judge rules in favor of the defendant after a verdict of guilty has been entered by the trier of fact, the Government may appeal that ruling without infringing upon Double Jeopardy protections. Similarly, in United States v. Foumai, 910 F.2d 617 (9th Cir. 1988), it was held that an initial conviction followed by a judicial reversal can be appealed and the original conviction reinstated upon successful appeal.
+
+In this case, Meyer and Walker were initially convicted by the jury, making the government's appeal of the post-verdict acquittals consistent with these foundational rulings. The Double Jeopardy Clause does not prohibit further proceedings since the appeal of the judgments of acquittal does not equate to a second prosecution but seeks to reinstate the original findings of guilt. Thus, the appeal is procedurally proper, and the district court's decisions to acquit Meyer and Walker are vacated, permitting the government to proceed with retrial if it so chooses. This ensures adherence to the principles established in Wilson and confirmed through Foumai.
+
+The case is remanded for further proceedings consistent with these observations, ensuring that any retrial is executed under the scrutiny of clarified jury instructions, accurately reflecting the Sherman Act’s mandates.
+
+citations: ['420 U.S. 332', '910 F.2d 617']
+
+gold_text: . Appellee Walker argues that we lack jurisdiction to hear the government’s appeal from his judgment of acquittal, because 18 U.S.C. § 3731 states that “no appeal shall lie where the double jeopardy clause of the United States Constitution prohibits further prosecution." There is no double jeopardy problem, however, where a defendant will not be subjected to a second prosecution. As the Supreme Court explained in United States v. Wilson, 420 U.S. 332, 344-45, 95 S.Ct. 1013, 1022-23, 43 L.Ed.2d 232 (1975), where "reversal [of a district court's order] on appeal would merely reinstate the jury’s verdict, review of such an order does not offend the policy against multiple prosecution.” Accord United States v. Foumai, 910 F.2d 617, 619 (9th Cir.1990).
+
+label: 

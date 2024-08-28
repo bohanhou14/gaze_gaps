@@ -1,0 +1,13 @@
+**Generation:**
+
+Considering the amendment to the Commentary effective November 1, 1990, Rodriguez's case aligns closely with precedent cases that elucidate the non-qualification for the enhancement of obstruction of justice. According to 930 F.2d 1512, even if Rodriguez had given an alias, the enhancement under U.S.S.G. § 3C1.1 would not be justified as the false statements did not significantly impede the investigation, mirroring Mr. Urbanek's situation where recantation on the spot did not meet the obstruction criteria.
+
+Furthermore, in 931 F.2d 33, the court highlighted that obstruction of justice under § 3C1.1 necessitates a specific intent to obstruct justice, which Rodriguez lacked, having readily admitted his criminal history upon confrontation. Similarly, in 918 F.2d 1371, it was established that the use of aliases qualifies for obstruction only when there has been an actual attempt to obstruct justice. However, the amended Commentary clarifies that providing a false name without resulting in a significant hindrance (Application Note 4(a)) does not warrant an enhancement.
+
+Given these precedents, the district court's application of the obstruction of justice enhancement to Rodriguez, who did not significantly hinder the investigation and lacked the specific intent to obstruct, was erroneous. Consequently, the upward adjustment under § 3C1.1 seems inapt based on the clarified interpretive guidelines.
+
+citations: ['930 F.2d 1512', '931 F.2d 33', '918 F.2d 1371']
+
+gold_text: The amended Commentary thus gives some new substance to Rodriguez’s argument. The fact that he claimed to be Rodriguez at his arrest and during the police investigation does not support the adjustment because the alias did not significantly hinder the investigation. See Application Notes 3(g) and 4(a); United States v. Ur-banek, 930 F.2d 1512 (10th Cir.1991) (reversing adjustment because alias did not significantly impede investigation). And, although we do not decide the issue, the fact that he claimed to be Rodriguez before the probation officer and the district court judge might well have been immaterial given that he acknowledged all of his aliases. See Application Note 3(f), 3(h), and 4(c); compare United States v. Gardiner, 931 F.2d 33 (10th Cir.1991) (upholding adjustment where defendant failed to disclose true identity in three separate appearances before magistrate); United States v. Yerks, 918 F.2d 1371, 1375 (8th Cir.1990).
+
+label: 

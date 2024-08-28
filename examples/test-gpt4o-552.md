@@ -1,0 +1,9 @@
+**Generation:**
+
+Here, the district court did not abuse its discretion in refusing to voir dire potential jurors about Charles Noel’s thirty-year-old murder conviction. The Supreme Court has stressed the broad latitude afforded to trial judges in conducting voir dire, particularly in balancing the need for specific inquiries against potential sources of prejudice (Mu’Min v. Virginia, 500 U.S. 415, 424). In this instance, the conviction's relevance to the no-knock entry did not rise to the level necessitating mandatory inquiry, similar to how bias against beards did not warrant special attention in 409 U.S. 524. Much like the inquiry into contingency fees dismissed in 375 F.2d 296, determining potential juror bias regarding Noel's past conviction falls within the trial judge's sound discretion absent a compelling need.
+
+citations: ['409 U.S. 524', '375 F.2d 296']
+
+gold_text: We discern no abuse of discretion on voir dire, for Charles Noel’s thirty-year-old conviction for second-degree murder played at most a minor role in this case. The trial court is not bound to ask members of the venire questions about every evidentiary tangent or by-way, see, e.g., Ham v. South Carolina, 409 U.S. 524, 527-28, 93 S.Ct. 848, 35 L.Ed.2d 46 (1973) (upholding a state trial court’s refusal to ask voir dire questions regarding prejudice against beards), and “[a]bsent a showing of compelling need to propound such questions, we think the district judge clearly correct in refusing them,” Langley v. Turner’s Express, Inc., 375 F.2d 296, 298 (4th Cir.1967). We accordingly hold that the district court’s refusal to ask questions regarding the murder conviction demonstrated “reasonable restraint” in questioning that in no way prejudiced the Noels. Id. at 297.
+
+label: 

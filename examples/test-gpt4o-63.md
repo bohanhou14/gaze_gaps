@@ -1,0 +1,15 @@
+**Generation:**
+
+In analyzing whether Gordin's actions constituted an attempt to transport without filing a report, it is pertinent to consider the "substantial step" doctrine outlined in United States v. Martinez, 775 F.2d 31. The doctrine establishes that an overt action that strongly corroborates intent qualifies as a substantial step towards the commission of the offense. Here, Gordin's actions in withdrawing $500,000, purchasing tickets, and preparing to board a flight to Helsinki constitute such a step.
+
+Moreover, cases like United States v. Coplon, 185 F.2d 629, emphasize that conduct crossing beyond mere preparation and exhibiting a firm intention to complete the crime qualifies as an attempt. Gordin's pattern of past transactions and demonstrated knowledge of the legal requirement further supports this view.
+
+Additionally, the interpretation in United States v. Bareno-Burgos, 739 F.Supp. 772, clarifies that the duty to file can be triggered well before actual departure, upholding the notion that significant preparatory actions can meet the "about to transport" criterion.
+
+Finally, the concept of "attempted transactions" in United States v. Jenkins, 943 F.2d 167, which was reversed on other grounds, underscores that intent and significant preparatory actions can satisfy legal thresholds for attempts. Given these precedents, Gordin's actions align with the definition of attempted transport in violation of §§ 5316 and 5324(b), thus justifying the seizure and forfeiture under § 5317(c).
+
+citations: ['943 F.2d 167', '543 F.2d 1038', '775 F.2d 31', '185 F.2d 629', '499 F.2d 370']
+
+gold_text: An attempt occurs when one acts in a substantial way to achieve an intended course of action, here the movement of the $500,000 from Connecticut to Latvia without reporting it. To have attempted that transaction, more than mere planning is required. There must have been a substantial step, an overt act, furthering the intended activity. An attempt occurs when one “sufficiently manifested [his] intent to commit a particular substantive offense yet failed to consummate the crime.” United States v. Jenkins, 943 F.2d 167, 173 (2d Cir.) cert. denied, — U.S. -, 112 S.Ct. 659, 116 L.Ed.2d 751 (1991). It is “acting with the kind of culpability otherwise required for the commission of the crime ... Then, the defendant must have engaged in conduct which constitutes a substantial step toward commission of the crime, conduct strongly corroborative of the firmness of the defendant’s criminal intent.” United States v. Stallworth, 543 F.2d 1038, 1041-42 (2d Cir.1976); United States v. Martinez, 775 F.2d 31, 35 (2d Cir.1985); see United States v. Coplon, 185 F.2d 629, 633 (2d Cir.1950), cert. denied, 342 U.S. 920, 72 S.Ct. 362, 96 L.Ed. 688 (1952); United States v. Mandujano, 499 F.2d 370 (5th Cir.1974), cert. denied, 419 U.S. 1114, 95 S.Ct. 792, 42 L.Ed.2d 812 (1975); American Law Institute Model Penal Code § 5.01.
+
+label: 

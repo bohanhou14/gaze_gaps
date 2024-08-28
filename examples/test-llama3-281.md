@@ -1,0 +1,16 @@
+**Generation:**
+
+ <answer>
+The references cited in the case present a situation where the inventive concept resides solely in the product, not the process. In Reference case 76 F.2d 134, the court held that the appellant's disclosure was not sufficiently specific as to the criticalness of any given amount of water to distinguish in a patentable sense from the Grunstein teaching. Similarly, in Reference case 83 F.2d 928, the court found that the appellant's claims were not inventive over the prior art cited, as the modification amounting to invention was not required to adapt an old art structure to a new device.
+
+In the instant case, the claimed processes involve the production of esters of substituted benzoic acids by reacting an alkali metal salt of such an acid and an appropriate halohydrin or epoxide. However, the references relied on, including Taub et al. 1,022,645 and Guest 2,561,468, disclose the production of an ester by reacting an appropriate alkali metal salt of a substituted benzoic acid and a halohydrin or epoxide. The court agrees with the conclusion of the Patent Office that if the compounds recited in appellant's allowed claims were disclosed in the prior art, it would be obvious to a person of ordinary skill in the art to prepare them by the processes set forth in the appealed claims.
+
+The court notes that the inventive concept is that of the compounds themselves, and when they have been conceived, the processes by which they may be prepared may or may not be obvious. If, as is the case here, such processes, given the idea of the compound, are obvious, then it is apparent that the invention resides in the compounds per se and is not properly defined as a process. The court finds that the claims to the process are not patentable as they do not define the inventive concept. Reference case 92 F.2d 906 supports this conclusion, as it held that a process for making a patentable compound is, ipso facto, a patentable process.
+
+In conclusion, the claimed processes are not patentable as they do not define the inventive concept, which resides solely in the product. The references cited, including Reference case 76 F.2d 134, Reference case 83 F.2d 928, and Reference case 92 F.2d 906, support this conclusion. The court finds that the claims to the
+
+citations: ['76 F.2d 134', '76 F.2d 134', '83 F.2d 928', '83 F.2d 928', '92 F.2d 906', '92 F.2d 906']
+
+gold_text: Appellant relies heavily on decisions in Canada and Great Britain which allegedly hold process claims allowable under circumstances similar to those of the instant case. We have repeatedly held that, in view of the differences between foreign patent laws and those of the United States, the allowance of patent claims in foreign countries is not pertinent to the .question whether similar claims should be allowed here; In re Guinot, 76 F.2d 134, 22 CCPA 1067; In re Kleine [Pfannenstiel, and Matthaes], 83 F.2d 928, 23 CCPA 1216; and In re Kluter, 92 F.2d 906, 25 CCPA 730. No reason appears for reaching a different conclusion here.
+
+label: 

@@ -1,0 +1,13 @@
+**Generation:**
+
+In Defendants' Motion, they argue that Congress did not validly abrogate Eleventh Amendment immunity with respect to ADA claims. However, numerous cases have upheld Congress's power in this context. In **Tennessee v. Lane**, 541 U.S. 509 (2004), the Supreme Court ruled that Title II of the ADA could validly abrogate state sovereign immunity when it aimed at preventing unconstitutional conduct (454 F.3d 24). Furthermore, the ruling in **United States v. Georgia**, 546 U.S. 151 (2006), reinforced that Title II validly abrogates immunity when there is an actual Fourteenth Amendment violation (475 F.3d 524).
+
+Moreover, in **Constantine v. Rectors & Visitors of George Mason University**, the Fourth Circuit underscored that states could waive Eleventh Amendment immunity by accepting federal funds under the Rehabilitation Act (411 F.3d 474). Additionally, in **Guttman v. Khalsa**, the Tenth Circuit affirmed that Title II provides a private cause of action against states for violations not rising to a constitutional level, as long as these actions prevent constitutional infringements (405 F.3d 954).
+
+Consequently, based on precedents like Tennessee v. Lane and United States v. Georgia, the Court concludes that Congress's abrogation of state sovereign immunity under Title II of the ADA is valid in this instance and, thus, Defendants' Motion to Dismiss on these grounds is unsubstantiated.
+
+citations: ['454 F.3d 24', '411 F.3d 474', '475 F.3d 524', '405 F.3d 954']
+
+gold_text: Alternatively, even without a finding that the right to participate in the political process is a fundamental right, the State's sovereign immunity may be deemed validly abrogated "if Congress found pervasive unconstitutional state conduct." See Guttman , 669 F.3d at 1122-23. Pervasiveness has been found primarily in public higher education cases. See id. n.4 (citing Toledo v. Sanchez , 454 F.3d 24, 39-40 (1st Cir. 2006) ); see also Constantine v. Rectors & Visitors of George Mason Univ. , 411 F.3d 474, 490 (4th Cir. 2005) ; Bowers v. Nat'l Collegiate Athletic Ass'n , 475 F.3d 524, 555-56 (3rd Cir. 2007) ; Ass'n for Disabled Am. v. Fla. Int'l Univ. , 405 F.3d 954, 956-59 (11th Cir. 2005). Applying the factors identified in those cases-(1) a persistent pattern of exclusion and irrational treatment of disabled individuals, (2) the gravity of harm from such discrimination, and (3) limited compliance costs-the Court could arguably find that Oklahoma's sovereign immunity should be deemed abrogated in this case.
+
+label: 

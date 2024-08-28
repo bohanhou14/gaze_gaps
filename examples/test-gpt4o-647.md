@@ -1,0 +1,13 @@
+**Generation:**
+
+In order to determine if a guilty plea was made knowingly and voluntarily, it is imperative that the defendant is made aware of and understands the true nature of the charges against them. According to Henderson v. Morgan, 426 U.S. 637, “a plea cannot be voluntary in the constitutional sense unless the defendant received real notice of the true nature of the charge against him.” In this case, although petitioner acknowledged that counsel had advised him about the charge, the attorney for the state failed to mention the mens rea element, a critical component of the offense, potentially affecting the voluntariness of the plea (Henderson, 926 F.2d 811).
+
+Moreover, the idea that a defendant did not receive “real notice of the true nature of the charge” was previously highlighted in Smith v. O’Grady, 312 U.S. 329, 334. Here, the lack of explanation regarding the mens rea element could implicate due process concerns similar to those identified in Smith, where the defendant was misled about the nature of the charge.
+
+Given these precedents, petitioner’s claim that his plea was not knowing and voluntary due to a lack of full disclosure on the elements of the offense holds merit. The omission of the mens rea element by the state attorney necessitates a closer examination of whether petitioner made an informed plea. Thus, we reject the contention that merely discussing the charge without thoroughly explaining the elements, including mens rea, aligns with the due process requirements established in prior rulings.
+
+citations: ['426 U.S. 637', '312 U.S. 329', '926 F.2d 811']
+
+gold_text: A plea is not voluntary “unless the defendant received ‘real notice of the true nature of the charge against him....’” Henderson v. Morgan, 426 U.S. 637, 644, 96 S.Ct. 2253, 2257, 49 L.Ed.2d 108 (1976) (quoting Smith v. O’Grady, 312 U.S. 329, 334, 61 S.Ct. 572, 574, 85 L.Ed. 859 (1941)). Notice “does not require a description of every element of the offense.” United States v. Butcher, 926 F.2d 811, 816 (9th Cir.1991). In fact, “it may be appropriate to presume that in most cases defense counsel routinely explain the nature of the offense in sufficient detail to give the accused notice of what he is being asked to admit.” Henderson, 426 U.S. at 647, 96 S.Ct. at 2258, 49 L.Ed.2d 108. Where “intent is such a critical element” of the offense charged, however, a court should give the accused notice that the state must prove that element. Id. at 647 n. 18, 96 S.Ct. at 2258 n. 18, 49 L.Ed.2d 108.
+
+label: 

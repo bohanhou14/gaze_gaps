@@ -1,0 +1,16 @@
+**Generation:**
+
+ <answer>
+This case involves a defendant's appeal of his jury conviction for armed bank robbery, use or carrying of a firearm during commission of a crime of violence, and being a felon in possession of a firearm. The defendant argues that the curbside identification by three bank employees was so unduly suggestive it violated his due process rights, there was no probable cause for his arrest, there was insufficient evidence presented at trial to support the finding that he possessed or used a firearm during the robbery, and he was denied a fair trial because statements the prosecutor made in his closing argument were improper and prejudicial.
+
+The court reviews the curbside identification procedure and concludes that it was not so unduly suggestive as to give rise to a substantial likelihood of mistaken identification. The court also concludes that the officers had probable cause to arrest the defendant when he got out of the cab. The court holds that the evidence is sufficient to support the findings that the defendant possessed the gun during the robbery and that he used the gun during the robbery. Finally, the court holds that the prosecutor's comments in his closing argument were not improper and did not deny the defendant a fair trial.
+
+In reviewing the evidence, the court cites United States v. Sblendorio, 990 F.2d 507 (7th Cir.1991), which held that a prosecutor's comments concerning a defendant's failure to call a witness were not improper. The court also cites United States v. Endicott, 803 F.2d 506 (9th Cir.1986), which held that a plain error standard of review is applied where a defendant failed to interpose an objection to the challenged prosecutorial comment. Finally, the court cites United States v. Ramos, 861 F.2d 228 (9th Cir.1988), which held that an instruction for plain error is applied when there was not a proper objection.
+
+The court's conclusion that the evidence is sufficient to support the findings that the defendant possessed the gun during the robbery is consistent with United States v. Gutierrez, 995 F.2d 169 (9th Cir.1993), which held that the presence of a gun under the seat of a cab which a defendant had just vacated is sufficient evidence to support a finding that the defendant possessed the gun in the cab. The court's conclusion that the evidence is sufficient to support the finding that the defendant used the gun during the robbery is consistent with United States v.
+
+citations: ['990 F.2d 507', '868 F.2d 1097']
+
+gold_text: Jones contends the prosecutor’s closing argument misled the jury regarding the suspect status of the cab driver. Because no objection was made at trial, Jones concedes the “plain error” standard of review applies. See United States v. Williams, 990 F.2d 507, 510 (9th Cir.1993), cert. denied, — U.S. -, 114 S.Ct. 333, 126 L.Ed.2d 278 (1993). “Plain error is highly prejudicial error affecting substantial rights, and is found only in exceptional circumstances.” Id. at 511 (quoting United States v. Kessi, 868 F.2d 1097, 1102 (9th Cir.1989)).
+
+label: 

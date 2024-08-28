@@ -1,0 +1,13 @@
+**Generation:**
+
+One argument is that the settlement agreement, as described in defendant's counterclaim, extinguished any obligation under the collective bargaining agreement's arbitration clause. However, this Court finds such an assertion inadequate to avoid arbitration. As indicated in United Steelworkers of America v. Warrior & Gulf Navigation Co., 363 U.S. 574, 582-83 (1960) (376 U.S. 543), the duty to arbitrate remains binding even if one party alleges that a different agreement controls the dispute. The arbitration clause survives such a claim, as it encompasses all disputes over the interpretation of the collective bargaining agreement.
+
+Another supportive argument is found in Union of Mine, Mill and Smelter Workers v. Anaconda Co., 381 F.2d 196, 199 (329 F.2d 789), where it was emphasized that issues relating to compliance and interpretation of labor agreements must be resolved through arbitration. Thus, the allegation of a prior settlement by the defendant does not eliminate the necessity of arbitration, as highlighted in the context of Anaconda Co., where courts declined to examine the merits of the claims, instead deferring to the agreed arbitration processes.
+
+Therefore, defendant’s contentions, whether they allege procedural deficiencies or a prior settlement, do not exempt the matter from arbitration as per the standing jurisprudence referenced above. Consequently, plaintiff’s motion for summary judgment to compel arbitration is granted.
+
+citations: ['376 U.S. 543', '381 F.2d 196', '329 F.2d 789']
+
+gold_text: First, it might be said that the settlement agreement implicitly waived plaintiff’s right to proceed to arbitration. In John Wiley & Sons, Inc. v. Livingston, 376 U.S. 543, 84 S.Ct. 909, 11 L.Ed.2d 898 (1964), however, the Court enunciated the rule that questions of whether the procedural prerequisites which condition a duty to arbitrate have been met should be for the arbiter to determine. Under this rule the issue of whether arbitration has been waived is one for the arbiter to decide. Transit Union v. Greyhound, Lines, Inc., 323 F.Supp. 219 (D.Mass.1971). See also, Koven & Brother, Inc. v. Steelworkers, 381 F.2d 196 (3d Cir. 1967); General Warehousemen and Employees v. American Hardware Supply Co., 329 F.2d 789 (3d Cir.), cert. denied, 379 U.S. 829, 85 S.Ct. 57, 13 L.Ed.2d 37 (1964); Automobile, Aircraft, and Agricultural Implement Workers v. Daniel Radiator Corp., 328 F.2d 614 (5th Cir. 1964). Such a result is especially appropriate here, since plaintiff has denied the existence of any settlement agreement, and defendant has not asserted that the agreement included any explicit waiver of arbitration.
+
+label: 

@@ -1,0 +1,13 @@
+**Generation:**
+
+Second, we find that substantial evidence does not support the AU's conclusion that plaintiff’s condition could potentially result in the improvement necessary to perform light work as required under the Social Security Act. Reference case 742 F.2d 1232 highlights that benefits should be reinstated if substantial evidence of improvement is not present; in the plaintiff's case, evidence suggests ongoing disabling conditions without significant improvement. This parallels the AU's duty to scrutinize medical evidence, as stipulated in 742 F.2d 1232, and supports remanding the case for a reassessment of the plaintiff's status.
+
+Third, the AU failed to account adequately for the nonexertional limitations presented by the plaintiff. As noted in case 698 F.2d 407, functional disturbances or pathological changes, such as those in the spinal cord or related areas, need thorough consideration. The documented chronic myositis, spondylosis, and radiculopathy all point to significant impairments that cannot be overlooked, reinforcing that these conditions' impacts were not sufficiently weighed in evaluating the plaintiff’s capacity to perform other work activities.
+
+In conclusion, the substantial medical evidence undermines the AU's conclusion, necessitating a reevaluation of the claim as per established legal standards.
+
+citations: ['742 F.2d 1232', '698 F.2d 407']
+
+gold_text: The AU also determined that the plaintiff’s testimony concerning his daily activities did not support plaintiff’s claim of pain. According to the AU, the fact that plaintiff admitted to working on his car, sometimes doing the grocery shopping, visiting with his father, watching TV and going fishing, indicated that plaintiff’s pain was not so extreme as to significantly interfere with his normal everyday activities or prevent plaintiff from working. We must disagree. These activities do not involve prolonged physical activity and are not inconsistent with plaintiff’s complaints of pain. It is well established that sporadic diversions, such as performing a few household tasks and working on cars, do not establish that a person is capable of engaging in substantial gainful activity and may not form the basis for rejecting a claimant’s objective complaints of pain. Byron v. Heckler, 742 F.2d 1232, 1235 (10th Cir.1984); Broadbent v. Harris, 698 F.2d 407, 413 (10th Cir.1983). In sum, we conclude that substantial evidence does not support the AU’s rejection of plaintiff’s claims of disabling pain.
+
+label: 

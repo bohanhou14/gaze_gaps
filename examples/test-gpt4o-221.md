@@ -1,0 +1,9 @@
+**Generation:**
+
+In accordance with the principles established in prior cases, the Court must defer to the SBA’s interpretation of its own regulations unless it is plainly erroneous or inconsistent with the regulation (Reference case: 325 U.S. 410). As established in Bowles v. Seminole Rock Co., an agency’s interpretation holds controlling weight unless “plainly erroneous or inconsistent with the regulation” (325 U.S. 410, 414). Additionally, the Court reaffirms that a regulation’s ambiguity requires deference to the agency’s reasonable interpretation (Reference case: 900 F.2d 318). In this instance, the SBA’s assessment that the franchisee agreement indicates an element of control conforms with these standards. Moreover, as illustrated in Hispanic Information & Telecommunications Network v. FCC, an agency’s interpretation is presumed valid unless demonstrably wrong (865 F.2d 1289, 1296). Therefore, this Court must respect the SBA’s determination that the agreements between Dani, Kennedy, and Norrell indicate control, rendering them affiliates under SBA regulations.
+
+citations: ['900 F.2d 318', '325 U.S. 410', '865 F.2d 1289']
+
+gold_text: An agency’s “interpretation of its own regulations is of controlling weight unless it is plainly erroneous or inconsistent with the regulation.” Secretary of Labor v. Western Fuels-Utah, 900 F.2d 318, 321 (D.C.Cir.1990) quoting Bowles v. Seminole Rock Co., 325 U.S. 410, 414, 65 S.Ct. 1215, 1217, 89 L.Ed. 1700 (1945); Hispanic Information and Telecommunications Network v. FCC, 865 F.2d 1289, 1296 (D.C.Cir. 1989). The SBA’s interpretation and application of its regulations is clearly consistent both with the plain meaning of those regulations and with its Congressional mandate. Because that interpretation is in no way plainly erroneous, it must be given deference by this Court.
+
+label: 

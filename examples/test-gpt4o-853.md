@@ -1,0 +1,13 @@
+**Generation:**
+
+This transfer aligns with the reasoning in Leroy v. Great Western United Corp., 443 U.S. 173, where the Supreme Court held that venue may be proper in more than one judicial district if those districts can, "with approximately equal plausibility ... be assigned as the locus of the claim." In this case, both California and Missouri have strong connections to the events underlying the claim, but since most relevant witnesses and evidence are situated in California, it is the more appropriate venue. The Supreme Court further clarified in Leroy that the convenience of the defendant, not the plaintiff, is paramount in determining proper venue. Id. at 185.
+
+Furthermore, referencing Brunette Machine Works v. Kockum Industries, 406 U.S. 706, it is evident that venue provisions are designed to prevent gaps and ensure that cases involving multiple parties have a logical and fair venue based on the locus of operative facts and evidence. Thus, transferring this case to California would minimize inconvenience and serve judicial efficiency, adhering to the principle that venue statutes should avoid creating unnecessary gaps. Id. at 710.
+
+Given these considerations, the plaintiff's preference for Kansas does not suffice to override the compelling factors favoring a transfer to California. Therefore, based on the guidance provided by these precedents, transferring this case is appropriate and consistent with statutory and judicial principles.
+
+citations: ['443 U.S. 173', '406 U.S. 706']
+
+gold_text: . Some courts have narrowly construed § 1391(b) to allow venue in the district where the claim arose only when multiple defendants do not reside in one judicial district. Relying on footnotes in two Supreme Court cases, Leroy v. Great Western United Corp., 443 U.S. 173, 184 n. 17, 99 S.Ct. 2710, 2717 n. 17, 61 L.Ed.2d 464 (1979) and Brunette Machine Works, Ltd. v. Kockum Industries, Inc., 406 U.S. 706, 710 n. 8, 92 S.Ct. 1936, 1939 n. 8, 32 L.Ed.2d 428 (1972), the following courts have concluded that the "claim arose” alternative in § 1391(b) is available only when needed to close "venue gaps” that occur when multiple defendants reside in different districts: Canaday v. Koch, 598 F.Supp. 1139, 1148 (E.D.N.Y.1984); Southern Marine Research, Inc. v. Jetronic Industries, Inc., 590 F.Supp. 1192, 1194 (D.Conn.1984); Pfieffer v. International Academy of Biomagnetic Medicine, 521 F.Supp. 1331, 1336 (W.D.Mo.1981). Other courts construe § 1391(b) as providing two equal alternatives for venue. Because venue is not proper in Kansas under either construction, we need not decide which construction is proper.
+
+label: 

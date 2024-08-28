@@ -1,0 +1,17 @@
+**Generation:**
+
+
+
+In this case, the court must consider whether the Pledge Statute's requirement that students stand during the Pledge is facially unconstitutional. The court references case 515 U.S. 646, which states that students have a constitutional right to remain seated during the Pledge. The court also references case 880 F.2d 305, which notes that the right to remain seated and silent during the Pledge is clearly established.
+
+The court concludes that the Pledge Statute's requirement that "civilians" stand during the Pledge is a violation of the Constitution. The court finds that the most probable, accurate interpretation of the statute is that the term "civilians" distinguishes most people from "persons in uniform" - persons who are required by the rules pertaining to the use of the United States flag to render a military salute when the Pledge is recited. The court references case 406 U.S. 205, which notes that the First Amendment protects the right to free exercise of religion, including the right to refuse to participate in the Pledge.
+
+The court also considers the Pledge Statute's parental-permission requirement, which permits students to be excused from reciting the Pledge if their parents consent. The court references case 515 U.S. 646, which states that the government may not compel an individual to act contrary to his religious beliefs. The court concludes that the parental-permission requirement is not facially unconstitutional, as it is a legitimate exercise of the state's power to protect the fundamental right of parents to control their children's upbringing.
+
+In summary, the court concludes that the Pledge Statute's requirement that students stand during the Pledge is facially unconstitutional, but the parental-permission requirement is not. The court references various cases, including 515 U.S. 646, 406 U.S. 205, and 880 F.2d 305, to support its conclusions.
+
+citations: ['515 U.S. 646', '406 U.S. 205', '880 F.2d 305']
+
+gold_text: Although we accept that the government ordinarily may not compel students to participate in the Pledge, e.g., Barnette, 63 S.Ct. at 1187, we also recognize that a parent’s right to interfere with the wishes of his child is stronger than a public school official’s right to interfere on behalf of the school’s own interest. See Vemonia Sch. Dist. 47J v. Acton, 515 U.S. 646, 115 S.Ct. 2386, 2391-92, 132 L.Ed.2d 564 (1995) (discussing public school official’s more limited role vis-a-vis parents with respect to infringing on a student’s fundamental rights). And this Court and others have routinely acknowledged parents as having the principal role in guiding how their children will be educated on civic values. See Wisconsin v. Yoder, 406 U.S. 205, 92 5.Ct. 1526, 1541, 32 L.Ed.2d 15 (1972) (refusing to enforce a compulsory education requirement beyond the eighth grade where doing so would infringe upon the free exercise of the Amish religion and intrude on the “fundamental interest of parents ... to guide the religious future and education of their children”); Arnold v. Bd. of Educ. of Escambia County, 880 F.2d 305, 313 (11th Cir.1989) (“Within the constitutionally protected realm rests the parental freedom to inculcate one’s children with values and standards which the parents deem desirable.”).
+
+label: 

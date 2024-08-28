@@ -1,0 +1,17 @@
+**Generation:**
+
+ <answer>
+
+In this case, the defendants argued that the blank bonds were not "securities" under 18 U.S.C. § 2311, which defines securities as "any note, stock certificate, bond, debenture, check, draft, warrant, traveler's check, letter of credit, warehouse receipt, negotiable bill of lading, evidence of indebtedness, certificate of interest or participation in any profit-sharing agreement, collateral-trust certificate, preorganization certificate or subscription, transferable share, investment contract, voting-trust certificate; valid or blank motor vehicle title; certificate of interest in property, tangible or intangible; instrument or document or writing evidencing ownership of goods, wares, and merchandise, or transferring or assigning any right, title, or interest in or to goods, wares, and merchandise; or, in general, any instrument commonly known as a "security", or any certificate of interest or participation in, temporary or interim certificate for, receipt for, warrant, or right to subscribe to or purchase any of the foregoing, or any forged, counterfeited, or spurious representation of any of the foregoing." (U.S.C. § 2311).
+
+In United States v. Jackson, 576 F.2d 749 (8th Cir.), cert. denied, 439 U.S. 828, 858, 99 S.Ct. 102, 175, 58 L.Ed.2d 167 (1978), the court held that genuine blank stock certificates did not fit within the definition of securities under section 2311. However, in United States v. Anderson, 532 F.2d 1218 (9th Cir.), cert. denied, 429 U.S. 839, 97 S.Ct. 111, 50 L.Ed.2d 107 (1976), the court rejected the argument that incomplete counterfeit securities, which on their face are adequate similitudes of genuine securities, fit within the statutory definition.
+
+In this case, the court held that the genuine blank bonds were sufficiently complete as to fall within the definition of "securities" under section 2311. The court also held that the government presented sufficient evidence that the co-conspirators knew the bonds were stolen, and that Pinto's statements were admissible against him as admissions.
+
+The court also held that the government presented sufficient evidence to show that the stolen bonds were transported interstate, and that Taylor
+
+citations: ['684 F.2d 1293', '456 F.2d 634']
+
+gold_text: Although Taylor’s phone conversation with Thomas occurred after Pinto and Omega had been arrested, it was nonetheless admissible against Taylor because the statements constitute admissions by him. See Fed.R.Evid. 801(d)(2)(A). The conversation also was admissible against Pinto as co-conspirator statements. Although statements made by a co-conspirator after his arrest cannot be used against fellow conspirators, see United States v. Saavedra, 684 F.2d 1293, 1298 (9th Cir. 1982), the converse is not true; statements made by an unarrested co-conspirator who is still operating in furtherance of the ongoing conspiracy may be introduced against the arrested conspirator. Id.; United States v. Wentz, 456 F.2d 634, 637 (9th Cir.1972). Taylor was unaware that the plan to sell the blank bonds had ended with the arrest of Pinto and Omega. Absent such knowledge, the conspiracy remained in operation as Taylor was seeking to carry out its next step — receipt of his commission for introducing the buyer and seller. Consequently, there was sufficient evidence to support the district court’s conclusion that the statements by Taylor were made in furtherance of the conspiracy.
+
+label: 

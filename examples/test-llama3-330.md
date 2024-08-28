@@ -1,0 +1,20 @@
+**Generation:**
+
+
+In reviewing the decision of the claims administrator, the court must determine if the decision is reasonable and supported by the plan documents. According to the Supreme Court, "the reasonableness of a plan administrator's decision is determined by whether it is supported by a reasonable interpretation of the plan's terms." (Williams v. BellSouth Telecomm. Inc., 373 F.3d 1132, 1134 (11th Cir.2004))
+
+In this case, the claims administrator's decision to pay the beneficiary $37,000.00 was based on its interpretation of the Guaranteed Issue Amount. The beneficiary argues that the Guaranteed Issue Amount is the maximum amount of insurance that can be issued, regardless of the insured's annual salary. However, the court finds that the claims administrator's interpretation is reasonable and supported by the plan documents.
+
+The plan documents define the Guaranteed Issue Amount as "the amount of insurance that will be issued to an insured person without Evidence of Insurability." (Tab 33, Ex. 3 to Compl., Pg. 9) This definition is consistent with the claims administrator's interpretation that the Guaranteed Issue Amount is the maximum amount of insurance that can be issued without requiring Evidence of Insurability.
+
+The court also notes that the claims administrator's decision is consistent with the industry standard for guaranteed issue amount. (10 F.3d 1547) As the court in Firestone Tire & Rubber Co. v. Bruch, 489 U.S. 101, 115 (1989) held, "the reasonableness of a plan administrator's decision is determined by whether it is supported by a reasonable interpretation of the plan's terms."
+
+In conclusion, the court finds that the claims administrator's decision to pay the beneficiary $37,000.00 was reasonable and supported by the plan documents. The beneficiary's argument that the Guaranteed Issue Amount is the maximum amount of insurance that can be issued, regardless of the insured's annual salary, is not supported by the plan documents and is inconsistent with the industry standard for guaranteed issue amount.
+
+
+
+citations: ['240 F.3d 982', '10 F.3d 1547']
+
+gold_text: Had the Court found that Defendant’s decision was wrong, the next step would have been to determine if Plaintiffs interpretation of the Policy was correct or at least reasonable. See HCA Health Services of Ga., Inc. v. Employers Health Ins. Co., 240 F.3d 982, 994 (11th Cir.2001) (“If the court determines that the claims administrator’s interpretation is ‘wrong,’ the court then proceeds to decide whether the claimant has proposed a ‘reasonable’ interpretation of the plan.”) (quoting Lee v. Blue Cross/Blue Shield, 10 F.3d 1547, 1550 (11th Cir.1994)). Plaintiff argues that Guaranteed Issue Amount is an ambiguous term open to multiple interpretations. Because “contra proferentem applies to ERISA plans,” after finding Defendant’s decision wrong or the phrase Guaranteed Issue Amount ambiguous, the Court would be required to construe “the ambiguities ... against the drafter of a document;” and, “as such, [Plaintiffs] interpretation [would be] viewed as correct.” HCA 240 F.3d at 994 n. 24. Even though the Court would have to accept Plaintiffs definition of Guaranteed Issue Amount as correct, Plaintiff would “not necessarily prevail.” Id. Plaintiff would only succeed if the Court were to determine that Defendant’s wrong interpretation was also unreasonable. Id. Because the Court agrees with Defendant’s interpretation of Guaranteed Issue Amount, the Court cannot find Defendant’s interpretation unreasonable. Consequently, a second and separate reason for affirming Defendant’s decision is that even if both Defendant and the Court are wrong, the decision is reasonable because Guaranteed Issue Amount is a term commonly associated with underwriting, and not with payable benefits. See 11/15/04 NATUNDLH 18 (stating that guaranteed issue policy is one without medical underwriting, also known as simplified issue).
+
+label: 

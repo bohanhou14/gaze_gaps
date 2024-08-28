@@ -1,0 +1,9 @@
+**Generation:**
+
+Consistent with **Hensley v. Eckerhart**, 461 U.S. 424, it is imperative to examine the proportionality between the extent of defendants' success and the awarded fees. The district court needs to revisit its calculation by assessing whether the hours recorded were justly expended given the simplicity of the legal issues. Fees should account for the work necessary under the circumstances rather than reflect over-preparation or redundant tasks. Similarly, in line with **Cook v. Niedert**, 695 F.2d 485, a precise articulation of the rationale behind the fee determination is crucial for appellate review. As this wasn’t sufficiently detailed, we remand for further elaboration of such justifications. Additionally, following **Brytus v. Spang & Company**, 688 F.2d 503, it is recognized that granting fees for periods marked by neither party's fault is fair. Thus, any reduction must be justified by whether the time was a necessary litigation expense. Therefore, the district court should reassess the legitimacy and necessity of each segment of the billed hours and adjust the fee award accordingly.
+
+citations: ['461 U.S. 424', '695 F.2d 485', '688 F.2d 503']
+
+gold_text: While we find no fault with the district court’s determination that the amount of time spent for each task presented in defendants’ bill of costs was reasonable, the district court did not address the question whether the work was appropriately performed in the first instance. Even before Hensley, 461 U.S. 424, 103 S.Ct. 1933, 76 L.Ed.2d 40 (1983), we have remanded fee decisions where the relationship between the work compensated in the award and the success of the party was not clear from the district court order. See Freeman v. Franzen, 695 F.2d 485, 494 (7th Cir.1982), cert. denied, 463 U.S. 1214, 103 S.Ct. 3553, 77 L.Ed.2d 1400 (1983); Sanchez v. Schwartz, 688 F.2d 503, 506-07 (7th Cir.1982). We must do so once again in the present case.
+
+label: 

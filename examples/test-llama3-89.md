@@ -1,0 +1,19 @@
+**Generation:**
+
+
+
+The case Wacho-via Bank, National Association v. WL Homes, LLC involves a secured creditor, Wacho-via, seeking a declaration that it has an enforceable security interest in a bank account held by a wholly-owned subsidiary, JLH Insurance Corporation, of the debtor, WL Homes. The Court applied California law and held that Wacho-via had a valid security interest in the account because JLH consented to the pledge and, in the alternative, because WL Homes had use and control of the JLH account.
+
+The Court noted that a security interest attaches to collateral when it becomes enforceable against the debtor. Under California's Commercial Code, a security interest in a deposit account becomes enforceable against the debtor when the debtor has rights in the collateral or the power to transfer rights in the collateral to a secured party, and the secured party has control over the deposit account. The Court held that WL Homes had sufficient rights in the JLH account to pledge it as collateral, citing In re Ferandos, 402 F.3d 147, 156 (3d Cir.2005), and that JLH's consent to the use of its account as collateral was imputed to WL Homes.
+
+In the present case, the Court applied the doctrine of imputed knowledge to charge WL Homes with the knowledge that JLH had gained in its capacity as a wholly-owned subsidiary, citing Northern Natural Gas Co. v. Superior Court, 64 Cal.App.3d 988, 134 Cal.Rptr. 850, 856 (1976). The Court also noted that several other courts have held that a debtor's rights in the collateral may be found from any rights going beyond mere possession, such as the right to use and control the collateral, citing Atchison, 832 F.2d 1236, 1239 (11th Cir.1987).
+
+In conclusion, the Court held that Wacho-via had a valid security interest in the JLH account and that the security interest was enforceable against the claim of the trustee. The Court's decision was based on the doctrine of imputed knowledge and the principle that a debtor's rights in the collateral may be found from any rights going beyond mere possession.
+
+
+
+citations: ['618 F.2d 432', '618 F.2d 432', '208 B.R. 232']
+
+gold_text: In Matter of Pubs, Inc. of Champaign, 618 F.2d 432, 435-38 (7th Cir.1980), the Court of Appeals for the Seventh Circuit considered a situation in which two individuals who were also the officers of the debtor corporation promised their own equipment as collateral for a loan from the bank. The debtor corporation later filed for bankruptcy and the court held that the individuals had properly pledged the collateral and concluded that “[njotice to the director of a corporation is notice to the corporation and estops the corporation and its receiver from questioning the validity of a prior transaction.” Id. at 438. In Atchison, the Court of Appeals for the Eleventh Circuit, applying the Uniform Commercial Code, likewise held that the signature of the person who owned the collateral individually but pledged it on behalf of his corporation had manifested his consent to granting a security interest in the property. 832 F.2d at 1239-40 (“[E]ven if he did own the equipment, his signature for A & W was sufficient to infer his consent to its use as collateral.”). A United States Bankruptcy Court has applied Atchison to facts similar to those presented here — to a situation in which the individuals who owned the property pledged as security (a coin collection) signed the security agreement in his capacity as a corporate officer. In re 4-R Management, Inc., 208 B.R. 232, 237 (Bankr.N.D.Ala.1997). The court held that the owners’ individual signatures on the security agreement “was sufficient to infer corporate consent to use the coins as collateral.” Id. at 238.
+
+label: 

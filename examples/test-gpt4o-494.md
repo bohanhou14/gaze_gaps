@@ -1,0 +1,13 @@
+**Generation:**
+
+Blakeney's request for injunctive relief is similarly flawed. The Supreme Court has established that plaintiffs seeking injunctive relief must demonstrate a real and immediate threat of future injury. In City of Los Angeles v. Lyons, 461 U.S. 95, 102-03 (1983), the Court held that past exposure to illegal conduct does not in itself show a present case or controversy regarding injunctive relief if unaccompanied by any continuing, present adverse effects. Blakeney's allegations concern past conduct by the defendants without any concrete indication of a likelihood of recurring harm. Consequently, he does not meet the threshold requirement for injunctive relief.
+
+Moreover, in the realm of seeking cessation of alleged antitrust violations or similar injurious practices, courts have recognized a requirement for clear proof of a continuing practice or a likelihood of resumption, as noted in United States v. Concentrated Phosphate Export Assn., Inc., 393 U.S. 199, 203-04 (1968), and reaffirmed in United States v. W.T. Grant Co., 345 U.S. 629, 633 (1953). Here, Blakeney does not present evidence of any ongoing or imminent illegal activities by the defendants that would justify injunctive relief, aligning with the principles from 343 U.S. 326 against speculative future harm.
+
+Therefore, Blakeney's claims for declaratory and injunctive relief fail on the merits, providing an alternative basis to affirm the District Court's decision.
+
+citations: ['461 U.S. 95', '343 U.S. 326']
+
+gold_text: Blakeney seeks preliminary and permanent injunctive relief requiring the defendants to process his complaint “in accordance to law,” to allow him to amend and file motions for change of venue, and to appoint counsel, among other requests. Even if defendants violated Blakeney’s rights in the past as he alleges, he does not allege that he has any reason to believe that he might suffer such treatment in the future. His claim for injunctive relief is thus purely speculative and does not present a “case or controversy” under Article III. See City of Los Angeles v. Lyons, 461 U.S. 95, 101-110, 103 S.Ct. 1660, 75 L.Ed.2d 675 (1983). Moreover, as the acts of which he complains were not ongoing at the time that he filed the complaint, the relief he seeks is not properly characterized as injunctive. See United States v. Or. State Med. Soc’y, 343 U.S. 326, 333, 72 S.Ct. 690, 96 L.Ed. 978 (1952).
+
+label: 

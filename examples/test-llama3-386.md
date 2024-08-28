@@ -1,0 +1,17 @@
+**Generation:**
+
+
+
+As discussed in the reference case 219 F.3d 639, exceptions to procedural default may be excused if the petitioner shows cause and prejudice for his failure to exhaust his state claims or if a failure to review these claims results in a fundamental miscarriage of justice. However, in this case, Gecht has failed to present any evidence of external cause that prevented him from raising his ineffective assistance claims before the Illinois Supreme Court, nor has he made an attempt to show actual innocence, as opposed to legal innocence, as required to support the finding of a fundamental miscarriage of justice. Sawyer v. Whitley, 505 U.S. 333, 339, 112 S.Ct. 2514, 120 L.Ed.2d 269 (1992).
+
+Regarding Gecht's claim that his appellate counsel was ineffective for failing to argue that there were no exigent circumstances to arrest him in his home, the court held that the exclusionary rule of Payton v. New York, 445 U.S. 573, 100 S.Ct. 1371, 63 L.Ed.2d 639 (1980), does not operate to exclude statements made at the police station following a warrantless entry into the defendant's home regardless of whether that entry is supported by exigent circumstances. New York v. Harris, 495 U.S. 14, 110 S.Ct. 1640, 109 L.Ed.2d 13 (1990). Therefore, there was no prejudice from Gecht's appellate counsel failing to raise the issue of exigency.
+
+Finally, Gecht's claim that the prosecutor committed misconduct by including improper and prejudicial remarks in his closing statement is procedurally defaulted because the appellate court determined that his failure to object to the misconduct at trial or to raise it with specificity in the post-trial motion constituted a waiver of the claim. Wright v. Walls, 288 F.3d 937, 947 (7th Cir.2002).
+
+In conclusion, Gecht's claims lack merit and are procedurally defaulted. The court will deny his petition for writ of habeas corpus. 
+
+citations: ['219 F.3d 639', '513 U.S. 298']
+
+gold_text: Because Gecht has procedurally defaulted on this claim, I may only consider it if Gecht can show cause for the default and actual prejudice as a result of the prosecutor’s actions, or demonstrate that failure to consider the claim will result in a fundamental miscarriage of justice. Coleman, 501 U.S. at 750, 111 S.Ct. 2546. Setting aside the question of cause, a showing of prejudice requires that “the facts underlying the claim would be sufficient to establish by clear and convincing evidence that but for constitutional error, no reasonable factfinder could have found the applicant guilty of the underlying offense.” 28 U.S.C.A. § 2254(e)(2); see also Spreitzer v. Schomig, 219 F.3d 639, 648 n. 1 (7th Cir.2000) (explaining that subsection (e)(2) codified the “cause and prejudice” test for procedurally defaulted claims). Here, the prosecution introduced evidence at trial of Gecht’s detailed statement to the police admitting that he shot Cruz. His former girlfriend testified that he told her the same. Even without the prosecutor’s statements, however improper they may have been, a reasonable factfinder could have found Gecht guilty of Cruz’s murder. Likewise, Gecht cannot show that a fundamental miscarriage of justice has occurred because he cannot show “a constitutional violation has probably resulted in the conviction of one who is actually innocent.” Schlup v. Delo, 513 U.S. 298, 327, 115 S.Ct. 851, 130 L.Ed.2d 808 (1995). Therefore, this claim is without merit.
+
+label: 

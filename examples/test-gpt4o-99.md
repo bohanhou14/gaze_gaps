@@ -1,0 +1,11 @@
+**Generation:**
+
+The Third Circuit's stance on examining extrinsic evidence when construing an insurance policy is clear from Sikirica v. Nationwide Ins. Co., 416 F.3d 214, where it held that if a term is ambiguous, the court may look to extrinsic evidence to resolve the ambiguity. This approach aligns with the principle that ambiguous terms in an insurance contract must be strictly construed against the insurer but that extrinsic evidence can still be utilized to discern the parties' intent (Pac. Indem. Co. v. Linn, 766 F.2d 754, 761). Additionally, Federal Ins. Co. v. Continental Casualty Co., 2006 WL 3386625, albeit a pressure point of disagreement, is not universally accepted as precluding the use of extrinsic evidence in all instances of insurance contract interpretation.
+
+Consistent with these precedents is the recognized principle that clear contractual terms must be given effect without reference to extrinsic matters, but ambiguity permits recourse to external aids. Ambiguous insurance contracts, while construed in favor of the insured as a matter of general practice, are not immune from the analytical depth provided by relevant extrinsic evidence (12th Street Gym, Inc. v. General Star Indemnity Company, 93 F.3d 1158). The 247 F.3d 79 and 416 F.3d 214 cases reinforce that the intent of the parties, often clarified through external matters when ambiguity arises, is pivotal to fair contract enforcement in Pennsylvania’s legal landscape.
+
+citations: ['247 F.3d 79', '416 F.3d 214', '416 F.3d 214', '766 F.2d 754']
+
+gold_text: The law of this circuit is clear that when the written contract is clear and unequivocal, there is no need to resort to extrinsic evidence. See Bohler-Uddeholm Am. Inc. v. Ellwood Group, Inc., 247 F.3d 79, 92 (3rd Cir.2001). On the other hand, our cases have permitted consideration of extrinsic evidence in order to determine whether the ambiguity can be resolved. See Sikirica v. Nationwide Ins. Co., 416 F.3d 214, 220 (3rd Cir.2005); Pacific Indem. Co. v. Linn, 766 F.2d 754, 761 (3rd Cir.1985).
+
+label: 

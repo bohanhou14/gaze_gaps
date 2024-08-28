@@ -1,0 +1,13 @@
+**Generation:**
+
+In the context of punitive damages under § 523(a)(2)(A), the Debtor's argument finds support in relevant case law. Specifically, the majority of bankruptcy courts have maintained that punitive damages are dischargeable under § 523(a)(2)(A), as established in cases like *In re Ellwanger* (105 B.R. 551, 556) and *In re Suter* (59 B.R. 944, 947). These rulings emphasize that § 523(a)(2)(A) limits nondischargeability to actual fraud amounts, excluding punitive damages which are awarded as punishment rather than as compensation for fraud (951 F.2d 196).
+
+Conversely, a minority of decisions hold punitive damages non-dischargeable under different subsections, such as § 523(a)(6). For instance, *In re Miera* (926 F.2d 741) and *In re McGuffey* (145 B.R. 582) assert that punitive damages related to willful and malicious conduct are nondischargeable. Furthermore, broader interpretations of the term "debt" in § 523(a)(6) by courts like *In re Stokes* (150 B.R. 388) argue that punitive damages should be included within nondischargeable debts (170 B.R. 380).
+
+Consequently, the Plaintiff’s request for punitive damages under § 523(a)(2)(A) is unsupported and must be stricken, aligning with the precepts outlined in *St. Laurent* (991 F.2d 672) and other pertinent case law.
+
+citations: ['951 F.2d 196', '951 F.2d 196', '59 B.R. 944', '79 B.R. 462', '991 F.2d 672', '170 B.R. 380']
+
+gold_text: Applying a similar statutory construction under § 523(a)(2)(A) several courts have concluded that punitive damages are dischargeable. In re Levy, 951 F.2d 196 (9th Cir.1991); Matter ofSuter, 59 B.R. 944, 946-47 (Bankr.N.D.I11.1986) (Ginsberg, J.); Matter of Larson, 79 B.R. 462, 465 (Bankr. W.D.Mo.1987). These courts reason that the phrase in § 523(a)(2) — “to the extent obtained by” — modifies and limits the amount of non-dischargeable damages to the amount the debtor obtained as a result of the fraud. Levy at 198; Suter at 946. A few courts have, however, found punitive damages non-dischargeable under § 523(a)(2) notwithstanding the statutory limitation. See In re St. Laurent II, 991 F.2d 672, 678 (11th Cir. 1993) (“punitive damage awards flowing from the same course of fraudulent conduct necessitating an award of compensatory damages are not dischargeable in bankruptcy under § 523(a)(2)(A)); In re Pawlinski, 170 B.R. 380 (Bankr.N.D.I11.1994) (punitive damages arising from non-dischargeable debt under § 523(a)(2)(A) or § 523(a)(4) are non-dis-chargeable). This court agrees with the majority view that the express language of the statute limits the non-dischargeable debt to only that amount actually obtained by the fraud and not to punitive damages imposed because of the fraud.
+
+label: 

@@ -1,0 +1,15 @@
+**Generation:**
+
+The case at hand, examined under the purview of the petitioner’s prolonged solitary confinement for aiding fellow inmates in habeas corpus petitions, highlights critical legal considerations regarding constitutional rights within state penitentiaries. Pertinent to our discussion is the clear distinction made in 293 U.S. 131 that habeas corpus cannot serve to modify or revise a judgment unless the court lacked jurisdiction to render it. This principle underscores that the petitioner's act does not intrude upon the finality of state convictions but addresses incarceration conditions contravening federal statutory rights.
+
+Moreover, the ruling in 371 U.S. 236 elucidates that parole status still constitutes "custody" under 28 U.S.C. § 2241, supporting the assertion that limitations on prisoners' abilities to file habeas corpus petitions, and punitive responses thereto, fall under federal scrutiny. Hence, the petitioner's confinement could indeed be a subject of federal habeas corpus review if it unlawfully impedes constitutional relief pathways.
+
+Further, 372 U.S. 391 emphasizes the federal courts' power to alleviate unconstitutional restraint even when state remedies haven’t been exhausted, provided federal rights are impaired. Although comity advises intervention post state-court decisions, federal protection remains paramount if state remedies are inadequate, applicable to the regulation impeding habeas petition preparation.
+
+In conclusion, the petitioner's solitary confinement represents an excess of state authority precluding federally protected habeas relief, justifiable for intervention as per the rulings in 293 U.S. 131, 371 U.S. 236, and 372 U.S. 391. Thus, this Court must act to safeguard the constitutional rights undermined by the prison regulation in question.
+
+citations: ['293 U.S. 131', '371 U.S. 236', '372 U.S. 391']
+
+gold_text: Ordinarily, a prisoner may resort to federal habeas corpus to make a collateral attack on federal constitutional grounds upon his state court conviction. The federal habeas corpus statute, 28 U.S.C.A. § 2241 (1959), makes the writ available for this purpose if the prisoner is “in custody in violation of the Constitution * * * of the United States. * * * ” Over thirty years ago, the Supreme Court held that a sentence which the prisoner had not begun to serve did not satisfy the statutory requirement of “custody” even though a result of the challenged sentence was to thwart his eligibility for parole. McNally v. Hill, 293 U.S. 131, 55 S.Ct. 24, 79 L.Ed. 238 (1934). If this decision stood alone, unqualified by later decisions of the Supreme Court, we as a lower court would be bound to follow it. Since then, however, the Court has relaxed the strictness of this interpretation and held that one on parole is in “custody” within the meaning of the term as used in 28 U.S.C.A. § 2241. Jones v. Cunningham, 371 U.S. 236, 83 S.Ct. 373, 9 L.Ed.2d 285 (1963). Still later, the Court, in broad terms, equated “custody” with “restraint of liberty.” Fay v. Noia, 372 U.S. 391, 427, 83 S.Ct. 822, 9 L.Ed.2d 837 (1963).
+
+label: 

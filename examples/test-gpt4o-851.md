@@ -1,0 +1,13 @@
+**Generation:**
+
+This contention is echoed in several precedents. As established in N.L.R.B. v. Gaynor News Co., the court held that Section 10(b) of the Act does indeed authorize the inclusion of amended charges that "relate back" to the original charges filed within the statutory period (201 F.2d 484, 197 F.2d 719). Similarly, N.L.R.B. v. Kobritz confirmed that a complaint may be amended after the six-month period, provided the violations are closely related to those named in the original charge and occurred within six months prior to its filing (193 F.2d 8). Moreover, in the context of procedural fairness, the argument of procedural irregularity in making such amendments fails unless substantive prejudice or surprise can be demonstrated (193 F.2d 8, 199 F.2d 631). 
+
+In our case, since all alleged violations occurred within six months before the filing of the charge, these claim additions are substantiated by the "relation back" doctrine (209 F.2d 393). As noted in the Kansas Milling case, requiring strict adherence to formal pleading principles would undermine the remedial purposes of the Act (185 F.2d 413). As per the doctrine recognized in the general law, amended charges connected to the original charge are timely (192 F.2d 144).
+
+Therefore, the board's inclusion of interference and threats as violations under Section 8(a)(1) of the Act is consistent with established precedents and the statutory framework (309 U.S. 350).
+
+citations: ['201 F.2d 484', '209 F.2d 393', '193 F.2d 8', '185 F.2d 413', '192 F.2d 144', '309 U.S. 350']
+
+gold_text: In N.L.R.B. v. Dinion Coil Co., 2 Cir., 1952, 201 F.2d 484, a complaint was filed including employees in addition to others who allegedly had been discriminately discharged. The' original charge was made within the six months limitation but the enlarged charges by the complaint were without the limitation. The relating back theory was applied because all of the charges were closely related. See, also, to much the same effect N.L.R.B. v. Pecheur Lozenge Co., 2 Cir., 1953, 209 F.2d 393. See, also, N.L.R.B. v. Kobritz, 1 Cir., 1951, 193 F.2d 8. Much broader reasoning in applying the relating back theory will be found in Kansas Milling Co. v. N.L.R.B., 10 Cir., 1950, 185 F.2d 413, and in Cathey v. N.L.R.B., 5 Cir., 1951, 185 F.2d 1021, and Stokely Foods, Inc., v. N.L.R.B., 5 Cir., 1952, 193 F.2d 736; see also N.L.R.B. v. Bradley Washfountain Co., 7 Cir., 1951, 192 F.2d 144. We quote from National Licorice Co. v. N.L.R.B., 1940, 309 U.S. 350, 369, 60 S.Ct. 569, 579, 84 L.Ed. 799.
+
+label: 

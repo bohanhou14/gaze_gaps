@@ -1,0 +1,15 @@
+**Generation:**
+
+Further, this court must consider the absence of a legitimate claim to entitlement or property interest in re-employment, as discussed in Board of Regents v. Roth, 408 U.S. 564. According to Roth, an individual must have more than an abstract need or desire for re-employment; there must be a legitimate claim to entitlement that stems from a state statute or mutually explicit understandings supporting that claim. Stritzl, as a probationary employee, had no such entitlement under either the Postal Reorganization Act or the collective bargaining agreement in effect.
+
+Similarly, the absence of a property interest negates Stritzl's claim. Referencing Perry v. Sindermann, 408 U.S. 593, a property interest in employment must be more than a unilateral expectation; it must be supported by rules or understandings from independent sources. Stritzl's probationary status clearly lacks these supporting rules or agreements.
+
+Moreover, Stritzl's assertion of a liberty interest infringement due to the dissemination of negative performance evaluations echoes the concerns laid out in 530 F.2d 1335. In that case, it was held that a liberty interest could be implicated if the reasons for nonrenewal were of such a nature that they significantly hampered future employment opportunities. However, as established therein, to claim a liberty interest, the assertions must rise to a level that damages one’s standing in the community or forecloses future employment opportunities. Stritzl has not demonstrated that the negative remarks from the Golden Post Office constitute such a significant impediment, aligning this scenario more closely with a routine assessment rather than a unique or actionable stigma.
+
+Thus, in light of the above case law, Stritzl's claims under both his asserted property and liberty interests lack the necessary legal foundation. Consequently, we affirm the trial court's dismissal of the action, validating that probationary employees like Stritzl do not possess the same employment protections as permanent employees under the Postal Reorganization Act and related constitutional provisions.
+
+citations: ['408 U.S. 564', '530 F.2d 1335']
+
+gold_text: We do not regard the characterization of Stritzl by the Golden Post Office as one possessed of “poor work habits and low productivity” as the equivalent to the “badge of infamy” referred to an Constantineau. Nor does the characterization amount to a type of “stigma” recognized in Board of Regents v. Roth, 408 U.S. 564, 92 S.Ct 2701, 33 L.Ed.2d 548 (1972) as requiring a hearing. In Weathers v. West Yuma County School District R-J-I, 530 F.2d 1335 (10th Cir. 1976), a school teacher’s employment contract was not renewed because of “overall performance.” The teacher later brought an action based, in part, on a “liberty interest” which he claimed he had been deprived of without due process of law. The trial court rejected that claim, and, on appeal, we affirmed with the following comment:
+
+label: 

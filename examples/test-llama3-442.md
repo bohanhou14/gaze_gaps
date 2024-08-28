@@ -1,0 +1,19 @@
+**Generation:**
+
+ 
+Here is the continuation of the writeup:
+
+<answer>
+The court concludes that the December 14, 2005 collection notice violated § 1692e(2) and § 1692f(l). The court also decides that the Michigan Occupational Code claims lack guidance from the state courts and therefore declines to exercise supplemental jurisdiction over these claims.
+
+The court now turns to the issue of whether to exercise supplemental jurisdiction over the Michigan claims. The Supreme Court has held that a federal court has discretion to decline to exercise supplemental jurisdiction over a state law claim when it is novel or complex. 28 U.S.C. § 1367(c)(1). In Rockey v. Courtesy Motors, Inc., 199 F.R.D. 578 (W.D.Mich.2001), the court explained that it is sometimes preferable to refrain from exercising supplemental jurisdiction to determine a novel issue of state substantive law. Id. at 583.
+
+Here, the Michigan Occupational Code claims are novel and complex, and there appears to be no guidance from the state courts on these claims. Therefore, the court concludes that it is appropriate to decline to exercise supplemental jurisdiction over these claims. The court will not exercise jurisdiction over the Michigan claims, and plaintiffs will need to pursue them in state court.
+
+In conclusion, the court grants summary judgment in favor of defendant on plaintiffs’ federal claims brought under the FDCPA. The court declines to exercise supplemental jurisdiction over the Michigan Occupational Code claims due to their novelty and
+
+citations: ['196 F.3d 617', '235 F.3d 275', '137 F.3d 885', '203 F.3d 937', '937 F.2d 738']
+
+gold_text: The statutory basis for this court’s supplemental jurisdiction over state-law claims is established by 28 U.S.C. § 1367. Section 1367(a) states that, “Except as provided in subsections (b) and (c) or as expressly provided otherwise by Federal statute, in any civil action of which the district courts have original jurisdiction, the district courts shall have supplemental jurisdiction over all other claims that are so related to claims in the action within such original jurisdiction that they form part of the same case or controversy under Article III of the United States Constitution. Such supplemental jurisdiction shall include claims that involve the joinder or intervention of additional parties.” In turn, subsection (c)(1) provides that a district court “may decline to exercise supplemental jurisdiction over a claim under subsection (a) if-(i) the claim raises a novel or complex issue of State law.” “[Djistrict courts have broad discretion in deciding whether to exercise supplemental jurisdiction.” Pinney Dock & Transp. Co. v. Penn Cent. Corp., 196 F.3d 617, 620 (6th Cir.1999). The Sixth Circuit reviews district court decisions whether to exercise supplemental jurisdiction under an abuse of discretion standard. See Weeks v. Portage County Executive Offices, 235 F.3d 275, 279 (6th Cir.2000); Campanella v. Commerce Exch. Bank, 137 F.3d 885, 892 (6th Cir.1998). The district court’s discretion is informed by factors of judicial economy, convenience, fairness and comity. 196 F.3d at 620. When facing novel or complex state law, district courts are to be cognizant that there may be “nuances” of state law better left for resolution in the first instance by the state courts. See Cooper v. Parrish, 203 F.3d 937, 953 (6th Cir.2000); see also Drew v. University of Tennessee Regional Medical Center Hosp., No. 99-5070, 2000 WL 572064, at *5 (6th Cir. May 1, 2000) (finding that it was “entirely appropriate for the district court to decline to exercise supplemental jurisdiction” over a claim raising a novel question of state law). The “obscurity or paucity of pertinent state judicial precedent [ ] argue[s] in favor of deferring in favor of the state courts.” Scott v. Long Island Sav. Bank, FSB, 937 F.2d 738, 742 (2d Cir.1991).
+
+label: 

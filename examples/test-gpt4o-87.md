@@ -1,0 +1,13 @@
+**Generation:**
+
+Appellant further argues that the bankruptcy judge failed to recognize the firm's good faith effort to comply with the particularization requirements of § 330(a), Rule 2016(a), and applicable local rules. Referencing case 19 F.3d 833, the bankruptcy court may allow reasonable time to supplement the application with more detailed descriptions or legal arguments if information is too vague for reliable determination of compensability. The court should notify the applicant of specific reasons for denying fees and allow defense of the application upon request. If the court persists in disallowing compensation post-hearing, it must provide sufficient findings of fact and conclusions to facilitate appellate review (19 F.3d 833).
+
+Moreover, Appellant contends that the District Court should have taken into account its attempts to be conservative with time entries, despite some being inadequately documented, as noted in case 711 F.2d 1136. The District Court in that case disallowed hours claimed by law students due to poor documentation, citing any ambiguities should be resolved against the applicant.
+
+The court’s rejection of speculative claims concerning the enhanced value of services echoes the sentiments of Pennsylvania v. Delaware Valley Citizens’ Council for Clean Air and Blum v. Stenson, where upwards adjustments of lodestar amounts are reserved for rare and exceptional circumstances. Given the detailed examination and adherence to the lodestar method by the bankruptcy court, this court finds no abuse of discretion in the fee determination.
+
+citations: ['19 F.3d 833', '19 F.3d 833', '711 F.2d 1136']
+
+gold_text: Appellant further urges that if Judge Holland disallowed part of its compensation request because of inadequate entries on the time sheets submitted, he should have granted an opportunity to supplement those entries. A decision in the Third Circuit suggests that the Bankruptcy Code, and possibly the dictates of Fifth Amendment due process, would mandate a hearing so that a good faith applicant could defend its fee application. See In re Busy Beaver Bldg. Centers, Inc., 19 F.3d 833, 846 (3d Cir.1994). This court declines to extend that suggestion and will abide by the general rule that uncertainties due to poor record-keeping will be resolved against the applicant. See New York Ass’n For Retarded Children v. Carey, 711 F.2d 1136, 1142, 1146 (2d Cir.1983).
+
+label: 

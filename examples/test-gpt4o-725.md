@@ -1,0 +1,9 @@
+**Generation:**
+
+The principle that confirmation of a Chapter 13 plan can extinguish a lien if it is not preserved in the plan is supported by the reference cases. In 58 F.3d 89, the court held that failure to take appropriate steps to avoid a creditor's lien results in the lien surviving confirmation. This is consistent with the court's decision that liens survive unless explicitly voided. Similarly, 172 B.R. 595 affirmed that failure to address a secured claim in the plan results in the preservation of the lien, echoing the principle of res judicata under 11 U.S.C. § 1327(a) which binds creditors to the confirmed plan. Here, Sears did not file an objection to the plan, and the confirmed plan was silent on their lien. Therefore, per the standard set in these precedents, Sears' lien was extinguished by the plan confirmation, classifying their entire claim as unsecured.
+
+citations: ['58 F.3d 89', '58 F.3d 89', '172 B.R. 595']
+
+gold_text: The Court is aware that cases in other courts have reached the opposite result. See Cen-Pen Corp. v. Hanson, 58 F.3d 89, 94 (4th Cir.1995) (stating that if Chapter 13 plan does not address a lien, it passes through the bankruptcy process intact); Kuebler v. United States, 172 B.R. 595, 596 (E.D.Ark.1994) (where debtor failed to object to secured claim and creditor failed to object to Chapter 13 plan, the lien remains enforceable in rem after completion of payments). While admittedly subject to debate, the decisions in Be-Mac and Harmon rendered by the Eighth Circuit Court of Appeals provide sufficient guidance to convince this Court that a hen not preserved in a Chapter 13 plan is extinguished at confirmation, if the creditor has filed a proof of a secured claim and is scheduled as an unsecured creditor.
+
+label: 

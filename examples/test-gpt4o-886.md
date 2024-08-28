@@ -1,0 +1,15 @@
+**Generation:**
+
+To evaluate whether the Florida court unreasonably applied clearly established federal law, we turn to the standards delineated in 28 U.S.C. § 2254(d)(1). A decision is “contrary to” clearly established federal law if it either applies a rule that contradicts governing law set forth by the Supreme Court or reaches a different result from a Supreme Court decision involving materially indistinguishable facts. See Bell v. Cone, 535 U.S. 685, 694 (2002).
+
+In this case, the Florida court identified the appropriate legal standard for ineffective assistance of counsel as established in Strickland v. Washington, 466 U.S. 668 (1984). Petitioner contends that the state court unreasonably applied this standard to his case. Under the “unreasonable application” clause, relief is permissible if the state court identified the correct legal principle but unreasonably applied it to the facts of the case. 700 F.3d 1266, 535 U.S. 685, 407-408. Importantly, an application is unreasonable only if no fairminded jurist could agree with the state court’s determination. Harrington v. Richter, 131 S. Ct. 770, 786 (2011).
+
+The Florida court's conclusion—that Petitioner failed to show prejudice from his attorney's performance—hinges on its credibility determinations and factual findings, which were not "objectively unreasonable" per the standards articulated in Miller-El v. Cockrell, 537 U.S. 322 (2003). The state court's adjudication did not involve an application of federal law that fairminded jurists could universally deem incorrect. Thus, the Florida court's decision was neither “contrary to” nor an “unreasonable application” of clearly established federal law, as defined by Supreme Court precedent.
+
+Therefore, we find that the Florida court reasonably applied governing federal law, and Petitioner’s claim does not meet the threshold for habeas relief under AEDPA.
+
+citations: ['700 F.3d 1266', '535 U.S. 685']
+
+gold_text: A state court decision is “contrary to” clearly established federal law if it applies a rule that contradicts the governing Supreme Court precedent or arrives at a different result than the Supreme Court in the face of materially indistinguishable facts. Burton v. Comm’r, Ala. Dept of Corr., 700 F.3d 1266, 1269 (11th Cir.2012). An “unreasonable application” of clearly established federal law occurs if the state court correctly identifies the governing legal principle from Supreme Court precedent but “unreasonably applies it to the facts of the particular case.” Id. (quoting Bell v. Cone, 535 U.S. 685, 694, 122 S.Ct. 1843, 152 L.Ed.2d 914 (2002)) (quotation marks omitted). Relief is not available under this prong of § 2254(d) if the state court’s application of federal law is “merely wrong.” Woodall, 134 S.Ct. at 1702. Rather, the application must be “objectively unreasonable” to warrant relief. Id. (the state court’s error must be “well understood and comprehended in existing law beyond any possibility for fairminded disagreement”).
+
+label: 

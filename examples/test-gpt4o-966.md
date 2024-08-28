@@ -1,0 +1,15 @@
+**Generation:**
+
+Plaintiffs argue that AT 98-2's interpretation of the TANF legislation deviates from previous agency practices without proper authority or rule-making procedures. To challenge this, the plaintiffs rely on the Supreme Court’s decision in **Schweiker v. Gray Panthers, 453 U.S. 34**, where the Court emphasized that interpretations of complex statutes by the agency entrusted with their execution should be given deference unless unreasonable. Similarly, the court in **Gray Panthers** noted the complexity of the Social Security Act, comparing its intricate construction to a "Byzantine" framework.
+
+In addressing the plaintiffs' claims, **Chevron U.S.A., Inc. v. NRDC, 467 U.S. 837** provides the relevant standard, necessitating that courts respect reasonable agency interpretations when Congressional intent is not explicit. Moreover, the precedent in **Good Samaritan Hospital v. Shalala, 38 F.3d 1225**, reiterates that when an agency adopts a permissible policy consistent with statutory aims, even substantial changes in administration need not always necessitate formal rulemaking.
+
+Furthermore, the case **Friedman v. Berger, 547 F.2d 724** reinforces the notion that courts should defer to the agency's rational interpretation of statutes, especially when statutory language is broad and combats complexities entrenched within such regulatory schemes.
+
+Given these precedents, the court finds HHS’s application in AT 98-2 aligns reasonably with TANF legislation objectives. It upholds the requirement for benefiting program allocation, consistent with established principles under **Circular A-87** and as interpreted in **ASMB C-10**, holding that cost allocation based on benefits received adheres to statutory requirements without necessitating congressional specificity on such administrative details.
+
+citations: ['453 U.S. 34', '38 F.3d 1225', '7 F.3d 296', '547 F.2d 724']
+
+gold_text: Slightly more deference is given to HHS when construing the Social Security Act. Given the complexity of the Social Security Act, Title IV of which contains TANF, courts have stated there is a special need to defer to the Secretary’s interpretation. See Schweiker v. Gray Panthers, 453 U.S. 34, 43, 101 S.Ct. 2633, 69 L.Ed.2d 460 (1981); see also Methodist Hosp. of Sacramento v. Shalala, 38 F.3d 1225, 1229 (D.C.Cir.1994). (recognizing “heightened deference to the Secretary’s interpretation” of a complex and regulatory program like Medicare); White v. Shalala, 7 F.3d 296, 300 (2d Cir.1993) (because of the Act’s “byzantine construction” courts should give deference -to the Secretary’s interpretation of the Act “as long as it is a permissible interpretation”); Friedman v. Berger, 547 F.2d 724, 727 n. 7 (2d Cir.1976), cert. denied, 430 U.S. 984, 97 S.Ct. 1681, 52 L.Ed.2d 378 (1977) ( Friendly, J.) (commenting that the Act and its regulations are “almost unintelligible' to the uninitiated”).
+
+label: 

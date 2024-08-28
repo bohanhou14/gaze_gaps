@@ -1,0 +1,13 @@
+**Generation:**
+
+The procedural due process claim raises important considerations about the adequacy of the notice provided and the opportunity to be heard. The Supreme Court has established that due process requires notice reasonably calculated to inform interested parties of the pending action and to give them an opportunity to present their objections (see Mullane v. Central Hanover Bank & Trust Co., 339 U.S. 306, 314). Moreover, the government need only attempt to provide actual notice, not necessarily succeed in doing so (see Dusenbery v. United States, 534 U.S. 161, 170).
+
+Here, Counter-Plaintiffs argue that they were not properly informed of their rights to appeal during the code enforcement proceedings. Consistent with Dusenbery, the adequacy of notice must be evaluated to determine if the process was constitutionally sufficient, requiring the government to have taken reasonable steps to notify the property owners (417 F.3d 1189).
+
+Given these precedents, the current procedural due process claim must address whether the City provided reasonable notice under all the circumstances. If not, it could constitute a deprivation of property without due process, thereby supporting the Counter-Plaintiffs' claim for relief.
+
+citations: ['417 F.3d 1189', '339 U.S. 306']
+
+gold_text: The notice necessary “to satisfy due process requires only that interested persons be given ‘notice reasonably calculated, under all the circumstances, to apprise interested parties of the pendency of the action and afford them an opportunity to present their objections.’ ” Mesa Valder rama v. U.S., 417 F.3d 1189, 1196-97 (11th Cir.2005) (quoting Mullane v. Central Hanover Bank & Trust Co., 339 U.S. 306, 314, 70 S.Ct. 652, 94 L.Ed. 865 (1950)). Counter-Plaintiffs argue that they have been denied a meaningful opportunity to be heard, with defective notices under state law and the threat of arrest compounding the procedural due process violations. On a motion to dismiss, the Court must take the factual allegations regarding the allegedly deficient notices as true. See Amended Counterclaim, ¶¶ 49, 51, 52, 55. Though as plead, the present claim is sufficient to survive a motion to dismiss, after discovery, it will be up to the Court to determine as a legal matter whether the notice was constitutionally sufficient, a decision that cannot be made in this case solely upon the present pleadings.
+
+label: 

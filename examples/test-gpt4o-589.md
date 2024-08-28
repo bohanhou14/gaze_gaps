@@ -1,0 +1,17 @@
+**Generation:**
+
+In assessing the impact of the exclusion of the defense surrebuttal testimony, we revisit the harmless error analysis outlined in Chapman v. California, 386 U.S. 18. For an error to be harmless, it must be shown beyond a reasonable doubt that the error did not contribute to the verdict. In this case, the exclusion of the surrebuttal testimony might initially seem prejudicial. However, the key issue is whether its inclusion would have undermined Dr. Jain’s critical point regarding the implausibility of simultaneous cocaine and marijuana use given the urinalysis results. 
+
+As noted, Dr. Jain’s assertion that the absence of the marijuana metabolite alongside the presence of the cocaine metabolite renders the appellant's theory highly implausible remained unchallenged. This aligns with the requirement in Fahy v. Connecticut, mentioned in Chapman, that errors not contributing to the verdict must be demonstrably harmless.
+
+Moreover, considering the framework from Gaither v. United States and the Kotteakos standard (8 M.J. 115), significant prejudice affecting the substantial rights must be shown. Given the decisive nature of Dr. Jain's unopposed testimony on key forensic points, we find the military judge’s error did not have a substantial influence on the trial outcome.
+
+Finally, reflecting on the principles from United States v. Neeley, 25 M.J. 713, the proper exclusion of inadmissible hearsay evidence also supports that the military judge’s initial discretion was not wholly misplaced, despite the ultimate discretion misstep.
+
+Thus, adhering to these precedents, we ascertain that the exclusion, while erroneous, did not rise to the level of affecting the trial’s fundamental fairness.
+
+citations: ['386 U.S. 18', '8 M.J. 115', '25 M.J. 713']
+
+gold_text: Appellate defense counsel have argued that we must apply the constitutional standard in determining prejudice in this case. In other words, we must determine whether the erroneous ruling was harmless beyond a reasonable doubt. Chapman v. California, 386 U.S. 18, 24, 87 S.Ct. 824, 828, 17 L.Ed.2d 705, 710-711 (1967). We do not agree. The military judge’s error was on an evidentiary issue. In our view, the standard of review is governed by Mil.R.Evid. 103(a). Appellate defense counsel, in support of their argument, note that the appellant, as a result of the military judge’s ruling, was denied the opportunity to develop his defense to its maximum competence. See United States v. Barnes, 8 M.J. 115, 116-117 (C.M.A.1979). Every ruling which erroneously excludes relevant defense evidence theoretically denies an accused the opportunity to develop a defense to its fullest extent. In our view, this does not mean that every such error is of constitutional dimension. Evidence may relate to a factual issue of “consequence” for the purpose of Mil.R.Evid. 401, while falling short of being critical. But cf. United States v. Walker, 25 M.J. 713 (A.C.M.R.1987). For the reasons set forth above, we have concluded that the appellant would have been found guilty even if he had developed his defense to its “maximum competence” through the testimony of the proffered surrebuttal witness. Based on the compelling nature of the prosecution evidence which would have remained unrebutted, we conclude that there is only a slight possibility that the proffered surrebuttal testimony would have influenced the triers of fact in their resolution of the appellant’s guilt. United States v. Barnes, 8 M.J. at 116.
+
+label: 

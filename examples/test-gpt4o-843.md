@@ -1,0 +1,11 @@
+**Generation:**
+
+In the case at hand, Coal Equity's claim for indemnity from LG & E is fraught with challenges similar to those addressed in the precedent cases. As established in **General Electric Co. v. Moretz, 270 F.2d 780 (4th Cir.1959)**, the court recognized an implied right of indemnity in situations involving a "special contractual relationship." However, this case lacks the unique contractual elements that justified such a ruling in **Moretz**.
+
+Furthermore, the court in the subsequent ruling, **838 F.2d 124**, emphasized that implied indemnity rights depend on specific contractual provisions or statutes, which are notably absent here. The LG & E and Coal Equity agreement does not exhibit any unique elements or statutory obligations that elevate it beyond an ordinary contractual relationship, as was the case in **Goodpasture, Inc. v. Yemen, 782 F.2d 346**. Given these precedents, the court finds no basis for implying an indemnity agreement not explicitly outlined in the contract itself. Therefore, Coal Equity's cross-claim for indemnity must also be dismissed based on the absence of a special contractual relationship or statutory mandate that would support such a claim.
+
+citations: ['270 F.2d 780', '838 F.2d 124']
+
+gold_text: The facts before us can be distinguished from the few cases in which a special relationship has been found. In General Electric Co. v. Moretz, 270 F.2d 780 (4th Cir.1959), cert. denied, 361 U.S. 964, 80 S.Ct. 593, 4 L.Ed.2d 545 (1960), a truck driver was injured when the load he was transporting shifted and the truck wrecked. The driver sued the shipper who had negligently loaded the truck, and the shipper in turn sued the common carrier who had failed to secure the load properly. The court read certain Virginia and federal statutes and ICC regulations into the contract between shipper and carrier. The court found that the incorporation of these provisions established a special contractual relationship giving rise to an implied right of indemnity. Cf., International Surplus Lines Insurance Company v. Marsh & McLennan, Inc., 838 F.2d 124 (4th Cir.1988)(no special relationship recognized in ordinary insurance brokerage arrangement, rejecting application of Ryan and Moretz).
+
+label: 

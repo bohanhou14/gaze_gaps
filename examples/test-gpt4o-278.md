@@ -1,0 +1,13 @@
+**Generation:**
+
+Plaintiff contends that the ALJ's decision is unsupported by substantial evidence and seeks an award of benefits. In light of the evidentiary record and precedent, we agree. As demonstrated in the case 753 F.2d 1450, the ALJ’s characterization of a claimant's residual function must be supported by substantial evidence, and a finding to the contrary mandates reversal and remand for benefits without further proceedings. Additionally, the testimony of non-medical sources such as friends and family members is critical and should not be disregarded, as held in 812 F.2d 1226. Regarding the remand for further proceedings, the principle articulated in 880 F.2d 1086 underscores that remand is warranted only to address procedural defects; otherwise, reversal with an award of benefits is appropriate if substantial evidence already supports disability.
+
+Considering the ALJ's failure to correctly apply the internal memorandum on DAA and agency policy, it is evident that plaintiff's addiction is not material to his disability. Therefore, under the circumstances, similar to the reasoning in 753 F.2d 1450, further proceedings would unnecessarily delay benefits. Consequently, the decision of the Commissioner is reversed, and the case is remanded with instructions to award disability benefits to the plaintiff.
+
+REVERSED and REMANDED for an award of benefits.
+
+citations: ['812 F.2d 1226', '880 F.2d 1086', '753 F.2d 1450']
+
+gold_text: “The decision whether to remand a case for additional evidence, or simply to award benefits is within the discretion of the court.” Sprague v. Bowen, 812 F.2d 1226, 1232 (9th Cir.1987). The ALJ’s findings regarding the impossibility of separating the mental limitations imposed by addictions and the mental limitations imposed by mental disorders are certainly supported by the record which does not require further development in the circumstances of this ease. See Tr. 199; Tr. 200; Tr. 80-87; Tr. 78; Tr. 80. Moreover, defendant had the opportunity to remand the matter to remedy any defect and/or further develop the record when plaintiff appealed to the Appeals Council. However, the Council summarily denied review. Remand for further proceedings in this matter is inappropriate as new proceedings would serve to delay the receipt of benefits and are unlikely to add to the existing findings. See McAllister v. Sullivan, 880 F.2d 1086 (9th Cir.1989). Remand for further proceedings is inappropriate as there is substantial evidence in the record, when viewed as a whole, to establish that plaintiff is disabled. See Gallant v. Heckler, 753 F.2d 1450, 1457 (9th Cir.1984).
+
+label: 

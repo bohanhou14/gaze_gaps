@@ -1,0 +1,15 @@
+**Generation:**
+
+The Halls' claim for actual damages involves the affirmance of the arbitration award by Judge Gerald T. Elliott. Therefore, the preclusive effect of this state court judgment must be considered under the full faith and credit statute, 28 U.S.C. § 1738, which mandates that federal courts give state court judgments the same preclusive effect as they would receive in the rendering state. The Court of Appeals in case 470 U.S. 373 emphasized that federal courts must refer to the preclusion law of the state where the judgment was rendered.
+
+Under Oklahoma law, as referenced in case 13 F.3d 345, the review of an arbitration award is very narrow, limited to determining whether the arbitrator exceeded his authority under the collective bargaining agreement, and generally does not involve reviewing the merits of the arbitrator’s decision. This limited review principle mirrors the Oklahoma Supreme Court's stance that the primary purpose of arbitration is to avoid court intervention on the merits of the disputes contractually arbitrated.
+
+Similarly, in McDonald’s case, 466 U.S. 284, the Supreme Court clarified that arbitration decisions are not judicial proceedings under § 1738, and thus, res judicata and collateral estoppel do not apply to arbitration awards itself, unless such awards are confirmed by a state court judgment. Given that the Halls’ arbitration award was confirmed by a state court, the preclusive effect under § 1738 is applicable here. Thus, plaintiffs’ request for actual damages that overlap the arbitration award granted and confirmed by Judge Elliott falls under the preclusive effect.
+
+Consequently, claims not resolved or left open for full adjudication within the scope of state preclusive laws and § 1738’s mandate can be pursued. This means that the Halls' actual damages claims might be limited, specifically in areas conclusively addressed and resolved by the arbitrators and affirmed by the state court judgment.
+
+citations: ['13 F.3d 345', '466 U.S. 284', '470 U.S. 373']
+
+gold_text: “Under the full faith and credit statute, federal courts must give the judicial proceedings of any state court the same preclusive effect that those judgments would be given by the courts of that state.” Ryan v. City of Shawnee, 13 F.3d 345, 347 (10th Cir.1993) (citing 28 U.S.C. § 1738). Arbitration, however, is not a judicial proceeding under the full faith and credit statute. Id. (citing McDonald v. City of West Branch, Mich., 466 U.S. 284, 288, 104 S.Ct. 1799, 80 L.Ed.2d 302 (1984)). If the arbitration award was reviewed and confirmed in state court, section 1738 requires the court to “ascertain and give the same effect to the state court judgment as the courts of [the confirming state] would give a state court decision affirming an arbitration award.” Id. (citing Marrese v. American Academy of Orthopaedic Surgeons, 470 U.S. 373, 381, 105 S.Ct. 1327, 84 L.Ed.2d 274 (1985)).
+
+label: 

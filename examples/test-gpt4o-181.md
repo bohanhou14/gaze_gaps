@@ -1,0 +1,13 @@
+**Generation:**
+
+In assessing whether the A.L.J.'s decision is supported by substantial evidence, it's critical to ensure that the hypothetical questions posed to vocational experts encompass all of a claimant’s impairments as supported by the record. In the present case, similar to the deficiencies highlighted in reference case 312 F.3d 113, the hypothetical questions posed by the A.L.J. did not adequately account for all of Plaintiff’s impairments, particularly the mental health limitations such as her GAF scores and the implications of her psychiatric conditions.
+
+Moreover, as established in reference case 829 F.2d 1269, a hypothetical question must reflect the claimant's full spectrum of impairments; failing to do so renders the vocational expert's testimony deficient. In Quinones' case, the inadequacy of the hypothetical questions is underscored by the omission of severe, consistent pain and other disabling conditions evidenced by the treating physicians' comprehensive reports.
+
+Therefore, the Court concludes that the A.L.J.’s decision lacks substantial evidence and fails in sufficiently addressing the complex interplay of Plaintiff’s physical and mental impairments. This necessitates a remand for further consideration, specifically ensuring that all relevant impairments are incorporated into any future hypothetical scenarios posed to vocational experts.
+
+citations: ['312 F.3d 113', '829 F.2d 1269']
+
+gold_text: Further, the Court concludes that the A.L.J.’s hypothetical question to the vocational expert failed to include all of Plaintiffs limitations supported by the record. Burns v. Barnhart, 312 F.3d 113, 123 (3d Cir.2002); Chrupcala v. Heckler, 829 F.2d 1269, 1276 (3d Cir.1987). By way of example, the Court notes that even the A.L.J. concluded that Plaintiff had moderate social limitations in her functioning, yet the A.L.J. did not include any social restrictions in her hypothetical. Similarly, the A.L.J. found that Plaintiff had severe cervical degeneration and severe migraine headaches, but did not make any allowances for these conditions. The A.L.J. also gave “some weight” to the out-dated 2005 psychiatric assessment of Dr. Ferreira, but even Dr. Ferreira found that Plaintiff was moderately limited in her ability to complete a normal workday and workweek without interruption from psychologically based symptoms. Again, the A.L.J. made no allowance for these limitations in her hypothetical.
+
+label: 

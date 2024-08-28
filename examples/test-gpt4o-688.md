@@ -1,0 +1,11 @@
+**Generation:**
+
+The Company argues that its reliance on the Fund's past approvals of its collective bargaining agreements should estop the Fund from demanding contributions for severance pay. However, equitable estoppel requires a definite misrepresentation of fact and reasonable reliance on that misrepresentation to the detriment of the party claiming estoppel (see Heckler v. Community Health Services, 467 U.S. 51). In this case, the Fund had consistently communicated its severance pay policy through various notices and remittance forms, which undermines any claim of being misled. The Company's failure to heed these communications disqualifies its reliance as reasonable (see Heckler, 467 U.S. 51; Rosen v. Hotel and Restaurant Employees, 637 F.2d 592, cited in 900 F.2d 112). Additionally, the absence of any misleading representation analogous to the Cannon case (77 F.3d 1270) further weakens the Company's estoppel claim. Because the Fund did not misrepresent its requirements and the Company was repeatedly informed of the severance pay policy, equitable estoppel is not applicable here.
+
+Thus, the judgment of the district court is reversed and the case is remanded with instructions to enter a judgment in favor of the Fund.
+
+citations: ['900 F.2d 112', '467 U.S. 51', '77 F.3d 1270']
+
+gold_text: Equitable estoppel “arises when one party has made a misleading representation to another party and the other has reasonably relied to his detriment on that representation.” Black v. TIC Investment Carp., 900 F.2d 112, 115 (7th Cir.1990). Reliance on the misrepresentation is reasonable only if the party asserting estoppel does not or should not know the truth. Heckler v. Community Health Services of Crawford County, Inc., 467 U.S. 51, 59-60 n. 10, 104 S.Ct. 2218, 2223-24 n. 10, 81 L.Ed.2d 42 (1984) (“If, at the time when he acted, such party had knowledge of the truth, or had the means by which with reasonable diligence he could acquire the knowledge so that it would be negligence on his part to remain ignorant by not using those means, he cannot claim to have been misled by relying upon the representation or concealment.”); see also Cannon v. Group Health Service of Oklahoma, Inc., 77 F.3d 1270, 1276-77 (10th Cir.1996) (listing common law elements of equitable estoppel).
+
+label: 

@@ -1,0 +1,16 @@
+**Generation:**
+
+
+In the case of dismissing a juror due to their travel plans, the court must consider whether there are less drastic alternatives to a mistrial that will eliminate any prejudice. United States v. Smith, 44 F.3d 1259, 1268 (4th Cir.), cert. denied, — U.S. -, 115 S.Ct. 1970, 131 L.Ed.2d 859 (1995). In this case, the district court dismissed the two jurors with travel plans, replacing them with alternates. This was done to avoid the pressure on the jurors to reach a verdict in time to meet their travel plans.
+
+Nelson argues that the court did not have adequate information to reach this conclusion and that the court failed to explore reasonable alternatives, particularly given the race of the two jurors. However, the court's decision was not unreasonable, as it considered the potential impact on the jurors' deliberations and the need to maintain a fair and impartial jury. United States v. Thompson, 744 F.2d 1065, 1068 (4th Cir.1984); Fed.R.Crim.P. 24(e).
+
+In a similar case, the court held that the district court did not abuse its discretion in excusing a juror who had been injured and was seeking medical attention. United States v. Grajales, 52 F.3d 509 (4th Cir.). Similarly, in this case, the court's decision to dismiss the two jurors was reasonable and did not prejudice the defendant's rights.
+
+In conclusion, the court's decision to dismiss the two jurors due to their travel plans was reasonable and did not prejudice the defendant's rights. The court considered the potential impact on the jurors' deliberations and the need to maintain a fair and impartial jury. United States v. Smith, 44 F.3d 1259, 1268 (4th Cir.), cert. denied, — U.S. -, 115 S.Ct. 1970, 131 L.Ed.2d 859 (1995).
+
+citations: ['85 F.3d 153', '52 F.3d 509']
+
+gold_text: A defendant has a reasonable expectation that, barring unforeseen circumstances, he will be tried by the jury selected. The trial judge is not at liberty to interfere with the jury selected unless it has adequate cause. Federal Rule of Criminal Procedure 24(c) provides that alternate jurors shall replace jurors who, before deliberation commences, "become or are found to be unable or disqualified to perform their duties." While the court's decision to replace a juror with an alternate juror must be for a legally relevant reason and have a factual basis, its judgment to do so is reviewed for abuse of discretion. See United States v. Hayden, 85 F.3d 153, 156-57 (4th Cir.1996) (reviewing for abuse of discretion a refusal to grant mistrial, instead replacing juror with alternate); United States v. Acker, 52 F.3d 509, 515 (4th Cir.1995) (reviewing for abuse of discretion a decision to dismiss juror and proceed with eleven). A finding that a district court acted on an irrelevant legal basis or lacked factual support for the conclusion that a juror was unable or disqualified to perform his duty amounts to a finding that the court abused its discretion. To obtain a new trial, however, the objecting party must nevertheless establish prejudice.
+
+label: 

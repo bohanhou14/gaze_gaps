@@ -1,0 +1,15 @@
+**Generation:**
+
+Defendant's reliance on historical interpretations and classifications, particularly from Brecht Corp. v. United States, 25 CCPA 9, suggests a longstanding differentiation between artificial and natural sausage casings. This distinction is critical since precedent cases like this have shaped tariff classifications (433 F.2d 1340). Defendant asserts that Congress did not intend for item 190.58 to encompass casings processed extensively from hide splits, suggesting the merchandise has moved beyond the term "integuments" by substantial modification.
+
+However, the plaintiff challenges this notion by drawing on the statutory language and the testimony, arguing that the casings, though advanced, should still be considered integuments prepared for use as sausage casings. This argument finds support in the principle that legislative history should not override a reasonable statutory interpretation (447 U.S. 102, 430 U.S. 1). Additionally, the language specificity noted in H. R. 7152 and the differentiation of legislative intent, as discussed in 456 U.S. 63, underscore that the meaning of terms in a statute should not be unduly restricted if the inclusion seems reasonable.
+
+The defendant's emphasis on historical statute interpretations and legislative history to support their stance (433 F.2d 1340, 433 F.2d 1340) further complicates the matter, as seen in prior rulings where statutory changes intended to clarify or expand classifications.
+
+In essence, the case hinges on capturing Congressional intent while reconciling it with procedural fairness, evident in judicial caution against superimposing new statutory distinctions where none were intended, echoing sentiments from 456 U.S. 63.
+
+citations: ['433 F.2d 1340', '433 F.2d 1340', '447 U.S. 102', '456 U.S. 63', '430 U.S. 1']
+
+gold_text: An indication of what Congress might have intended should not override the clear meaning of the words in the statute. American Customs Brokg. Co. v. United States, 58 CCPA 45, 48, C.A.D. 1002, 433 F.2d 1340, 1341 (1970). This principle is especially applicable where the sources of legislative history are not without ambiguity. Canadian Vinyl, 64 CCPA at 105, 555 F.2d at 811. The language employed in the statute will ordinarily be regarded as conclusive absent a clearly expressed legislative intention to the contrary. Consumer Product Safety Comm’n v. GTE Sylvania, 447 U.S. 102, 108, 100 S.Ct. 2051, 2056, 64 L.Ed.2d 766 (1980). Although it is urged that Congress intended to preclude from classification under item 190.58, sausage casings traditionally considered artificial, the language of the tariff provisions do not seem to support that distinction. Furthermore, “going behind the plain language of a statute in search of a possibly contrary congressional intent is ‘a step to be taken cautiously’ even under the best of circumstances.” American Tobacco Co. v. Patterson, 456 U.S. 63, 75, 102 S.Ct. 1534, 1540, 71 L.Ed.2d 748 (1982) (quoting Piper v. Chris-Craft Industries, Inc., 430 U.S. 1, 26, 97 S.Ct. 926, 941, 51 L.Ed.2d 124 (1977).
+
+label: 

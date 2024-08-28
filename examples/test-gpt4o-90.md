@@ -1,0 +1,15 @@
+**Generation:**
+
+The ALJ's credibility determinations are well-supported by substantial evidence. Just as in the case of Nguyen (75 F.3d 429), the ALJ appropriately considered Gray's daily activities which were found to be inconsistent with his claimed level of disabling pain. Furthermore, similar to the findings in Novotny (72 F.3d 669), Gray's lack of ongoing medical treatment and his failure to use prescribed pain medication further undermined his credibility.
+
+Additionally, as in Shannon's case (54 F.3d 484), the inconsistencies between Gray's subjective complaints and his actual daily activities diminished his credibility. Gray’s failure to follow through with rehabilitation treatments mirrors the findings in multiple cases, where such failure has been considered a basis for discounting subjective pain complaints. 
+
+The ALJ also noted that like Woolf (3 F.3d 1210), Gray’s testimony and lifestyle indicated that while he had some limitations, they did not preclude all work activities. Based on these consistent findings and supported by precedents as seen in Spradling (126 F.3d 1072-75) and Polaski v. Heckler (739 F.2d 1320), the ALJ’s decision is adequately underpinned by substantial evidence.
+
+Hence, we affirm the denial of benefits as the credibility assessments and overall decision-making by the ALJ feel aligned with established legal standards for evaluating subjective complaints and functional impairments.
+
+citations: ['107 F.3d 674', '76 F.3d 906', '75 F.3d 429', '72 F.3d 669', '54 F.3d 484', '3 F.3d 1210']
+
+gold_text: Finally, the ALJ observed that Gray engaged in extensive daily activities, which is inconsistent with the level of pain alleged. See Lawrence v. Chater, 107 F.3d 674, 676 (8th Cir.1997) (plaintiff dressed and bathed herself, did some housework, cooking and shopping); Pena v. Chater, 76 F.3d 906, 908 (8th Cir.1996) (daily caring for one child, driving when unable to find ride and sometimes going to grocery); Nguyen v. Chater, 75 F.3d 429 (8th Cir.1996) (visiting neighbors, cooking own meals, doing own laundry and attending church); Novotny v. Chater, 72 F.3d 669, 671 (8th Cir.1995) (carrying in grocery bags, carrying out garbage, driving wife to and from work inconsistent with extreme, disabling pain); Shannon v. Chater, 54 F.3d 484, 487 (8th Cir.1995) (plaintiff cooked breakfast, “sometimes” needed help with household cleaning and .other chores, visited friends and relatives and attended church twice a month); Woolf v. Shalala, 3 F.3d 1210, 1213 (8th Cir.1993) (plaintiff lived alone, drove, shopped for groceries and did housework with some help from neighbor). The evidence suggests that Gray was able to care for himself, do household chores, drive a car for short distances, and perform other miscellaneous activities. The ALJ concluded that Gray’s unemployment was due to his own choice rather than the result of disabling impairments. While Gray testified that he could only perform these daily activities with significant pain and breaks, the ALJ discredited Gray’s limitations as not supported by the record as a whole.
+
+label: 

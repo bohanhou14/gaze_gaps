@@ -1,0 +1,9 @@
+**Generation:**
+
+ That's correct! I'm here to help you with any questions or concerns you may have. What else can I assist you with today?
+
+citations: ['24 F.3d 845', '957 F.2d 280', '889 F.2d 1258', '6 F.3d 37', '941 F.2d 1428']
+
+gold_text: . See United States v. Real Property Known and Numbered as Rural Route 1, Box 137-B, Cutler, Ohio, 24 F.3d 845, 848 (6th Cir.1994) (holding that court " 'must examine the entire record, including evidence developed after the seizure,’ ") (quoting United States v. $67,220.00 in U.S. Currency, 957 F.2d 280, 283 (6th Cir.1992)); United States v. Premises and Real Property at 4492 S. Livonia Rd., 889 F.2d 1258, 1268 (2d Cir.1989) (holding that, although the government cannot start a forfeiture proceeding "in bad faith ... based on the hope that something will turn up to justify its suit, ... [o]nce a forfeiture proceeding is brought, if further evidence is legally obtained to justify the government’s belief, there is no persuasive reason to bar its use”); see also United States v. Daccarett, 6 F.3d 37, 56 (2d Cir.1993) (noting that "[t]he machinery of our civil forfeiture laws permits the government to seize property without probable cause, institute a civil forfeiture proceeding, and then use civil discovery as a means of accessing information necessary to effect a forfeiture”), cert. denied, 510 U.S. 1191, 114 S.Ct. 1294, 127 L.Ed.2d 648 (1994). We note that, in $191,910.00 in U.S. Currency, the Ninth Circuit has suggested that there is some ambiguity in the Eleventh Circuit's position. See 16 F.3d at 1070 n. 38 (citing United States v. Four Parcels of Real Property, 941 F.2d 1428, 1439 & n. 24 (11th Cir.1991) (en banc)).
+
+label: 

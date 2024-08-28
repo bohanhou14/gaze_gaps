@@ -1,0 +1,9 @@
+**Generation:**
+
+In the present case, the District Court provided an adequate oral statement explaining its upward departure, aligning with the requirement of 18 U.S.C. § 3553(c), as was found sufficient in cases such as United States v. Orchard, 332 F.3d 1133. Similarly, the decision not to remand based on the absence of a written explanation is consistent with the holdings in United States v. Santiago, 394 F.3d 172, and United States v. Daychild, 357 F.3d 1082. These cases affirm that remand is unnecessary if the departure is permissible and the district court’s oral reasoning is persuasive. Accordingly, despite the District Court's failure to provide a detailed written explanation, the given oral justification meets the requirements, and there is no independent basis for remand.
+
+citations: ['394 F.3d 172', '357 F.3d 1082', '332 F.3d 1133']
+
+gold_text: Our sister circuits that have confronted this issue have unanimously held, as a matter of statutory interpretation, that where a reviewing court determines, based upon the statements of the district court in the record, that an upward departure is otherwise reasonable, the district court’s failure to provide a written explanation in the order of judgment is not a separate cause for remand. See United States v. Cooper, 394 F.3d 172 (3d Cir.2005) (“We agree with the other Courts of Appeal[s] that have concluded that failing to provide a written explanation for a departure is not cause for remand if the departure is otherwise permissible and the district court’s reasoning is persuasive.”); United States v. Daychild, 357 F.3d 1082, 1107-08 (9th Cir.2004) (holding, based on the language of 18 U.S.C. § 3742(f), that remand is not required in these circumstances); United States v. Orchard, 332 F.3d 1133, 1141 n. 7 (8th Cir.2003) (same).
+
+label: 

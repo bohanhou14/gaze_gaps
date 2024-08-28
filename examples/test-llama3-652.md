@@ -1,0 +1,16 @@
+**Generation:**
+
+
+Based on the reference cases, particularly 682 F.2d 707 and 876 F.2d 666, it can be seen that the court's review of the Commissioner's decision denying disability benefits is limited to determining whether the decision is supported by substantial evidence in the record as a whole. In this case, the ALJ found that Plaintiff has the residual functional capacity to perform the exertional requirements of medium work, but ignored the limitations imposed by his severe mental impairment, organic personality disorder.
+
+Dr. Yeltatzie's opinion, as a psychiatrist, is based on medically acceptable diagnostic techniques and is consistent with the evidence of Plaintiff's history. The ALJ's rejection of Dr. Yeltatzie's opinion was unfounded, as it was not supported by any other objective medical findings or by the record as a whole. The Court is unaware of any legal authority which requires a physician's medical opinion to be supported by "objective medical evidence from other physicians," as argued by the Commissioner.
+
+The evidence shows that Plaintiff has been unable to hold jobs for significant periods of time due to his high absenteeism, slow pace, and inability to respond appropriately to supervisors and co-workers. Dr. Yeltatzie's report, therefore, is substantial evidence which detracts from the ALJ's decision. The court must take into account evidence that fairly detracts from the Commissioner's decision, as stated in 876 F.2d 666.
+
+In conclusion, the court finds that the Commissioner's decision denying disability benefits is not supported by substantial evidence in the record as a whole. The ALJ's decision ignored the limitations imposed by Plaintiff's severe mental impairment, and Dr. Yeltatzie's opinion is a substantial piece of evidence that detracts from the ALJ's decision. Therefore, the court reverses the Commissioner's decision and grants Plaintiff's claim for disability benefits. 
+
+citations: ['682 F.2d 707', '876 F.2d 666']
+
+gold_text: Tr. at 280. One employer described Plaintiffs work as “slow and irresponsible.” Tr. at 155. In Rhines v. Harris, the Court wrote: “Employers are concerned with substantial capacity, psychological stability, and steady attendance.” In Tennant v. Schweiker, 682 F.2d 707, 710 (8th Cir.1982), the Court wrote: “The most compelling evidence relates to Tennant’s work history. Tennant has held forty-six j obs in his twelve years of employment. His longest tenure at any job was six months. It appears that he has been fired from most of these jobs.” (Emphasis in original.) Likewise, in the case at bar, Plaintiffs inability to hold a job is substantial evidence which detracts from the ALJ’s decision. Given that the most serious aspect of Plaintiffs disability is his personality disorder, the daily activities pointed to by the ALJ, such as being able to mow a lawn, watch TV, and take care of his children (Tr. at 21), do not correspond to the ability to engage in employment on a day in day out basis in competitive and stressful conditions in which real people work in the real world. Thomas v. Sullivan, 876 F.2d 666, 669 (8th Cir.1989).
+
+label: 

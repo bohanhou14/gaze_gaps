@@ -1,0 +1,13 @@
+**Generation:**
+
+Plaintiffs’ argument that they were misled by defendants' assurances finds support in previous rulings where courts recognized that omissions or misleading half-truths could constitute actionable fraud. For example, in reference case 482 F.2d 435, the appellate court reversed a summary judgment where there were allegations of fraudulent diversion and misappropriation of funds, indicating the presence of genuine issues of material fact regarding the alleged misconduct. Similarly, in 761 F.2d 117, the court emphasized that ambiguous contractual terms and related disputes on consent and conditions are issues for trial, suggesting that such factual disputes should not be resolved via summary judgment.
+
+Here, the dispute over the completeness and accuracy of information provided about the plumbing problems and the costs associated with obtaining Prudential's consent warrants further examination. The defendants’ failure to fully disclose the severity of the plumbing issues and the significant disparity between the anticipated and actual consent fees from Prudential raises genuine issues of material fact. Therefore, akin to the referenced cases, these facts should be settled by a factfinder rather than through summary judgment. 
+
+In conclusion, based on the precedent set in the reference cases, defendants’ motion for summary judgment is denied as there exist substantial factual disputes requiring trial adjudication.
+
+citations: ['482 F.2d 435', '761 F.2d 117']
+
+gold_text: Whether either party knew the full extent of the plumbing problem at the time the contract was entered into is a question of fact. See 6 J. Moore & J. Wicker, Moore’s Federal Practice ¶ 56.17[41.2] (2d ed. 1988) (“Summary judgment is generally inappropriate when issues of motive, intent, and other subjective feelings and reactions are material.”); Friedman v. Meyers, 482 F.2d 435, 439 (2d Cir.1973). Moreover, the contract’s reference to “problems relating to pipes which have been breaking periodically” is ambiguous under the circumstances, since it does not indicate whether the problem is serious or whether it could be economically repaired. This legitimate factual dispute concerning the contract’s terms precludes summary judgment on this question. Wards Company, Inc. v. Stamford Ridgeway Associates, 761 F.2d 117, 120 (2d Cir.1985); Ralli v. Tavern on the Green, 566 F.Supp. 329, 331 (S.D.N.Y.1983) (Lasker, J.).
+
+label: 

@@ -1,0 +1,9 @@
+**Generation:**
+
+This case draws upon principles established in previous rulings, notably in the application of discretion by administrative agencies. For instance, in 423 U.S. 326, the court underscored that the Federal Power Commission’s authority to order investigations is broad but must be exercised within the confines of statutory provisions such as § 19(b) of the Natural Gas Act. Similarly, the Court of Appeals must balance its oversight role without overstepping, ensuring procedural fairness and adherence to statutory mandates (309 U.S. 134). Here, the Federal Energy Regulatory Commission’s (FERC) actions embody this delicate balance. By amending its directives and timelines, as evident in the shift from the January 1st index date to a prospective timeline, FERC exercised its administrative flexibility to address evolving public interest concerns. This approach aligns with the flexible yet accountable framework envisioned in the referenced cases. Consequently, the non-finality of the contested orders parallels the scenarios in 423 U.S. 326 and 309 U.S. 134, reaffirming the Commission’s latitude to adapt its decisions in response to emerging circumstances within ongoing proceedings.
+
+citations: ['423 U.S. 326', '309 U.S. 134']
+
+gold_text: The Commission has the authority to determine when certain issues should be considered during the course of its hearings and to so arrange the sequence. FPC v. Transcontinental Gas Pipe Line Corp., 423 U.S. 326, 96 S.Ct. 579, 46 L.Ed.2d 533; Federal Communications Comm’n v. Pottsville Broadcasting Co., 309 U.S. 134, 60 S.Ct. 437, 84 L.Ed. 656.
+
+label: 

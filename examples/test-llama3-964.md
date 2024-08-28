@@ -1,0 +1,20 @@
+**Generation:**
+
+
+In the context of patent law, the doctrine of interference estoppel is a concept that restricts an applicant from seeking a patent on a subject matter that was not pursued during an earlier interference proceeding. This doctrine is based on the principle that an applicant should not be allowed to benefit from a procedural error or inaction during an earlier interference proceeding.
+
+In the case of 803 F.2d 705, the court held that the doctrine of interference estoppel is applicable only within the internal procedures of the patent office and does not apply to procedural errors or inactions committed by the examiner or applicant. The court further held that the doctrine of interference estoppel is not a ground for patent invalidity.
+
+In the case of 977 F.2d 1449, the court held that the doctrine of interference estoppel is not applicable in situations where the patent applicant has not committed any procedural error or inaction. The court further held that the doctrine of interference estoppel is not a ground for patent invalidity.
+
+In the context of the present case, the doctrine of interference estoppel is not applicable as the patent applicant has not committed any procedural error or inaction. The patent applicant has simply continued to prosecute claims to substituted metallocene catalysts, which were not designated as subject to rejection during the earlier interference proceeding.
+
+Therefore, the doctrine of interference estoppel is not a ground for patent invalidity in this case. The patent obtained by the patent applicant is valid and enforceable, and the doctrine of interference estoppel is not applicable.
+
+In conclusion, the doctrine of interference estoppel is a complex concept that restricts an applicant from seeking a patent on a subject matter that was not pursued during an earlier interference proceeding. The doctrine is based on the principle that an applicant should not be allowed to benefit from a procedural error or inaction during an earlier interference proceeding. However, the doctrine is not applicable in situations where the patent applicant has not committed any procedural error or inaction, and the doctrine is not a ground for patent invalidity. In the present case, the doctrine of interference estoppel is not applicable, and the patent obtained by the patent applicant is valid and enforceable. 
+
+citations: ['977 F.2d 1449', '803 F.2d 705']
+
+gold_text: The district court observed that no court has recognized this ground of patent invalidity. Assuming that an irregularity occurred (although its nature is not clear to us) the district court ruled that a procedural lapse in an interference proceeding does not affect whether the claims are valid or enforceable under the laws of validity and enforceability. No court has held otherwise. See, e.g., Exxon Corp. v. Mobil Oil, No. H-96-3795 (S.D.Tex. Aug. 12, 1998) (holding that interference estop-pel is not a valid defense); Baxter Int’l Inc. v. Cobe Lab., Inc., No. 89 C 9460, 1991 WL 288828 (N.D.Ill. Dec. 26, 1991) (denying motion for summary judgment on interference estoppel issue due to genuine issues of material fact), recons, denied, 1992 WL 151894 (N.D.Ill. June 15, 1992); Chemetron Corp. v. Airco, Inc., 198 USPQ 119, 125-26, 1976 WL 21030 (N.D.Ill.1976) (questioning applicability of interference estoppel as invalidity defense). The two cases that Phillips cites in support of its argument, In re Deckler, 977 F.2d 1449, 24 USPQ2d 1448 (Fed.Cir.1992) and In re Kroekel, 803 F.2d 705, 231 USPQ 640 (Fed.Cir.1986), relate to prosecution within the PTO, not to the validity of an issued patent claiming subject matter found to be patentable. Neither Kroekel nor Deckler holds that a possibly imperfect interference procedure is a defense in an infringement action, whether the imperfection was due to the examiner, the applicant, or both.
+
+label: 

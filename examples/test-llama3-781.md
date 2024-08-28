@@ -1,0 +1,19 @@
+**Generation:**
+
+
+
+For the legal case, we can analyze the vicarious liability of Amazon.com, Inc. ("Amazon") for its affiliates' copyright infringement. The Ninth Circuit Court of Appeals has established that to state a claim for vicarious copyright infringement, a plaintiff must allege that the defendant has (1) the right and ability to supervise the infringing conduct and (2) a direct financial interest in the infringing activity. Perfect 10, Inc. v. Visa Int'l Serv., Ass'n, 494 F.3d 788, 802 (9th Cir.2007).
+
+In this case, Amazon has an operating agreement with its affiliates, which prohibits them from infringing on another's copyright or trademark. The agreement also gives Amazon the right to monitor its affiliates' websites to ensure compliance with the terms. Amazon reserves the right to terminate noncompliant affiliates. This operating agreement gives Amazon some ability to affect the conduct of its affiliates, but it does not give Amazon the right and ability to supervise and control the infringement.
+
+The Ninth Circuit has previously held that a defendant has control over a third party's infringing conduct when the defendant can directly put an end to that conduct. Fonovisa, Inc. v. Cherry Auction, Inc., 76 F.3d 259 (9th Cir.1996). In contrast, in Perfect 10, Inc. v. Amazon.com, Inc., 508 F.3d 1146 (9th Cir.2007), the court affirmed the denial of a preliminary injunction that would have prevented Google from linking to third-party websites displaying Perfect 10's copyrighted images. The court concluded that Perfect 10 was unlikely to prevail on its vicarious liability claim because it could not show that Google had the legal right to stop the direct infringement by third-party websites.
+
+In light of these cases, it is clear that Amazon cannot be held vicariously liable for its affiliates' conduct. The affiliates are independent contractors, and Amazon does not have the right and ability to supervise and control their infringing activities. Therefore, Amazon's motion to dismiss Routt's complaint should be granted.
+
+
+
+citations: ['955 F.2d 1143', '124 F.3d 1094']
+
+gold_text: Vicarious liability under the Lan-ham Act requires “a finding that the defendant and the infringer have an apparent or actual partnership, have authority to bind one another in transactions with third parties[J or exercise joint ownership or control over the infringing product.” Visa, 494 F.3d at 807 (quoting Hard Rock Café Licensing Corp. v. Concession Servs., Inc., 955 F.2d 1143, 1150 (7th Cir.1992)). For the same reasons Amazon lacks the ability to supervise its Associates’ conduct, it likewise lacks joint ownership or control over its Associates’ infringing websites. Moreover, Amazon’s operating agreement with its Associates expressly disclaims the existence of any actual partnership and states that neither party shall have the ability to make or accept any offers or representations on the other’s behalf. Routt has not alleged any facts that would establish an apparent partnership or demonstrate that the infringing Associates had apparent authority to bind Amazon. See Unif. P’ship Act § 308 (1997) (“If a person, by words or conduct, purports to be a partner, or consents to being represented by another as a partner, in a partnership or with one or more persons not partners, the purported partner is liable, to a person to whom the representation is made, if that person, relying on the representation, enters into a transaction with the actual or purported partnership.”); NLRB v. Dist. Council of Iron Workers, 124 F.3d 1094, 1099 (9th Cir.1997) (“Apparent authority arises from the principal’s manifestátions to a third party that supplies a reasonable basis for that party to believe that the principal has authorized the alleged agent to do the act in question.”). Routt therefore has failed to state a claim for vicarious liability under the Lanham Act.
+
+label: 

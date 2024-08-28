@@ -1,0 +1,19 @@
+**Generation:**
+
+
+
+The court has granted defendants’ motion for summary judgment on all counts. Kennedy's claim of quid pro quo sexual harassment under Title VII and the Minnesota Human Rights Act (MHRA) fails because Kennedy himself characterized his feelings regarding Ormsby's complimentary closing not as harassment but rather discomfort, which was not communicated to Ormsby. Kennedy's subjective belief that a causal connection exists between Ormsby's conduct and his termination is insufficient to meet his burden of production.
+
+Kennedy's claim of age discrimination under the Age Discrimination in Employment Act (ADEA) also fails. Kennedy cannot establish a prima facie case because he cannot demonstrate that he was performing his job satisfactorily when he was terminated. Kennedy's evidence of no one telling him he was performing poorly and his receipt of a $5,000 bonus in early 1994 are not sufficient to demonstrate his performance. Moreover, Kennedy acknowledges that employees in his department complained of his performance and that the complaints were communicated to management.
+
+Furthermore, Danavox articulated a legitimate, non-discriminatory reason for Kennedy's termination, poor leadership and management skills. Kennedy must then come forward with evidence from which a jury could conclude that the reasons were a mere pretext and that intentional discrimination caused his termination. However, Kennedy has failed to do so. The court concludes that Kennedy has failed to come forward with sufficient evidence to create a genuine issue of material fact and that Danavox is entitled to judgment as a matter of law.
+
+In conclusion, the court's decision is supported by the Supreme Court's ruling in Price Waterhouse v. Hopkins, 490 U.S. 228 (1989), which states that a plaintiff must demonstrate that the employer's proffered reasons were pretextual and that intentional discrimination was the true reason for the termination decision. The court's decision is also consistent with the Court of Appeals' ruling in Cram v. Lamson & Sessions Co., 49 F.3d 466 (8th Cir. 1995), which holds that a plaintiff must establish that the employer's conduct was unwelcome and that the termination was motivated by the plaintiff's refusal to submit to the employer's sexual advances.
+
+
+
+citations: ['983 F.2d 509', '490 U.S. 228']
+
+gold_text: Kennedy also asserts he has direct evidence of discrimination. As noted, Kennedy relies on a typographical error (“Glenn [Kennedy] still copulating”) and the corresponding statement repeated at a sales meeting that “You [Kennedy] would have a difficult time copulating at your age,” as well as statements by Banbury in October 1993, to Kennedy that, “you dress well for an old guy” and “fortunately, I’m not as old as you.” There is no evidence that Banbury played any part in the decision to terminate Kennedy. Thus, his remarks do not support Kennedy’s claim of discrimination. See Ezold v. Wolf, Block, Schorr and Solis-Cohen, 983 F.2d 509, 545 (3d Cir.1992) (stray remarks of nondecisionmakers should be given little weight), (citing Price Waterhouse v. Hopkins, 490 U.S. 228, 277, 109 S.Ct. 1775, 1804-OS, 104 L.Ed.2d 268 (1989) (O’Connor, J. concurring)). Kennedy attributes one remark to Ormsby, which she denies making. Assuming she made the statement, Kennedy acknowledges that the circumstances surrounding the “copulating” statement were considered humorous by everyone, including Kennedy. Kennedy Depo., pg. 10. This is hardly evidence of a discriminatory animus based on Kennedy’s protected status. Kennedy has failed to demonstrate that his termination occurred under circumstances which give rise to an inference of age discrimination. Thus, the court grants the motion of Danavox for summary judgment on this claim under the ADEA and the MHRA.
+
+label: 

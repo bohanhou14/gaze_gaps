@@ -1,0 +1,13 @@
+**Generation:**
+
+In asserting that the bankruptcy court abused its discretion by not holding an evidentiary hearing on the attorney’s fees, M & M cite several precedents. However, courts have discretionary power in procedural decisions and are not required to always conduct evidentiary hearings if the record sufficiently supports fee awards. In the context of sanctions, courts have held that discretion is afforded in the determination process. For instance, the U.S. Supreme Court in Cooter & Gell v. Hartmarx Corp., 496 U.S. 384, emphasized the discretionary space courts hold in sanctions determinations, noting that “abuse of discretion” is the proper standard of review (501 U.S. 32). Furthermore, similar discretion in handling procedural confidences was supported in Findlay v. Banks (In re Cascade Energy & Metals Corp.), 87 F.3d 1146, 1149-50 (10th Cir.1996), reiterating that a ruling based on the evidence will not be overturned absent clear error (91 F.3d 1414). 
+
+Additionally, Roth and Gumeson were addressed in a scenario where fee assessments must consider the reasonableness of the claim relative to incurred responses, not automatically mandating separate hearings (466 F.3d 1179). Applying this principle, the Johnsons’ fee award corroborated by verification and supplementary documentation stands valid without further evidentiary expansion. This posits that M & M's objection doesn't sufficiently necessitate an evidentiary hearing (91 F.3d 1414).
+
+Thus, M & M’s argument falters as the bankruptcy court provided a comprehensive basis for the fee award utilizing available records and testimony under perjury, aligning with judicial standards of discretionary procedures.
+
+citations: ['501 U.S. 32', '466 F.3d 1179', '91 F.3d 1414', '91 F.3d 1414']
+
+gold_text: In the alternative, M & M contests the bankruptcy court’s procedure for determining the amount of sanctions. We review the award for abuse of discretion. Cf. Chambers v. NASCO, Inc., 501 U.S. 32, 55, 111 S.Ct. 2123, 115 L.Ed.2d 27 (1991) (attorney-fee sanction under court’s inherent power is reviewed for abuse of discretion); Cooter & Gell, 496 U.S. at 405, 110 S.Ct. 2447 (same for attorney-fee sanction under Rule 11); Roth v. Green, 466 F.3d 1179, 1187 (10th Cir.2006) (same for attorney-fee sanction under Rule 11 and § 1927); Udall v. FDIC (In re Nursery Land Dev., Inc.), 91 F.3d 1414, 1415 (10th Cir.1996) (same for attorney-fee sanction for bad-faith filing of a Chapter 11 petition); Olcott, 76 F.3d at 1557 (same for sanctions under Rules 16(f) and 37(b)(2)).
+
+label: 

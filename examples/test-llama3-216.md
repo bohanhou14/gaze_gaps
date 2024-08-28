@@ -1,0 +1,16 @@
+**Generation:**
+
+
+The recent Supreme Court case, Zicherman v. Korean Air Lines Co., Ltd., - U.S. -, 116 S.Ct. 629, 133 L.Ed.2d 596 (1996), has significant implications for the recovery of non-pecuniary damages in wrongful death cases. In Zicherman, the Court held that the Death on the High Seas Act (DOHSA) does not authorize non-pecuniary damages, including loss of society, mental anguish, and grief. The Court further held that general maritime law, as supplemented by DOHSA, does not permit recovery for non-pecuniary damages.
+
+In our case, Saavedra seeks to recover damages for loss of society, survivor's grief, and pre-death pain and suffering. However, in light of Zicherman, these claims are foreclosed. The Supreme Court's decision in Moragne v. States Marine Lines, Inc., 398 U.S. 375, 90 S.Ct. 1772, 26 L.Ed.2d 339 (1970), which allowed recovery for non-pecuniary damages in a general maritime wrongful death action, is no longer applicable.
+
+The district court's awards for loss of society, survivor's grief, and pre-death pain and suffering are therefore vacated. Saavedra's claims for these damages are not cognizable under DOHSA or general maritime law, and the district court erred in allowing the jury to award these damages. The case is remanded for further proceedings consistent with the Supreme Court's decision in Zicherman. 436 U.S. 618, 498 U.S. 19.
+
+
+
+citations: ['436 U.S. 618', '498 U.S. 19']
+
+gold_text: If Evich I and Evich II were the only relevant precedents, Saavedra’s argument for pre-death pain and suffering damages would be persuasive; however, several subsequent Supreme Court decisions, culminating with Zicherman, undoubtedly preclude such relief. The first is Mobil Oil Corp. v. Higginbotham, 436 U.S. 618, 98 S.Ct. 2010, 56 L.Ed.2d 581 (1978), where the Court held that because DOHSA bars nonpecuniary damages, DOHSA may not be supplemented with a general maritime wrongful death action for nonpecuniary damages, specifically loss of society damages. The Court explained that “when [Congress] does speak directly to a question, the courts are not free to ‘supplement’ Congress’ answer so thoroughly that the Act becomes meaningless.” Id. at 625, 98 S.Ct. at 2015. The Court applied similar logic in Miles v. Apex Marine Corp., 498 U.S. 19, 34-36, 111 S.Ct. 317, 326-328, 112 L.Ed.2d 275 (1990), holding that since the survival action created by the Jones Act bars recovery for loss of future earnings, a supplemental survival action under general maritime law, allowing recovery for loss of future earnings, is impermissible. Miles therefore overruled Evich II, insofar as Evich II allowed a general maritime survival action for loss of future earnings. Davis, 27 F.3d at 430. Finally, in Zicherman, the Court rejected the view, adopted by the Second Circuit, that general maritime law ordinarily governs domestic actions brought under the Warsaw Convention, stressing that the Warsaw Convention does not “empower [the courts] to develop some common law rule — under general admiralty law or otherwise — that will supersede the normal federal disposition.”
+
+label: 

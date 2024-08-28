@@ -1,0 +1,13 @@
+**Generation:**
+
+In determining the amount of intended loss, the majority consensus supports using the loss the defendant aimed to inflict, even if not realistic or possible. This principle was upheld in United States v. Geevers, 305 F.3d 194, where the court concluded that the sentencing court could reasonably estimate intended loss by the face value of the fraudulently deposited checks. Similarly, the court in Hayes, 242 F.3d 114, reaffirmed that intended loss isn't confined to realistic expectations but is about the potential damage the defendant sought to cause.
+
+Given these precedents, the district court's reliance on Miller's billing amounts to Medicare and Medicaid as a reasonable estimate of intended loss aligns with established jurisprudence. Without evidence to the contrary, the court can maintain this approach for sentencing purposes. Thus, Miller's argument about the likelihood of receipt does not undermine the district court’s loss estimation.
+
+In conclusion, the court's method of calculating intended loss by considering the billed amount, despite the unlikelihood of full payment, adheres to legal standards as demonstrated in Geevers and Hayes. No clear error occurred in the district court's factual findings regarding loss calculation.
+
+citations: ['305 F.3d 194', '242 F.3d 114']
+
+gold_text: The Third Circuit recently considered an argument very similar to Miller’s in Geevers, 226 F.3d at 193. In that case, the defendant, convicted of bank fraud, contended that the district court erred in finding that the relevant loss amount caused by his fraud was the total face value of his fraudulent checks because “he could not have successfully withdrawn those funds even if he had wanted to.” Id. at 189. The court of appeals rejected this argument, reasoning that a sentencing court may “draw inferences from the face value of ... checks [$2,000,000] in arriving at the factual conclusion that the defendant intended” losses in the face value amount, even though he only withdrew $400,000. Id. at 193. Indeed, the court held that the prosecution’s introduction of evidence regarding the face value of the defendant’s fraudulent checks constituted a “prima facie case” of intended loss. Id.; see also United States v. Kushner, 305 F.3d 194, 197-98 (3d Cir.2002); United States v. Hayes, 242 F.3d 114, 118 (3d Cir.2001). So it is in this case — the district court did not clearly err in relying on the amount Miller billed Medicare and Medicaid as prima facie evidence of the amount of loss he intended to cause.
+
+label: 

@@ -1,0 +1,9 @@
+**Generation:**
+
+To reinforce our conclusion, we look to analogous cases. In Gonzalez's case (77 F.3d 1015), the petitioners were provided multiple opportunities to present evidence, and the Board did not deprive them of due process. Similarly, the Marquezes were not impeded in their ability to present their case, as shown by the multiple rounds of appeals and hearings. Moreover, changes in the current state of affairs, such as those highlighted in the Sivaainkaran case (972 F.2d 161), further weaken the Marquezes’ claim of a well-founded fear. Current reports on political conditions in the Philippines do not indicate the sort of targeted, continuous persecution demonstrated in their claims, thus aligning with the findings that changes over time might neutralize the well-founded fear of persecution. Consequently, both the procedural fairness and the changing geopolitical conditions support the BIA’s decision. Affirming the BIA’s thorough analysis and factual determinations, we thus conclude that the Marquezes' claims do not meet the requisites for asylum or withholding of deportation.
+
+citations: ['77 F.3d 1015', '972 F.2d 161']
+
+gold_text: The INS urges that generalized conditions of corruption in a country are very much like civil strife, which cannot justify asylum for all its victims. “ ‘[Cjonditions of political upheaval which affect the populace as a whole or in large part are generally insufficient to establish eligibility for asylum.’ ” Gonzalez v. INS, 77 F.3d 1015, 1021 (7th Cir.1996) (quoting Sivaainkaran v. INS, 972 F.2d 161, 165 (7th Cir.1992)). On the same rationale as for political upheaval, we understand that not every victim of corruption can qualify for political asylum. Several billion human beings might otherwise be eligible for asylum in the United States or any other state subscribing to the United Nations Protocol Relating to the Status of Refugees. See supra note 2.
+
+label: 

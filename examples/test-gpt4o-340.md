@@ -1,0 +1,13 @@
+**Generation:**
+
+Plaintiff's argument also fails to demonstrate the requisite genuine issue of material fact necessary to preclude summary judgment. The standard for summary judgment mirrors that for a directed verdict under Federal Rule of Civil Procedure 50(a), which requires that the evidence show the absence of any genuine issue of material fact (477 U.S. 317). Defendant PRPA's motion for summary judgment is appropriately invoked under Rule 56, as no affidavits or additional materials are required to negate the opponent’s claim (475 U.S. 574).
+
+PRPA's actions to limit Plaintiff's duties were not based on discriminatory perceptions but on legitimate safety concerns supported by medical documentation. The record clearly shows that Plaintiff's reassignment was a temporary and precautionary measure, which does not imply that PRPA viewed him as substantially limited in any major life activity (110 F.3d 174).
+
+Furthermore, Plaintiff's inability to provide probative evidence to show that his employer's reasons were pretextual further justifies the entry of summary judgment. To defeat a motion for summary judgment, the nonmoving party must produce evidence beyond mere allegations, showing a genuine issue for trial (475 U.S. 574). Plaintiff has failed to meet this burden. Consequently, Defendant's motion for summary judgment is granted.
+
+citations: ['477 U.S. 317', '110 F.3d 174', '475 U.S. 574']
+
+gold_text: The summary judgment standard, under Fed.R.Civ.P.56, provides that the court should grant summary judgment “if the pleadings, depositions, answers to interrogatories, and admissions on file, together with the affidavits, if any, show that there is no genuine issues as to any material fact and that the moving party is entitled to judgment as a matter of law.” Fed. R. Civ. R. 56(c). In Celotex Corp. v. Catrett, 477 U.S. 317, 323, 106 S.Ct. 2548, 91 L.Ed.2d 265 (1986), the Supreme Court held that the party seeking summary judgment bears the initial burden demonstrating that no genuine issue as to a material fact exists. A contested fact is “material” when it has the potential to change the outcome of the case. Vega-Rodríguez v. Puerto Rico Tel. Co., 110 F.3d 174, 178 (1st Cir.1997). There is no genuine issue for trial when the record, taken as a whole, could not lead a trier of fact to find for the non-moving party. Matsushita Elec. Indus. Co. v. Zenith Radio Corp., 475 U.S. 574, 585-87, 106 S.Ct. 1348, 89 L.Ed.2d 538 (1986).
+
+label: 

@@ -1,0 +1,22 @@
+**Generation:**
+
+ <answer>
+The court must consider whether the plaintiff has succeeded on the merits, whether the plaintiff will suffer irreparable harm if the court withholds injunctive relief, whether the balance of hardships to the respective parties favors the grant of injunctive relief, and whether it is in the public interest to grant injunctive relief. PGBA, LLC v. United States, 389 F.3d 1219, 1228-29 (Fed.Cir.2004).
+
+In determining whether the agency's decision to override the automatic stay was arbitrary and capricious, the court must review the agency's decision under the standards set forth in section 706 of the Administrative Procedure Act (APA). 5 U.S.C. § 706.
+
+The first factor in the Reilly's Wholesale test is whether significant adverse consequences will necessarily occur if the stay is not overridden. Nortel Gov't Sols., Inc. v. United States, 84 Fed.Cl. 243, 247 (2008). The court finds that the agency has not demonstrated any immediate threat to health, welfare, or safety, which are the types of circumstances that typically qualify as "urgent and compelling." Supreme Foodservice GmbH v. United States, 109 Fed.Cl. 369, 387 (2013).
+
+The court also finds that the agency has not demonstrated that there are no reasonable alternatives to the override. Nortel Gov't Sols., Inc., 84 Fed.Cl. at 247. The court notes that the agency did not conduct a meaningful review of other reasonable alternatives and did not consider the additional costs should GAO sustains the protest.
+
+Finally, the court finds that the agency has not demonstrated that the benefits of the override outweigh the costs of proceeding with the CICA stay in place. 5 U.S.C. § 706. The court concludes that the agency's decision to override the automatic stay was arbitrary and capricious.
+
+Based on the above findings, this court grants the plaintiff's motion for declaratory relief and declares that the agency's decision to override the automatic stay was arbitrary and capricious. The court also grants the plaintiff's motion for injunctive relief and orders the agency to reinstate the automatic stay of contract performance.
+
+In conclusion, the court has considered the plaintiff's motion for declaratory relief and injunctive relief and has granted both. The court has found that the agency's decision to override the automatic stay was arbitrary
+
+citations: ['554 F.3d 1029', '554 F.3d 1029', '389 F.3d 1219', '389 F.3d 1219']
+
+gold_text: When making a determination on whether or not to apply an injunction, this Court typically evaluates the following four factors: 1) the likelihood of success on the merits; 2) whether plaintiff will suffer irreparable harm absent an injunction; 3) balance of harm to the 'respective parties if the injunction is either granted or not granted; and 4) the public interest involved in granting the injunction. Centech Grp., Inc. v. United States, 554 F.3d 1029, 1037 (Fed. Cir. 2009); PGBA, LLC v. United States, 389 F.3d 1219, 1228-29 (Fed. Cir. 2004); Mobile Med. Int’l Corp. v. United States, 95 Fed.Cl. 706, 742-43 (2010). Regardless of Congress’ decision to exclude the elements oí a preliminary injunction from the CICA automatic stay, “the likelihood of success on the merits” factor is wholly1 inapplicable to CICA overrides. The purpose of a preliminary injunction is to preserve the status quo during the pendency of a bid protest while the Court makes a decision on the merits. When a plaintiff challenges an agency’s decision to override the automatic CICA stay, the Court never proceeds to briefing or a hearing on the merits in the traditional'sense. Instead, the Court is asked to review the override, while the GAO engages in a review of the merits. Once the Court has come to a decision on the override, jurisdiction over the protest reverts back to the GAO. If this Court were to impose an injunction during its review of the CICA override, it would more closely resemble a permanent injunction, as it would ultimately dispose of the case in this Court. However, a permanent injunction is not truly what the protestor seeks, because the protestor is not requesting the Agency cease all work in perpetuity, but rather that the Agency abide by the CICA stay.
+
+label: 

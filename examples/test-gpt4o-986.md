@@ -1,0 +1,13 @@
+**Generation:**
+
+Carrier's reliance on the exception under § 547(c)(6) is similarly misplaced. Under this provision, the trustee cannot avoid a transfer if it constitutes the "fixing of a statutory lien." Carrier argues for a broad interpretation that includes any payment preventing a lien from being fixed, citing the legislative history discussed in Cimmaron Oil Co. v. Cameron Consultants, Inc. However, this broad interpretation was rejected in cases like Matter of Henderson, which clarified that a transfer must indeed involve the actual fixing of a statutory lien to be exempt (416 F.3d 394). Furthermore, 71 B.R. 1005 highlights that simply avoiding a statutory lien through payment does not eliminate avoidability under § 547(c)(6). Carrier did not show that the payments were directly tied to the fixing of a lien but rather were preventive, which does not meet the statutory requirement (71 B.R. 1005).
+
+Additionally, as stated in Memorial Hospital v. Heckler, the assertion that § 1395oo(g) could restrict judicial review of regulatory interpretations was rejected—emphasizing the court's authority to determine the applicability of certain statutory protections (815 F.2d 1435). Hence, Carrier's broader interpretation lacks justification, aligning with Baker Hughes' failed argument against the restrictive interpretation of § 547(c)(6) (416 F.3d 394).
+
+Given these precedents and Carrier's failure to present compelling evidence, the bankruptcy court's decision stands, and the judgment is affirmed.
+
+citations: ['815 F.2d 1435', '71 B.R. 1005', '416 F.3d 394', '416 F.3d 394']
+
+gold_text: . Carrier also argues that the payments are not avoidable because the Bankruptcy Code provides that a Trustee may not avoid payments that “fix[] ... a statutory lien.” 11 U.S.C. § 547(c)(6). Carrier’s argument is briefed in the most cursory fashion, and is therefore waived. See, e.g., Tallahassee Memorial Regional Medical Center v. Bowen, 815 F.2d 1435, 1446 n. 16 (11th Cir.1987). At any rate, the argument also lacks merit. Again, Carrier was not a statutory lienholder. Carrier appears to rely on Chumaron Oil Co. v. Cameron Consultants, Inc., 71 B.R. 1005, 1010 (N.D.Tex.1987), as authority for the proposition that federal bankruptcy law relieves it of the need to comply with state statutory procedures for perfecting its liens. (We say "appears” because, again, its brief is far from pellucid.) For the sake of completeness, therefore, we note that the Fifth Circuit has rejected Chumaron’s interpretation of Section 547(c)(6). See In re Ramba, Inc., 416 F.3d 394, 401 (5th Cir.2005). Were this issue properly raised, we would be inclined to reject this aspect of Chumaron as well.
+
+label: 

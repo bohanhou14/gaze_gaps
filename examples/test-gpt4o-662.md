@@ -1,0 +1,11 @@
+**Generation:**
+
+The district court's preliminary injunction of the Mickler state court proceedings must be reversed. Under the Anti-Injunction Act, 28 U.S.C. § 2283, federal courts are prohibited from enjoining state court proceedings unless it falls within one of three narrowly defined exceptions: (1) the injunction is expressly authorized by an Act of Congress, (2) it is necessary in aid of the court's jurisdiction, or (3) it is necessary to protect or effectuate the court's judgments (see 433 U.S. 623; 682 F.2d 1267). As noted in Mitchum v. Foster, 407 U.S. 225, these exceptions must be interpreted strictly, and any doubts regarding the propriety of a federal injunction against state court proceedings should be resolved in favor of permitting the state courts to proceed independently (433 U.S. 623).
+
+The district court failed to demonstrate that any of these exceptions apply. The state court's jurisdiction over RICO claims confirms that the injunction was unnecessary in aid of the federal court's jurisdiction (407 U.S. 225). Additionally, there is no judgment from the federal court that would necessitate protection or effectuation, thus not satisfying the third exception (682 F.2d 1267). Therefore, the issuance of the injunction was an error under the constraints of the Anti-Injunction Act.
+
+citations: ['433 U.S. 623', '682 F.2d 1267', '407 U.S. 225']
+
+gold_text: The Belzbergs argue that the district court appropriately granted injunctive relief under the “necessary in aid of its jurisdiction” exception and the “expressly authorized” exception. 28 U.S.C. § 2283. We disagree. We note that the exceptions to the Anti-Injunction Act must be construed narrowly and doubts as to the propriety of a federal injunction against a state court proceeding should be resolved in favor of permitting the state action to proceed. Vendo Co. v. Lektro-Vend Corp., 433 U.S. 623, 630, 97 S.Ct. 2881, 2887, 53 L.Ed.2d 1009 (1977) (plurality opinion); Alton Box Bd. Co. v. Esprit De Corp., 682 F.2d 1267, 1271 (9th Cir.1982). Unless one of the statutory exceptions applies, a federal injunction restraining prosecution of a lawsuit in state court is absolutely prohibited. Mitchum v. Foster, 407 U.S. 225, 228-29, 92 S.Ct. 2151, 2154-56, 32 L.Ed.2d 705 (1972). See also Alton Box, 682 F.2d at 1271.
+
+label: 

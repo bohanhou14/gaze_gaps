@@ -1,0 +1,15 @@
+**Generation:**
+
+ <answer>
+
+The Court finds that the Striker Replacement Law is unconstitutional under the Machinists preemption doctrine. The law prohibits employers from hiring permanent replacement workers during economic strikes, which is a well-established federal labor law right. The Court declines to construe the law to avoid preemption, as the language of the statute is clear and the legislative history supports the conclusion that the law was intended to regulate the relationship between the union and the employer.
+
+The State's argument that the law falls within the "local interest" exception established in Garmon is also rejected. The Court finds that the law was not intended to regulate the relationship between individual employees and the employer, but rather to regulate the relationship between the union and the employer. This is in contrast to cases such as Malone v. White Motor Co., 435 U.S. 497 (1978), Metropolitan Life Ins. Co. v. Massachusetts, 471 U.S. 724 (1985), and Fort Halifax Packing Co. v. Coyne, 482 U.S. 1 (1987), which involved state regulation of minimum labor standards and benefits.
+
+The Court also rejects the USWA's argument that the law was motivated by a legitimate interest in preventing picket-line violence and promoting peaceful
+
+citations: ['356 U.S. 634', '436 U.S. 180']
+
+gold_text: The Court, however, cannot uphold the means by which the State has attempted to achieve this laudable purpose. The Striker Replacement Law does not selectively address the right of an employee, an employer, or the State to redress picket line violénce. See Youngdahl, 355 U.S. at 139, 78 S.Ct. at 211 (employer entitled to enjoin picket line violence, but may not enjoin peaceful picketing); Int’l Union, United Auto., Aircraft & Agricultural Implement Workers of America (UAW-CIO) v. Russell, 356 U.S. 634, 642, 78 S.Ct. 932, 937, 2 L.Ed.2d 1030 (1958) (non-union employee may recover damages caused by tortious conduct of union strikers on picket line). Instead, the State’s blanket prohibition of hiring permanent striker replacements directly interferes with an employer’s fedérally protected right to do so. Sears, Roebuck & Co. v. San Diego Dist. Council of Carpenters, 436 U.S. 180, 196, 98 S.Ct. 1745, 1757, 56 L.Ed.2d 209 (1978). The State’s attempt to avoid picket line violence by a blunderbuss prohibition of a practice which has been protected by over fifty years of Supreme Court precedent cannot stand. This is not a State adjustment of a locally sensitive relationship. It is instead a reweaving of a critical thread in the fabric of labor-management relations. Under the broadly preemptive power of the NLRA, the State is simply without authority to introduce its own standard of “properly balanced bargaining power.” Machinists, 427 U.S. at 149-150, 96 S.Ct. at 2557-58. While Minnesota is certainly entitled to be concerned over picket line safety, this concern is too generalized to permit the State to unilaterally redefine federal labor law.
+
+label: 

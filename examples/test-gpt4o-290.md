@@ -1,0 +1,13 @@
+**Generation:**
+
+In determining whether the government violated the plea agreement, we must consider the defendants' reasonable understanding at the time they entered the pleas, as referenced in United States v. Boatner, 966 F.2d 1575, 1577 (11th Cir.1992), and United States v. Nelson, 837 F.2d 1519, 1522 (11th Cir.1988). Here, the defendants argue that their understanding was that cooperation by one would benefit all. However, the written plea agreements explicitly negate any additional understandings beyond the written terms (Paragraph #10). The ambiguity in the plea agreements must be resolved against the government, as noted in United States v. Jefferies, 908 F.2d 1520, 1523 (11th Cir.1990), which means the plea agreement should be interpreted considering the defendants' reasonable expectations.
+
+The fact that the government did not file Rule 35 motions for defendants other than Quintana does not conclusively establish bad faith. The court must evaluate whether the government's actions amounted to a breach of the plea agreement. As in the reference case 404 U.S. 257, any breach of agreement by the prosecution, even if inadvertent, does not lessen its impact or obviate the need for corrective measures. However, given that reasonable men could differ on the determination of "substantial assistance," the court finds no definitive bad faith in the government's decision not to file for the defendants Altuve, Ossa, and Trejo.
+
+Therefore, the motions to enforce the plea agreements or to withdraw the guilty pleas must be denied based on the evidence presented and the governing legal standards.
+
+citations: ['969 F.2d 985', '404 U.S. 257']
+
+gold_text: The legal standards applied by the Court in Ganz are equally applicable to this case. “When a guilty plea rests in any significant degree on a promise or agreement of the prosecutor, so that it can be said to be part of the inducement or consideration, such promise must be fulfilled.” United States v. Rewis, 969 F.2d 985, 988 (11th Cir.1992) (quoting Santobello v. New York, 404 U.S. 257, 262, 92 S.Ct. 495, 499, 30 L.Ed.2d 427 (1971)). In Ganz, this Court would not condone the government’s bad faith refusal to honor its promise. In similar circumstances, the Court would not hesitate in doing so again. The facts presented by this ease, however, do not support a finding of bad faith on the part of the government. This case is in the opinion of the Court, borderline and demonstrates the necessity that counsel must be ever alert to cross all the “t”s and dot all the “i”s in the negotiation and preparation of plea agreements.
+
+label: 

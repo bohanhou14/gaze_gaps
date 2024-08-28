@@ -1,0 +1,13 @@
+**Generation:**
+
+Cardoso’s reliance on anecdotal and statistical evidence parallels issues faced in previous cases. For instance, in case 253 F.3d 309, anecdotal evidence alone, like Guerrero's reliance on individual experiences, was insufficient to establish a pattern of discrimination without additional context or statistical support. Similarly, in case 205 F.3d 337, the courts emphasized that disputed facts surrounding individual treatment do not necessarily indicate discriminatory pretext unless they substantiate a genuine issue of material fact. In Cardoso’s case, his claims lack the necessary context and robust evidence to support his assertion of wage discrimination.
+
+Thus, even when construing all inferences in his favor, Cardoso’s evidence falls short of demonstrating that Bosch's explanations are pretextual under Title VII. Given these precedents, the summary judgment in favor of Bosch is affirmable due to the absence of a genuine issue of material fact regarding pretext or discrimination.
+
+We affirm the district court’s judgment.
+
+citations: ['253 F.3d 309', '205 F.3d 337']
+
+gold_text: Perhaps Cardoso’s many self-described talents tvere objectively more valuable to Bosch, and he was underpaid because the company was exercising poor business judgment in not recognizing that fact and paying him accordingly. That determination, however, is not for us to make, and we will not second-guess Bosch’s management decisions so long as they do not run afoul of Title VII. As we have often stated—to a host of deaf ears, it often seems— the court is not a “super-personnel department” intervening whenever an employee feels he is being treated unjustly. See Davis, 368 F.3d at 785 (citation omitted); Guerrero v. Ashcroft, 253 F.3d 309, 314 (7th Cir.2001) (citation omitted). The aggrieved employee may seek recourse in federal court for discrimination only for the forbidden reasons set forth in Title VII, not for common workplace disputes or poor, nonsensical, or even heavy-handed management techniques or decisions. See, e.g., Guerrero, 253 F.3d at 314 (“[W]e may not punish an employer for choices that constitute business decisions alone, no matter how unwise or mistaken they may seem to us.”) (collecting authority). Nor does Title VII empower us to impose court-enforced merit selection or recognition programs. Cf. Jordan v. Summers, 205 F.3d 337, 344 (7th Cir.2000).
+
+label: 

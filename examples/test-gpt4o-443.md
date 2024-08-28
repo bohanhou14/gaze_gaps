@@ -1,0 +1,20 @@
+**Generation:**
+
+Considering the references provided:
+
+1. **Is there a good faith, rational basis for the separate classification?**
+   The Debtors argue that the basis for the separate classification is to prevent the accrual of significant interest and late fees on their student loans, which would undermine their financial rehabilitation post-bankruptcy. Reference case 464 B.R. 486 upheld a similar argument by recognizing that modest differences in creditor repayments can balance the goals of the Bankruptcy Code without unfair discrimination.
+
+2. **Is the separate classification necessary for the Debtors' rehabilitation under Chapter 13?**
+   As in 387 B.R. 128, maintaining separate classifications was necessary to prevent undermining the debtor’s fresh start. Similarly, in 199 B.R. 569, the court found that separate classifications might be justified if it helps preserve the debtor’s future financial stability by preventing the exponential growth of student loan debt during the bankruptcy period.
+
+3. **Is there a meaningful payment to the discriminated class?**
+   The Court acknowledges that under the proposed plan, non-student loan unsecured creditors receive 33.30% of their claims, while they would receive 36.48% if student loans were paid through the plan. This difference is not substantial, akin to the minimal impact seen in 464 B.R. 486, where a 5% differential was not viewed as unfair discrimination.
+
+In conclusion, as per the modified criteria and the referenced cases, Debtors have shown a good faith, rational basis for the separate classification, which is necessary for their rehabilitation, and there is a meaningful payment to the discriminated class. Thus, the proposed plan does not unfairly discriminate against non-student loan unsecured creditors.
+
+citations: ['271 B.R. 189', '22 B.R. 510', '464 B.R. 486', '423 B.R. 568', '387 B.R. 128', '199 B.R. 569', '70 B.R. 973']
+
+gold_text: Id, at *7. Judge Waites also stated that “[hjelpful, but not controlling to this analysis, is evidence indicating whether the proposed distribution is greater than would be received by the. unsecured creditors in a Chapter 7 liquidation, and the degree of difference in distributions between a plan containing separate classifications and one •without.” Id. at *7, n.ll. Other courts have developed a variety of tests. See Labib- Kiyarash v. McDonald (In re Labib-Kiyarash), 271 B.R. 189, 192 (9th Cir. BAP 2001) (utilizing four part test from Amfac Distribution Corp. v. Wolff (In re Wolff), 22 B.R. 510 (9th Cir. BAP 1982): “(1) whether the discrimination has a reasonable basis; (2) whether the debtor can carry out a plan without the discrimination; (3) whether the discrimination is proposed in good faith; and (4) whether the degree of discrimination is directly related to the basis or rationale for the discrimination.”); In re Pracht, 464 B.R. 486, 492 (Bankr. M.D. Ga. 2012) (citing In re Harding, 423 B.R. 568, 575 (Bankr. S.D. Fla. 2010) (adopting test that requires a “fair balancing of: (1) the Debtor’s fresh start; (2) the clear legislative objective of student loan repayment; and (3) fair treatment of creditors as a whole.”); In re Orawsky, 387 B.R. 128, 146-47 (Bankr. E.D. Penn. 2008) (adopting framework using four “baselines” warranting consideration: 1. Equality of distribution, 2. Nonpriority of student loans, 3. Mandatory versus optional contributions, and 4. A fresh start for honest debtors; stating that the degree of departure from the baseline is relevant in determining whether discrimination is unfair); In re Kolbe, 199 B.R. 569, 575 (Bankr. D. Md. 1996) (after discussing various tests employed by courts, adopting a test which requires consideration of the same five factors historically used in South Carolina); In re Furlow, 70 B.R. 973, 978 (Bankr. E.D. Penn. 1987) (“[Djifferent treatment is permissible if and only if the debtor is able to prove a reasonable basis for the degree of discrimination contemplated by the Plan”).
+
+label: 

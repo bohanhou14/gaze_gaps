@@ -1,0 +1,9 @@
+**Generation:**
+
+To establish knowing possession of a firearm, the government needed to prove Kelley had either actual or constructive possession. Constructive possession requires knowledge of an object, the ability to control it, and the intent to do so (United States v. Guenther, 470 F.3d 740, 747 (8th Cir.2006); United States v. Lee, 356 F.3d 831, 837 (8th Cir.2003)). Although Kelley contends he moved the firearms to the shed because of his prior felony conviction and that they were brought by Little for hunting purposes, the court found ample evidence of intent and control. Kelley's acknowledgment of the firearms’ presence, his action of leading the officers to the shed, and his statements in the voluntary statement indicate he had the requisite knowledge and control (492 F.3d 953; 986 F.2d 270). Kelley’s argument parallels cases such as United States v. Boykin, where possession was inferred due to proximity and control over the premises (986 F.2d 270). Therefore, the evidence sufficiently supports the district court's finding of knowing possession beyond a reasonable doubt, affirming the denial of Kelley’s motion for judgment of acquittal (427 F.3d 554; 356 F.3d 831).
+
+citations: ['492 F.3d 953', '986 F.2d 270', '427 F.3d 554', '356 F.3d 831']
+
+gold_text: “Knowing possession can be actual or constructive, as well as sole or joint.” United States v. Piwowar, 492 F.3d 953, 955 (8th Cir.2007). “Constructive possession of the firearm is established if the person has dominion over the premises where the firearm is located, or control, ownership, or dominion over the firearm itself.” United States v. Boykin, 986 F.2d 270, 274 (8th Cir.1993). Stated differently, “constructive possession ‘requires knowledge of an object, the ability to control it, and the intent to do so.’ ” United States v. Howard, 427 F.3d 554, 557 (8th Cir.2005) (quoting United States v. Lee, 356 F.3d 831, 837 (8th Cir.2003)).
+
+label: 

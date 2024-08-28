@@ -1,0 +1,16 @@
+**Generation:**
+
+
+In the case at hand, the court is tasked with determining whether the debt of $900.00 for the furnace replacement and the debt of $34,400.00 attributable to the $400.00 bi-weekly payments constitute domestic support obligations (DSOs) within the meaning of the Bankruptcy Code and therefore are entitled to priority status under § 507(a)(1). 
+
+In In re Calisoff, 92 B.R. 346, 352 (Bkrtcy.N.D.Ill.1988), the court held that an award for the necessary goods or services that a party would otherwise not be able to purchase can be considered alimony. Here, the furnace replacement was necessary to maintain the home properly, and the Debtor was ordered to pay Ms. Laureyns $900.00 toward the cost of replacing the furnace. This debt can be considered a DSO as it is in the nature of support and was intended to provide for the upkeep of the marital home. 
+
+In contrast, the debt of $34,400.00 attributable to the $400.00 bi-weekly payments may not be considered a DSO. While the payments may have been intended to provide for the Debtor's and Ms. Laureyns' financial obligations, they do not appear to be in the nature of support. In In re Werthen, 329 F.3d 269, 273 (1st Cir.2003), the court stated that support has been described as "what is given to provide for the upkeep of the recipient spouse and children." Here, the bi-weekly payments were not intended to provide for the upkeep of the marital home or the couple's financial obligations, but rather to pay off joint debts.
+
+In conclusion, the debt of $900.00 for the furnace replacement can be considered a DSO, while the debt of $34,400.00 attributable to the $400.00 bi-weekly payments cannot. The court finds that the payment of $900.00 was intended to provide for the upkeep of the marital home, and therefore, it is in the nature of support. The payment of $34,400.00, on the other hand, was intended to pay off joint debts and does not appear to be in the nature of support.
+
+citations: ['112 B.R. 881', '40 B.R. 92']
+
+gold_text: In the Court’s view, a working furnace is a necessary component of any shelter being provided for one’s spouse and children. Heat and hot water are necessities that clearly contribute to the well-being of one’s family. See Keeran v. Keeran (In re Keeran), 112 B.R. 881, 885 (Bankr.N.D.Ohio 1990) (holding that a debt incurred in order to purchase household appliances, which are “necessary goods,” was non-dis-chargeable under § 528(a)(5) as payment on the obligation had the effect of providing support); Rich v. Rich (In re Rich), 40 B.R. 92, 95-96 (Bankr.D.Mass.1984) (finding that the debtor’s obligation to pay an unsecured home improvement loan used to fund the installation of a sewer system was a liability in nature of support such that it was non-dischargeable under § 523(a)(5)). Although not labeled as support in the initial Family Court order requiring the Debtor to make such payment, nor in the 2013 order on reconsideration of the Final Decree, the Court finds that the $900.00 debt for the furnace replacement is in the nature of support and therefore qualifies as a DSO under the Bankruptcy Code.
+
+label: 

@@ -1,0 +1,12 @@
+**Generation:**
+
+Defendants cite Reid to argue that an individual cannot be liable for aiding and abetting their own discriminatory conduct. However, the NYSHRL does permit liability for aiding and abetting where individuals "actually participate[] in the conduct giving rise to a discrimination claim" (Tomka, 66 F.3d at 1317; N.Y. Exec. Law § 296). Feingold supports this by establishing that participation in discriminatory acts is sufficient to incur individual liability under the NYSHRL (366 F.3d 138). Plaintiff alleges that Defendant Cuttitta failed to respond to her complaints and allowed the discriminatory practices to continue, which could be interpreted as aiding and abetting under § 296(6). Therefore, viewing the facts in the light most favorable to Plaintiff, the court finds there is a sufficient basis to deny Defendants' motion to dismiss the claims against Defendant Cuttitta for aiding and abetting under the NYSHRL.
+
+CONCLUSION
+For the aforementioned reasons, Defendants’ motion to dismiss is denied in part and granted in part. Plaintiff’s claims under § 1983 and the NYSHRL against the individual defendants shall proceed, as sufficient factual allegations have been made to support these claims under existing legal standards.
+
+citations: ['366 F.3d 138', '66 F.3d 1295', '524 U.S. 742']
+
+gold_text: The facts of the case cited by Defendants do not apply here. It is possible for an individual to be liable under § 296(6) for “actually participating” in the discriminatory conduct even thought he or she lacks the authority to hire or fire the plaintiffs. See Feingold v. New York, 366 F.3d 138, 157-158 (2d Cir.2004), following Tomka, 66 F.3d at 1317. In the present case, Plaintiff alleges, inter alia, that she complained to Cuttitta, that Cuttitta never addressed Plaintiffs complaints, ultimately gave her a negative performance evaluation and subsequently terminated Plaintiff. Accepting these allegations as true, the Court finds the Plaintiff sufficiently alleges a claim under the N.Y. Exec. Law and hereby denies Defendants’ motion to dismiss. See Tomka v. Seiler Corp., 66 F.3d 1295, 1317 (2d Cir.1995), abrogated on other grounds by Burlington Industries, Inc. v. Ellerth, 524 U.S. 742, 118 S.Ct. 2257, 141 L.Ed.2d 633 (1998).
+
+label: 

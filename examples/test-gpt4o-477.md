@@ -1,0 +1,13 @@
+**Generation:**
+
+The above findings indicate that establishing Hughes' aiding and abetting in the manufacture of amphetamine relies heavily on circumstantial evidence. Courts have consistently held that circumstantial evidence can be sufficient to uphold a conviction if it convinces the jury beyond a reasonable doubt (see United States v. Swayne, 780 F.2d 1419). In determining sufficiency, evidence should be viewed in the light most favorable to the prosecution (Glasser v. United States, 315 U.S. 60).
+
+Furthermore, possession of contraband substances does not need to be exclusive but can be joint (United States v. Holt, 721 F.2d 1160). Here, Hughes' occasional presence and minimal activity at the crime scene present a weak basis for establishing intent or knowledge. The credibility of witnesses, such as Alaniz, who could not confirm seeing Hughes manufacture drugs, further weakens the prosecution's case (United States v. Rosandich, 866 F.2d 988).
+
+Given this context, and despite the procedural untimeliness of Hughes' motion, the overarching mandate of Rule 2 to achieve fair determinations justifies re-evaluating the sufficiency of the evidence. The court must ensure justice by considering whether evidence presented supports a finding of guilt beyond a reasonable doubt.
+
+citations: ['315 U.S. 60', '866 F.2d 988', '721 F.2d 1160', '780 F.2d 1419']
+
+gold_text: This is the entire testimony referring to Hughes. The question is whether this evidence supports Hughes’ conviction for aiding and abetting in the manufacture of amphetamine. In making this determination, the court must view the evidence in the light most favorable to the government, giving the government the benefit of all reasonable inferences which may logically be drawn therefrom. See Glasser v. United States, 315 U.S. 60, 62 S.Ct. 457, 86 L.Ed. 680 (1942); United States v. Marin-Cifuentes, 866 F.2d 988 (8th Cir.1989), cert. den., — U.S. —, 110 S.Ct. 110, 107 L.Ed.2d 72 (1989). The evidence need not exclude every reasonable hypothesis of innocence but simply be sufficient to convince the jury beyond a reasonable doubt that Hughes aided and abetted in the manufacture. Marin-Cifuentes, supra; United States v. Wells, 721 F.2d 1160 (8th Cir. 1983). This court may set aside the verdict only if the evidence is such that a “reasonable-minded jury must have entertained a reasonable doubt as to the proof of at least one of the essential elements of the offense.” United States v. Noibi, 780 F.2d 1419 (8th Cir.1986).
+
+label: 

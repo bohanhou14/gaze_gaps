@@ -1,0 +1,16 @@
+**Generation:**
+
+
+In accordance with Strickland v. Washington, 466 U.S. 668 (1984), the standard for evaluating a claim of ineffective assistance of appellate counsel is that the defendant must show that counsel's performance was deficient and that the deficient performance prejudiced the defense. In this case, the OCCA misstated the legal tests governing the proper inquiry under federal law, as recognized in McGee v. Higgins, 568 F.3d 832 (2009) and Cargle v. Mullin, 317 F.3d 1196 (2003).
+
+The OCCA's analysis of appellate counsel's performance was contrary to clearly established federal law. As stated in Williams v. Taylor, 529 U.S. 362 (2000), a state-court decision will be contrary to our clearly established precedent if the state court applies a rule that contradicts the governing law set forth in our cases. In this case, the OCCA's truncated analysis of Strickland's first prong, which ignored the merits of the underlying predicate claim, deviated from the controlling federal standard and was therefore contrary to clearly established federal law.
+
+Furthermore, as mentioned in 551 U.S. 930, a federal court may grant habeas relief if the state court's adjudication of a claim resulted in a decision that was contrary to, or involved an unreasonable application of, clearly established federal law. In this case, the OCCA's decision was both contrary to and an unreasonable application of clearly established federal law.
+
+Therefore, we conclude that the OCCA's decision was contrary to clearly established federal law and that Milton is entitled to habeas relief. We reverse and remand to the district court with directions to conduct an evidentiary hearing on Milton's ineffective assistance of appellate counsel claim and to subsequently review on the merits. 
+
+citations: ['536 U.S. 266', '551 U.S. 930', '728 F.3d 1170']
+
+gold_text: Miller’s satisfaction of the § 2254(d)(1) standard has two related effects. First, although it does not entitle him to the issuance of a writ of habeas corpus, see Horn v. Banks, 536 U.S. 266, 272, 122 S.Ct. 2147, 153 L.Ed.2d 301 (2002) (“While it is of course a necessary prerequisite to federal habeas relief that a prisoner satisfy the AEDPA standard of review set forth in 28 U.S.C. § 2254(d) ..., none of our post-AEDPA cases have suggested that a writ of habeas corpus should automatically issue if a prisoner satisfies the AEDPA standard”), it effectively removes AED- PA’s prohibition on the issuance of a writ. Second, it requires us to review de novo his ineffective assistance of appellate counsel claim, rather than deferring to the OCCA’s resolution of that claim. See Panetti v. Quarterman, 551 U.S. 930, 953, 127 S.Ct. 2842, 168 L.Ed.2d 662 (2007) (“When a state court’s adjudication of a claim is dependent on an antecedent unreasonable application of federal law, the requirement set forth in § 2254(d)(1) is satisfied. A federal court must then resolve the claim without the deference AEDPA otherwise requires.”); Williams, 529 U.S. at 406, 120 S.Ct. 1495 (noting that “a federal court will be unconstrained by § 2254(d)(1) [if] the state-court decision falls within that provision’s ‘contrary to’ clause”); Heard v. Addison, 728 F.3d 1170, 1179 (10th Cir.2013) (reviewing ineffective assistance claim de novo where the OCCA’s decision was contrary to Strickland).
+
+label: 

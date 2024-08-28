@@ -1,0 +1,11 @@
+**Generation:**
+
+In light of the district court's failure to make explicit findings of fact and conclusions of law when denying Murray’s motion for a preliminary injunction, it is essential to address the mandatory requirement under Federal Rule of Civil Procedure 52(a). As articulated in the reference cases 309 U.S. 310, 613 F.2d 1235, and 793 F.2d 533, compliance with Rule 52(a) is crucial for ensuring effective appellate review. Specifically, Rule 52(a) mandates that the court should set forth findings of fact and conclusions of law when granting or denying interlocutory injunctions, thereby allowing for a meaningful review (613 F.2d 1235). Furthermore, Rule 65(d) emphasizes the necessity for specificity in each order granting an injunction, ensuring the reasons for the court's actions are clearly stated (793 F.2d 533).
+
+The absence of clear findings and conclusions in the district court's denial effectively limits the appellate court’s ability to review whether the denial was influenced by an abuse of discretion or errors in law. This lack of compliance with procedural rules flags significant procedural inadequacies, as emphasized in the precedent cases, thereby necessitating a remand for further findings consistent with Rule 52(a) requirements.
+
+citations: ['309 U.S. 310', '613 F.2d 1235', '793 F.2d 533']
+
+gold_text: The difficulty we face is that the district court failed to comply with Rule 52(a) requiring findings of fact and conclusions of law upon the granting or refusing of a preliminary injunction. See Fed.R.Civ.P. 52(a) (“in granting or refusing interlocutory injunction the court shall ... set forth the findings of fact and conclusions of law which constitute the grounds of its action”). The language of the Rule is mandatory. See, e.g., Mayo v. Lakeland Highlands Canning Co., 309 U.S. 310, 316-17, 60 S.Ct. 517, 520, 84 L.Ed. 774 (1940); H. Prang Trucking Co. v. Local Union No. 469, 613 F.2d 1235, 1238 (3d Cir.1980); I.C.C. v. Cardinale Trucking Corp., 308 F.2d 435, 437 (1962). We have held that the Rule 52 requirements must be met even when there has been no evidentiary hearing on the motion. See Educational Testing Serv. v. Katzman, 793 F.2d 533 (3d Cir.1986) (applying Rule 52 although parties had waived hearing); McWhinney v. Cain, 289 F.2d 315 (3d Cir.1961) (per curiam).
+
+label: 

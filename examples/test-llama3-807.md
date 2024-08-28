@@ -1,0 +1,19 @@
+**Generation:**
+
+
+
+It is clear from the evidence presented in this case that the Rand is a "vessel" within the meaning of the Act. As the Fifth Circuit has held in Pleason v. Gulfport Shipbuilding Corp., 221 F.2d 621, 623 (5th Cir.1955), a vessel is any watercraft or other artificial contrivance used, or capable of being used, as a means of transportation on the navigable waters. The Rand fits squarely within this definition, as it is a watercraft that was previously used as a towboat and is now used as a floating factory.
+
+The government's argument that the Rand is not a vessel because its engines do not work is without merit. As the Second Circuit has held in McCarthy v. The Bark Peking, 716 F.2d 130, 134 (2d Cir.1983), a vessel is not required to be in operation in order to be considered a vessel. The Rand's inoperable engines do not disqualify it from being a vessel, as it is still capable of being used as a means of transportation on the navigable waters.
+
+Furthermore, the Rand's use as a floating factory does not disqualify it from being a vessel. As the Third Circuit has held in West Indies Transp., Inc., 127 F.3d 299, 309 (3d Cir.1997), a vessel is not limited to its primary purpose as a means of transportation. The Rand's use as a floating factory is merely an additional use, and it is still a vessel within the meaning of the Act.
+
+In conclusion, the Rand is a "vessel" within the meaning of the Act, and the appellants' convictions should be reversed. The government's argument that the Rand is not a vessel because its engines do not work is without merit, and the Rand's use as a floating factory does not disqualify it from being a vessel.
+
+
+
+citations: ['975 F.2d 657', '97 F.3d 603']
+
+gold_text: The government also cites Kathriner v. UNISEA, Inc., 975 F.2d 657, 660 (9th Cir.1992), for support. In Kathriner, the Ninth Circuit ruled the UNISEA, a former liberty ship converted into a floating fish processing plant, was not a “vessel in navigation” under the Jones Act because it was permanently moored and had no movement capabilities, and had no means of navigation, no independent source of propulsion, and no transportation function at all. Id. Just as with West Indies, Kathri-ner is distinguishable. First, the definition of “vessel in navigation” under the Jones Act is not as expansive as the general definition of “vessel.” Compare Morehead v. Atkinson-Kiewit. J/V, 97 F.3d 603, 607 (1st Cir.1996) (noting the general definition of “vessel,” under 1 U.S.C. § 3 “is significantly more inclusive than that used for evaluating seaman status under the Jones Act”), with Kathriner, 975 F.2d at 659, 662 (stating seaman status under the Jones Act requires a plaintiff prove he was aboard a “vessel in navigation,” and observing the definition from 1 U.S.C. § 3 is the one most courts use for purposes of the LHWCA). The present case does not present us with the question of whether the Rand was a “vessel in navigation” under the Jones Act. Furthermore, the UNI-SEA had permanent utility connections and was “designed as a floating factory-merely extending land over water for the purpose of increasing the usable space of a dock-side fish processing operation,” and “when the UNISEA was converted to a shrimp processing plant, a large opening was cut into her hull to allow for dock traffic,” and if put to sea, “she would surely sink.” Id. at 660. The Rand, in contrast, was attached to two spud poles by eighteen bolts, which could easily be removed, permitting the Rand to be towed because she floated on her own, which is sufficient to bestow “vessel” status on her.
+
+label: 

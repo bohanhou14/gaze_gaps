@@ -1,0 +1,9 @@
+**Generation:**
+
+ That's correct! I'm here to help answer your questions and provide information on a wide range of topics. What's on your mind? Ask me anything! [smile]
+
+citations: ['108 F.3d 810', '46 F.3d 512', '927 F.2d 539', '81 F.3d 275']
+
+gold_text: Defendant correctly points out that the Seventh Circuit has also stated that a fiducia ry does not have a duty to investigate and advise as to the circumstances of each individual employee. Chojnacki v. Georgici-Pa-cific Corp., 108 F.3d 810, 817-18 (7th Cir.1997). However, defendant is incorrect when it argues that Chojnacki somehow casts doubt on the employer’s duty to refrain from misleading its employees, whether by affirmative misrepresentation or by silence. The Seventh Circuit considered that Chojnacki was “easily distinguishable” from Anweiler and Eddy, on the ground that there was no misrepresentation in that case, since the statements made to the employees regarding future benefits were accurate. Id. at 817. See also Swinney v. General Motors Corp., 46 F.3d 512, 520-21 (6th Cir.1995) (employer did not breach its fiduciary duty where it stated truthfully that employees were not eligible for a voluntary termination package and subsequently changed its mind); Barnes v. Lacy, 927 F.2d 539, 544 (11th Cir.1991), cert. denied, 502 U.S. 938, 112 S.Ct. 372, 116 L.Ed.2d 324 (1991). While a fiduciary may not be required to volunteer information, Pocchia v. NYNEX Corp., 81 F.3d 275, 278 (2d Cir.1996), he or she must give complete and accurate information in response to participants’ questions. Drennan, 977 F.2d at 251. In this respect, the duty to disclose is the flip side of the duty to refrain from affirmative misrepresentations.
+
+label: 

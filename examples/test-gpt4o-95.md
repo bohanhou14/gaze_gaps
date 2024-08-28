@@ -1,0 +1,13 @@
+**Generation:**
+
+In considering the alleged infringement, reference must be made to the burden of proof and the standards for establishing copyright violation. In the case cited at 153 F.2d 893, it was held that the unauthorized copying of a substantial part of the literary property constitutes a tort, provided there is evidence of access and copying. Here, however, the defendant, Mrs. Hire, testified unequivocally that she did not have access to the plaintiff’s work, which is further supported by geographical and professional separation, as she had never been in Michigan nor read any unpublished scripts prior to 1958.
+
+Furthermore, as noted in the case cited at 154 F.2d 480, similarity alone does not suffice to prove copying; access must be proven or, alternatively, the similarities must be so striking and idiosyncratic as to preclude independent creation. Although there are thematic similarities and specific phrases that appear in both plays, the District Court determined that these elements are not unique enough to infer copying given the commonality of the “love triangle” plot in literature and drama.
+
+The courts also found that Mrs. Hire’s and Ms. Scott’s language choices and specific dialogues were not identical nor idiosyncratically distinctive. The similarities pointed out, such as the use of the word "brazen," are insufficient to establish unlawful appropriation. The trial court's findings that sequence, characterization, and style were significantly different between the two plays further weaken the plaintiff’s case. Thus, based on the principle that copyright protection does not extend to general themes but to the specific expression (Wihtol v. Wells, 231 F.2d 550), and the necessity of proof of access (Arnstein v. Porter, 154 F.2d 464), the plaintiff has failed to meet the required burden of proof for copyright infringement.
+
+citations: ['153 F.2d 893', '154 F.2d 480']
+
+gold_text: Without direct proof of access or proof of a reasonable possibility of access, the courts have quite generally held that access and copying may be implied only if the similarities of the two plays are so striking and of such nature as to preclude the possibility of coincidence, accident or independent creation. Twentieth Century-Fox Film Corp. v. Dieckhaus, 8 Cir., 153 F.2d 893, 898-899, cert. den. 329 U.S. 716, 67 S.Ct. 46, 91 L.Ed. 621; Heim v. Universal Pictures Co., 2 Cir., 154 F.2d 480, 487.
+
+label: 

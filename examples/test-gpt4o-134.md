@@ -1,0 +1,9 @@
+**Generation:**
+
+In support of the Plaintiff's claims, it is instructive to consider the precedent set by the U.S. Supreme Court in the case of Estelle v. Gamble, 429 U.S. 97. In Estelle, the Court held that deliberate indifference to serious medical needs of prisoners constitutes the "unnecessary and wanton infliction of pain" proscribed by the Eighth Amendment. Furthermore, as elucidated in the subsequent case of Leavitt v. Corr. Med. Servs., Inc., 464 F.3d 158, deliberate indifference involves more than an inadvertent failure to provide adequate medical care and must entail recognized acts or omissions harmful enough to meet the "serious medical needs" criterion. The significance of these rulings lies in the establishment that claims of inadequate treatment, if demonstrably neglectful, can indeed underpin a cause of action under § 1983 for Eighth Amendment violations. In light of these principles, the Plaintiff's detailed allegations—highlighting prescribed but unprovided treatments, consequent psychological distress, and documented administrative grievances—sufficiently suggest a pattern of deliberate indifference. Therefore, Defendants' motions to dismiss lack merit and must be denied to allow the Plaintiff's claims to proceed.
+
+citations: ['429 U.S. 97', '464 F.3d 158']
+
+gold_text: . Estelle v. Gamble, 429 U.S. 97, 104-05, 97 S.Ct. 285, 50 L.Ed.2d 251 (1976); see also Cecil v. Brace (quoting Feeney v. Corr. Med. Servs., Inc., 464 F.3d 158, 161 (1st Cir.2006)) ("[F]or medical treatment in a correctional facility to offend either the Eighth or the Fourteenth Amendments to the Constitution, the care `must involve acts or omissions sufficiently harmful to evidence deliberate indifference to serious medical needs.’")
+
+label: 

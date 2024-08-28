@@ -1,0 +1,18 @@
+**Generation:**
+
+ <answer>
+The case involves the transportation of Mary Kovacs Riviello from Scranton, Pennsylvania, to Buffalo, New York, for the purpose of prostitution. The defendant, Vincent Anthony Sorrentino, was charged with violating 18 U.S.C.A. § 398, which prohibits the transportation of a person in interstate commerce for the purpose of prostitution, and with conspiracy to violate this statute.
+
+In considering the sufficiency of the evidence to sustain the verdict, the court must take the view most favorable to the government and give the government the benefit of all reasonable inferences from the evidence (Affronti v. United States, 8 Cir., 1944, 145 F.2d 3, 5). The court found that the evidence showed that Sorrentino arranged for Riviello to be transported to Buffalo, where she was placed in a brothel, and that he received a share of her earnings (Morgan v. United States, 5 Cir., 1945, 149 F.2d 185, certiorari denied 326 U.S. 731, 66 S.Ct. 39, 90 L.Ed. 435).
+
+The court also found that the evidence showed that Kobli, a co-defendant, was involved in the conspiracy and that she had knowledge of Sorrentino's connections and the fact that he would be able to place Riviello in a brothel (United States v. Monjar, 3 Cir., 1944, 147 F.2d 916, 924). The court concluded that the evidence was sufficient to support the verdict and that the defendant's claims of error were without merit.
+
+In a similar case, the Supreme Court held that evidence of other similar activities of the accused was admissible to illustrate or establish the intent or motive of the party (United States v. Pape, 2 Cir., 1944, 144 F.2d 778, 781). The court also held that the purpose or intent of the party may be proved by circumstantial evidence (Tedesco v. United States, 9 Cir., 1941, 118 F.2d 737, 741).
+
+In another case, the court held that the use of aliases in the indictment was not error, as the names were read to the jury during the trial and no question was raised until after the jury retired (D'Alessandro v. United States
+
+citations: ['57 F.2d 822', '295 U.S. 78']
+
+gold_text: In our charge to the jury we read the counts in the indictment and the provisions of the respective sections of the statutes involved, and by way of explanation we advised the jury that defendant Sorrentino could not be found guilty unless defendants Kobli and Sorrentino acted in order to make the transportation possible and to have the victim go to Buffalo; that they must have acted to induce her to go into interstate commerce to be a prostitute before the act of her actually going into interstate commerce; .that Sorrentino was not being tried for what he did after the victim’s arrival in Buffalo. We explained the difference between the Federal and State offenses. Shama v. United States, 8 Cir., 1938, 94 F. 2d 1, certiorari denied 304 U.S. 568, 58 S. Ct. 1037, 82 L.Ed. 1533; Malaga v. United States, 1 Cir., 1932, 57 F.2d 822. No additional requests for charge were made on behalf of defendant Sorrentino. Exception was made by counsel for defendant Kobli and joined in by counsel for defendant Sorrentino because the court had allegedly placed undue emphasis on Count 2, i. e., the charge of inducing to go into interstate commerce to become a prostitute. The part of the charge as to the testimony of accomplices was in the usual form as to caution and corroboration. No additional requests were made in this regard. See Berger v. United States, 295 U.S. 78, 81, 82, 55 S.Ct. 629, 79 L.Ed. 1314, interpreting Section 269 of-the Judicial Code, as amended. 28 U.S.C.A. § 391.
+
+label: 

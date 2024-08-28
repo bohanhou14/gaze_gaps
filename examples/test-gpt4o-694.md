@@ -1,0 +1,13 @@
+**Generation:**
+
+In addressing whether Intrepid's case has become moot, we draw guidance from the Supreme Court's interpretations in cases such as Alejandrino v. Quezon, 271 U.S. 528 (1926), referenced in 395 U.S. 486. In Alejandrino, although the primary issue of suspension was rendered moot, the Court indicated that incidental issues like back salary may still present a live controversy. Similarly, Intrepid's challenge to the scope determination of the ITA remains a live controversy, despite Customs allowing a bond instead of cash deposits. 
+
+Moreover, in the case United States v. Alaska S.S. Co., 258 U.S. 346, the Court held that even if some relief has been obtained, the case is not rendered moot if there are outstanding issues, such as the assessment of damages. Intrepid's assertion that its merchandise was not within the scope of the duty orders relates directly to the pending legal issues which have not been fully resolved. Thus, the case maintains a "definite and concrete" controversy as elucidated in Aetna Life Ins. Co. v. Haworth, 300 U.S. 227 (1937).
+
+Therefore, we conclude that the trial court erred in dismissing the case on mootness grounds, as substantial legal issues pertinent to Intrepid's claims are still in contention.
+
+citations: ['395 U.S. 486', '258 U.S. 346']
+
+gold_text: 300 U.S. at 240-41, 57 S.Ct. at 464 (cases omitted). Mootness of an action relates to the basic dispute between the parties, not merely the relief requested. Thus, although Subsequent acts may moot a request for particular relief or a count, the constitutional requirement of a case or controversy may be supplied by the availability of other relief. Powell v. McCormack, 395 U.S. 486, 496-97, 89 S.Ct. 1944, 1950-51, 23 L.Ed.2d 491 (1969) (the mootness of Powell’s claim for injunctive relief related to his seating in Congress held not to moot the case because his claim for back salary remained a viable issue); Standard Fashion Co. v. Magrane-Houston Co., 258 U.S. 346, 353, 42 S.Ct. 360, 361, 66 L.Ed. 653 (1922) (suit to restrain contract violation held not mooted with the contract’s expiration if there is also a request for damages that is capable of ascertainment). As indicated, there remains a “definite and concrete” controversy between Intrepid and the government concerning the scope of the antidumping and countervailing duty orders which has existed since the inception of Intrepid’s suit, continues to exist, and is capable of relief. That the government’s action removed the need for the injunctive relief originally requested did not moot the entire action.
+
+label: 

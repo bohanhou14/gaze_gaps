@@ -1,0 +1,11 @@
+**Generation:**
+
+The court's role in balancing allegations against the union's duty of fair representation and the employer's adherence to the CBA is integral in hybrid claims under 29 U.S.C. § 185. Utilizing the precedent from 386 U.S. 171, the duty of fair representation requires more than just demonstrating wrongful discharge; it necessitates proving arbitrary or bad-faith conduct by the union. Goulet's argument hinges significantly on the procedural breaches, akin to what was detailed in 989 F.2d 561, where the union's failure to perform timely could directly impact the arbitration's outcome.
+
+However, the court's broad authority in measuring damages and formulating remedies as referenced in 239 F.3d 8 underscores judicial discretion in these contexts. Despite procedural lapses, Goulet's inability to prove arbitrary or capricious conduct on the union’s part in grievance processing diminishes his claims. As the union meeting its duty negates employer liability under § 301, the jury's verdict, influenced by coherent instructions and substantial evidence, stands reinforced. Goulet's contentions lack the compelling circumstances required to overturn the jury's verdict (reference 989 F.2d 561).
+
+citations: ['239 F.3d 8', '989 F.2d 561', '386 U.S. 171']
+
+gold_text: A union’s duty of fair representation requires it not to “engage in arbitrary or bad faith conduct that evidences hostility, discrimination, or dishonesty toward an employee-union member.” Fant v. New England Power Service Co., 239 F.3d 8, 14 (1st Cir.2001). “Reckless disregard” of an employee’s interests is an actionable breach of duty of fair representation. Achilli v. John J. Nissen Baking Co., 989 F.2d 561, 563 (1st Cir.1993). A union may not arbitrarily ignore a meritorious grievance or process it in a perfunctory fashion. Vaca v. Sipes, 386 U.S. 171, 191, 87 S.Ct. 903, 17 L.Ed.2d 842 (1967). Goulet argues that Local 25’s failure to submit his name and terminal preference list to New Penn and failure to docket his grievance in a timely manner constituted a clear breach of its duty. A rational jury, however, could believe otherwise.
+
+label: 

@@ -1,0 +1,16 @@
+**Generation:**
+
+
+The reference cases provided demonstrate the importance of habeas corpus in ensuring the protection of constitutional rights. In Reference case 293 U.S. 131, the Court held that the writ of habeas corpus could not be used to modify or revise a judgment of conviction, but only to determine whether the detention was lawful. Similarly, in Reference case 371 U.S. 236, the Court emphasized the importance of comity in habeas corpus proceedings, stating that federal courts should generally stay their hand pending completion of state court proceedings.
+
+In Reference case 372 U.S. 391, the Court considered a petition for a writ of habeas corpus filed by a prisoner who was being held in solitary confinement for violating a prison regulation that prohibited him from preparing habeas corpus petitions for other prisoners. The Court held that the regulation was unconstitutional because it effectively denied the prisoner's right to assistance in preparing a habeas corpus petition, which is a statutory right under 28 U.S.C. § 2242.
+
+The present case presents a similar issue. The petitioner is being held in solitary confinement for violating a prison regulation that prohibits him from preparing habeas corpus petitions for other prisoners. The regulation is unconstitutional because it effectively denies the petitioner's right to assistance in preparing a habeas corpus petition, which is a statutory right under 28 U.S.C. § 2242. The petitioner's detention is therefore unlawful, and he is entitled to a writ of habeas corpus.
+
+In conclusion, the reference cases demonstrate the importance of habeas corpus in ensuring the protection of constitutional rights. The petitioner's detention is unlawful, and he is entitled to a writ of habeas corpus.
+
+citations: ['293 U.S. 131', '371 U.S. 236', '372 U.S. 391']
+
+gold_text: Ordinarily, a prisoner may resort to federal habeas corpus to make a collateral attack on federal constitutional grounds upon his state court conviction. The federal habeas corpus statute, 28 U.S.C.A. § 2241 (1959), makes the writ available for this purpose if the prisoner is “in custody in violation of the Constitution * * * of the United States. * * * ” Over thirty years ago, the Supreme Court held that a sentence which the prisoner had not begun to serve did not satisfy the statutory requirement of “custody” even though a result of the challenged sentence was to thwart his eligibility for parole. McNally v. Hill, 293 U.S. 131, 55 S.Ct. 24, 79 L.Ed. 238 (1934). If this decision stood alone, unqualified by later decisions of the Supreme Court, we as a lower court would be bound to follow it. Since then, however, the Court has relaxed the strictness of this interpretation and held that one on parole is in “custody” within the meaning of the term as used in 28 U.S.C.A. § 2241. Jones v. Cunningham, 371 U.S. 236, 83 S.Ct. 373, 9 L.Ed.2d 285 (1963). Still later, the Court, in broad terms, equated “custody” with “restraint of liberty.” Fay v. Noia, 372 U.S. 391, 427, 83 S.Ct. 822, 9 L.Ed.2d 837 (1963).
+
+label: 

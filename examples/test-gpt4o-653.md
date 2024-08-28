@@ -1,0 +1,13 @@
+**Generation:**
+
+When assessing whether Protective Life's reasons for demoting and terminating Kohser were pretexts for age or sex discrimination, we apply the McDonnell Douglas burden-shifting framework. Under this framework, the burden initially lies with the defendant to articulate legitimate, non-discriminatory reasons for its actions. Once this is done, the burden shifts back to the plaintiff to show that these reasons are mere pretexts. As noted in the reference case, "a plaintiff cannot prove pretext by simply arguing or even by showing that he was better qualified than the [person] who received the position he coveted" (509 F.3d 1344). The plaintiff must demonstrate falsity of the employer's reason and that discrimination was the real reason (509 U.S. 502).
+
+Kohser failed to show such pretext by merely providing circumstantial evidence without revealing “such weaknesses, implausibilities, inconsistencies, incoherencies or contradictions” in Protective Life's reasons (509 F.3d 1344). Furthermore, it is emphasized that proving the employer’s reason false becomes part of the greater enterprise of proving that the real reason was intentional discrimination (509 U.S. 502).
+
+In conclusion, the district court properly granted summary judgment in favor of Protective Life as Kohser did not meet the burden of showing that the proffered reasons for her termination were pretexts for discrimination under either Title VII or the ADEA (196 F.3d 1354).
+
+citations: ['509 F.3d 1344', '509 U.S. 502', '196 F.3d 1354']
+
+gold_text: A plaintiff can show pretext by demonstrating “such weaknesses, implausibilities, inconsistencies, incoherencies, or contradictions” in the proffered reason for the employment action so that a reasonable factfinder could find them unworthy of credence. Springer v. Convergys Customer Mgmt. Group, Inc., 509 F.3d 1344, 1348 (11th Cir.2007). “However, a reason cannot be proved to be a ‘pretext for discrimination’ unless it is shown both that the reason was false, and that discrimination was the real reason.” St. Mary’s Honor Ctr. v. Hicks, 509 U.S. 502, 515, 113 S.Ct. 2742, 2752, 125 L.Ed.2d 407 (1993) (emphasis in original). Accordingly, it is not enough to “dis believe the employer; the factfinder must believe the plaintiffs explanation of intentional discrimination.” Id. at 519, 113 S.Ct. at 2754 (emphasis in original). Moreover, “[w]e are not in the business of adjudging whether employment decisions are prudent or fair. Instead, our sole concern is whether unlawful discriminatory animus motivate[d] a challenged employment decision.” Damon v. Fleming Supermarkets of Fla., Inc., 196 F.3d 1354, 1361 (11th Cir.1999).
+
+label: 

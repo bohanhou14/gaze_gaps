@@ -1,0 +1,17 @@
+**Generation:**
+
+
+
+The court's decision in 961 F.2d 951 provides guidance on the issue of post-submission costs in a negotiated procurement. The court held that in a negotiated procurement, costs incurred by a contractor in support of a revised proposal, including costs incurred during ongoing negotiations with the government, can be considered proposal preparation costs. This decision supports the contractor's claim in the present case, as Geo-Seis incurred costs during negotiations with the government to develop its revised proposal.
+
+In addition, the court's decision in Geo-Seis Helicopters, Inc. v. United States, 77 Fed.Cl. 633 (2007) provides insight into the issue of substantial justification. The court held that the government's position was not substantially justified because it conflicted with the FAR, which established the parameters for the Contracting Officer's action. This decision supports Geo-Seis' claim that the government's position was not substantially justified, and therefore, it is entitled to an award of attorneys' fees and costs under the Equal Access to Justice Act.
+
+Furthermore, the court's decision in Hillensbeck v. United States, 74 Fed.Cl. 477 (2006) provides guidance on the issue of cost of living adjustments. The court held that a cost of living adjustment is measured from the date of enactment of the EAJA to the time the services were rendered. This decision supports Geo-Seis' claim for a cost of living adjustment, as it incurred attorneys' fees and costs during a period of high inflation.
+
+In conclusion, the court's decisions in 961 F.2d 951, Geo-Seis Helicopters, Inc. v. United States, 77 Fed.Cl. 633 (2007), and Hillensbeck v. United States, 74 Fed.Cl. 477 (2006) support Geo-Seis' claims for an award of attorneys' fees and costs under the Equal Access to Justice Act and a cost of living adjustment. The court should grant Geo-Seis' motion for awards of attorneys' fees and costs under the Equal Access to Justice Act and a cost of living adjustment. 
+
+citations: ['961 F.2d 951', '961 F.2d 951']
+
+gold_text: Bid preparation and proposal costs are defined by regulation as “costs incurred in preparing, submitting, and supporting bids and proposals (whether or not solicited) on potential [government or non-[g]overnment contracts.” FAR § 31.205-18(a). These costs are allowed to the extent that they are both allocable and reasonable. FAR § 31.205-18(c); see Coflexip & Servs., Inc. v. United States, 961 F.2d 951, 953 (Fed.Cir. 1992) (discussing provisions identical to those of the current FAR, which then existed in a regulation that has since been repealed). A claimed cost is generally viewed as reasonable “if, in its nature and amount, it does not exceed that which would be incurred by a prudent person in the conduct of competitive business.” FAR § 31.201-3(a). A claimed cost is generally viewed as allocable if it “is incurred specifically for the contract.” FAR § 31.201-4(a). Expenses compensable as bid preparation costs are those in the nature of researching specifications, reviewing bid forms, examining cost factors, and preparing draft and actual bids. Lion Raisins v. United States, 52 Fed.Cl. 629, 631 (2002). GeoSeis bears the burden of proving that it is entitled to recover its costs. Id.
+
+label: 

@@ -1,0 +1,16 @@
+**Generation:**
+
+
+In the case of 356 U.S. 595, the Supreme Court established that a False Claims Act violation requires a showing of actual knowledge of the violation by the government. In this case, there is no evidence that MassHealth, the entity paying Medicaid claims, had actual knowledge of the alleged violations at the time it paid the claims. Therefore, we cannot conclude that the violations were material to the government's payment decision.
+
+In the case of 842 F.3d 103, the Third Circuit Court of Appeals held that a False Claims Act claim must satisfy the materiality requirement, which is "having a natural tendency to influence, or be capable of influencing, the payment or receipt of money." The court further explained that materiality is not established simply because the government designates compliance with a particular requirement as a condition of payment.
+
+In this case, the allegations do not meet the materiality requirement. The government would have reimbursed the claims even with full knowledge of the alleged reporting deficiencies. The FDA has not taken any action against Genentech and has continued to approve Avastin for the at-risk populations. The Department of Justice has also declined to intervene in this suit. Therefore, we cannot conclude that the alleged fraud was material to the government's payment decision.
+
+In conclusion, the materiality requirement is not met in this case. The government would have reimbursed the claims even with full knowledge of the alleged reporting deficiencies. The FDA has not taken any action against Genentech and has continued to approve Avastin for the at-risk populations. The Department of Justice has also declined to intervene in this suit. Therefore, we cannot conclude that the alleged fraud was material to the government's payment decision.
+
+citations: ['842 F.3d 103', '356 U.S. 595']
+
+gold_text: Our sister courts have interpreted Universal Health Services the same way. See, e.g., United States ex rel. Garzione v. PAE Gov’t Servs., Inc., 670 Fed.Appx. 126, 127 (4th Cir. 2016) (“The relevant question is whether the defendant knowingly violated a requirement that the defendant knows is material to the government’s decision to pay a claim.”); United States ex rel. Escobar v. Universal Health Servs., Inc., 842 F.3d 103, 109 (1st Cir. 2016) (“In order for False Claims Liability to attach, these misleading omissions must be material to the government’s decision to pay the claim.”); United States v. Sanford-Brown, Ltd., 840 F.3d 445, 447 (7th Cir. 2016) (dismissing claim where there was “no evidence that the government’s decision to pay [the claim] would likely or actually have been different had it known of [the violation]”). Besides, it would make little practical sense to give the doctors’ materiality determinations dispositive weight. Because the False Claims Act was passed to protect the federal treasury, United States v. McNinch, 356 U.S. 595, 599, 78 S.Ct. 950, 2 L.Ed.2d 1001 (1958), and since the Government decides on payment, Universal Health Servs., 136 S.Ct. at 1996, it is the Government’s materiality decision that ultimately matters.
+
+label: 

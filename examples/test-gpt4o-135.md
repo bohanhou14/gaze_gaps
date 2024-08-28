@@ -1,0 +1,13 @@
+**Generation:**
+
+Fourth, Lockett contends that the district court erred by not providing a jury instruction regarding a missing witness, similar to the issue discussed in the case of Rios (Ref. 636 F.3d 168). The court's denial of the missing witness instruction is reviewed for an abuse of discretion. In Rios, the district court implicitly denied such an instruction, and the appellate court evaluated whether this denial was reversible error. Here, Lockett's counsel failed to demonstrate that the absence of testimony from any specific witness crucially impaired his defense, much like in Rios where the co-conspirator's absence was known and factored into the strategy before trial.
+
+Lastly, Lockett argues that the court improperly instructed the jury on his defense based on an incorrect statute of limitations, contending a five-year limit under 18 U.S.C. § 3282(a) should apply. Referencing Lambert (709 F.3d 413), the court appropriately applied the six-year statute of limitations for conspiracy to defraud the United States under 18 U.S.C. § 371, particularly when the object involves tax evasion. As in Lambert’s case, the application of the six-year statute was correct given that Lockett was involved in actions to prevent the IRS from collecting employment taxes. Therefore, Lockett’s challenge on this issue fails as well.
+
+AFFIRMED.
+
+citations: ['636 F.3d 168', '709 F.3d 413', '709 F.3d 413']
+
+gold_text: Fourth, Lockett argues that the district court erred in refusing his proposed instruction distinguishing between acts of omission that would not support a felony conviction for income tax evasion and acts of commission that would. We review the district court’s exclusion of Lockett’s requested instruction “under an abuse of discretion standard, affording the trial court substantial latitude in describing the law to the jurors.” United States v. Rios, 636 F.3d 168, 171 (5th Cir.2011) (internal quotation marks and citation omitted). Reversal based on a district court’s refusal to give a jury instruction “is not warranted unless the proposed instruction (1) is substantially correct, (2) is not substantively covered in the jury charge, and (3) pertains to an important issue in the trial, such that failure to give it seriously impairs the presentation of an effective defense.” United States v. Heard, 709 F.3d 413, 427 (5th Cir.) (internal quotation marks and citation omitted), cert. denied, - U.S. -, 134 S.Ct. 470, 187 L.Ed.2d 317 (2013).
+
+label: 

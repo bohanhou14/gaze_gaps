@@ -1,0 +1,19 @@
+**Generation:**
+
+ Here is the continued answer:
+
+<answer>
+
+The district court's decision to impose sanctions against Ms. Miera's counsel under 28 U.S.C. § 1927 is based on the notion that counsel's failure to cite Quinones in his briefs was reckless and vexatious. However, we disagree with the court's assessment. In Sunstrand Corp. v. Sun Chemical Corp., 553 F.2d 1033, 1040 (7th Cir.), cert. denied, 434 U.S. 875, 98 S.Ct. 225, 54 L.Ed.2d 155 (1977), the court held that a lawyer engages in bad faith by acting recklessly or with indifference to the law, as well as by acting in the teeth of what he knows to be the law.
+
+In this case, Ms. Miera's counsel did not intentionally or recklessly disregard the law by failing to cite Quinones. Rather, the omission was an oversight that did not amount to a reckless disregard of the attorney's duties to the court. Moreover, the court's reliance on Braley v. Campbell, 832 F.2d 1504 (10th Cir.1987), is misplaced, as that case dealt with a situation where the lawyer's conduct was "objectively unreasonable" and "manifested intentional or reckless disregard of the attorney's duties to the court." Here, there is no evidence to suggest that Ms. Miera's counsel acted with intentional or reckless disregard for the law.
+
+Furthermore, the court's decision to impose sanctions is inconsistent with the principles set forth in McCandless v. Great Atlantic & Pacific Tea Co., 697 F.2d 198, 201 (7th Cir.1983), which held that "to excuse objectively unreasonable conduct by an attorney would be to state that one who acts 'with an empty head and a pure heart' is not responsible for the consequences." Here, Ms. Miera's counsel did not act with an empty head, but rather with a reasonable and good faith belief that his conduct was proper.
+
+In conclusion, we hold that the district court's decision to impose sanctions against Ms. Miera's counsel under 28 U.S.C. § 1927 was error. The court's reliance on Quinones and Braley was misplaced, and the imposition of sanctions was inconsistent with the principles set forth in McCandless. We therefore reverse the
+
+citations: ['769 F.2d 441', '769 F.2d 441', '738 F.2d 223', '34 F.3d 1291', '73 F.3d 262', '915 F.2d 1414', '768 F.2d 1159']
+
+gold_text: This standard is then used to decide whether “by acting recklessly or with indifference to the law, as well as by acting in the teeth of what he knows to be the law,” an attorney subjects himself to sanctions under § 1927. In re TCI Ltd., 769 F.2d 441, 445 (7th Cir.1985). “A lawyer’s reckless indifference to the law may impose substantial costs on the adverse party. Section 1927 permits a court to insist that the attorney bear the costs of his own lack of care.” Id. Sanctions are appropriate, then, when an attorney is cavalier or “bent on misleading the court,” Herzfeld & Stern v. Blair, 769 F.2d 645, 647 (10th Cir.1985); intentionally acts without a plausible basis, Knorr Brake Corp. v. Harbil, Inc., 738 F.2d 223, 227 (7th Cir.1984); when the entire course of the proceedings was unwarranted, FDIC v. Calhoun, 34 F.3d 1291 (5th Cir.1994); or when certain discovery is substantially unjustified and interposed for the improper purposes of harassment, unnecessary delay and to increase the costs of the litigation, Resolution Trust Corp. v. Dabney, 73 F.3d 262 (10th Cir.1995). Because § 1927 is penal in nature, “the award should be made ‘only in instances evidencing serious and standard disregard for the orderly process of justice.’ ” White v. American Airlines, Inc., 915 F.2d 1414, 1427 (10th Cir.1990) (quoting Dreiling v. Peugeot Motors of Am., Inc., 768 F.2d 1159, 1165 (10th Cir.1985)).
+
+label: 

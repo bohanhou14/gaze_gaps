@@ -1,0 +1,15 @@
+**Generation:**
+
+
+This court finds that the license, once granted, cannot be unilaterally revoked by the defendants. Reference case 35 L. Ed. 404 clearly establishes that a license, in the absence of a contractual provision for its revocation, is not revocable except by mutual agreement or by the fault of one party. This principle is echoed in 25 L. Ed. 357, which affirms that a contract, such as a licensing agreement, continues in force until rescinded by mutual consent or by judicial decree. Defendants failed to either obtain mutual consent or seek a court decree to rescind the license. Therefore, they are bound by its terms and owe royalties under it.
+
+Additionally, the fact that the license has been continuously recognized and payments made on it underscores its validity. Reference to past payments and the existence of written communications as presented in evidence supports the conclusion that the license was never terminated legally (23 L. Ed. 486). Thus, the defendants cannot evade their obligation to pay royalties simply by claiming the built-in racks fall outside the patent’s scope.
+
+The conclusion is that the complainant’s patent and the accompanying license are valid for both the removable and built-in racks. The defendants are therefore required to account for and pay the due royalties to the complainant.
+
+
+citations: ['23 L. Ed. 486', '35 L. Ed. 404', '25 L. Ed. 357']
+
+gold_text: This action can be maintained in equity because the license was granted, went into effect, and both parties recognized and acted under it. It could not be revoked or ended except by mutual consent. The defendants have never consented to its revocation. True, they say the patent was invalid, but this is not an assent to a revocation of the license. This license was exclusive. The defendants have not repudiated or given notice of a repudiation of the license except by the answer denying its existence. The defendants, under the facts of this case, are presumed to have constructed these racks under and in pursuance of the license. Holmes, Booth & H. v. McGill, 47 C. C. A. 296, 108 Fed. 244; Marston v. Swett, 66 N. Y. 211, 23 Am. Rep. 43; Id., 82 N. Y. 526; Rawes v. Purser, 38 Eng. R. & E. Rep. 48; White v. Lee (C. C.) 14 Fed. 789; Birdsall v. Perego, 5 Blatchf. 251, Fed. Cas. No. 1,435; Stott v. Rutherford, 92 U. S. 107, 23 L. Ed. 486; Eureka Co. v. Bailey Co., 11 Wall. 488, 20 L. Ed. 209; 3 Rob. Pat. 696, note 5. A license not expressly limited in duration continues until the patent expires or the license is forfeited, if not terminated by mutual consent. St. Paul Plow Works v. Starling, 140 U. S. 196, 11 Sup. Ct. 803, 35 L. Ed. 404; Hartell v. Tilghman, 99 U. S. 556, 25 L. Ed. 357. A royalty contract is not ended by a failure to pay royalties. White v. Lee (C. C.) 3 Fed. 222. This overrules Brooks v. Stolley, 3 McLean, 523, Fed. Cas. No. 1,962. It seems clear, therefore, that, unless barred by laches, the complainant is entitled to the relief demanded.
+
+label: 

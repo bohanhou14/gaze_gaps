@@ -1,0 +1,13 @@
+**Generation:**
+
+The plaintiff argues that termination of the Elmsford outlet would inflict irreparable harm, invoking the principle established in the cases mentioned. In reference case 548 F.2d 438, the court recognized the significance of loss of goodwill and customers that cannot be compensated by monetary damages. Likewise, the plaintiff claims that shutting down the Elmsford outlet would lead to a permanent loss of goodwill and customer base.
+
+Regarding the balance of hardships, the plaintiff asserts that KFC would suffer minimal harm if he continues to operate, as seen in reference case 429 F.2d 1197, where the court evaluated the comparative inconveniences faced by the parties. Here, the plaintiff argues that the harm he would face outweighs any inconvenience to KFC. Thus, the plaintiff requests a preliminary injunction to maintain his operation of the Elmsford outlet until final adjudication of this matter can be reached.
+
+Therefore, due to the unresolved material facts concerning the Elmsford franchise and the potential for irreparable harm, we deny KFC's summary judgment motion and defer ruling on the preliminary injunction, pending an evidentiary hearing upon either party's request.
+
+citations: ['548 F.2d 438', '429 F.2d 1197']
+
+gold_text: As we indicated above, the plaintiff claims that he will lose goodwill if his franchises are terminated, and indeed that he will be put out of business. It has been held that the loss of goodwill involving the termination of a franchise or distributorship can constitute the sort of irreparable harm which will justify the imposition of a preliminary injunction. See, e.g., Jacobson & Co., Inc. v. Armstrong Cork Co., 548 F.2d 438 (2d Cir.1977) (movant who had been in business for over eight years, and who stood to lose goodwill and present and potential customers if he lost the right to distribute the defendant’s produets, showed an immeasurable harm not compensable in money). The loss or destruction of an entire business has also widely been held to constitute irreparable harm, at least when the business has been in operation for some time. E.g., Roso-Lino Beverage Distributors, Inc. v. The Coca-Cola Bottling Co., 749 F.2d 124 (2d Cir.1984) (loss of a distributorship representing eleven years of effort by a wife and husband constituted irreparable harm); Semmes Motors, Inc. v. Ford Motor Co., 429 F.2d 1197, 1205 (2d Cir.1970) (right to continue a twenty-year old business not measurable entirely in monetary terms); Newport Tire & Rubber Co. v. The Tire & Battery Corp., 504 F.Supp. 143 (E.D.N.Y.1980) (reviewing Second Circuit authorities).
+
+label: 

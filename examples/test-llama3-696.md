@@ -1,0 +1,16 @@
+**Generation:**
+
+
+In analyzing the case, we must consider the First Amendment rights of NYPPP, an independent expenditure-only political committee, and its donors. As the Supreme Court held in Citizens United v. FEC, 558 U.S. 310, 357-61, 130 S.Ct. 876, 175 L.Ed.2d 753 (2010), the government has no anti-corruption interest in limiting independent expenditures. This principle has been consistently applied in various federal circuit courts, including 664 F.3d 139, 599 F.3d 686, and 603 F.3d 684.
+
+The district court's denial of a preliminary injunction was based on its finding that NYPPP failed to establish a substantial likelihood of success on the merits. However, this analysis was flawed, as the court did not consider the merits of the case. In First Amendment cases, the likelihood of success on the merits is the dominant factor, as seen in Joelner v. Vill. of Wash. Park, 378 F.3d 613, 620 (7th Cir.2004).
+
+Furthermore, the district court's analysis of the balance of hardships and the public interest was also problematic. The court assumed that the State's interests were aligned with those of the public, but this is not always the case. Securing First Amendment rights is in the public interest, as seen in Am. Civil Liberties Union v. Ashcroft, 322 F.3d 240, 247 (3d Cir.2003).
+
+In conclusion, the order denying the preliminary injunction is reversed, and the district court shall forthwith enter a preliminary injunction enjoining the application and enforcement of N.Y. Elec. Law §§ 14-114(8) and 14-126 against NYPPP and its individual donors for the use of the contributions of those donors only for independent expenditures. The mandate shall issue immediately. 
+
+citations: ['664 F.3d 139', '599 F.3d 686', '603 F.3d 684']
+
+gold_text: . This result obtains regardless of the standard of review. After Buckley v. Valeo, political contribution limits are subject to heightened scrutiny, which requires that they be "closely drawn” to match a "sufficiently important interest.” 424 U.S. 1, 25, 96 S.Ct. 612, 46 L.Ed.2d 659 (1976). Expenditure limits are subject to even higher scrutiny, requiring that they be narrowly tailored to meet a compelling government interest. See Citizens United, 558 U.S. at 340, 130 S.Ct. 876. In this case, the effect of the restrictions is to limit contributions that can be made to a committee that seeks to make independent expenditures. It is unnecessary to decide which level of scrutiny should apply, because preventing quid pro quo corruption is the only government interest strong enough to justify restrictions on political speech, see id. at 357-61, 130 S.Ct. 876, and the threat of quid pro quo corruption does not arise when individuals make contributions to groups that engage in independent spending on political speech, see Wis. Right to Life State Political Action Comm. v. Barland, 664 F.3d 139, 154 (7th Cir.2011). See also SpeechNow.org v. FEC, 599 F.3d 686, 694 (D.C.Cir.2010); Long Beach Area Chamber of Commerce v. City of Long Beach, 603 F.3d 684, 696 (9th Cir.2010).
+
+label: 

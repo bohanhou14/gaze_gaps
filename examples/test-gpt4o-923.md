@@ -1,0 +1,13 @@
+**Generation:**
+
+In light of the reference cases, the court's departure in sentencing can be seen as problematic. In the reference case 909 F.2d 395, the court emphasized the necessity of explaining the degree of departure for a meaningful appellate review. When the district court failed to indicate why it departed by 34 months beyond the guideline range, it was deemed an abuse of discretion. Similarly, in reference case 901 F.2d 746, the court vacated and remanded a sentence due to the district court’s failure to justify the extent of the departure, making it challenging to review its reasonableness.
+
+Applying this standard, the district court's upward departure in Mathews' case, significantly increasing his sentence without a comprehensive explanation, reflects a similar issue of unreasonableness. The departure created a sentencing range far exceeding what the guidelines for analogous offenses suggest. Therefore, following the precedent set in these reference cases, Mathews' sentence should also be vacated and remanded for resentencing to ensure compliance with the requirement for specific reasons and proportional sentencing.
+
+VACATED AND REMANDED.
+
+citations: ['909 F.2d 395', '901 F.2d 746']
+
+gold_text: The determination whether and how far upward to depart remains in the district court’s discretion. If, on remand, the court departs, it shall, in accordance with 18 U.S.C. § 3553(e), state “the specific reason for the imposition of a sentence different from that described” in the guideline. See Lira-Barraza, 941 F.2d at 751; United States v. Todd, 909 F.2d 395, 398-99 (9th Cir.1990) (sentence vacated because court “failed to explain why it sentenced [the defendant] to a prison term 34 months in excess of the maximum term ... under the Guidelines”); United States v. Gayou, 901 F.2d 746, 749-50 (9th Cir.1990) (same); United States v. Wells, 878 F.2d 1232, 1233 (9th Cir.1989). The requirement that the court state its reasons for imposing a particular sentence is distinct from the required statement of reasons for departing. This case illustrates the justification for the requirement; as we have noted, a four-level adjustment at elevated offense levels can have a dramatic effect on the length of the sentence quite disproportionate to what the sentence would have been for the analogous offense standing alone. In this case, the judge adequately explained why he intended to depart and why he chose as analogous the minor assault guideline. But he failed to explain why he imposed a sentence 54 months longer than the maximum guideline sentence of 97 months.
+
+label: 

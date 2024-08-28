@@ -1,0 +1,19 @@
+**Generation:**
+
+ <answer>
+MEMORANDUM AND OPINION
+This is an action to recover benefits allegedly due and to clarify rights to future benefits from a health plan, pursuant to the Employee Retirement Income Security Act (“ERISA”), 29 U.S.C. § 1132(a)(1)(B). The dispute in this case turns on the interpretation of the subrogation rights set forth in the Summary Plan Description (“SPD”) and in the separate subrogation agreement.
+
+The SPD contains an express and broad grant of discretion to the trustees to interpret the plan’s terms: “In the application and interpretation of this Plan, the decision of the Board of Trustees shall be binding on all parties, including, employees, employers, Union, claimants, and beneficiaries.” The trustees of the Fund contend that this statement of the Fund’s subrogation rights is wholly consistent with the admittedly “more explicit” language contained in the separate subrogation agreement. However, the Court finds that this exposition of the Fund’s subrogation rights does not say the same thing as the disclosed subrogation provision in the SPD.
+
+The subrogation provision in the SPD clearly limits the Fund’s subrogation rights to circumstances in which a claimant would otherwise receive a double payment. In contrast, the subrogation agreement stipulates that the Fund is entitled to any third-party recovery in order “to repay to the Fund the full amount of all Fund benefits paid” to the participant. The Court finds that this language is inconsistent with the purposes of the plan, which is to provide health benefits to all present eligible claimants while preserving the pool of Fund assets for future plan participants and beneficiaries.
+
+The trustees’ interpretation of the subrogation rights is not consistent with the purposes of the particular provision itself, which is to avoid a double recovery. The subrogation agreement disregards this purpose in laying claim to any third-party recovery to the full extent of benefits paid. To say that this document merely restates in legal language the same rights as are set forth in the SPD provision is to ignore the express purpose of the subrogation rights claimed in the latter: to bar a double payment.
+
+The Court finds that the trustees’ interpretation of the subrogation rights is unreasonable and arbitrary and capricious. The decision is supported by cases such as Rhoton v. Central States, Southeast & Southwest, 717 F.2d 989-991 (1983), which held that statements in a
+
+citations: ['906 F.2d 903', '851 F.2d 134', '758 F.2d 1566']
+
+gold_text: ERISA’s disclosure and reporting requirements mandate that the administrator of an employee benefit plan supply each participant covered under the plan with a summary plan description, along with all modifications and changes, which must also be filed with the Secretary of Labor. 29 U.S.C. §§ 1021(a), 1021(b). According to the statute, the summary plan description is required to contain certain information listed in § 1022(b), “shall be written in a manner calculated to be understood by the average plan participant, and shall be sufficiently accurate and comprehensive to reasonably apprise such participants and beneficiaries of their rights and obligations under the plan.” 29 U.S.C. § 1022(a)(1). Courts have frequently held that, when there is a discrepancy between a “plan summary” as defined in § 1022, and other documents which purport to define the rights and obligations of plan participant but which were neither filed with the Secretary nor disclosed to participants in accordance with § 1021, the summary plan description controls. See Heidgerd v. Olin Corp., 906 F.2d 903, 906-9 (2nd Cir.1990); Edwards v. State Farm Mutual Automobile Ins. Co., 851 F.2d 134, 135-37 (6th Cir.1988); McKnight v. Southern Life and Health Ins. Co., 758 F.2d 1566, 1570 (11th Cir.1985).
+
+label: 

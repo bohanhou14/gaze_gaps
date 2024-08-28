@@ -1,0 +1,13 @@
+**Generation:**
+
+Wheeler's void-for-vagueness challenge to the guideline term "cocaine base" is unpersuasive. The Supreme Court has emphasized that for a statute to be declared unconstitutionally vague, it must be impermissibly vague in all its applications and provide no standard of conduct at all (Village of Hoffman Estates v. Flipside, Hoffman Estates, Inc., 455 U.S. 489, 495). In United States v. Jackson, 968 F.2d 158, 163 (2d Cir.1992), it was clarified that differing judicial definitions do not automatically render a term void for vagueness. 
+
+Similarly, the Eighth Circuit has rejected vagueness challenges to 21 U.S.C. § 841(b) stating that the term "cocaine base" sufficiently limits governmental discretion and provides adequate notice (United States v. House, 939 F.2d 659). Furthermore, in Poster ‘n’ Things, Ltd. v. United States, 969 F.2d 652, the court affirmed that the standard for evaluating vagueness is neither the strictest nor the most lenient when constitutional protections are not directly inhibited.
+
+In this case, the testimony by chemist Gene Bangs provided a clear distinction between cocaine base and cocaine, satisfying the requirement for a comprehensible normative standard. Thus, section 2D1.1 is not void for vagueness as it offers sufficient specification of prohibited conduct. The district court's interpretation aligns with the precedent set by the aforementioned cases, affirming that descriptions such as "crack" or forms of cocaine that can be smoked fall under "cocaine base" (Shaw, 936 F.2d at 415). Therefore, the judgment of the district court is affirmed.
+
+citations: ['455 U.S. 489', '969 F.2d 652']
+
+gold_text: . We are aware that this court has recently rejected a facial vagueness challenge to a criminal statute. Relying on Village of Hoffman Estates v. Flipside, 455 U.S. 489, 102 S.Ct. 1186, 71 L.Ed.2d 362 (1982), in United States v. Posters ‘N’ Things Ltd, 969 F.2d 652 (8th Cir.1992), this court held that 21 U.S.C. § 857, which prohibits the sale of drug paraphernalia, is not unconstitutionally vague on its face or as applied. In Village of Hoffman Estates the Supreme Court rejected a facial vagueness challenge to a city ordinance that regulated drug paraphernalia, because the ordinance was "sufficiently clear as applied.” 455 U.S. at 500, 102 S.Ct. at 1194. We note that in Village of Hoffman Estates, the Supreme Court stated that "[a] plaintiff who engages in some conduct that is clearly proscribed cannot complain of the vagueness of the law as applied to the conduct of others.” Id. at 495, 102 S.Ct. at 1191.
+
+label: 

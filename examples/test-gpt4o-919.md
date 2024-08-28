@@ -1,0 +1,13 @@
+**Generation:**
+
+The affidavits detail that Martin A. Schwartz, with 52 hours of work, is entitled to $3,900. William A. Glaberson's 1-hour contribution is valued at $45, while Renee H. Reixach’s 1 hour amounts to $60. This makes the total attorneys' fees award $4,005. However, deductions are applied due to limited in-court time, resulting in a final award of $3,951.92.
+
+Similar cases affirm the appropriateness of fee awards even when concluded via settlement, as evidenced in 495 F.2d 448, which emphasizes the principle that the basis for fee awards should reflect actual labor rendered, irrespective of the contingency nature of the case. Additionally, the precedent set in 488 F.2d 714 clarifies that settlements achieving substantial relief for the plaintiff justify attorneys' fees under the Fees Act, further supported by cases such as Gagne v. Maher, 448 U.S. at 129.
+
+In conclusion, the plaintiff’s attorneys are awarded $3,951.92 in fees, affirming their entitlement under relevant statutes and precedents.
+
+citations: ['495 F.2d 448', '488 F.2d 714']
+
+gold_text: Schwartz claims compensation for 30.75 hours of work on the case and the attorneys’ fees issue. Glaberson claims compensation for 66.25 hours and Reixach claims 3 hours. The Second Circuit has instructed district courts passing on fee applications to scrutinize them with an “eye to moderation.” City of Detroit v. Grinnell Corp., 495 F.2d 448, 470 (2d Cir. 1974) With this admonishment in mind, I exclude from the total compensable hours 7.5 of the 15 hours worked by Schwartz on the attorneys’ fees issue, .5 of the hour Schwartz claims for reviewing a four-page discovery request and 10 of the 66.1 hours Glaberson worked on the case because the time claimed for these activities is unreasonably high. Most attorneys would not have spent so many hours on these issues. See Gagne v. Maher, 455 F.Supp. 1344, 1349 (2d Cir. 1978). I also subtract the 5.3 hours Glaberson spent de livering and filing papers, a task which could have been accomplished by a non-lawyer at a much lower rate. See Johnson v. Georgia Highway, 488 F.2d 714 (5th Cir. 1974). I further disallow 2.5 of the 5 hours Schwartz spent researching the complaint because it was duplicative of work performed by Glaberson. Id. at 717. Finally, due to Ms. Reixach’s failure to keep current and accurate time records despite repeated admonitions by the Second Circuit on the import of doing so, I must exclude IV2 of the 3 hours claimed by Ms. Reixach.
+
+label: 

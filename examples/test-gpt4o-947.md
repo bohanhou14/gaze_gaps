@@ -1,0 +1,13 @@
+**Generation:**
+
+In considering the appropriateness of a cy pres distribution, the Court recognizes the necessity to align the unclaimed funds with purposes as close as possible to the interests of the class members and the objectives underlying the lawsuit. Under the cy pres doctrine, funds should serve the original intent to benefit the class where direct distribution is impracticable. See Damage Distribution in Class Actions: The Cy Pres Remedy, 39 U. Chi. L. Rev. 448, 452 (1972) (citing the requirement for closely aligned alternative recipients).
+
+In Powell v. Georgia-Pacific Corporation, 119 F.3d 703 (8th Cir.1997), the cy pres distribution was directed towards scholarships benefiting African American students in areas where class members resided, closely aligning with the lawsuit’s intent (307 F.3d 679). Similarly, in Bebchick v. Public Utils. Comm’n, 318 F.2d 187, 204 (D.C.Cir.1963), fluid recovery through price reduction effectively remedied overcharges benefiting the same class of consumers. 
+
+Thus, the Court finds merit in Class Plaintiff’s proposal for a cy pres distribution to the Endowment Fund at The George Washington University Law School, intended to support initiatives related to antitrust enforcement and consumer protection. However, additional briefing is required to establish the direct benefit to non-claiming class members from this Endowment Fund. Therefore, while the Court grants the Class Plaintiff's Motion in part, it holds in abeyance the decision regarding the cy pres recipient until further submissions justify the alignment with the class interests and the lawsuit’s objectives as prescribed in precedent cases (84 F.3d 451, 307 F.3d 679).
+
+citations: ['84 F.3d 451', '307 F.3d 679']
+
+gold_text: Although it has not explicitly endorsed the practice, the D.C. Circuit has recognized that “[i]n class actions, some courts have applied the equitable doctrine of cy pres to undistributed damage or settlement funds.” Dem. Cent. Comm. of the Dist. of Columbia v. Washington Metro. Area Transit Comm’n, 84 F.3d 451, 455 (D.C.Cir.1996). The cy pres doctrine allows unclaimed settlement funds to be distributed to the “next best” use, that is, for the indirect benefit of the class and the non-claiming class members, when plaintiffs cannot be compensated individually. Id.; see also Newberg § 11. 20. Class Plaintiff correctly notes that courts have utilized the cy pres doctrine in distributing unclaimed settlement funds from antitrust actions. See e.g., Motorsports Merch., 160 F.Supp.2d at 1395; Schwartz v. Dallas Cowboys Football Club, Ltd., 362 F.Supp.2d 574, 577 (E.D.Pa.2005); In re Airline Ticket Comm’n Antitrust Litig., 307 F.3d 679, 682-84 (8th Cir.2002).
+
+label: 

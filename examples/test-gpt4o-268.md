@@ -1,0 +1,13 @@
+**Generation:**
+
+The Wolfes’ argument hinges on the assertion that previous stipulations regarding the copyright were misleading and that issue preclusion (collateral estoppel) should not apply because the copyright validity was established via stipulation rather than judicial resolution. In the context of collateral estoppel, as elucidated in **418 F.3d 138**, a stipulation made in a prior proceeding does not preclude the actual litigation of an issue in a subsequent case, especially if the stipulation was expressly limited subject to further litigation. Moreover, the doctrine of judicial estoppel, cited from **New Hampshire v. Maine, 532 U.S.** within **418 F.3d 138**, supports this by precluding a party from assuming a contrary position solely because it is beneficial in a new legal context.
+
+Additionally, the court finds the relevance of the confidentiality of settlements in **NMC II** pertinent under Young v. State Farm, as cited in **804 F.2d 116**. The Wolfes assert that the settlement details are critical for establishing the state of mind and motives of Fresenius regarding the malicious prosecution claim. This aligns with judicial reasoning in **309 F.3d 1263**, where discovery was allowed due to its potential to lead to admissible evidence. 
+
+Thus, evidence and discovery relating to the validity of the copyright and the settlement in **NMC II** are not barred by res judicata or collateral estoppel and are relevant for establishing Fresenius's intent and conduct in the malicious prosecution claim.
+
+citations: ['418 F.3d 138', '309 F.3d 1263', '804 F.2d 116']
+
+gold_text: The Wolfes argue, relying on Uzdavines v. Weeks Marine, Inc., 418 F.3d 138, 146 (2d Cir.2005), that the issues of the validity of Fresenius’s copyright and Gokcen’s infringement thereof were not actually litigated in light of the stipulation between Gokcen and Fresenius in which Gokcen stipulated that he copied portions of the standard details. In Uzdavines, the United States Court of Appeals for the Second Circuit acknowledged that “[m]ost courts have held that a fact established in prior litigation by stipulation, rather than by judicial resolution, has not been ‘actually litigated.’ ” Id. (citing United States v. Botefuhr, 309 F.3d 1263, 1282-83 (10th Cir.2002); United States v. Young, 804 F.2d 116, 118 (8th Cir.1986); 18 James Wm. Moore et al., Moore’s Federal Practice § 132.03[2][h][i] (3d ed.2005)). In Uzdavines, the court found, however, that where the parties intended a stipulation to be binding in future litigation, issues to which the parties have stipulated will be considered “actually litigated” for the purpose of collateral estoppel. Id. at 146-47.
+
+label: 

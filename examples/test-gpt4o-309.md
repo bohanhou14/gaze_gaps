@@ -1,0 +1,15 @@
+**Generation:**
+
+The standard for evaluating the voluntariness of a confession, as articulated in Culombe v. Connecticut, 367 U.S. 568 (1961), involves assessing whether the individual's will was overborne in light of the totality of the circumstances (Reference case 412 U.S. 218). Factors such as the length of detention, the nature of the interrogation, and the individual's characteristics are examined to determine if a confession was made freely or was coerced (Reference case 412 U.S. 218).
+
+In this case, the FBI agents' statements to Mizyed—indicating that talking would be better and otherwise he would be taken in—do not, as a matter of law, constitute coercion that would render the confession involuntary. These comments are within the permissible bounds of police conduct, as established in United States v. Rutledge, 900 F.2d 1127 (7th Cir. 1990). Here, the Court found that such statements do not necessarily overbear an individual’s will to the point of making a rational decision impossible (Reference case 900 F.2d 1064).
+
+Furthermore, to the extent that Mizyed argues the insufficiency of the evidence, the accumulated testimony and corroborative evidence presented at trial, including eyewitness and forensic testimony, collectively support the jury’s verdict beyond a reasonable doubt, analogous to the compelling evidence present in U.S. v. Bell (Reference case 900 F.2d 1064).
+
+Thus, considering the totality of circumstances and the established legal precedents, Mizyed's arguments for suppressing his confession and the claimed insufficiency of the indictment are unpersuasive. The district court's judgments are therefore affirmed (Reference case 898 F.2d 1218).
+
+citations: ['412 U.S. 218', '898 F.2d 1218', '900 F.2d 1064']
+
+gold_text: Viewing the “totality of all the surrounding circumstances,” Schneckloth v. Bustamonte, 412 U.S. 218, 226, 93 S.Ct. 2041, 2047, 36 L.Ed.2d 854 (1973),' nothing alleged by Mizyed indicates that his will was overborne or that “rational decision [was] impossible.” As Mizyed recognizes on appeal, he was not in custody. There is nothing in the alleged statement that could improperly induce a confession. The agent’s statement might have meant no more than that it would be more convenient for Mizyed to talk at home than at the station. If he had declined to talk, and if the FBI agents had taken him into custody, he would have received Miranda warnings and the opportunity to request appointed counsel. Even if the statement was considered a promise to make Mizyed’s cooperation known to the prosecutor, the confession was not unconstitutionally induced. United States v. Pace, 898 F.2d 1218, 1246 (7th Cir.1990). Because there was no “significant, disputed factual issue,” the district court was not required to hold an evidentiary hearing; the question of whether the agent actually made the statement was not significant. United States v. Sophie, 900 F.2d 1064, 1071 (7th Cir.1990). The district court properly denied the motion to suppress.
+
+label: 

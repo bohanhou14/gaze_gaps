@@ -1,0 +1,18 @@
+**Generation:**
+
+ <answer>
+The legal cases provided are reference cases 557 F.2d 1168 and 268 F.2d 391. Both cases deal with legal issues and court decisions.
+
+In reference case 557 F.2d 1168, the court discusses the concept of contributory negligence and its application in a maritime law case. The court states that it is rare for an appellate court to interfere with a jury verdict dealing with contributory negligence. In this case, the appellants argued that they were entitled to a verdict and judgment of indemnification against the stevedoring company, claiming that the only acts or conditions that could bring about the shipowner's liability to Wiley were acts performed by Wiley himself, which are chargeable to Stevens, the stevedore. The court found that the difficulty with this proposition is that it is impossible to discern from the record the basis on which the jury made a finding of unseaworthiness and a finding of negligence on the part of the ship.
+
+In reference case 268 F.2d 391, the court discusses the issue of circumstantial evidence and its sufficiency in a personal injury case. The court states that the burden on the plaintiff in a circumstantial evidence case is heavier than in a direct evidence case. The court also discusses the rule established in the federal courts regarding the sufficiency of the verdict, citing several cases, including Johnson v. Warrior & Gulf Navigation Co., 431 F.2d 1229 (5th Cir. 1970).
+
+In the context of the legal cases provided, it is clear that both cases deal with legal issues and court decisions. The cases demonstrate the importance of careful analysis and consideration of the evidence presented in a court case, as well as the need for courts to apply the law correctly and fairly.
+
+In conclusion, the legal cases provided offer valuable insights into the legal issues and court decisions related to maritime law and personal injury law. The cases demonstrate the complexity of legal issues and the importance of careful analysis and consideration of the evidence presented in a court case. <answer>
+
+citations: ['557 F.2d 1168', '268 F.2d 391']
+
+gold_text: Appellants’ remaining arguments are of little merit. There is no vagueness in an instruction requiring the jury to determine the damage caused by the defendants’ acts. We have reviewed the record and find that the evidence was sufficient to support the jury verdict. Appellants argue, without citation of authority, that the district judge committed reversible error by refusing to instruct the jury that the mother must prove that a conspiracy existed prior to the date the complaint was filed and that the jury could not consider evidence of acts occurring after that date unless they first determined that a conspiracy existed prior to the date the complaint was filed. We are not aware of any such rule of law. The requested instruction is confusing at best. Texas courts allow great latitude in proving the conspiracy. Every circumstance that tends to illuminate the facts is a legitimate item of evidence. E. g., Foster v. Wagner, 337 S.W.2d 485, 493 (Tex.Civ.App.1960), rev’d on other grounds, 161 Tex. 333, 341 S.W.2d 887; Allison v. Simmons, 306 S.W.2d 206, 211 (Tex.Civ.App.1957). There was no error in denying the requested instruction. Finally, the exemplary damage awards were not excessive as a matter of law because they are not “so large as to show ‘passion or prejudice’ or so large as to ‘shock the conscience’.” Wiley v. Stensaker Schiffahrtsqes, 557 F.2d 1168, 1171 (5th Cir. 1977), cert. denied, 434 U.S. 1087, 98 S.Ct. 1282, 55 L.Ed.2d 792, quoting Fruit Industries, Inc. v. Petty, 268 F.2d 391 (5th Cir. 1959), cert. denied, 361 U.S. 915, 80 S.Ct. 261, 4 L.Ed.2d 186.
+
+label: 

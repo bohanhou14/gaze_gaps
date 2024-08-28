@@ -1,0 +1,19 @@
+**Generation:**
+
+ <answer>
+
+In the case of United States v. Demma, 576 F.2d 1250, the court ruled that a defendant's right to testify in their own defense is derived from the compulsory process clause of the Sixth Amendment. This right is also supported by the due process clause of the Fifth Amendment, which guarantees a fair adversary process.
+
+In the case of United States v. Bifield, 476 F.2d 324, the court held that a defendant's right to testify in their own defense is a constitutional right. This right is essential to due process and is protected by the Fifth and Sixth Amendments.
+
+In the case of United States v. Corr, 543 F.2d 1042, the court emphasized that a defendant's right to present a full defense is a fundamental element of due process, and that rejection of testimony by the trial court does not necessarily mean that the defendant has been deprived of due process.
+
+In the context of the case at hand, the district court denied Bifield's request to testify regarding his duress defense, ruling that the evidence was insufficient as a matter of law. However, this ruling did not deny Bifield the opportunity to testify on other matters. Therefore, the district court's ruling did not violate Bifield's constitutional or statutory right to testify in his own defense.
+
+In conclusion, the right of a defendant to testify in their own defense is a constitutional and statutory right that is essential to due process. The court's decision to deny Bifield's request to testify regarding his duress defense did not violate his right to testify in his own defense, as he was still able to testify on other matters. <answer>
+
+citations: ['543 F.2d 1042', '476 F.2d 324', '576 F.2d 1250']
+
+gold_text: We next consider whether the district court’s ruling on the duress defense effectively curtailed defendant’s right to testify in any meaningful way. A defendant’s right to present a full defense, including the right to testify on his own behalf, is not without limits. In responding to the charges against him, an accused must comply with the established rules of procedure and evidence, as must the prosecution, in order to insure a fair trial. See United States v. Corr, 543 F.2d 1042, 1051 (2d Cir. 1976). A criminal defendant’s right to present a full defense and to receive a fair trial does not entitle him to place before the jury evidence normally inadmissible. See id. at 1051-52 (duplicative evidence may be excluded in court’s discretion); United States v. DeStefano, 476 F.2d 324, 330 (7th Cir.1973) (court violates accused person’s constitutional right to present full defense when it denies him right to call an available witness, but no violation occurs unless witness denied to defendant could have produced relevant and material testimony); see also Hughes v. Matthews, 576 F.2d 1250, 1258 (7th Cir.) (“the right of a defendant to present relevant and competent evidence is not absolute and may ‘bow to accommodate other legitimate interests in the criminal trial process’ ”), cert. denied, 439 U.S. 801, 99 S.Ct. 43, 58 L.Ed.2d 94 (1978). Once the trial court had determined that the tendered defense failed, evidence going to that defense was irrelevant since it was of no “consequence to the determination of the action.” Fed.R.Evid. 401. Thus, the testimony regarding duress which appellant sought to present was properly excluded under Fed.R.Evid. 402. As the Supreme Court said in Bailey, juries should not be burdened with testimony as to duress where that defense has already been determined to have failed as a matter of law. 444 U.S. at 416-417, 100 S.Ct. at 637-638. The district court’s ruling that evidence legally inadmissible was not to be presented to the jury did not therefore deprive appellant of his constitutional right to testify as to other matters which could properly be received.
+
+label: 

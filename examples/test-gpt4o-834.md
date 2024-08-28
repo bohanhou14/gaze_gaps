@@ -1,0 +1,9 @@
+**Generation:**
+
+The judiciary must exercise great respect and restraint when reviewing academic decisions, especially when such decisions are thoroughly deliberated by a faculty as seen in the Ewing case (Reference case 474 U.S. 214). UConn's requirement for Powell to pass Step I before advancing reflects a professional, academic judgment akin to decisions upheld in similar contexts where institutions were found to have acted within their rights after thorough assessments, even when accommodations seemed unavailable or unreasonable (Reference case 976 F.2d 791). Given the extensive support provided to Powell by UConn, including multiple chances to remediate her failed courses and substantial tutoring, the record does not support a finding that UConn's refusal to promote her without passing Step I was arbitrary or capricious. As such, the institution's actions align with the judicial deference owed to academic decision-making processes.
+
+citations: ['474 U.S. 214', '976 F.2d 791']
+
+gold_text: When reviewing the substance of a genuinely academic decision, courts should accord the faculty’s professional judgment great deference. See Regents of Univ. of Michigan v. Ewing, 474 U.S. 214, 225, 106 S.Ct. 507, 88 L.Ed.2d 523 (1985). A sister circuit facing a similar issue observed that the medical school had diligently assessed the available options and then made an academic judgment that a reasonable accommodation was not available and, that to accommodate the student would work a change in the substance of its medical program, and impose an undue hardship on its academic program. Wynne v. Tufts Univ. Sch. of Med., 976 F.2d 791, 795 (1st Cir.1992). In the pending case, after diligent review, UConn made a similar rational decision.
+
+label: 

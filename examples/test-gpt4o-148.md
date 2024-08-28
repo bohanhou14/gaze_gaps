@@ -1,0 +1,13 @@
+**Generation:**
+
+The appellee's contention centers on the point that the transfer of the stock to the bankrupt was void ab initio based on the Illinois statutes that prevent corporations from holding real estate. This argument finds support in established precedents, such as North Ave. Building Ass’n v. Huber, 270 Ill. 81, and National Home Building & Loan Ass’n v. Home Savings Bank, 181 Ill. 35, which strictly enforce the policy of voiding contracts that contravene state statutes against corporate real estate holdings.
+
+Contrariwise, the appellant argues this transfer, although potentially ultra vires, was not void but merely voidable and could be contested solely by the state. This argument draws on National Bank v. Matthews, 98 U.S. 621 (25 L. Ed. 188), which held that statutory restrictions on bank activities, relating to real estate transactions, were designed to benefit state interests, not to void private contracts. Additionally, in National Bank v. Whitney, 103 U.S. 99 (26 L. Ed. 443), the Supreme Court ruled that such transfers, even if not explicitly permitted by the statutes, do not automatically lead to contract voidance but are subject to equitable considerations focusing on the intent and good faith of the parties involved.
+
+Thus, the ultimate determination hinges on whether Illinois' rigorous statutory framework, which prioritizes the prohibition of corporate real estate holdings, overrides the equitable principles recognized in federal precedents. Given Illinois's strict policy, the argument for voiding the transactions appears strengthened, although equitable considerations from federal law provide a compelling counter-narrative.
+
+citations: ['25 L. Ed. 188', '26 L. Ed. 443']
+
+gold_text: Whether the Supreme Court of Illi nois will hold contracts made in violation of section 8 to be absolutely void or merely nonenforeeable, or adopt the rule finally accepted and announced in the two cases heretofore cited (National Bank v. Matthews, 98 U. S. 621, 25 L. Ed. 188; National Bank v. Whitney, 103 U. S. 99, 26 L. Ed. 443), we need not conjecture, for an examination of the record justifies the conclusion that lessee had dissolved in fact, at least in equity, prior to Hool’s transfer of his interest in the property (and in the so-called corporation) to the lessee. It is true lessee had not proceeded in the manner permitted it under the Illinois statutes to dissolve, but corporations may dissolve in numerous ways. Lessee had ceased to function. It held no corporate meetings. It was without officers and without directors. There were no stockholders available to serve as directors or officers.
+
+label: 

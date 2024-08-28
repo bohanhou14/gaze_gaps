@@ -1,0 +1,13 @@
+**Generation:**
+
+In evaluating the bankruptcy court's decision, the key dispute centers on the timing and criteria used for assessing avoidable preferences under § 547(b). This case is particularly important because it presents a matter of first impression regarding the date used to test avoidability of preferential payments. The government's position, as supported by the ruling in reference case 801 F.2d 819, suggests that the appropriate timing is the date of the bankruptcy petition filing. Contrarily, Tenna’s trustee argues that the hearing date on the adversary proceeding is more relevant as it includes all debts accrued post-petition.
+
+Furthermore, the trustee's principle aligns with the decision in 590 F.2d 470, where a significant change in legal standards justified reopening a case even after initial rulings. In this instance, reevaluating the balance available at different dates could shift priority positions of creditors, thus meeting the standards used in Tenna’s trustee's argument.
+
+Given these precedents, the district court's ruling, confirming the bankruptcy court's decisions on the avoidance of pre-petition payments, post-petition unauthorized payments, and authorized plan payments, demonstrates that both courts applied principles consistent with established case law. Specifically, it validated the application of § 547(b) by taking into account the totality of debts accrued, both pre- and post-petition, as highlighted in 801 F.2d 819.
+
+citations: ['801 F.2d 819', '801 F.2d 819', '590 F.2d 470']
+
+gold_text: The bankruptcy court also found that this court had clarified the § 547(b)(5) requirement in In re Tenna Corp., 801 F.2d 819 (6th Cir.1986), decided after trial but before the bankruptcy court’s ruling. A change in legal standards is a proper ground for reopening proof. Skehan v. Board of Trustees of Bloomsburg State College, 590 F.2d 470, 479 (3rd Cir.1978). We do not believe it was necessary to rely on In re Tenna in order to reopen the evidence in this case. Our decision in that case merely clarified the time at which the “more than” determination is to be made; the requirement that such a determination must be made was not an issue. Neverthe less, reopening for the purpose of making a more complete record was not an abuse of discretion. We also agree with the district court’s conclusion that the bank was not prejudiced by the reopening.
+
+label: 

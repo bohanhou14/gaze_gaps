@@ -1,0 +1,13 @@
+**Generation:**
+
+In determining whether to exercise jurisdiction under the Declaratory Judgment Act, this Court must consider if the declaratory claims are independent of other claims in the lawsuit. In Snodgrass v. Provident Life and Acc. Ins. Co., 147 F.3d 1163, 1167 (9th Cir.1998), the Ninth Circuit asserted that the presence of independent claims, such as those for monetary relief, necessitate that the district court retains jurisdiction. The district court erred in declining jurisdiction on the grounds that all claims were related to the declaratory relief, contravening the correct standard of evaluating whether claims could stand independently if the request for a declaration was removed.
+
+Similarly, in the current case, Wells Cargo's claims for breach of contract and indemnification are independent of its declaratory judgment claim. As such, under the principles outlined in Government Employees Ins. Co. v. Dizol, 133 F.3d 1220, 1225 (9th Cir.1998), remanding or declining to entertain the declaratory relief claim would be improper.
+
+Furthermore, as indicated in case law such as Maryland Cas. Co. v. Knight, 96 F.3d 1284, 1289 (9th Cir.1996), the Court must identify if monetary claims provide a sufficient legal footing for maintaining the jurisdiction, which in this case, they do. Thus, the Court concludes that it will retain jurisdiction over the declaratory judgment claim and proceed with the case in its entirety.
+
+citations: ['242 F.3d 1102', '147 F.3d 1163']
+
+gold_text: Typically, the Ninth Circuit has “applied the principle that ‘when other claims are joined with an action for declaratory relief (e.g., bad faith, breach of contract, breach of fiduciary duty, rescission, or claims for other monetary relief), the district court should not, as a general rule, remand or decline to entertain the claim for declaratory relief.’ ” United Nat. Ins. Co. v. R & D Latex Gorp., 242 F.3d 1102, 1112 (9th Cir.2001) (quoting Dizol, 133 F.3d at 1225). To determine whether jurisdiction over actions with both declaratory and monetary claims remains discretionary, the Ninth Circuit instructs courts to “determine whether there are claims in the case that exist independent of any request for purely declaratory relief, that is, claims that would continue to exist if the request for a declaration simply dropped from the case.” Id. (quoting Snodgrass v. Provident Life and Acc. Ins. Co., 147 F.3d 1163, 1167-68 (9th Cir.1998) (per curiam)). Thus, the question is whether the court “has subject matter jurisdiction over the monetary claim alone, and if so, whether that claim must be joined with one for declaratory relief.” Id.
+
+label: 

@@ -1,0 +1,9 @@
+**Generation:**
+
+In corroborating assertions of persecution, the BIA requires a three-part inquiry: identifying the facts for which corroboration is reasonable, determining if the applicant provided such evidence, and analyzing explanations for any failure to do so (239 F.3d 542). Here, the IJ noted that Mbube failed to provide sufficient corroborating evidence for his claims of persecution and torture, paralleling the failure seen in Obale’s case where the lack of corroboration from siblings undermined credibility (453 F.3d 151). Specifically, without adequate corroboration, such as declarations from SCNC officials or consistent medical records, Mbube’s claim was significantly weakened, directly supporting the IJ's findings. The BIA's adherence to this standard, combined with the substantial evidence of inconsistency, justified denying Mbube’s asylum claim. Thus, we find no basis to overturn the BIA's decision.
+
+citations: ['453 F.3d 151', '239 F.3d 542']
+
+gold_text: Mbube argues that the IJ erred in requiring evidence corroborating that Mbube was a member of the SCNC who suffered persecution in Cameroon. We find no error in the IJ’s request for corroboration. The BIA has adopted rules which require corroboration in instances where it is reasonable to expect such proof from a witness and there is no satisfactory explanation for its absence. Obale v. Attorney General, 453 F.3d 151, 163 (3d Cir.2006). These rules, which we approved in Abdulai v. Ashcroft, 239 F.3d 542 (3d Cir.2001), involve a three step analysis: (1) an identification of facts for which it is reasonable to expect corroboration; (2) the presence or absence of such corroboration in the record; and (3) the adequacy of applicant’s explanation for its absence. The third prong presumes that the IJ offers a petitioner an opportunity to explain the absence. Obale, 453 F.3d at 163.
+
+label: 

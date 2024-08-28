@@ -1,0 +1,16 @@
+**Generation:**
+
+
+The reference cases of 322 F.2d 523 and 231 F.2d 699 provide valuable insights into the concept of materiality in the context of false statements. In the case of 322 F.2d 523, the court holds that the question of materiality is a question of law, and not a question of fact for the jury. This ruling is supported by the weight of authority, as evident in cases such as Sinclair v. United States, 279 U.S. 263, 298, 49 S.Ct. 268, 73 L.Ed. 692; Weinstock v. United States, 97 U.S.App.D.C. 365, 231 F.2d 699, 701; and United States v. Clancy (7 Cir.), 276 F.2d 617, 635.
+
+In the context of the present case, it is evident that the false statement made by the appellant had a natural tendency to influence, or was capable of influencing, the decision of the tribunal in making a determination required to be made. The statement was made in the course of an administrative hearing, where the appellant was attempting to affect the course of government action. The court has previously held that false statements made in this context are within the class of statements proscribed by 18 U.S.C. § 1001.
+
+Furthermore, the case of 231 F.2d 699 highlights the importance of considering the context in which the false statement was made. In this case, the court noted that the color of an accused's hair may be totally immaterial in one case, but in other circumstances, it may be not only material but decisively so. Similarly, in the present case, the false statement made by the appellant was not material in isolation, but its presence in the context of the administrative hearing made it a material fact.
+
+In conclusion, based on the analysis of the reference cases and the facts of the present case, it is clear that the false statement made by the appellant was material and falls within the scope of 18 U.S.C. § 1001. The court's ruling is consistent with the weight of authority and the principles of materiality as outlined in the reference cases.
+
+citations: ['322 F.2d 523', '231 F.2d 699']
+
+gold_text: Virtually without exception, materiality has been held to be a matter of law. See, e. g., United States v. Ivey, 322 F.2d 523 (4th Cir. 1963), cert. denied, 375 U.S. 953, 84 S.Ct. 444, 11 L.Ed.2d 313 (1963); Weinstock v. United States, 97 U.S.App.D.C. 365, 231 F.2d 699 (D.C.Cir. 1956). Nevertheless, in the case before us, the judge charged the jury as to the standard for materiality and repeatedly referred to materiality as a jury question. But the judge excluded examination of Donald R. Holley on the question of whether a regional director can consider unsworn testimony in making his decision. The judge also indicated his intention to charge the jury that statements made by a person who appears before a hearing officer of the NLRB need not be sworn in order to be considered by the regional director. Since Krause’s statement cannot be material unless it was — or could have been — considered, the judge effectively decided the question of materiality as a matter of law. Appellant now asks us to remand this case in order to enable him to argue to the jury that Krause’s statement was not and could not have been considered by the regional director and therefore was not material. We decline to do so.
+
+label: 

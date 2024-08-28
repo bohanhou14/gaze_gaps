@@ -1,0 +1,15 @@
+**Generation:**
+
+Considering question No. 1: The petitioner Johannes Rasmussen committed embezzlement, a crime involving moral turpitude, before his re-entry into the United States on July 28, 1944. Hence, the commission of these crimes falls under the "prior to entry" clause.
+
+United States Supreme Court in 289 U.S. 422; 77 L. Ed. 1298 clarified that the term "entry" includes any entry, not just the original one. Accordingly, any crime committed before any re-entry qualifies under the "prior to entry" clause. The Court in Lewis v. Frick, 233 U.S. 291, and United States ex rel. Claussen v. Day, 279 U.S. 398, definitively interpreted "entry" to encompass any coming from a foreign country into the United States.
+
+Regarding question No. 2: The issue whether the "prior to entry" class is excluded from the recommendation clause of the statute is addressed in United States ex rel. Santarelli v. Hughes, 116 F.2d 613, which held that the phrase "prior to entry" applies to the commission of the crime. Therefore, statutory language indicates that the "prior to entry" class is excluded from the operation of the recommendation clause, supported by the reasoning in United States ex rel. Volpe v. Smith (289 U.S. 422).
+
+Thus, the crimes committed by Rasmussen before his re-entry on July 28, 1944, classify him under the "prior to entry" category, and he is excluded from the recommendation clause of the statute.
+
+citations: ['289 U.S. 422', '77 L. Ed. 1298']
+
+gold_text: It has been strongly argued that this second question was not present in the Volpe case supra decided by the Supreme Court in 289 U.S. 422, 53 S.Ct. 665, 77 L. Ed. 1298, and that the decision of this question by the Third Circuit Court of Appeals is against the weight of authority and should be reconsidered in the light of this case, and that this small class of rare “pri- or to entry” cases were intended to be among the other cases where the crime was tried in a court of the United States and the judge thereof had all the opportunity to determine the merits thereof, as is true in the “after entry” cases. However, whatever merit there may be in this argument, this Court certainly does not feel that a district court is in a position to reconsider a decision of the Circuit Court of its Circuit. The Circuit Court itself may do so in the absence of a Supreme Court decision. The decision of the Circuit Court is binding upon the District Courts in that circuit until and unless reversed by that Circuit Court or by the United States Supreme Court. This. particular point of applicability of the recommendation clause to “prior to entry” cases, tried by courts in this country, has not been decided by the United States Supreme Court and, therefore, the rule of this Circuit governs until the Supreme Court passes upon it.
+
+label: 

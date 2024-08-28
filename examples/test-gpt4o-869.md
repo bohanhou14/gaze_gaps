@@ -1,0 +1,15 @@
+**Generation:**
+
+Continuing the discussion on the feasibility of the Plan under § 1129(a)(11), the Court must scrutinize whether the Plan offers a reasonable assurance of success without necessitating further liquidation or reorganization. According to precedents set forth in Kane and Prudential, the feasibility requirement demands that the Plan is not likely to be followed by liquidation. In re Monnier Bros., 755 F.2d 1336, 1341 (8th Cir. 1985), elaborates that success need not be guaranteed; it must only appear reasonably assured. 
+
+In the present case, CPC challenges the Debtor’s income projections and associated expenses, suggesting potential future insolvency. Similar to Kane, where the Bankruptcy Judge found the Debtor’s projections credible, this Court must evaluate the accuracy and reliability of Debtor’s updated financial statements and rental income projections. Kane, 843 F.2d 636, highlights that no evidence was submitted to counter the debtor’s projections, thus establishing a precedent for evaluating reasonable projections.
+
+Given that the Debtor has provided new financial projections and justifications, including additional income streams such as the pizzeria rental and coin-operated washers and dryers, the Court must determine if these are credible and reliable foundations for feasible plan projections, akin to the thorough examination required in Prudential Insurance Co. v. Monnier (In re Monnier Bros.), 755 F.2d 1336.
+
+Therefore, the Court finds that without further contradictory evidence, Debtor’s projections could satisfy the feasibility requirements as previously endorsed in relevant case law (843 F.2d 636, 843 F.2d 636, 755 F.2d 1336, 755 F.2d 1336). However, the Court encourages detailed scrutiny of Debtor’s updated financials to ensure comprehensive feasibility of the Plan.
+
+citations: ['843 F.2d 636', '843 F.2d 636', '755 F.2d 1336', '755 F.2d 1336']
+
+gold_text: Section 1129(a)(ll) requires that the plan is not likely to be followed by liquidation or the need for further financial reorganization. 11 U.S.C. § 1129(a)(11). The standard for whether a plan is feasible is “whether the plan offers a reasonable assurance of success. Success need not be guaranteed.” Kane v. Johns-Manville Corp. (In re Johns-Manville Corp.), 843 F.2d 636, 649 (2d Cir.1988). In making this determination, a “bankruptcy court has an obligation to scrutinize the plan carefully to determine whether it offers a reasonable prospect of success and is workable.” Monnier Bros. v. Monnier (In re Monnier Bros.), 755 F.2d 1336, 1341 (8th Cir.1985). Courts have considered the following factors to make such a determination: (1) the adequacy of the debtor’s capital structure; (2) the earning power of its business; (3) economic conditions; (4) the ability of the debtor’s management; (5) the probability of the continuation of the same management; and (6) any other related matters which determine the prospects of a sufficiently successful operation to enable performance of the provisions of the plan. Collier on Bankruptcy ¶ 7-1129[11].
+
+label: 

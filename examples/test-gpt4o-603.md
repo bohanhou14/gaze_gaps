@@ -1,0 +1,11 @@
+**Generation:**
+
+Saudi Aramco's argument aligns with precedent, and various cases support their position. In Martin v. Republic of South Africa, 836 F.2d 91, the court explained that personal injuries occurring overseas, suffered by American citizens, do not satisfy the "direct effect" requirement in the United States merely because the injured party returns home and incurs expenses. Similarly, in the Zedan v. Kingdom of Saudi Arabia case, 26 F.3d 1166, the court rejected the notion that financial and marital difficulties experienced in the United States due to an overseas incident formed a "direct effect" under the FSIA.
+
+Furthermore, the Supreme Court's decision in Republic of Argentina v. Amerada Hess Shipping Corp., 513 U.S. 1121, reinforces the principle that the commercial activity exception of § 1605(a)(2) should not be interpreted in a way that would broadly undermine sovereign immunity by attributing routine overseas events to "direct effects" in the United States. Thus, Saudi Aramco’s claim that any potential indirect financial burden on American taxpayers due to Logan Good’s medical condition does not satisfy the "direct effect" criterion is well-founded.
+
+citations: ['836 F.2d 91', '26 F.3d 1166', '513 U.S. 1121']
+
+gold_text: In Zedan, 849 F.2d at 1515, the court determined that the contract to pay Zedan was breached in Saudi Arabia and the breach continued after Zedan left Saudi Arabia and returned to the United States, but the effect in the United States was not “direct” because it was due to an intervening event, i.e., Zedan’s return. It applied “ ‘the common sense interpretation of “direct effect” [as] one which has no intervening element but, rather, flows in a straight line without deviation or interruption.’” Id., quoting Upton v. Empire of Iran, 459 F.Supp. 264, 266 (D.D.C.1978), aff'd mem., 607 F.2d 494 (D.C.Cir.1979). See also Martin v. Republic of South Africa, 836 F.2d 91 (2d Cir.1987); Princz v. Federal Republic of Germany, 26 F.3d 1166 (D.C.Cir.1994), cert. denied, 513 U.S. 1121, 115 S.Ct. 923, 130 L.Ed.2d 803 (1995).
+
+label: 

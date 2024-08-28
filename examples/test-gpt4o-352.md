@@ -1,0 +1,13 @@
+**Generation:**
+
+Building on established case law, it is important to emphasize the non-entitlement to a fixed level of benefits as highlighted in 472 U.S. 115. Just as the procedural component of the Due Process Clause does not constrain Congress from making substantive changes to public benefit laws, similarly, FSPA's adjustments to military retired pay do not constitute a "taking" under the Fifth Amendment. The economic impact on Fern is parallel to legislative adjustments observed in 431 U.S. 864, where entitlements on the basis of expected benefits do not guarantee unchanged benefits in perpetuity.
+
+Moreover, akin to the ruling in reference case 439 U.S. 572, the legislative amendments do not convey future rights immune from modification by Congress. Alterations in expected benefits should be anticipated as part of a system where Congress retains the authority to amend entitlements. These precedents support the conclusion that changes brought by FSPA do not violate constitutional property rights, thereby affirming the Claims Court's judgment.
+
+Finally, considering the statutory interpretation precedent in 587 F.2d 424, where military retirement pay alterations were found permissible without due process infringement, Fern's claim fails to demonstrate a concrete property interest breach. Thus, Fern's appeal for additional compensation based on FSPA's enactment warrants no redress under current legal standards.
+
+citations: ['439 U.S. 572', '472 U.S. 115', '431 U.S. 864', '587 F.2d 424']
+
+gold_text: . A computation of a lump sum evaluation of future payments (as an alternative to continuing future payments) would appear nebulous inasmuch as a military member has no entitlement to any continued level of retirement pay. Congress may alter and even eliminate military retired pay benefits whether classified as "current pay for reduced current services” or pension benefits. See Hisquierdo v. Hisquierdo, 439 U.S. 572, 575, 99 S.Ct. 802, 805, 59 L.Ed.2d 1 (1979) (pension benefits); see also Atkins v. Parker, 472 U.S. 115, 129-30 & n. 32, 105 S.Ct. 2520, 2528-29 & n. 32, 86 L.Ed.2d 81 (1985) (pension benefits); United States v. Larionoff, 431 U.S. 864, 879, 97 S.Ct. 2150, 2159, 53 L.Ed.2d 48 (1977) (reduction in pay); Costello v. United States, 587 F.2d 424, 426 (9th Cir.1978) (en banc), cert. denied, 442 U.S. 929, 99 S.Ct. 2858, 61 L.Ed.2d 296 (1979) (reduction in pay).
+
+label: 

@@ -1,0 +1,12 @@
+**Generation:**
+
+In considering the motion for continuance, the plaintiff's reasons must align with the discretion of the trial judge, as established in Smith v. Daniel, C.C.A.6th (1931), 46 F.2d 740, 742[2]. This discretion, however, is not without limitation, necessitating efficient and sensible coordination of the Court's business as highlighted in McSurley v. McClellan (1970), 138 U.S.App.D.C. 187, 194, 426 F.2d 664, 671. In Reference case 495 F.2d 221, prejudicially erroneous rulings such as refusals to allow a continuance and pre-trial comments affected the trial's fairness; however, these did not demonstrate an abuse of discretion when properly considering the context and timing of granted continuances. Furthermore, as noted in Reference case 52 F.2d 831, continuances on medical grounds require substantive proof such as a physical examination by a court-appointed physician, emphasizing the necessity of verifiable and compelling reasons for postponement.
+
+Given the above references, the current motion for an additional continuance is scrutinized under these precedents. The Court notes that multiple continuances have already been granted, and the present request is evaluated with a necessity for compelling justification. Therefore, this motion hereby is
+DENIED.
+
+citations: ['495 F.2d 221', '52 F.2d 831']
+
+gold_text: The factual affidavit supporting the third-party defendant’s motion for an additional postponement of trial herein reflects that its counsel has plans to participate in “a year’s end office meeting” in a state far removed from this district which offers attraction as a resort area. The action of a trial judge in refusing a requested continuance on the ground that a trial counsel had withdrawn his assistance was approved. Sanden v. Mayo Clinic, C.A.8th (1974), 495 F.2d 221, 227[2]. The same rule of discretion obtains where a continuance was claimed because of the death of a party’s counsel. Hunter v. Fairfax’s Devisee (1796), 3 U.S. (Dali) 305, 1 L.Ed. 613. And, it also applies where a party’s representative was ill. Speers Sand & Clay Works v. American Trust Co., C.C.A.4th (1931), 52 F.2d 831, 832-833[2], certiorari denied (1932), 286 U.S. 548, 52 S.Ct. 500, 76 L.Ed. 1284.
+
+label: 

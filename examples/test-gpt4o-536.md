@@ -1,0 +1,15 @@
+**Generation:**
+
+California’s next argument hinges on the specific requirements mandated by 42 U.S.C. § 7502(b), asserting that Nevada's SIP falls short of implementing all reasonably available control measures as required for nonattainment areas. A thorough analysis demonstrates that Nevada adhered to the statutory requirements as expeditiously as practicable, with flexibility to adjust based on actual conditions observed during implementation (Reference case 700 F.2d 314).
+
+Nevada contends that EPA's approval of California’s SIP does not ensure compliance with national air quality standards by the requisite deadlines, citing inadequacies in the modeling analysis (Reference case 650 F.2d 579). EPA’s approach, however, is upheld, as it allows states the liberty to adopt emission limitations best suited to their unique contexts, provided they meet federal standards. The dispute over the differing assumptions between states' modeling parameters does not, therefore, render the EPA’s decision arbitrary or capricious (Reference case 572 F.2d 1143).
+
+Moreover, any suggested amendments to the SIPs, such as changes in attainment dates, must comply with Section 110(a)(2) of the Clean Air Act, substantiating that the EPA has maintained statutory obligations adequately (Reference case 421 U.S. 60). As the agency's analysis accounted for projected growth and additional control measures to ensure maintenance, the argument that further identification of measures is necessary lacks merit.
+
+In conclusion, the EPA’s evaluations and approvals of both states' SIPs adhere to regulatory requirements and adequately address the issues raised, confirming that EPA’s actions are neither arbitrary nor capricious.
+
+citations: ['421 U.S. 60', '700 F.2d 314', '650 F.2d 579', '572 F.2d 1143']
+
+gold_text: Nevada next contends that California’s SIP does not provide for attainment as expeditiously as possible because it does not include some of the measures adopted by the California Air Resources Board and which were included in an earlier implementation plan. Nevada does not explain how adoption of the other strategies would result in earlier attainment. We see no basis for holding, as a matter of law, that a state which has once adopted certain measures thereby commits itself to their inclusion in future plans. Such a result would discourage experimentation with pollution control methods. The statute requires attainment “as expeditiously as practicable,” a standard which permits some flexibility. See, e.g., Train v. Natural Resources Defenses Council, Inc., 421 U.S. 60, 86-87, 95 S.Ct. 1470, 1485, 43 L.Ed.2d 731 (1975); National Steel Corp., Great Lakes Steel Division v. Gorsuch, 700 F.2d 314, 322 (6th Cir.1983); Florida Power and Light Co. v. Costle, 650 F.2d 579, 587 (5th Cir.1981); Northern Ohio Lung Association v. EPA, 572 F.2d 1143, 1149 (6th Cir.1973).
+
+label: 

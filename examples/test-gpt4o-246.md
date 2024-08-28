@@ -1,0 +1,11 @@
+**Generation:**
+
+Further, the Tucker Act requires a plaintiff to identify a specific statute or regulation that mandates compensation by the Government (28 U.S.C. § 1491(a)(1)). See United States v. Testan, 424 U.S. 392, 398 (1976). Mr. Evans has not demonstrated that any statutory or regulatory provision mandates the payment of interest on returned seized funds. This absence of a "money-mandating" source is fatal to his claim under the Tucker Act. See 402 F.3d 1167. According to the Mitchell test, a statute or regulation is money-mandating if it “can fairly be interpreted as mandating compensation for damages sustained as a result of the breach of the duties [it] impose[s].” United States v. White Mountain Apache Tribe, 537 U.S. 465, 472 (2003); Mitchell II, 463 U.S. at 217.
+
+In conclusion, because Mr. Evans has not met the essential elements of proving an implied-in-fact contract or identified a money-mandating source, the Court of Federal Claims correctly dismissed his claim pursuant to RCFC 12(b)(6). The dismissal for failure to state a claim is thus affirmed.
+
+citations: ['424 U.S. 392', '402 F.3d 1167', '402 F.3d 1167']
+
+gold_text: Second, Mr. Evans avers that he established an implied-in-fact contract with the Government based on a disgorgement theory. Appellant’s Br. 13. However, Mr. Evans does not explain how this disgorgement theory satisfies his burden of demonstrating mutuality of intent or any of the other elements of an implied-in-fact contract. See generally id. To the extent Mr. Evans attempts to raise an independent claim for disgorgement, he has not identified a money-mandating source of substantive law, as required by the Tucker Act, 28 U.S.C. § 1491(a)(1). See United States v. Testan, 424 U.S. 392, 398, 96 S.Ct. 948, 47 L.Ed.2d 114 (1976) (“The Tucker Act ... is itself only a jurisdictional statute; it does not create any substantive right enforceable against the United States for money damages.”); Fisher v. United States, 402 F.3d 1167, 1172 (Fed. Cir. 2005) (en banc) (stating that, to establish Tucker Act jurisdiction, “a plaintiff must identify a separate source of substantive law that creates the right to money damages” (citations omitted)). Therefore, the Court of Federal Claims would not have had jurisdiction to adjudicate such a claim.
+
+label: 

@@ -1,0 +1,17 @@
+**Generation:**
+
+Given our findings and the references to the legal principles established in prior cases, we must address the arguments related to exclusive dealing agreements and the application of antitrust laws.
+
+In Reference Case 521 F.2d 1230, the court underscored the importance of not second-guessing legitimate business judgments and confirmed that an exclusive dealing arrangement which satisfies the Clayton Act’s legality test would naturally be lawful under the Sherman Act. Although the non-Holiday Inn clause in that case was assessed under Section 3 of the Clayton Act, the fundamental principle remains applicable here. The exclusive dealing arguments presented by Bruce Medical Supply regarding Hollister’s actions necessitate a similar consideration of business judgment and antitrust statutes.
+
+Moreover, as stated in Reference Case 433 U.S. 36, stare decisis is a principle that demands adherence to sounder doctrines when current policies clash with established doctrines. In this case, applying established antitrust standards and avoiding unnecessary interference with legitimate business practices align with the sounder doctrine.
+
+Thus, the court’s previous findings, when viewed under the established doctrines and antitrust laws, must be reconsidered. Hollister’s measures against Bruce Medical Supply align with its legitimate business interests—primarily protecting its commercial network and international contracts—not primarily as anticompetitive conduct. Therefore, given the evidence and historical interpretations, the imposition of the preliminary injunction was unwarranted and contrary to well-established jurisprudence.
+
+We reverse the court's decision, considering the principles highlighted in 521 F.2d 1230 and 433 U.S. 36.
+
+citations: ['521 F.2d 1230', '433 U.S. 36']
+
+gold_text: Bruce contends, very possibly correctly, that by March, 1981, defendant was undertaking to prevent its getting any Hollister products whatever, and asserts this to be an overbroad response. There are two answers to this. One is that Bruce does not suggest how defendant could safely protect itself by doing anything less. While foreign ostomates generally prefer closed pouches, we find nothing in the record to suggest that they use nothing else. It would appear that virtually any box of Hollister products sent to Bruce could, potentially, wind up overseas. Even if not, defendant was not required to adopt the least restrictive means of stopping Bruce from selling abroad, but merely means reasonably suited to that purpose. American Motor Inns, Inc. v. Holiday Inns, Inc., 3 Cir., 1975, 521 F.2d 1230, 1248-50; see Continental T. V., Inc. v. GTE Sylvania, Inc., 1977, 433 U.S. 36, 58 n.29, 97 S.Ct. 2549, 2561 n.29, 53 L.Ed.2d 568. Defendant cannot be faulted for failing to engage in elaborate and possible time-consuming speculation about Bruce’s marketing intentions on an order-by-order or box-by-box basis. The court having held, quite properly, that defendant was to be held to nothing stricter than a rule of reason, Continental T. V, Inc. v. GTE Sylvania, Inc., ante; Eastern Scientific Co. v. Wild Heerbrugg Instruments, Inc., 1 Cir., 1978, 572 F.2d 883, cert. denied, 439 U.S. 833, 99 S.Ct. 112, 58 L.Ed.2d 128, we see no basis for finding that it violated that standard.
+
+label: 

@@ -1,0 +1,13 @@
+**Generation:**
+
+In determining the amount of costs to be awarded, the court will consider whether litigation expenses such as supplemental secretarial costs, copying, telephone costs, and necessary travel should be included as part of the attorney's fees. As established in Reference case 585 F.2d 618, these expenses are integrally related to the work of an attorney and can play a significant role in the success of litigation. Therefore, reimbursement of these expenses is warranted.
+
+However, fees and expenses for outside non-legal consultants and experts are not traditionally regarded as attorney's fees unless expressly authorized by Congress or under specific equitable exceptions (Reference cases 790 F.2d 1174, 482 U.S. 437). Moreover, while the statutory language in 42 U.S.C. § 2000e-5(k) suggests that a prevailing party may recover attorney’s fees as part of the costs, it does not extend to expert witness fees beyond those specified under 28 U.S.C. § 1821 and § 1920 (Reference cases 790 F.2d 1174, 482 U.S. 437).
+
+Accordingly, defendants cannot recover expenses for non-court-appointed expert witnesses exceeding the standard allowances. Consistent with established practice in related cases (Reference cases 702 F.2d 686, 585 F.2d 618), the court will award costs limited to those recognized as part of attorney’s fees and necessary litigation expenses. All other requested costs must conform to the statutory limits outlined above.
+
+citations: ['585 F.2d 618', '619 F.2d 276', '790 F.2d 1174', '482 U.S. 437', '702 F.2d 686']
+
+gold_text: In determining an award of attorney’s fees, “[l]itigation expenses, such as supplemental secretarial costs, copying, telephone costs, and necessary travel, are integrally related to the work of an attorney ...” and, thus, are compensable. Wheeler v. Durham City Bd. of Educ., 585 F.2d 618, 623-24 (4th Cir.1978) (attorney’s fees awarded as a part of costs in 20 U.S.C. § 1617 action); Daly, 790 F.2d at 1083 (attorney’s fees awarded as a part of costs in 42 U.S.C. § 1988 action). This rule extends to awards of attorneys fees in copyright cases. See 17 U.S.C. § 505 (providing for “a reasonable attorney’s fee to the prevailing party as a part of the costs.”). In addition, because computer assisted research will reduce the number of hours an attorney must dedicate to a case, those charges comprise part of the costs. Wehr v. Burroughs Corp., 619 F.2d 276, 284 (3d Cir.1980); accord International Woodworkers v. Champion Int’l Corp., 790 F.2d 1174, 1185 (5th Cir.1986), aff'd sub nom. Crawford Fitting Co. v. J.T. Gibbons, Inc. 482 U.S. 437, 107 S.Ct. 2494, 96 L.Ed.2d 385 (1987); but see Leftwich v. Harris-Stowe State College, 702 F.2d 686, 695 (8th Cir.1983).
+
+label: 

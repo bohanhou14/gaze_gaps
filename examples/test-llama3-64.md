@@ -1,0 +1,16 @@
+**Generation:**
+
+
+To address the legal issues, we must refer to relevant case law. The cases of Jones v. United States (299 F.3d 250) and Russell v. United States (63 F.3d 1422) are particularly relevant. In Jones, the court held that a private, owner-occupied residence is not used in activities affecting interstate commerce and therefore does not fall under 18 U.S.C. § 844(i)'s reach. However, in Russell, the court concluded that the statute unquestionably applies to rental activities, stating that the local rental of an apartment unit is merely an element of a broader commercial market in rental properties.
+
+In the instant case, the building in question was a hotel and pavilion that was used for commercial purposes, including providing accommodations and services to out-of-state guests. As such, it is reasonable to conclude that the building was used in activities affecting interstate commerce. Therefore, the government's evidence suggests that the building was used in interstate commerce, and a rational jury could have found that the government proved each element of the offense beyond a reasonable doubt.
+
+Furthermore, the cases of United States v. Dudley (739 F.2d 175) and United States v. Cloud (921 F.2d 225) are relevant to the issue of restitution orders surviving the death of a criminal defendant. In Dudley, the court held that the abatement principle does not apply to unpaid restitution orders, while in Cloud, the court concluded that the doctrine of abatement does not apply to restitution orders. These cases support the conclusion that restitution orders can survive the death of a criminal defendant.
+
+In conclusion, the government's evidence suggests that the building was used in activities affecting interstate commerce, and a rational jury could have found that the government proved each element of the offense beyond a reasonable doubt. Additionally, restitution orders can survive the death of a criminal defendant. Therefore, the conviction and restitution order should be affirmed. 
+
+citations: ['299 F.3d 250', '63 F.3d 1422', '995 F.2d 1357']
+
+gold_text: Although Parsons concedes that his hotel may have been used in interstate commerce at some point, he argues that it was used only for local functions, such as dances, when it was destroyed by fire. Parsons thus argues that use of his hotel at the time of the fire does not satisfy the Jones requirement of “active employment for commercial purposes, and not merely a passive, passing, or past connection to commerce.” Jones, 529 U.S. at 855, 120 S.Ct. at 1910, 146 L.Ed.2d at 910. Despite the fact that Parsons’s hotel may have been closed for the winter season, a temporary cessation of activity does not place the hotel beyond the reach of 18 U.S.C. § 844(i) if there is intent to return to the stream of commerce. See United States v. Williams, 299 F.3d 250 (3d Cir.2002) (holding that arson of a vacant building available for rent constituted a federal crime under 18 U.S.C. § 844(f)); United States v. Martin, 63 F.3d 1422 (7th Cir.1995) (same); United States v. Turner, 995 F.2d 1357 (6th Cir.1993) (same). Because a reasonable jury could have found beyond a reasonable doubt that Parsons’s hotel was used in interstate commerce, we affirm his conviction for federal arson under 18 U.S.C. § 844®.
+
+label: 

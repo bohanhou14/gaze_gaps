@@ -1,0 +1,9 @@
+**Generation:**
+
+In this context, it is evident that the merging of Sybron and Patterson poses significant concerns regarding market concentration and anti-competitive effects. As observed in United States v. Philadelphia National Bank, 374 U.S. 321, even slight increases in market concentration must be scrutinized, especially in already concentrated industries (378 U.S. 441). Similarly, in Procter & Gamble Co. v. FTC, 386 U.S. 568, potential future competition plays a critical role, and merging entities to preclude such competition can be deemed unlawful even without post-acquisition evidence. The foreseeability of anti-competitive effects, supported by substantial market shares and lack of new entrants effectively tackling the existing market, aligns with the Commission’s stand that potential competition is significantly diminished (380 U.S. 592). The synergy between Sybron’s manufacturing and Patterson’s retailing thus necessitates preventive measures against the potential rise of monopolistic control in the dental products market.
+
+citations: ['386 U.S. 568', '380 U.S. 592', '378 U.S. 441']
+
+gold_text: Post-acquisition evidence introduced by Sybron indicates that since the merger Patterson’s purchases of Ritter products have declined, while Kerr’s sundry sales to Patterson have increased slightly. This evidence, of course, does not establish the legality of the merger. F.T.C. v. Procter & Gamble Co., 386 U.S. 568, 87 S.Ct. 1224, 18 L.Ed.2d 303 (1967); F.T.C. v. Consolidated Foods Corp., 380 U.S. 592, 85 S.Ct. 1220, 14 L.Ed.2d 95 (1965); United States v. Continental Can Co., 378 U.S. 441, 84 S.Ct. 1738, 12 L.Ed.2d 953 (1964). On the other hand, it is properly considered, along with the other evidence adduced, on the issue of the nature of the retail market.
+
+label: 

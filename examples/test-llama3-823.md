@@ -1,0 +1,20 @@
+**Generation:**
+
+ <answer>
+In the case of Terry and Patti James (the “James”) versus Blaekhawk Credit Union (“Blaekhawk”), the parties agree that the credit card debt is of the same class as the primary obligation secured by the Consumer Chattel Security Agreement and so related to it that the James’ consent to its inclusion may be inferred. The court in John Miller Supply Co. v. Western State Bank, 55 Wis.2d 385, 199 N.W.2d 161 (1972), held that a security interest will only be enforced to the extent that the future transactions or liabilities sought to be secured were in the clear contemplation of the parties, as evidenced by the language of the agreement.
+
+In this case, the James obtained a credit card with a credit limit exceeding $1,000, which caused the credit card debt to be secured by the Lumina under the dragnet clause. The court in Bank of Barron v. Gieseke, 169 Wis.2d 437, 485 N.W.2d 426 (Ct.App.1992), allowed a dragnet clause to be enforced so long as it is clear in its language or meets the relatedness requirement.
+
+The court in Swanson v. Montello State Bank (In re Hill), 210 B.R. 1016, 1022 (Bankr.E.D.Wis.1997), applied the Johnson standards and determined that because a mobile home loan and Visa account were consumer debts, they were of the same class. In this case, both the initial car loan and the credit card debt were consumer credit extended by Blaekhawk to the James.
+
+The court in Mead Corp. v. Dixon Paper Co., 907 P.2d 1179, 1182 (Utah Ct.App.1995), stated that a dragnet clause will not be extended to cover future advances unless the advances are of the same kind and quality or relate to the same transaction or series of transactions as the principal obligation secured.
+
+In this case, there was no series of similar transactions. The question is whether there was any nexus whatsoever between the two debts. The debts are not so different as those in John Miller Supply. Neither is contingent. Blaekhawk only claimed security for the credit card debt through the dragnet clause when the balance exceeded $1,000.
+
+The court concludes that the credit card debt is of the same class
+
+citations: ['217 B.R. 527', '161 B.R. 824', '9 B.R. 713']
+
+gold_text: In addition to Swanson, at least two other cases have considered similar issues. See In re Robinson, 217 B.R. 527 (Bankr.E.D.Tex.1998) (Sharp, C.J.); In re Phillips, 161 B.R. 824 (Bankr.W.D.Mo.1993) (Koger, C.J.). In Robinson, the debtors received a credit card in 1989 from a credit union. 217 B.R. at 529. In 1991, the debtors purchased a Ford truck and took a secured car loan from a dealership. Id. at 529. The security interest was then assigned to the same credit union that had issued the credit card. Id. at 529, 532. The security agreement contained a cross-collateralization clause for all other debts between the parties. Id. at 529. In light of the fact that the dealership and not the credit union was listed as the creditor on the loan agreement and the security agreement, “the vehicle and [credit card] debts were not between the same parties” and the dragnet clause was not valid. Id. at 532. In Phillips, the debtor had granted a purchase money security interest in a mobile home to a credit union. 161 B.R. at 825. The security agreement for the mobile home contained a dragnet clause. Id. At the time of the bankruptcy petition, the debtor also had a credit card balance of $1,142.83 on a card issued by the same credit union. Id. Chief Judge Koger stated that “Missouri, perhaps because of its more commercial orientation and less debtor oriented background, has not engaged in such anti dragnet comments [as have some other states].” Id. at 826. Even so, in holding the dragnet clause enforceable, Chief Judge Koger went on to state that “This Court need not consider whether Missouri would apply the classification test because both the mobile home loan and the [credit card] account are consumer debts, secured by consumer goods, and can be classified as the ‘same class’ under the Johnson standard.” Id. at 827 (citing Third Nat’l Bank v. Johnson, 9 B.R. 713 (Bankr.M.D.Tenn.1981)).
+
+label: 

@@ -1,0 +1,11 @@
+**Generation:**
+
+3. Upon examining further, similar cases underscore the principle that municipalities lack the inherent power to grant exclusive franchises without explicit legislative authorization. In *Vicksburg v. Vicksburg Waterworks Company*, 202 U.S. 453, 50 L. Ed. 1102, it was decided that a contract giving exclusive water supply rights to a company holds, provided it does not create ruinous competition with a city-initiated system, thereby demonstrating the inviolability of such exclusive contracts within their terms. This principle was similarly echoed in *Vicksburg Waterworks Co. v. Vicksburg*, 185 U. S. 65, 51 L. Ed. 1155, affirming that municipalities excluding themselves from direct competition via contracts can be sanctioned federally even if such ordinances are passed in proprietary capacity. 
+
+It is crucial to delineate that the core argument revolves around whether the city overstepped its authorized power by extending exclusivity beyond street lighting to cover private utilities supply. By upholding precedents like *Vicksburg* cases, the decision projects a focus on strict legislative mandates governing municipal contracts and precluding unauthorized concessions beyond legislative grants.
+
+citations: ['50 L. Ed. 1102', '51 L. Ed. 1155']
+
+gold_text: And in the cases in the Supreme Court involving the Vicksburg waterworks it was merely held that under a Mississippi statute authorizing the city of Vicksburg to' contract for the erection and operation of “a system of waterworks” to supply the city with water, and under the laws of Mississippi as construed by its highest court, the city might lawfully, as a term of the contract for. the construction of such waterworks, give the grantee the exclusive right to erect and maintain waterworks for a definite period, during which it could not erect its own system in competition with that of the company (Vicksburg Water Co. v. Vicksburg, 202 U. S. 453, 26 Sup. Ct. 660, 50 L. Ed. 1102), and that it might also as a term of such contract lawfully fix the maximum rate at which water should be supplied to the inhabitants during the period of the .contract. Vicksburg v. Vicksburg Waterworks Co., 206 U. S. 496, 27 Sup. Ct. 762, 51 L. Ed. 1155.
+
+label: 

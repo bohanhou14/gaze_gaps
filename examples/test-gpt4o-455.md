@@ -1,0 +1,15 @@
+**Generation:**
+
+Regarding the adequacy of notice provided to Co-defendants, fundamental principles of due process mandate that notice be "reasonably calculated, under all the circumstances, to apprise interested parties of the pendency of the action" (Mullane v. Central Hanover Bank & Trust Co., 339 U.S. 306, 314). The precedent in Robinson v. Hanrahan (409 U.S. 38, 40) indicates that actual notice must be given when a defendant is known to be incapacitated. Similarly, in compliance with International Law, Rule 4(f) of the Federal Rules of Civil Procedure specifies that service must be appropriately tailored (236 F.R.D. 270). 
+
+Plaintiff's attempts at service, despite the assurances provided by Dr. Abraham Sued and Dr. Felipe Echevarria, did not satisfy procedural requirements, stipulating that service must be either personally executed or left at the domicile, as per Article 68 of the Dominican Republic's Code of Civil Procedure, aligning with the guidance in Woodall (45 F.3d 509).
+
+Consequently, service upon Maxon Engineering Inc., S.A. met Dominican Republic procedural standards but failed to properly serve the individual partners. Therefore, Plaintiff's service attempt, while partially valid, requires stricter adherence to both U.S. and Dominican Republic mandates.
+
+Given the deficiencies identified, the Plaintiff's motion to dismiss should allow re-service that aligns with due process according to the rule declared in Mullane and the standards in 45 F.3d 509, along with adhering to Rule 4(f)(3) approved alternative means (236 F.R.D. 270). This conclusion balances the due process rights of defendants with the pragmatic needs of transnational litigation.
+
+citations: ['45 F.3d 509', '339 U.S. 306', '236 F.R.D. 270']
+
+gold_text: Plaintiffs, request that if this court finds that service of process was insufficient, that they be given 20 days to serve Co-defendants by publication. Fed. R.Civ.P. 4(f)(3) permits service in a particular case to be tailored to the necessities of the situation when none of the other methods of service expressly provided for in the rule are likely to be successful, the only proscription on the court’s discretion is that the method not be prohibited by international agreement. 4B Wright and Miller, Federal Practice and Procedure: Civil 3d, § 1134. Also, due process concerns require that notice be “reasonably calculated, under all circumstances, to apprise interested parties of the pendency of the action and afford them an opportunity to present their objections.” United States v. Giraldo, 45 F.3d 509, 511 (1st Cir.1995) citing Mullane v. Central Hanover Bank & Trust Co., 339 U.S. 306, 314, 70 S.Ct. 652, 94 L.Ed. 865 (1950). Service by publication to a defendant in a foreign country is an acceptable alternative means of service under Rule 4(f)(3) particularly when there have been other attempts to locate the defendants and serve them by traditional means, the publication is likely to reach the defendants and the defendants have some knowledge of the existence of the suit. BP Products North America, Inc. v. Dagra, 236 F.R.D. 270, 272 (E.D.Va.2006).
+
+label: 

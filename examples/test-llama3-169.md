@@ -1,0 +1,16 @@
+**Generation:**
+
+
+In the case of United States ex rel. Volpe v. Smith, 289 U.S. 422, 77 L. Ed. 1298, the Supreme Court held that the word "entry" in the Immigration Act of 1917 includes any coming of an alien from a foreign country into the United States, whether such coming be the first or any subsequent one. This ruling confirms that the petitioner's re-entry into the United States on July 28, 1944, after being convicted of embezzlement in 1944, constitutes an "entry" prior to which the crime was committed.
+
+The Court's decision in United States ex rel. Volpe v. Smith is consistent with the reasoning in Lewis v. Frick, 233 U.S. 291, 34 S.Ct. 488, 58 L.Ed. 967, and United States ex rel. Claussen v. Day, 279 U.S. 398, 49 S.Ct. 354, 73 L.Ed. 758, which also held that the word "entry" includes any coming of an alien into the United States, regardless of whether it is the first or subsequent entry.
+
+Based on these precedents, it is clear that the petitioner's crime of embezzlement, committed in 1944, is a "prior to entry" crime under the Immigration Act of 1917. The recommendation clause of the statute, which excludes aliens who have been convicted of a crime involving moral turpitude from deportation, does not apply to this class of deportables.
+
+Therefore, the petitioner's conviction for embezzlement and his subsequent deportation are consistent with the laws of the United States, as outlined in the Immigration Act of 1917. The recommendation clause of the statute does not provide a basis for excluding the petitioner from deportation, as his crime was committed prior to his re-entry into the United States.
+
+citations: ['289 U.S. 422', '77 L. Ed. 1298']
+
+gold_text: It has been strongly argued that this second question was not present in the Volpe case supra decided by the Supreme Court in 289 U.S. 422, 53 S.Ct. 665, 77 L. Ed. 1298, and that the decision of this question by the Third Circuit Court of Appeals is against the weight of authority and should be reconsidered in the light of this case, and that this small class of rare “pri- or to entry” cases were intended to be among the other cases where the crime was tried in a court of the United States and the judge thereof had all the opportunity to determine the merits thereof, as is true in the “after entry” cases. However, whatever merit there may be in this argument, this Court certainly does not feel that a district court is in a position to reconsider a decision of the Circuit Court of its Circuit. The Circuit Court itself may do so in the absence of a Supreme Court decision. The decision of the Circuit Court is binding upon the District Courts in that circuit until and unless reversed by that Circuit Court or by the United States Supreme Court. This. particular point of applicability of the recommendation clause to “prior to entry” cases, tried by courts in this country, has not been decided by the United States Supreme Court and, therefore, the rule of this Circuit governs until the Supreme Court passes upon it.
+
+label: 

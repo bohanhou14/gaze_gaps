@@ -1,0 +1,16 @@
+**Generation:**
+
+
+In the case of Wisconsin Syndicate, the court ruled that the directors of the corporation have the discretion to decide how to distribute the earnings, and that their decision cannot be controlled by the courts, even at the suit of owners of preferred stock, entitled by express agreement with the corporation to dividends at a certain yearly rate. This ruling is consistent with the case of New York, Lake Erie & Western Railroad v. Nickals, 119 U. S. 296, 304, 307, which held that the interest in reserved and accumulated earnings, represented by each share, is capital, and not income, of the corporation.
+
+In the case of Wisconsin Syndicate, the corporation had a surplus of $211,000 over the 6-year period, and had paid out $80,775 in dividends. The plaintiff, the trustee of the stock, claimed that the remaining $130,000 should have been distributed to the stockholders. However, the court found that the directors had acted reasonably in applying the excess receipts to increase capital assets, and that there was no evidence to suggest that they had acted fraudulently or unfairly.
+
+This ruling is consistent with the case of Kernochan's Case, 104 N. Y. 618, which held that a stock dividend does not distribute property, but simply dilutes the shares as they existed before. The court in Wisconsin Syndicate held that the directors had the discretion to decide how to distribute the earnings, and that their decision cannot be controlled by the courts.
+
+In conclusion, the case of Wisconsin Syndicate demonstrates that the directors of a corporation have the discretion to decide how to distribute the earnings, and that their decision cannot be controlled by the courts, even at the suit of owners of preferred stock. This ruling is consistent with the case of New York, Lake Erie & Western Railroad v. Nickals and Kernochan's Case, and highlights the importance of the business judgment rule in corporate law. (Reference: 10 S. Ct. 1057, 34 L. Ed. 525)
+
+citations: ['10 S. Ct. 1057', '34 L. Ed. 525']
+
+gold_text: As to whether dividends shall or shall not be declared is left to the board of directors. Cook on Corporations (8th Ed.) § 545, states the general rule thus: “When, therefore, the directors have exercised this discretion and refused to declare a dividend, there will be no interference by the courts with their decision, unless they are guilty of a willful abuse of their discretionary powers, or of bad faith or of a neglect of duty. It requires a very strong case to induce a court of equity to order the directors to declare a dividend, inasmuch as equity has no jurisdiction, unless fraud or a breach of trust is involved.” Eletcher, Cyclopedia Corporations, § 3656, deduces the same rule from the adjudications. The reasons for the rule are obvious. In addition to the lack of power, except on the condition named, it would be intolerable that corporate businéss should be constantly under the threat of extraneous interference on the complaint of every stockholder because of his dissatisfaction with the policy of the management. The rule on the subject is not different from the statement of it by Cook, supra, when the issue is between a life tenant and remainderman to the shares. That question was presented to the Supreme Court in Gibbons v. Mahon, 136 U. S. 549, 10 S. Ct. 1057, 34 L. Ed. 525.
+
+label: 

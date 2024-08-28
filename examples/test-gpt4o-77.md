@@ -1,0 +1,13 @@
+**Generation:**
+
+In considering the defendant’s forum non conveniens argument, it is pertinent to adhere to the established guiding principles. In Gulf Oil Co. v. Gilbert, the Supreme Court delineated the private and public interest factors to be weighed (684 F.2d 232). These include the relative ease of access to sources of proof, availability of compulsory process for attendance of unwilling witnesses, and the cost of obtaining attendance of willing witnesses. Additionally, the public interests encompass administrative burdens on local courts and the community’s interest in having localized disputes settled at home.
+
+However, in this case, the inconveniences cited by the defendant do not outweigh the plaintiff’s choice of forum. As noted in Piper Aircraft Co. v. Reyno, “[t]he doctrine leaves much to the discretion of the court... unless the balance is strongly in favor of the defendant, the plaintiff’s choice of forum should rarely be disturbed” (701 F.2d 408). The mere involvement of foreign law and witnesses does not constitute sufficient grounds for dismissal, particularly given the lack of an alternative forum where the defendant is subject to personal jurisdiction (660 F.2d 712).
+
+Hence, defendant’s motion to dismiss on the grounds of forum non conveniens is denied, as the balance of convenience does not strongly favor the defendant. The plaintiff should not be relegated to a foreign court given the circumstances.
+
+citations: ['660 F.2d 712', '684 F.2d 232', '701 F.2d 408']
+
+gold_text: While this Court might dismiss this action subject to conditions that would assure the plaintiff of a fair hearing, Mizokami Bros. of Ariz v. Mobay Chemical Corp., 660 F.2d 712, 719 (8th Cir.1981), neither plaintiff nor defendant has demonstrated the relative advantage in convenience that another forum, compared to this one, would provide. Overseas Programming Companies v. Cinematographische Commerz-Anstalt, 684 F.2d 232, 235 (2d Cir.1982). The selection of a South American country as an alternative forum, although it would afford greater expertise in applying relevant legal principles, would seem to involve considerable hardship and inconvenience for both parties. A British forum might similarly provide some advantages in the construction of relevant law, however, it would impose additional hardships upon defendant, and would raise questions, as would the South American forum, regarding enforceability of a resulting judgment. See American Rice, Inc. v. Arkansas Rice Growers Co-op. Ass’n., 701 F.2d 408, 417 (5th Cir.1983). Where the balance does not tip strongly in favor of an alternative forum it is well-established that the plaintiff’s choice of forum should not be disturbed.
+
+label: 

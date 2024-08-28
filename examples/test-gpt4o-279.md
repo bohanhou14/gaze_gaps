@@ -1,0 +1,15 @@
+**Generation:**
+
+To establish a valid RICO claim, the plaintiff must demonstrate a causal connection between the defendant's actions and the injury suffered. This principle has been consistently reinforced in several cases. In Bankers Trust Co. v. Rhoades, the court noted that the phrase “by reason of” in § 1964(c) necessitates that there be a causal relationship between the prohibited conduct and the plaintiff’s injury (741 F.2d 511, 516). Similarly, in County of Suffolk v. Long Island Lighting Co., it was established that reliance on the defendant's misrepresentations is required to demonstrate the necessary causal connection for mail fraud as a RICO predicate act (907 F.2d at 1311).
+
+In the current case, the Global Defendants argue that the Plaintiffs have not pled reliance on any acts of mail or wire fraud, which mirrors the issues raised in Cullom v. Hibernia Nat’l Bank, where the court highlighted the absence of a causal connection in the plaintiff's theory of liability (859 F.2d 1211, 1213). Additionally, cases like Brandenburg v. Seidel and Grantham & Mann, Inc. v. American Safety Products, Inc., further support the requirement of demonstrating reliance to establish causation in RICO claims involving mail fraud (Brandenburg, 859 F.2d 1179, 1188; Grantham, 831 F.2d 596, 606).
+
+Though the trial court in 983 F.2d 350 did not specify the role of reliance in its instructions, such omission does not provide grounds for reversal if the plaintiff can prove that the misrepresentations caused the injury to their business. Thus, the factual allegations in the Complaint, when viewed in conjunction with the cited precedents, indicate a need for adequate specificity in pleading reliance to satisfy the causation requirement for RICO claims (907 F.2d 1295; 873 F.2d 634).
+
+Given these references, Plaintiffs must establish that their injury was directly caused by the Global Defendants' alleged fraudulent actions, in line with the established jurisprudence.
+
+citations: ['873 F.2d 634', '983 F.2d 350', '983 F.2d 350', '907 F.2d 1295']
+
+gold_text: In civil ■ RICO claims, this Circuit has required a “causal connection between the prohibited conduct and plaintiffs injury.” Norman v. Niagara Mohawk Power Corp., 873 F.2d 634, 636 (2d Cir.1989). When the predicate acts or mail and/or fraud are alleged, “to establish the required causal connection, the plaintiff [is] required to demonstrate that the defendant’s misrepresentations were relied on.” Metromedia Co. v. Fugazy, 983 F.2d 350, 368 (2d Cir.1992), cert. denied, 508 U.S. 952, 113 S.Ct. 2445, 124 L.Ed.2d 662 (1993) (citing County of Suffolk v. Long Island Lighting Co., 907 F.2d 1295, 1311 (2d Cir.1990)); see also THC Holdings Corp., v. Tishman, No. 93 CIV. 5393, 1996 WL 291881, at *4 (May 31, 1996 S.D.N.Y.) (noting that “[although detrimental reliance is not an element of mail or wire fraud claims generally, a plaintiff seeking to base RICO liability on these predicate acts must prove that its injuries are the result of reliance on the fraud.”).
+
+label: 

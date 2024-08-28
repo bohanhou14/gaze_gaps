@@ -1,0 +1,16 @@
+**Generation:**
+
+
+In the case of 322 F.3d 758, the court held that an administrative forfeiture lacking legal foundation is void. Similarly, in 213 F.3d 147, the court ruled that a void judgment can be set aside, but a voidable judgment can be enforced. In this case, the government's failure to provide adequate notice to Mr. Oriakhi constitutes a voidable judgment, not a void one.
+
+Given the nature of the property at issue, the statute of limitations for initiating a civil forfeiture action is equitably tolled. The government's delay in commencing judicial forfeiture proceedings was caused by its failure to provide adequate notice, which was rectified by this Court's August 4, 1999 Order. The Third Circuit's affirmation of this Court's order and the government's subsequent filing of its complaint on December 14, 2001, demonstrate that the government's delay was reasonable and did not prejudice Mr. Oriakhi.
+
+Therefore, the statute of limitations for initiating a civil forfeiture action is equitably tolled, and the government's complaint is timely. The doctrine of collateral estoppel also bars Mr. Oriakhi from relitigating the source of the funds used to purchase the items found in the two shipping containers. Judge Gleeson's findings regarding the source of the funds are conclusive and preclusive, and Mr. Oriakhi is collaterally estopped from arguing that the funds came from his uncle's gift.
+
+In conclusion, the government's complaint is timely, and the doctrine of collateral estoppel bars Mr. Oriakhi from relitigating the source of the funds. The court should grant the government's motion for summary judgment and issue a final order of forfeiture.
+
+citations: ['213 F.3d 147', '322 F.3d 758']
+
+gold_text: In United States v. One Toshiba Color Television, 213 F.3d 147 (3d Cir.2000), the Third Circuit stated that a judgment of forfeiture is void without adequate notice. Id. at 156. While the Circuit concluded the doctrine of laches was not available to preclude a claimant from challenging a void judgment, it specifically reserved judgment on whether the statute of limitations prohibited the government from reinitiating the forfeiture action, or if the statute of limitations should be tolled. See id. at 158-59. In Longenette v. Krusing, 322 F.3d 758 (3d Cir.2003), the Third Circuit permitted equitable tolling of the statute of limitations. Prisoner William Longenette challenged the administrative forfeiture of his van after he had been arrested on drug-related charges. Id. at 759-60. Because Mr. Longenette had not timely returned his in forma pauperis declaration in lieu of the mandatory bond, the FBI proceeded with the administrative forfeiture. Id. at 760. The Third Circuit concluded that the prison mailbox rule applied, so the date on which Mr. Longenette gave his in forma pauperis declaration to prison authorities for mailing was considered the filing date, and Mr. Lon-genette’s challenge of the administrative forfeiture was timely. Id. at 765. When an administrative forfeiture is voidable, the remedy is to vacate the forfeiture and refer the matter to the local United States Attorney’s office for judicial forfeiture. Id. at 766. However, judicial forfeiture of Mr. Longenette’s van would have violated the five-year statute of limitations for such proceedings.
+
+label: 

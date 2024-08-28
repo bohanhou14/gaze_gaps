@@ -1,0 +1,13 @@
+**Generation:**
+
+Courts assessing the finality of orders under 28 U.S.C. § 158(d) have concluded that the 1984 amendments do not alter the criteria established in the 1978 Act (see In re Riggsby, 745 F.2d 1153, 1154-55). Specifically, actions that conclusively determine a discrete claim, such as the allowance or disallowance of a claim, meet the finality requirement (see In re Saco Local Development Corp., 711 F.2d 441, 444-45). 
+
+However, in the present case, the bankruptcy judge's decision permitted the trustee to object to the DOE’s claim, introducing the probability of further proceedings to finalize the DOE’s claim. This procedural status reflects an interlocutory rather than final order (see In re Riggsby, 745 F.2d 1153; In re Tidewater Group, Inc., 734 F.2d 794). Therefore, given the unresolved nature of the claim amounts, the bankruptcy judge’s order does not qualify as final within the meaning of 28 U.S.C. § 158(d).
+
+Furthermore, such decisions remain unqualified for immediate appeal under the collateral order exception (see Coopers & Lybrand v. Livesay, 437 U.S. 463, 468). This court lacks jurisdiction over the DOE’s appeal as the order in question does not conclusively determine the disputed matter nor is it unreviewable upon final judgment.
+
+citations: ['745 F.2d 1153', '745 F.2d 1153', '751 F.2d 806', '751 F.2d 806']
+
+gold_text: . Section 1293, however, was never formally effective. The Bankruptcy Reform Act of 1978, Pub.L. No. 95-598, 92 Stat. 2549 (1978), which repealed the Bankruptcy Act of 1898, added section 1293 but delayed its effective date. Until that date, title IV of the 1978 Act, Pub.L. No. 95-598, §§ 401-411, 92 Stat. 2682-2688 (1978), as amended by Pub.L. No. 98-325, § 1(a), 98 Stat. 268 (1984), provided for a "transition period" during which jurisdiction to hear appeals was conferred on the courts of appeals "the same as the jurisdiction” granted by 28 U.S.C. § 1293. See Pub.L. No. 95-598, § 405(c)(2), 92 Stat. 2685 (1978) (codified at 28 U.S.C. note preceding § 1471). The 1984 Amendments, however, did not expressly repeal § 1293. See 1984 Amendments §§ 113 and 121(a). If there is any ambiguity in how Congress disposed of § 1293, it is clear that § 1293 was implicitly repealed by the enactment of 28 U.S.C. § 158. See In re Riggsby, 745 F.2d 1153, 1155 (7th Cir.1984) (they “are worded virtually the same, and appear to have the same meaning, so that although the 1984 amendments do not expressly repeal section 1293(b), we think they must be held to do so by implication____” (citation omitted)); In re Exclusive Industries Corp., 751 F.2d 806, 807 & n. 1 (5th Cir.1985).
+
+label: 

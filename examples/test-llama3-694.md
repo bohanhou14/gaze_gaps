@@ -1,0 +1,17 @@
+**Generation:**
+
+
+
+The case at hand involves Intrepid's appeal from the United States Court of International Trade's denial of its motions to supplement and amend its complaint. The company imported welded steel pipes from Thailand and was directed to suspend liquidation and deposit cash for estimated duties. Intrepid filed a complaint, alleging that its pipes were not within the scope of the antidumping duty order. After the International Trade Administration (ITA) ruled that the pipes were within the scope, Intrepid moved to amend its complaint to challenge the ITA's determination.
+
+The trial court dismissed the complaint, finding that it was moot and that Intrepid's attempts to amend were too late. However, the court of appeals disagreed, holding that the complaint was not moot and that Intrepid's amendments were timely. The court relied on cases such as Alejandrino v. Quezon, 271 U.S. 528 (1926), which held that a case is not moot simply because one of the parties has obtained the relief it sought. The court also cited Griffin v. School Board, 377 U.S. 218 (1964), which permitted supplemental amendments to cover events happening after suit.
+
+The court of appeals also found that Intrepid's amended complaint was not too late, citing cases such as Tiller v. Atlantic Coast Line R.R., 323 U.S. 574 (1945), which held that a statute of limitations does not apply when a party has had notice from the beginning that a claim is being asserted against it. The court concluded that Intrepid's amended complaint arose out of the same conduct, transaction, or occurrence as the original complaint and, therefore, related back to the timely date of the original complaint.
+
+In conclusion, the court of appeals reversed the trial court's dismissal of Intrepid's complaint, finding that the complaint was not moot and that Intrepid's amendments were timely. The court relied on cases such as Alejandrino v. Quezon and Griffin v. School Board to support its decision. (Reference cases: 395 U.S. 486, 258 U.S. 346)
+
+citations: ['395 U.S. 486', '258 U.S. 346']
+
+gold_text: 300 U.S. at 240-41, 57 S.Ct. at 464 (cases omitted). Mootness of an action relates to the basic dispute between the parties, not merely the relief requested. Thus, although Subsequent acts may moot a request for particular relief or a count, the constitutional requirement of a case or controversy may be supplied by the availability of other relief. Powell v. McCormack, 395 U.S. 486, 496-97, 89 S.Ct. 1944, 1950-51, 23 L.Ed.2d 491 (1969) (the mootness of Powell’s claim for injunctive relief related to his seating in Congress held not to moot the case because his claim for back salary remained a viable issue); Standard Fashion Co. v. Magrane-Houston Co., 258 U.S. 346, 353, 42 S.Ct. 360, 361, 66 L.Ed. 653 (1922) (suit to restrain contract violation held not mooted with the contract’s expiration if there is also a request for damages that is capable of ascertainment). As indicated, there remains a “definite and concrete” controversy between Intrepid and the government concerning the scope of the antidumping and countervailing duty orders which has existed since the inception of Intrepid’s suit, continues to exist, and is capable of relief. That the government’s action removed the need for the injunctive relief originally requested did not moot the entire action.
+
+label: 

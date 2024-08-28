@@ -1,0 +1,11 @@
+**Generation:**
+
+In United States v. Nguyen, 235 F.3d 1179, the court emphasized that a waiver of appellate rights is valid even if the defendant later believes he had meritorious claims, as the essence of such a waiver is to relinquish claims regardless of their merit. Similarly, in United States v. Jeronimo, 642 F.3d 1257, the court upheld that a waiver is enforceable if it is both knowingly and voluntarily made, and its language encompasses the right to appeal on the grounds raised.
+
+In the case at hand, Defendant Medina-Carrasco's waiver was both knowing and voluntary, as confirmed by the Rule 11 colloquy. The waiver explicitly precluded any challenge to "any aspect of the defendant’s sentence — including the manner in which the sentence is determined and any sentencing guideline determinations." Furthermore, the plea agreement's broad language and the defendant's understanding during the plea hearing align with the precedent set in United States v. Jeronimo, where a general waiver of appellate rights was deemed to cover all appeals, including the denial of motions to withdraw guilty pleas (642 F.3d 1257). Thus, we find that Defendant's waiver is enforceable, and the appeal is dismissed.
+
+citations: ['235 F.3d 1179', '642 F.3d 1257']
+
+gold_text: Defendant agreed to waive his right to appeal, along with a number of other rights, in exchange for a lower sentence. He received the benefit of that bargain; after subtracting three offense levels for acceptance of responsibility, the district court imposed a below-guidelines sentence. That he “did not realize the strength of his potential appellate claims at the time that he entered into the plea agreement” does not permit- him to invalidate his knowing and voluntary waiver of appellate rights. United States v. Nguyen, 235 F.3d 1179, 1184 (9th Cir.2000), abrogated on other grounds by United States v. Rahman, 642 F.3d 1257, 1259 (9th Cir.2011). We will enforce a valid waiver even if the claims that could have been made on appeal absent that waiver appear meritorious, because “[t]he whole point of a waiver ... is the relinquishment of claims regardless of their merit.” Id.
+
+label: 

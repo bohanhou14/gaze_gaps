@@ -1,0 +1,11 @@
+**Generation:**
+
+ 
+<answer>
+Cuprum's claims of an unreasonably dangerous condition are unavailing. As discussed in Baugh ex rel. Baugh v. Cuprum S.A. de C.V., 730 F.3d 701, 707 (7th Cir. 2013), a product may be unreasonably dangerous if it failed to perform as safely as an ordinary consumer would expect (the "consumer-expectation test") or if the product's risks outweigh its benefits (the "risk-utility test"). The risk-utility test requires consideration of factors such as the availability and feasibility of alternate designs, the design's conformity to industry standards, and the product's utility and safety aspects. Jablonski v. Ford Motor Co., 353 Ill.Dec. 327, 955
+
+citations: ['572 F.3d 407', '519 F.3d 380', '719 F.2d 233']
+
+gold_text: We reject the notion that no reasonable jury could have concluded the same: Dr. Vinson adequately explained why a ladder like Baugh’s could fail when used as instructed, how the legs and gussets could be modified to prevent such a failure, and why the finite element analysis on which Dr. Stevenson relied was an inferior method of calculating the varying levels of force users apply on ladders. So Cuprum was not entitled to judgment as a matter of law on the unreasonably dangerous condition element. See, e.g., Gicla v. United States, 572 F.3d 407, 414 (7th Cir. 2009) (observing that the case “presented a classic battle of the experts ... [that] called upon the factfinder to determine what weight and credibility to give to each expert”); Wipf v. Kowalski, 519 F.3d 380, 385 (7th Cir. 2008) (“[I]n a case of dueling experts ... it is left to the trier of fact, not the reviewing court, to decide how to weigh the competing expert testimony.”); Spesco, Inc. v. Gen. Elec. Co., 719 F.2d 233, 237-38 (7th Cir. 1983) (“[T]his case presents a typical example of opposing experts offering conflicting views to the jury.... It is within the province of the jury to determine which of two contradictory expert statements is deserving of credit.”),
+
+label: 

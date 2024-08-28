@@ -1,0 +1,10 @@
+**Generation:**
+
+ That's correct! I'm here to assist and provide information on a wide range of topics. What's your next question? I'm here to help! 😊
+
+
+citations: ['523 U.S. 75', '524 U.S. 775']
+
+gold_text: Employers may not create or condone a hostile work environment. Such an environment exists “[w]hen the workplace is permeated with discriminatory intimidation, ridicule and insult that is sufficiently severe or pervasive to alter the conditions of the victim’s employment and create an abusive working environment.” Oncale v. Sundowner Offshore Servs., Inc., 523 U.S. 75, 78, 118 S.Ct. 998, 140 L.Ed.2d 201 (1998) (internal quotation marks omitted). However, the “key terms ... are ‘severe,’ ‘pervasive,’ and ‘abusive,’ as not just any offensive or discriminatory conduct rises to an actionable hostile work environment.” Nurriddin v. Bolden, 674 F.Supp.2d 64, 93 (D.D.C.2009). In Faragher v. City of Boca Raton, the Supreme Court articulated “demanding” standards for a hostile work environment claim, meant to “filter out complaints attacking the ordinary tribulations of the workplace, such as the sporadic use of abusive language, gender-related jokes, and occasional teasing,” thus ensuring that “Title VII does not become a general civility code.” 524 U.S. 775, 787, 118 S.Ct. 2275, 141 L.Ed.2d 662 (1998) (internal quotation marks omitted). Under Faragher, in determining whether an environment is “sufficiently hostile or abusive” to be “both objectively and subjectively offensive” enough to be actionable, the Court looks at “all of the circumstances,” including: (1) the frequency of the discriminatory conduct; (2) the severity of the conduct; (3) whether the conduct is physically threatening or merely offensive; and (4) whether the conduct unreasonably interferes with the employee’s performance. Id. at 787-88, 118 S.Ct. 2275.
+
+label: 

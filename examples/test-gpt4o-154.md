@@ -1,0 +1,13 @@
+**Generation:**
+
+Van Fossen's defense parallels the insufficiency arguments successfully raised in similar cases. In 390 F.2d 511, the court emphasized that intent to defraud must be inferred from facts and circumstances beyond just possession (KELLAM, District Judge). Similarly, Van Fossen's mere presence of thumbprints on the negatives and plate used in counterfeiting, without additional evidence of intent, fails to meet this necessary threshold.
+
+Moreover, 186 F.2d 598 highlights that conviction should rest on evidence viewed most favorably to the government, but in cases of doubtful validity and serious dispute, it must support the government's theory conclusively. Here, the evidence does not eliminate reasonable doubt regarding when and how Van Fossen's prints were placed on the items.
+
+Furthermore, in comparison to 193 F.2d 361, which rejected inferences based on unsubstantiated hypothesis, the prosecution's case against Van Fossen similarly rests on conjecture without solid linkage to the crime. Hence, the gaps in the proof, along with plausible lack of intent and specificity regarding the timing of the fingerprints, render Van Fossen's conviction unsupported by substantial evidence.
+
+citations: ['390 F.2d 511', '186 F.2d 598', '193 F.2d 361']
+
+gold_text: The three cases on which the government relies are readily distinguishable. In United States v. Browning, 390 F.2d 511 (4th Cir. 1968), and United States v. Kelley, 186 F.2d 598 (7th Cir.), cert. denied, 341 U.S. 954, 71 S.Ct. 1004, 95 L.Ed. 1375 (1951), the defendants were apprehended passing counterfeit bills under circumstances that indicated they knew of the forgery. In each ease there was sufficient evidence beyond mere possession of the bills to establish the commission of the crime. In short, conviction in those cases was sustained on the type of evidence that is lacking here. In United States v. Pisano, 193 F.2d 361 (7th Cir. 1951), the defendant was convicted of illegally dealing in narcotics solely because his fingerprints were on a package of heroin and on a paper found in a suitcase containing drugs. The court emphasized, however, that “under the charging statutes, the sometimes troublesome elements of intent are not here involved, for possession alone is sufficient for conviction.” 193 F.2d at 365. Pisano was prosecuted for violating a statute under which possession of unlawful narcotics created a prima facie presumption of guilt and placed on the accused the burden of explaining his possession to the satisfaction of the jury. Here the government is not armed with a similar presumption, and the “troublesome element” of Van Fossen’s intent requires proof.
+
+label: 

@@ -1,0 +1,15 @@
+**Generation:**
+
+We find that Whitten’s testimony, which essentially comprised legal conclusions, overstepped the permissible boundaries of expert opinion as delineated by Federal Rules of Evidence. Notably, Rule 704 permits opinion testimony on ultimate issues, but only to the extent it aids the jury without imposing legal standards (Fed.R.Evid. 704 advisory committee’s note). In such situations, courts have consistently emphasized that credibility is solely the jury's domain (826 F.2d 206). In cases like United States v. Barnard, courts rejected expert testimony that effectively supplanted the jury's role in determining credibility and the veracity of witnesses (801 F.2d 336). 
+
+Whitten’s repeated assertions regarding “manipulation” and “fraud” veered into legal interpretations rather than offering helpful factual analysis. This distinction is crucial, as apparent in the Advisory Committee’s Note to Rule 704 and reinforced by Carson, Young, and Brown, where expert testimony is appreciated for elucidating patterns rather than making legal determinations.
+
+Consequently, the admission of Whitten’s testimony constituted an error warranting reversal of the fraud and conspiracy convictions, as it impermissibly influenced the jury by presenting legal conclusions under the guise of expert opinion.
+
+In light of this, we remand for a new trial, ensuring expert testimonies are confined to elucidating facts while preserving the jury's exclusive role in legal conclusions.
+
+citations: ['826 F.2d 206', '801 F.2d 336']
+
+gold_text: We turn now to a second fatal objection to Whitten’s opinion testimony. On cross-examination, defense counsel brought out that Whitten’s opinions were based on his positive assessment of the trustworthiness and accuracy of the testimony of the government’s witnesses, in particular that of Sarcinelli. We believe that expert witnesses may not offer opinions on relevant events based on their personal assessment of the credibility of another witness’s testimony. The credibility of witnesses is exclusively for the determination by the jury, United States v. Richter, 826 F.2d 206, 208 (2d Cir.1987), and witnesses may not opine as to the credibility of the testimony of other witnesses at the trial. Even apart from the gross invasion of the province of the jury that Whit-ten’s testimony represented, his only claim to expertise was limited to securities trading and did not encompass the evaluation of testimony. Moreover, even expert witnesses possessed of medical knowledge and skills that relate directly to credibility may not state an opinion as to whether another witness is credible, United States v. Azure, 801 F.2d 336, 340-41 (8th Cir.1986), although such witnesses may be permitted to testify to relevant physical or mental conditions. See generally Annotation, Necessity and Admissibility of Expert Testimony as to Credibility of Witnesses, 20 A.L.R.3d 684 (1968).
+
+label: 

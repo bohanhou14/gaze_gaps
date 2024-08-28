@@ -1,0 +1,15 @@
+**Generation:**
+
+Hotline's argument that the state did not "incur" any reimbursable attorney’s fees due to government lawyers being salaried lacks merit. Reference case 857 F.2d 56 highlights that fees under contingency arrangements are not “actually incurred” if not paid directly, a concern not applicable here. Similarly, 957 F.2d 1161 emphasizes the necessity of "incurred" expenses for eligibility but notes indirect costs as valid.
+
+Furthermore, 222 F.3d 927 illustrates that legislative intent often does not constrain fees to actual outlays, suggesting salaried attorneys' work has value at market rates, aligning with interpretations like Textor v. Northern Illinois University. 
+
+Hotline's reliance on prior court interpretations like 983 F.2d 229, which finds fees under arrangements unknown until final quantum determination, does not negate the incurred costs principle when work displaces potential other uses. Courts address market rate equivalence as seen in 38 F.3d 823, showing consistency in awarding fees based on market rates regardless of actual outlays.
+
+Thus, reimbursement for government attorneys at market rates under § 1447(c) aligns with prior rulings, confirming that such fees can be considered “incurred” expenses.
+
+citations: ['856 F.2d 56', '983 F.2d 229', '957 F.2d 1161', '38 F.3d 823', '222 F.3d 927']
+
+gold_text: Only a few fee-shifting statutes explicitly limit recoveries to actual outlays. For example, the Uniform Relocation Assistance and Real Property Acquisition Policies Act, 42 U.S.C. § 4654, will “reimburse” prevailing claimants for attorney’s fees “actually incurred” in litigating condemnation proceedings brought by the government. See United States v. 122.00 Acres of Land, 856 F.2d 56, 58 (8th Cir.1988). Similarly, the Equal Access to Justice Act, 28 U.S.C. § 2412(d)(1)(A), authorizes monetary recovery for attorney’s fees “incurred” as a result of unjustified federal action, see TGS Int’l, Inc. v. United States, 983 F.2d 229, 230 (Fed.Cir.1993); United States v. Paisley, 957 F.2d 1161, 1164 (4th Cir.1992), and an analogous statute contained in the Internal Revenue Code permits recovery of attorney’s fees “paid” or “incurred” in successful challenges to tax related actions, 26 U.S.C. § 7430(c)(1)(B)(iii); see Marre v. United States, 38 F.3d 823, 828-29 (5th Cir.1994). These three statutes, all of which aim to check or deter unjustified governmental conduct, permit parties to be reimbursed for fees actually incurred in achieving victory. But cf. Raney v. Federal Bureau of Prisons, 222 F.3d 927, 934 (Fed.Cir.2000) (en banc) (citing the Freedom of Information Act, the Privacy Act, and Fed.R.Civ.P. 37(a)(4) as examples in which “the courts have neither interpreted the ‘incurred’ term ... to restrict or limit the payment of fees to those actually incurred, nor prevented market rate fees from being awarded”).
+
+label: 

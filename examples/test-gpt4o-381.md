@@ -1,0 +1,13 @@
+**Generation:**
+
+Jurisdiction over maritime liens is exclusive to the federal courts. In "Reference case 11 Wall. 185," it was established that state courts lack authority to enforce a maritime lien by proceeding in rem, affirming the exclusive jurisdiction of federal district courts. The burden of maintaining common law remedies does not extend to creating maritime liens enforceable against subsequent vessel owners (4 Wall. 411, 18 L. Ed. 397).
+
+Similarly, "Reference case 20 L. Ed. 74" clarified that common law remedies cannot enforce maritime liens by proceeding in rem, thus denying state legislatures the authority to create or enforce such liens. The statute 18 L. Ed. 451 corroborated this by indicating that jurisdiction conferred to district courts, respecting such remedies, remains exclusive and any concurrent remedies provided by state laws would defeat this exclusivity.
+
+The Virginia statute under scrutiny effectively conforms to these precedents by only providing a provisional remedy via attachment, not a jus in re that endures beyond ownership changes (4 Wall. 555). This aligns with the fundamental principle that admiralty and maritime jurisdiction, granted exclusively to federal courts, precludes state court interventions in enforcing maritime liens through in rem actions (18 L. Ed. 397).
+
+citations: ['11 Wall. 185', '20 L. Ed. 74', '4 Wall. 411', '18 L. Ed. 397', '4 Wall. 555', '18 L. Ed. 451']
+
+gold_text: We have not overlooked the fact that Judge Hughes has come to a contrary conclusion as the result of his opinion that the act gives a right against the vessel in rem. Stewart v. Potomac Ferry Co. (C. C.) 12 Fed. 296; Aitcheson v. Endless Dredge (D. C.) 40 Fed. 253. We think these decisions inconsistent with Garcia y Leon v. Galceran, 11 Wall. 185, 20 L. Ed. 74. In it the law of Louisiana giving a lien or privilegium for seamen’s wages was under consideration. The seamen proceeded at common law against the owner in personam and by virtue of the privilegium seized the vessel. From a judgment in their favor the. owner took a writ of error to the Supreme Court, contending that the action was one in rem, and therefore not within the jurisdiction of the state court. The Moses Taylor, 4 Wall. 411, 18 L. Ed. 397; The Hine v. Trevor, 4 Wall. 555, 18 L. Ed. 451. The judgment, however, was affirmed; Mr. Justice Clifford saying at pages 188, 189 of 11 Wall. (20 L. Ed. 74):
+
+label: 

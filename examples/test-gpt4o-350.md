@@ -1,0 +1,11 @@
+**Generation:**
+
+It is well-established that a corporate officer may not be held personally liable for the violations of the corporation unless there is a basis for piercing the corporate veil or the statute explicitly provides for such liability. Referencing 690 F.2d 191, in Southwestern v. Johnson Oil, the court did not hold the corporate officers personally liable due to a lack of willful or malicious acts. Similarly, as per 526 F.2d 1293, the judgment against Oesterle for violations of the Rivers and Harbors Act could not stand as there were no allegations or proof justifying piercing the corporate veil. Furthermore, 763 F.2d 133 clarifies that personal involvement in wrongful acts can extend liability to corporate officers.
+
+Applying these principles, although Edrei had significant involvement in Midwestern's operations, his actions were in his capacity as a corporate officer. There is no evidence presented that mandates piercing the corporate veil or that he acted beyond his corporate role. Therefore, based on these precedents, summary judgment should favor Michael Edrei individually, barring new evidence.
+
+citations: ['690 F.2d 191', '526 F.2d 1293', '763 F.2d 133']
+
+gold_text: There is a time honored body of law upholding the protections of the corporate form, which has at times served to protect individuals from liability in government actions to prosecute regulatory violations. See Johnson Oil Co., Inc. v. United States Dept. of Energy, 690 F.2d 191, 202 (Temp. Emergency Court of Appeals 1982) (general rule of immunity of stockholders upheld absent explicit statutory provision); United States v. Sexton Cove Estates, 526 F.2d 1293, 1300 (5th Cir.1976) (corporate officer may not be held civilly liable for corporate violation of the Rivers and Harbors Act unless either the Act itself authorizes such liability, or there is sufficient proof to permit negation of the corporate form). But, see United States v. Pollution Abatement Services of Oswego, Inc., 763 F.2d 133, 134-35 (2d Cir.1985) (citing Congressional intent to hold “persons” liable for violations, no reason exists to shield corporate officers from civil liability when directly involved in unlawful activity).
+
+label: 

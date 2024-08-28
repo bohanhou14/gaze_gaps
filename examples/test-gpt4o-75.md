@@ -1,0 +1,14 @@
+**Generation:**
+
+The contention that Resco’s bankruptcy filing automatically stays the action against Mather is unpersuasive. The automatic stay provision under 11 U.S.C. § 362(a) generally applies exclusively to the debtor in bankruptcy and not to solvent co-defendants or associated entities. As established in case law, such as *Austin v. Unarco Indus., Inc.*, 705 F.2d 1, 4 (1st Cir.) and cert. dismissed, 463 U.S. 1247, it is clear that section 362(a)'s provisions do not extend to co-defendants of the debtor. Similarly, the court in *In re Western Real Estate Fund, Inc.*, 922 F.2d 592, clarified that the stay applies strictly to actions against the debtor itself.
+
+Additionally, courts have consistently held that the protections of § 362 do not extend to non-debtor parties. For instance, in *Parkview-Gem, Inc. v. Stein*, it was concluded that legally distinct entities from the debtor are not covered by the automatic stay. As emphasized in *In re Aboussie Bros. Construction Co.*, 705 F.2d 1, solvent co-defendants are not protected by the automatic stay unless Congress explicitly states otherwise.
+
+Conclusion:
+Mather's motion to dismiss based on Resco's bankruptcy stay is without merit. The action against him is not stayed by 11 U.S.C. § 362(a), as he is not the debtor in this case. Therefore, the proceedings will continue against Mather independently of Resco’s bankruptcy status.
+
+citations: ['994 F.2d 956', '994 F.2d 956', '900 F.2d 846', '900 F.2d 846', '705 F.2d 1', '705 F.2d 1', '68 B.R. 230']
+
+gold_text: With certain exceptions, 11 U.S.C.A. § 362 (West 1993) automatically stays “commencement or continuation” of any judicial proceeding against a debtor that was or could have been brought before the commencement of the debtor’s bankruptcy case. The automatic stay of the bankruptcy court, however, does not divest the court of “jurisdiction to hear every claim that is in any way related to the bankruptcy proceeding.” In re San Juan Dupont Plaza Hotel Fire Litig., 994 F.2d 956, 969 (1st Cir.1993) (quoting Picco v. Global Marine Drilling Co., 900 F.2d 846, 850 (5th Cir.1990)). Metrome-dia’s action for trademark infringement, unfair competition, breach of contract and breach of promissory note against Resco is a “proceeding against the debtor” and subject to the automatic stay. See 11 U.S.C.A. § 362(a). Mather, however, is not affected by the automatic stay because he is not a debtor in bankruptcy. See In re San Juan Dupont Plaza Hotel Fire Litig., 994 F.2d at 969 (citing Austin v. Unarco Indus., Inc., 705 F.2d 1, 4 (1st Cir.1983)); In re Supermercado Gamboa, Inc., 68 B.R. 230, 231 (Bankr.D.P.R.1986) (section 362 ordinarily does not stay an action against the officers or shareholders of a debtor-corporation).
+
+label: 

@@ -1,0 +1,13 @@
+**Generation:**
+
+In the case at hand, the failure to provide adequate reasons for the length of the continuance before parole reconsideration contravenes established due process requirements. As noted in the case of United States ex rel. Johnson v. Chairman of New York State Board of Parole, 500 F.2d 925, 934 (2d Cir.), a sufficient statement must allow a reviewing body to ascertain whether parole was denied for a valid reason. Similarly, this court has underscored the necessity for parole boards to deliver written statements of reasons that are based on salient facts, as indicated in reference case 511 F.2d 1270, ensuring reasoned consideration in parole decisions.
+
+The current case demonstrates a lack of adequate reasoning material to justify a 57-month continuance, in stark contrast to the referenced procedural expectations. The guidelines cited merely indicate a threshold of more than 36 months, uncorrelated to the specific length imposed, which is both arbitrary and insufficient under the standards articulated in both reference cases. Therefore, a more comprehensive justification aligning with procedural due process and existing regulations must be provided.
+
+Given that the undisputed facts establish the reasons provided to the plaintiff as inadequate, and in alignment with precedent, the plaintiff is entitled to judgment. This ensures adherence to the due process requirements elucidated in 500 F.2d 925 and 511 F.2d 1270.
+
+citations: ['511 F.2d 1270', '500 F.2d 925']
+
+gold_text: Courts granting relief to prisoners who have been denied parole without receiving any statement of the reasons for denial have typically ordered only a statement of the reasons for denial as a remedy. See, e. g., Childs v. United States Board of Parole, 511 F.2d 1270, 1272 (D.C.Cir. 1974); Soloway v. Weger, 389 F.Supp. 409, 412 (D.Minn.1974); United States ex rel. Johnson v. Chairman of the New York State Board of Parole, 363 F.Supp. 416, 419 (E.D.N.Y.1973), aff’d 500 F.2d 925 (2d Cir.), vacated as moot, 419 U.S. 1015, 95 S.Ct. 488, 42 L.Ed.2d 289 (1974); but see, Craft v. Attorney General of the United States, 379 F.Supp. 538 (M.D.Pa.1974). On the other hand, courts granting relief on the ground that the reasons given for the denial of parole suggest that the decision to deny may have been reached arbitrarily typically order a new hearing. See Diaz v. Norton, supra, at 115—16; Lupo v. Norton, 371 F.Supp. 156, 164 (D.Conn.1974).
+
+label: 

@@ -1,0 +1,17 @@
+**Generation:**
+
+III. ANALYSIS (continued)
+
+3. Evaluation of statistical evidence
+The district court's reliance on statistical evidence indicating racial disparities in disciplinary actions and promotions at Ceco aligns with precedents recognizing patterns of discrimination as probative under Title VII (559 F.2d 310). Specifically, a 90% disciplinary rate for black employees in a workforce consisting of only 38% black individuals can be significant evidence, similar to the disparity discussed in reference case 633 F.2d 1111 where the percentage of blacks in a workforce was critical in proving a Title VII claim. However, while such statistics are compelling, they must be comprehensive enough to substantiate a systemic pattern of racial discrimination.
+
+4. Prima facie case revisited
+Despite the statistical evidence, Hawkins' individual claim hinges on meeting the McDonnell-Douglas framework. The district court's finding under Marks v. Prattco, 607 F.2d 1153 (5th Cir.1979), was challenged due to ambiguity in replacement by a white employee. As the evidence reflects Greg Hogland performed Hawkins’ duties temporally but was not his official replacement; rather, it was Bennet, a black man. Consequently, Hawkins did not meet Prattco’s fourth requirement (replaced by a nonminority), failing to establish a prima facie case based on this framework (559 F.2d 310; 633 F.2d 1111).
+
+In conclusion, while the district court’s consideration of broad discrimination evidence is significant, Hawkins' specific case did not conform to the established prima facie requirements, necessitating reversal of the trial court’s ruling due to insufficient evidence of direct discriminatory replacement.
+
+citations: ['559 F.2d 310', '633 F.2d 1111']
+
+gold_text: None of this evidence adequately supports a claim of racial discrimination or establishes a prima facie case. Substantial statistical proof alone may establish a prima facie case of racial discrimination. James v. Stockham Valves & Fittings Co., 559 F.2d 310, 328-29 (11th Cir.1977), cert. denied, 434 U.S. 1034, 98 S.Ct. 767, 54 L.Ed.2d 781 (1978). But this evidence is not complete nor compelling. Without comparative evidence regarding the number of salaried positions at Ceco, it is difficult to assess the importance of the fact that Huntley was the only black employee on salary for ten years. The record also shows that, before assuming the Birmingham position, Rascoe had been a supervisor at another Ceco facility. When that facility closed, he was moved into the vacancy at the Birmingham plant. Although Huntley had been at the Birmingham facility earlier and was qualified, he did not have as much experience as Rascoe. Huntley did supervise the evening shift, although he reported to Rascoe, who supervised the day shift. Evidence that Greg Hogland was promoted is not indicative of discrimination unless there is a showing that he was less qualified than the senior employees who were bypassed. The statistical evidence regarding discipline in 1984 does not establish or necessarily imply racially discriminatory practices. Thompson v. Leland Police Dept., 633 F.2d 1111, 1114 (5th Cir.1980). It compares discipline imposed on collective bargaining employees with the total number of employees in the entire workforce, not just collective bargaining employees. Comparative evidence derived from more than one year would be more indicative of illicit practices. None of this evidence is sufficient to establish a prima facie case of racial discrimination.
+
+label: 

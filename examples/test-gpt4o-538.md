@@ -1,0 +1,13 @@
+**Generation:**
+
+In support of the denial of the petition, this case aligns with established precedent. In 247 F.2d 139, the court reinforced that an application for exemption from the draft by an alien renders him permanently ineligible for citizenship under § 315(a) of the Immigration and Nationality Act of 1952. The court held that Kenny, despite his mistaken belief regarding the impact of his National Guard service, was subject to this statutory bar. Similarly, in the current case, despite the petitioner's claims about supporting his wife and advice from the Portuguese Consul, it is undisputed that he voluntarily applied for and was granted exemption from military service under the Selective Training and Service Act of 1940.
+
+Furthermore, the petitioner's attempt to later withdraw his application does not negate the statutory bar, as seen in 255 F.2d 81. Once an alien applies for exemption from military service, the disqualification for citizenship remains permanent, as reaffirmed in cases like Velasquez v. United States. The petitioner, having been classified as 4-C and later as 1-A and 4-F, is bound by the same legal principles. The precedents make clear that the judicial power cannot alter the terms Congress has explicitly set for eligibility for naturalization.
+
+Therefore, given the findings and applicable legal standards, the petition for naturalization must be denied.
+
+citations: ['247 F.2d 139', '255 F.2d 81']
+
+gold_text: There was further placed in evidence before me the petitioner’s letter of November 14, 1944 to the Immigration and Naturalization Service in which he reaffirmed the intention which he expressed in his application for relief from military service because he was a citizen of Portugal and did not consider himself obliged to join the United States Army. In the same letter he stated that he had reconsidered and requested a return of the Declaration of Intention which he had previously surrendered. Petitioner’s apparent intention to reseek citizenship arose only after he had been classified 4-F and after more than two years of having been accorded an exemption on the basis of alienage. Such late manifestation of intention does not entitle petitioner to the removal of the barrier which he himself has placed in the path leading to citizenship. United States v. Kenny, 2 Cir., 1957, 247 F.2d 139; Petition of Velasquez, D.C.S.D.N.Y.1956, 139 F.Supp. 790, affirmed per curiam sub nom. Velasquez v. United States, 2 Cir., 1957, 241 F.2d 126; Jubran v. United States, 5 Cir., 1958, 255 F.2d 81; Petition of Elken, D.C.E.D.N.Y.1958, 161 F.Supp. 823; Petition of Calvo, D.C.N.J. 1958, 161 F.Supp. 761.
+
+label: 

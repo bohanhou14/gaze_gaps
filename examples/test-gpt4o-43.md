@@ -1,0 +1,13 @@
+**Generation:**
+
+The reference cases reinforce our decision on the jurisdictional issue. In United States v. McCarthy, 2 M.J. 1049, the Court established that jurisdiction could not rest solely on the military status of the individuals involved but required a comprehensive analysis of circumstances, adhering to Relford criteria. Similarly, United States v. Beeker, as cited in 2 M.J. 1038, emphasized the military's interest in maintaining order within its jurisdiction. Our case parallels Beeker where on-post negotiations and off-post arrangements were deemed sufficient for military jurisdiction.
+
+Moreover, the case discussed in 3 M.J. 414 highlighted the necessity to evaluate the locale and context of illicit transactions, emphasizing that on-post negotiations and off-post sales could still fall under military jurisdiction if they were military in origin and intended usage within the military community was apparent. Here, the transaction initiated on-post and intended usage on-post were verified, aligning with McCarthy's emphasis on the military connection. 
+
+Thus, consistent with precedents (2 M.J. 1049, 2 M.J. 1038, and 3 M.J. 414), we uphold the military court's jurisdiction and affirm the sentence.
+
+citations: ['3 M.J. 414', '2 M.J. 1049', '2 M.J. 1038']
+
+gold_text: . Although McCarthy involved the sale of three pounds, we do not understand that the sale necessarily must involve such a large quantity to constitute a threat to the security of the installation especially where, as here, the purchase ostensibly was for the use of several persons. Also, we are aware of the possible implication by the Court of Military Appeals that a police-controlled buy can pose no actual threat to the military community. See United States v. Alef, 3 M.J. 414, 418 n. 12 (C.M.A. 1977). Such an interpretation of the Court’s remark would be inconsistent with its accompanying observation that the sale in Alef did not “appear” to involve a threat and that the locale of the sale and other circumstances are likewise relevant to the remoteness or probability that illicit substances will filter back into the military community. Moreover, this Court’s conclusions that jurisdiction can exist under similar circumstances recently have been affirmed. See, for example, United States v. Valles-Santana, 54 C.M.R. 383, 389 n. 10, 2 M.J. 1049 (A.C.M.R.1976), aff'd, 4 M.J. 84 (C.M.A. 1977); United States v. Ortiz-Negron, 54 C.M.R. 362, 365 n. 10, 2 M.J. 1038 (A.C.M.R. 1976), aff'd, 4 M.J. 84 (C.M.A.1977).
+
+label: 

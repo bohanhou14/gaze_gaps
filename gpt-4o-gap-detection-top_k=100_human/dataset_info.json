@@ -1,0 +1,30 @@
+{
+  "citation": "",
+  "description": "",
+  "features": {
+    "prompt": {
+      "dtype": "string",
+      "_type": "Value"
+    },
+    "labels": {
+      "feature": {
+        "dtype": "int64",
+        "_type": "Value"
+      },
+      "_type": "Sequence"
+    },
+    "explanations": {
+      "dtype": "string",
+      "_type": "Value"
+    },
+    "human_labels": {
+      "feature": {
+        "dtype": "int64",
+        "_type": "Value"
+      },
+      "_type": "Sequence"
+    }
+  },
+  "homepage": "",
+  "license": ""
+}

@@ -1,0 +1,19 @@
+**Generation:**
+
+
+
+In reviewing the case, I find that the court's decision is supported by substantial evidence. The ALJ properly considered Gray's subjective complaints of pain and discounted them due to inconsistencies in his daily activities, lack of prescription or over-the-counter medication, and failure to follow through with suggested rehabilitation treatment (72 F.3d 669). The ALJ also noted that Gray's mental capacity was not restricted by his impairments, citing the GATB testing results and Gray's ability to complete high school education and vocational training (54 F.3d 484).
+
+Additionally, the court noted that the ALJ properly considered the medical evidence in the record, including Gray's medical history and the results of the GATB testing, and found that Gray's impairments did not rise to the level of disabling (75 F.3d 429). The court also noted that the ALJ properly considered the vocational guidelines and found that Gray had the residual functional capacity to perform a significant number of jobs in the national economy (76 F.3d 906).
+
+Furthermore, the court noted that the ALJ properly considered the claimant's daily activities, duration, frequency, and intensity of the pain, as well as the dosage, effectiveness, and side effects of medication, in evaluating Gray's subjective complaints of pain (Polaski v. Heckler, 739 F.2d 1320, 1322 (8th Cir.1984)). The court also noted that the ALJ properly considered the claimant's relevant work history and the absence of objective medical evidence to support the complaints (Spradling v. Chater, 126 F.3d 1072, 1074-75 (8th Cir.1997)).
+
+In conclusion, the court's decision is supported by substantial evidence and is properly based on the medical evidence, vocational guidelines, and claimant's daily activities. The ALJ's credibility determinations are also supported by substantial evidence and are properly based on the inconsistencies in the evidence.
+
+
+
+citations: ['107 F.3d 674', '76 F.3d 906', '75 F.3d 429', '72 F.3d 669', '54 F.3d 484', '3 F.3d 1210']
+
+gold_text: Finally, the ALJ observed that Gray engaged in extensive daily activities, which is inconsistent with the level of pain alleged. See Lawrence v. Chater, 107 F.3d 674, 676 (8th Cir.1997) (plaintiff dressed and bathed herself, did some housework, cooking and shopping); Pena v. Chater, 76 F.3d 906, 908 (8th Cir.1996) (daily caring for one child, driving when unable to find ride and sometimes going to grocery); Nguyen v. Chater, 75 F.3d 429 (8th Cir.1996) (visiting neighbors, cooking own meals, doing own laundry and attending church); Novotny v. Chater, 72 F.3d 669, 671 (8th Cir.1995) (carrying in grocery bags, carrying out garbage, driving wife to and from work inconsistent with extreme, disabling pain); Shannon v. Chater, 54 F.3d 484, 487 (8th Cir.1995) (plaintiff cooked breakfast, “sometimes” needed help with household cleaning and .other chores, visited friends and relatives and attended church twice a month); Woolf v. Shalala, 3 F.3d 1210, 1213 (8th Cir.1993) (plaintiff lived alone, drove, shopped for groceries and did housework with some help from neighbor). The evidence suggests that Gray was able to care for himself, do household chores, drive a car for short distances, and perform other miscellaneous activities. The ALJ concluded that Gray’s unemployment was due to his own choice rather than the result of disabling impairments. While Gray testified that he could only perform these daily activities with significant pain and breaks, the ALJ discredited Gray’s limitations as not supported by the record as a whole.
+
+label: 

@@ -1,0 +1,13 @@
+**Generation:**
+
+The BFOQ defense is an "extremely narrow exception" to the general prohibition of discrimination contained in Title VII (472 U.S. 400). Importantly, the U.S. Supreme Court has similarly underscored this narrow interpretation in its ruling on Johnson Controls, demonstrating that concerns for the safety of a fetus do not suffice to establish a BFOQ (499 U.S. at 206). Defendant's argument of reassignment due to pregnancy does not meet the rigorous standards required to justify a BFOQ defense. Defendant must prove that sex is a legitimate proxy for the qualification, showing that nearly all pregnant employees lack the necessary qualifications, which Defendant failed to do.
+
+Moreover, the precedent established in Dothard v. Rawlinson (433 U.S. 321) further illustrates that restrictive job-related qualifications must be backed by substantial evidence linking the qualification directly to job performance. Here, absent concrete evidence and expert testimony, Defendant's concerns about potential injury to pregnant servers remain insufficient to qualify as a BFOQ. Therefore, the reassignment policy solely based on pregnancy constitutes unlawful gender discrimination under Title VII.
+
+The Court thus finds no genuine dispute of material fact regarding Defendant’s liability for pregnancy discrimination. Accordingly, the Court grants Plaintiff’s Motion for Summary Judgment on the issue of Defendant’s liability under Title VII.
+
+citations: ['433 U.S. 321', '472 U.S. 400']
+
+gold_text: Sex'"can be a BFOQ in very limited situations. The Supreme Court held that an employer’s concerns for the physical safety of its clientele may qualify sex as a BFOQ. See Dothard v. Rawlinson, 433 U.S. 321, 334-35, 97 S.Ct. 2720, 53 L.Ed.2d 786 (1977) (reasoning that employing women as prison guards—in a maximum-security prison where an estimated 20% of the male prisoners were sex offenders scattered throughout the prison’s dormitory facility—could pose a threat to the basic control of the. penitentiary and the protection of the inmates and. other security personnel). However, courts can only consider the safety of third parties -in the BFOQ analysis if those third parties are indispensable to the “essence of the business.” Western Air Lines, Inc. v. Criswell, 472 U.S. 400, 420-21, 105 S.Ct. 2743, 86 L.Ed.2d 321 (1985); see also Johnson Controls, 499 U.S. at 203-204, 111 S.Ct. 1196 (rejecting the company’s BFOQ defense in regards to a policy that excludes pregnant workers, in part, because'fetuses are not customers or third parties whose safety is essential to the company’s business).
+
+label: 

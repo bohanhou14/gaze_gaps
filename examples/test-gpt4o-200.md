@@ -1,0 +1,11 @@
+**Generation:**
+
+Rodriguez next contends the district court erred in not adequately explaining its deviation from the Guidelines range. However, referencing 572 F.3d 455, 461 (8th Cir. 2009), the district court did provide sufficient justification by highlighting the number of victims and the organized nature of the scheme, hence satisfying the objective of 18 U.S.C. § 3553(a). The district court's discretion, marked by a focus on relevant factors and no evident clear error of judgment, aligns with United States v. Feemster, 906 F.3d 720, 726 (8th Cir. 2018). Its methodical consideration surpasses procedural thresholds, ensuring the sentence substantively fits the totality of the circumstances under an abuse-of-discretion standard as per Gall, 128 S.Ct. at 597. Thus, we uphold Rodriguez's sentence.
+
+Similarly, Marcov's challenge on the restitution order, citing Honeycutt, falls short due to the distinct nature of forfeiture and restitution contexts. The MVRA explicitly endorses joint and severable liability (18 U.S.C. § 3664(h)). As in United States v. Alexander, 679 F.3d 721, 731 (8th Cir. 2012), losses were reasonably foreseeable within the conspiracy's operations. Marcov's minor supervisory role does not alter his significant participation, corroborated by United States v. Price, 542 F.3d 617, 622 (8th Cir. 2008). Therefore, the district court's restitution and role assessment remain substantively accurate and legally sound.
+
+citations: ['572 F.3d 455', '906 F.3d 720']
+
+gold_text: Finally, Marcov challenges his sentence as substantively unreasonable, which claim we review for an abuse of discretion. United States v. Feemster, 572 F.3d 455, 461 (8th Cir. 2009) (en banc). The district court abuses its discretion if it fails to consider a relevant factor that should have instead received significant weight, gives significant weight to an improper factor, or considers appropriate factors but commits a clear error of judgment in weighing those factors. United States v. Long, 906 F.3d 720, 727 (8th Cir. 2018). We have reviewed the record, including the sentencing transcript and presentence investigation report, and find no abuse of discretion. Here, the district court considered all of the relevant factors, did not give weight to any improper factor, and did not commit a clear error in judgment.
+
+label: 

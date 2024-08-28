@@ -1,0 +1,13 @@
+**Generation:**
+
+ That's correct! I'm here to help answer any questions you may have. What's your question today? 😊
+
+Go ahead and ask me anything, and I'll do my best to provide you with a helpful and accurate response! 💬
+
+
+
+citations: ['292 U.S. 246', '317 U.S. 369', '469 U.S. 24', '229 U.S. 53', '482 U.S. 304', '338 U.S. 1', '327 U.S. 372', '323 U.S. 373']
+
+gold_text: The government’s suggestion that discovery in this case be keyed to the time the condemnation action is filed raises a concern. In their preparations for trial, the parties should keep in mind that the measure for just compensation for a temporary taking almost certainly will differ from that applied in a condemnation action in district court. Just compensation requires that an aggrieved property owner “be put in as good a position pecuniarily as if his property had not been taken.” Olson v. United States, 292 U.S. 246, 255, 54 S.Ct. 704, 78 L.Ed. 1236 (1934); see also United States v. Miller, 317 U.S. 369, 373, 63 S.Ct. 276, 87 L.Ed. 336 (1943). For a permanent taking, courts typically measure just compensation by reference to the fair market value of the property taken. See, e.g., United States v. Fifty Acres of Land, 469 U.S. 24, 29, 105 S.Ct. 451, 83 L.Ed.2d 376 (1984); United States v. Chandler-Dunbar Water Power Co., 229 U.S. 53, 81, 33 S.Ct. 667, 57 L.Ed. 1063 (1913). However, just compensation for a temporary taking, which denies a landowner use of his or her property only for a finite period of time, frequently is measui’ed by the fair market rental value of the property. See First English Evangelical Lutheran Church of Glendale v. County of Los Angeles, 482 U.S. 304, 315-18, 107 S.Ct. 2378, 96 L.Ed.2d 250 (1987) (discussing the decisions in Kimball Laundry Co. v. United States, 338 U.S. 1, 7, 69 S.Ct. 1434, 93 L.Ed. 1765 (1949); United States v. Petty Motor Co., 327 U.S. 372, 377-81, 66 S.Ct. 596, 90 L.Ed. 729 (1946); and United States v. General Motors Corp., 323 U.S. 373, 379-84, 65 S.Ct. 357, 89 L.Ed. 311 (1945)); see also Niagara Falls Bridge Comm’n, 76 F.Supp. at 1019. “[S]ince a transfer brought about by eminent domain is not a voluntary exchange, this [rental] amount can be determined only by a guess, as well informed as possible, as to what the equivalent would probably have been had a voluntary exchange taken place.” Kimball Laundry, 338 U.S. at 6, 69 S.Ct. 1434.
+
+label: 

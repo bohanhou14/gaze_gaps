@@ -1,0 +1,13 @@
+**Generation:**
+
+Ms. Haynes further contends that applying the amended statute retroactively is unjustifiable and violates due process. However, in similar contexts, courts have upheld retroactive applications of statutes where Congress had a rational legislative purpose and explicitly stated its intent. In 493 U.S. 52, the Supreme Court asserted that retroactive application of legislation is justified if it serves a rational legislative purpose. Here, Congress clearly intended for the amended statute to apply to reopened claims filed after October 1, 1997, ensuring uniform treatment and avoiding inequitable burdens on some claimants over others.
+
+In 397 F.3d 1358, the referenced case emphasized that a law’s retroactive application is impermissible if it causes undue prejudice or substantial changes to the legal landscape without clear congressional intent. Conversely, the amended Section 1151 explicitly intended its reach and did not retroactively change vested rights, but rather set forth a standard to ensure fairness in new or reopened claims. Therefore, Ms. Haynes's argument of impermissible retroactivity is unavailing given Congress's clear directive and the rational purpose behind it as elucidated in the statutory amendment and accompanying legislative history.
+
+Given these precedents, we affirm the Veterans Court's decision to apply the post-1997 version of section 1151.
+
+citations: ['397 F.3d 1358', '493 U.S. 52']
+
+gold_text: We see no constitutional difficulty in applying the amended version of section 1151 as Congress has dictated. Even if we were to assume that this application of the amended statute qualifies as “retroactive,” as our precedent has defined that term, see Princess Cruises, Inc. v. United States, 397 F.3d 1358, 1366 (Fed.Cir.2005); see also Landgraf, 511 U.S. at 269, 114 S.Ct. 1483 (“A statute does not operate ‘retrospectively’ merely because it is applied in a case arising from conduct antedating the statute’s enactment....”), the burden would lie on Ms. Haynes “to establish that the legislature has acted in an arbitrary and irrational way,” and that no “rational legislative purpose” exists for applying the amendment retroactively. See Commonwealth Edison, 271 F.3d at 1341 (quotation marks omitted); see also United States v. Sperry Corp., 493 U.S. 52, 64-66, 110 S.Ct. 387, 107 L.Ed.2d 290 (1989) (applying rational basis scrutiny). Ms. Haynes has not met this burden. See also Landgraf 511 U.S. at 272, 114 S.Ct. 1483 (noting that “the constitutional impediments to retroactive civil legislation are ... modest” (emphasis omitted)).
+
+label: 

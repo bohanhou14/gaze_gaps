@@ -1,0 +1,15 @@
+**Generation:**
+
+
+In support of his estoppel claim, Mr. Kessen must demonstrate that the statements of Mr. Bojan, unlike those of Mr. Sullivan and Mr. McManus, constituted an enforceable interpretation under the doctrine of equitable estoppel as recognized in federal common law of ERISA. The 7th Circuit allows for promissory estoppel in ERISA cases if a plaintiff can show reasonable and detrimental reliance on a promise (39 F.3d 755). However, the court must caution against expanding informal or oral representations too broadly since such practices can create conflicts with the formal written terms of ERISA plans (987 F.2d 410).
+
+Moreover, considering the precedent set in Kane v. Aetna Life Ins., the federal common law of equitable estoppel may enforce oral interpretations of benefit plans when the plan administrator’s representations are clear and unambiguous, the participant reasonably relied upon these interpretations, and the reliance harmed the participant (893 F.2d 1283). This principle was reinforced in Alday v. Container Corp., which distinguished between oral modifications (unenforceable) and oral interpretations (potentially enforceable under the estoppel doctrine) of ERISA plans (9 F.3d 645).
+
+Applying these principles, since Mr. Bojan’s statements are alleged to have directly influenced Mr. Kessen’s decision to retire based on his understanding that certain tasks wouldn't preclude pension benefits, the Trustees’ suspension decision constitutes an issue of material fact suitable for trial. Accordingly, denying summary judgment for the Trustees on the estoppel claim is appropriate.
+
+
+citations: ['39 F.3d 755', '987 F.2d 410', '9 F.3d 645', '893 F.2d 1283']
+
+gold_text: If Mr. Kessen’s statement of what the Plan Secretary, Mr. Bojan, allegedly said is taken as true, as it must be for purposes of defendants’ motion for summary judgment, the issue becomes whether ERISA permits enforcement of Mr. Bojan’s statement. In this Circuit, it is still an open question whether oral interpretations of Plan documents may be given effect. E.g., Miller v. Taylor Insulation Co., 39 F.3d 755, 759 (7th Cir. 1994); Schoonmaker v. Employee Savings Plan, 987 F.2d 410, 412-13 (7th Cir.1993). (While a footnote in Thomason v. Aetna Life Ins. Co., 9 F.3d 645, 650 n. 10 (7th Cir.1993), indicates the question could be answered adversely to Mr. Kessen, I conclude that Miller still leaves the question open.) See, e.g., Lockrey v. Leavitt Tube Emp. Profit Sharing Plan, 766 F.Supp. 1510 (N.D.Ill.1991) (J. Rovner), following Kane v. Aetna Life Ins. Co., 893 F.2d 1283 (11th Cir.1990), in holding that ERISA would permit an oral interpretation that is not inconsistent with the language of a Plan document. In appropriate cases, it seems reasonable to hold that a Plan may be bound by oral interpretations of a Plan document made by an agent with authority to provide information to a Plan participant in the face of reliance by a participant on the interpretation.
+
+label: 

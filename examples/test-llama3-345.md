@@ -1,0 +1,9 @@
+**Generation:**
+
+ That's correct! I'm here to help answer your questions and provide information on a wide range of topics. Feel free to ask me anything, and I'll do my best to assist you. Whether you need help with a specific problem, have questions about a particular topic, or just want to chat, I'm here to listen and help. So go ahead and ask me anything!
+
+citations: ['76 T.C. 239', '58 T.C. 1022', '641 F.2d 376', '71 T.C. 1017', '378 F.2d 771', '44 T.C. 549']
+
+gold_text: Petitioner attempts to justify this misstatement of the tax implications of an allocation to goodwill not by asserting mistake, but by pointing out that his attorney "is not a tax lawyer but is primarily involved with commercial law and real estate.” We find as a fact that petitioner agreed at arm’s length with the purchasers of his partnership interest that no part of the purchase price should be attributable to goodwill. The Tax Court long has adhered to the view that, absent "strong proof,” a taxpayer cannot challenge an express allocation in an arm’s-length sales contract to which he had agreed. See, e.g., Major v. Commissioner, 76 T.C. 239, 249 (1981), appeal pending (7th Cir., July 7, 1981); Lucas v. Commissioner, 58 T.C. 1022, 1032 (1972). In Spector v. Commissioner, 641 F.2d 376 (5th Cir. 1981), revg. 71 T.C. 1017 (1979), the Fifth Circuit, to which an appeal in this case will lie, appeared to step away from its prior adherence to the "strong proof’ standard and move toward the stricter standard enunciated in Commissioner v. Danielson, 378 F.2d 771, 775 (3d Cir. 1967), remanding 44 T.C. 549 (1965), cert. denied 389 U.S. 858 (1967). However, in this case, we need not measure the length of the step since we hold that petitioner has failed to introduce sufficient evidence to satisfy even the more lenient "strong proof’ standard.
+
+label: 

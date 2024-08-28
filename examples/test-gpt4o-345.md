@@ -1,0 +1,15 @@
+**Generation:**
+
+In Wilson Athletic Goods Mfg. Co. (76 T.C. 239), the Court of Appeals emphasized the need to ascertain the true intent of the parties regarding the allocation of purchase price in transactions involving goodwill and covenants not to compete. Similarly, in the present case, the explicit statement in the Agreement for Sale of Partnership Interest that "no consideration has been given to any item of goodwill" suggests a mutual intent to exclude goodwill from the transaction value.
+
+Furthermore, the precedent set in Logan v. Commissioner (58 T.C. 1022) establishes that partner-specific services rendered or to be rendered can inherently give rise to "unrealized receivables" under IRC §751. Given that the Collins-Ledoux agreement allowed for exclusion of goodwill in determining the sale price, the gain can confidently be attributed to rights to future income from services under the dog track agreement.
+
+Therefore, consistent with the conclusions in 641 F.2d 376 and Woolsey (71 T.C. 1017), the value assessed correlates to unrealized receivables, rather than goodwill, supporting the IRS's position to treat portions of the gain as ordinary income. Moreover, aligning with the reasoning in the 378 F.2d 771 and 44 T.C. 549 cases, any implicit value from operating efficiencies, brand equity, or client continuity has not been factored overtly into the sales price.
+
+Thus, the treatment of $575,392.50 of the gain from the sale of Ledoux's partnership interest as unrealized receivables subject to ordinary income is affirmed under relevant tax codes.
+
+citations: ['76 T.C. 239', '58 T.C. 1022', '641 F.2d 376', '71 T.C. 1017', '378 F.2d 771', '44 T.C. 549']
+
+gold_text: Petitioner attempts to justify this misstatement of the tax implications of an allocation to goodwill not by asserting mistake, but by pointing out that his attorney "is not a tax lawyer but is primarily involved with commercial law and real estate.” We find as a fact that petitioner agreed at arm’s length with the purchasers of his partnership interest that no part of the purchase price should be attributable to goodwill. The Tax Court long has adhered to the view that, absent "strong proof,” a taxpayer cannot challenge an express allocation in an arm’s-length sales contract to which he had agreed. See, e.g., Major v. Commissioner, 76 T.C. 239, 249 (1981), appeal pending (7th Cir., July 7, 1981); Lucas v. Commissioner, 58 T.C. 1022, 1032 (1972). In Spector v. Commissioner, 641 F.2d 376 (5th Cir. 1981), revg. 71 T.C. 1017 (1979), the Fifth Circuit, to which an appeal in this case will lie, appeared to step away from its prior adherence to the "strong proof’ standard and move toward the stricter standard enunciated in Commissioner v. Danielson, 378 F.2d 771, 775 (3d Cir. 1967), remanding 44 T.C. 549 (1965), cert. denied 389 U.S. 858 (1967). However, in this case, we need not measure the length of the step since we hold that petitioner has failed to introduce sufficient evidence to satisfy even the more lenient "strong proof’ standard.
+
+label: 

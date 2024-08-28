@@ -1,0 +1,13 @@
+**Generation:**
+
+In addressing Rome’s final argument concerning the severity of the sanction, it is pertinent to note legal precedents that underscore the bankruptcy court’s authority to impose stringent measures for conflicts of interest. As established in the reference case 372 U.S. 633, the bankruptcy court’s discretion extends to the approval and removal of professionals under its jurisdiction, emphasizing the importance of maintaining fiduciary duties without compromise.
+
+The necessity of rigorous conflict-of-interest restraints was also highlighted by the Supreme Court in reference case 312 U.S. 262, which stressed the importance of transparency and reasonableness in the compensation of professionals involved in bankruptcy proceedings. This requirement ensures that those professionals operate without any adverse interests against the estate they serve.
+
+Given this context, the bankruptcy court was within its rights to enforce a severe sanction against Rome, as his failure to disclose and manage conflicts of interest undermined the integrity of the proceedings and posed more than an acceptable risk to the estate. Consequently, the court's decision to disallow Rome's compensation in full serves as a necessary deterrent to similar unethical practices, reinforcing the principles outlined in these landmark cases.
+
+citations: ['372 U.S. 633', '312 U.S. 262']
+
+gold_text: An attorney retained pursuant to section 327(a) assumes a fiduciary responsibility to refrain from rendering any unauthorized service in furtherance of an interest adverse to the client he serves by court appointment. See In re Kendavis, 91 B.R. at 753 (citing Wolf v. Weinstein, 372 U.S. 633, 641, 83 S.Ct. 969, 975, 10 L.Ed.2d 33 (1963)). “A fiduciary ... may not perfect his claim to compensation by insisting that, although he had conflicting interests, he served his several masters equally well or that his primary loyalty was not weakened by the pull of his secondary one.” Woods v. City Nat’l Bank & Trust Co., 312 U.S. 262, 269, 61 S.Ct. 493, 497, 85 L.Ed. 820 (1941); In re Roger J. An, 71 B.R. at 241. Especially where there has been a clear failure to make timely and spontaneous disclosure of all facts material to a disqualifying conflict of interest, counsel appointed pursuant to section 327(a) can lay no claim of right to a lesser sanction than the bankruptcy court is authorized to impose pursuant to section 328(c).
+
+label: 

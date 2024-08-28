@@ -1,0 +1,13 @@
+**Generation:**
+
+The issue of the admissibility of hearsay in conspiracy cases was central to this appeal. Citing the precedent established in United States v. Geaney, 417 F.2d 1116, the court has held that additional evidence, independent of hearsay declarations, must sufficiently establish the defendant’s participation in the conspiracy for the hearsay evidence to be considered by the jury. In our case, the non-hearsay evidence presented—primarily appellant’s association with Maige, the telephone records, and his presence at the scene—fails to meet the standard set forth in Geaney and subsequent cases like United States v. Abramo, 493 F.2d 359, where the court emphasized the necessity of independent evidence demonstrating conspiracy without hearsay contamination.
+
+In Geaney, the court indicated that the trial judge must be satisfied of the defendant’s participation in the conspiracy on non-hearsay evidence before admitting such declarations to the jury. This framework was reaffirmed in Abramo, where the importance of parsing independent evidence from hearsay was reiterated. 
+
+Given the insufficiency of the independent evidence to substantiate a conspiracy charge against the appellant, the trial court erred in admitting the hearsay statements of Maige. Consequently, the government’s case, largely dependent on these hearsay statements, collapses under scrutiny. Following the principles articulated in Geaney and Abramo, we reverse all counts of conviction due to the improper admission of hearsay evidence.
+
+citations: ['417 F.2d 1116', '493 F.2d 359']
+
+gold_text: . We recognize that this approach, at first blush, appears to render submission of the hearsay declarations for the consideration of the jury superfluous. As the Second Circuit has pointed out, however: “Although the proof aliunde may suffice for submission to the jury, the jury might not be convinced, by it and the utterances might tip the scale.” United States v. Geaney, 2 Cir. 1969, 417 F.2d 1116, 1120, cert. denied sub nom. Lynch v. United States, 1970, 397 U.S. 1028, 90 S.Ct. 1276, 25 L.Ed.2d 539. It should be noted that the Second Circuit has expressly refused to adopt the prima facie test for admissibility of co-conspirator hearsay. That court relies instead on a determination whether, weighing all the evidence, the government has proved the defendant’s participation in the alleged conspiracy by “a fair preponderance of the evidence independent of the hearsay utterances.” Id. If so, then the hearsay is admissible. Accord, United States v. D’Amato, 2 Cir. 1974, 493 F.2d 359.
+
+label: 

@@ -1,0 +1,18 @@
+**Generation:**
+
+ <answer>
+In the case of Saudi Arabian Oil Company v. Good, the court denied the defendant's motion to dismiss based on foreign sovereign immunity. The plaintiff, Edward Good, alleged that the defendant, Saudi Aramco, was negligent in providing medical care to his son, Logan, in Saudi Arabia. The plaintiff claimed that Saudi Aramco's recruitment and hiring practices in the United States and their performance of contractual obligations in Saudi Arabia had a direct effect in the United States.
+
+The court held that the defendant's recruitment and hiring practices in the United States were commercial activities that did not provide a basis for jurisdiction under the Foreign Sovereign Immunities Act (FSIA). The court further held that the plaintiff's claims were not based on a commercial activity carried on in the United States or an act performed in the United States in connection with a commercial activity elsewhere, as required by the FSIA.
+
+The court also rejected the plaintiff's claim that the defendant's negligence in providing medical care in Saudi Arabia had a direct effect in the United States. The court held that the eventual effect in the United States of the personal injury or death of an American citizen while abroad is not direct within the meaning of the FSIA.
+
+The court's decision is supported by the reference cases of Zedan v. Kingdom of Saudi Arabia, 849 F.2d 1511 (D.C.Cir.1988), and Zernicek v. Brown & Root, Inc., 826 F.2d 415 (5th Cir.1987). In Zedan, the court held that a foreign sovereign's act performed abroad was not a direct effect in the United States, even if the foreign government might foresee that a United States citizen might be injured while traveling or working in its territory. In Zernicek, the court held that the eventual effect in the United States of the personal injury or death of an American citizen while abroad is not direct within the meaning of the FSIA.
+
+In conclusion, the court's decision in Saudi Arabian Oil Company v. Good is consistent with the precedents established by the reference cases. The court correctly held that the defendant's recruitment and hiring practices in the United States were not commercial activities that provided a basis for jurisdiction under the FSIA, and that the plaintiff's claims were not based on a commercial activity carried on in the United States or an act performed in the United States in connection with a commercial activity elsewhere. The court also correctly held that the
+
+citations: ['836 F.2d 91', '26 F.3d 1166', '513 U.S. 1121']
+
+gold_text: In Zedan, 849 F.2d at 1515, the court determined that the contract to pay Zedan was breached in Saudi Arabia and the breach continued after Zedan left Saudi Arabia and returned to the United States, but the effect in the United States was not “direct” because it was due to an intervening event, i.e., Zedan’s return. It applied “ ‘the common sense interpretation of “direct effect” [as] one which has no intervening element but, rather, flows in a straight line without deviation or interruption.’” Id., quoting Upton v. Empire of Iran, 459 F.Supp. 264, 266 (D.D.C.1978), aff'd mem., 607 F.2d 494 (D.C.Cir.1979). See also Martin v. Republic of South Africa, 836 F.2d 91 (2d Cir.1987); Princz v. Federal Republic of Germany, 26 F.3d 1166 (D.C.Cir.1994), cert. denied, 513 U.S. 1121, 115 S.Ct. 923, 130 L.Ed.2d 803 (1995).
+
+label: 

@@ -1,0 +1,18 @@
+**Generation:**
+
+ <answer>
+In considering the case, we must analyze the facts in the light most favorable to the plaintiff, while also examining the character of the allegedly tortious activity. The Supreme Court in Buell v. Atchison, Topeka and Santa Fe Ry. Co., 480 U.S. 557, 107 S.Ct. 1410, 94 L.Ed.2d 563 (1987), recognized that the question of whether an employee can recover for emotional injury might rest on a variety of subtle and intricate distinctions related to the nature of the injury and the character of the tortious activity. The Court also noted that the FELA has been construed to cover some intentional torts even though its text only mentions negligence.
+
+In this case, the plaintiff, Holliday, alleged that he suffered an injury due to being forced to work on a job that he was not qualified for. However, the district court granted summary judgment in favor of the defendant, concluding that Holliday's condition was not an "injury" within the meaning of the FELA. On appeal, we must determine whether the district court's decision was correct.
+
+In Adkins v. Seaboard System R.R., 821 F.2d 340 (6th Cir.), cert. denied, 484 U.S. 963, 108 S.Ct. 452, 98 L.Ed.2d 392 (1987), the court concluded that the FELA has not been applied to any intentional torts lacking any physical dimension such as assault. Similarly, in this case, we hold that the allegedly tortious activity did not result in a physical injury to another party which Holliday witnessed or indeed injury to another party at all. Therefore, we conclude that summary judgment was appropriately granted.
+
+The case of Moody v. Maine Central R.R. Co., 620 F.Supp. 1472 (D.Maine 1985), aff'd, 823 F.2d 693 (1st Cir.1987), also supports our decision. In this case, the court concluded that an employee's claim for emotional distress was not cognizable under the FELA.
+
+In conclusion, we hold that the district court's decision to grant summary judgment in favor of the defendant was correct. The allegedly tortious activity did not result in a physical injury to another party which Holliday witnessed or indeed injury to another party at all, and therefore, we conclude
+
+citations: ['823 F.2d 693', '873 F.2d 673']
+
+gold_text: We, along with the Court of Appeals for the First Circuit, “discern from the Buell opinion an attempt to leave the door to recovery for wholly emotional injury somewhat ajar but not by any means wide open.” Moody v. Maine Central R.R. Co., 823 F.2d 693, 694 (1987). We are encouraged to reach our result by the realization that if we hold that a railroad employee demonstrating some possible negligence with psychological consequences will always present a jury question in a FELA action, the most attenuated claims could be advanced. Indeed, a routine management decision not resulting in an accident could give rise to a claim by an employee for psychological injuries. We think that we must determine whether there may be a recovery, as the Supreme Court indicated in Buell, on the baáis of the facts in the particular case being considered and that is what we have done. While a bright line is always cherished by judges and attorneys, the fact is that in some situations, as Judge Becker noted in a very different context in United States v. Balascsak, 873 F.2d 673, 685 (3d Cir.1989) (concurring opinion), “developing the law on a case-by-case basis and drawing lines depending on the facts is the stuff of judging_” We have developed the law in this case on that basis and the line we draw will not allow recovery.
+
+label: 

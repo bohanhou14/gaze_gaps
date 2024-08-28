@@ -1,0 +1,9 @@
+**Generation:**
+
+The appellant also contends that accepting the awarded amount estops the complainant from prosecuting this appeal regarding the valuation and interest on the machinery. This mirrors the arguments found in reference cases 2 S. Ct. 25 and 27 L. Ed. 346, where it was established that accepting payment does not equate to a waiver of the right to appeal, as there was no inconsistency in conduct that would imply estoppel. Furthermore, as per reference case 286 F. 365, receiving the principal sum does not preclude an appeal regarding additional claims such as interest and attorney's fees. Similarly, in reference case 179 F. 182, partial satisfaction of a judgment does not impair the right to prosecute a writ if not in full satisfaction. Thus, following these precedents, the acceptance of the tendered amount by the complainant does not bar the current appeal pertaining to the contested valuation and interest.
+
+citations: ['2 S. Ct. 25', '27 L. Ed. 346', '286 F. 365', '179 F. 182']
+
+gold_text: We do not find it necessary to enter into a discussion of these questions in view of the acceptance by the appellant of the amount allowed him in full satisfaction and discharge of the judgment. He contends that there is no inconsistency in his acceptance of the money and the prosecution of the appeal, relying on such decisions as Embry v. Palmer, 107 U. S. 3, 8, 2 S. Ct. 25, 27 L. Ed. 346; McFarland v. Hurley (C. C. A.) 286 F. 365; Carson Lumber Co. v. St. Louis, etc., Railroad Co. (C. C. A.) 209 F. 191, 193.; Snow v. Hazlewood (C. C. A.) 179 F. 182. But it is obvious that he falls within the general rule and not within the exceptions thereto as set out in Carson Lumber Co. v. St. Louis, etc., Railroad Co., supra, as follows:
+
+label: 

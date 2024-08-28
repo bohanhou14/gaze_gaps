@@ -1,0 +1,13 @@
+**Generation:**
+
+We find that this argument lacks merit. The Supreme Court has consistently upheld the ability of Congress to enact retroactive legislation that effectively ratifies prior actions, even those that may have lacked initial authority. As noted in Bradley v. Richmond School Board, 416 U.S. 696, the general rule is that a court is to apply the law in effect at the time it renders its decision. This retroactive application is valid unless it causes manifest injustice, which has not been demonstrated here. Moreover, as established in cases such as Swayne & Hoyt, Ltd. v. United States, 300 U.S. 297, and reaffirmed in Bradley, P.L. 98-532 merely ratifies a pre-existing transfer of administrative duties without creating new substantive liabilities or unexpected obligations on Westinghouse.
+
+Furthermore, the argument that retroactive application violates due process by altering jurisdictional facts is unsupportable. In 428 U.S. 1, the Supreme Court has long accepted that legislation readjusting rights and obligations is permissible even if it affects settled expectations, provided it does not impose new substantive liabilities. P.L. 98-532 simply clarifies and reaffirms the EEOC’s authority to enforce the Equal Pay Act, which does not constitute a substantive due process violation.
+
+Accordingly, the judgment of the district court is vacated, and the matter is remanded for further proceedings consistent with our findings.
+
+citations: ['416 U.S. 696', '428 U.S. 1']
+
+gold_text: First, Congress did not create jurisdiction over this lawsuit in enacting P.L. 98-532. The district courts have had federal question jurisdiction over such claims since the Equal Pay Act was enacted in 1964. See 28 U.S.C. § 1331 (1982). The authority of one executive agency or another to institute such suits is properly characterized as a question of standing, and not one of jurisdiction. Second, no reason has been suggested why a retroactive transfer of standing to sue from one agency to another should be viewed under any different principles from those governing retroactive legislation generally. Certainly the retroactive change wrought here has less impact on substantive rights of individuals than decisions, for example, to tax attorneys’ fees, Bradley, 416 U.S. 696, 94 S.Ct. 2006, 40 L.Ed.2d 476, to require employers to compensate their employees, Usery v. Turner Elkhorn Mining Co., 428 U.S. 1, 96 S.Ct. 2882, 49 L.Ed.2d 752 (1976), or to assess withdrawal penalties in the pension fund context, Pension Benefit Guaranty Corp. v. R.A. Gray & Co., — U.S.-, 104 S.Ct. 2709, 2718-19, 81 L.Ed.2d 601 (1984), all of which have been given retroactive effect despite due process challenges.
+
+label: 

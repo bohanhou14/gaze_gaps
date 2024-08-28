@@ -1,0 +1,15 @@
+**Generation:**
+
+In determining the appropriate remedy for the government's breach of the plea agreement, we look to precedent in our circuit and others. There are two potential remedies: specific performance or withdrawal of the guilty plea. The choice lies within the discretion of the trial court (referencing United States v. McGovern, 822 F.2d 739, 746).
+
+Specific performance is generally the favored remedy, as it maintains the integrity of the plea bargaining process, ensuring that agreed-upon terms are enforced (citing United States v. Kurkculer, 918 F.2d 295). The predominant factor in deciding this remedy is the prejudice to the defendant (see McGovern, 822 F.2d at 746 and United States v. Walker, 927 F.2d 389, 391). Since Fowler relied significantly on the government's promise to recommend an offense level of 25, and subsequently waived substantial rights based on that promise, the prejudice is evident.
+
+Furthermore, not holding the government to its word would undermine the fairness and reliability of plea negotiations, which form a fundamental component of our criminal justice system (referencing Santobello v. New York, 404 U.S. 257). Here, we see no substantial reason to deviate from the preferred remedy or to opt for withdrawal of the guilty plea (cf. Walker, 927 F.2d at 391). Thus, we reverse the sentence and remand for specific performance of the plea agreement.
+
+By imposing specific performance, we aim to uphold the integrity and fairness due to Fowler, aligning our decision with established jurisprudence (reference cases 822 F.2d 739 and 43 F.3d 345).
+
+citations: ['822 F.2d 739', '43 F.3d 345']
+
+gold_text: Where, as here, the prosecutor has materially breached the plea agreement, the determination of the appropriate remedy is typically left to the discretion of the court. Santobello, 404 U.S. at 262-63, 92 S.Ct. 495. Among the options available to the court are permitting the defendant to be resentenced before a different judge consistent with the terms of the plea agreement (which, in this case, would require the government to fulfill its obligation to recommend a total offense level of 25), or permitting the defendant to withdraw his plea of guilty. Id. at 263, 92 S.Ct. 495; see also United States v. McGovern, 822 F.2d 739, 746 (8th Cir.1987). Our court has, in some cases, determined which remedy is appropriate on its own accord. See, e.g., Margalli-Olvera v. INS, 43 F.3d 345, 354-55 (8th Cir.1994) (remanding an order of deportation to the INS for specific performance of its agreement to remain silent on the issue of whether the petitioner was subject to deportation). We are not so required, however, United States v. Gomez, 271 F.3d 779, 782 (8th Cir.2001), and choose not to do so in this case, accord Santobello, 404 U.S. at 262-63, 92 S.Ct. 495 (remanding to state court for its determination of what remedy to apply to cure the prosecution’s breach of a plea agreement). Rather, we remand for the district court to determine, consistent with this opinion, the appropriate remedy to impose in the first instance.
+
+label: 

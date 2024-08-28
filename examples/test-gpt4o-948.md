@@ -1,0 +1,13 @@
+**Generation:**
+
+The conclusive establishment of probable cause due to plaintiffs' summary convictions precludes a successful claim for malicious prosecution. As established in reference case 663 F.2d 820, "The district court ruled that the jury verdict, which necessarily included a finding of guilt beyond a reasonable doubt, conclusively established the existence of probable cause." Similarly, the Third Circuit adheres to this principle. As further explicated in 508 F.2d 356, the presumption of probable cause can be conclusively established by a conviction in the first instance, "given weight in the form of a rebuttable or conclusive presumption of probable cause to a conviction of the present plaintiff in the court of first instance."
+
+In light of these precedents, the fact that plaintiffs were initially found guilty by the District Justice negates their claim of lack of probable cause. This aligns with the ruling in 728 F.2d 301, which underscores that knowledge of an injury and probable cause is central to such claims. Therefore, defendant Neil's actions were underpinned by probable cause, eliminating the basis for a malicious prosecution suit.
+
+Given the foregoing analysis and legal references, we grant summary judgment for defendant Neil on the civil rights claim and dismiss plaintiffs' state claim for lack of jurisdiction.
+
+citations: ['663 F.2d 820', '728 F.2d 301', '508 F.2d 356']
+
+gold_text: A conviction, upon examination by a judicial officer, conclusively establishes the existence of probable cause, regardless of whether the conviction is subsequently reversed on appeal. See Cramer v. Crutchfield, 648 F.2d 943, 945 (4th Cir. 1981) (interpreting Virginia law); Gowin v. Altmiller, 455 F.Supp. 743, 746 (D.C.Idaho 1978), aff’d 663 F.2d 820 (9th Cir.1981) and Diminnie v. United States, 522 F.Supp. 1192, 1195 (E.D.Mich.1981), aff’d 728 F.2d 301 (6th Cir.1984). But see Williams v. City of New York, 508 F.2d 356 (2d Cir. 1974) (a conviction ultimately upset is accorded only the force of prima facie evidence of probable cause which can be overcome in a suit for malicious prosecution). The neutral and experienced opinion of a judicial officer, here a District Justice, that a person was guilty of the charges establishes the presence of probable cause. Since probable cause has been established, plaintiffs’ claim of malicious prosecution must fail. Accordingly, we will enter judgment for defendant on the civil rights claim.
+
+label: 

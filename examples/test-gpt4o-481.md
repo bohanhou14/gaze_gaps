@@ -1,0 +1,15 @@
+**Generation:**
+
+When interpreting guaranty agreements, courts recognize the distinction between absolute and conditional guaranties. An absolute guarantor's liability arises immediately upon the principal obligor’s default, without the need for creditor's notice or demand. In this case, the record shows that the guaranty agreements were absolute and unconditional, emphasizing that the liability of the Pfankuchs arose immediately upon the Corporation’s default, irrespective of any notice (Reference case 90 B.R. 241; 9 B.R. 723).
+
+Furthermore, in assessing the elements of a preferential transfer under § 547(b), it is essential to determine the control over the funds used for the transfer. Specifically, the case of Hansen v. MacDonald Meat Company underscores that control over the disposition of funds is critical in distinguishing whether a debtor's property interest was transferred (Reference case 776 F.2d 1249).
+
+Given the facts, including the June 20, 2007 payment from the Pfankuchs' personal credit account to satisfy the Corporation’s delinquent rent, it is clear that the transfer of funds was an immediate financial obligation of the Pfankuchs. Therefore, since the guaranty agreements were absolute, the payment reflects a transfer of the Pfankuchs’ interest intended to cover the antecedent debt owed by the Corporation. Consequently, this transfer does not constitute the Corporation’s preferential transfer, but rather an individual obligation satisfied by the guarantors.
+
+Accordingly, the lack of evidence demonstrating that the Corporation exercised control over the AT & T credit line is pivotal. Based on these observations, the transfer in question should be considered outside the jurisdiction of the Corporation's bankruptcy estate and falls under the purview of the Pfankuchs' Chapter 13 estate, necessitating the turnover of funds by Gugino to Krommenhoek. Therefore, summary judgment should be granted in favor of Krommenhoek.
+
+citations: ['90 B.R. 241', '776 F.2d 1249', '9 B.R. 723']
+
+gold_text: Despite purporting to condition the Pfankuch’s liability upon the Mall’s demand for payment, the only condition precedent to their liability is a default by the Corporation under the lease. If the Corporation defaulted, the Pfankuchs absolutely and unconditionally guaranteed they would make payment. Such a guaranty requires the guarantor to pay immediately upon the principal obligor’s default. In re Pulliam, 90 B.R. 241 (Bankr.N.D.Tex.1988). In short, the Pfankuchs’ liability on their guaranty arose as soon as the Corporation defaulted, not upon the Corporation’s failure to cure, or the Mali’s demand for payment. See United States v. Little Joe Trawlers, Inc., 776 F.2d 1249,1253 (5th Cir.1985). Indeed, “[the] demand [for payment] serves solely as a request for payment as opposed to the creation of liability.” In re Wilson, 9 B.R. 723, 725 (Bankr.E.D.N.Y.1981).
+
+label: 

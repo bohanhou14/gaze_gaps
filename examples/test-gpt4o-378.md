@@ -1,0 +1,15 @@
+**Generation:**
+
+The issue of whether the extension of the 120-day exclusivity period also extends the 180-day period is addressed in several pertinent cases. In *In Re Trainer’s Inc.*, 17 B.R. 246, the court determined that extending the 120-day period does not automatically extend the 180-day period, necessitating a separate extension request for both periods. Similarly, in *In Re Barker Estates, Inc.*, 14 B.R. 683, the court held that without extending both periods explicitly, other parties may file competing plans after the initial 120 days have lapsed, even if the 120-day period was extended.
+
+On the contrary, the court in *In Re Pine Run Trust, Inc.*, 20 B.R. 886, disagreed and opined that an unobjected extension of the 120-day period should implicitly extend the 180-day period as well. This court finds the reasoning in *In Re Pine Run Trust, Inc.* more persuasive, recognizing the impracticality of requiring separate extensions and affirming that such extensions should inherently cover both periods for seamless administration.
+
+Therefore, the Creditors’ Committee's request for its plan to be considered filed immediately after the 120-day period's extension is inconsistent with this court's interpretation. This court holds that, so long as the Debtors have met their extended deadlines, the 180-day period for exclusivity in soliciting acceptances remains protected until its extended expiration on March 7, 1991.
+
+Based on the cited cases and the statute's interpretation, the Creditors' Committee may not file its plan before the end of the extended 180-day period. This position ensures fairness and adherence to the statutory framework set forth under § 1121 of the Bankruptcy Code.
+
+citations: ['14 B.R. 683', '17 B.R. 246', '20 B.R. 886']
+
+gold_text: The Creditors’ Committee cites authority for the proposition that where a debtor seeks an extension of the 120 exclusivity period but not the 180 day acceptance period, the latter period is not automatically extended. See In re Barker Estates, Inc., 14 B.R. 683 (Bankr.W.D.N.Y.1982); In re Trainer’s, Inc., 17 B.R. 246 (Bankr.E.D.Penn.1982). The Creditors’ Committee also cites authority for the proposition that where a debtor seeks an extension of the 120 day period and such extension is granted without objection by any party in interest, the extension of the 180 day period is automatically extended. See In re Ravenna Industries, Inc., 20 B.R. 886 (Bankr.N.D.Ohio 1982). However, each of these cases deals with the situation where a debt- or sought an extension of its 120 day exclusivity period but failed to seek an extension of its 180 day acceptance period. In the case at bar, the Debtors not only sought but were granted extensions of both the 120 day and the 180 day exclusivity periods. Hence, the holdings in In re Barker Estates, Inc., In re Trainer’s, Inc. and In re Ravenna Industries, Inc. are inapplicable here.
+
+label: 

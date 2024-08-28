@@ -1,0 +1,13 @@
+**Generation:**
+
+In the case at hand, Butler’s alleged actions do not constitute the type of "distinct RICO injury" required to sustain a civil RICO claim. As established in **Bankers Trust Co. v. Rhoades, 741 F.2d 511**, a complaint must allege more than just injuries from predicate acts; it must demonstrate an injury resultant from the operation of a pattern of racketeering activities or a distinct RICO injury. Here, Convey-All's claim centers on fraud via interstate communications, akin to the insufficient allegations dismissed in **Shahawy v. Harrison, 755 F.2d 1432**.
+
+Additionally, the Eleventh Circuit's reference in **Morosani v. First National Bank of Atlanta, 703 F.2d 1220**, aligns with this rationale. Morosani suggested that civil RICO remedies apply predominantly to matters with a criminal character, further obliging plaintiffs to establish a nexus to criminal activity. Convey-All’s claims, however, fail to exhibit such a nexus and are fundamentally grounded in business fraud, not in the realm of organized crime or broad racketeering as required by precedents like **Sedima, S.P.R.L. v. Imrex Co., 741 F.2d 482** and **Bankers Trust Co. v. Rhoades, 741 F.2d 511**.
+
+Thus, in line with case law, specifically **742 F.2d 408** which emphasizes the need for "something more" beyond the predicate acts, Convey-All’s RICO allegations lack the essential distinct RICO injury and the traditional criminal elements necessary to uphold such a claim. Therefore, Count Four of the counterclaim must be dismissed.
+
+citations: ['741 F.2d 511', '741 F.2d 511', '742 F.2d 408']
+
+gold_text: A further reason why Convey-All’s RICO claim cannot be maintained is that a civil RICO plaintiff must allege something more than injury resulting from the predicate acts. Bankers Trust Co. v. Rhoades, 741 F.2d 511 (2nd Cir.1984); Alexander Grant and Company v. Tiffany Industries, Inc., 742 F.2d 408 (8th Cir.1984). The language of RICO “requires that plaintiffs allege injury caused by an activity which RICO was designed to deter, which, whatever it may be, is different from that caused simply by such predicate acts as are alleged here”. Sedima, 741 F.2d at 949. Although Convey-All does allege in its RICO count that it suffered injuries “by reason of a pattern of unlawful conduct on the part of plaintiff and its aforesaid employees”, it fails to assert how the alleged injury is a product of “racketeering”, distinct from the injury caused by fraud perpetrated by mail or telephone. This may be just another way of saying what has already been said.
+
+label: 

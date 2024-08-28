@@ -1,0 +1,15 @@
+**Generation:**
+
+In addressing the argument presented by Rock Island, it is essential to consider the precedent established in related cases. In the case cited as 266 F.2d 857, the court ruled that a contract of indemnity could be enforceable even in instances of gross negligence, provided there was no moral fault amounting to wantonness. Similarly, the rationale from 296 F.2d 256 underscores that indemnity agreements are often upheld unless they are patently inconsistent with public policy or were formed under duress or fraud, which is not alleged here.
+
+Further support is drawn from the ruling in 350 F.2d 273, where it was held that the railroad could contract for indemnity even when acting beyond its role as a common carrier. This viewpoint aligns with our determination that the detour agreement's provision is comprehensive enough to cover the broadest range of liabilities, including those arising from statutory violations.
+
+Lastly, referencing 205 F.2d 589 highlights the importance of the jurisdictional applicability of indemnity provisions, with the court consistently enforcing such agreements unless explicitly voided by state or federal law. In our case, there is no indication that the agreement contravenes any overriding legal statutes.
+
+Thus, in light of the jurisprudence and the specifics of the detour agreement, we find that the district court correctly interpreted the indemnity provisions to encompass Burlington’s liabilities, including statutory violations, thereby affirming the lower court's decision.
+
+citations: ['266 F.2d 857', '205 F.2d 589', '296 F.2d 256', '350 F.2d 273']
+
+gold_text: These considerations also lead us to reject Rock Island’s argument that the indemnity provisions of the Agreement should be invalidated as against public policy. Unlike Boyer v. Atchison, Topeka and Santa Fe Ry. Co., 34 Ill.App.2d 330, 181 N.E.2d 372 (1st Dist.1962), affirmed, 38 Ill.2d 31, 230 N.E.2d 173 (Ill.Sup.Ct.1967), certiorari denied, 390 U.S. 949, 88 S.Ct. 1038, 19 L.Ed.2d 1140 the distribution of risks undertaken by this contract does not impair the policies or force of the Federal Safety Appliance Act. See Inland Container Corp. v. Atlantic Coast Line RR. Co., 266 F.2d 857, 861 (5th Cir. 1959); Chicago & N. W. Ry. Co. v. Davenport, 205 F.2d 589, 594 et seq. (5th Cir. 1953); Jacksonville Terminal Co. v. Railway Express Agency, Inc., 296 F.2d 256, 259, note 1 (5th Cir. 1961), certiorari denied, 369 U.S. 860, 82 S.Ct. 949, 8 L.Ed.2d 18. We agree with the court in Colorado Milling & Elevator Co. v. Terminal RR. Association, 350 F.2d 273, 278-279 (8th Cir. 1965), certiorari denied, 382 U.S. 989, 86 S.Ct. 563, 15 L.Ed.2d 476, that these provisions of the contract represented an adjustment of the private relations between the two carriers but did not alter their duties to the public as common carriers.
+
+label: 

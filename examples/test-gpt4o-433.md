@@ -1,0 +1,15 @@
+**Generation:**
+
+As established in Mosser v. Darrow, 341 U.S. 267, a trustee in bankruptcy is not held personally liable for mere mistakes in judgment but only for willful and deliberate violations of fiduciary duties. In the present case, the trustee did not profit from his actions nor acted in a willful or deliberate manner to set up an adverse interest. Instead, he operated under the assumption that the debtor would generate sufficient funds to cover the post-dated check, a contingency equally recognized by the plaintiff.
+
+Moreover, under the principles set forth in Reference case 552 F.2d 1367, trustees are shielded from personal liability except in instances of willful, deliberate, or negligent actions that directly contravene their duties. The evidence does not demonstrate that the trustee's actions rose to such a level of misconduct. The trustee followed due processes by keeping the court informed and acted in good faith within the scope of his authorized duties. 
+
+The claim of negligence lacks substantiating evidence that the trustee's decisions were anything beyond legitimate business judgments shared by the plaintiff. Therefore, based on the precedents cited and the facts outlined, we affirm the District Judge's ruling that there is no basis for holding the trustee personally liable under the circumstances.
+
+The judgment is affirmed.
+
+citations: ['552 F.2d 1367', '341 U.S. 267']
+
+gold_text: But, even if it be assumed that the trustee as such is to be charged with a mistake of judgment in this matter, there is, as the District Court correctly held, no authority for a finding of personal liability here. The general rule is that “[receivers and trustees appointed to conduct business on behalf of an estate in reorganization are by the weight of authority only liable as receivers and trustees. They are not individually liable unless they act outside their authority.” 11 Remington on Bankruptcy § 4507 (1961). (Emphasis added) Unquestionably, the trustee did not act “outside his authority” in continuing the business of the debtor or in accepting the lease of the equipment from the plaintiff as made by the debtor in reorganization. The order of his appointment expressly provided him with such authority. In exercising that authority, the trustee was vested with considerable discretion. When acting within the discretionary bounds of this authority, it is settled that the trustee may not be held liable for any mistake of judgment; that his liability personally is “only for acts determined to be willful and deliberate in violation of his duties” and specifically that he is liable solely “in his official capacity, for acts of negligence.” Sherr v. Winkler, 552 F.2d 1367, 1375 (10th Cir. 1977), relying on Mosser v. Darrow, 341 U.S. 267, 71 S.Ct. 680, 95 L.Ed. 927 (1951). (Emphasis added)
+
+label: 

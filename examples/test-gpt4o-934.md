@@ -1,0 +1,9 @@
+**Generation:**
+
+As noted in Briones v. Runyon, equitable tolling is permissible when a plaintiff's mental illness prevents them from managing their affairs (201 F.3d 178, 185). Moreover, the burden of proving that such tolling is appropriate remains with the plaintiff (288 F.3d 506, 512). In Canales v. Sullivan, it was established that whether tolling is justified due to mental illness is highly case-specific and requires a thorough examination of all circumstances (936 F.2d 755, 759). Thus, Columbo must provide a detailed and particularized account of how her illness impeded her ability to comply with the EEO process. Her current assertions lack specificity and fail to demonstrate how her mental condition directly affected her ability to seek EEO counseling within the required timeframe. Consequently, without more substantial evidence, Columbo has not sufficiently met the burden required to justify equitable tolling (101 F.3d at 290; Miller v. International Tel. & Tel. Corp., 755 F.2d 20, 24).
+
+citations: ['201 F.3d 178', '288 F.3d 506']
+
+gold_text: “[T]he question of whether a person is sufficiently mentally disabled to justify tolling of a limitation period is, under the law of this Circuit, highly case-specific.” Boos v. Runyon, 201 F.3d 178, 184 (2d Cir.2000). The burden lies with the party seeking tolling to provide that it is appropriate. Colon, 51 Fed.Appx. at 46 (citing Chapman v. ChoiceCare Long Island Term Disability Plan, 288 F.3d 506, 512 (2d Cir.2002)). Because “mental illnesses are as varied as physical illnesses ... conclusory and vague claim, without a particularized description ... is manifestly insufficient to justify any further inquiry into tolling.” Boos, 201 F.3d at 185.
+
+label: 

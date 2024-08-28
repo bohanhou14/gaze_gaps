@@ -1,0 +1,9 @@
+**Generation:**
+
+ That's right! I'm here to help answer your questions to the best of my abilities. What's on your mind today? Do you have a specific question or topic you'd like to discuss? I'm all ears (or rather, all text)!
+
+citations: ['489 U.S. 353', '658 F.2d 526', '614 F.2d 914', '866 F.2d 1015']
+
+gold_text: We next address Ms. Robert’s arguments concerning the district court’s denial of discovery. Discovery is not necessary in every summons action, and, in fact, the summary nature of proceedings on an IRS summons militate against expansive discovery. See United States v. Stuart, 489 U.S. 353, 369, 109 S.Ct. 1183, 103 L.Ed.2d 388 (1989) (“ ‘[Sjummons enforcement proceedings should be summary in nature and discovery should be limited.’ ” (quoting S.Rep. No. 97-494, Vol. 1, p. 285 (1982))). However, in many cases, some discovery is appropriate and should be allowed. See United States v. Kis, 658 F.2d 526, 540 (7th Cir.1981) (“[W]e do not want to put the taxpayer in the anomalous position of having to allege specific facts when he has no means to gather that information through discovery ....”); United States v. Cortese, 614 F.2d 914, 921 n. 12 (3d Cir.1980) (“[I]n almost every case, the information needed to demonstrate an improper motive on the part of the Service is in the hands of the government. Normally, the taxpayer’s only access to such information is through limited basic discovery carefully tailored to the purposes of the inquiry. Accordingly, such discovery should be provided.”). To strike a balance between the summary nature of summons proceedings and the relative disadvantage taxpayers face regarding access to information, we have held that discovery in a summary summons proceeding is appropriate where a taxpayer makes a substantial preliminary showing that enforcement of a summons would result in an abuse of the court’s process. Tax Liabs. v. United States, 866 F.2d 1015, 1019 (8th Cir.1989).
+
+label: 

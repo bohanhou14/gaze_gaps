@@ -1,0 +1,21 @@
+**Generation:**
+
+
+
+The Commission's decision to use only 12 months of data to calculate the price cap for the New York City electric capacity market is flawed. The Commission failed to provide a meaningful explanation for its decision, despite petitioners' substantial objections. The decision is arbitrary and capricious, as it does not consider the potential impact of the maintenance cycle on forced outage rates. Moreover, the Commission's reliance on the 12-month data as a more "current" reflection of outage conditions is insufficient, as it does not consider the potential impact of changed market conditions or the physical state of the generating units.
+
+In 85 F.3d 684, the court held that an agency must respond meaningfully to evidence and objections that appear legitimate. In this case, the Commission's failure to address petitioners' concerns about the maintenance cycle and its impact on forced outage rates is a violation of this principle.
+
+Furthermore, the Commission's decision is inconsistent with the principle of revenue neutrality. The Commission's goal was to translate the price cap to reflect the shift from measuring capacity on the basis of installed capacity (ICAP) to unforced capacity (UCAP). However, the Commission's decision to use only 12 months of data may result in a lower price cap, which could deprive petitioners of anticipated revenue streams.
+
+In 332 U.S. 194, the court held that an agency's decision must be based on a reasonable interpretation of the evidence. In this case, the Commission's decision to use only 12 months of data is not supported by a reasonable interpretation of the evidence. The Commission failed to consider the potential impact of the maintenance cycle and changed market conditions on forced outage rates, and its decision is therefore arbitrary and capricious.
+
+In conclusion, the Commission's decision to use only 12 months of data to calculate the price cap is flawed and arbitrary. The Commission must reconsider its decision and provide a meaningful explanation for its choice of methodology. The petitioners' objections must be given meaningful consideration, and the Commission must ensure that its decision is based on a reasonable interpretation of the evidence.
+
+
+
+citations: ['85 F.3d 684', '332 U.S. 194']
+
+gold_text: In its brief on review the Commission also maintains that it is sensible to use only twelve months data to predict the future outage rate for price cap purposes because only twelve months of data are used to calculate how much “UCAP” each supplier has available for sale. Thus the amount suppliers are allowed to sell will be reduced by the exact amount that the price cap is increased. Other than the cryptic statement that a 12-month period “ensures that the UCAP conversion terms are consistent throughout the New York State,” Order on Rehearing, 98 FERC ¶ 61,180 at 61,666, the Commission did not adopt this rationale, however, and “post hoc salvage operations of counsel” cannot overcome the inadequacy of the Commission’s explanation. Florida Power & Light Co. v. FERC, 85 F.3d 684, 689 (D.C.Cir.1996), see generally SEC v. Chenery Corp., 332 U.S. 194, 196-97, 67 S.Ct. 1575, 91 L.Ed. 1995 (1947). In any event, the perfection of such a translation is hardly obvious: the price cap remains at a fixed level until the Commission changes it, while the amount of UCAP that sellers are allowed to sell keeps changing and can go up or down based on a 12-month rolling average. If the petitioners are correct that the Commission set the price cap when the forced outage rates were below-average in their cycle, petitioners will not always have as much UCAP available as they did the month of . the translation, and will lose revenue in the long run. The question is whether the Commission used data that accurately predict forced outage rates in the future, rather than simply data that reflect those rates during the month of translation. If not, the Commission has changed the price cap without the requisite inquiry into whether the new rate is just and reasonable, see 16 U.S.C. §§ 824d(a), (b); 18 C.F.R. § 35.13.
+
+label: 

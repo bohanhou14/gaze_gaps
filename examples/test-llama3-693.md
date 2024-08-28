@@ -1,0 +1,16 @@
+**Generation:**
+
+
+In considering the request to lift the automatic stay, we must examine the legislative history and case law surrounding § 362(d). As mentioned in H.R.Rep. No. 595, 95th Cong., 1st Sess. (1977) p. 343-44, the court has the discretion to grant relief from the stay for cause, including the lack of adequate protection of an interest in property of the party in interest. In In re Holtkamp, 669 F.2d 505 (7th Cir.1982), the court held that allowing the pending action to proceed merely determined the debtor's liability but did not change the creditor's status in relation to other creditors.
+
+In the present case, movants argue that the automatic stay should be lifted to prevent prejudice in repetitive litigation of identical claims. This concern is similar to that raised in In re McGraw, 18 B.R. 140 (Bkrtcy.W.D.Wis.1982), where the cost of defending in a civil suit was considered, but the court ultimately found that the high cost of defending was not, by itself, "great prejudice" that would bar modification of the stay.
+
+Furthermore, the court in In re Nelson, 33 B.R. 937, considered the equities of the situation and found that allowing the state court action to continue would not result in great prejudice to the bankruptcy estate. Similarly, in the present case, the court finds that the state court action is not connected nor interfering with the bankruptcy proceeding, and therefore, lifting the stay would not thwart the underlying purpose of the automatic stay.
+
+In conclusion, the court grants relief from the automatic stay and permits the state court action to continue. The court finds that the movants have shown cause for lifting the stay, and that doing so will not result in great prejudice to the bankruptcy estate. The equities of the situation support lifting the stay, and the court's discretion in this matter is exercised in favor of granting relief.
+
+citations: ['18 B.R. 140', '33 B.R. 937']
+
+gold_text: Because it appears that no great prejudice to the debtor’s bankruptcy estate would result, the Court finds that it is more appropriate to permit continuance of the state court proceedings in their place of origin. It is clear that movants’ claim will have to be liquidated either in state court or the bankruptcy court. In either instance, the debtor will have to defend that action. It is unreasonable to presume that the continuance in the state court would subject the debtor’s estate to a greater expense. The cost of defending the state court action in the state court has not been considered so prejudicial as to require continuance of the stay. In re McGraw, 18 B.R. 140, 142 (Bankr.W.D.Wis.1982); Hoenig v. Hoffman (In re Hoffman), 33 B.R. 937, 941 (Bankr.W.D.Okla.1983). It is certainly possible that continuance of the stay would cause great prejudice to the mov-ants. Because the debtor’s partner is a codefendant in the state action, movants would be required to proceed against the debtor in the bankruptcy court and against the debtor’s partner in the state court. See Hoffman, supra, 33 B.R. at 941.
+
+label: 

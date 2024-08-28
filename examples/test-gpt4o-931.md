@@ -1,0 +1,10 @@
+**Generation:**
+
+(vii)
+Summary judgment is appropriate under Rule 56(c) when there is no genuine issue as to any material fact and the moving party is entitled to judgment as a matter of law (477 U.S. 317). The burden initially lies with the moving party to demonstrate the absence of a material fact issue through affidavits or other materials (56 F.3d 542). The standard for summary judgment aligns with that of a directed verdict (477 U.S. 317). In the context of Gerber's claims, to survive summary judgment, she must demonstrate specific, material facts that create a genuine issue for trial (56 F.3d 542). However, in this case, Gerber's allegations, even if taken as true, do not establish a federal cause of action under EMTALA. The evidence does not demonstrate that Northwest Hospital Center breached its statutory duties for medical screening or stabilization in a manner that suggests disparate treatment or failure to stabilize an identified emergency condition (477 U.S. 242). Therefore, the defendants' motions for summary judgment should be granted.
+
+citations: ['477 U.S. 242', '477 U.S. 317', '475 U.S. 574', '56 F.3d 542']
+
+gold_text: Even if, notwithstanding plaintiff’s acquiescence, consideration of the emergency room records converts the motion to a motion for summary judgment as a matter of law, summary judgment would be appropriate under familiar standards. Anderson v. Liberty Lobby, Inc., 477 U.S. 242, 247, 106 S.Ct. 2505, 2509-10, 91 L.Ed.2d 202 (1986); Celotex Corp. v. Catrett, 477 U.S. 317, 324, 106 S.Ct. 2548, 2553, 91 L.Ed.2d 265 (1986); Matsushita Elec. Indust. Co. v. Zenith Radio Corp., 475 U.S. 574, 587, 106 S.Ct. 1348, 1356, 89 L.Ed.2d 538 (1986). See also O’Connor v. Consolidated Coin Caterers Corp., 56 F.3d 542, 545 (4th Cir.1995), rev'd on other grounds, - U.S. - — , 116 S.Ct. 1307, 134 L.Ed.2d 433 (1996). Significantly, plaintiff has not suggested any need to conduct discovery in order to respond adequately to the motion.
+
+label: 

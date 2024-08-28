@@ -1,0 +1,15 @@
+**Generation:**
+
+The reasoning of the Supreme Court of Puerto Rico aligns with the jurisdictional principles outlined in 324 U.S. 229, which emphasize that appellate review is generally permissible only after a "final decision" has conclusively resolved all substantive issues. As defined in 324 U.S. 229, a “final decision” is one that concludes the litigation on the merits, leaving nothing for the court but to execute judgment. Here, the Supreme Court of Puerto Rico determined that the pertinent judgment was not final, since appeals were ongoing and thus, the conditions precedent under § 7 of the Eminent Domain Act had not yet been met.
+
+Furthermore, the interpretation of the jurisdictional limits as seen in 195 F.2d 159 underscores that in habeas corpus proceedings, a decision dismissing the petition without probing the merit is not considered final. This legal framework supports the Supreme Court's stance that mere interlocutory orders cannot be deemed conclusive for the purposes of triggering statutory rights.
+
+Consequently, the Supreme Court’s decision that appellant’s rights under § 7 were not engaged due to the pending appeals adheres to these established doctrines, indicating that no constitutional deprivation occurred, as any perceived benefit from § 7 remained speculative and inchoate prior to final determination on the merits.
+
+In sum, the Supreme Court of Puerto Rico’s decision is consistent with principles articulated in 324 U.S. 229 and 195 F.2d 159, and does not contravene due process requirements by terminating inchoate possibilities rather than vested rights.
+
+citations: ['324 U.S. 229', '195 F.2d 159']
+
+gold_text: This is a reasonable interpretation of § 7 with which we cannot interfere. De Castro v. Board of Commissioners, supra. The phrase “final decision” is not a term of art having only a single, unvarying meaning; the interpretation put upon it must be suited to the context in which it is used. The “final decision” from which an appeal may be taken, as the phrase is used in statutes defining appellate jurisdiction, must necessarily be the decision of a lower tribunal. See Catlin v. United States, 1945, 324 U.S. 229, 65 S.Ct. 631, 89 L.Ed. 911; Jimenez v. Jones, 1 Cir., 1952, 195 F.2d 159. The “final decision” contemplated by § 7, on the other hand, may more plausibly be regarded as the judgment of condemnation from the moment it becomes invulnerable to possible upset on appellate review. Otherwise the condemning authority, in order to avoid loss of the property for lack of use while appellate litigation is pending, might find it necessary to proceed with the public work even though its right to condemn had not been finally adjudicated. The history of this very case is persuasive of the reasonableness of the interpretation adopted.
+
+label: 

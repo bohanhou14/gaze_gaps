@@ -1,0 +1,13 @@
+**Generation:**
+
+It is well-established that the Interstate Commerce Commission (ICC) has the authority to evaluate and approve certificates for motor carriers if evidence supports public convenience and necessity (327 U.S. 515). The ICC's discretion in these matters should not be lightly interfered with unless there is a clear absence of evidentiary support (333 U.S. 683). The Commission’s conclusions, deriving from its specialized expertise, are entitled to significant weight (333 U.S. 683). The petitioners argue that the ICC's actions exceeded their statutory authority and lacked substantial evidence, yet extensive testimony supports the Commission's findings. As in the case referenced in 236 U.S. 434, procedural objections regarding the admission of evidence during hearings were overruled where the relevance and discretion of the Commission were maintained.
+
+Furthermore, allegations regarding monopolistic practices and anti-competitive effects need substantive proof of harm to justify relief (288 U.S. 469). The ICC’s decision-making was in line with its mandate to prevent undue prejudice and unreasonable rates, similar to principles upheld in the case at 22 F.2d 199. Therefore, based on the voluminous and supportive testimony provided, petitioners' contentions must fail.
+
+We uphold the Commission’s findings and deny the permanent injunction sought, as there is no substantive evidence of arbitrariness or statutory violations. This decision is consistent with the standards applied in the mentioned cases and affirms the ICC's broad discretion in regulatory matters.
+
+citations: ['288 U.S. 469', '333 U.S. 683', '236 U.S. 434', '22 F.2d 199', '327 U.S. 515']
+
+gold_text: The practice of consolidating has been approved in Central Transfer Co. v. Term. R. R. Co., 288 U.S. 469, 53 S.Ct. 444, 77 L.Ed. 899; Federal Trade Commission v. Cement Institute, 333 U.S. 683, 68 S.Ct. 793, 92 L.Ed. 1009; Greyhound Corp., 57 M.C.C. 123; Meeker v. Lehigh Valley R. Co., 236 U.S. 434, 35 S.Ct. 337, 59 L.Ed. 659, and Akron, C. & Y. R. Co. v. United States, D.C., 22 F.2d 199. Such eliminates costly duplication in the presentation of evidence and affords opportunity of more expeditious disposition of proceeding; T. E. Mercer, et al — Oil Field Commodities, 46 M.C.C. 845. In that case thirty-one applications were before the Commission and were heard on a consolidated record. U. S. v. Pierce Auto Freight Lines, 327 U.S. 515, 66 S.Ct. 687, 90 L.Ed. 821.
+
+label: 

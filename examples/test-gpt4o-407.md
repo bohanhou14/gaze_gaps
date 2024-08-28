@@ -1,0 +1,13 @@
+**Generation:**
+
+To establish a § 1983 claim, plaintiff must show the personal involvement of each defendant in the alleged constitutional violations (58 F.3d 865). Personal involvement can be demonstrated by direct participation, failure to remedy a reported violation, creation or continuation of a harmful policy or custom, gross negligence in supervision, or deliberate indifference to inmate rights (239 F.3d 246; 781 F.2d 319).
+
+Plaintiff alleges that Poole, Gregoire, Murphy, and O'Connor were complicit but provides no specific instances of their direct involvement or oversight failures in the alleged deprivations. Defendants can be liable if they directly participated, ignored reported violations, created harmful policies, negligently supervised subordinates, or exhibited deliberate indifference (249 F.3d 156; 239 F.3d 246).
+
+In the absence of concrete facts to show these defendants' direct or indirect involvement, summary judgment is warranted. The supervisory officials’ actions must reach a level of deliberate indifference or direct complicity, which plaintiff has failed to substantiate (239 F.3d 246). Therefore, plaintiffs claims against Poole, Gregoire, Murphy, and O'Connor for lack of personal involvement are dismissed.
+
+citations: ['239 F.3d 246', '249 F.3d 156', '58 F.3d 865', '781 F.2d 319']
+
+gold_text: To make out a claim against a particular defendant under § 1983, plaintiff must establish the defendant’s personal involvement in the alleged constitutional deprivation. Johnson v. Newburgh Enlarged Sch. Dist., 239 F.3d 246, 254 (2d Cir.2001); Gaston v. Coughlin, 249 F.3d 156, 164 (2d Cir.2001). A supervisory official’s personal involvement may be shown by evidence that: (1) the defendant participated directly in the alleged constitutional violation; (2) the defendant, after being informed of the violation through a report or appeal, failed to remedy the wrong; (3) the defendant created a policy or custom under which unconstitutional practices occurred, or allowed the continuance of such a policy or custom; (4) the defendant was grossly negligent in supervising subordinates who committed the wrongful acts; or (5) the defendant exhibited deliberate indifference to others’ rights by failing to act on information indicating that unconstitutional acts were occurring. Colon v. Coughlin, 58 F.3d 865, 873 (2d Cir.1995); Williams v. Smith, 781 F.2d 319, 323-24 (2d Cir.1986).
+
+label: 

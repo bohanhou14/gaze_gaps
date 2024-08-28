@@ -1,0 +1,19 @@
+**Generation:**
+
+
+
+In the context of legal cases, it is essential to understand the jurisdictional requirements for appealing court decisions. In the case of a discretionary appeal, the party seeking to appeal must file a notice of appeal in the circuit court of appeals, within the time prescribed in section 25, sub. a. This requirement is evident in the case of Dickinson Industrial Site Inc. v. Cowan, 308 U.S. -, 60 S.Ct. 595, 597, 84 L.Ed. -.
+
+In the case at bar, the appellants failed to file a notice of appeal in the circuit court of appeals, instead filing a notice of appeal in the district court. This failure to comply with the jurisdictional requirement is analogous to the situation in In re Foster Construction Corp., 2 Cir., 49 F.2d 213, where the court held that a request for allowance within the time limited would serve to give the court jurisdiction, although the request was acted upon later.
+
+However, in the case of a discretionary appeal under section 24, sub. b, the court lacks jurisdiction to consider the merits of the appeal unless an application for allowance is made to the appellate court within the time prescribed. This requirement is evident in the case of Shulman v. Wilson-Sheridan Hotel Co., 301 U.S. 172, 57 S.Ct. 680, 81 L.Ed. 986, where the court held that the court lacked jurisdiction where no application for allowance of the appeal had been made to it.
+
+In conclusion, the jurisdictional requirement for appealing a discretionary appeal under section 24, sub. b is that the party seeking to appeal must file a notice of appeal in the circuit court of appeals, within the time prescribed in section 25, sub. a, and make an application for allowance to the appellate court within the same time frame. Failure to comply with these requirements may result in the court lacking jurisdiction to consider the merits of the appeal.
+
+
+
+citations: ['308 U.S. 371', '271 U.S. 176', '279 F. 372', '301 U.S. 174']
+
+gold_text: The other arguments advanced in opposition to granting the motions at bar will not withstand scrutiny: (a) The recent decision of the Supreme Court in Chicot County Drainage Dist. v. Baxter State Bank, 308 U.S. 371, 60 S.Ct. 317, 84 L.Ed. -, deals with the subject of collateral attack upon a judgment of an appellate court; it has nothing to do with the problem at bar, where our jurisdiction is attacked directly, (b) Arguments based on Taylor v. Voss, 271 U.S. 176, 46 S.Ct. 461, 70 L.Ed. 889, and similar cases, are not persuasive that an appeal as of right will serve as an application to the appellate court for leave to appeal. Cf. In re Kenmore Granville Hotel Co., 7 Cir., 90 F.2d 151, 152. The statute construed in the Taylor case contained no provision that petitions to revise were to be allowed in the discretion of the appellate court. It was apparently the practice to file petitions to revise in the circuit court of appeals, but we have found nothing to indicate that any order granting leave to file the petition was required. See In re B. & R. Glove Corp., 2 Cir., 279 F. 372, 374; Rule 16 of this court, printed in Collier, Bankruptcy, 13th ed. p. 2984. (c) The argument that the motion for leave to consolidate the appeals was equivalent to a motion for leave to appeal belies the facts. The appellants did not seek to have us al low the appeals, for they believed it unnecessary in view of our London decision; and in granting the motion we exercised no discretion with respect to allowance of the appeals for the same reason, (d) To protect the appellants merely because they were misled by our erroneous construction of the statute, now overruled by the Supreme Court, would require us to go contrary to elementary principles governing appellate jurisdiction. See Alaska Packers v. Pillsbury, 301 U.S. 174, 57 S.Ct. 682, 81 L.Ed. 988.
+
+label: 

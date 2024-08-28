@@ -1,0 +1,15 @@
+**Generation:**
+
+Schwarzwaelder's argument draws a parallel to *Agron v. PaineWebber Inc.*, 49 F.3d 347, where the arbitration award concerning loan forgiveness following termination was upheld. In Agron, the employment agreement stipulated conditions under which portions of a promissory note would be forgiven. The arbitration panel's decision to enforce the agreement's terms was found not to be irrational, as it aligned with the contract provisions.
+
+Similarly, in *Jenkins v. Prudential-Bache Securities*, 847 F.2d 631, the court upheld the arbitration award that allowed the enforcement of loan repayment when the employment was terminated and also interfaced it with the employment bonus provisions. The court emphasized the arbitration panel’s rational interpretation of the employment and promissory note agreements.
+
+In the present case, the arbitrators’ decision that Schwarzwaelder released her transition compensation claims in the ERISA settlement is similarly rational. The clear language of the ERISA settlement encompassed the comprehensive discharge of claims relating to her employment, excluding only specifically enumerated exceptions, none of which included the transition compensation claim. This interpretation aligns with the precedents set in both *49 F.3d 347* and *847 F.2d 631*, underscoring that arbitration decisions founded on contractual terms are afforded deference if any rational basis is present.
+
+Thus, the District Court's finding that the arbitrators exceeded their powers by interpreting the agreements irrationally is unsupported. Accordingly, we hold that the arbitration award must be confirmed, reversing the District Court's decision.
+
+citations: ['49 F.3d 347', '847 F.2d 631']
+
+gold_text: According to Schwarzwaelder, a forgivable loan is a common compensation device within the securities industry. See, e.g., PaineWebber, Inc. v. Agron, 49 F.3d 347, 349 (8th Cir.1995) (loan of $100,933 forgiven over three years in equal annual installments); Lewis v. UBS Fin. Servs. Inc., 818 F.Supp.2d 1161, 1163 (N.D.Cal.2011) (loan of $520,488 forgiven over six years). Often the terms of the loan explicitly contemplate forgiveness. But Schwarzwaelder also offers instances of compensation arrangements more akin to the facts of this ease, where the promissory note is paired with equal and offsetting compensation. See Jenkins v. Prudential-Bache Secs., Inc., 847 F.2d 631, 632 (10th Cir. 1988) (promissory note for $60,000 loan and employment agreement provision for bonus of $60,000 to be paid in future yearly installments, with employer reserving right to apply bonus to loan repayment); Banus v. Citigroup Global Mkts., Inc., Civ. No. 98-7128, 2010 WL 1643780, at *2 (S.D.N.Y. Apr. 23, 2010) (promissory note requiring repayment in seven equal annual installments, paired with “special compensation” payments in same amount over same time); In re Killian, 422 B.R. 908, 907 (Bankr.S.D.Ill.2009) (similar).
+
+label: 

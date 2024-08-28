@@ -1,0 +1,11 @@
+**Generation:**
+
+Wright contends that the advancements in the field subsequent to the filing of his application demonstrate the feasibility of his claims. However, according to 35 U.S.C. § 103, only the state of the art at the time of filing is pertinent to enablement (see Reference Case 802 F.2d 1367). Utilizing knowledge from publications that emerged after the filing date to attest enablement is impermissible, as per the precedent in Reference Case 559 F.2d 595, which restricts consideration to art-related facts existing at the filing date.
+
+The advancements cited by Wright occurred post-1983 and do not reflect the predictability of the art as of the effective filing date. The Board and Examiner correctly maintained that Wright’s specification did not enable the production of vaccines for all RNA viruses due to the unpredictability in the field as established in Matthews et al.’s article, published long after Wright’s application. Consequently, the intricacies of developing various recombinant vaccines necessitated undue experimentation beyond the scope of Wright’s disclosure in 1983.
+
+citations: ['802 F.2d 1367', '559 F.2d 595']
+
+gold_text: . In his appeal to this court, Wright all too frequently slips into using the present tense to discuss the state of the art and what a skilled artisan would believe given Wright’s success with one avian virus. We note, however, that the issue is not what the state of the art is today or what a skilled artisan today would believe, but rather what the state of the art was in February of 1983 and what a skilled artisan would have believed at that time. Hybritech Inc. v. Monoclonal Antibodies, Inc., 802 F.2d 1367, 1384, 231 USPQ 81, 94 (Fed.Cir.), cert. denied, 480 U.S. 947, 107 S.Ct. 1606, 94 L.Ed.2d 792 (1987); In re Hogan, 559 F.2d 595, 604, 194 USPQ 527, 535 (CCPA 1977). Wright's tendency to employ the present tense often makes it difficult to determine whether Wright is asserting that certain information was known prior to February of 1983 or simply that that information is now known in the art.
+
+label: 

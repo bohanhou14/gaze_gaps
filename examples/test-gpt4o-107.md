@@ -1,0 +1,13 @@
+**Generation:**
+
+In light of these principles, we find Wausau's arguments compelling. The non-assignment clause in the insurance policy is valid under Texas law, which upholds such provisions even for post-loss assignments, as established in Texas Farmers Insurance Co. v. Gerdes, 980 S.W.2d 802, 807 (Tex. App.—San Antonio 1998, pet. denied) and Texas Pacific Indemnity Co. v. Atlantic Richfield Co., 846 S.W.2d 580, 583 (Tex. App.—Houston [14th Dist.] 1993, writ denied). These cases demonstrate that Texas courts enforce non-assignment clauses to uphold contractual agreements and avoid post-loss assignments (535 F.2d 287).
+
+Moreover, while the Keller Companies point to the Ninth Circuit's decision in Northern Insurance Co. of New York v. Allied Mutual Insurance Co. to argue for an exception when liabilities are transferred by operation of law, we note that this reasoning has been confined to jurisdictions with a product-line successor liability rule, which Texas does not recognize (955 F.2d 1353). Additionally, as the Texas statute clearly provides, a purchasing company is not automatically responsible for the seller's liabilities unless explicitly assumed by contract (Tex. Bus. Orgs. Code Ann. § 10.254).
+
+Consequently, we reverse the district court's decision and render summary judgment in favor of Wausau, holding that no valid transfer of the insurance policy occurred, and Wausau is not obligated to defend or indemnify the Keller Companies in the underlying lawsuits.
+
+citations: ['955 F.2d 1353', '535 F.2d 287']
+
+gold_text: . Id.; see also N. Ins. Co. of N.Y. v. Allied Mut. Ins. Co., 955 F.2d 1353, 1358 (9th Cir.1992) (applying California law); Imperial Enters., Inc. v. Fireman’s Fund Ins. Co., 535 F.2d 287, 290-92 (5th Cir.1976) (applying Georgia law); Peck v. Pub. Serv. Mut. Ins. Co., 114 F.Supp.2d 51, 56 (D.Conn.2000) (citing 3 Couch on Insurance § 35.7 (3d ed.1999) and holding that a post-loss assignment "in no way increased the insurer’s risks or obligations”); Int’l Rediscount Corp. v. Hartford Accident & Indem. Co., 425 F.Supp. 669, 672-73 (D.Del. 1977) (applying Delaware law); Conrad Bros. v. John Deere Ins. Co., 640 N.W.2d 231, 237-38 (Iowa 2001) (holding that non-assignment clauses only applied to pre-loss assignments, and that the prohibition of post-loss assignments would be "in contravention of public policy and the general purpose of indemnity contracts”); Pilkington N. Am., Inc. v. Travelers Cas. & Sur. Co., 112 Ohio St.3d 482, 861 N.E.2d 121, 129 (2006) ("[T]he chose in action as to the duty to indemnify is unaffected by the anti-assignment provision when the covered loss has already occurred.”).
+
+label: 

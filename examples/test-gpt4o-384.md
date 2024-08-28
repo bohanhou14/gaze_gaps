@@ -1,0 +1,13 @@
+**Generation:**
+
+The Government counters that any error in the instruction was harmless and that the charge, taken as a whole, was without prejudice. However, citing United States v Noe, 7 USCMA 408, 22 CMR 198, the law is clear that where contradictory instructions on a material issue are provided, the erroneous instruction cannot be nullified by a subsequent correct one. Here, the confusion and contradictions concerning the voluntariness of Truman’s confession and his waiver of rights render the instructions flawed.
+
+Moreover, the instructions confound the established legal principle that the Government bears the burden of proving beyond a reasonable doubt that the accused did not seek counsel before making the confession, as rooted in Miranda v Arizona. Similar to the ruling in 15 USCMA 654, mutually inconsistent standards in the instruction process were evident, and the inclusion of an unnecessary "honesty" standard did not cure the instructional error. Finally, a fragmented and potentially misleading extraction from the instructions, as noted in 2 USCMA 482, exacerbated the confusion, further impairing the court-martial's judgment. The overall flawed instruction commands a reversal of the conviction.
+
+Therefore, based on the precedents established in the conflicting instruction cases and the inadequacies present in this case, we find the appellant’s rights were materially prejudiced.
+
+citations: ['7 USCMA 408', '2 USCMA 482', '15 USCMA 654']
+
+gold_text: The instruction is obviously not a model of clarity, but syntactical nicety is not the standard of instructional adequacy. In United States v Smith, 8 USCMA 582, 584, 25 CMR 86 (1958), the Court said, “It is not the number or the position of the commas, semicolons, or periods that counts, but whether the instruction as a whole provides meaningful legal principles for the court-martial’s consideration. United States v Noe, 7 USCMA 408, 22 CMR 198.” If, when gathered together, the instruction states the law “properly and with sufficient clarity to be understood by the members of the court-martial, then they are not prejudicial even though one sentence may be technically incorrect.” United States v Hatchett, 2 USCMA 482, 488, 9 CMR 112 (1953). Where there are mutually inconsistent standards the erroneous one eradicates the beneficial effect of the correct one, however, and utilization of the “instruction as a whole” doctrine becomes inappropriate. United States v Pelletier, 15 USCMA 654, 36 CMR 152 (1966); United States v Skonberg, 10 USCMA 57, 27 CMR 131 (1958).
+
+label: 

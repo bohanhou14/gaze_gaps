@@ -1,0 +1,13 @@
+**Generation:**
+
+In analyzing the legitimacy of departures based on victim conduct, we find that the circumstances here do not justify a departure under § 5K2.10. The district court's reliance on Burks' conduct mirrors the questionable logic rejected in the earlier case, 891 F.2d 650, where it was determined that the victim's behavior did not significantly provoke the offense. The court ought to have considered Burks' size, strength, and the actual danger he posed, as outlined in 891 F.2d 650, but failed to present compelling evidence for departure.
+
+Similarly, Vaughn’s due process challenge to the Sentencing Guidelines must be dismissed. This court already addressed such concerns in the precedent of 901 F.2d 647, which rejected broad constitutional critiques of the Guidelines. Thus, Vaughn's argument against his sentence's constitutionality aligns with the unsuccessful challenge in 901 F.2d 647.
+
+Conclusively, the adjustments for Lima, Bigelow, and Vaughn's sentences are vacated, and they must be resentenced in compliance with the Guideline standards specified, reflecting our analysis herein.
+
+citations: ['891 F.2d 650', '901 F.2d 647']
+
+gold_text: Invoking this section, the district court departed downward two points on each defendant’s sentence due to the conduct of William Burks. Based on our review of the record, however, we do not believe that Mr. Burks conduct in this offense is the type that warrants departure under § 5K2.10. We accept as given that Burks refused to repay his debts to Lima and M & V, and we do not dispute the district court’s recognition that Burks has an unpleasant voice and demeanor. This does not, however, excuse the defendants’ actions; nor does it warrant departure from the Guidelines. Section 5K2.10 contemplates situations where the actions of the victim provoke the conduct of the offense. See, e.g., United States v. Yellow Earrings, 891 F.2d 650 (8th Cir.1989) (downward departure warranted where victim pushed defendant, verbally abused her, and attempted to publicly humiliate her when she refused his request for sexual intercourse). See also United States v. Left Hand Bull, 901 F.2d 647 (8th Cir.1990) (departure based on victim conduct approved in sentence for threatening letter to ex-wife where husband frustrated by reports of wife’s abandonment of child). Here, the victim, Burks, did not engage in the behavior contemplated by § 5K2.10. Burks’ physical blocking of the doorway of his home could not be considered sufficient physical contact to provoke the attack by Bigelow and Vaughan. Burks was at worst an unpleasant and untrustworthy person. This does not excuse beating him, nor the extortion of his funds. The court erred in departing downward based on these facts.
+
+label: 

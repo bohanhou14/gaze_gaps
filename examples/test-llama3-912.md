@@ -1,0 +1,16 @@
+**Generation:**
+
+ <answer>
+In reference to the case of Ziegler v. Heckler, we have already alluded to our response to the second and third issues set forth above. The record in the instant case establishes that the AU not only considered the treating physician's opinions, plaintiff's complaints of pain and the combined effect of plaintiff's impairments, but also adequately explained why plaintiff's impairments do not equal the requirements of a listed impairment. (Referring to 817 F.2d 161)
+
+Plaintiff argues that the Secretary should consider residual functional capacity in determining whether a claimant's impairments meet or equal a listed impairment. However, we hold that it is not a factor to be considered in determining whether a widow is disabled. (Referring to 838 F.2d 23) Residual functional capacity is an objective assessment of a claimant's ability to perform work which occurs after the Secretary determines that the claimant's impairments fail to meet or equal the requirements of a listed impairment.
+
+In conclusion, we hold that the Secretary's failure to consider residual functional capacity in determining plaintiff's disability does not violate the Act. We also hold that the Secretary's failure to consider plaintiff's actual ability to work or plaintiff's functional limitations in determining that plaintiff's impairments do not meet or equal a listed impairment is not a violation of the Act. (Referring to 817 F.2d 161) Finally, we hold that the Secretary's decision to deny benefits is supported by substantial evidence and is not arbitrary and capricious.
+
+In the final analysis, it is functional impairment which is meant to be evidenced by medical findings. It is only impaired ability to function which results in disability." (Referring to Zebley by Zebley v. Bowen, 855 F.2d 67, 74 (3d Cir.1988), cert. granted, — U.S. -, 109 S.Ct. 2062, 104 L.Ed.2d 627 (May 16, 1989)) However, we must examine the relevant rules and regulations. (Referring to 20 C.F.R. §§ 404.1577-404.1578 and Soc.Sec. Rui. 83-19) The scope of review over an agency regulation or rule depends upon whether the rule or regulation is legislative or interpretive. (Referring to Fmali Herb, Inc. v. Heckler, 
+
+citations: ['838 F.2d 23', '817 F.2d 161']
+
+gold_text: Pursuant to these principles, the relevant regulations and rules, 20 C.F.R. §§ 404.1577-404.1578 and Soc.Sec.Rul. 83-19, are legislative. The Act provides that the “Secretary shall have full power and authority to make rules and regulations and to establish procedures, not inconsistent with the provisions of this subchapter, which are necessary or appropriate to carry out such provisions_” 42 U.S.C. § 405(a). With respect to widow’s disability, the Secretary is charged to promulgate regulations which explain the level of severity of an impairment necessary to preclude an individual from engaging in any gainful activity. 42 U.S.C. § 423(d)(2)(B). The regulations and rules were promulgated under these broad grants of authority; as such, they are legislative in nature and must be reviewed under an arbitrary and capricious standard. See Baeder, 768 F.2d at 551; Sprandel v. Secretary of Health and Human Services, 838 F.2d 23 (1st Cir.1988); McCuin v. Secretary of Health and Human Services, 817 F.2d 161 (1st Cir.1987); Zebley, 855 F.2d at 72.
+
+label: 

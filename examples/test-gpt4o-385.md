@@ -1,0 +1,11 @@
+**Generation:**
+
+In determining the attorneys’ fees issue, it is crucial to consider relevant case law precedent. As established in the reference case 787 F.2d 54, attorneys’ fees in a copyright action should not be awarded unless the standard for such an award under 17 U.S.C. § 116 is satisfied. Specifically, the court in that case reversed an award of attorneys' fees because the defendants did not meet the standard. Similarly, the case 925 F.2d 1010 reinforces that a prevailing defendant must demonstrate more than just prevailing—they must show bad faith or frivolous action by the plaintiff to justify an award of fees. 
+
+In this case, the submissions and the persuasive Vítalos Affidavit indicate that Whimsicality did not act in bad faith in their registration attempts, thereby failing to meet the threshold for an award of attorneys' fees to Rubie’s. Thus, based on the principles set forth in 787 F.2d 54 and 925 F.2d 1010, the request for attorneys’ fees by Rubie’s should be denied.
+
+citations: ['787 F.2d 54', '925 F.2d 1010']
+
+gold_text: Finally, an award of statutory attorney fees would be inappropriate for a number of reasons separate and apart from the examiner’s affidavit. A prevailing defendant in an enforcement action may recover fees pursuant to 17 U.S.C. § 505 if the action is frivolous or brought in bad faith. Roth v. Pritikin, 787 F.2d 54, 57 (2d Cir.1986). The authorities counsel that a reviewing court should act with caution before awarding fees to a prevailing defendant so as not to undermine the remedial purposes of the Copyright Act. See, e.g., Id.; Video Views, Inc. v. Studio 21, Ltd., 925 F.2d 1010, 1022 (7th Cir.), cert. denied, — U.S.-, 112 S.Ct. 181, 116 L.Ed.2d 143 (1991). Without considering the information provided by Mr. Vítalos, this Court is not at liberty to alter the appellate court’s conclusion that Whimsicality has proceeded in bad faith by virtue of the characterization “soft sculpture” in its registration applications. Nevertheless, fees are inappropriate.
+
+label: 

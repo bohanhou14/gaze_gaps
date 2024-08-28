@@ -1,0 +1,13 @@
+**Generation:**
+
+Zahn’s position is supported by precedent, which indicates that confirmation of a plan is a final order and is appealable. As the court in **39 F.3d 212** stated, a Chapter 13 plan without dismissing the case is not final, but a confirmation order effectively terminates proceedings on the merits, making it eligible for appeal. Similar reasoning applies here, where the bankruptcy court’s confirmation of Zahn’s second amended plan effectively concluded the matter on its merits, leaving nothing but ministerial parts.
+
+Moreover, the decision in **403 F.3d 1** supports Zahn’s right to appeal. Here, even if an order was initially not final due to the potential for proposing an alternate plan, dismissal or final confirmation renders the order appealable. Likewise, the rejection of Zahn's original plan and subsequent confirmation of her amended plan make the order final, allowing her to appeal. This ensures Zahn can contest the inclusion of her husband's IRA distributions as part of her income under the Bankruptcy Code.
+
+Thus, the BAP erred in denying Zahn's standing. The confirmation order, while in her favor procedurally, incorporated terms she contended were erroneous and prejudicial. Therefore, under the principles established by **39 F.3d 212** and **403 F.3d 1**, Zahn is an aggrieved party with standing to appeal the confirmation of her amended plan.
+
+citations: ['39 F.3d 212', '39 F.3d 212', '403 F.3d 1', '403 F.3d 1']
+
+gold_text: Concerned that orders denying confirmation “never receive appellate review” because they are not considered final orders, the BAP invites us to revisit the current state of the law in this circuit regarding the finality of such orders. We decline the BAP’s invitation. Under Eighth Circuit law, which is consistent with the views of other circuits, an order denying confirmation of a plan, which does not dismiss the case, is not a final order and cannot be appealed. See Lewis, 992 F.2d at 772 (holding a “bankruptcy order, which neither confirms a plan nor dismisses the underlying petition, is not final”); see also In re Groves, 39 F.3d 212, 214 (8th Cir.1994); and In re Pleasant Woods, 2 F.3d at 838; see also, for example, In re Watson, 403 F.3d 1, 4-5 (1st Cir.2005); In re Massey, 21 Fed.Appx. 113, 114 (4th Cir.2001); and In re Lievsay, 118 F.3d 661, 662-63 (9th Cir.1997). Such orders leave the way open for negotiations and approval of a modified plan. Because a debtor can obtain meaningful relief either by amending her plan or, as in this case, objecting to her own amended plan and appealing the amended plan’s confirmation, we do not see the need to alter our precedent that an order denying confirma tion, without dismissal of the case, is not an appealable final order.
+
+label: 

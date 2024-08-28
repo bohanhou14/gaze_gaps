@@ -1,0 +1,15 @@
+**Generation:**
+
+The defendants’ motions for reconsideration are premised on alleged judicial bias and improper sentencing under the amended Sentencing Guidelines. This court has reviewed the relevant case law and applicable principles. Notably, the precedent in United States v. Morrison, 938 F.2d 168 (10th Cir.1991) indicates that reconsideration based on post-plea findings is inappropriate when the plea was voluntary and counseled.
+
+Further, the court's application of the Sentencing Guidelines aligned with the decision in United States v. Broce, 488 U.S. 563 (1989), where it was determined that a valid guilty plea forecloses collateral attacks on the conviction, barring specific exceptions not applicable here. The defendants admitted to the acts constituting the conspiracy, and their involvement continued beyond the effective dates of the amended guidelines. Thus, the court’s previous rulings remain valid.
+
+Given the precedent and facts, the court concludes that the defendant’s motions for reconsideration, Franks hearing, and bail pending appeal are without merit. Accordingly, these motions are denied, and the sentences imposed remain unchanged.
+
+IT IS SO ORDERED.
+
+citations: ['938 F.2d 168', '488 U.S. 563']
+
+gold_text: Upon consideration of the arguments and authorities cited by the parties, the court finds that defendant Burger’s motion for bail pending appeal must be denied. Initially, the court notes that defendant Burger has not sought to establish the first two requirements that he is not likely to flee and that the appeal is not filed for purposes of delay. Thus, the court finds that defendant Burger’s motion should be denied on that basis alone. Further, the court finds that the question on appeal, namely whether the defendant may be properly sentenced under the amended guidelines because he has pled guilty to a crime which continued beyond the effective date of the Indictment, is not a “substantial question.” As previously cited by the court, the Tenth Circuit Court of Appeals has held that a defendant may be sentenced in accordance with the crime, as charged in the Indictment, to which he pled guilty to. See Morrison, 938 F.2d 168 (10th Cir.1991) (citing United States v. Broce, 488 U.S. 563, 109 S.Ct. 757, 102 L.Ed.2d 927 (1989)). Thus, because the issue raised by the defendant has been decided by controlling precedent, it may not be properly characterized a “substantial” question. Affleck, 765 F.2d at 952. Further, the court finds that reversal of this court’s decision will not lead to a new trial on all counts. Defendant Burger has never contested his conviction with respect to four of the five counts to which he pled guilty. Finally, reversal would simply lead to resentencing, which would not be a reduced sentence to a term of imprisonment less than the total of the time already served plus the expected duration of the appeal process. Accordingly, for the foregoing reasons, the court finds that defendant Burger’s motion for bail pending appeal will be denied.
+
+label: 
