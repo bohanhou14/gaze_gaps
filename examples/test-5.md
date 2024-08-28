@@ -27,7 +27,7 @@ full amount of $3,000 plus the applicable legal interest rate of 6% from the exp
 option contract until the filing of the bankruptcy petition.
 
 
-**Label:** 6, 7
+**Label:** 2, 3
 
 
 ***Meta-Llama-3-8B-Instruct:***
@@ -55,7 +55,7 @@ entitled to the payment of interest on Claim # 13, and the applicable interest r
 as stated in 11 U.S.C. Section 502(b)(2).
 
 
-**Label:** 6, 7
+**Label:** 2, 3
 
 
 ***Meta-Llama-3-8B-Instruct-finetuned:***

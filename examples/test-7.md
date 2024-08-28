@@ -31,7 +31,7 @@ is to petition within the existing receivership suit. This method ensures proced
 equitable resolution without overstepping the bounds of legal practice.
 
 
-**Label:** 7, 2, 6
+**Label:** 1, 2, 3
 
 
 ***Meta-Llama-3-8B-Instruct:***
@@ -62,7 +62,7 @@ stockholders should be required to bring separate actions at law to enforce thei
 reasonable and consistent with the principles of equity and fairness.
 
 
-**Label:** 7, 6
+**Label:** 2, 3
 
 
 ***Meta-Llama-3-8B-Instruct-finetuned:***

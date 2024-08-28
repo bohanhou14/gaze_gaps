@@ -48,7 +48,7 @@ the 1968 claim is timely, and we will consider this request in conjunction with 
 decision on the reopened claim.
 
 
-**Label:** 4
+**Label:** 3
 
 
 ***Meta-Llama-3-8B-Instruct-finetuned:***

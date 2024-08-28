@@ -35,7 +35,7 @@ violation of established legal precedents and procedural norms (Refs: 348 F.2d 2
 justifying its denial on these grounds.
 
 
-**Label:** 2, 3
+**Label:** 1
 
 
 ***Meta-Llama-3-8B-Instruct:***
@@ -62,7 +62,7 @@ By considering these principles and the relevant case law, lawyers and judges ca
 discovery process is fair, efficient, and effective in promoting the administration of justice.
 
 
-**Label:** 3, 10, 2
+**Label:** 1, 2
 
 
 ***Meta-Llama-3-8B-Instruct-finetuned:***

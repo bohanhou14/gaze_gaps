@@ -34,7 +34,7 @@ ensures that plan administrators' decisions hold, provided they exhibit reasonab
 amendment in Marrs's case stands as reasonable and is thus upheld (855 F.2d 394).
 
 
-**Label:** 2, 6
+**Label:** 1, 2
 
 
 ***Meta-Llama-3-8B-Instruct:***
@@ -64,7 +64,7 @@ Department of Health & Environmental Control, 174 F.3d 431, 435 (4th Cir. 1999) 
 Life Ins. Co., 563 F.3d 1210, 1212 (11th Cir.
 
 
-**Label:** 3, 10, 6, 2
+**Label:** 1,2,3
 
 
 ***Meta-Llama-3-8B-Instruct-finetuned:***
