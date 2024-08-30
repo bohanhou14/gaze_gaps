@@ -33,7 +33,7 @@ F.2d 554. Thus, the cumulative effect of prior art decisively points to the conc
 Anderson '125 patent lacks the necessary inventive step for patentability.
 
 
-**Label:** 3
+**Label:** 0
 
 ***Meta-Llama-3-8B-Instruct:***
  In the context of patent infringement, the concept of obviousness is crucial in determining the

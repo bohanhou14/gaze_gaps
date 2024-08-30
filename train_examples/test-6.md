@@ -39,7 +39,7 @@ concerning seaworthiness at delivery. Therefore, the court GRANTS the summary ju
 and DENIES Plaintiff's claim against Chaplin on the grounds presented.  It is so ordered.
 
 
-**Label:** 2
+**Label:** 0
 
 ***Meta-Llama-3-8B-Instruct:***
  The court's decision to grant summary judgment to Mon River Towing, Inc. is correct. As stated in
@@ -58,7 +58,7 @@ Transport, Inc. was negligent. Therefore, the court's decision to grant summary 
 River Towing, Inc. is correct.
 
 
-**Label:** 2
+**Label:** 0
 
 ***Meta-Llama-3-8B-Instruct-finetuned:***
   In the case of Seas Shipping Co. v. Sieracki, 328 U.S. 85, 66 S.Ct. 872, 90 L.Ed. 1099 (1946), the

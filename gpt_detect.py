@@ -4,7 +4,7 @@ import json
 from argparse import ArgumentParser
 import re
 from tqdm import tqdm
-from prompts import DETECT_SYSTEM_PROMPT
+from system_prompts.all_prompts import DETECT_SYSTEM_PROMPT_4, DETECT_SYSTEM_PROMPT_8, DETECT_SYSTEM_PROMPT_16, DETECT_SYSTEM_PROMPT_20
 from datasets import Dataset
 
 def init_openai_client(port=None, personal=False):
@@ -20,15 +20,16 @@ def init_openai_client(port=None, personal=False):
     )
 
 def init_azure_openai_client():
-    azure_openai_api_key = os.getenv("AZURE_OPENAI_API_KEY")
-    azure_openai_endpoint = os.getenv("AZURE_OPENAI_ENDPOINT")
+    azure_openai_endpoint = os.getenv("AZURE_TX_ENDPOINT")
+    azure_openai_api_key = os.getenv("AZURE_TX50k_KEY")
     return AzureOpenAI(
         api_key=azure_openai_api_key,
-        api_version="2024-05-13",
+        api_version="2023-09-01-preview",
         azure_endpoint=azure_openai_endpoint
     )
 
-def request_GPT(client, prompt, max_retries = 10, max_tokens=300, model="gpt-4o", system_prompt=None):
+
+def request_GPT(client, prompt, max_retries = 10, max_tokens=400, model="gpt-4o", system_prompt=None):
     num_try = 0
     # print(prompt)
     while num_try < max_retries:
@@ -48,60 +49,61 @@ def request_GPT(client, prompt, max_retries = 10, max_tokens=300, model="gpt-4o"
             print(f"Error: {e}")
             num_try += 1
 
-# def fix_json_string(input_str):
-#     # Step 1: Identify keys and wrap them in quotes if they are not already
-#     input_str = re.sub(r'(\w+):', r'"\1":', input_str)
-    
-#     # Step 2: Identify non-quoted string values and wrap them in quotes
-#     input_str = re.sub(r'("[^"]+":\s*)([^,\}\n]+)', r'\1"\2"', input_str)
-
-#     # Using a dictionary to temporarily store the key-value pairs
-#     escaped = input_str.replace('\\', '\\\\').replace('"', '\\"').replace('\n', '\\n')
-#     breakpoint()
-#     return escaped
-
 if __name__ == "__main__":
-    dir_path = "prompts/"
     parser = ArgumentParser(description="Detect gaps in the generated text")
-    parser.add_argument("--total_k", type=int, default=200, help="Total number of prompts to process")
+    parser.add_argument("mode", type=str, choices=['train', 'test'], help="Total number of prompts to process")
     args = parser.parse_args()
-    k = args.total_k
+    mode = args.mode
 
-    client = init_openai_client(personal=False)
-    # client = init_azure_openai_client()
-    ids = []
-    prompts = []
-    detection_results = []
-    exps = []
-    file_list=os.listdir(dir_path)
+    # client = init_openai_client(personal=False)
+    client = init_azure_openai_client()
     
-    for filename in tqdm(file_list[:k], desc="Detecting errors", total=k):
-        with open(os.path.join(dir_path, filename), "r") as f:
-            prompt = f.read()
-            response = ""
-            while response == "":
-                response = request_GPT(client, prompt, model="gpt-4o", system_prompt=DETECT_SYSTEM_PROMPT, max_tokens=400)
-                try:
-                    parsed_data = json.loads(response)
-                    assert "label" in parsed_data and "explanation" in parsed_data, Exception("Failure to parse or missing fields in JSON")
-                    ids.append(filename.split(".")[0].replace("test-", ""))
-                    prompts.append(prompt)
-                    if type(parsed_data['label']) == list:
-                        detection_results.append(parsed_data['label'])
-                    else:
-                        detection_results.append(list(parsed_data['label']))
-                    exps.append(str(parsed_data['explanation']))
-                except Exception as e:
-                    print(f"Failed to parse JSON: {e}")
-                    response = ""
+    if mode == "train":
+        dir_path = "prompts/train"
+    elif mode == "test":
+        dir_path = "prompts/test"
+        
+    file_list=os.listdir(dir_path)
+    model = os.getenv("AZURE_TX50k_DEV")
+    
+    prompt_num_map = {
+        1: 4,
+        2: 8,
+        3: 16,
+        4: 20
+    }
+    for prompt_idx, sys_prompt in enumerate([DETECT_SYSTEM_PROMPT_4, DETECT_SYSTEM_PROMPT_8, DETECT_SYSTEM_PROMPT_16, DETECT_SYSTEM_PROMPT_20]):
+        ids = []
+        prompts = []
+        detection_results = []
+        exps = []
+        for filename in tqdm(file_list, desc=f"Detecting errors with num_shots={prompt_num_map[prompt_idx+1]}", total=len(file_list)):
+            with open(os.path.join(dir_path, filename), "r") as f:
+                prompt = f.read()
+                response = ""
+                while response == "":
+                    response = request_GPT(client, prompt, model=model, system_prompt=sys_prompt)
+                    try:
+                        parsed_data = json.loads(response)
+                        assert "label" in parsed_data and "explanation" in parsed_data, Exception("Failure to parse or missing fields in JSON")
+                        ids.append(filename.split(".")[0].replace("test-", ""))
+                        prompts.append(prompt)
+                        if type(parsed_data['label']) == list:
+                            detection_results.append(parsed_data['label'])
+                        else:
+                            detection_results.append(list(parsed_data['label']))
+                        exps.append(str(parsed_data['explanation']))
+                    except Exception as e:
+                        print(f"Failed to parse JSON: {e}")
+                        response = ""
 
-    dataset = Dataset.from_dict({
-        "data_id": ids,
-        "prompt": prompts,
-        "labels": detection_results,
-        "explanations": exps
-    })
-    dataset.save_to_disk(f"gpt-4o-gap-detection-top_k={k}")
+        dataset = Dataset.from_dict({
+            "data_id": ids,
+            "prompt": prompts,
+            "labels": detection_results,
+            "explanations": exps
+        })
+        dataset.save_to_disk(f"outputs/gpt-4o-{mode}-num_shots={prompt_num_map[prompt_idx+1]}")
 
 
     

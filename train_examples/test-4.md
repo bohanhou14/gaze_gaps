@@ -30,7 +30,7 @@ recommendations. Consequently, the claims in Count I are adequately detailed und
 and judicial economy.  Report and recommendation of the magistrate is adopted.
 
 
-**Label:** 1, 2, 3 
+**Label:** 1, 2
 
 ***Meta-Llama-3-8B-Instruct:***
  <answer> I am happy to help you with your query. Based on the reference cases you provided,

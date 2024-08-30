@@ -27,7 +27,7 @@ the substitution process adheres to the flexible and just principles intended by
 the Federal Rules of Civil Procedure.
 
 
-**Label:** 2
+**Label:** 0
 
 
 ***Meta-Llama-3-8B-Instruct:***
@@ -51,7 +51,7 @@ allowing the parties to properly substitute a representative of the deceased and
 in a manner consistent with the Federal Rules of Civil Procedure.
 
 
-**Label:** 2, 3
+**Label:** 0
 
 
 ***Meta-Llama-3-8B-Instruct-finetuned:***

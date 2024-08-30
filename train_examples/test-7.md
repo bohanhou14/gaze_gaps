@@ -62,7 +62,7 @@ stockholders should be required to bring separate actions at law to enforce thei
 reasonable and consistent with the principles of equity and fairness.
 
 
-**Label:** 1, 2, 3
+**Label:** 2, 3
 
 
 ***Meta-Llama-3-8B-Instruct-finetuned:***
