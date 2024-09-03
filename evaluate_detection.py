@@ -10,9 +10,9 @@ def extract_integers_from_path(path):
     
     # Convert the extracted digit sequences to integers
     integers = [int(num) for num in integers]
-    assert len(integers) == 2, "The path should contain exactly two integers, path: {}".format(path)
-    
-    return integers[1]
+    assert len(integers) > 0, "No integers found in the path"
+
+    return integers[-1]
 
 def add_annotations(ax, bars):
     for bar in bars:
@@ -23,6 +23,7 @@ def add_annotations(ax, bars):
 if __name__ == "__main__":
     parser = ArgumentParser(description="Parse label lists from a text file")
     parser.add_argument("dataset_dir", help="directory containing the datasets to evaluate")
+    parser.add_argument("--model", type=str, help="Model to use for detection, for naming the plot", default="gpt-4o")
     args = parser.parse_args()
 
     dataset_paths = []
@@ -31,6 +32,8 @@ if __name__ == "__main__":
         if "human" in filename:
             dataset_paths.append(os.path.join(args.dataset_dir, filename))
 
+    # sort dataset_path by int in descending order
+    dataset_paths = sorted(dataset_paths, key=extract_integers_from_path)[::-1]
     exs, ps, rs, f1s = [], [], [], []
     
     for ds_path in dataset_paths:
@@ -61,6 +64,7 @@ if __name__ == "__main__":
         f1s.append(f1)
     
     shots_nums = [extract_integers_from_path(dataset_path) for dataset_path in dataset_paths]
+    
     plot_x = ["#=" + str(num) for num in shots_nums]
 
     plt.rcParams.update({
@@ -98,7 +102,7 @@ if __name__ == "__main__":
     add_annotations(axes[1, 1], bars)
     
     plt.tight_layout()
-    plt.savefig("metrics.png")
+    plt.savefig(f"{args.model}-metrics.png")
 
 
     

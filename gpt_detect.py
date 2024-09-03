@@ -38,7 +38,7 @@ def request_GPT(client, prompt, max_retries = 10, max_tokens=400, model="gpt-4o"
                 model=model,
                 messages=[
                     {"role": "system", "content": system_prompt},
-                    {"role": "user", "content": f"{prompt}"}
+                    {"role": "user", "content": prompt}
                 ],
                 max_tokens=max_tokens
             )
@@ -52,11 +52,18 @@ def request_GPT(client, prompt, max_retries = 10, max_tokens=400, model="gpt-4o"
 if __name__ == "__main__":
     parser = ArgumentParser(description="Detect gaps in the generated text")
     parser.add_argument("mode", type=str, choices=['train', 'test'], help="Total number of prompts to process")
+    parser.add_argument("--model", default="gpt-4o", type=str, help="Model to use for detection")
+    parser.add_argument("--port", type=int, help="Port to use for OpenAI API", default=8000)
     args = parser.parse_args()
     mode = args.mode
 
     # client = init_openai_client(personal=False)
-    client = init_azure_openai_client()
+    if args.model == "gpt-4o":
+        client = init_azure_openai_client()
+        model = os.getenv("AZURE_TX50k_DEV")
+    else:
+        client = init_openai_client(port=args.port)
+        model = args.model
     
     if mode == "train":
         dir_path = "prompts/train"
@@ -64,7 +71,7 @@ if __name__ == "__main__":
         dir_path = "prompts/test"
         
     file_list=os.listdir(dir_path)
-    model = os.getenv("AZURE_TX50k_DEV")
+    
     
     prompt_num_map = {
         1: 4,
@@ -103,7 +110,7 @@ if __name__ == "__main__":
             "labels": detection_results,
             "explanations": exps
         })
-        dataset.save_to_disk(f"outputs/gpt-4o-{mode}-num_shots={prompt_num_map[prompt_idx+1]}")
+        dataset.save_to_disk(f"outputs/gpt-4o-{mode}-model={model}-num_shots={prompt_num_map[prompt_idx+1]}")
 
 
     

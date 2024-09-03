@@ -28,7 +28,7 @@ def parse_labels(text):
 if __name__ == "__main__":
     parser = argparse.ArgumentParser(description="Parse label lists from a text file")
     parser.add_argument("parse_dir", help="parse human annotations from the assigned directory")
-    parser.add_argument("--detect_dataset")
+    parser.add_argument("--detect_dataset", help="detect dataset to add human annotations to")
     args = parser.parse_args()
 
     # parse human annotations
@@ -38,6 +38,8 @@ if __name__ == "__main__":
     file_list = os.listdir(path)
     sorted_file_list = sorted(file_list, key=lambda x: int(x.split('-')[1].split('.')[0]))
     for idx, filename in enumerate(sorted_file_list):
+        
+
         with open(os.path.join(path, filename), "r") as f:
             lines = f.readlines()
             text = " ".join(lines[1:])
